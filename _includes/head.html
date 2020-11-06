@@ -1,5 +1,6 @@
 <head>
     <meta charset="utf-8">
+
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     
@@ -12,7 +13,7 @@
   {% endif %}
   {% seo %}
     
-    <meta name="HandheldFriendly" content="True">
+
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     
@@ -22,6 +23,7 @@
     {% if site.google_ad_client %} 
         {% include google_adsense.html %} 
     {% endif %}
+    <!--<meta name="HandheldFriendly" content="True">-->
     <!--
     <link rel="stylesheet" href="{{ "/css/screen.css" | prepend: site.github.url | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/prism.css" | prepend: site.github.url | prepend: site.baseurl}}">
