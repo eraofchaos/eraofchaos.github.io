@@ -17,3 +17,6 @@ url:                "http://eraofchaos.github.io"
 google_ad_client:   ca-pub-3093097053913638
 
 theme: jekyll-theme-slate
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
