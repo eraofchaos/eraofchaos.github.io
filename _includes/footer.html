@@ -1,0 +1,16 @@
+  
+  <footer class="site-footer">
+    <button class="go-to-top"></button>
+    <div class="container">
+        
+    {% include social_short.html %}
+    <a href="/atom.xml" title="RSS Feed" itemprop="sameAs" class="icon-feed"></a>
+      <p class="copyright">
+         <a href="{{site.github.url | prepend: site.baseurl}}/" title="{{ site.title }}">{{site.title}}</a> &copy; {{ site.time | date: '%Y' }} &middot; <a href="{{site.github.url | prepend: site.baseurl}}/">Home</a>  &middot; <a href="{{site.github.url | prepend: site.baseurl}}/about/">About</a>
+      </p>
+      
+      <div>
+      <p class="poweredby">powered by <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a>
+      </p>
+    </div>
+  </footer>
