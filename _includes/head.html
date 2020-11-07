@@ -1,31 +1,43 @@
-<head>
-    <meta charset="utf-8">
+<meta charset="utf-8">
 
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    
-    {% if page.tags %}
-    <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}" />
-    {% elsif page.keywords %}
-    <meta name="keywords" content="{{ page.keywords | split: ' ' | join: ', ' | escape }}" />
-	{% elsif site.keywords %}
-    <meta name="keywords" content="{{ site.keywords | split: ' ' | join: ', ' | escape }}" />
-    {% endif %}
+{% include seo.html %}
 
-    
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
-    <meta name="robots" content="index,follow">
-    <meta name="googlebot" content="index,follow">
-    
-    {% if site.google_ad_client %} 
-        {% include google_adsense.html %} 
-    {% endif %}
-	
-    {% seo %}
-    <!--<meta name="HandheldFriendly" content="True">-->
-    <!--
-    <link rel="stylesheet" href="{{ "/css/screen.css" | prepend: site.github.url | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/prism.css" | prepend: site.github.url | prepend: site.baseurl}}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.github.url | prepend: site.baseurl }}">
-    -->
-</head>
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+
+{% if site.google_ad_client %} 
+    {% include google_adsense.html %} 
+{% endif %}
+
+{% if site.head_scripts %}
+  {% for script in site.head_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}
