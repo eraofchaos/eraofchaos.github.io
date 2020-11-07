@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords:           EraOfChaos HMM HeroesMightAndMagic
 language:           "en" 
 url:                "http://eraofchaos.github.io"
+logo: "/assets/images/logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 #theme: minimal-mistakes-jekyll
 
