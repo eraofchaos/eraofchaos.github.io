@@ -1,9 +1,7 @@
-## Welcome to Era Of Chaos
-
 This site contains information about Era Of Chaos mobile game.
+Sorry, Right now this web site is Under Construct
 
-### WIKI is Under Construct
-
+You will find here:
 ### Heroes
 ### Units
 ### Artifacts
@@ -13,6 +11,4 @@ This site contains information about Era Of Chaos mobile game.
 ### Emblem
 ### Guild
 
-### Support or Contact
-
-TBD
+More TBD...
