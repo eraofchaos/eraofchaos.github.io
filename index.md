@@ -2,11 +2,16 @@
 
 This site contains information about Era Of Chaos mobile game.
 
-### Under construct
+### WIKI is Under Construct
 
 ### Heroes
 ### Units
-### War maschine
+### Artifacts
+
+### War Maschines
+### Battlefield Backup
+### Emblem
+### Guild
 
 ### Support or Contact
 
