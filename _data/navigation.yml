@@ -11,12 +11,12 @@
 
 # documentation links
 docs:
-  - title: "Heroes"
+  - title: "Navigation"
     children:
-    - title: "Hero 1"
-      url: /heroes/hero1/
-    - title: "Hero 2"
-      url: /heroes/hero2/
+    - title: "Heroes"
+      url: /heroes/
+    - title: "Units"
+      url: /units/
   - title: "Language"
     children:
       - title: "Русский"
@@ -25,16 +25,26 @@ docs:
         url: /de/
       - title: "Italiano"
         url: /it/
+      - title: "Français"
+        url: /fr/
+      - title: "English"
+        url: /
+      - title: "Italiano"
+        url: /it/
+      - title: "Español"
+        url: /es/
+      - title: "中文"
+        url: /cn/
 
-#        ru = "Русский",
-#        de = "Deutsch",
+#+        ru = "Русский",
+#+        de = "Deutsch",
 #        th = "ไทย",
-#        cn = "中文",
+#+        cn = "中文",
 #        jp = "日本語",
-#        fr = "Français",
+#+        fr = "Français",
 #        zh_tw = "繁體中文",
-#        en = "English",
-#        it = "Italiano",
+#+        en = "English",
+#+        it = "Italiano",
 #        br = "Português brasileiro",
 #        in = "Bahasa Indonesia",
-#        es = "Español"
+#+        es = "Español"
