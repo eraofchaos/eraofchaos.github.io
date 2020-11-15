@@ -1,0 +1,49 @@
+---
+title: "Dragon Mutare"
+permalink: /heroes/Dragon Mutare/
+excerpt: "After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
+heroID: 61302
+last_modified_at: 2020-11-15
+lang: en
+ref: "Dragon Mutare"
+toc: true
+---
+# Dragon Mutare
+> **Description:**: After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father.
+## Details
+> **Profession:**: Overlord
+> **Race:**: Dungeon
+> **Rate:**: R
+> **Specialty:**: Dragon Awakes
+> **Mana base:**: 20
+> **Mana recovery:**: 2.5
+>  | Stars   |     Attack     |    Deffence    |      Specialty     |
+>  |---------|:---------------:|:---------------:|--------------------|
+>  |    1    | 12 | 18 | TBD |
+>  |    2    | 18 | 27 | TBD |
+>  |    3    | 24 | 36 | TBD |
+>  |    4    | 30 | 45 | TBD |
+## Spells
+ ### 1 Spell: Fire arrow
+ Desciption: Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and [color=e07c44,fontsize=20]burns[-] them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ ### 2 Spell: Curse
+ Desciption: Decreases units' ATK of targeted enemy within a large range by [color=48b946,fontsize=20]{-($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ ### 3 Spell: Slayer
+ Desciption: Increases ATK by [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ ### 4 Spell: Dragon Roar
+ Desciption: Inflict [color=e07c44,fontsize=20]Bleed[-] on all enemy units, dealing damage equal to [color=48b946,fontsize=20]{($ovaluepro21+$ovaluepro22*($sklevel-1))}%[-] of their Max HP every 2s, lasting for 16s, and [color=e07c44,fontsize=20]stun[-] them for 6s. Some units may become immune to the [color=e07c44,fontsize=20]bleed[-] damage, and the [color=e07c44,fontsize=20]bleeding[-] units have reduced healing received.
+## HERO Biography
+## HERO Skins
+ ### Name: Classic
+ Desciption: [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Might is right in a dog-eat-dog world. For Nighon, there is no way out except endless war.[-]
+ ### Name: Enchanted Dragon
+ Desciption: [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The sky is partitioned by groups of stars. The changes of stars impact the fortunes of all under the heavens. When the changing stars are back in situ, the light symbolizing the dragon will rule the sky.[-]
+ **Skin features:** 
+   - Enchanted Dragon Constellation
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
+## Initial Mastery
+   - Offense
+   - Sorcery
+   - Scholar
+   - Pathfinding

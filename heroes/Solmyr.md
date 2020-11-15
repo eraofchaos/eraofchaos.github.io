@@ -1,0 +1,58 @@
+---
+title: "Solmyr"
+permalink: /heroes/Solmyr/
+excerpt: "Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him."
+heroID: 61201
+last_modified_at: 2020-11-15
+lang: en
+ref: "Solmyr"
+toc: true
+---
+# Solmyr
+> **Description:**: Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him.
+## Details
+> **Profession:**: Wizard
+> **Race:**: Tower
+> **Rate:**: SR
+> **Specialty:**: Chain Lightning
+> **Mana base:**: 43
+> **Mana recovery:**: 2.5
+>  | Stars   |     Attack     |  Intelligence  |      Specialty     |
+>  |---------|:---------------:|:---------------:|--------------------|
+>  |    1    | 12 | 18 | TBD |
+>  |    2    | 18 | 27 | TBD |
+>  |    3    | 24 | 36 | TBD |
+>  |    4    | 30 | 45 | TBD |
+## Spells
+ ### 1 Spell: Air Arrow
+ Desciption: Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ ### 2 Spell: Lightning Bolt
+ Desciption: Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
+ ### 3 Spell: Wind Wall
+ Desciption: Summons 1 Wall of Wind which increases dodge by {[color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%[-] and movement speed by {$buffaddattr22+$buffaddattr23*($sklevel-1)} for friendly units which pass through it, lasting for {$olast11/1000}s.
+ ### 4 Spell: Chain Lightning
+ Desciption: Fires 1 bolt of lightning which jumps 5 times across different enemy units. Each jump deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> air spell damage.
+## HERO Biography
+   - A new consciousness began to form in the Mind's Maze...
+   - Solmyr freed himself from the control of the ancient gods. But this was in violation of the laws of the gods.
+   - Because he angered the ancient gods, Solmyr was imprisoned in a magic bottle and thrown into the sea.
+   - A Bracada Mage apprentice found a bottle on the beach.
+   - Solmyr snuck into a castle long-abandoned by the ancient gods to search for the secrets of immortality for Gavin Magnus.
+## HERO Skins
+ ### Name: Classic
+ Desciption: [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I pledge allegiance only to the King of Bracada who has freed me from my glassy prison! [-]
+ **Skin features:** 
+   - Male Mystical Being
+   - Air Elemental
+   - Lord of the Lamps
+ ### Name: Devil in a Bottle
+ Desciption: [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Four centuries after he was sunk to the depths of the sea, the devil in the bottle swore an oath to kill the man who releases him from the seal. [-]
+ **Skin features:** 
+   - Devil Left Trapped for 1,800 Years
+   - All-new hero design
+   - Unique avatar
+## Initial Mastery
+   - Offense
+   - Sorcery
+   - Scholar
+   - Pathfinding

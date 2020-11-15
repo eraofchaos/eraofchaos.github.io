@@ -1,9 +1,40 @@
-main:
-  - title: "Posts"
+﻿main:
+  - title: "News"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+#  - title: "Categories"
+#    url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
+
+
+# documentation links
+docs:
+  - title: "Heroes"
+    children:
+    - title: "Hero 1"
+      url: /heroes/hero1/
+    - title: "Hero 2"
+      url: /heroes/hero2/
+  - title: "Language"
+    children:
+      - title: "Русский"
+        url: /ru/
+      - title: "Deutsch"
+        url: /de/
+      - title: "Italiano"
+        url: /it/
+
+#        ru = "Русский",
+#        de = "Deutsch",
+#        th = "ไทย",
+#        cn = "中文",
+#        jp = "日本語",
+#        fr = "Français",
+#        zh_tw = "繁體中文",
+#        en = "English",
+#        it = "Italiano",
+#        br = "Português brasileiro",
+#        in = "Bahasa Indonesia",
+#        es = "Español"
