@@ -9,7 +9,7 @@ This site contains information about Era Of Chaos mobile game.
 Sorry, Right now this web site is Under Construct
 
 You will find here:
-### <i class="fas fa-chess-king"></i>[Heroes](/heroes/) 
+### <i class="fas fa-chess-king"/>[Heroes](/heroes/) 
 ### Units
 ### Artifacts
 

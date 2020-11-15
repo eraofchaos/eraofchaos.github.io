@@ -6,6 +6,8 @@ last_modified_at: 2020-11-15
 lang: en
 ref: "index.md"
 toc: false
+sidebar:
+  nav: "docs"
 ---
 # Heroes
 >  | Nr |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     |
