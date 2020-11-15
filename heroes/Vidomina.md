@@ -11,11 +11,17 @@ toc: true
  **Description:** Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. 
 ## Details
  **Profession:** Necromancer
+
  **Race:** Necropolis
+
  **Rate:** R
+
  **Specialty:** Necromancer
+
  **Mana base:** 34
+
  **Mana recovery:** 2.5
+
 
   | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
@@ -26,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Necromancy
- **Desciption:** Summons 9 Skeletons of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Skeletons will remain for 20s with an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-].
+ **Description:** Summons 9 Skeletons of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Skeletons will remain for 20s with an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-].
 
 ### 3 Spell: Animate Dead
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 4 Spell: Undead Army
- **Desciption:** Summons Skeletons of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-].
+ **Description:** Summons Skeletons of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-].
 
 ## HERO Biography
    - An experiment labeled as heresy helps Vidomina find the reason of life...
@@ -44,14 +50,14 @@ toc: true
    - The eager lord of Deyja extends an olive branch...
    - Vidomina goes to save Sandro who was imprisoned by Finneas Vilmar when Erathia was at war.
 ## HERO Skins
-### Name: **Classic**
+### Skin 1: **Classic**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Death is like a celestial body; it draws in tides of bones that engulf everything! [-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Death is like a celestial body; it draws in tides of bones that engulf everything! [-]
 
 
-### Name: **Candy Witch**
+### Skin 2: **Candy Witch**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Pure souls are always attracted by festivals and candy.[-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Pure souls are always attracted by festivals and candy.[-]
 
  **Skin features:** 
 
@@ -59,9 +65,9 @@ toc: true
    - All-new Battle Image
    - Unique Avatar
 
-### Name: **Heresy Apprentice**
+### Skin 3: **Heresy Apprentice**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Most only see the ugliness and chaos of death, but I see the truth of eternity.[-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Most only see the ugliness and chaos of death, but I see the truth of eternity.[-]
 
  **Skin features:** 
 

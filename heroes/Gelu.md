@@ -11,11 +11,17 @@ toc: true
  **Description:** Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal.
 ## Details
  **Profession:** Ranger
+
  **Race:** Rampart
+
  **Rate:** SR+
+
  **Specialty:** Sharpshooter
+
  **Mana base:** 20
+
  **Mana recovery:** 2.5
+
 
   | Stars   |     Attack     |    Knowledge   |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
@@ -26,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Stone Skin
- **Desciption:** Gives a [color=e07c44,fontsize=20]shield[-] to friendly units in a certain range, that absorbs [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a [color=e07c44,fontsize=20]shield[-] to friendly units in a certain range, that absorbs [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Precision
- **Desciption:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
 
 ### 4 Spell: Frenzy
- **Desciption:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
 
 ## HERO Biography
    - Gelu was an excellent scout even when he was young and as he has aged, his talents have increased tenfold.
@@ -44,9 +50,9 @@ toc: true
    - Gelu demonstrated his abilities at the very beginning of the Erathian Restoration War, especially in the battle of Tulare.
    - Lore of Gelu 5
 ## HERO Skins
-### Name: **Classic**
+### Skin 1: **Classic**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Gelu's life story is shrouded in mystery. The only thing people are sure of is that he's a half-elf, probably with Vori blood on his elven side. [-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Gelu's life story is shrouded in mystery. The only thing people are sure of is that he's a half-elf, probably with Vori blood on his elven side. [-]
 
  **Skin features:** 
 
@@ -54,9 +60,9 @@ toc: true
    - All-new hero design
    - Unique avatar
 
-### Name: **Scout Team**
+### Skin 2: **Scout Team**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Sharpshooters under Gelu's command bring fear to the hearts of their enemies. Multiple enemy officers have been killed by their arrows from far behind the front line. [-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Sharpshooters under Gelu's command bring fear to the hearts of their enemies. Multiple enemy officers have been killed by their arrows from far behind the front line. [-]
 
  **Skin features:** 
 

@@ -11,11 +11,17 @@ toc: true
  **Description:** Even though he's in a wholly different world, Ezio continues to hold fast to his conviction. He works in the dark to serve the light.
 ## Details
  **Profession:** 
+
  **Race:** Neutral Army
+
  **Rate:** R+
+
  **Specialty:** Brotherhood
+
  **Mana base:** 20
+
  **Mana recovery:** 2.5
+
 
   | Stars   |     Attack     |    Deffence    |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
@@ -26,27 +32,27 @@ toc: true
 
 ## Spells
 ### 1 Spell: Hidden Blade Assassination
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting [color=e07c44,fontsize=20]bleeding[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting [color=e07c44,fontsize=20]bleeding[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Stealth
- **Desciption:** Grants Stealth to friendly units within a large range, making them immune to unit damage for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
 
 ### 3 Spell: Quiet
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting [color=e07c44,fontsize=20]silence[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting [color=e07c44,fontsize=20]silence[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Eagle Vision
- **Desciption:** Grants [color=e07c44,fontsize=20]Hawkeye[-] to all friendly units while increasing Critical Hit and Accuracy by 900 for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Grants [color=e07c44,fontsize=20]Hawkeye[-] to all friendly units while increasing Critical Hit and Accuracy by 900 for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
 
 ## HERO Biography
 ## HERO Skins
-### Name: **null**
+### Skin 1: **null**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]A mysterious person from a different world. Possesses extraordinary assassination skills.[-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]A mysterious person from a different world. Possesses extraordinary assassination skills.[-]
 
 
-### Name: **Revelations**
+### Skin 2: **Revelations**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]After experiencing countless deaths and glory, his steps no longer waver.[-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]After experiencing countless deaths and glory, his steps no longer waver.[-]
 
  **Skin features:** 
 

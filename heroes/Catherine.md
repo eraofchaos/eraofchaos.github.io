@@ -11,11 +11,17 @@ toc: true
  **Description:** As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. 
 ## Details
  **Profession:** Knight
+
  **Race:** Castle
+
  **Rate:** R
+
  **Specialty:** Iron Crusader
+
  **Mana base:** 14
+
  **Mana recovery:** 2.5
+
 
   | Stars   |     Attack     |    Deffence    |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
@@ -26,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and [color=e07c44,fontsize=20]stuns[-] them for 3s.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and [color=e07c44,fontsize=20]stuns[-] them for 3s.
 
 ### 2 Spell: Mirth
- **Desciption:** Grants [color=e07c44,fontsize=20]High Morale[-] to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Grants [color=e07c44,fontsize=20]High Morale[-] to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Slayer
- **Desciption:** Increases ATK by [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Description:** Increases ATK by [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
 ### 4 Spell: Blizzard
- **Desciption:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}[-]<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and [color=e07c44,fontsize=20]slows[-] them for 8s.
+ **Description:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}[-]<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and [color=e07c44,fontsize=20]slows[-] them for 8s.
 
 ## HERO Biography
    - The most difficult battle for Catherine was also one of the last; the battle of Griffin Cliff, where her troops defeated a mighty army of devils. The conflict formally announced her return to the throne.
@@ -44,9 +50,9 @@ toc: true
    - The crusaders were at the lowest rank in Erathia's military, hard-working and barely paid. But the return of Queen Catherine changed this.
    - It was in a Steadwick palace where Catherine met Roland for the first time...
 ## HERO Skins
-### Name: **Classic**
+### Skin 1: **Classic**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]There never was a Saviour! Save yourselves! Take up your arms and protect all that you love! [-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]There never was a Saviour! Save yourselves! Take up your arms and protect all that you love! [-]
 
  **Skin features:** 
 
@@ -54,9 +60,9 @@ toc: true
    - All-new hero design
    - Unique avatar
 
-### Name: **Captain**
+### Skin 2: **Captain**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]We shall sail toward Erathia and fight for justice. [-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]We shall sail toward Erathia and fight for justice. [-]
 
  **Skin features:** 
 
@@ -64,9 +70,9 @@ toc: true
    - All-new hero design
    - Unique avatar
 
-### Name: **Royal Wedding**
+### Skin 3: **Royal Wedding**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I hope our union will bring peace to the nation and happiness to our people. [-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I hope our union will bring peace to the nation and happiness to our people. [-]
 
  **Skin features:** 
 
@@ -74,9 +80,9 @@ toc: true
    - All-new hero design
    - Unique avatar
 
-### Name: **Socialite**
+### Skin 4: **Socialite**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]If it weren't for all of the party guests, I could see my father's palace from across the garden. That green light shines through the night to guide me home. [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1] - Catherine, speaking to her friend Christine.[-][]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]If it weren't for all of the party guests, I could see my father's palace from across the garden. That green light shines through the night to guide me home. [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1] - Catherine, speaking to her friend Christine.[-][]
 
  **Skin features:** 
 

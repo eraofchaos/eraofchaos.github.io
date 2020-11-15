@@ -11,11 +11,17 @@ toc: true
  **Description:** Astral came to Erathia about a decade ago and was quickly accepted by the mage guild of Bracada. After obtaining a high rank in the guild, some joked that he must have used magic to get there so quickly.
 ## Details
  **Profession:** Wizard
+
  **Race:** Tower
+
  **Rate:** SSR
+
  **Specialty:** Magic Amplification
+
  **Mana base:** 45
+
  **Mana recovery:** 2.5
+
 
   | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
@@ -26,22 +32,22 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Total Darkness
- **Desciption:** [color=e07c44,fontsize=20]Blinds[-] enemy units within a large range, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** [color=e07c44,fontsize=20]Blinds[-] enemy units within a large range, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
 
 ### 3 Spell: Lightning Bolt
- **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
+ **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
 
 ### 4 Spell: Brilliant Earth
- **Desciption:** [color=e07c44,fontsize=20]Blinds[-] all hostile units and decreases their accuracy by 1000, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** [color=e07c44,fontsize=20]Blinds[-] all hostile units and decreases their accuracy by 1000, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
 
 ## HERO Biography
 ## HERO Skins
-### Name: **Classic**
+### Skin 1: **Classic**
 
- **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]There are two kinds of people in the world: The chess players and the chess pieces. Which one do you want to be?[-]
+ **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]There are two kinds of people in the world: The chess players and the chess pieces. Which one do you want to be?[-]
 
 
 ## Initial Mastery
