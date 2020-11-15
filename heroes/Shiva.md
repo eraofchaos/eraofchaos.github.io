@@ -8,48 +8,41 @@ lang: en
 ref: "Shiva"
 toc: true
 ---
-> **Description:**: Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead.
+ **Description:** Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead.
 ## Details
-> **Profession:**: Barbarian
+ **Profession:** Barbarian
+ **Race:** Stronghold
+ **Rate:** R
+ **Specialty:** Stormbringer
+ **Mana base:** 24
+ **Mana recovery:** 2.5
 
-> **Race:**: Stronghold
+  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
+  |---------|:---------------:|:---------------:|--------------------|
+  |    1    | 12 | 6 | TBD |
+  |    2    | 18 | 9 | TBD |
+  |    3    | 24 | 12 | TBD |
+  |    4    | 30 | 15 | TBD |
 
-> **Rate:**: R
-
-> **Specialty:**: Stormbringer
-
-> **Mana base:**: 24
-
-> **Mana recovery:**: 2.5
-
->  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
->  |---------|:---------------:|:---------------:|--------------------|
->  |    1    | 12 | 6 | TBD |
->  |    2    | 18 | 9 | TBD |
->  |    3    | 24 | 12 | TBD |
->  |    4    | 30 | 15 | TBD |
 ## Spells
- ### 1 Spell: Fire arrow
+### 1 Spell: Fire arrow
+ **Desciption:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and [color=e07c44,fontsize=20]burns[-] them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
- Desciption: Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and [color=e07c44,fontsize=20]burns[-] them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+### 2 Spell: Air Shield
+ **Desciption:** Increases the dodge of friendly units within a certain range by {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% and grants them immunity to air spell damage, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
- ### 2 Spell: Air Shield
+### 3 Spell: Air Elemental
+ **Desciption:** Summon 9 Air Elementals of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Air Elementals will remain for 20s and attack from a distance with an ATK of [color=48b946,fontsize=20]{220+60*($sklevel-1)}[-]<(220+60*($sklevel-1))*$talent14+$talent13> and HP of [color=48b946,fontsize=20]{3900+1694*($sklevel-1)}[-]<(3900+1694*($sklevel-1))*$talent14+$talent13>.
 
- Desciption: Increases the dodge of friendly units within a certain range by {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% and grants them immunity to air spell damage, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
-
- ### 3 Spell: Air Elemental
-
- Desciption: Summon 9 Air Elementals of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Air Elementals will remain for 20s and attack from a distance with an ATK of [color=48b946,fontsize=20]{220+60*($sklevel-1)}[-]<(220+60*($sklevel-1))*$talent14+$talent13> and HP of [color=48b946,fontsize=20]{3900+1694*($sklevel-1)}[-]<(3900+1694*($sklevel-1))*$talent14+$talent13>.
-
- ### 4 Spell: Storm
-
- Desciption: Summons a storm in the target area, dealing [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}[-]<(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all units in a certain area every 0.5s and reducing their ATK speed by 15%, lasting for {$olast11/1000}s.
+### 4 Spell: Storm
+ **Desciption:** Summons a storm in the target area, dealing [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}[-]<(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all units in a certain area every 0.5s and reducing their ATK speed by 15%, lasting for {$olast11/1000}s.
 
 ## HERO Biography
 ## HERO Skins
- ### Name: **Classic**
+### Name: **Classic**
 
- Desciption: [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The storm is the wings with which I fly. The sky is my hunting ground! [-]
+ **Desciption:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The storm is the wings with which I fly. The sky is my hunting ground! [-]
+
 
 ## Initial Mastery
    - Offense
