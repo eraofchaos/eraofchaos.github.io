@@ -8,15 +8,20 @@ lang: en
 ref: "Mutare"
 toc: true
 ---
-# Mutare
 > **Description:**: As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars.
 ## Details
 > **Profession:**: Overlord
+
 > **Race:**: Dungeon
+
 > **Rate:**: SSR
+
 > **Specialty:**: Dungeon Torrent
+
 > **Mana base:**: 20
+
 > **Mana recovery:**: 2.5
+
 >  | Stars   |     Attack     |    Deffence    |      Specialty     |
 >  |---------|:---------------:|:---------------:|--------------------|
 >  |    1    | 8 | 10 | TBD |
@@ -25,17 +30,27 @@ toc: true
 >  |    4    | 20 | 25 | TBD |
 ## Spells
  ### 1 Spell: Fire arrow
+
  Desciption: Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and [color=e07c44,fontsize=20]burns[-] them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
  ### 2 Spell: Meteor Shower
+
  Desciption: Summons meteors in the target area, dealing earth spell damage 6 times (adds up to [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2}[-]<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*$talent2+$talent1>) to enemy units and the damage to [color=e07c44,fontsize=20]stunned[-] targets doubles.
+
  ### 3 Spell: Frantic
+
  Desciption: Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage). while increasing the damage they deal by [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
  ### 4 Spell: Landslide
+
  Desciption: Deal [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))}[-]<($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage to enemy units in the AoE every 0.8s. These units are also [color=e07c44,fontsize=20]stunned[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s. The effect lasts for {$olast11/1000}s.
+
 ## HERO Biography
 ## HERO Skins
- ### Name: Classic
+ ### Name: **Classic**
+
  Desciption: [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Nighon struggles for status and territories through a war of blood and fire![-]
+
 ## Initial Mastery
    - Offense
    - Sorcery
