@@ -3,7 +3,7 @@ title: "Human Sandro"
 permalink: /heroes/Human Sandro/
 excerpt: "Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him."
 heroID: 60503
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Human Sandro"
 toc: true
@@ -32,18 +32,20 @@ toc: true
 
 ## Spells
 ### 1 Spell: Necromancy
- **Description:** Summons 9 Skeletons of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Skeletons will remain for 20s with an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-].
+ **Description:** Summons 9 Skeletons of Lv.<span style="color: 48b946">]{$sklevel}</span> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: 48b946">]{250+68*($sklevel-1)}</span> and HP of <span style="color: 48b946">]{2800+1216*($sklevel-1)}</span>.
 
 ### 2 Spell: Earth Elemental
- **Description:** Summons 4 Earth Elementals of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Earth Elementals will remain for the whole battle with an ATK of [color=48b946,fontsize=20]{440+120*($sklevel-1)}[-]<(440+120*($sklevel-1))*$talent14+$talent13> and HP of [color=48b946,fontsize=20]{9600+4170*($sklevel-1)}[-]<(9600+4170*($sklevel-1))*$talent14+$talent13>.
+ **Description:** Summons 4 Earth Elementals of Lv.<span style="color: 48b946">]{$sklevel}</span> in the target area. Earth Elementals will remain for the whole battle with an ATK of <span style="color: 48b946">]{440+120*($sklevel-1)}</span><(440+120*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: 48b946">]{9600+4170*($sklevel-1)}</span><(9600+4170*($sklevel-1))*$talent14+$talent13>.
 
 ### 3 Spell: Animate Dead
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 4 Spell: Under Shadow
- **Description:** Summons a shadow that lasts for 10s, dealing [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))}[-]<($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage on enemy units within range every second, and reduces their ATK speed by 30%. Meanwhile, increases the ATK speed and life drain of friendly Necropolis units by 30%.
+ **Description:** Summons a shadow that lasts for 10s, dealing <span style="color: 48b946">]{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage on enemy units within range every second, and reduces their ATK speed by 30%. Meanwhile, increases the ATK speed and life drain of friendly Necropolis units by 30%.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
@@ -59,6 +61,7 @@ toc: true
    - Fate Augur
    - All-new Battle Image
    - Unique Avatar
+
 
 ## Initial Mastery
    - Resistance

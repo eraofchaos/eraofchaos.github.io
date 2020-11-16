@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Wystan is the eldest son-in-law of King Tralossk and the second successor to the throne. He's been waiting for the day when he ascends to the throne."
 heroID: 61504
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Wystan"
 toc: true
@@ -32,22 +32,25 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and [color=e07c44,fontsize=20]stuns[-] them for 3s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: e07c44">]stuns</span> them for 3s.
 
 ### 2 Spell: Slayer
- **Description:** Increases ATK by [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Description:** Increases ATK by <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: 48b946">]%</span> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
 ### 3 Spell: Stone Skin
- **Description:** Gives a [color=e07c44,fontsize=20]shield[-] to friendly units in a certain range, that absorbs [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: e07c44">]shield</span> to friendly units in a certain range, that absorbs <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Morass
- **Description:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by [color=e07c44,fontsize=20]10%[-] and restore HP by [color=e07c44,fontsize=20]3%[-] of their Max HP every second; reduces ATK speed by [color=e07c44,fontsize=20]30%[-] and movement speed by [color=e07c44,fontsize=20]60[-] for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Description:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: e07c44">]10%</span> and restore HP by <span style="color: e07c44">]3%</span> of their Max HP every second; reduces ATK speed by <span style="color: e07c44">]30%</span> and movement speed by <span style="color: e07c44">]60</span> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
  **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]There is much to learn before I become king.[-]
+
 
 
 ## Initial Mastery

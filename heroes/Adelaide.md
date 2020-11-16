@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "As a young woman, shipwrecked and alone, Adelaide stumbled into Snow Elf territory. She underwent 20 years of training with her rescuers and became the most powerful mage in the kingdom before returning to Erathia."
 heroID: 60001
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Adelaide"
 toc: true
@@ -32,18 +32,20 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frozen Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and [color=e07c44,fontsize=20]slows[-] them for 8s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: e07c44">]slows</span> them for 8s.
 
 ### 2 Spell: Ice Bolt
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage to enemy units within a certain range, and deals additional [color=48b946,fontsize=20]{($valueadd21+$valueadd22*($sklevel-1))}[-]<($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> water spell damage to [color=e07c44,fontsize=20]slowed [-] targets.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage to enemy units within a certain range, and deals additional <span style="color: 48b946">]{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> water spell damage to <span style="color: e07c44">]slowed </span> targets.
 
 ### 3 Spell: Ice Wall
- **Description:** Summons 1 Ice Wall which [color=e07c44,fontsize=20]freezes[-] nearby enemy units for {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Description:** Summons 1 Ice Wall which <span style="color: e07c44">]freezes</span> nearby enemy units for {($olast11+$olast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Frost Ring
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage on enemy units within a very large range, and [color=e07c44,fontsize=20]freezes[-] to [color=e07c44,fontsize=20]slowed down[-] targets for 5s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage on enemy units within a very large range, and <span style="color: e07c44">]freezes</span> to <span style="color: e07c44">]slowed down</span> targets for 5s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
@@ -83,6 +85,7 @@ toc: true
    - A happy maid receiving gifts
    - All-new Battle Image
    - Unique Avatar
+
 
 ## Initial Mastery
    - Wisdom

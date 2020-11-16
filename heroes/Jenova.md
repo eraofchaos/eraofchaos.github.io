@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages"
 heroID: 60202
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Jenova"
 toc: true
@@ -32,22 +32,25 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Wind Wall
- **Description:** Summons 1 Wall of Wind which increases dodge by {[color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%[-] and movement speed by {$buffaddattr22+$buffaddattr23*($sklevel-1)} for friendly units which pass through it, lasting for {$olast11/1000}s.
+ **Description:** Summons 1 Wall of Wind which increases dodge by {<span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span> and movement speed by {$buffaddattr22+$buffaddattr23*($sklevel-1)} for friendly units which pass through it, lasting for {$olast11/1000}s.
 
 ### 3 Spell: Air Shield
- **Description:** Increases the dodge of friendly units within a certain range by {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% and grants them immunity to air spell damage, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Increases the dodge of friendly units within a certain range by {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% and grants them immunity to air spell damage, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 4 Spell: Heart of Purity
- **Description:** Summon 4 Unicorn Kings of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. They will remain for 20s with an ATK of [color=48b946,fontsize=20]{1200+320*($sklevel-1)}[-] and a HP of [color=48b946,fontsize=20]{5000+2200*($sklevel-1)}[-].
+ **Description:** Summon 4 Unicorn Kings of Lv.<span style="color: 48b946">]{$sklevel}</span> in the target area. They will remain for 20s with an ATK of <span style="color: 48b946">]{1200+320*($sklevel-1)}</span> and a HP of <span style="color: 48b946">]{5000+2200*($sklevel-1)}</span>.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
  **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]No one understands Unicorns more than I do. Because they are my only family.[-]
+
 
 
 ## Initial Mastery

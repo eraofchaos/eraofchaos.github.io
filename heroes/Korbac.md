@@ -3,7 +3,7 @@ title: "Korbac"
 permalink: /heroes/Korbac/
 excerpt: "Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia."
 heroID: 61502
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Korbac"
 toc: true
@@ -32,22 +32,25 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and [color=e07c44,fontsize=20]stuns[-] them for 3s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: e07c44">]stuns</span> them for 3s.
 
 ### 2 Spell: Ice Shield
- **Description:** Grants water spell damage immunity to targeted friendly units within a large range for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Enemy units that attack your shielded units are [color=e07c44,fontsize=20]slowed[-] for 3s.
+ **Description:** Grants water spell damage immunity to targeted friendly units within a large range for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Enemy units that attack your shielded units are <span style="color: e07c44">]slowed</span> for 3s.
 
 ### 3 Spell: Mirth
- **Description:** Grants [color=e07c44,fontsize=20]High Morale[-] to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Grants <span style="color: e07c44">]High Morale</span> to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 4 Spell: Nest of Serpent Flies
- **Description:** Builds a Nest of Serpent Flies in target area, and summons 1 Lv.[color=48b946,fontsize=20]{$sklevel}[-] Serpent unit, which has an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and an HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-]. Lasts for 20s.
+ **Description:** Builds a Nest of Serpent Flies in target area, and summons 1 Lv.<span style="color: 48b946">]{$sklevel}</span> Serpent unit, which has an ATK of <span style="color: 48b946">]{250+68*($sklevel-1)}</span> and an HP of <span style="color: 48b946">]{2800+1216*($sklevel-1)}</span>. Lasts for 20s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
  **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]You won't be able to prove the meaning of your existence unless you prevail in the war.[-]
+
 
 
 ## Initial Mastery

@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars."
 heroID: 61301
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Mutare"
 toc: true
@@ -32,22 +32,25 @@ toc: true
 
 ## Spells
 ### 1 Spell: Fire arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and [color=e07c44,fontsize=20]burns[-] them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: e07c44">]burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Meteor Shower
- **Description:** Summons meteors in the target area, dealing earth spell damage 6 times (adds up to [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2}[-]<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*$talent2+$talent1>) to enemy units and the damage to [color=e07c44,fontsize=20]stunned[-] targets doubles.
+ **Description:** Summons meteors in the target area, dealing earth spell damage 6 times (adds up to <span style="color: 48b946">]{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2}</span><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*$talent2+$talent1>) to enemy units and the damage to <span style="color: e07c44">]stunned</span> targets doubles.
 
 ### 3 Spell: Frantic
- **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage). while increasing the damage they deal by [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage). while increasing the damage they deal by <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: 48b946">]%</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Landslide
- **Description:** Deal [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))}[-]<($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage to enemy units in the AoE every 0.8s. These units are also [color=e07c44,fontsize=20]stunned[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s. The effect lasts for {$olast11/1000}s.
+ **Description:** Deal <span style="color: 48b946">]{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage to enemy units in the AoE every 0.8s. These units are also <span style="color: e07c44">]stunned</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s. The effect lasts for {$olast11/1000}s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
  **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Nighon struggles for status and territories through a war of blood and fire![-]
+
 
 
 ## Initial Mastery

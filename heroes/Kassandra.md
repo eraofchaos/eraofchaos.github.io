@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Kassandra's outstanding combat skills are due to the Spartan education she received as a child. After the Spartan left her for dead at Mount Taygetos, she became a mercenary."
 heroID: 62001
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Kassandra"
 toc: true
@@ -32,18 +32,20 @@ toc: true
 
 ## Spells
 ### 1 Spell: Hidden Blade Assassination
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting [color=e07c44,fontsize=20]bleeding[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: e07c44">]bleeding</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Frantic
- **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage). while increasing the damage they deal by [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage). while increasing the damage they deal by <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: 48b946">]%</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Quiet
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting [color=e07c44,fontsize=20]silence[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: e07c44">]silence</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: The Spear of Leonidas
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting [color=e07c44,fontsize=20]burning[-] and [color=e07c44,fontsize=20]stun[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: e07c44">]burning</span> and <span style="color: e07c44">]stun</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **null**
 
@@ -58,6 +60,7 @@ toc: true
 
    - A versatile warrior who has mastered new combat skills.
    - 
+
 
 ## Initial Mastery
    - Wisdom

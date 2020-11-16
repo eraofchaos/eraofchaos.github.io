@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. "
 heroID: 60502
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Vidomina"
 toc: true
@@ -32,16 +32,17 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Necromancy
- **Description:** Summons 9 Skeletons of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Skeletons will remain for 20s with an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-].
+ **Description:** Summons 9 Skeletons of Lv.<span style="color: 48b946">]{$sklevel}</span> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: 48b946">]{250+68*($sklevel-1)}</span> and HP of <span style="color: 48b946">]{2800+1216*($sklevel-1)}</span>.
 
 ### 3 Spell: Animate Dead
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 4 Spell: Undead Army
- **Description:** Summons Skeletons of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of [color=48b946,fontsize=20]{250+68*($sklevel-1)}[-] and HP of [color=48b946,fontsize=20]{2800+1216*($sklevel-1)}[-].
+ **Description:** Summons Skeletons of Lv.<span style="color: 48b946">]{$sklevel}</span> in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of <span style="color: 48b946">]{250+68*($sklevel-1)}</span> and HP of <span style="color: 48b946">]{2800+1216*($sklevel-1)}</span>.
+
 
 ## HERO Biography
    - An experiment labeled as heresy helps Vidomina find the reason of life...
@@ -49,6 +50,7 @@ toc: true
    - Under Eric's orders, the Dwarves - the prior guardians of the artifacts - ask Sandro to hand over the artifacts.
    - The eager lord of Deyja extends an olive branch...
    - Vidomina goes to save Sandro who was imprisoned by Finneas Vilmar when Erathia was at war.
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
@@ -74,6 +76,7 @@ toc: true
    - Magic-taboo Researcher
    - All-new Battle Image
    - Unique Avatar
+
 
 ## Initial Mastery
    - Wisdom

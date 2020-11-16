@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there."
 heroID: 60304
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Gem"
 toc: true
@@ -32,18 +32,20 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frozen Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and [color=e07c44,fontsize=20]slows[-] them for 8s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: e07c44">]slows</span> them for 8s.
 
 ### 2 Spell: Stone Skin
- **Description:** Gives a [color=e07c44,fontsize=20]shield[-] to friendly units in a certain range, that absorbs [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: e07c44">]shield</span> to friendly units in a certain range, that absorbs <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Cure
- **Description:** Restores [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> HP for friendly units within a certain range.
+ **Description:** Restores <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> HP for friendly units within a certain range.
 
 ### 4 Spell: Tranquil Rain
- **Description:** Restores HP of friendly units equal to [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))}[-]<($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> and 1% of their Max HP for 6s.
+ **Description:** Restores HP of friendly units equal to <span style="color: 48b946">]{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> and 1% of their Max HP for 6s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
@@ -69,6 +71,7 @@ toc: true
    - Beauty Under the Bright Moon
    - All-new Battle Image
    - Unique Avatar and Spell Effect
+
 
 ## Initial Mastery
    - Resistance

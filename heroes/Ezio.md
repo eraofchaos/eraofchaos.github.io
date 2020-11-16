@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Even though he's in a wholly different world, Ezio continues to hold fast to his conviction. He works in the dark to serve the light."
 heroID: 61901
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Ezio"
 toc: true
@@ -32,18 +32,20 @@ toc: true
 
 ## Spells
 ### 1 Spell: Hidden Blade Assassination
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting [color=e07c44,fontsize=20]bleeding[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: e07c44">]bleeding</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Stealth
- **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 3 Spell: Quiet
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting [color=e07c44,fontsize=20]silence[-] for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: e07c44">]silence</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Eagle Vision
- **Description:** Grants [color=e07c44,fontsize=20]Hawkeye[-] to all friendly units while increasing Critical Hit and Accuracy by 900 for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Grants <span style="color: e07c44">]Hawkeye</span> to all friendly units while increasing Critical Hit and Accuracy by 900 for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **null**
 
@@ -58,6 +60,7 @@ toc: true
 
    - A silent assassin who has endured the passing of ages.
    - 
+
 
 ## Initial Mastery
    - Wisdom

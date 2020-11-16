@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
 heroID: 60802
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Rashka"
 toc: true
@@ -32,16 +32,17 @@ toc: true
 
 ## Spells
 ### 1 Spell: Fire arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and [color=e07c44,fontsize=20]burns[-] them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: e07c44">]burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Curse
- **Description:** Decreases units' ATK of targeted enemy within a large range by [color=48b946,fontsize=20]{-($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>[color=48b946,fontsize=20]%[-] for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Decreases units' ATK of targeted enemy within a large range by <span style="color: 48b946">]{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: 48b946">]%</span> for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Bloodlust
- **Description:** Increase ATK by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and life drain by {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% for friendly units within a large range, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Increase ATK by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and life drain by {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% for friendly units within a large range, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 4 Spell: Inferno Flame
- **Description:** Summons an Inferno Fissure, dealing [color=48b946,fontsize=20]{($ovalueadd11+$ovalueadd12*($sklevel-1))}[-]<($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units around the fissure every 0.5s, lasting for {$olast11/1000}s. The damage is halved for Inferno units.
+ **Description:** Summons an Inferno Fissure, dealing <span style="color: 48b946">]{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units around the fissure every 0.5s, lasting for {$olast11/1000}s. The damage is halved for Inferno units.
+
 
 ## HERO Biography
    - Rashka is an ambitious Lord of Hell. Ever since Xyronfax was dethroned, he started his plan to unify Eeofol.
@@ -49,6 +50,7 @@ toc: true
    - When Lucifer Kreegan heard what Rashka had done, he deployed his elite army of Divine Demons onto the battlefield.
    - Cerberus Lord Bright refused to be subject to King Lucifer. Show them what will happen for refusing Lucifer.
    - Dictus, Prince Black Horn, refused to be subject to King Lucifer. Now you can destroy the last rebellion.
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
@@ -69,6 +71,7 @@ toc: true
    - Ruler of the Land of Ashes
    - All-new hero design
    - Unique avatar
+
 
 ## Initial Mastery
    - Wisdom

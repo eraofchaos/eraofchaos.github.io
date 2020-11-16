@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental"
 heroID: 60704
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Fiur"
 toc: true
@@ -32,22 +32,25 @@ toc: true
 
 ## Spells
 ### 1 Spell: Fire arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and [color=e07c44,fontsize=20]burns[-] them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: e07c44">]burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Fire Shield
- **Description:** Increases the damage reflection of friendly units within a large range by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and grants them immunity to fire spell damage, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent2+$talent1>s.
+ **Description:** Increases the damage reflection of friendly units within a large range by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and grants them immunity to fire spell damage, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent2+$talent1>s.
 
 ### 3 Spell: Fire Elemental
- **Description:** Summon 9 Fire Elementals of Lv.[color=48b946,fontsize=20]{$sklevel}[-] in the target area. Fire Elementals will remain for the whole battle with ATK of [color=48b946,fontsize=20]{310+85*($sklevel-1)}[-]<(310+85*($sklevel-1))*$talent14+$talent13> and HP of [color=48b946,fontsize=20]{3400+1476*($sklevel-1)}[-]<(3400+1476*($sklevel-1))*$talent14+$talent13>.
+ **Description:** Summon 9 Fire Elementals of Lv.<span style="color: 48b946">]{$sklevel}</span> in the target area. Fire Elementals will remain for the whole battle with ATK of <span style="color: 48b946">]{310+85*($sklevel-1)}</span><(310+85*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: 48b946">]{3400+1476*($sklevel-1)}</span><(3400+1476*($sklevel-1))*$talent14+$talent13>.
 
 ### 4 Spell: Flame Eruption
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> fire spell damage to enemy units within a large range and deals additional fire spell damage on [color=e07c44,fontsize=20]burned[-] targets equal to 35% of their Max HP.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> fire spell damage to enemy units within a large range and deals additional fire spell damage on <span style="color: e07c44">]burned</span> targets equal to 35% of their Max HP.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
  **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I'm fed up with the warring mortal world. But I'll be glad to help them root out the demon.[-]
+
 
 
 ## Initial Mastery

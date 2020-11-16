@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Gelu"
 toc: true
@@ -32,16 +32,17 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Stone Skin
- **Description:** Gives a [color=e07c44,fontsize=20]shield[-] to friendly units in a certain range, that absorbs [color=48b946,fontsize=20]{($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: e07c44">]shield</span> to friendly units in a certain range, that absorbs <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Precision
- **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 4 Spell: Frenzy
- **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]s.
+ **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+
 
 ## HERO Biography
    - Gelu was an excellent scout even when he was young and as he has aged, his talents have increased tenfold.
@@ -49,6 +50,7 @@ toc: true
    - Gelu has led bands of wood elves to complete multiple impossible missions without loss of life; a feat achieved by very few leaders of his era.
    - Gelu demonstrated his abilities at the very beginning of the Erathian Restoration War, especially in the battle of Tulare.
    - Lore of Gelu 5
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
@@ -69,6 +71,7 @@ toc: true
    - Scout Team Captain
    - All-new Battle Image
    - Unique avatar
+
 
 ## Initial Mastery
    - Wisdom

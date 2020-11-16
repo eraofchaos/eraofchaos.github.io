@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /heroes/Tazar/
 excerpt: "During the six-month border war with Krewlod, Tazar led a small force in a Tatalia outpost and held back the Krewlod army, which was five times larger as his, for eight days until reinforcements arrived."
 heroID: 61501
-last_modified_at: 2020-11-15
+last_modified_at: 2020-11-16
 lang: en
 ref: "Tazar"
 toc: true
@@ -32,18 +32,20 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and [color=e07c44,fontsize=20]stuns[-] them for 3s.
+ **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: e07c44">]stuns</span> them for 3s.
 
 ### 2 Spell: Quicksand
- **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by [color=48b946,fontsize=20]{-($buffaddattr12+$buffaddattr13*($sklevel-1))}[-]<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>[color=48b946,fontsize=20]%[-] for {($olast11+$olast12)/1000}s.
+ **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by <span style="color: 48b946">]{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: 48b946">]%</span> for {($olast11+$olast12)/1000}s.
 
 ### 3 Spell: Petrification
- **Description:** Deals target units within a certain range [color=48b946,fontsize=20]{($valueadd11+$valueadd12*($sklevel-1))}[-]<($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage and [color=e07c44,fontsize=20]petrifies[-] them for [color=48b946,fontsize=20]{($bufflast11+$bufflast12*($sklevel-1))/1000}[-]<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s
+ **Description:** Deals target units within a certain range <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage and <span style="color: e07c44">]petrifies</span> them for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s
 
 ### 4 Spell: Death Match
- **Description:** All units on the battlefield get 2 random debuffs which can't be dispelled. The damage debuffs for enemies double. Friendly Fortress units gain 10% life drain for [color=48b946,fontsize=20]{($olast11+$olast12*($sklevel-1))/1000}[-]s.
+ **Description:** All units on the battlefield get 2 random debuffs which can't be dispelled. The damage debuffs for enemies double. Friendly Fortress units gain 10% life drain for <span style="color: 48b946">]{($olast11+$olast12*($sklevel-1))/1000}</span>s.
+
 
 ## HERO Biography
+
 ## HERO Skins
 ### Skin 1: **Classic**
 
@@ -59,6 +61,7 @@ toc: true
    - Warrior Fighting the Marshland Death God
    - All-new Battle Image
    - Unique Avatar and Spell Effect
+
 
 ## Initial Mastery
    - Offense
