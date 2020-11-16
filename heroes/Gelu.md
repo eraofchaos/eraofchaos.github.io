@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Gelu's life story is shrouded in mystery. The only thing people are sure of is that he's a half-elf, probably with Vori blood on his elven side. [-]
+ **Description:** Gelu's life story is shrouded in mystery. The only thing people are sure of is that he's a half-elf, probably with Vori blood on his elven side. 
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Scout Team**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Sharpshooters under Gelu's command bring fear to the hearts of their enemies. Multiple enemy officers have been killed by their arrows from far behind the front line. [-]
+ **Description:** Sharpshooters under Gelu's command bring fear to the hearts of their enemies. Multiple enemy officers have been killed by their arrows from far behind the front line. 
 
  **Skin features:** 
 

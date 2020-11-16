@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]No one understands Unicorns more than I do. Because they are my only family.[-]
+ **Description:** No one understands Unicorns more than I do. Because they are my only family.
 
 
 

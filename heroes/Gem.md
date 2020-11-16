@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I'm able to cure bodies suffering from pains, but I cannot fix broken souls.[-]
+ **Description:** I'm able to cure bodies suffering from pains, but I cannot fix broken souls.
 
 
 ### Skin 2: **Football Girl**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]We are the champions! The world belongs to the victors, not the losers![-]
+ **Description:** We are the champions! The world belongs to the victors, not the losers!
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Moonlight Invitation**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The small building is suitable enough to keep a monarch safe. The numerous lights and the bright moon illuminate the swallows' return. Someone leans against the fence and enjoys the breeze. Who are those bright eyes and smile intended for?[-]
+ **Description:** The small building is suitable enough to keep a monarch safe. The numerous lights and the bright moon illuminate the swallows' return. Someone leans against the fence and enjoys the breeze. Who are those bright eyes and smile intended for?
 
  **Skin features:** 
 

@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The earth began to wail and woke me from my slumber. I found a land afflicted with an abscess called Eeofol.[-]
+ **Description:** The earth began to wail and woke me from my slumber. I found a land afflicted with an abscess called Eeofol.
 
 
 

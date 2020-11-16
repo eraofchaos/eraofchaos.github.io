@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Necromancer's understanding of death is not worth mentioning.[-]
+ **Description:** Necromancer's understanding of death is not worth mentioning.
 
 
 

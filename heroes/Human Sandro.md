@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Fate? My life will not be decided by it.[-]
+ **Description:** Fate? My life will not be decided by it.
 
 
 ### Skin 2: **Tarot World**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]You are already at the \"Door of Dreams\", but you must be patient. Wait for a chance, a special moment. You will meet your dream.[-]
+ **Description:** You are already at the \"Door of Dreams\", but you must be patient. Wait for a chance, a special moment. You will meet your dream.
 
  **Skin features:** 
 

@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **null**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]A mysterious person from a different world. Possesses extraordinary fighting skills.[-]
+ **Description:** A mysterious person from a different world. Possesses extraordinary fighting skills.
 
 
 ### Skin 2: **Amazonian**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Altering your combat style every once in a while doesn't seem like a bad idea.[-]
+ **Description:** Altering your combat style every once in a while doesn't seem like a bad idea.
 
  **Skin features:** 
 

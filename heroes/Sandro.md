@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Death is a new life; my lies are merely intricate traps to trip and unsettle you. [-]
+ **Description:** Death is a new life; my lies are merely intricate traps to trip and unsettle you. 
 
 
 ### Skin 2: **Fatal Plot**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]With one tiny drop you could topple kingdoms. [-]
+ **Description:** With one tiny drop you could topple kingdoms. 
 
  **Skin features:** 
 

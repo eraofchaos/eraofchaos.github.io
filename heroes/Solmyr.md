@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I pledge allegiance only to the King of Bracada who has freed me from my glassy prison! [-]
+ **Description:** I pledge allegiance only to the King of Bracada who has freed me from my glassy prison! 
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Devil in a Bottle**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Four centuries after he was sunk to the depths of the sea, the devil in the bottle swore an oath to kill the man who releases him from the seal. [-]
+ **Description:** Four centuries after he was sunk to the depths of the sea, the devil in the bottle swore an oath to kill the man who releases him from the seal. 
 
  **Skin features:** 
 

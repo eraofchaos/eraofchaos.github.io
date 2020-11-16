@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]You won't be able to prove the meaning of your existence unless you prevail in the war.[-]
+ **Description:** You won't be able to prove the meaning of your existence unless you prevail in the war.
 
 
 

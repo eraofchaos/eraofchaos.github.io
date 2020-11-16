@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Power and magic, blood and glory! [-]
+ **Description:** Power and magic, blood and glory! 
 
 
 ### Skin 2: **Battle Mage**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Never ever overlook the power of kinship.[-]
+ **Description:** Never ever overlook the power of kinship.
 
  **Skin features:** 
 

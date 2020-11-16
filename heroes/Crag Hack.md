@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Glory means an honorable death on the battlefield; combat is my best reward. [-]
+ **Description:** Glory means an honorable death on the battlefield; combat is my best reward. 
 
 
 ### Skin 2: **Golden Duke**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]After ransacking Erathia's goldmines, Crag Hack became leader of the Krewlod. His lust for gold has increased day by day and it leads him to declare war on adversary after adversary. [-]
+ **Description:** After ransacking Erathia's goldmines, Crag Hack became leader of the Krewlod. His lust for gold has increased day by day and it leads him to declare war on adversary after adversary. 
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Christmas Carol**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]It's impossible to finish your work with violence. A warm festival comes in handy.[-]
+ **Description:** It's impossible to finish your work with violence. A warm festival comes in handy.
 
  **Skin features:** 
 

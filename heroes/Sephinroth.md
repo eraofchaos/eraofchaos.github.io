@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I am the princess that was mentioned in the prophecy![-]
+ **Description:** I am the princess that was mentioned in the prophecy!
 
 
 

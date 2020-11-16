@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Krewlod will be undefeated under my rule! [-]
+ **Description:** Krewlod will be undefeated under my rule! 
 
 
 ### Skin 2: **Sword of Frost**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]With this artifact, I, Kilgor, shall unite Erathia![-]
+ **Description:** With this artifact, I, Kilgor, shall unite Erathia!
 
  **Skin features:** 
 

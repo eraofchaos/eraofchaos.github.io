@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Might is right in a dog-eat-dog world. For Nighon, there is no way out except endless war.[-]
+ **Description:** Might is right in a dog-eat-dog world. For Nighon, there is no way out except endless war.
 
 
 ### Skin 2: **Enchanted Dragon**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The sky is partitioned by groups of stars. The changes of stars impact the fortunes of all under the heavens. When the changing stars are back in situ, the light symbolizing the dragon will rule the sky.[-]
+ **Description:** The sky is partitioned by groups of stars. The changes of stars impact the fortunes of all under the heavens. When the changing stars are back in situ, the light symbolizing the dragon will rule the sky.
 
  **Skin features:** 
 

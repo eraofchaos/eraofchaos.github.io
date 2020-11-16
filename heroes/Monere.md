@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I am born from the thoughts of all living things. [-]
+ **Description:** I am born from the thoughts of all living things. 
 
 
 

@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]For the glory of Enroth, face the wrath of the righteous Ironfist! [-]
+ **Description:** For the glory of Enroth, face the wrath of the righteous Ironfist! 
 
 
 ### Skin 2: **Down-and-Out Prince**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]After he was betrayed and imprisoned by his brother, Prince Roland came to Erathia alone to seek help. [-]
+ **Description:** After he was betrayed and imprisoned by his brother, Prince Roland came to Erathia alone to seek help. 
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Royal Wedding**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I hope our union will bring peace to Enroth and happiness to our people.[-]
+ **Description:** I hope our union will bring peace to Enroth and happiness to our people.
 
  **Skin features:** 
 

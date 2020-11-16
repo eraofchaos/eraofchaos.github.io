@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]These flames have paved my road to victory. [-]
+ **Description:** These flames have paved my road to victory. 
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Ash Tyrant**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Rashka ruled with an iron fist over the Land of Ashes, the new name he gave to Erathia after its fall. [-]
+ **Description:** Rashka ruled with an iron fist over the Land of Ashes, the new name he gave to Erathia after its fall. 
 
  **Skin features:** 
 

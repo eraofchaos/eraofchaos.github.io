@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]There never was a Saviour! Save yourselves! Take up your arms and protect all that you love! [-]
+ **Description:** There never was a Saviour! Save yourselves! Take up your arms and protect all that you love! 
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Captain**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]We shall sail toward Erathia and fight for justice. [-]
+ **Description:** We shall sail toward Erathia and fight for justice. 
 
  **Skin features:** 
 
@@ -74,7 +74,7 @@ toc: true
 
 ### Skin 3: **Royal Wedding**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I hope our union will bring peace to the nation and happiness to our people. [-]
+ **Description:** I hope our union will bring peace to the nation and happiness to our people. 
 
  **Skin features:** 
 
@@ -84,7 +84,7 @@ toc: true
 
 ### Skin 4: **Socialite**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]If it weren't for all of the party guests, I could see my father's palace from across the garden. That green light shines through the night to guide me home. [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1] - Catherine, speaking to her friend Christine.[-][]
+ **Description:** If it weren't for all of the party guests, I could see my father's palace from across the garden. That green light shines through the night to guide me home.  - Catherine, speaking to her friend Christine.[]
 
  **Skin features:** 
 

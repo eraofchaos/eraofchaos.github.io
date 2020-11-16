@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **null**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]A mysterious person from a different world. Possesses extraordinary assassination skills.[-]
+ **Description:** A mysterious person from a different world. Possesses extraordinary assassination skills.
 
 
 ### Skin 2: **Revelations**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]After experiencing countless deaths and glory, his steps no longer waver.[-]
+ **Description:** After experiencing countless deaths and glory, his steps no longer waver.
 
  **Skin features:** 
 

@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Mullich is a disciplined leader. He imposed strict restraints on his men; his army was known for its speed. [-]
+ **Description:** Mullich is a disciplined leader. He imposed strict restraints on his men; his army was known for its speed. 
 
 
 ### Skin 2: **Great Soldier of Erathia**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Outstanding leaders will deploy a formation suitable for each changing battlefield.[-]
+ **Description:** Outstanding leaders will deploy a formation suitable for each changing battlefield.
 
  **Skin features:** 
 
@@ -68,7 +68,7 @@ toc: true
 
 ### Skin 3: **Don Mullich**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]My heroic deeds should be engraved in bronze, marble or even painted on a board. All should be remembered in posterity![-]
+ **Description:** My heroic deeds should be engraved in bronze, marble or even painted on a board. All should be remembered in posterity!
 
  **Skin features:** 
 

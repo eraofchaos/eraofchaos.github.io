@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I have returned from my icy paradise but decades have passed in the world. [-]
+ **Description:** I have returned from my icy paradise but decades have passed in the world. 
 
  **Skin features:** 
 
@@ -59,7 +59,7 @@ toc: true
 
 ### Skin 2: **Champion Fighter**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]A hero amongst heroes and the Champion of the Arena! [-]
+ **Description:** A hero amongst heroes and the Champion of the Arena! 
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Worli Mage**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]No one has ever beaten the winter of Vori.[-]
+ **Description:** No one has ever beaten the winter of Vori.
 
  **Skin features:** 
 
@@ -78,7 +78,7 @@ toc: true
 
 ### Skin 4: **Christmas Carol**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]After a long year, it is only this time that we open and close our hearts.[-]
+ **Description:** After a long year, it is only this time that we open and close our hearts.
 
  **Skin features:** 
 

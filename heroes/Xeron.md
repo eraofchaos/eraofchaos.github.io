@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]I will make this inhumane kingdom disappear from the earth. Every creature that breathes will receive the sentence of fire and sulfur![-]
+ **Description:** I will make this inhumane kingdom disappear from the earth. Every creature that breathes will receive the sentence of fire and sulfur!
 
 
 

@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Death is like a celestial body; it draws in tides of bones that engulf everything! [-]
+ **Description:** Death is like a celestial body; it draws in tides of bones that engulf everything! 
 
 
 ### Skin 2: **Candy Witch**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Pure souls are always attracted by festivals and candy.[-]
+ **Description:** Pure souls are always attracted by festivals and candy.
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Heresy Apprentice**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Most only see the ugliness and chaos of death, but I see the truth of eternity.[-]
+ **Description:** Most only see the ugliness and chaos of death, but I see the truth of eternity.
 
  **Skin features:** 
 

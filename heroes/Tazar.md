@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]You will be the prey of wild animals if you fall for your instincts.[-]
+ **Description:** You will be the prey of wild animals if you fall for your instincts.
 
 
 ### Skin 2: **Peak Trial**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Only a warrior who relies on their body to resist the Mighty Gorgon and kill it alone can be called the Swamp Overlord![-]
+ **Description:** Only a warrior who relies on their body to resist the Mighty Gorgon and kill it alone can be called the Swamp Overlord!
 
  **Skin features:** 
 

@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Knowledge is magic, but also power![-]
+ **Description:** Knowledge is magic, but also power!
 
 
 

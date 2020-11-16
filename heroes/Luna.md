@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Fire was the first ability harnessed by mortals. It was used both for survival and destruction. [-]
+ **Description:** Fire was the first ability harnessed by mortals. It was used both for survival and destruction. 
 
 
 ### Skin 2: **Born from the Ashes**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Luna was encircled by deadly flames but escaped completely unscathed; she has since wielded the power to dispel cold and darkness. [-]
+ **Description:** Luna was encircled by deadly flames but escaped completely unscathed; she has since wielded the power to dispel cold and darkness. 
 
  **Skin features:** 
 

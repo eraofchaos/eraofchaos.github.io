@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]It is in my nature to protect the weak. Courage is the best shield against evil! [-]
+ **Description:** It is in my nature to protect the weak. Courage is the best shield against evil! 
 
 
 ### Skin 2: **Ranger of the Forest**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Starving and exhausted, Mephala collapsed in the forest. The animals she had defended so courageously brought her fruit and sweet spring water to thank her for protecting the forest. [-]
+ **Description:** Starving and exhausted, Mephala collapsed in the forest. The animals she had defended so courageously brought her fruit and sweet spring water to thank her for protecting the forest. 
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Champion Fighter**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]A hero amongst heroes and the Champion of the Arena! [-]
+ **Description:** A hero amongst heroes and the Champion of the Arena! 
 
  **Skin features:** 
 

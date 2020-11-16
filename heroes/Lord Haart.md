@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]All life is a curse! Death is a blessing you cannot understand. [-]
+ **Description:** All life is a curse! Death is a blessing you cannot understand. 
 
  **Skin features:** 
 
@@ -59,7 +59,7 @@ toc: true
 
 ### Skin 2: **The Death of Deyja**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The followers of truth never fear to embrace death![-]
+ **Description:** The followers of truth never fear to embrace death!
 
  **Skin features:** 
 

@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Listen and you can hear the whispers of the trees. The forest feels a deep and burning fury. [-]
+ **Description:** Listen and you can hear the whispers of the trees. The forest feels a deep and burning fury. 
 
 
 ### Skin 2: **Wynn Guardian**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]My destiny does not depend on the forest's choice.[-]
+ **Description:** My destiny does not depend on the forest's choice.
 
  **Skin features:** 
 

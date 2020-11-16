@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]The four omnipresent elementals, please answer me. Please turn into a magic arrow to clear all in my path.[-]
+ **Description:** The four omnipresent elementals, please answer me. Please turn into a magic arrow to clear all in my path.
 
 
 ### Skin 2: **Vega**
 
- **Description:** [color=ffffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Magpies built a romantic bridge. The Goddess of Love connects the red lines together by hand, moving lovers' hearts.[-]
+ **Description:** Magpies built a romantic bridge. The Goddess of Love connects the red lines together by hand, moving lovers' hearts.
 
  **Skin features:** 
 
