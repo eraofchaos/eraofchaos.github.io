@@ -32,13 +32,13 @@ toc: true
 
 ## Spells
 ### 1 Spell: Fire arrow
- **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: e07c44">]burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44">burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Quicksand
- **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by <span style="color: 48b946">]{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: 48b946">]%</span> for {($olast11+$olast12)/1000}s.
+ **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by <span style="color: #48b946">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946">%</span> for {($olast11+$olast12)/1000}s.
 
 ### 3 Spell: Precision
- **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+ **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 4 Spell: Energy Reverse
  **Description:** Spell damage taken by all friendly units from heroes now heals them instead, and spell recovery from heroes that heals enemy units now deals damage instead. Lasts for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.

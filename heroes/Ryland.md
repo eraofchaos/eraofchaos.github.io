@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: e07c44">]stuns</span> them for 3s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44">stuns</span> them for 3s.
 
 ### 2 Spell: Stone Skin
- **Description:** Gives a <span style="color: e07c44">]shield</span> to friendly units in a certain range, that absorbs <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: #e07c44">shield</span> to friendly units in a certain range, that absorbs <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Forest Resonance
- **Description:** Summons 9 Treants of Lv.<span style="color: 48b946">]{$sklevel}</span> in the target area with an ATK of <span style="color: 48b946">]{220+60*($sklevel-1)}</span><(220+60*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: 48b946">]{3200+1391*($sklevel-1)}</span><(3200+1391*($sklevel-1))*$talent14+$talent13>, lasting throughout the entire battle.
+ **Description:** Summons 9 Treants of Lv.<span style="color: #48b946">{$sklevel}</span> in the target area with an ATK of <span style="color: #48b946">{220+60*($sklevel-1)}</span><(220+60*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946">{3200+1391*($sklevel-1)}</span><(3200+1391*($sklevel-1))*$talent14+$talent13>, lasting throughout the entire battle.
 
 ### 4 Spell: Prayer
- **Description:** Restore <span style="color: 48b946">]{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> HP for friendly units within a large range. The HP restored for targets with a <span style="color: e07c44">]shield</span> doubles.
+ **Description:** Restore <span style="color: #48b946">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> HP for friendly units within a large range. The HP restored for targets with a <span style="color: #e07c44">shield</span> doubles.
 
 
 ## HERO Biography

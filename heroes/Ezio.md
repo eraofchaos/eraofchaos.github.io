@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Hidden Blade Assassination
- **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: e07c44">]bleeding</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: #e07c44">bleeding</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Stealth
- **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+ **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 3 Spell: Quiet
- **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: e07c44">]silence</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: #e07c44">silence</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Eagle Vision
- **Description:** Grants <span style="color: e07c44">]Hawkeye</span> to all friendly units while increasing Critical Hit and Accuracy by 900 for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+ **Description:** Grants <span style="color: #e07c44">Hawkeye</span> to all friendly units while increasing Critical Hit and Accuracy by 900 for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 
 ## HERO Biography

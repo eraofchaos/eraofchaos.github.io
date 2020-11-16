@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Stone Skin
- **Description:** Gives a <span style="color: e07c44">]shield</span> to friendly units in a certain range, that absorbs <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: #e07c44">shield</span> to friendly units in a certain range, that absorbs <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Precision
- **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+ **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 4 Spell: Frenzy
- **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for <span style="color: 48b946">]{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+ **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 
 ## HERO Biography

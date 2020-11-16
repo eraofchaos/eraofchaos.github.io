@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals <span style="color: 48b946">]{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: e07c44">]stuns</span> them for 3s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44">stuns</span> them for 3s.
 
 ### 2 Spell: Slayer
- **Description:** Increases ATK by <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: 48b946">]%</span> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Description:** Increases ATK by <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946">%</span> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
 ### 3 Spell: Stone Skin
- **Description:** Gives a <span style="color: e07c44">]shield</span> to friendly units in a certain range, that absorbs <span style="color: 48b946">]{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: #e07c44">shield</span> to friendly units in a certain range, that absorbs <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Morass
- **Description:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: e07c44">]10%</span> and restore HP by <span style="color: e07c44">]3%</span> of their Max HP every second; reduces ATK speed by <span style="color: e07c44">]30%</span> and movement speed by <span style="color: e07c44">]60</span> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Description:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: #e07c44">10%</span> and restore HP by <span style="color: #e07c44">3%</span> of their Max HP every second; reduces ATK speed by <span style="color: #e07c44">30%</span> and movement speed by <span style="color: #e07c44">60</span> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
 
 
 ## HERO Biography
