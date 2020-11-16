@@ -5,17 +5,20 @@ sidebar:
   nav: "docs"
 ---
 
-This site contains information about Era Of Chaos mobile game.
+This site contains information about "Era Of Chaos" mobile game.
+
 Sorry, Right now this web site is Under Construct
 
 You will find here:
 ### <i class="fas fa-chess-king"/>[Heroes](/heroes/) 
-### Units
-### Artifacts
+### <i class="fab fa-optin-monster"/>[Units](/units/)
+### <i class="fas fa-hand-sparkles"/>[Artifacts](/artifacts/)
+### <i class="fas fa-atom"/>[Holy Emblem](/emblem/)
+### <i class="fas fa-place-of-worship"/>[Guild](/guild/)
+### <i class="fas fa-store"/> [Stores](/stores/)
+### <i class="fas fa-chess"/>[Auto Chess](/autochess/)
 
-### War Maschines
-### Battlefield Backup
-### Emblem
-### Guild
+### War Maschines (TBD)
+### Battlefield Backup (TBD)
 
 More TBD...

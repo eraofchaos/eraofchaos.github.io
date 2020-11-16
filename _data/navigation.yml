@@ -17,8 +17,20 @@ docs:
       url: /heroes/
     - title: "Units"
       url: /units/
+    - title: "Artifacts"
+      url: /artifacts/
+    - title: "Emblem"
+      url: /emblem/
+    - title: "Guild"
+      url: /guild/
+    - title: "Stores"
+      url: /stores/
+    - title: "Auto Chess"
+      url: /autochess/
   - title: "Language"
     children:
+      - title: "English"
+        url: /
       - title: "Русский"
         url: /ru/
       - title: "Deutsch"
@@ -27,8 +39,6 @@ docs:
         url: /it/
       - title: "Français"
         url: /fr/
-      - title: "English"
-        url: /
       - title: "Italiano"
         url: /it/
       - title: "Español"
