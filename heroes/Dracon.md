@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frozen Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44">slows</span> them for 8s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44">slows<span style="color: black"> them for 8s.
 
 ### 2 Spell: Wind Wall
- **Description:** Summons 1 Wall of Wind which increases dodge by {<span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span> and movement speed by {$buffaddattr22+$buffaddattr23*($sklevel-1)} for friendly units which pass through it, lasting for {$olast11/1000}s.
+ **Description:** Summons 1 Wall of Wind which increases dodge by {<span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%<span style="color: black"> and movement speed by {$buffaddattr22+$buffaddattr23*($sklevel-1)} for friendly units which pass through it, lasting for {$olast11/1000}s.
 
 ### 3 Spell: Lightning Bolt
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
 
 ### 4 Spell: Clone
- **Description:** Copy 1 of friendly units to fight in the battlefield. It has <span style="color: #48b946">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span> of the original unit's ATK and takes {($duplidmg11+$duplidmg12*($sklevel-1))}% more damage. Lasts for 30s.
+ **Description:** Copy 1 of friendly units to fight in the battlefield. It has <span style="color: #48b946">{($dupliatk11+$dupliatk12*($sklevel-1))}%<span style="color: black"> of the original unit's ATK and takes {($duplidmg11+$duplidmg12*($sklevel-1))}% more damage. Lasts for 30s.
 
 
 ## HERO Biography

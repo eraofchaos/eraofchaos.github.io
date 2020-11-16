@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Necromancy
- **Description:** Summons 9 Skeletons of Lv.<span style="color: #48b946">{$sklevel}</span> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946">{250+68*($sklevel-1)}</span> and HP of <span style="color: #48b946">{2800+1216*($sklevel-1)}</span>.
+ **Description:** Summons 9 Skeletons of Lv.<span style="color: #48b946">{$sklevel}<span style="color: black"> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946">{250+68*($sklevel-1)}<span style="color: black"> and HP of <span style="color: #48b946">{2800+1216*($sklevel-1)}<span style="color: black">.
 
 ### 3 Spell: Animate Dead
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 4 Spell: Undead Army
- **Description:** Summons Skeletons of Lv.<span style="color: #48b946">{$sklevel}</span> in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of <span style="color: #48b946">{250+68*($sklevel-1)}</span> and HP of <span style="color: #48b946">{2800+1216*($sklevel-1)}</span>.
+ **Description:** Summons Skeletons of Lv.<span style="color: #48b946">{$sklevel}<span style="color: black"> in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of <span style="color: #48b946">{250+68*($sklevel-1)}<span style="color: black"> and HP of <span style="color: #48b946">{2800+1216*($sklevel-1)}<span style="color: black">.
 
 
 ## HERO Biography

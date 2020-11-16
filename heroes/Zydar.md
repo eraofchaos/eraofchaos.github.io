@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Fire arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44">burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44">burns<span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Fire Wall
- **Description:** Summons a Fire Wall, dealing <span style="color: #48b946">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> continuous fire spell damage on enemy units around the wall every 0.5s, lasting for {($olast11+$olast12)/1000}s.
+ **Description:** Summons a Fire Wall, dealing <span style="color: #48b946">{($ovalueadd11+$ovalueadd12*($sklevel-1))}<span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> continuous fire spell damage on enemy units around the wall every 0.5s, lasting for {($olast11+$olast12)/1000}s.
 
 ### 3 Spell: Fire Elemental
- **Description:** Summon 9 Fire Elementals of Lv.<span style="color: #48b946">{$sklevel}</span> in the target area. Fire Elementals will remain for the whole battle with ATK of <span style="color: #48b946">{310+85*($sklevel-1)}</span><(310+85*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946">{3400+1476*($sklevel-1)}</span><(3400+1476*($sklevel-1))*$talent14+$talent13>.
+ **Description:** Summon 9 Fire Elementals of Lv.<span style="color: #48b946">{$sklevel}<span style="color: black"> in the target area. Fire Elementals will remain for the whole battle with ATK of <span style="color: #48b946">{310+85*($sklevel-1)}<span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946">{3400+1476*($sklevel-1)}<span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13>.
 
 ### 4 Spell: Gate of Fire
- **Description:** Raise 1 Gate of Fire in the target area and summon 3 Imp units of Lv.<span style="color: #48b946">{$sklevel}</span>. Imps will remain for 20s with an ATK of <span style="color: #48b946">{250+68*($sklevel-1)}</span> and HP of <span style="color: #48b946">{2800+1216*($sklevel-1)}</span>.
+ **Description:** Raise 1 Gate of Fire in the target area and summon 3 Imp units of Lv.<span style="color: #48b946">{$sklevel}<span style="color: black">. Imps will remain for 20s with an ATK of <span style="color: #48b946">{250+68*($sklevel-1)}<span style="color: black"> and HP of <span style="color: #48b946">{2800+1216*($sklevel-1)}<span style="color: black">.
 
 
 ## HERO Biography
