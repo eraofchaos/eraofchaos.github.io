@@ -9,30 +9,69 @@ ref: "Behemoth"
 toc: true
 ---
  **Description:** Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks.
+
  **Class:** Defense
+
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+
+ **Fraction:** Stronghold
+
+ **Race:** Unicorn
+
+ **Class:** Defense
+
  **tsl:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
+
  **runart:** 1
+
  **summon:** 1
+
  **defshow:** 9.0
+
  **rush:** 1
+
  **speedattack:** 100
+
  **atk:** 407.3
+
  **atkshow:** 5.0
+
  **attackarea:** 80
+
  **atkrange:** 300
+
  **atkspeedshow:** 5
+
  **defshow:** 9.0
+
  **score:** 1574
+
  **hp:** 10182.0
+
  **hpshow:** 9
+
  **disrdcvol:** 70
+
  **deadtype:** 1
+
+ **s:** 4
+
+ **label1:** 5
+
  **speedmove:** 90
+
  **posclass:** 2
+
  **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
  **dingwei:** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
+
  **sharedsc:** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
+
  **talk1:** One day I will challenge the dragons themselves!
+
  **talk2:** I keep watch over this land, keeping it safe from harm.
+
  **talk3:** When I go truly beserk I even scare myself.
+
+### Talent
