@@ -62,6 +62,8 @@ toc: true
 
  **s:** 2
 
+ **label:** 2
+
  **label1:** 6
 
  **speedmove:** 80
