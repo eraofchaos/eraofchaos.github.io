@@ -83,3 +83,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94506
+
+ **Name:** Efreet Sultan
+
+ **Description:** Powerful spirits condensed by the flames of the abyss, they are powerful allies of the demons on Fire Conflux Plane. Now in order to help Eeofol win the final victory, they came to Erathia.
+

@@ -83,3 +83,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94502
+
+ **Name:** Magog
+
+ **Description:** A master demon who plays the flame, the fire of hell spurts from her body. Ephesus's enemies will be swallowed up by her throwing flames until they are burned to ashes.
+

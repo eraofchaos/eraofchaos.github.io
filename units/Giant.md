@@ -77,3 +77,12 @@ toc: true
  **talk3:** Heretics will flee from my might!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94607
+
+ **Name:** Titan
+
+ **Description:** 
+

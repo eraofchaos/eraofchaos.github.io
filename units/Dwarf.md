@@ -77,3 +77,12 @@ toc: true
  **talk3:** A buff to the head could be just what you need.
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94202
+
+ **Name:** null
+
+ **Description:** null
+

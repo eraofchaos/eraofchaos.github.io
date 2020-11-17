@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94307
+
+ **Name:** Ghost Dragon
+
+ **Description:** The rotten sinister bones are the end of others, but the cradle of the Wight and a hotbed of his rebirth. The spurs of the wings, the sharp cold of the claws, the sorrowful roar, even if the death cannot dissipate the panic.
+

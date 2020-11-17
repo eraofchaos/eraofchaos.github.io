@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94304
+
+ **Name:** Vampire Lord
+
+ **Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
+

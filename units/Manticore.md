@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94706
+
+ **Name:** Scorpicore
+
+ **Description:** Scorpicore's rage shatters the land. Scorpicore's form petrifies with fear. Scorpicore's roar subjugates all.
+

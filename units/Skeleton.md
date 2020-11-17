@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94301
+
+ **Name:** Skeleton Warrior
+
+ **Description:** A wise king of ancient times, but he still fell because of fear of death. Now he comes back, commanding the dead army to recapture his homeland.
+

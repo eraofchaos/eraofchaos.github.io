@@ -83,3 +83,12 @@ toc: true
  **talk3:** Ah, a fresh meal! Pity they don't come unwrapped, I do find armour sticks in the teeth.
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94403
+
+ **Name:** null
+
+ **Description:** null
+

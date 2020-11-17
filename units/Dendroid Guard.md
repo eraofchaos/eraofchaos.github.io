@@ -77,3 +77,12 @@ toc: true
  **talk3:** A veretan will beat a newcomer every time. Newcomers may be keen but an old soldier is cunning.
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94205
+
+ **Name:** Dendroid Soldier
+
+ **Description:** A perfect combination of strength and resilience, an ancient powerful creature. Strong and unstoppable, this is the power of nature. Facing all threats fearlessly, destroy the enemy's last line of defense by a landslide.
+

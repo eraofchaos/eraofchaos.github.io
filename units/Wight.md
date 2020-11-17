@@ -83,3 +83,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94303
+
+ **Name:** Wraith
+
+ **Description:** Any living thing that dares to approach the Wraith will be shocked by her horror. Her scream makes all living things to die, and all the undead to become excited.
+

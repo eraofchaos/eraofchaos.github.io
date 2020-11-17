@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94302
+
+ **Name:** Zombie
+
+ **Description:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
+

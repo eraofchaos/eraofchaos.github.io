@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94505
+
+ **Name:** Pit Lord
+
+ **Description:** She crushes her opponent proudly, and infects every hell warrior with enthusiasm. Her skin, infused with magma makes the devil crazy, making the battle a carnival.
+

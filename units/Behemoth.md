@@ -77,3 +77,12 @@ toc: true
  **talk3:** When I go truly beserk I even scare myself.
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94407
+
+ **Name:** Ancient Behemoth
+
+ **Description:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
+

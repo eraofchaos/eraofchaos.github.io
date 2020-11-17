@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94906
+
+ **Name:** Magic Elemental
+
+ **Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
+

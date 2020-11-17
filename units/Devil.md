@@ -54,7 +54,7 @@ toc: true
 
  **deadtype:** 1
 
- **s:** -2147483648
+ **s:** 
 
  **label:** 3
 
@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94507
+
+ **Name:** Arch Devil
+
+ **Description:** I saw that the living creature came up from the ground, with its horns like goats, and each horn has its own title. It's covered with flames, making fires from the ground to the sky. Whatever Eeofol has, the ability, the seat, and the great power are given to him. He also uses fire, smoke and sulfur to conquer the world.
+

@@ -77,3 +77,12 @@ toc: true
  **talk3:** You'll never catch me!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94603
+
+ **Name:** Gold Golem
+
+ **Description:** Mysterious magical alloy makes this great creation indestructible, and the Gold Golem, seems to be able to withstand any damage. They are loyal guards for the Tower, and they are a barrier that cannot be broken for enemies.
+

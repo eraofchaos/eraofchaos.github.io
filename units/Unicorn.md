@@ -77,3 +77,12 @@ toc: true
  **talk3:** I hate it when my mane is tarnished by dust. Or blood.
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94206
+
+ **Name:** War Unicorn
+
+ **Description:** Unicorns with golden hair are very rare. They are often called the sacred beasts by elves of Avlee and are worshipped by them. Whenever the forest of Tula Lian encounters a major crisis, the golden light will once again shine through the forest.
+

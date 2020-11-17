@@ -77,3 +77,12 @@ toc: true
  **talk3:** You pathetic creatures. You think I'm interested in your plight?
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94401
+
+ **Name:** Hobgoblin
+
+ **Description:** Hobgoblins never fear battle, and cruelness and killing are in their blood, with every drop of enemies' blood will making them more ferocious.
+

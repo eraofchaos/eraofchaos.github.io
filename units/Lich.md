@@ -83,3 +83,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94305
+
+ **Name:** Power Lich
+
+ **Description:** In order to see the true meaning of death and obtain the mystery of eternal life, the explorers of life sacrifice the mortals. After this grand ceremony, the immortal Sorcerers will be reborn from death.
+

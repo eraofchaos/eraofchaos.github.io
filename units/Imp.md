@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94501
+
+ **Name:** Varied Jinnee
+
+ **Description:** As a faithful and tenacious servant of the hell, she defends the victory with life, and summons the horrible devil with the will.
+

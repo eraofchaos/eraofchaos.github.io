@@ -77,3 +77,12 @@ toc: true
  **talk3:** Watch as I crush you all!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94404
+
+ **Name:** Ogre Mage
+
+ **Description:** The chiefs rule their tribes with unparalleled record and undisguised authority. The huge and terrifying animal bone flag is a symbol of their identity. Stupid short-lived guys always launch a challenge beyond their ability, just forgotten as sacrifices of a banner.
+

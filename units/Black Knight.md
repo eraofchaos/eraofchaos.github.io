@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94306
+
+ **Name:** Dread Knight
+
+ **Description:** I see skies pitch black like the night and a moon red as blood. Darkness has shrouded the light. Fear is the name that inspires darkness. The bloody blade was granted to him and even the dead follow him. When the Dread Lord arrives, no one can hear the wails of the lambs.
+

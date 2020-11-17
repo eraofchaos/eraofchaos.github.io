@@ -83,3 +83,12 @@ toc: true
  **talk3:** Guess how far can I throw this stone!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94406
+
+ **Name:** null
+
+ **Description:** null
+

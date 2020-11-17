@@ -77,3 +77,12 @@ toc: true
  **talk3:** I fight for justice, honesty, mercy and modesty!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94106
+
+ **Name:** Champion Knights
+
+ **Description:** Let us set off! Brave knights of Erathia! The champion's laurel awaits you. Fight for your beliefs, and for justice. Fulfill your destiny!
+

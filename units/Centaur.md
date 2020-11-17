@@ -77,3 +77,12 @@ toc: true
  **talk3:** I cannot stand to see another friend die!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94201
+
+ **Name:** Centaur Captain
+
+ **Description:** Playing beautiful music or writing impressive poems, Centaur Captains are known for their erudition. Whether shoot with great precision or in short ranged combat, the tribe leaders must be the best ones.
+

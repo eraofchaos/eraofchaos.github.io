@@ -83,3 +83,12 @@ toc: true
  **talk3:** My sword and shield will not stand for your madness!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94604
+
+ **Name:** Arch Mage
+
+ **Description:** Master in the field of magic, they know all the mystery of magic. For the Arch Mages, their mission is to constantly explore the mysteries that have not yet been discovered, and finally master them.
+

@@ -83,3 +83,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94907
+
+ **Name:** Phoenix
+
+ **Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
+

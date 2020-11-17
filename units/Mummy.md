@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94308
+
+ **Name:** Mummy King
+
+ **Description:** Once dead, fixing the soul to the immortal body will turn it into a Mummy, but the silence of thousands of years has already made Pharaoh full of hatred against all living things. The Mummy King curses all living things, making them the same undead monsters as themselves.
+

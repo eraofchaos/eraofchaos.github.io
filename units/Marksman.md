@@ -83,3 +83,12 @@ toc: true
  **talk3:** Wipe out the enemy while they move!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94102
+
+ **Name:** null
+
+ **Description:** 
+

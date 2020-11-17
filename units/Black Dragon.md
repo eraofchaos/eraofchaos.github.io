@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94707
+
+ **Name:** Black Dragon King
+
+ **Description:** Any spell in front of the Black Dragon King is like a smoldering firefly. The only thing that can shine with the darkness is its own breath and anger.
+

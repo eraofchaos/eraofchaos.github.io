@@ -77,3 +77,12 @@ toc: true
  **talk3:** I fight for justice, honesty, mercy and modesty!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94606
+
+ **Name:** Naga Queen
+
+ **Description:** The most noble and powerful ruler of the Naga. The most beautiful treasures of the sea are used to decorate her majesty. The long white hair and the golden crown of jade are the characteristics of the Naga Queen. All of these offerings are for the same purpose, which is to occupy a wider and richer hunting ground and habitat for the tribe.
+

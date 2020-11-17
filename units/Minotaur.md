@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94705
+
+ **Name:** Minotaur King
+
+ **Description:** The huge battle axes are the symbol of their power, and the dark labyrinth is the creed they guard. The cruel Minotaur King is surrounded by skeletons and he will kill all intruders.
+

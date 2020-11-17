@@ -77,3 +77,12 @@ toc: true
  **talk3:** Heretics will flee from my might!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94108
+
+ **Name:** Supreme Paladin
+
+ **Description:** With armed armor and cold dueling sword, Supreme Paladins and their followers go forward all the time in the light of the church.
+

@@ -77,3 +77,12 @@ toc: true
  **talk3:** Kill 'em all!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94402
+
+ **Name:** Wolf Raider
+
+ **Description:** Wildness is determined by the beastly nature of the blood, sharp knives stabbing the enemy's heart, making bloody storms to sweep the battlefield.
+

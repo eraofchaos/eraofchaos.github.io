@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94904
+
+ **Name:** Energy Elemental
+
+ **Description:** The energy condenses into a form that never withers away, with cold auras gathering around. Absorbs all nature power to become more powerful in combat.
+

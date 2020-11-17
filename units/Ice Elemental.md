@@ -83,3 +83,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94903
+
+ **Name:** null
+
+ **Description:** null
+

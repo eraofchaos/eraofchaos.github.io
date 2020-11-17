@@ -83,3 +83,12 @@ toc: true
  **talk3:** I am bathed in the holy light!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94105
+
+ **Name:** 
+
+ **Description:** 
+

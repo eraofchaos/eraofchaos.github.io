@@ -83,3 +83,12 @@ toc: true
  **talk3:** I am bathed in the holy light!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94605
+
+ **Name:** Master Genie
+
+ **Description:** The Genies have become strong enough after thousands of battles, and they can return to the elemental world at any time as long as they are willing to leave this small oil lamp. However, because of their relations with mages, they choose to stay with the mages until the end of their life.
+

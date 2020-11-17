@@ -54,7 +54,7 @@ toc: true
 
  **deadtype:** 1
 
- **s:** -2147483648
+ **s:** 
 
  **label:** 3
 
@@ -77,3 +77,12 @@ toc: true
  **talk3:** Heretics will flee from my might!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94107
+
+ **Name:** Archangel
+
+ **Description:** Those who were born to be Messiah. At the hard time, the powers who bless your country will stand up. From ancient times to now, there is no such thing. For the people of Erathia, anyone who is recorded on the book will be saved. Book of Angst 12:1
+

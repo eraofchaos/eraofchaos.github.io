@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94703
+
+ **Name:** Evil Eye
+
+ **Description:** An evil power of unknown origin, its eyes radiate dreadful fear. The eye of death sees the fragility of enemies and absorbs invincible power.
+

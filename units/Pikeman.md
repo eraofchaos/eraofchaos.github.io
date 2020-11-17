@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94101
+
+ **Name:** Halberdier
+
+ **Description:** When the weak are unfairly treated, it is my duty to punish the wicked and help the good. When righteousness is trampled, it is my vow to impose justice. In the face of danger and sacrifice, I remember that sacrifice is loyalty, and honor is my destiny.
+

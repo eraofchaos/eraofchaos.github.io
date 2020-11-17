@@ -83,3 +83,12 @@ toc: true
  **talk3:** Killing done properly can be graceful, even elegant.
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94203
+
+ **Name:** Grand Elf
+
+ **Description:** The birds in the forest are her eyes, the flying arrows are her call and the natural blessing makes a perfect presentation on them. They are the noble hunters who represent the will of the great forest, the Grand Elves of Tulalyon!
+

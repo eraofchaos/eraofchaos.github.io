@@ -77,3 +77,12 @@ toc: true
  **talk3:** My sword and shield will not stand for your madness!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94104
+
+ **Name:** Crusader
+
+ **Description:** Heroic warrior, the moment you pick up the sword, you're the greatest threat to enemies. The invincible belief in the heart is the toughest weapon. The dazzling shield emblem in the hand is unshakable force.
+

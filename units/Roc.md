@@ -83,3 +83,12 @@ toc: true
  **talk3:** Perish as the lightning strikes!
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94405
+
+ **Name:** Thunderbird
+
+ **Description:** It's called the most powerful soul on the Air Conflux Plane in the library of Bracada. When it comes to the main material world, Thunderbird will generate storms and hurricanes every time when swinging its powerful wings.
+

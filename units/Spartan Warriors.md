@@ -77,3 +77,12 @@ toc: true
  **talk3:** You'll never catch me!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 949702
+
+ **Name:** null
+
+ **Description:** null
+

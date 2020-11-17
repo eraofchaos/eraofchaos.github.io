@@ -83,3 +83,12 @@ toc: true
  **talk3:** Death, disaster, destruction and obliteration. That is all I seek.
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94207
+
+ **Name:** Gold Dragon
+
+ **Description:** Gold Dragons evolved from Green Dragons through a long period of time. After years of hardship, they are more powerful and become more resistant to magic.
+

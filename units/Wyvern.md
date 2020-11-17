@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94806
+
+ **Name:** Wyvern Monarch
+
+ **Description:** Even in the swamps full of poisons, the plague Wyvern Monarch filled with toxins is also the king of poison.
+

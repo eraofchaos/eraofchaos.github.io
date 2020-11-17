@@ -77,3 +77,12 @@ toc: true
  **talk3:** I stand fast for my home and my country!
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94805
+
+ **Name:** Mighty Gorgon
+
+ **Description:** Legend has it that the eyes of a dead cow can strip the soul of a living creature, but the truth of this matter cannot be determined so far. Because anyone who has seen it has not been able to get out of the swamp.
+

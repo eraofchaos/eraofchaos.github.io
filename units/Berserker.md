@@ -77,3 +77,12 @@ toc: true
  **talk3:** You pathetic creatures. You think I'm interested in your plight?
 
 ### Talent
+### Awaking
+ **Possible:** NO
+
+ **Score up:** 94408
+
+ **Name:** Death Howler
+
+ **Description:** One day, people found that the statues of Mars made a burst of sound, which seemed to be an unwilling roar or a rejection of death.
+

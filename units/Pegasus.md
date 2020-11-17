@@ -83,3 +83,12 @@ toc: true
  **talk3:** Sunrise in the forest is always so beautiful but sunrise over a battlefield is more glorious to behold.
 
 ### Talent
+### Awaking
+ **Possible:** YES
+
+ **Score up:** 94204
+
+ **Name:** Silver Pegasus
+
+ **Description:** The elite knights who swear to guard the great forest, only the most heroic and fearless of the elves can win this honor. They are the defenders of the weak forever, and they are the sky guards flying above the green forest.
+
