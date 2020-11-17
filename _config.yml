@@ -153,6 +153,7 @@ defaults:
       read_time: false
       toc: false
       search: false
+      classes: wide
       sidebar:
         nav: "docs"
   # units

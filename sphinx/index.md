@@ -7,6 +7,7 @@ lang: en
 ref: "index.md"
 toc: false
 search: false
+classes: wide
 ---
 
   |  Nr  |             Question            |    Correct Answer    |   Incorrect Answer 1   |    Incorrect Answer 2     |      Incorrect Answer 3      |
