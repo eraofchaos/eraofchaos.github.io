@@ -8,6 +8,7 @@ lang: en
 ref: "Bone Dragon"
 toc: true
 ---
+## General information
  **Description:** Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. 
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Dragon
-
- **Class:** Offense
 
  **tsl:** Fear: Sharply decreases enemies' defense, causes low morale.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94307
 
- **Name:** Ghost Dragon
+ **Awaking Name:** Ghost Dragon
 
- **Description:** The rotten sinister bones are the end of others, but the cradle of the Wight and a hotbed of his rebirth. The spurs of the wings, the sharp cold of the claws, the sorrowful roar, even if the death cannot dissipate the panic.
+ **Awaking Description:** The rotten sinister bones are the end of others, but the cradle of the Wight and a hotbed of his rebirth. The spurs of the wings, the sharp cold of the claws, the sorrowful roar, even if the death cannot dissipate the panic.
 

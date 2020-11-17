@@ -8,6 +8,7 @@ lang: en
 ref: "Assassin"
 toc: true
 ---
+## General information
  **Description:** We work in the dark to serve the light. Nothing is true, everything is permitted.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Neutral Army
 
  **Race:** Assassin Guild
-
- **Class:** Charging
 
  **tsl:** null
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 3
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 120
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** You'll never catch me!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 949701
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

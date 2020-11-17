@@ -8,6 +8,7 @@ lang: en
 ref: "Medusa"
 toc: true
 ---
+## General information
  **Description:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Dungeon
 
  **Race:** Evil spirit
-
- **Class:** Ranged
 
  **tsl:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94704
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Marksman"
 toc: true
 ---
+## General information
  **Description:** Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Human
-
- **Class:** Ranged
 
  **tsl:** Explosive Arrow: Deals sizeable damage to enemy units.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** Wipe out the enemy while they move!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94102
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** 
+ **Awaking Description:** 
 

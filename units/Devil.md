@@ -8,6 +8,7 @@ lang: en
 ref: "Devil"
 toc: true
 ---
+## General information
  **Description:** The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Demoniac
-
- **Class:** Offense
 
  **tsl:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94507
 
- **Name:** Arch Devil
+ **Awaking Name:** Arch Devil
 
- **Description:** I saw that the living creature came up from the ground, with its horns like goats, and each horn has its own title. It's covered with flames, making fires from the ground to the sky. Whatever Eeofol has, the ability, the seat, and the great power are given to him. He also uses fire, smoke and sulfur to conquer the world.
+ **Awaking Description:** I saw that the living creature came up from the ground, with its horns like goats, and each horn has its own title. It's covered with flames, making fires from the ground to the sky. Whatever Eeofol has, the ability, the seat, and the great power are given to him. He also uses fire, smoke and sulfur to conquer the world.
 

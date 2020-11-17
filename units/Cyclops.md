@@ -8,6 +8,7 @@ lang: en
 ref: "Cyclops"
 toc: true
 ---
+## General information
  **Description:** Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Barbarian
-
- **Class:** Ranged
 
  **tsl:** Flame Stone: Deals catastrophic damage to all enemy troops in its path.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** Guess how far can I throw this stone!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94406
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

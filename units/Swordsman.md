@@ -8,6 +8,7 @@ lang: en
 ref: "Swordsman"
 toc: true
 ---
+## General information
  **Description:** The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Human
-
- **Class:** Defense
 
  **tsl:** Divine Protection: Reduce damage taken
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** My sword and shield will not stand for your madness!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94104
 
- **Name:** Crusader
+ **Awaking Name:** Crusader
 
- **Description:** Heroic warrior, the moment you pick up the sword, you're the greatest threat to enemies. The invincible belief in the heart is the toughest weapon. The dazzling shield emblem in the hand is unshakable force.
+ **Awaking Description:** Heroic warrior, the moment you pick up the sword, you're the greatest threat to enemies. The invincible belief in the heart is the toughest weapon. The dazzling shield emblem in the hand is unshakable force.
 

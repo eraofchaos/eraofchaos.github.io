@@ -8,6 +8,7 @@ lang: en
 ref: "Centaur"
 toc: true
 ---
+## General information
  **Description:** Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Rampart
 
  **Race:** Forest
-
- **Class:** Defense
 
  **tsl:** Battle Stomp: Damages the units closest to it, slowing them down.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I cannot stand to see another friend die!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94201
 
- **Name:** Centaur Captain
+ **Awaking Name:** Centaur Captain
 
- **Description:** Playing beautiful music or writing impressive poems, Centaur Captains are known for their erudition. Whether shoot with great precision or in short ranged combat, the tribe leaders must be the best ones.
+ **Awaking Description:** Playing beautiful music or writing impressive poems, Centaur Captains are known for their erudition. Whether shoot with great precision or in short ranged combat, the tribe leaders must be the best ones.
 

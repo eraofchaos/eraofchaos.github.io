@@ -8,6 +8,7 @@ lang: en
 ref: "Psychic Elemental"
 toc: true
 ---
+## General information
  **Description:** An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Conflux
 
  **Race:** Beast Master
-
- **Class:** Offense
 
  **tsl:** null
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94906
 
- **Name:** Magic Elemental
+ **Awaking Name:** Magic Elemental
 
- **Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
+ **Awaking Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
 

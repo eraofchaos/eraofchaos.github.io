@@ -8,6 +8,7 @@ lang: en
 ref: "Lich"
 toc: true
 ---
+## General information
  **Description:** Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Undead
-
- **Class:** Caster
 
  **tsl:** Sacrifice: Summons a horde of Skeletons.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94305
 
- **Name:** Power Lich
+ **Awaking Name:** Power Lich
 
- **Description:** In order to see the true meaning of death and obtain the mystery of eternal life, the explorers of life sacrifice the mortals. After this grand ceremony, the immortal Sorcerers will be reborn from death.
+ **Awaking Description:** In order to see the true meaning of death and obtain the mystery of eternal life, the explorers of life sacrifice the mortals. After this grand ceremony, the immortal Sorcerers will be reborn from death.
 

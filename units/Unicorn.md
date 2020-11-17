@@ -8,6 +8,7 @@ lang: en
 ref: "Unicorn"
 toc: true
 ---
+## General information
  **Description:** The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Rampart
 
  **Race:** Unicorn
-
- **Class:** Charging
 
  **tsl:** Blind: Decreases the Accuracy of a row of enemy troops.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I hate it when my mane is tarnished by dust. Or blood.
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94206
 
- **Name:** War Unicorn
+ **Awaking Name:** War Unicorn
 
- **Description:** Unicorns with golden hair are very rare. They are often called the sacred beasts by elves of Avlee and are worshipped by them. Whenever the forest of Tula Lian encounters a major crisis, the golden light will once again shine through the forest.
+ **Awaking Description:** Unicorns with golden hair are very rare. They are often called the sacred beasts by elves of Avlee and are worshipped by them. Whenever the forest of Tula Lian encounters a major crisis, the golden light will once again shine through the forest.
 

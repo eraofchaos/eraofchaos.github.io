@@ -8,6 +8,7 @@ lang: en
 ref: "Wight"
 toc: true
 ---
+## General information
  **Description:** Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Human
-
- **Class:** Caster
 
  **tsl:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94303
 
- **Name:** Wraith
+ **Awaking Name:** Wraith
 
- **Description:** Any living thing that dares to approach the Wraith will be shocked by her horror. Her scream makes all living things to die, and all the undead to become excited.
+ **Awaking Description:** Any living thing that dares to approach the Wraith will be shocked by her horror. Her scream makes all living things to die, and all the undead to become excited.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Berserker"
 toc: true
 ---
+## General information
  **Description:** Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Orc
-
- **Class:** Offense
 
  **tsl:** War Storm: Deals damage to 3 nearby enemy units.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** You pathetic creatures. You think I'm interested in your plight?
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94408
 
- **Name:** Death Howler
+ **Awaking Name:** Death Howler
 
- **Description:** One day, people found that the statues of Mars made a burst of sound, which seemed to be an unwilling roar or a rejection of death.
+ **Awaking Description:** One day, people found that the statues of Mars made a burst of sound, which seemed to be an unwilling roar or a rejection of death.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Pikeman"
 toc: true
 ---
+## General information
  **Description:** Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Human
-
- **Class:** Offense
 
  **tsl:** Spear Array: Deals damage to enemy units, causes stun.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94101
 
- **Name:** Halberdier
+ **Awaking Name:** Halberdier
 
- **Description:** When the weak are unfairly treated, it is my duty to punish the wicked and help the good. When righteousness is trampled, it is my vow to impose justice. In the face of danger and sacrifice, I remember that sacrifice is loyalty, and honor is my destiny.
+ **Awaking Description:** When the weak are unfairly treated, it is my duty to punish the wicked and help the good. When righteousness is trampled, it is my vow to impose justice. In the face of danger and sacrifice, I remember that sacrifice is loyalty, and honor is my destiny.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Dendroid Guard"
 toc: true
 ---
+## General information
  **Description:** Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Rampart
 
  **Race:** Fiend
-
- **Class:** Defense
 
  **tsl:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** A veretan will beat a newcomer every time. Newcomers may be keen but an old soldier is cunning.
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94205
 
- **Name:** Dendroid Soldier
+ **Awaking Name:** Dendroid Soldier
 
- **Description:** A perfect combination of strength and resilience, an ancient powerful creature. Strong and unstoppable, this is the power of nature. Facing all threats fearlessly, destroy the enemy's last line of defense by a landslide.
+ **Awaking Description:** A perfect combination of strength and resilience, an ancient powerful creature. Strong and unstoppable, this is the power of nature. Facing all threats fearlessly, destroy the enemy's last line of defense by a landslide.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Giant"
 toc: true
 ---
+## General information
  **Description:** These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Caster
 
  **tsl:** God of War: Ignores range and deals HP percentage damage
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** Heretics will flee from my might!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94607
 
- **Name:** Titan
+ **Awaking Name:** Titan
 
- **Description:** 
+ **Awaking Description:** 
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Paladin"
 toc: true
 ---
+## General information
  **Description:** Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Human
-
- **Class:** Defense
 
  **tsl:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** Heretics will flee from my might!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94108
 
- **Name:** Supreme Paladin
+ **Awaking Name:** Supreme Paladin
 
- **Description:** With armed armor and cold dueling sword, Supreme Paladins and their followers go forward all the time in the light of the church.
+ **Awaking Description:** With armed armor and cold dueling sword, Supreme Paladins and their followers go forward all the time in the light of the church.
 

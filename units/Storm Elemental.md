@@ -8,6 +8,7 @@ lang: en
 ref: "Storm Elemental"
 toc: true
 ---
+## General information
  **Description:** An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Conflux
 
  **Race:** Beast Master
-
- **Class:** Ranged
 
  **tsl:** null
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94902
 
- **Name:** 
+ **Awaking Name:** 
 
- **Description:** null
+ **Awaking Description:** null
 

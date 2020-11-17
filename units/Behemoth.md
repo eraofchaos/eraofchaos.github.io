@@ -8,6 +8,7 @@ lang: en
 ref: "Behemoth"
 toc: true
 ---
+## General information
  **Description:** Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Unicorn
-
- **Class:** Defense
 
  **tsl:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** When I go truly beserk I even scare myself.
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94407
 
- **Name:** Ancient Behemoth
+ **Awaking Name:** Ancient Behemoth
 
- **Description:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
+ **Awaking Description:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
 

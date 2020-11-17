@@ -8,6 +8,7 @@ lang: en
 ref: "Goblin"
 toc: true
 ---
+## General information
  **Description:** Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Orc
-
- **Class:** Offense
 
  **tsl:** War Storm: Deals damage to 3 nearby enemy units.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** You pathetic creatures. You think I'm interested in your plight?
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94401
 
- **Name:** Hobgoblin
+ **Awaking Name:** Hobgoblin
 
- **Description:** Hobgoblins never fear battle, and cruelness and killing are in their blood, with every drop of enemies' blood will making them more ferocious.
+ **Awaking Description:** Hobgoblins never fear battle, and cruelness and killing are in their blood, with every drop of enemies' blood will making them more ferocious.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Stone Elemental"
 toc: true
 ---
+## General information
  **Description:** The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Conflux
 
  **Race:** Beast Master
-
- **Class:** Defense
 
  **tsl:** null
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94905
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

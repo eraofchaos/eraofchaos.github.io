@@ -8,6 +8,7 @@ lang: en
 ref: "Black Dragon"
 toc: true
 ---
+## General information
  **Description:** A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Dungeon
 
  **Race:** Dragon
-
- **Class:** Defense
 
  **tsl:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94707
 
- **Name:** Black Dragon King
+ **Awaking Name:** Black Dragon King
 
- **Description:** Any spell in front of the Black Dragon King is like a smoldering firefly. The only thing that can shine with the darkness is its own breath and anger.
+ **Awaking Description:** Any spell in front of the Black Dragon King is like a smoldering firefly. The only thing that can shine with the darkness is its own breath and anger.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Wood Elf"
 toc: true
 ---
+## General information
  **Description:** The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Rampart
 
  **Race:** Forest
-
- **Class:** Ranged
 
  **tsl:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** Killing done properly can be graceful, even elegant.
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94203
 
- **Name:** Grand Elf
+ **Awaking Name:** Grand Elf
 
- **Description:** The birds in the forest are her eyes, the flying arrows are her call and the natural blessing makes a perfect presentation on them. They are the noble hunters who represent the will of the great forest, the Grand Elves of Tulalyon!
+ **Awaking Description:** The birds in the forest are her eyes, the flying arrows are her call and the natural blessing makes a perfect presentation on them. They are the noble hunters who represent the will of the great forest, the Grand Elves of Tulalyon!
 

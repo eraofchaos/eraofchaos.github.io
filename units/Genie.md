@@ -8,6 +8,7 @@ lang: en
 ref: "Genie"
 toc: true
 ---
+## General information
  **Description:** Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Caster
 
  **tsl:** Energy Gift: Converts ATK into healing
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I am bathed in the holy light!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94605
 
- **Name:** Master Genie
+ **Awaking Name:** Master Genie
 
- **Description:** The Genies have become strong enough after thousands of battles, and they can return to the elemental world at any time as long as they are willing to leave this small oil lamp. However, because of their relations with mages, they choose to stay with the mages until the end of their life.
+ **Awaking Description:** The Genies have become strong enough after thousands of battles, and they can return to the elemental world at any time as long as they are willing to leave this small oil lamp. However, because of their relations with mages, they choose to stay with the mages until the end of their life.
 

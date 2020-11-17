@@ -8,6 +8,7 @@ lang: en
 ref: "Monk"
 toc: true
 ---
+## General information
  **Description:** Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Human
-
- **Class:** Caster
 
  **tsl:** Prayer: Heals the unit in your army with the lowest health.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I am bathed in the holy light!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94105
 
- **Name:** 
+ **Awaking Name:** 
 
- **Description:** 
+ **Awaking Description:** 
 

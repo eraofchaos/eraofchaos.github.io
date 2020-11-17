@@ -8,6 +8,7 @@ lang: en
 ref: "Spartan Warriors"
 toc: true
 ---
+## General information
  **Description:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Neutral Army
 
  **Race:** Assassin Guild
-
- **Class:** Offense
 
  **tsl:** null
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 3
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 100
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** You'll never catch me!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 949702
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

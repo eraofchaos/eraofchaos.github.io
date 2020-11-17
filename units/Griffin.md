@@ -8,6 +8,7 @@ lang: en
 ref: "Griffin"
 toc: true
 ---
+## General information
  **Description:** Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Beast
-
- **Class:** Charging
 
  **tsl:** Dive: Deals damage to 3 opponent units when attacking.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** You'll never catch me!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94103
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

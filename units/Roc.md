@@ -8,6 +8,7 @@ lang: en
 ref: "Roc"
 toc: true
 ---
+## General information
  **Description:** Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Unicorn
-
- **Class:** Caster
 
  **tsl:** Thunder: Deals catastrophic damage to all enemy troops in its path.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** Perish as the lightning strikes!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94405
 
- **Name:** Thunderbird
+ **Awaking Name:** Thunderbird
 
- **Description:** It's called the most powerful soul on the Air Conflux Plane in the library of Bracada. When it comes to the main material world, Thunderbird will generate storms and hurricanes every time when swinging its powerful wings.
+ **Awaking Description:** It's called the most powerful soul on the Air Conflux Plane in the library of Bracada. When it comes to the main material world, Thunderbird will generate storms and hurricanes every time when swinging its powerful wings.
 

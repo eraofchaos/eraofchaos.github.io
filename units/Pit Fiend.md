@@ -8,6 +8,7 @@ lang: en
 ref: "Pit Fiend"
 toc: true
 ---
+## General information
  **Description:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Demoniac
-
- **Class:** Offense
 
  **tsl:** Fire Spring: Continuously heals friendly units in its path
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 100
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94505
 
- **Name:** Pit Lord
+ **Awaking Name:** Pit Lord
 
- **Description:** She crushes her opponent proudly, and infects every hell warrior with enthusiasm. Her skin, infused with magma makes the devil crazy, making the battle a carnival.
+ **Awaking Description:** She crushes her opponent proudly, and infects every hell warrior with enthusiasm. Her skin, infused with magma makes the devil crazy, making the battle a carnival.
 

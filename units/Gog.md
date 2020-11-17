@@ -8,6 +8,7 @@ lang: en
 ref: "Gog"
 toc: true
 ---
+## General information
  **Description:** Gogs may seem to be mild but they can be very aggressive in battle.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Demoniac
-
- **Class:** Caster
 
  **tsl:** Fire Wall: Deals damage to enemy troops in its path.
 
@@ -64,7 +63,7 @@ toc: true
 
  **label:** 1
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 80
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94502
 
- **Name:** Magog
+ **Awaking Name:** Magog
 
- **Description:** A master demon who plays the flame, the fire of hell spurts from her body. Ephesus's enemies will be swallowed up by her throwing flames until they are burned to ashes.
+ **Awaking Description:** A master demon who plays the flame, the fire of hell spurts from her body. Ephesus's enemies will be swallowed up by her throwing flames until they are burned to ashes.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Stone Gargoyle"
 toc: true
 ---
+## General information
  **Description:** These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Offense
 
  **tsl:** Stone Form: Increases ATK and ATK speed
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** Wipe out the enemy while they move!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94602
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

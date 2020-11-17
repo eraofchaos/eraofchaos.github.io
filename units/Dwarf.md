@@ -8,6 +8,7 @@ lang: en
 ref: "Dwarf"
 toc: true
 ---
+## General information
  **Description:** Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Rampart
 
  **Race:** Forest
-
- **Class:** Defense
 
  **tsl:** Dwarf Howl: Increases friendly unit's max health at the beginning of a battle.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** A buff to the head could be just what you need.
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94202
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

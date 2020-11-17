@@ -8,6 +8,7 @@ lang: en
 ref: "Green Dragon"
 toc: true
 ---
+## General information
  **Description:** Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Rampart
 
  **Race:** Dragon
-
- **Class:** Caster
 
  **tsl:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** Death, disaster, destruction and obliteration. That is all I seek.
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94207
 
- **Name:** Gold Dragon
+ **Awaking Name:** Gold Dragon
 
- **Description:** Gold Dragons evolved from Green Dragons through a long period of time. After years of hardship, they are more powerful and become more resistant to magic.
+ **Awaking Description:** Gold Dragons evolved from Green Dragons through a long period of time. After years of hardship, they are more powerful and become more resistant to magic.
 

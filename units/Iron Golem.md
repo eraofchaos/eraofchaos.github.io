@@ -8,6 +8,7 @@ lang: en
 ref: "Iron Golem"
 toc: true
 ---
+## General information
  **Description:** Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Defense
 
  **tsl:** Metal Resonance: Activates a protective shield to protect friendly units
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** You'll never catch me!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94603
 
- **Name:** Gold Golem
+ **Awaking Name:** Gold Golem
 
- **Description:** Mysterious magical alloy makes this great creation indestructible, and the Gold Golem, seems to be able to withstand any damage. They are loyal guards for the Tower, and they are a barrier that cannot be broken for enemies.
+ **Awaking Description:** Mysterious magical alloy makes this great creation indestructible, and the Gold Golem, seems to be able to withstand any damage. They are loyal guards for the Tower, and they are a barrier that cannot be broken for enemies.
 

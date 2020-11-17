@@ -8,6 +8,7 @@ lang: en
 ref: "Beholder"
 toc: true
 ---
+## General information
  **Description:** These multi-eyed monsters are clever. For them, all the creatures are servants.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Dungeon
 
  **Race:** Evil spirit
-
- **Class:** Caster
 
  **tsl:** Mind Control: Immobilizes enemies and makes them lose HP over time
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94703
 
- **Name:** Evil Eye
+ **Awaking Name:** Evil Eye
 
- **Description:** An evil power of unknown origin, its eyes radiate dreadful fear. The eye of death sees the fragility of enemies and absorbs invincible power.
+ **Awaking Description:** An evil power of unknown origin, its eyes radiate dreadful fear. The eye of death sees the fragility of enemies and absorbs invincible power.
 

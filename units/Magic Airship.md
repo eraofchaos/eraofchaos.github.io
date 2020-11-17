@@ -8,6 +8,7 @@ lang: en
 ref: "Magic Airship"
 toc: true
 ---
+## General information
  **Description:** The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Caster
 
  **tsl:** null
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94608
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Gremlin"
 toc: true
 ---
+## General information
  **Description:** Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Ranged
 
  **tsl:** Magic Ironball: Greatly increases ATK and ATK speed
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94601
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

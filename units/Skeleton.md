@@ -8,6 +8,7 @@ lang: en
 ref: "Skeleton"
 toc: true
 ---
+## General information
  **Description:** These fragile bones may seem useless but they quickly lower the morale of their enemies.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Undead
-
- **Class:** Defense
 
  **tsl:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94301
 
- **Name:** Skeleton Warrior
+ **Awaking Name:** Skeleton Warrior
 
- **Description:** A wise king of ancient times, but he still fell because of fear of death. Now he comes back, commanding the dead army to recapture his homeland.
+ **Awaking Description:** A wise king of ancient times, but he still fell because of fear of death. Now he comes back, commanding the dead army to recapture his homeland.
 

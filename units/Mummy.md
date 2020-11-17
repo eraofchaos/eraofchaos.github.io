@@ -8,6 +8,7 @@ lang: en
 ref: "Mummy"
 toc: true
 ---
+## General information
  **Description:** The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Undead
-
- **Class:** Defense
 
  **tsl:** Decaying Curse: Greatly decreased enemies' healing
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94308
 
- **Name:** Mummy King
+ **Awaking Name:** Mummy King
 
- **Description:** Once dead, fixing the soul to the immortal body will turn it into a Mummy, but the silence of thousands of years has already made Pharaoh full of hatred against all living things. The Mummy King curses all living things, making them the same undead monsters as themselves.
+ **Awaking Description:** Once dead, fixing the soul to the immortal body will turn it into a Mummy, but the silence of thousands of years has already made Pharaoh full of hatred against all living things. The Mummy King curses all living things, making them the same undead monsters as themselves.
 

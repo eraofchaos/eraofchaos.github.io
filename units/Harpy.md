@@ -8,6 +8,7 @@ lang: en
 ref: "Harpy"
 toc: true
 ---
+## General information
  **Description:** The monster is part human and part bird. No one can bear their cloud-piercing screaming.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Dungeon
 
  **Race:** Dungeon troops
-
- **Class:** Charging
 
  **tsl:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94702
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

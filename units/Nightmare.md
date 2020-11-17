@@ -8,6 +8,7 @@ lang: en
 ref: "Nightmare"
 toc: true
 ---
+## General information
  **Description:** Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Demoniac
-
- **Class:** Defense
 
  **tsl:** null
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94508
 
- **Name:** 
+ **Awaking Name:** 
 
- **Description:** 
+ **Awaking Description:** 
 

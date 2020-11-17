@@ -8,6 +8,7 @@ lang: en
 ref: "Hell Hound"
 toc: true
 ---
+## General information
  **Description:** Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Beast
-
- **Class:** Charging
 
  **tsl:** Rampage: Each hit is critical attack for a short period.
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 1
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 120
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94503
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Basilisk"
 toc: true
 ---
+## General information
  **Description:** Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Fortress
 
  **Race:** Beast
-
- **Class:** Defense
 
  **tsl:** 
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 90
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94804
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Walking Dead"
 toc: true
 ---
+## General information
  **Description:** Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Undead
-
- **Class:** Defense
 
  **tsl:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94302
 
- **Name:** Zombie
+ **Awaking Name:** Zombie
 
- **Description:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
+ **Awaking Description:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
 

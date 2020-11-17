@@ -8,6 +8,7 @@ lang: en
 ref: "Naga"
 toc: true
 ---
+## General information
  **Description:** These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Offense
 
  **tsl:** Blade Dance: AoE damage and AoE DEF reduction
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I fight for justice, honesty, mercy and modesty!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94606
 
- **Name:** Naga Queen
+ **Awaking Name:** Naga Queen
 
- **Description:** The most noble and powerful ruler of the Naga. The most beautiful treasures of the sea are used to decorate her majesty. The long white hair and the golden crown of jade are the characteristics of the Naga Queen. All of these offerings are for the same purpose, which is to occupy a wider and richer hunting ground and habitat for the tribe.
+ **Awaking Description:** The most noble and powerful ruler of the Naga. The most beautiful treasures of the sea are used to decorate her majesty. The long white hair and the golden crown of jade are the characteristics of the Naga Queen. All of these offerings are for the same purpose, which is to occupy a wider and richer hunting ground and habitat for the tribe.
 

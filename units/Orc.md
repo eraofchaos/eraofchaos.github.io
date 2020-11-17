@@ -8,6 +8,7 @@ lang: en
 ref: "Orc"
 toc: true
 ---
+## General information
  **Description:** No one knows where Orcs hide their axes and they seem to have endless axes to throw.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Orc
-
- **Class:** Ranged
 
  **tsl:** Execution: Deals extra damage to enemies with health lower than 30%.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** Ah, a fresh meal! Pity they don't come unwrapped, I do find armour sticks in the teeth.
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94403
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

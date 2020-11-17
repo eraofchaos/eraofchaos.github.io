@@ -8,6 +8,7 @@ lang: en
 ref: "Cavalier "
 toc: true
 ---
+## General information
  **Description:** Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Human
-
- **Class:** Charging
 
  **tsl:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I fight for justice, honesty, mercy and modesty!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94106
 
- **Name:** Champion Knights
+ **Awaking Name:** Champion Knights
 
- **Description:** Let us set off! Brave knights of Erathia! The champion's laurel awaits you. Fight for your beliefs, and for justice. Fulfill your destiny!
+ **Awaking Description:** Let us set off! Brave knights of Erathia! The champion's laurel awaits you. Fight for your beliefs, and for justice. Fulfill your destiny!
 

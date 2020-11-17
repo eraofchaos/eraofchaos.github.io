@@ -8,6 +8,7 @@ lang: en
 ref: "Hydra"
 toc: true
 ---
+## General information
  **Description:** A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Fortress
 
  **Race:** Unicorn
-
- **Class:** Offense
 
  **tsl:** 
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 3
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 95
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94807
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

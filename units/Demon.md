@@ -8,6 +8,7 @@ lang: en
 ref: "Demon"
 toc: true
 ---
+## General information
  **Description:** Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Demoniac
-
- **Class:** Defense
 
  **tsl:** Scalding Strike: Deals colossal damage to enemy troops.
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 90
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94504
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

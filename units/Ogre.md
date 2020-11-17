@@ -8,6 +8,7 @@ lang: en
 ref: "Ogre"
 toc: true
 ---
+## General information
  **Description:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Barbarian
-
- **Class:** Defense
 
  **tsl:** Blood Pool: Improves the life drain of your nearby units.
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 90
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** Watch as I crush you all!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94404
 
- **Name:** Ogre Mage
+ **Awaking Name:** Ogre Mage
 
- **Description:** The chiefs rule their tribes with unparalleled record and undisguised authority. The huge and terrifying animal bone flag is a symbol of their identity. Stupid short-lived guys always launch a challenge beyond their ability, just forgotten as sacrifices of a banner.
+ **Awaking Description:** The chiefs rule their tribes with unparalleled record and undisguised authority. The huge and terrifying animal bone flag is a symbol of their identity. Stupid short-lived guys always launch a challenge beyond their ability, just forgotten as sacrifices of a banner.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Wolf Rider"
 toc: true
 ---
+## General information
  **Description:** Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Stronghold
 
  **Race:** Orc
-
- **Class:** Charging
 
  **tsl:** Beast Companion: Summons wolves to the battle when this unit dies.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** Kill 'em all!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94402
 
- **Name:** Wolf Raider
+ **Awaking Name:** Wolf Raider
 
- **Description:** Wildness is determined by the beastly nature of the blood, sharp knives stabbing the enemy's heart, making bloody storms to sweep the battlefield.
+ **Awaking Description:** Wildness is determined by the beastly nature of the blood, sharp knives stabbing the enemy's heart, making bloody storms to sweep the battlefield.
 

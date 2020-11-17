@@ -8,6 +8,7 @@ lang: en
 ref: "Wyvern"
 toc: true
 ---
+## General information
  **Description:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Fortress
 
  **Race:** Beast
-
- **Class:** Offense
 
  **tsl:** 
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 100
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94806
 
- **Name:** Wyvern Monarch
+ **Awaking Name:** Wyvern Monarch
 
- **Description:** Even in the swamps full of poisons, the plague Wyvern Monarch filled with toxins is also the king of poison.
+ **Awaking Description:** Even in the swamps full of poisons, the plague Wyvern Monarch filled with toxins is also the king of poison.
 

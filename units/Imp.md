@@ -8,6 +8,7 @@ lang: en
 ref: "Imp"
 toc: true
 ---
+## General information
  **Description:** Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Demoniac
-
- **Class:** Defense
 
  **tsl:** Impulse: Unit has a chance to revive with full health after death.
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 1
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 90
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94501
 
- **Name:** Varied Jinnee
+ **Awaking Name:** Varied Jinnee
 
- **Description:** As a faithful and tenacious servant of the hell, she defends the victory with life, and summons the horrible devil with the will.
+ **Awaking Description:** As a faithful and tenacious servant of the hell, she defends the victory with life, and summons the horrible devil with the will.
 

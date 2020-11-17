@@ -8,6 +8,7 @@ lang: en
 ref: "Vampire"
 toc: true
 ---
+## General information
  **Description:** Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Evil spirit
-
- **Class:** Charging
 
  **tsl:** Life Drain: Drains the enemy unit's health, restoring its own.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94304
 
- **Name:** Vampire Lord
+ **Awaking Name:** Vampire Lord
 
- **Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
+ **Awaking Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
 

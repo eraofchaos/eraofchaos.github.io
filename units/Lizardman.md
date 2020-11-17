@@ -8,6 +8,7 @@ lang: en
 ref: "Lizardman"
 toc: true
 ---
+## General information
  **Description:** The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at.
 
  **Class:** Ranged
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Fortress
 
  **Race:** Beast Master
-
- **Class:** Ranged
 
  **tsl:** 
 
@@ -64,7 +63,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 90
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94802
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

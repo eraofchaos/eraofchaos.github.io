@@ -8,6 +8,7 @@ lang: en
 ref: "Gorgon"
 toc: true
 ---
+## General information
  **Description:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Fortress
 
  **Race:** Beast
-
- **Class:** Defense
 
  **tsl:** 
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 3
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 90
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94805
 
- **Name:** Mighty Gorgon
+ **Awaking Name:** Mighty Gorgon
 
- **Description:** Legend has it that the eyes of a dead cow can strip the soul of a living creature, but the truth of this matter cannot be determined so far. Because anyone who has seen it has not been able to get out of the swamp.
+ **Awaking Description:** Legend has it that the eyes of a dead cow can strip the soul of a living creature, but the truth of this matter cannot be determined so far. Because anyone who has seen it has not been able to get out of the swamp.
 

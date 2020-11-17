@@ -8,6 +8,7 @@ lang: en
 ref: "Arch Mage"
 toc: true
 ---
+## General information
  **Description:** Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Tower
 
  **Race:** Human
-
- **Class:** Caster
 
  **tsl:** Spell penetration: Damage to single units gets higher and higher
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** My sword and shield will not stand for your madness!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94604
 
- **Name:** Arch Mage
+ **Awaking Name:** Arch Mage
 
- **Description:** Master in the field of magic, they know all the mystery of magic. For the Arch Mages, their mission is to constantly explore the mysteries that have not yet been discovered, and finally master them.
+ **Awaking Description:** Master in the field of magic, they know all the mystery of magic. For the Arch Mages, their mission is to constantly explore the mysteries that have not yet been discovered, and finally master them.
 

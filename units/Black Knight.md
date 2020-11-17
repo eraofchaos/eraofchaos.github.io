@@ -8,6 +8,7 @@ lang: en
 ref: "Black Knight"
 toc: true
 ---
+## General information
  **Description:** Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Necropolis
 
  **Race:** Undead
-
- **Class:** Charging
 
  **tsl:** Critical Strike: Deals colossal damage and causes low morale.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94306
 
- **Name:** Dread Knight
+ **Awaking Name:** Dread Knight
 
- **Description:** I see skies pitch black like the night and a moon red as blood. Darkness has shrouded the light. Fear is the name that inspires darkness. The bloody blade was granted to him and even the dead follow him. When the Dread Lord arrives, no one can hear the wails of the lambs.
+ **Awaking Description:** I see skies pitch black like the night and a moon red as blood. Darkness has shrouded the light. Fear is the name that inspires darkness. The bloody blade was granted to him and even the dead follow him. When the Dread Lord arrives, no one can hear the wails of the lambs.
 

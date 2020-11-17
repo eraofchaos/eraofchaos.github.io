@@ -8,6 +8,7 @@ lang: en
 ref: "Troglodyte"
 toc: true
 ---
+## General information
  **Description:** A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Dungeon
 
  **Race:** Dungeon troops
-
- **Class:** Offense
 
  **tsl:** Spear Array: AoE damage and stunning
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94701
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

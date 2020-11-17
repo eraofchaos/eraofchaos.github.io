@@ -8,6 +8,7 @@ lang: en
 ref: "Minotaur"
 toc: true
 ---
+## General information
  **Description:** A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces.
 
  **Class:** Defense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Dungeon
 
  **Race:** Dungeon troops
-
- **Class:** Defense
 
  **tsl:** Whirlwind: Causes AoE attack and decreases ATK speed
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94705
 
- **Name:** Minotaur King
+ **Awaking Name:** Minotaur King
 
- **Description:** The huge battle axes are the symbol of their power, and the dark labyrinth is the creed they guard. The cruel Minotaur King is surrounded by skeletons and he will kill all intruders.
+ **Awaking Description:** The huge battle axes are the symbol of their power, and the dark labyrinth is the creed they guard. The cruel Minotaur King is surrounded by skeletons and he will kill all intruders.
 

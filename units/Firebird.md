@@ -8,6 +8,7 @@ lang: en
 ref: "Firebird"
 toc: true
 ---
+## General information
  **Description:** The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Conflux
 
  **Race:** Unicorn
-
- **Class:** Caster
 
  **tsl:** Flame Breath: Deals damage to enemy troops in its path.
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94907
 
- **Name:** Phoenix
+ **Awaking Name:** Phoenix
 
- **Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
+ **Awaking Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
 

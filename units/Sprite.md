@@ -8,6 +8,7 @@ lang: en
 ref: "Sprite"
 toc: true
 ---
+## General information
  **Description:** A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. 
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Conflux
 
  **Race:** Beast Master
-
- **Class:** Charging
 
  **tsl:** null
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94901
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Efreeti"
 toc: true
 ---
+## General information
  **Description:** Efreets are born in the fires of the inferno. They can cast fire magic into the air.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Inferno
 
  **Race:** Evil spirit
-
- **Class:** Caster
 
  **tsl:** FireBall: Deals colossal damage to your enemies, causes burning.
 
@@ -64,7 +63,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 80
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94506
 
- **Name:** Efreet Sultan
+ **Awaking Name:** Efreet Sultan
 
- **Description:** Powerful spirits condensed by the flames of the abyss, they are powerful allies of the demons on Fire Conflux Plane. Now in order to help Eeofol win the final victory, they came to Erathia.
+ **Awaking Description:** Powerful spirits condensed by the flames of the abyss, they are powerful allies of the demons on Fire Conflux Plane. Now in order to help Eeofol win the final victory, they came to Erathia.
 

@@ -8,6 +8,7 @@ lang: en
 ref: "Angel"
 toc: true
 ---
+## General information
  **Description:** Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Castle
 
  **Race:** Angel
-
- **Class:** Offense
 
  **tsl:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** Heretics will flee from my might!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94107
 
- **Name:** Archangel
+ **Awaking Name:** Archangel
 
- **Description:** Those who were born to be Messiah. At the hard time, the powers who bless your country will stand up. From ancient times to now, there is no such thing. For the people of Erathia, anyone who is recorded on the book will be saved. Book of Angst 12:1
+ **Awaking Description:** Those who were born to be Messiah. At the hard time, the powers who bless your country will stand up. From ancient times to now, there is no such thing. For the people of Erathia, anyone who is recorded on the book will be saved. Book of Angst 12:1
 

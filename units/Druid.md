@@ -8,6 +8,7 @@ lang: en
 ref: "Druid"
 toc: true
 ---
+## General information
  **Description:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Rampart
 
  **Race:** Forest
-
- **Class:** Caster
 
  **tsl:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94208
 
- **Name:** Archdruid
+ **Awaking Name:** Archdruid
 
- **Description:** 
+ **Awaking Description:** 
 

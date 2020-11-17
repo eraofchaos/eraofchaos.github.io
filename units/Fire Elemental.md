@@ -8,6 +8,7 @@ lang: en
 ref: "Fire Elemental"
 toc: true
 ---
+## General information
  **Description:** An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Conflux
 
  **Race:** Beast Master
-
- **Class:** Offense
 
  **tsl:** null
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94904
 
- **Name:** Energy Elemental
+ **Awaking Name:** Energy Elemental
 
- **Description:** The energy condenses into a form that never withers away, with cold auras gathering around. Absorbs all nature power to become more powerful in combat.
+ **Awaking Description:** The energy condenses into a form that never withers away, with cold auras gathering around. Absorbs all nature power to become more powerful in combat.
 

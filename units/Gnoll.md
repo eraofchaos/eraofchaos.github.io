@@ -8,6 +8,7 @@ lang: en
 ref: "Gnoll"
 toc: true
 ---
+## General information
  **Description:** A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey.
 
  **Class:** Offense
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Fortress
 
  **Race:** Beast Master
-
- **Class:** Offense
 
  **tsl:** 
 
@@ -58,7 +57,7 @@ toc: true
 
  **label:** 1
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 100
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94801
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

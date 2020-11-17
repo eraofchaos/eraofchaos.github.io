@@ -8,6 +8,7 @@ lang: en
 ref: "Serpent Fly"
 toc: true
 ---
+## General information
  **Description:** Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring.
 
  **Class:** Caster
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Fortress
 
  **Race:** Beast
-
- **Class:** Caster
 
  **tsl:** 
 
@@ -64,7 +63,7 @@ toc: true
 
  **label:** 2
 
- **label1:** -2147483648
+ **label1:** 
 
  **speedmove:** 80
 
@@ -82,13 +81,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** NO
+## Talent
+## Awaking
+ **Is it possible right now?** NO
 
  **Score up:** 94803
 
- **Name:** null
+ **Awaking Name:** null
 
- **Description:** null
+ **Awaking Description:** null
 

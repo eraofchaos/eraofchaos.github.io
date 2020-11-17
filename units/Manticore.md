@@ -8,6 +8,7 @@ lang: en
 ref: "Manticore"
 toc: true
 ---
+## General information
  **Description:** A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail.
 
  **Class:** Charging
@@ -17,8 +18,6 @@ toc: true
  **Fraction:** Dungeon
 
  **Race:** Dungeon troops
-
- **Class:** Charging
 
  **tsl:** 
 
@@ -76,13 +75,13 @@ toc: true
 
  **talk3:** I stand fast for my home and my country!
 
-### Talent
-### Awaking
- **Possible:** YES
+## Talent
+## Awaking
+ **Is it possible right now?** YES
 
  **Score up:** 94706
 
- **Name:** Scorpicore
+ **Awaking Name:** Scorpicore
 
- **Description:** Scorpicore's rage shatters the land. Scorpicore's form petrifies with fear. Scorpicore's roar subjugates all.
+ **Awaking Description:** Scorpicore's rage shatters the land. Scorpicore's form petrifies with fear. Scorpicore's roar subjugates all.
 
