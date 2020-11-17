@@ -6,9 +6,10 @@ last_modified_at: 2020-11-18
 lang: en
 ref: "index.md"
 toc: false
+search: false
 ---
 
-  |  Nr  |`           Question            `|`   Correct Answer   `|   Incorrect Answer 1   |    Incorrect Answer 2     |      Incorrect Answer 3      |
+  |  Nr  |             Question            |    Correct Answer    |   Incorrect Answer 1   |    Incorrect Answer 2     |      Incorrect Answer 3      |
   |:-----|:--------------------------------|:---------------------|:----------------------:|:-------------------------:|:----------------------------:|
   | 1 |  A creature with a lion’s’ body, an eagle’s head and wings, what is it?  | **Griffin** | Manticore | Medusa | Chimera |
   | 2 |  According to Ancient Egyptian mythology, what’s the famous building built by the Sphinx?  | **The Great Sphinx** | Snake-head and Man-body Statue | Lion-head and Man-body Statue | Eagle-head and Man-body Statue |
