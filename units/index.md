@@ -2,10 +2,11 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "List of ALL Units in Era of Chaos"
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "index.md"
 toc: false
+classes: wide
 ---
   | Nr |         Name        |   Type   |   A   |    MT     |      Art      |  class  |    s   |   label   |    HP     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:------:|:---------:|:----------|

@@ -6,7 +6,6 @@ last_modified_at: 2020-11-18
 lang: en
 ref: "index.md"
 toc: false
-search: false
 classes: wide
 ---
 
