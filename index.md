@@ -17,6 +17,7 @@ You will find here:
 ### <i class="fas fa-place-of-worship"/>  [Guild](/guild/)
 ### <i class="fas fa-store"/>  [Stores](/stores/)
 ### <i class="fas fa-chess"/>  [Auto Chess](/autochess/)
+### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 
 More TBD...
 ### War Maschines (TBD)

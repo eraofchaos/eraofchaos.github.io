@@ -27,6 +27,9 @@ docs:
       url: /stores/
     - title: "Auto Chess"
       url: /autochess/
+    - title: "Sphinx answers"
+      url: /sphinx/
+
   - title: "Language"
     children:
       - title: "English"
