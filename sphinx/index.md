@@ -8,8 +8,8 @@ ref: "index.md"
 toc: false
 ---
 
-  | Nr | <div style="width:300px">Question</div>| <div style="width:100px">Correct Answer</div>   |   Incorrect Answer 1   |    Incorrect Answer 2     |      Incorrect Answer 3      |
-  |:---|:------------------------|:-------------------|:----------------------:|:-------------------------:|:----------------------------:|
+  |  Nr  |`           Question            `|`   Correct Answer   `|   Incorrect Answer 1   |    Incorrect Answer 2     |      Incorrect Answer 3      |
+  |:-----|:--------------------------------|:---------------------|:----------------------:|:-------------------------:|:----------------------------:|
   | 1 |  A creature with a lion’s’ body, an eagle’s head and wings, what is it?  | **Griffin** | Manticore | Medusa | Chimera |
   | 2 |  According to Ancient Egyptian mythology, what’s the famous building built by the Sphinx?  | **The Great Sphinx** | Snake-head and Man-body Statue | Lion-head and Man-body Statue | Eagle-head and Man-body Statue |
   | 3 |  According to Western customs, which finger on the left hand should the engagement ring be worn on?  | **Ring finger** | Forefinger | Midfinger | Thumb |
