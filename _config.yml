@@ -151,6 +151,10 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      toc: false
+      search: false
+      sidebar:
+        nav: "docs"
   # units
   - scope:
       path: "units"
