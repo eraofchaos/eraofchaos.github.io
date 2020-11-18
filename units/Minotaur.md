@@ -69,14 +69,13 @@ toc: true
  **Awaking Description:** The huge battle axes are the symbol of their power, and the dark labyrinth is the creed they guard. The cruel Minotaur King is surrounded by skeletons and he will kill all intruders.
 
 ### Awaking Tasks
+ ** N1:** <span style="color: #3c2a1e">Deploy Minotaur with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
- ** 1:** <span style="color: #3c2a1e">Deploy Minotaur with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ ** N2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
- ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ ** N3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Battle Steer souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
 
- ** 3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Battle Steer souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
-
- ** 4:** <span style="color: #3c2a1e">Deploy Minotaur and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon Units and win 1 Duel of Champions battle.<span style="color: black">
+ ** N4:** <span style="color: #3c2a1e">Deploy Minotaur and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon Units and win 1 Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1

@@ -69,14 +69,13 @@ toc: true
  **Awaking Description:** The chiefs rule their tribes with unparalleled record and undisguised authority. The huge and terrifying animal bone flag is a symbol of their identity. Stupid short-lived guys always launch a challenge beyond their ability, just forgotten as sacrifices of a banner.
 
 ### Awaking Tasks
+ ** N1:** <span style="color: #3c2a1e">Deploy Ogre with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Stronghold units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
- ** 1:** <span style="color: #3c2a1e">Deploy Ogre with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Stronghold units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ ** N2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
- ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+ ** N3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Ogre Mage souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
 
- ** 3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Ogre Mage souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
-
- ** 4:** <span style="color: #3c2a1e">Deploy Hack and Ogre and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ ** N4:** <span style="color: #3c2a1e">Deploy Hack and Ogre and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1

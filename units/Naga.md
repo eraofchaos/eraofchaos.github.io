@@ -69,14 +69,13 @@ toc: true
  **Awaking Description:** The most noble and powerful ruler of the Naga. The most beautiful treasures of the sea are used to decorate her majesty. The long white hair and the golden crown of jade are the characteristics of the Naga Queen. All of these offerings are for the same purpose, which is to occupy a wider and richer hunting ground and habitat for the tribe.
 
 ### Awaking Tasks
+ ** N1:** <span style="color: #3c2a1e">Deploy Naga with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
- ** 1:** <span style="color: #3c2a1e">Deploy Naga with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ ** N2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
- ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ ** N3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
 
- ** 3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
-
- ** 4:** <span style="color: #3c2a1e">Deploy Naga and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ ** N4:** <span style="color: #3c2a1e">Deploy Naga and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1

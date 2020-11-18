@@ -69,14 +69,13 @@ toc: true
  **Awaking Description:** An evil power of unknown origin, its eyes radiate dreadful fear. The eye of death sees the fragility of enemies and absorbs invincible power.
 
 ### Awaking Tasks
+ ** N1:** <span style="color: #3c2a1e">Deploy Beholder with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
- ** 1:** <span style="color: #3c2a1e">Deploy Beholder with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ ** N2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
- ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ ** N3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Evil Eye souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
 
- ** 3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Evil Eye souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
-
- ** 4:** <span style="color: #3c2a1e">Deploy Beholder with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and win 1 Duel of Champions battle. (Sweep does not count towards the mission.)<span style="color: black">
+ ** N4:** <span style="color: #3c2a1e">Deploy Beholder with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and win 1 Duel of Champions battle. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 0

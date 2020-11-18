@@ -69,14 +69,13 @@ toc: true
  **Awaking Description:** I saw that the living creature came up from the ground, with its horns like goats, and each horn has its own title. It's covered with flames, making fires from the ground to the sky. Whatever Eeofol has, the ability, the seat, and the great power are given to him. He also uses fire, smoke and sulfur to conquer the world.
 
 ### Awaking Tasks
+ ** N1:** <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,500<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
- ** 1:** <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,500<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ ** N2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
- ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ ** N3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Arch Devil souls in the Underground: 18-2 and 18-4 levels.<span style="color: black">
 
- ** 3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Arch Devil souls in the Underground: 18-2 and 18-4 levels.<span style="color: black">
-
- ** 4:** <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+ ** N4:** <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1

@@ -69,14 +69,13 @@ toc: true
  **Awaking Description:** 
 
 ### Awaking Tasks
+ ** N1:** 
 
- ** 1:** 
+ ** N2:** <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
 
- ** 2:** <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+ ** N3:** 
 
- ** 3:** 
-
- ** 4:** 
+ ** N4:** 
 
 ## Technical info
  **runart:** 1
