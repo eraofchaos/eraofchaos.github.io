@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** God of War: Ignores range and deals HP percentage damage
+ **Unit description:** God of War: Ignores range and deals HP percentage damage
 
- ** Base HP:** 5431.0
+ **Base HP:** 5431.0
 
- ** Base ATK:** 792.0
+ **Base ATK:** 792.0
+
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+
+ **Info1:** Can deal magical damage to all enemies. Heroes' spells increase its attack.
+
+ **Info2:** Can deal magical damage to all enemies. Heroes' spells increase its attack.
 
 ## Skills
 ### 1 Skill: null
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Tower units are proficient at energy conversion, increasing themselves Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+4)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94607
-
  **Awaking Name:** Titan
 
  **Awaking Description:** 
 
 ### Awaking Tasks
-    - 
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: 
 
-    - 
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - 
+#### 3: 
+
+#### 4: 
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 0
 
  **posclass:** 5
-
- **recommend2:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
-
- **dingwei:** Can deal magical damage to all enemies. Heroes' spells increase its attack.
-
- **sharedsc:** Can deal magical damage to all enemies. Heroes' spells increase its attack.
 
  **talk1:** Return to life, my Cavalier !
 

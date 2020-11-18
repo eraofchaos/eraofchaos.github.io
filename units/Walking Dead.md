@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Undead
 
- **tsl:** Explosive: Deals damage to nearby enemy troops when the unit dies.
+ **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
- ** Base HP:** 2758.0
+ **Base HP:** 2758.0
 
- ** Base ATK:** 117.7
+ **Base ATK:** 117.7
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Has high defense, spreads plague to the enemies around it.
+
+ **Info2:** Has high defense, spreads plague to the enemies around it.
 
 ## Skills
 ### 1 Skill: Poison Gas
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94302
-
  **Awaking Name:** Zombie
 
  **Awaking Description:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Walking Dead with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Walking Dead with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Walking Dead souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Walking Dead and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Walking Dead souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Walking Dead and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Has high defense, spreads plague to the enemies around it.
-
- **sharedsc:** Has high defense, spreads plague to the enemies around it.
 
  **talk1:** No one can break my lance!
 

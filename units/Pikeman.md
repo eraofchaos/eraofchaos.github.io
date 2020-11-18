@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Spear Array: Deals damage to enemy units, causes stun.
+ **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
 
- ** Base HP:** 645.0
+ **Base HP:** 645.0
 
- ** Base ATK:** 84.4
+ **Base ATK:** 84.4
+
+ **Recommend:** Warrior, Mage and Priest work well together. 
+
+ **Info1:** Stun your enemies. Most effective on large units.
+
+ **Info2:** Stun your enemies. Most effective on large units.
 
 ## Skills
 ### 1 Skill: Spear Array
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94101
-
  **Awaking Name:** Halberdier
 
  **Awaking Description:** When the weak are unfairly treated, it is my duty to punish the wicked and help the good. When righteousness is trampled, it is my vow to impose justice. In the face of danger and sacrifice, I remember that sacrifice is loyalty, and honor is my destiny.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
 
-    - null
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+#### 4: null
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** Warrior, Mage and Priest work well together. 
-
- **dingwei:** Stun your enemies. Most effective on large units.
-
- **sharedsc:** Stun your enemies. Most effective on large units.
 
  **talk1:** No one can break my lance!
 

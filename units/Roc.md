@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Unicorn
 
- **tsl:** Thunder: Deals catastrophic damage to all enemy troops in its path.
+ **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
 
- ** Base HP:** 4978.0
+ **Base HP:** 4978.0
 
- ** Base ATK:** 792.0
+ **Base ATK:** 792.0
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Deals high magical damage to hit multiple targets effectively.
+
+ **Info2:** Deals high magical damage to hit multiple targets effectively.
 
 ## Skills
 ### 1 Skill: Thunder
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*300+1200)}<span style="color: black"><span style="color: #645252"> HP every 3s) and receiving <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+1)}%<span style="color: black"><span style="color: #645252"> life drain<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94405
-
  **Awaking Name:** Thunderbird
 
  **Awaking Description:** It's called the most powerful soul on the Air Conflux Plane in the library of Bracada. When it comes to the main material world, Thunderbird will generate storms and hurricanes every time when swinging its powerful wings.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Roc with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Roc with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Thunderbird souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Roc with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Caster units and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Thunderbird souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Roc with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Caster units and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Deals high magical damage to hit multiple targets effectively.
-
- **sharedsc:** Deals high magical damage to hit multiple targets effectively.
 
  **talk1:** Tweet tweet!
 

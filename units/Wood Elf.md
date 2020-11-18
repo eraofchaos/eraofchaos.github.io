@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Forest
 
- **tsl:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
+ **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
- ** Base HP:** 438.4
+ **Base HP:** 438.4
 
- ** Base ATK:** 92.4
+ **Base ATK:** 92.4
+
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info1:** Deal colossal burst damage, double strike. Most effective against small units.
+
+ **Info2:** Deal colossal burst damage, double strike. Most effective against small units.
 
 ## Skills
 ### 1 Skill: null
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94203
-
  **Awaking Name:** Grand Elf
 
  **Awaking Description:** The birds in the forest are her eyes, the flying arrows are her call and the natural blessing makes a perfect presentation on them. They are the noble hunters who represent the will of the great forest, the Grand Elves of Tulalyon!
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Wood Elf with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Wood Elf with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Grand Elf souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Wood Elf and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Grand Elf souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Wood Elf and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 4
-
- **recommend2:** Deals extra damage to any slowed enemies.
-
- **dingwei:** Deal colossal burst damage, double strike. Most effective against small units.
-
- **sharedsc:** Deal colossal burst damage, double strike. Most effective against small units.
 
  **talk1:** The flora of the forest deserves our care and respect. Because one day soon it will start fighting back.
 

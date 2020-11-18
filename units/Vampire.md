@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Evil spirit
 
- **tsl:** Life Drain: Drains the enemy unit's health, restoring its own.
+ **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
 
- ** Base HP:** 910.0
+ **Base HP:** 910.0
 
- ** Base ATK:** 74.4
+ **Base ATK:** 74.4
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Deals sizeable damage when it has more health than your enemies.
+
+ **Info2:** Deals sizeable damage when it has more health than your enemies.
 
 ## Skills
 ### 1 Skill: Life Drain
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94304
-
  **Awaking Name:** Vampire Lord
 
  **Awaking Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Vampire with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Vampire with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Vampire Lord souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Vampire with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Charging units and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Vampire Lord souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Vampire with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Charging units and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 120
 
  **posclass:** 3
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Deals sizeable damage when it has more health than your enemies.
-
- **sharedsc:** Deals sizeable damage when it has more health than your enemies.
 
  **talk1:** No one can break my lance!
 

@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Forest
 
- **tsl:** Battle Stomp: Damages the units closest to it, slowing them down.
+ **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
- ** Base HP:** 2691.0
+ **Base HP:** 2691.0
 
- ** Base ATK:** 111.0
+ **Base ATK:** 111.0
+
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info1:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
+
+ **Info2:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
 
 ## Skills
 ### 1 Skill: Battle Stomp
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94201
-
  **Awaking Name:** Centaur Captain
 
  **Awaking Description:** Playing beautiful music or writing impressive poems, Centaur Captains are known for their erudition. Whether shoot with great precision or in short ranged combat, the tribe leaders must be the best ones.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Centaur with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Centaur with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Centaur Captain souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Centaur and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Centaur Captain souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Centaur and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** Deals extra damage to any slowed enemies.
-
- **dingwei:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
-
- **sharedsc:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
 
  **talk1:** My iron-clad hooves will leave you quivering in the mud!
 

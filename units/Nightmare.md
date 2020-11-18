@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Demoniac
 
- **tsl:** null
+ **Unit description:** null
 
- ** Base HP:** 2691.0
+ **Base HP:** 2691.0
 
- ** Base ATK:** 84.1
+ **Base ATK:** 84.1
+
+ **Recommend:** null
+
+ **Info1:** Defense support. Increases Inferno units' all-round power
+
+ **Info2:** Defense support. Increases Inferno units' all-round power
 
 ## Skills
 ### 1 Skill: Stuck in a Nightmare
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94508
-
  **Awaking Name:** 
 
  **Awaking Description:** 
 
 ### Awaking Tasks
-    - 
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+#### 1: 
 
-    - 
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
 
-    - 
+#### 3: 
+
+#### 4: 
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 1
-
- **recommend2:** null
-
- **dingwei:** Defense support. Increases Inferno units' all-round power
-
- **sharedsc:** Defense support. Increases Inferno units' all-round power
 
  **talk1:** No one can break my lance!
 

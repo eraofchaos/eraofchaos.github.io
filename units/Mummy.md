@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Undead
 
- **tsl:** Decaying Curse: Greatly decreased enemies' healing
+ **Unit description:** Decaying Curse: Greatly decreased enemies' healing
 
- ** Base HP:** 2691.0
+ **Base HP:** 2691.0
 
- ** Base ATK:** 141.0
+ **Base ATK:** 141.0
+
+ **Recommend:** null
+
+ **Info1:** Disease carrier. Decreases healing of all hostile units
+
+ **Info2:** Disease carrier. Decreases healing of all hostile units
 
 ## Skills
 ### 1 Skill: Decaying Curse
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94308
-
  **Awaking Name:** Mummy King
 
  **Awaking Description:** Once dead, fixing the soul to the immortal body will turn it into a Mummy, but the silence of thousands of years has already made Pharaoh full of hatred against all living things. The Mummy King curses all living things, making them the same undead monsters as themselves.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Mummy and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis Units to pass Ruthless or higher level of Dragon Utopia one time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Mummy and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis Units to pass Ruthless or higher level of Dragon Utopia one time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Mummy King souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Mummy and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Mummy King souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Mummy and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** null
-
- **dingwei:** Disease carrier. Decreases healing of all hostile units
-
- **sharedsc:** Disease carrier. Decreases healing of all hostile units
 
  **talk1:** No one can break my lance!
 

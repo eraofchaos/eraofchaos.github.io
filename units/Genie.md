@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Energy Gift: Converts ATK into healing
+ **Unit description:** Energy Gift: Converts ATK into healing
 
- ** Base HP:** 662.0
+ **Base HP:** 662.0
 
- ** Base ATK:** 102.6
+ **Base ATK:** 102.6
+
+ **Recommend:** Warrior, Mage and Priest work well together.  
+
+ **Info1:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
+
+ **Info2:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
 
 ## Skills
 ### 1 Skill: Spell Gift
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Tower units are proficient at energy conversion, increasing themselves Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+4)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94605
-
  **Awaking Name:** Master Genie
 
  **Awaking Description:** The Genies have become strong enough after thousands of battles, and they can return to the elemental world at any time as long as they are willing to leave this small oil lamp. However, because of their relations with mages, they choose to stay with the mages until the end of their life.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Genie with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Genie with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Master Genie souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Genie with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Master Genie souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Genie with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Warrior, Mage and Priest work well together.  
-
- **dingwei:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
-
- **sharedsc:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
 
  **talk1:** Under my care the holy light will never be tarnished!
 

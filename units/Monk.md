@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Prayer: Heals the unit in your army with the lowest health.
+ **Unit description:** Prayer: Heals the unit in your army with the lowest health.
 
- ** Base HP:** 662.0
+ **Base HP:** 662.0
 
- ** Base ATK:** 102.6
+ **Base ATK:** 102.6
+
+ **Recommend:** Warrior, Mage and Priest work well together.  
+
+ **Info1:** Provides high morale, has a powerful healing ability.
+
+ **Info2:** Provides high morale, has a powerful healing ability.
 
 ## Skills
 ### 1 Skill: Prayer
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94105
-
  **Awaking Name:** 
 
  **Awaking Description:** 
 
 ### Awaking Tasks
-    - 
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: 
 
-    - 
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - 
+#### 3: 
+
+#### 4: 
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Warrior, Mage and Priest work well together.  
-
- **dingwei:** Provides high morale, has a powerful healing ability.
-
- **sharedsc:** Provides high morale, has a powerful healing ability.
 
  **talk1:** Under my care the holy light will never be tarnished!
 

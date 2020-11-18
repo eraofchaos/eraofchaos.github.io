@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **tsl:** null
+ **Unit description:** null
 
- ** Base HP:** 1749.0
+ **Base HP:** 1749.0
 
- ** Base ATK:** 212.0
+ **Base ATK:** 212.0
+
+ **Recommend:** null
+
+ **Info1:** Ranged damage, Reduces enemy mana upon death, Core attacker
+
+ **Info2:** Ranged damage, Reduces enemy mana upon death, Core attacker
 
 ## Skills
 ### 1 Skill: Energy Blast
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94906
-
  **Awaking Name:** Magic Elemental
 
  **Awaking Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Psychic Elemental and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Psychic Elemental and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Magic Elemental souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Psychic Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Magic Elemental souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Psychic Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** null
-
- **dingwei:** Ranged damage, Reduces enemy mana upon death, Core attacker
-
- **sharedsc:** Ranged damage, Reduces enemy mana upon death, Core attacker
 
  **talk1:** No one can break my lance!
 

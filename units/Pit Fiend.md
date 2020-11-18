@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Demoniac
 
- **tsl:** Fire Spring: Continuously heals friendly units in its path
+ **Unit description:** Fire Spring: Continuously heals friendly units in its path
 
- ** Base HP:** 1850.0
+ **Base HP:** 1850.0
 
- ** Base ATK:** 174.9
+ **Base ATK:** 174.9
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Has healing and buff aura. The core unit in Inferno
+
+ **Info2:** Has healing and buff aura. The core unit in Inferno
 
 ## Skills
 ### 1 Skill: Firespring
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94505
-
  **Awaking Name:** Pit Lord
 
  **Awaking Description:** She crushes her opponent proudly, and infects every hell warrior with enthusiasm. Her skin, infused with magma makes the devil crazy, making the battle a carnival.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Pit Fiend with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Consume <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Action points in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Pit Fiend with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Pit Lord souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Consume <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Action points in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Pit Fiend and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Pit Lord souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Pit Fiend and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Has healing and buff aura. The core unit in Inferno
-
- **sharedsc:** Has healing and buff aura. The core unit in Inferno
 
  **talk1:** No one can break my lance!
 

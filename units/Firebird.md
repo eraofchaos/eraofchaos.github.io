@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Unicorn
 
- **tsl:** Flame Breath: Deals damage to enemy troops in its path.
+ **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
 
- ** Base HP:** 4525.0
+ **Base HP:** 4525.0
 
- ** Base ATK:** 848.5
+ **Base ATK:** 848.5
+
+ **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
+
+ **Info1:** Can revive, deals colossal fire damage to all targets in its path.
+
+ **Info2:** Can revive, deals colossal fire damage to all targets in its path.
 
 ## Skills
 ### 1 Skill: Flame Breath
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94907
-
  **Awaking Name:** Phoenix
 
  **Awaking Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Firebird with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Firebird with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Phoenix souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Firebird and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> spellcasting units to win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in the Campaign.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Phoenix souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Firebird and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> spellcasting units to win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in the Campaign.<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** High burst damage, high attack damage and enhancement of fire skills.
-
- **dingwei:** Can revive, deals colossal fire damage to all targets in its path.
-
- **sharedsc:** Can revive, deals colossal fire damage to all targets in its path.
 
  **talk1:** No one can break my lance!
 

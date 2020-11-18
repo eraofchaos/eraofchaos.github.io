@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Demoniac
 
- **tsl:** Fire Wall: Deals damage to enemy troops in its path.
+ **Unit description:** Fire Wall: Deals damage to enemy troops in its path.
 
- ** Base HP:** 629.0
+ **Base HP:** 629.0
 
- ** Base ATK:** 102.6
+ **Base ATK:** 102.6
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Deals a high area of magical damage made more powerful with fire.
+
+ **Info2:** Deals a high area of magical damage made more powerful with fire.
 
 ## Skills
 ### 1 Skill: Fire Wall
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94502
-
  **Awaking Name:** Magog
 
  **Awaking Description:** A master demon who plays the flame, the fire of hell spurts from her body. Ephesus's enemies will be swallowed up by her throwing flames until they are burned to ashes.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Gog with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Inferno units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Gog with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Inferno units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Magog souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Gog and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Caster Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Magog souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Gog and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Caster Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Deals a high area of magical damage made more powerful with fire.
-
- **sharedsc:** Deals a high area of magical damage made more powerful with fire.
 
  **talk1:** No one can break my lance!
 

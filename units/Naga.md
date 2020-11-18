@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Blade Dance: AoE damage and AoE DEF reduction
+ **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
 
- ** Base HP:** 811.0
+ **Base HP:** 811.0
 
- ** Base ATK:** 79.4
+ **Base ATK:** 79.4
+
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+
+ **Info1:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
+
+ **Info2:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
 
 ## Skills
 ### 1 Skill: Blade Dance
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Tower units are proficient at energy conversion, increasing themselves Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+4)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94606
-
  **Awaking Name:** Naga Queen
 
  **Awaking Description:** The most noble and powerful ruler of the Naga. The most beautiful treasures of the sea are used to decorate her majesty. The long white hair and the golden crown of jade are the characteristics of the Naga Queen. All of these offerings are for the same purpose, which is to occupy a wider and richer hunting ground and habitat for the tribe.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Naga with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Naga with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Naga and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Naga and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
-
- **dingwei:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
-
- **sharedsc:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
 
  **talk1:** Ever-forward, my comrades!
 

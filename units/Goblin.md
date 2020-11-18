@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Orc
 
- **tsl:** War Storm: Deals damage to 3 nearby enemy units.
+ **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
- ** Base HP:** 761.0
+ **Base HP:** 761.0
 
- ** Base ATK:** 82.7
+ **Base ATK:** 82.7
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
+
+ **Info2:** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
 
 ## Skills
 ### 1 Skill: War Storm
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*300+1200)}<span style="color: black"><span style="color: #645252"> HP every 3s) and receiving <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+1)}%<span style="color: black"><span style="color: #645252"> life drain<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94401
-
  **Awaking Name:** Hobgoblin
 
  **Awaking Description:** Hobgoblins never fear battle, and cruelness and killing are in their blood, with every drop of enemies' blood will making them more ferocious.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Goblin and at least <span style="color: black"><span style="color: #1ca216">3 Stronghold Units to kill <span style="color: black"><span style="color: #3c2a1e">1,000<span style="color: black"><span style="color: #1ca216"> Dwarfs<span style="color: black"> <span style="color: #3c2a1e">in the Dwarven Treasury a single time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Consume <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Action points in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Goblin and at least <span style="color: black"><span style="color: #1ca216">3 Stronghold Units to kill <span style="color: black"><span style="color: #3c2a1e">1,000<span style="color: black"><span style="color: #1ca216"> Dwarfs<span style="color: black"> <span style="color: #3c2a1e">in the Dwarven Treasury a single time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Goblin souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Consume <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Action points in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Goblin and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> times in the Arena.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Goblin souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Goblin and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> times in the Arena.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
-
- **sharedsc:** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
 
  **talk1:** Please do not kill the poor goblins! They are powerless against your might!
 

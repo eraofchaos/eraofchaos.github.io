@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Beast
 
- **tsl:** 
+ **Unit description:** 
 
- ** Base HP:** 5544.0
+ **Base HP:** 5544.0
 
- ** Base ATK:** 500.0
+ **Base ATK:** 500.0
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** DPS unit. Has various ways of spreading the plague
+
+ **Info2:** DPS unit. Has various ways of spreading the plague
 
 ## Skills
 ### 1 Skill: Venomous Spurt
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*300+2000)}<span style="color: black"><span style="color: #645252"> HP every 3s) and receiving <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+1)}%<span style="color: black"><span style="color: #645252"> life drain<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94806
-
  **Awaking Name:** Wyvern Monarch
 
  **Awaking Description:** Even in the swamps full of poisons, the plague Wyvern Monarch filled with toxins is also the king of poison.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Wyvern with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Fortress units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Wyvern with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Fortress units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Plague Wyvern Monarch souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Wyvern to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Plague Wyvern Monarch souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Wyvern to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** DPS unit. Has various ways of spreading the plague
-
- **sharedsc:** DPS unit. Has various ways of spreading the plague
 
  **talk1:** No one can break my lance!
 

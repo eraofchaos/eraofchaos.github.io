@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **tsl:** null
+ **Unit description:** null
 
- ** Base HP:** 1682.0
+ **Base HP:** 1682.0
 
- ** Base ATK:** 195.0
+ **Base ATK:** 195.0
+
+ **Recommend:** null
+
+ **Info1:** Provides Burns, Blows up the whole field, Enhances when killing enemies
+
+ **Info2:** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
 ## Skills
 ### 1 Skill: Heavenly Fire
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94904
-
  **Awaking Name:** Energy Elemental
 
  **Awaking Description:** The energy condenses into a form that never withers away, with cold auras gathering around. Absorbs all nature power to become more powerful in combat.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Fire Elemental and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Fire Elemental and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Energy Elemental souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Fire Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Energy Elemental souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Fire Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** null
-
- **dingwei:** Provides Burns, Blows up the whole field, Enhances when killing enemies
-
- **sharedsc:** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
  **talk1:** No one can break my lance!
 

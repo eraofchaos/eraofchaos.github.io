@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Fiend
 
- **tsl:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
+ **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
- ** Base HP:** 10182.0
+ **Base HP:** 10182.0
 
- ** Base ATK:** 396.0
+ **Base ATK:** 396.0
+
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info1:** Immune to bleeding, reflects damage and uses shield to improve its defense.
+
+ **Info2:** Immune to bleeding, reflects damage and uses shield to improve its defense.
 
 ## Skills
 ### 1 Skill: Bind
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94205
-
  **Awaking Name:** Dendroid Soldier
 
  **Awaking Description:** A perfect combination of strength and resilience, an ancient powerful creature. Strong and unstoppable, this is the power of nature. Facing all threats fearlessly, destroy the enemy's last line of defense by a landslide.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Dendroid Guard with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Dendroid Guard with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Dendroid Soldier souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Dendroid Guard and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Dendroid Soldier souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Dendroid Guard and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** Deals extra damage to any slowed enemies.
-
- **dingwei:** Immune to bleeding, reflects damage and uses shield to improve its defense.
-
- **sharedsc:** Immune to bleeding, reflects damage and uses shield to improve its defense.
 
  **talk1:** It's the cycle of things: you grow, you wither and you fall. And some fall faster than others.
 

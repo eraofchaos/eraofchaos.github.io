@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Forest
 
- **tsl:** Forest Chronosphere: Units in the magic circle are immune to magic damage
+ **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
- ** Base HP:** 844.0
+ **Base HP:** 844.0
 
- ** Base ATK:** 102.6
+ **Base ATK:** 102.6
+
+ **Recommend:** null
+
+ **Info1:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+
+ **Info2:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
 ## Skills
 ### 1 Skill: Call of the Forest
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94208
-
  **Awaking Name:** Archdruid
 
  **Awaking Description:** 
 
 ### Awaking Tasks
-    - 
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+#### 1: 
 
-    - 
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-    - 
+#### 3: 
+
+#### 4: 
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** null
-
- **dingwei:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
-
- **sharedsc:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
  **talk1:** No one can break my lance!
 

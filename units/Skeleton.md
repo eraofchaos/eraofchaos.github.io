@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Undead
 
- **tsl:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
+ **Unit description:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 
- ** Base HP:** 1158.0
+ **Base HP:** 1158.0
 
- ** Base ATK:** 57.9
+ **Base ATK:** 57.9
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Is immune to bleeding, reflects damage, is resistent to ranged damage.
+
+ **Info2:** Is immune to bleeding, reflects damage, is resistent to ranged damage.
 
 ## Skills
 ### 1 Skill: Bone Shield
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94301
-
  **Awaking Name:** Skeleton Warrior
 
  **Awaking Description:** A wise king of ancient times, but he still fell because of fear of death. Now he comes back, commanding the dead army to recapture his homeland.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Skeleton with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Skeleton with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Skeleton Warrior souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Vidomina and Skeleton to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Skeleton Warrior souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Vidomina and Skeleton to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Is immune to bleeding, reflects damage, is resistent to ranged damage.
-
- **sharedsc:** Is immune to bleeding, reflects damage, is resistent to ranged damage.
 
  **talk1:** No one can break my lance!
 

@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Undead
 
- **tsl:** Sacrifice: Summons a horde of Skeletons.
+ **Unit description:** Sacrifice: Summons a horde of Skeletons.
 
- ** Base HP:** 1581.0
+ **Base HP:** 1581.0
 
- ** Base ATK:** 228.7
+ **Base ATK:** 228.7
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Can summon and enhance skeletons. The core of any undead summon strategy.
+
+ **Info2:** Can summon and enhance skeletons. The core of any undead summon strategy.
 
 ## Skills
 ### 1 Skill: Sacrifice
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94305
-
  **Awaking Name:** Power Lich
 
  **Awaking Description:** In order to see the true meaning of death and obtain the mystery of eternal life, the explorers of life sacrifice the mortals. After this grand ceremony, the immortal Sorcerers will be reborn from death.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Lich with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Lich with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Power Lich souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Vidomina and Lich and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Power Lich souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Vidomina and Lich and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Can summon and enhance skeletons. The core of any undead summon strategy.
-
- **sharedsc:** Can summon and enhance skeletons. The core of any undead summon strategy.
 
  **talk1:** No one can break my lance!
 

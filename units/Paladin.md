@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
+ **Unit description:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 
- ** Base HP:** 2589.0
+ **Base HP:** 2589.0
 
- ** Base ATK:** 128.0
+ **Base ATK:** 128.0
+
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units.
+
+ **Info1:** Summon a Sanctuary Retinue to boost morale within a large range.
+
+ **Info2:** Summon a Sanctuary Retinue to boost morale within a large range.
 
 ## Skills
 ### 1 Skill: null
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94108
-
  **Awaking Name:** Supreme Paladin
 
  **Awaking Description:** With armed armor and cold dueling sword, Supreme Paladins and their followers go forward all the time in the light of the church.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units to pass Champion or higher level of Dragon Utopia one time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units to pass Champion or higher level of Dragon Utopia one time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Supreme Paladin souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units and win 1 Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Supreme Paladin souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units and win 1 Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 1
-
- **recommend2:** Improve your morale to get the benefits of high morale, including extra moves for affected units.
-
- **dingwei:** Summon a Sanctuary Retinue to boost morale within a large range.
-
- **sharedsc:** Summon a Sanctuary Retinue to boost morale within a large range.
 
  **talk1:** Return to life, my Cavalier !
 

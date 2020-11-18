@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Evil spirit
 
- **tsl:** FireBall: Deals colossal damage to your enemies, causes burning.
+ **Unit description:** FireBall: Deals colossal damage to your enemies, causes burning.
 
- ** Base HP:** 1446.0
+ **Base HP:** 1446.0
 
- ** Base ATK:** 225.4
+ **Base ATK:** 225.4
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Deals magical damage and has fire shield. The core of damage reflection.
+
+ **Info2:** Deals magical damage and has fire shield. The core of damage reflection.
 
 ## Skills
 ### 1 Skill: Firestorm
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94506
-
  **Awaking Name:** Efreet Sultan
 
  **Awaking Description:** Powerful spirits condensed by the flames of the abyss, they are powerful allies of the demons on Fire Conflux Plane. Now in order to help Eeofol win the final victory, they came to Erathia.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Efreeti with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"> <span style="color: #3c2a1e">Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Efreeti with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"> <span style="color: #3c2a1e">Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Efreet Sultan souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Efreeti under Rashka's leadership and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Efreet Sultan souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Efreeti under Rashka's leadership and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Deals magical damage and has fire shield. The core of damage reflection.
-
- **sharedsc:** Deals magical damage and has fire shield. The core of damage reflection.
 
  **talk1:** No one can break my lance!
 

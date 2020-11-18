@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Demoniac
 
- **tsl:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
+ **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
- ** Base HP:** 5431.0
+ **Base HP:** 5431.0
 
- ** Base ATK:** 792.0
+ **Base ATK:** 792.0
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
+
+ **Info2:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
 
 ## Skills
 ### 1 Skill: Painful Reaper
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94507
-
  **Awaking Name:** Arch Devil
 
  **Awaking Description:** I saw that the living creature came up from the ground, with its horns like goats, and each horn has its own title. It's covered with flames, making fires from the ground to the sky. Whatever Eeofol has, the ability, the seat, and the great power are given to him. He also uses fire, smoke and sulfur to conquer the world.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,500<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,500<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Arch Devil souls in the Underground: 18-2 and 18-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Arch Devil souls in the Underground: 18-2 and 18-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** -1
 
  **posclass:** 3
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
-
- **sharedsc:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
 
  **talk1:** No one can break my lance!
 

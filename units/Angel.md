@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Angel
 
- **tsl:** Condemnation: Deals colossal damage to 3 units and stuns them.
+ **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
- ** Base HP:** 5431.0
+ **Base HP:** 5431.0
 
- ** Base ATK:** 792.0
+ **Base ATK:** 792.0
+
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+
+ **Info1:** Revive dead troops, restore health of the whole unit and deal colossal damage.
+
+ **Info2:** Revive dead troops, restore health of the whole unit and deal colossal damage.
 
 ## Skills
 ### 1 Skill: Condemn
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94107
-
  **Awaking Name:** Archangel
 
  **Awaking Description:** Those who were born to be Messiah. At the hard time, the powers who bless your country will stand up. From ancient times to now, there is no such thing. For the people of Erathia, anyone who is recorded on the book will be saved. Book of Angst 12:1
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Angel with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Angel with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Archangel souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Angel and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Archangel souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Angel and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 100
 
  **posclass:** 1
-
- **recommend2:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
-
- **dingwei:** Revive dead troops, restore health of the whole unit and deal colossal damage.
-
- **sharedsc:** Revive dead troops, restore health of the whole unit and deal colossal damage.
 
  **talk1:** Return to life, my Cavalier !
 

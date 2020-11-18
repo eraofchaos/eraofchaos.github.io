@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Unicorn
 
- **tsl:** Blind: Decreases the Accuracy of a row of enemy troops.
+ **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
 
- ** Base HP:** 1850.0
+ **Base HP:** 1850.0
 
- ** Base ATK:** 151.4
+ **Base ATK:** 151.4
+
+ **Recommend:** Increasing your movement speed makes your armies much more effective.
+
+ **Info1:** Decreases your enemies' Accuracy, has high dodge value.
+
+ **Info2:** Decreases your enemies' Accuracy, has high dodge value.
 
 ## Skills
 ### 1 Skill: null
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94206
-
  **Awaking Name:** War Unicorn
 
  **Awaking Description:** Unicorns with golden hair are very rare. They are often called the sacred beasts by elves of Avlee and are worshipped by them. Whenever the forest of Tula Lian encounters a major crisis, the golden light will once again shine through the forest.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Unicorn and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Unicorn and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> War Unicorn souls in the Underground: 18-2 and 18-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Unicorn and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> War Unicorn souls in the Underground: 18-2 and 18-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Unicorn and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 120
 
  **posclass:** 3
-
- **recommend2:** Increasing your movement speed makes your armies much more effective.
-
- **dingwei:** Decreases your enemies' Accuracy, has high dodge value.
-
- **sharedsc:** Decreases your enemies' Accuracy, has high dodge value.
 
  **talk1:** Let my horn purge your sins. Or are you too sinful to be saved?
 

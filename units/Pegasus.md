@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Forest
 
- **tsl:** Vitality Protection: Gives a life shield to the closest units in your army.
+ **Unit description:** Vitality Protection: Gives a life shield to the closest units in your army.
 
- ** Base HP:** 1144.0
+ **Base HP:** 1144.0
 
- ** Base ATK:** 195.1
+ **Base ATK:** 195.1
+
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info1:** Shields the units around it and summons Pegasus to assist you.
+
+ **Info2:** Shields the units around it and summons Pegasus to assist you.
 
 ## Skills
 ### 1 Skill: Forest Guardian
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94204
-
  **Awaking Name:** Silver Pegasus
 
  **Awaking Description:** The elite knights who swear to guard the great forest, only the most heroic and fearless of the elves can win this honor. They are the defenders of the weak forever, and they are the sky guards flying above the green forest.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Pegasus with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Archer units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Pegasus with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Archer units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Silver Pegasus souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Pegasus and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Ranged units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Silver Pegasus souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Pegasus and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Ranged units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 4
-
- **recommend2:** Deals extra damage to any slowed enemies.
-
- **dingwei:** Shields the units around it and summons Pegasus to assist you.
-
- **sharedsc:** Shields the units around it and summons Pegasus to assist you.
 
  **talk1:** I yearn for the skies. I always do.
 

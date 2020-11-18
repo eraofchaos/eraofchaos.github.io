@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Magic Ironball: Greatly increases ATK and ATK speed
+ **Unit description:** Magic Ironball: Greatly increases ATK and ATK speed
 
- ** Base HP:** 645.0
+ **Base HP:** 645.0
 
- ** Base ATK:** 84.4
+ **Base ATK:** 84.4
+
+ **Recommend:** Warrior, Mage and Priest work well together. 
+
+ **Info1:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
+
+ **Info2:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
 
 ## Skills
 ### 1 Skill: Magic Ironball
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Tower units are proficient at energy conversion, increasing themselves Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+4)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94601
-
  **Awaking Name:** null
 
  **Awaking Description:** null
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
 
-    - null
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+#### 4: null
 
 ## Technical info
  **runart:** 1
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 4
-
- **recommend2:** Warrior, Mage and Priest work well together. 
-
- **dingwei:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
-
- **sharedsc:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
 
  **talk1:** No one can break my lance!
 

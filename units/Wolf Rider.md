@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Orc
 
- **tsl:** Beast Companion: Summons wolves to the battle when this unit dies.
+ **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
 
- ** Base HP:** 860.0
+ **Base HP:** 860.0
 
- ** Base ATK:** 72.8
+ **Base ATK:** 72.8
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Summons a beast companion. The lower its health, the higher its attack is.
+
+ **Info2:** Summons a beast companion. The lower its health, the higher its attack is.
 
 ## Skills
 ### 1 Skill: Beast Companion
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*300+1200)}<span style="color: black"><span style="color: #645252"> HP every 3s) and receiving <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+1)}%<span style="color: black"><span style="color: #645252"> life drain<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94402
-
  **Awaking Name:** Wolf Raider
 
  **Awaking Description:** Wildness is determined by the beastly nature of the blood, sharp knives stabbing the enemy's heart, making bloody storms to sweep the battlefield.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Wolf Rider with at least 3 Stronghold units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Wolf Rider with at least 3 Stronghold units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Wolf Raider souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Wolf Rider and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Wolf Raider souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Wolf Rider and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 120
 
  **posclass:** 3
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Summons a beast companion. The lower its health, the higher its attack is.
-
- **sharedsc:** Summons a beast companion. The lower its health, the higher its attack is.
 
  **talk1:** Orcs and wolves are born warriors!
 

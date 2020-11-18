@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Beast
 
- **tsl:** 
+ **Unit description:** 
 
- ** Base HP:** 3094.0
+ **Base HP:** 3094.0
 
- ** Base ATK:** 121.1
+ **Base ATK:** 121.1
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Strong tank. Has a chance of insta-killing enemies
+
+ **Info2:** Strong tank. Has a chance of insta-killing enemies
 
 ## Skills
 ### 1 Skill: null
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*300+2000)}<span style="color: black"><span style="color: #645252"> HP every 3s) and receiving <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+1)}%<span style="color: black"><span style="color: #645252"> life drain<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94805
-
  **Awaking Name:** Mighty Gorgon
 
  **Awaking Description:** Legend has it that the eyes of a dead cow can strip the soul of a living creature, but the truth of this matter cannot be determined so far. Because anyone who has seen it has not been able to get out of the swamp.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Gorgon with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Fortress units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Gorgon with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Fortress units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Doom Dull souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Gorgon and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Doom Dull souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Gorgon and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Strong tank. Has a chance of insta-killing enemies
-
- **sharedsc:** Strong tank. Has a chance of insta-killing enemies
 
  **talk1:** No one can break my lance!
 

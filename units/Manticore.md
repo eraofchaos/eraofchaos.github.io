@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Dungeon troops
 
- **tsl:** 
+ **Unit description:** 
 
- ** Base HP:** 1917.0
+ **Base HP:** 1917.0
 
- ** Base ATK:** 174.9
+ **Base ATK:** 174.9
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Assault support. Increases allies' DPS and weakens hostile defense
+
+ **Info2:** Assault support. Increases allies' DPS and weakens hostile defense
 
 ## Skills
 ### 1 Skill: Paralyzing Venom
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Dungeon units are proficient at making use of terrain, increasing their unit's damage by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"> when fighting against the non-Dungeon units<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94706
-
  **Awaking Name:** Scorpicore
 
  **Awaking Description:** Scorpicore's rage shatters the land. Scorpicore's form petrifies with fear. Scorpicore's roar subjugates all.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Manticore with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Manticore with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Scorpicore souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Manticore with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and win 1 Duel of Champions battle. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Scorpicore souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Manticore with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and win 1 Duel of Champions battle. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 120
 
  **posclass:** 3
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Assault support. Increases allies' DPS and weakens hostile defense
-
- **sharedsc:** Assault support. Increases allies' DPS and weakens hostile defense
 
  **talk1:** No one can break my lance!
 

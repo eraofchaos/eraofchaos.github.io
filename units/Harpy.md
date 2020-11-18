@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Dungeon troops
 
- **tsl:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
+ **Unit description:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
 
- ** Base HP:** 860.0
+ **Base HP:** 860.0
 
- ** Base ATK:** 74.0
+ **Base ATK:** 74.0
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
+
+ **Info2:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
 
 ## Skills
 ### 1 Skill: Harpy's Sharp Claw
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Dungeon units are proficient at making use of terrain, increasing their unit's damage by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"> when fighting against the non-Dungeon units<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94702
-
  **Awaking Name:** null
 
  **Awaking Description:** null
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
 
-    - null
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+#### 4: null
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 120
 
  **posclass:** 3
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
-
- **sharedsc:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
 
  **talk1:** No one can break my lance!
 

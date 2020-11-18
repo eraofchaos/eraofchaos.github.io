@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Demoniac
 
- **tsl:** Impulse: Unit has a chance to revive with full health after death.
+ **Unit description:** Impulse: Unit has a chance to revive with full health after death.
 
- ** Base HP:** 1224.0
+ **Base HP:** 1224.0
 
- ** Base ATK:** 51.3
+ **Base ATK:** 51.3
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
+
+ **Info2:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
 
 ## Skills
 ### 1 Skill: Impulse
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94501
-
  **Awaking Name:** Varied Jinnee
 
  **Awaking Description:** As a faithful and tenacious servant of the hell, she defends the victory with life, and summons the horrible devil with the will.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Imp with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Inferno units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Imp with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Inferno units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Varied Jinnee souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Imp with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Inferno units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Varied Jinnee souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Imp with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Inferno units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
-
- **sharedsc:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
 
  **talk1:** No one can break my lance!
 

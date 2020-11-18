@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
+ **Unit description:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
 
- ** Base HP:** 662.0
+ **Base HP:** 662.0
 
- ** Base ATK:** 107.5
+ **Base ATK:** 107.5
+
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info1:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+
+ **Info2:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
 
 ## Skills
 ### 1 Skill: Horrific Shrieking
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Score up:** 94303
-
  **Awaking Name:** Wraith
 
  **Awaking Description:** Any living thing that dares to approach the Wraith will be shocked by her horror. Her scream makes all living things to die, and all the undead to become excited.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Wight and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units to pass Ruthless or higher level of Dragon Utopia one time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Wight and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units to pass Ruthless or higher level of Dragon Utopia one time.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Wight souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Wight and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Wight souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Wight and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **dingwei:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
-
- **sharedsc:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
 
  **talk1:** No one can break my lance!
 

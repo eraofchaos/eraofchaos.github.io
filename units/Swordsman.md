@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Human
 
- **tsl:** Divine Protection: Reduce damage taken
+ **Unit description:** Divine Protection: Reduce damage taken
 
- ** Base HP:** 1324.0
+ **Base HP:** 1324.0
 
- ** Base ATK:** 54.6
+ **Base ATK:** 54.6
+
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info1:** Deals colossal damage early in the game. Has double strike and can heal themselves.
+
+ **Info2:** Deals colossal damage early in the game. Has double strike and can heal themselves.
 
 ## Skills
 ### 1 Skill: null
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94104
-
  **Awaking Name:** Crusader
 
  **Awaking Description:** Heroic warrior, the moment you pick up the sword, you're the greatest threat to enemies. The invincible belief in the heart is the toughest weapon. The dazzling shield emblem in the hand is unshakable force.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Swordsman with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Swordsman with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Crusader souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Swordsman with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Crusader souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Swordsman with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
@@ -110,12 +116,6 @@ toc: true
  **speedmove:** 90
 
  **posclass:** 2
-
- **recommend2:** Deals extra damage to any slowed enemies.
-
- **dingwei:** Deals colossal damage early in the game. Has double strike and can heal themselves.
-
- **sharedsc:** Deals colossal damage early in the game. Has double strike and can heal themselves.
 
  **talk1:** That was just the warmup! When does the battle begin?
 

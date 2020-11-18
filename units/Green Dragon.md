@@ -19,11 +19,17 @@ toc: true
 
  **Race:** Dragon
 
- **tsl:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
+ **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
- ** Base HP:** 4525.0
+ **Base HP:** 4525.0
 
- ** Base ATK:** 1018.2
+ **Base ATK:** 1018.2
+
+ **Recommend:** Water magic can deal extra damage to your enemies with its bleeding effect.
+
+ **Info1:** Attacks back row troops, dealing a wide area of water magical damage.
+
+ **Info2:** Attacks back row troops, dealing a wide area of water magical damage.
 
 ## Skills
 ### 1 Skill: Flood of Poison
@@ -45,6 +51,7 @@ toc: true
  **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
 
 ## Talent
+
     - Attack
 
     - HP
@@ -57,20 +64,19 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Score up:** 94207
-
  **Awaking Name:** Gold Dragon
 
  **Awaking Description:** Gold Dragons evolved from Green Dragons through a long period of time. After years of hardship, they are more powerful and become more resistant to magic.
 
 ### Awaking Tasks
-    - <span style="color: #3c2a1e">Deploy Green Dragon with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+#### 1: <span style="color: #3c2a1e">Deploy Green Dragon with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
-    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Gold Dragon souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-    - <span style="color: #3c2a1e">Deploy Green Dragon to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Gold Dragon souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+
+#### 4: <span style="color: #3c2a1e">Deploy Green Dragon to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
 ## Technical info
  **runart:** 0
@@ -116,12 +122,6 @@ toc: true
  **speedmove:** 80
 
  **posclass:** 5
-
- **recommend2:** Water magic can deal extra damage to your enemies with its bleeding effect.
-
- **dingwei:** Attacks back row troops, dealing a wide area of water magical damage.
-
- **sharedsc:** Attacks back row troops, dealing a wide area of water magical damage.
 
  **talk1:** Do you really think you can bargain with a dragon?
 
