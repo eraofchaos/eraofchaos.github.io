@@ -70,13 +70,13 @@ toc: true
 
 ### Awaking Tasks
 
-#### 1: 
+ ** 1:** 
 
-#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-#### 3: 
+ ** 3:** 
 
-#### 4: 
+ ** 4:** 
 
 ## Technical info
  **runart:** 1

@@ -70,13 +70,13 @@ toc: true
 
 ### Awaking Tasks
 
-#### 1: <span style="color: #3c2a1e">Deploy Cavalier with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Charging units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level. (Sweep does not count towards the mission.)<span style="color: black">
+ ** 1:** <span style="color: #3c2a1e">Deploy Cavalier with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Charging units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level. (Sweep does not count towards the mission.)<span style="color: black">
 
-#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+ ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
 
-#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+ ** 3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
 
-#### 4: <span style="color: #3c2a1e">Deploy Cavalier and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in the Duel of Champions under the leadership of Mullich.<span style="color: black">
+ ** 4:** <span style="color: #3c2a1e">Deploy Cavalier and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in the Duel of Champions under the leadership of Mullich.<span style="color: black">
 
 ## Technical info
  **runart:** 1

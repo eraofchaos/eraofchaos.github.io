@@ -70,13 +70,13 @@ toc: true
 
 ### Awaking Tasks
 
-#### 1: <span style="color: #3c2a1e">Deploy Efreeti with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"> <span style="color: #3c2a1e">Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ ** 1:** <span style="color: #3c2a1e">Deploy Efreeti with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"> <span style="color: #3c2a1e">Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
-#### 2: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ ** 2:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
-#### 3: <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Efreet Sultan souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+ ** 3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Efreet Sultan souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
 
-#### 4: <span style="color: #3c2a1e">Deploy Efreeti under Rashka's leadership and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+ ** 4:** <span style="color: #3c2a1e">Deploy Efreeti under Rashka's leadership and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 0
