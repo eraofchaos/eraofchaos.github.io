@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 heroID: 906
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** null
 
+ ** Base HP:** 1749.0
+
+ ** Base ATK:** 212.0
+
+## Skills
+### 1 Skill: Energy Blast
+ **Description:** <span style="color: #645252">Psychic Elementals are immune to <span style="color: black"><span style="color: #48b946"><silence><span style="color: black"><span style="color: #645252">. Each Psychic Elemental attacks 3 members of the hostile unit every 4s, causing damage equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*4+56}%<span style="color: black"><span style="color: #645252"> of its ATK.<span style="color: black">
+
+### 2 Skill: Earth
+ **Description:** <span style="color: #645252">Psychic Elemental units' unit damage increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252">. The Psychic Elemental's <Energy Blast> has a 30% chance to <span style="color: black"><span style="color: #48b946"><stun><span style="color: black"><span style="color: #645252"> the target unit for 3s.<span style="color: black">
+
+### 3 Skill: Fire
+ **Description:** <span style="color: #645252">Psychic Elemental unit damage reduction increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252">. Psychic Elemental's <Energy Blast> has a 30% chance to <span style="color: black"><span style="color: #48b946"><burn><span style="color: black"><span style="color: #645252"> the target for 6s.<span style="color: black">
+
+### 4 Skill: Lord of Element
+ **Description:** <span style="color: #645252">Psychic Elemental's magic resistance is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1.2+4.8}%<span style="color: black"><span style="color: #645252"> and its unit's damage is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+6}%<span style="color: black"><span style="color: #645252">. Whenever a Psychic Elemental dies, the enemy hero's Mana is reduced by 20.<span style="color: black">
+
+### 5 Skill: Elemental Affinity
+ **Description:** <span style="color: #645252">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+15)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+### 6 Skill: Elemental Conflict
+ **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Attack Speed
+
+    - unit Damage
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** YES
+
+ **Score up:** 94906
+
+ **Awaking Name:** Magic Elemental
+
+ **Awaking Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Psychic Elemental and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Magic Elemental souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Psychic Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+
+## Technical info
  **runart:** 1
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 1
 
  **speedattack:** 120
-
- **atk:** 212.0
 
  **atkshow:** 1.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 1.0
 
  **score:** 1349
-
- **hp:** 1749.0
 
  **hpshow:** 1
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** YES
-
- **Score up:** 94906
-
- **Awaking Name:** Magic Elemental
-
- **Awaking Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
 

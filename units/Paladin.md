@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 heroID: 108
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Paladin"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 
+ ** Base HP:** 2589.0
+
+ ** Base ATK:** 128.0
+
+## Skills
+### 1 Skill: null
+ **Description:** 
+
+### 2 Skill: Leadership
+ **Description:** <span style="color: #645252">Paladin unit's damage reduction increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+9}%<span style="color: black"><span style="color: #645252">. The effect doubles if under <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252"> effect.<span style="color: black">
+
+### 3 Skill: Incentive
+ **Description:** <span style="color: #645252">The Paladin is immune to <span style="color: black"><span style="color: #48b946"><Low Morale><span style="color: black"><span style="color: #645252">. The Paladin gives himself and friendly units within a large range <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252"> and 500 Crit Hit for <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+11)}<span style="color: black"><span style="color: #645252">s.<span style="color: black">
+
+### 4 Skill: Innocent Domain
+ **Description:** <span style="color: #645252">The Paladin is immune to <span style="color: black"><span style="color: #48b946"><Disease><span style="color: black"><span style="color: #645252">. Increases all friendly units' damage reduction by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+9.5}%<span style="color: black"><span style="color: #645252"> when the Paladin is on the battlefield.<span style="color: black">
+
+### 5 Skill: Siege Combat
+ **Description:** <span style="color: #645252">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+2.5)}%<span style="color: black"><span style="color: #645252"> <span style="color: black">
+
+### 6 Skill: Defense Resonance
+ **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Defense
+
+    - unit DMG Reduction
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** NO
+
+ **Score up:** 94108
+
+ **Awaking Name:** Supreme Paladin
+
+ **Awaking Description:** With armed armor and cold dueling sword, Supreme Paladins and their followers go forward all the time in the light of the church.
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units to pass Champion or higher level of Dragon Utopia one time.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Supreme Paladin souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units and win 1 Duel of Champions battle.<span style="color: black">
+
+## Technical info
  **runart:** 1
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 1
 
  **speedattack:** 100
-
- **atk:** 128.0
 
  **atkshow:** 9.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 5.0
 
  **score:** 1574
-
- **hp:** 2589.0
 
  **hpshow:** 6
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** The holy light will cleanse us all!
 
  **talk3:** Heretics will flee from my might!
-
-## Talent
-## Awaking
- **Is it possible right now?** NO
-
- **Score up:** 94108
-
- **Awaking Name:** Supreme Paladin
-
- **Awaking Description:** With armed armor and cold dueling sword, Supreme Paladins and their followers go forward all the time in the light of the church.
 

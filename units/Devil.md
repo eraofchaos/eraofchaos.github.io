@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 heroID: 507
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Devil"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
+ ** Base HP:** 5431.0
+
+ ** Base ATK:** 792.0
+
+## Skills
+### 1 Skill: Painful Reaper
+ **Description:** <span style="color: #645252">Strike the furthest unit in front as soon as battle starts (attack a random back-row unit if there is no valid target), dealing <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage, and summon a chasm of fire that causes <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage every 0.5s for 6s. Causes a 6s <span style="color: black"><span style="color: #48b946"><silence><span style="color: black"><span style="color: #645252"> the first time. <span style="color: black"><span style="color: #F6ECDD">(Can be deployed in any position. Skill reset when target unit dies)<span style="color: black">
+
+### 2 Skill: Cruel Torture
+ **Description:** <span style="color: #645252">Deals <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+38)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to 3 radom hostile units. Critical Hit dealt to <span style="color: black"><span style="color: #e07c44"><burning><span style="color: black"><span style="color: #645252"> units is increased by 500.<span style="color: black">
+
+### 3 Skill: Withering
+ **Description:** <span style="color: #645252">While the Devil is on the battlefield, it deals damage equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.05+0.45}%<span style="color: black"><span style="color: #645252"> of its Max HP to all hostile units every 2s.<span style="color: black">
+
+### 4 Skill: Soul-Slaying
+ **Description:** <span style="color: #645252">Unit ATK is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*4+16)}%<span style="color: black"><span style="color: #645252">. When fighting against the Castle unit, unit's damage is increased by 50%.<span style="color: black">
+
+### 5 Skill: Broiling Strike
+ **Description:** <span style="color: #645252">Inferno units are proficient at controlling fire, increasing Crit Hit by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*10+50)}<span style="color: black"><span style="color: #645252"> and Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+7.5)}%<span style="color: black"><span style="color: #645252"> when fighting against <burned> units<span style="color: black">
+
+### 6 Skill: Spell Resistance Resonance
+ **Description:** <span style="color: #645252">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Attack Speed
+
+    - Unit Critical Hit
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** YES
+
+ **Score up:** 94507
+
+ **Awaking Name:** Arch Devil
+
+ **Awaking Description:** I saw that the living creature came up from the ground, with its horns like goats, and each horn has its own title. It's covered with flames, making fires from the ground to the sky. Whatever Eeofol has, the ability, the seat, and the great power are given to him. He also uses fire, smoke and sulfur to conquer the world.
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,500<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Arch Devil souls in the Underground: 18-2 and 18-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+
+## Technical info
  **runart:** 1
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 1
 
  **speedattack:** 999
-
- **atk:** 792.0
 
  **atkshow:** 9.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 5.0
 
  **score:** 1574
-
- **hp:** 5431.0
 
  **hpshow:** 6
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** YES
-
- **Score up:** 94507
-
- **Awaking Name:** Arch Devil
-
- **Awaking Description:** I saw that the living creature came up from the ground, with its horns like goats, and each horn has its own title. It's covered with flames, making fires from the ground to the sky. Whatever Eeofol has, the ability, the seat, and the great power are given to him. He also uses fire, smoke and sulfur to conquer the world.
 

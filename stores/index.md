@@ -1,7 +1,7 @@
 ---
-title: "Era of Chaos - Stores"
-permalink: /stores/
-excerpt: "Era of Chaos - All Stores in game with all items"
+title: "Era of Chaos - Guild"
+permalink: /guild/
+excerpt: "Era of Chaos - GUILD"
 last_modified_at: 2020-11-18
 lang: en
 ref: "index.md"

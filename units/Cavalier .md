@@ -3,7 +3,7 @@ title: "Cavalier "
 permalink: /units/Cavalier /
 excerpt: "Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 heroID: 106
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Cavalier "
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
+ ** Base HP:** 811.0
+
+ ** Base ATK:** 79.4
+
+## Skills
+### 1 Skill: Jousting
+ **Description:** <span style="color: #645252">When a Cavalier unit is on the battlefield, their 1st attack deals <span style="color: black"><span style="color: #48b946">{((($level+$ulevel)*20+480))*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to their target, and <span style="color: black"><span style="color: #48b946"><stuns><span style="color: black"><span style="color: #645252"> them for 5s.<span style="color: black">
+
+### 2 Skill: Glorious Charge
+ **Description:** <span style="color: #645252">Cavalier units' Crit Hit increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*20+80}%<span style="color: black"><span style="color: #645252">. The effect doubles under <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 3 Skill: Fast Breaching
+ **Description:** <span style="color: #645252">When a Cavalier unit kills a target for the first time, they deal <span style="color: black"><span style="color: #48b946">{((($level+$ulevel)*20+480))*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to their next target unit.<span style="color: black">
+
+### 4 Skill: Knight Abilities
+ **Description:** <span style="color: #645252">Cavalier's HP increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*2+8}%<span style="color: black"><span style="color: #645252">, unit's damage reduction increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+4}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 5 Skill: Siege Combat
+ **Description:** <span style="color: #645252">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+2.5)}%<span style="color: black"><span style="color: #645252"> <span style="color: black">
+
+### 6 Skill: Defense Resonance
+ **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - unit Damage
+
+    - unit DMG Reduction
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** YES
+
+ **Score up:** 94106
+
+ **Awaking Name:** Champion Knights
+
+ **Awaking Description:** Let us set off! Brave knights of Erathia! The champion's laurel awaits you. Fight for your beliefs, and for justice. Fulfill your destiny!
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Cavalier with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Charging units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Cavalier and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in the Duel of Champions under the leadership of Mullich.<span style="color: black">
+
+## Technical info
  **runart:** 1
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 2
 
  **speedattack:** 160
-
- **atk:** 79.4
 
  **atkshow:** 6.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 4.0
 
  **score:** 501
-
- **hp:** 811.0
 
  **hpshow:** 5
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** No one can stand in the way of our marching feet.
 
  **talk3:** I fight for justice, honesty, mercy and modesty!
-
-## Talent
-## Awaking
- **Is it possible right now?** YES
-
- **Score up:** 94106
-
- **Awaking Name:** Champion Knights
-
- **Awaking Description:** Let us set off! Brave knights of Erathia! The champion's laurel awaits you. Fight for your beliefs, and for justice. Fulfill your destiny!
 

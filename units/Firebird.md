@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 heroID: 907
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Firebird"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Flame Breath: Deals damage to enemy troops in its path.
 
+ ** Base HP:** 4525.0
+
+ ** Base ATK:** 848.5
+
+## Skills
+### 1 Skill: Flame Breath
+ **Description:** <span style="color: #645252">The Firebird decimates hostile units within a large range in front of it, causing <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+38)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage. Crit Hit dealt to <span style="color: black"><span style="color: #48b946">\"Burned\"<span style="color: black"><span style="color: #645252"> units increased by 500.<span style="color: black">
+
+### 2 Skill: Flametongue
+ **Description:** <span style="color: #645252">When the Firebird is fighting against a 9-man unit, its normal attack deals <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+39}%<span style="color: black"><span style="color: #645252"> AoE damage to 3 hostile unit members.<span style="color: black">
+
+### 3 Skill: Resurrection
+ **Description:** <span style="color: #645252">Firebird revives 5s after its first death, restoring <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+27)}%<span style="color: black"><span style="color: #645252"> of its HP.<span style="color: black">
+
+### 4 Skill: Fire Boost
+ **Description:** <span style="color: #645252">Firebird is immune to <span style="color: black"><span style="color: #48b946">\"Burning\"<span style="color: black"><span style="color: #645252"> and receives an increase of <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*5+25}%<span style="color: black"><span style="color: #645252"> Crit DMG.<span style="color: black">
+
+### 5 Skill: Elemental Affinity
+ **Description:** <span style="color: #645252">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+15)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+### 6 Skill: Elemental Conflict
+ **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Unit Critical Hit
+
+    - unit Damage
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** YES
+
+ **Score up:** 94907
+
+ **Awaking Name:** Phoenix
+
+ **Awaking Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Firebird with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Phoenix souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Firebird and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> spellcasting units to win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in the Campaign.<span style="color: black">
+
+## Technical info
  **runart:** 0
 
  **summon:** 1
@@ -37,8 +89,6 @@ toc: true
 
  **speedattack:** 60
 
- **atk:** 848.5
-
  **atkshow:** 9.0
 
  **attackarea:** 230
@@ -50,8 +100,6 @@ toc: true
  **defshow:** 4.0
 
  **score:** 1349
-
- **hp:** 4525.0
 
  **hpshow:** 5
 
@@ -80,14 +128,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** YES
-
- **Score up:** 94907
-
- **Awaking Name:** Phoenix
-
- **Awaking Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
 

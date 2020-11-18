@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "These fragile bones may seem useless but they quickly lower the morale of their enemies."
 heroID: 301
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Skeleton"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 
+ ** Base HP:** 1158.0
+
+ ** Base ATK:** 57.9
+
+## Skills
+### 1 Skill: Bone Shield
+ **Description:** <span style="color: #645252">The Skeleton generates a bone shield for itself when its HP falls below 50% for the first time. The shield decreases unit damage taken by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+28)}%<span style="color: black"><span style="color: #645252"> for 15s.<span style="color: black">
+
+### 2 Skill: Bone Thorn
+ **Description:** <span style="color: #645252">Skeleton reflects <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+9)}%<span style="color: black"><span style="color: #645252"> of damage taken.<span style="color: black">
+
+### 3 Skill: Turn to Stone
+ **Description:** <span style="color: #645252">Skeleton's HP is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*2+8}%<span style="color: black"><span style="color: #645252">, DEF increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+2}%<span style="color: black"><span style="color: #645252"> ,and damage reflection increased by 10%.<span style="color: black">
+
+### 4 Skill: Rib Cage
+ **Description:** <span style="color: #645252">Skeletons are immune to<span style="color: black"><span style="color: #48b946">\"bleeding\"<span style="color: black"><span style="color: #645252"> and damage taken from Ranged units is decreased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*3+12}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 5 Skill: Dismal Defense
+ **Description:** <span style="color: #645252">Necropolis units know dismal environments well. unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+10)}%<span style="color: black"><span style="color: #645252"> when they are fighting against units in \"low morale\"<span style="color: black">
+
+### 6 Skill: Spell Harmony
+ **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Defense
+
+    - Magic resistance
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** YES
+
+ **Score up:** 94301
+
+ **Awaking Name:** Skeleton Warrior
+
+ **Awaking Description:** A wise king of ancient times, but he still fell because of fear of death. Now he comes back, commanding the dead army to recapture his homeland.
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Skeleton with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Skeleton Warrior souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Vidomina and Skeleton to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+
+## Technical info
  **runart:** 1
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 1
 
  **speedattack:** 100
-
- **atk:** 57.9
 
  **atkshow:** 3.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 5.0
 
  **score:** 455
-
- **hp:** 1158.0
 
  **hpshow:** 7
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** YES
-
- **Score up:** 94301
-
- **Awaking Name:** Skeleton Warrior
-
- **Awaking Description:** A wise king of ancient times, but he still fell because of fear of death. Now he comes back, commanding the dead army to recapture his homeland.
 

@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 heroID: 304
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Vampire"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Life Drain: Drains the enemy unit's health, restoring its own.
 
+ ** Base HP:** 910.0
+
+ ** Base ATK:** 74.4
+
+## Skills
+### 1 Skill: Life Drain
+ **Description:** <span style="color: #645252">Every 12 seconds, Vampire unit randomly deals <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*20+380)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to 1 hostile unit within a large range and restores himself <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*15+185)*0.01*$atk}<span style="color: black"><span style="color: #645252">HP.<span style="color: black">
+
+### 2 Skill: Bloodthirst
+ **Description:** <span style="color: #645252">Vampire's life drain increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1.5+6.5}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 3 Skill: Swell
+ **Description:** <span style="color: #645252">When a Vampire casts <Life Drain>, life drain increases by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1.5+13.5}%<span style="color: black"><span style="color: #645252">, lasting for the entire battle, up to 3 stacks.<span style="color: black">
+
+### 4 Skill: Blood Hunting
+ **Description:** <span style="color: #645252">When fighting against a target whose HP percentage is lower than himself, Vampire's ATK is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*5+35}%<span style="color: black"><span style="color: #645252">attack speed is increased by<span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+15}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 5 Skill: Dismal Defense
+ **Description:** <span style="color: #645252">Necropolis units know dismal environments well. unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+10)}%<span style="color: black"><span style="color: #645252"> when they are fighting against units in \"low morale\"<span style="color: black">
+
+### 6 Skill: Spell Harmony
+ **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - unit Damage
+
+    - unit DMG Reduction
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** YES
+
+ **Score up:** 94304
+
+ **Awaking Name:** Vampire Lord
+
+ **Awaking Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Vampire with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Master level. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Vampire Lord souls in the Underground: 16-2 and 16-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Vampire with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Charging units and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+
+## Technical info
  **runart:** 1
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 2
 
  **speedattack:** 160
-
- **atk:** 74.4
 
  **atkshow:** 5.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 4.0
 
  **score:** 728
-
- **hp:** 910.0
 
  **hpshow:** 6
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** YES
-
- **Score up:** 94304
-
- **Awaking Name:** Vampire Lord
-
- **Awaking Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
 

@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 heroID: 202
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Dwarf"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Dwarf Howl: Increases friendly unit's max health at the beginning of a battle.
 
+ ** Base HP:** 1324.0
+
+ ** Base ATK:** 54.6
+
+## Skills
+### 1 Skill: Dwarf Howl
+ **Description:** <span style="color: #645252">At the beginning of battle, Dwarf units increase the HP of all friendly units within a large range by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.8+15.2}%<span style="color: black"><span style="color: #645252">, and unit's damage reduction increases by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+2.5}%<span style="color: black"><span style="color: #645252">, DEF increases by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+2.5}%<span style="color: black"><span style="color: #645252">, This lasts throughout the entire battle.<span style="color: black">
+
+### 2 Skill: Smite
+ **Description:** <span style="color: #645252">Dwarf's normal attack has a chance to deal <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*15+135}%<span style="color: black"><span style="color: #645252"> damage to its targets, and may <span style="color: black"><span style="color: #48b946"><stun> <span style="color: black"><span style="color: #645252">them for 2s.<span style="color: black">
+
+### 3 Skill: Cry of Rage
+ **Description:** <span style="color: #645252"><Dwarf Howl> increases HP by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.4+3.6}%<span style="color: black"><span style="color: #645252">,increases Attack speed by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+6}%<span style="color: black"><span style="color: #645252">,increases unit's damage by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+3}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 4 Skill: Magical Resistance
+ **Description:** <span style="color: #645252">Dwarves offer protection cover, increasing magic resistance by 30% for all friendly units in it for <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.8+9.2}<span style="color: black"><span style="color: #645252">s.<span style="color: black">
+
+### 5 Skill: Calm Proliferation
+ **Description:** <span style="color: #645252">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+7.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+### 6 Skill: Hatred Mark
+ **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Defense
+
+    - Magic resistance
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** NO
+
+ **Score up:** 94202
+
+ **Awaking Name:** null
+
+ **Awaking Description:** null
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+    - null
+
+## Technical info
  **runart:** 1
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 1
 
  **speedattack:** 100
-
- **atk:** 54.6
 
  **atkshow:** 4.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 7.0
 
  **score:** 761
-
- **hp:** 1324.0
 
  **hpshow:** 8
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** You think I am puny just because I am small? I have news for you!
 
  **talk3:** A buff to the head could be just what you need.
-
-## Talent
-## Awaking
- **Is it possible right now?** NO
-
- **Score up:** 94202
-
- **Awaking Name:** null
-
- **Awaking Description:** null
 

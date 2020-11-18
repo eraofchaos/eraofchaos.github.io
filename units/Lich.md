@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 heroID: 305
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Lich"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Sacrifice: Summons a horde of Skeletons.
 
+ ** Base HP:** 1581.0
+
+ ** Base ATK:** 228.7
+
+## Skills
+### 1 Skill: Sacrifice
+ **Description:** <span style="color: #645252">If the target is downed, Lich has a chance of summoning 1 Skeleton with <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}<span style="color: black"><span style="color: #645252"> ATK and <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*30+220)*($teamlevel+9)}<span style="color: black"><span style="color: #645252"> HP that lasts the entire battle.<span style="color: black">
+
+### 2 Skill: Poisonous Cloud
+ **Description:** <span style="color: #645252">Lich's normal attack has a chance to deal <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*10+90}%<span style="color: black"><span style="color: #645252"> damage to 3 targets. Its damage to <span style="color: black"><span style="color: #48b946">\"bleeding\"<span style="color: black"><span style="color: #645252"> targets is increased by 30%.<span style="color: black">
+
+### 3 Skill: Dark Boost
+ **Description:** <span style="color: #645252">Lich's ATK increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*4+16}%<span style="color: black"><span style="color: #645252">. The Lich's attack range will be increased by 50 for every Necropolis unit on the battlefield.<span style="color: black">
+
+### 4 Skill: Skeletal Sacrifice
+ **Description:** <span style="color: #645252">When Lich is on the battlefield, HP and ATK is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*2+13}%<span style="color: black"><span style="color: #645252"> for Skeletons and Bone Dragons.<span style="color: black">
+
+### 5 Skill: Dismal Defense
+ **Description:** <span style="color: #645252">Necropolis units know dismal environments well. unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+10)}%<span style="color: black"><span style="color: #645252"> when they are fighting against units in \"low morale\"<span style="color: black">
+
+### 6 Skill: Spell Harmony
+ **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Attack Speed
+
+    - Unit Critical Hit
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** YES
+
+ **Score up:** 94305
+
+ **Awaking Name:** Power Lich
+
+ **Awaking Description:** In order to see the true meaning of death and obtain the mystery of eternal life, the explorers of life sacrifice the mortals. After this grand ceremony, the immortal Sorcerers will be reborn from death.
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Lich with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Power Lich souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Deploy Vidomina and Lich and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+
+## Technical info
  **runart:** 0
 
  **summon:** 1
@@ -37,8 +89,6 @@ toc: true
 
  **speedattack:** 60
 
- **atk:** 228.7
-
  **atkshow:** 8.0
 
  **attackarea:** 230
@@ -50,8 +100,6 @@ toc: true
  **defshow:** 4.0
 
  **score:** 1405
-
- **hp:** 1581.0
 
  **hpshow:** 7
 
@@ -80,14 +128,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** YES
-
- **Score up:** 94305
-
- **Awaking Name:** Power Lich
-
- **Awaking Description:** In order to see the true meaning of death and obtain the mystery of eternal life, the explorers of life sacrifice the mortals. After this grand ceremony, the immortal Sorcerers will be reborn from death.
 

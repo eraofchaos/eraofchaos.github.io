@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 heroID: 903
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** null
 
+ ** Base HP:** 744.0
+
+ ** Base ATK:** 111.0
+
+## Skills
+### 1 Skill: Ice Wall
+ **Description:** <span style="color: #645252">The Ice Elemental unit builds an icy wall in front of the target, <span style="color: black"><span style="color: #48b946"><freezing><span style="color: black"><span style="color: #645252"> the targets along a horizontal row within a large range for <span style="color: #645252"><span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.4+4.6}<span style="color: black"><span style="color: #645252">s.<span style="color: black">
+
+### 2 Skill: Cold Grip
+ **Description:** <span style="color: #645252">Ice Elemental's normal attack has a chance to <span style="color: black"><span style="color: #48b946"><slow><span style="color: black"><span style="color: #645252"><span style="color: black"><span style="color: #645252"> the target for 15s. In addition, decreases ATK speed of the target by <span style="color: #48b946">{($level+$ulevel)*0.5+2.5}%<span style="color: black"><span style="color: #645252"> for 10s, up to 5 stacks.<span style="color: black">
+
+### 3 Skill: Elemental Force
+ **Description:** <span style="color: #645252">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1.8+5.7}%<span style="color: black"><span style="color: #645252"> and reduces water magic resistance for all enemy units by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1.2+3.8}%<span style="color: black"><span style="color: #645252">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.01+0.19}<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 4 Skill: null
+ **Description:** 
+
+### 5 Skill: Elemental Affinity
+ **Description:** <span style="color: #645252">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+15)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+### 6 Skill: Elemental Conflict
+ **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Attack Speed
+
+    - Magic resistance
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** NO
+
+ **Score up:** 94903
+
+ **Awaking Name:** null
+
+ **Awaking Description:** null
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+    - null
+
+## Technical info
  **runart:** 0
 
  **summon:** 1
@@ -37,8 +89,6 @@ toc: true
 
  **speedattack:** 60
 
- **atk:** 111.0
-
  **atkshow:** 1.0
 
  **attackarea:** 230
@@ -50,8 +100,6 @@ toc: true
  **defshow:** 1.0
 
  **score:** 794
-
- **hp:** 744.0
 
  **hpshow:** 1
 
@@ -80,14 +128,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** NO
-
- **Score up:** 94903
-
- **Awaking Name:** null
-
- **Awaking Description:** null
 

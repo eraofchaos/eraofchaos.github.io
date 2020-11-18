@@ -1,7 +1,7 @@
 ---
-title: "Era of Chaos - Stores"
-permalink: /stores/
-excerpt: "Era of Chaos - All Stores in game with all items"
+title: "Era of Chaos - Artifacts"
+permalink: /artifacts/
+excerpt: "Era of Chaos - List of artifacts"
 last_modified_at: 2020-11-18
 lang: en
 ref: "index.md"

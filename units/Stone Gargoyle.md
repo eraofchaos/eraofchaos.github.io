@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 heroID: 602
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Stone Form: Increases ATK and ATK speed
 
+ ** Base HP:** 300.0
+
+ ** Base ATK:** 48.0
+
+## Skills
+### 1 Skill: Stone Form
+ **Description:** <span style="color: #645252">The Stone Gargoyle will be in <Stone Form> for 10s every 20s. During this time, its ATK is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*5+25}%<span style="color: black"><span style="color: #645252"> and its ATK speed is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+14}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 2 Skill: High Suppression
+ **Description:** <span style="color: #645252">When facing a unit that cannot fly, the stone gargoyles' attack is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*6+24}%<span style="color: black"><span style="color: #645252">, unit's damage is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+5}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 3 Skill: Sharp Claw
+ **Description:** <span style="color: #645252">The Stone Gargoyle's defense penetration is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}<span style="color: black"><span style="color: #645252">. For Defensive units, the effect doubles.<span style="color: black">
+
+### 4 Skill: Stone Reinforcement
+ **Description:** <span style="color: #645252">When the Stone Gargoyle is in <Stone Form>, unit's damage reduction is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*2+28}%<span style="color: black"><span style="color: #645252"> and magic resistance is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*2+28}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 5 Skill: Sober Mind
+ **Description:** <span style="color: #645252">Tower units are proficient at resisting silence. The duration of <silence> is shortened by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+10)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+### 6 Skill: Energy Dynamite
+ **Description:** <span style="color: #645252">Tower units are proficient at energy conversion, increasing themselves Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+4)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Unit Dodge
+
+    - Magic resistance
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** NO
+
+ **Score up:** 94602
+
+ **Awaking Name:** null
+
+ **Awaking Description:** null
+
+### Awaking Tasks
+    - <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+
+    - <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+
+    - null
+
+## Technical info
  **runart:** 0
 
  **summon:** 1
@@ -30,8 +82,6 @@ toc: true
  **rush:** 1
 
  **speedattack:** 80
-
- **atk:** 48.0
 
  **atkshow:** 6.0
 
@@ -44,8 +94,6 @@ toc: true
  **defshow:** 4.0
 
  **score:** 662
-
- **hp:** 300.0
 
  **hpshow:** 3
 
@@ -74,14 +122,4 @@ toc: true
  **talk2:** What a windy day it is!
 
  **talk3:** Wipe out the enemy while they move!
-
-## Talent
-## Awaking
- **Is it possible right now?** NO
-
- **Score up:** 94602
-
- **Awaking Name:** null
-
- **Awaking Description:** null
 

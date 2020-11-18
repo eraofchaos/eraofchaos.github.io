@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 heroID: 208
-last_modified_at: 2020-11-17
+last_modified_at: 2020-11-18
 lang: en
 ref: "Druid"
 toc: true
@@ -21,6 +21,58 @@ toc: true
 
  **tsl:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
+ ** Base HP:** 844.0
+
+ ** Base ATK:** 102.6
+
+## Skills
+### 1 Skill: Call of the Forest
+ **Description:** <span style="color: #645252">After entering battle, the Druid summons a magic circle that lasts for <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+9}<span style="color: black"><span style="color: #645252">s. All friendly units standing in the circle are immune to spell damage.<span style="color: black">
+
+### 2 Skill: Outgrowing
+ **Description:** <span style="color: #645252">Increased Druid's ATK by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*3+17}%<span style="color: black"><span style="color: #645252"> and ATK speed by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+
+### 3 Skill: Blessing of Life
+ **Description:** <span style="color: #645252">The Druid unit randomly generates <span style="color: black"><span style="color: #48b946">\"shield\"<span style="color: black"><span style="color: #645252"> for 4 friendly units in the front row every 30s that absorbs damage equal to <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+9.5)}%<span style="color: black"><span style="color: #645252"> of Max HP.<span style="color: black">
+
+### 4 Skill: Heart of Nature
+ **Description:** <span style="color: #645252">Druid units bless friendly units within a large area every 25s, increasing their Crit DMG by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+9}%<span style="color: black"><span style="color: #645252"> and Crit Hit by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*10+90}<span style="color: black"><span style="color: #645252"> for 15s. The bonus doubles when the Druid casts it for the first time.<span style="color: black">
+
+### 5 Skill: Calm Proliferation
+ **Description:** <span style="color: #645252">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+7.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+### 6 Skill: Hatred Mark
+ **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
+
+## Talent
+    - Attack
+
+    - HP
+
+    - Attack Speed
+
+    - Magic resistance
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** NO
+
+ **Score up:** 94208
+
+ **Awaking Name:** Archdruid
+
+ **Awaking Description:** 
+
+### Awaking Tasks
+    - 
+
+    - <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+
+    - 
+
+    - 
+
+## Technical info
  **runart:** 0
 
  **summon:** 1
@@ -37,8 +89,6 @@ toc: true
 
  **speedattack:** 60
 
- **atk:** 102.6
-
  **atkshow:** 7.0
 
  **attackarea:** 230
@@ -50,8 +100,6 @@ toc: true
  **defshow:** 4.0
 
  **score:** 1405
-
- **hp:** 844.0
 
  **hpshow:** 5
 
@@ -80,14 +128,4 @@ toc: true
  **talk2:** Only the dead stand before me!
 
  **talk3:** I stand fast for my home and my country!
-
-## Talent
-## Awaking
- **Is it possible right now?** NO
-
- **Score up:** 94208
-
- **Awaking Name:** Archdruid
-
- **Awaking Description:** 
 
