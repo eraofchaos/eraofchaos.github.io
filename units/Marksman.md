@@ -69,13 +69,13 @@ toc: true
  **Awaking Description:** 
 
 ### Awaking Tasks
- ** N1:** 
+ 1. 
 
- ** N2:** 
+ 2. 
 
- ** N3:** 
+ 3. 
 
- ** N4:** 
+ 4. 
 
 ## Technical info
  **runart:** 0

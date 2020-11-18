@@ -69,13 +69,13 @@ toc: true
  **Awaking Description:** She crushes her opponent proudly, and infects every hell warrior with enthusiasm. Her skin, infused with magma makes the devil crazy, making the battle a carnival.
 
 ### Awaking Tasks
- ** N1:** <span style="color: #3c2a1e">Deploy Pit Fiend with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e">Deploy Pit Fiend with at least 3 Inferno units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
 
- ** N2:** <span style="color: #3c2a1e">Consume <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Action points in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e">Consume <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Action points in Guild Adventure.<span style="color: black">
 
- ** N3:** <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Pit Lord souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Pit Lord souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
 
- ** N4:** <span style="color: #3c2a1e">Deploy Pit Fiend and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
+ 4. <span style="color: #3c2a1e">Deploy Pit Fiend and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
 
 ## Technical info
  **runart:** 1
