@@ -1,12 +1,14 @@
 ---
-title: "Era of Chaos - Guild"
-permalink: /guild/
-excerpt: "Era of Chaos - GUILD"
+title: "Era of Chaos - Stores"
+permalink: /stores/
+excerpt: "Era of Chaos - All Stores in game with all items"
 last_modified_at: 2020-11-18
 lang: en
 ref: "index.md"
 toc: false
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 This site contains information about "Era Of Chaos" mobile game.

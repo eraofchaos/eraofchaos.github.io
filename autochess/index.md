@@ -1,12 +1,14 @@
 ---
-title: "Era of Chaos - Artifacts"
-permalink: /artifacts/
-excerpt: "Era of Chaos - List of artifacts"
+title: "Era of Chaos - Auto Chess"
+permalink: /autochess/
+excerpt: "Era of Chaos - Auto Chess"
 last_modified_at: 2020-11-18
 lang: en
 ref: "index.md"
 toc: false
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 This site contains information about "Era Of Chaos" mobile game.

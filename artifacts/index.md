@@ -1,6 +1,12 @@
 ---
-title: "M&M Era Of Chaos mobile Wiki portal"
-author_profile: false
+title: "Era of Chaos - Artifacts"
+permalink: /artifacts/
+excerpt: "Era of Chaos - List of artifacts"
+last_modified_at: 2020-11-18
+lang: en
+ref: "index.md"
+toc: false
+classes: wide
 sidebar:
   nav: "docs"
 ---
@@ -19,8 +25,5 @@ You will find here:
 ### <i class="fas fa-chess"/>  [Auto Chess](/autochess/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 
-More TBD...
-### War Maschines (TBD)
-### Battlefield Backup (TBD)
 
 

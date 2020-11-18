@@ -1,12 +1,8 @@
 ---
-title: "Era of Chaos - Stores"
-permalink: /stores/
-excerpt: "Era of Chaos - All Stores in game with all items"
-last_modified_at: 2020-11-18
-lang: en
-ref: "index.md"
-toc: false
-classes: wide
+title: "M&M Era Of Chaos mobile Wiki portal"
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 This site contains information about "Era Of Chaos" mobile game.
@@ -23,5 +19,8 @@ You will find here:
 ### <i class="fas fa-chess"/>  [Auto Chess](/autochess/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 
+More TBD...
+### War Maschines (TBD)
+### Battlefield Backup (TBD)
 
 
