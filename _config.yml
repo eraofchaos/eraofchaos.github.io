@@ -24,8 +24,8 @@ keywords:           EraOfChaos HMM HeroesMightAndMagic
 language:           "en" 
 url:                "http://eraofchaos.github.io"
 logo: "/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
-google_ad_client:   "ca-pub-3093097053913638"
-#theme: minimal-mistakes-jekyll
+# google_ad_client:   "ca-pub-3093097053913638"
+# theme: minimal-mistakes-jekyll
 
 minimal_mistakes_skin: default
 search: true
@@ -77,7 +77,7 @@ plugins:
 analytics:
   provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-4RPP6FDRZ4"
 
 author:
   name   : "MisterX"
