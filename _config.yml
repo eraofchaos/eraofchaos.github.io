@@ -73,6 +73,12 @@ plugins:
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
 
+# Analytics
+analytics:
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
 author:
   name   : "MisterX"
   avatar : "/assets/images/bio-photo.jpg"
