@@ -1,6 +1,6 @@
 ---
 title: "Era of Chaos - List of INTERNAL (unreleased) Units"
-permalink: /units/
+permalink: /units/_internal/
 excerpt: "List of INTERNAL Units in Era of Chaos"
 last_modified_at: 2020-11-20
 lang: en
