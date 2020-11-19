@@ -1,11 +1,11 @@
 ---
-title: "_Regnan Seer"
-permalink: /units/_Regnan Seer/
+title: "intRegnan Seer"
+permalink: /units/intRegnan Seer/
 excerpt: "As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 heroID: 9907
 last_modified_at: 2020-11-20
 lang: en
-ref: "_Regnan Seer"
+ref: "intRegnan Seer"
 toc: true
 ---
 ## General information

@@ -1,11 +1,11 @@
 ---
-title: "_Regnan Serpent"
-permalink: /units/_Regnan Serpent/
+title: "intRegnan Serpent"
+permalink: /units/intRegnan Serpent/
 excerpt: "The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 heroID: 9904
 last_modified_at: 2020-11-20
 lang: en
-ref: "_Regnan Serpent"
+ref: "intRegnan Serpent"
 toc: true
 ---
 ## General information

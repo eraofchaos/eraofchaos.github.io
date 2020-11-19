@@ -1,11 +1,11 @@
 ---
-title: "_Revyaratan"
-permalink: /units/_Revyaratan/
+title: "intRevyaratan"
+permalink: /units/intRevyaratan/
 excerpt: "A monster swims in the deep sea. Its huge mouth seems to devour everything."
 heroID: 9908
 last_modified_at: 2020-11-20
 lang: en
-ref: "_Revyaratan"
+ref: "intRevyaratan"
 toc: true
 ---
 ## General information

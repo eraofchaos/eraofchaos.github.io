@@ -1,11 +1,11 @@
 ---
-title: "_Regnan Archer"
-permalink: /units/_Regnan Archer/
+title: "intRegnan Archer"
+permalink: /units/intRegnan Archer/
 excerpt: "She is destined for wealth. Everything is her target, wherever her arrow aims."
 heroID: 9902
 last_modified_at: 2020-11-20
 lang: en
-ref: "_Regnan Archer"
+ref: "intRegnan Archer"
 toc: true
 ---
 ## General information

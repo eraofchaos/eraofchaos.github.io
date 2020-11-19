@@ -1,11 +1,11 @@
 ---
-title: "_Mermaid"
-permalink: /units/_Mermaid/
+title: "intMermaid"
+permalink: /units/intMermaid/
 excerpt: "The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 heroID: 9905
 last_modified_at: 2020-11-20
 lang: en
-ref: "_Mermaid"
+ref: "intMermaid"
 toc: true
 ---
 ## General information
