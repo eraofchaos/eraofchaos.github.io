@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 heroID: 402
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Wolf Rider"
 toc: true

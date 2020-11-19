@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 heroID: 201
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Centaur"
 toc: true

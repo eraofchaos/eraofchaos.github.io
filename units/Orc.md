@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 heroID: 403
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Orc"
 toc: true

@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 heroID: 208
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Druid"
 toc: true

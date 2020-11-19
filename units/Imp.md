@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 heroID: 501
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Imp"
 toc: true

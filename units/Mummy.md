@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 heroID: 308
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Mummy"
 toc: true

@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 heroID: 702
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Harpy"
 toc: true

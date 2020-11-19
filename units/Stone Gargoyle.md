@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 heroID: 602
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Stone Gargoyle"
 toc: true

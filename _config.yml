@@ -75,7 +75,7 @@ plugins:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag"           # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "G-4RPP6FDRZ4"
 

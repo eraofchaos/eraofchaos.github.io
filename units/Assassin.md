@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "We work in the dark to serve the light. Nothing is true, everything is permitted."
 heroID: 9701
-last_modified_at: 2020-11-18
+last_modified_at: 2020-11-20
 lang: en
 ref: "Assassin"
 toc: true
