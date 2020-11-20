@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** Rampart
+ **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Dragon
 

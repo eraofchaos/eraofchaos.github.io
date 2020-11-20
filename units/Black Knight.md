@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** Necropolis
+ **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Undead
 

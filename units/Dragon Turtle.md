@@ -16,7 +16,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Fraction:** Cove
+ **Fraction:** [Cove](/units/Fraction Cove)
 
  **Race:** The Underwaters
 

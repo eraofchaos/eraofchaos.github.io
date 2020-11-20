@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** Inferno
+ **Fraction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Evil spirit
 

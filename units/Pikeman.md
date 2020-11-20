@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Fraction:** Castle
+ **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
 

@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Fraction:** Necropolis
+ **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Undead
 

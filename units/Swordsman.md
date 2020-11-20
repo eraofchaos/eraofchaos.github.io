@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Fraction:** Castle
+ **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
 

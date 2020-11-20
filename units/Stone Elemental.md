@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Fraction:** Conflux
+ **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
 

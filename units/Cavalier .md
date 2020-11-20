@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** Castle
+ **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
 

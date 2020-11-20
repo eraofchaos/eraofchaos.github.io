@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Fraction:** Conflux
+ **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
 

@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** Dungeon
+ **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
  **Race:** Evil spirit
 

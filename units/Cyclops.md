@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Fraction:** Stronghold
+ **Fraction:** [Stronghold](/units/Fraction Stronghold)
 
  **Race:** Barbarian
 

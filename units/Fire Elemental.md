@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Fraction:** Conflux
+ **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
 
