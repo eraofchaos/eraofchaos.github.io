@@ -2,7 +2,7 @@
 title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
-heroID: 103
+unitID: 103
 last_modified_at: 2020-11-20
 lang: en
 ref: "Griffin"

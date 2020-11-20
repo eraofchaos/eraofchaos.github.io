@@ -1,13 +1,14 @@
 ---
-title: "intDragon Turtle"
-permalink: /units/intDragon Turtle/
+title: "Dragon Turtle"
+permalink: /units/Dragon Turtle/
 excerpt: "Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
-heroID: 9906
+unitID: 9906
 last_modified_at: 2020-11-20
 lang: en
-ref: "intDragon Turtle"
+ref: "Dragon Turtle"
 toc: true
 ---
+**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 ## General information
  **Description:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
 

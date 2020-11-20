@@ -1,13 +1,14 @@
 ---
-title: "intSea Elemental"
-permalink: /units/intSea Elemental/
+title: "Sea Elemental"
+permalink: /units/Sea Elemental/
 excerpt: "Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
-heroID: 9903
+unitID: 9903
 last_modified_at: 2020-11-20
 lang: en
-ref: "intSea Elemental"
+ref: "Sea Elemental"
 toc: true
 ---
+**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 ## General information
  **Description:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 

@@ -2,7 +2,7 @@
 title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
-heroID: 102
+unitID: 102
 last_modified_at: 2020-11-20
 lang: en
 ref: "Marksman"

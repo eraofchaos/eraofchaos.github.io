@@ -2,7 +2,7 @@
 title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
-heroID: 508
+unitID: 508
 last_modified_at: 2020-11-20
 lang: en
 ref: "Nightmare"

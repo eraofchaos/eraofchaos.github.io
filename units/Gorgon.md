@@ -2,7 +2,7 @@
 title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
-heroID: 805
+unitID: 805
 last_modified_at: 2020-11-20
 lang: en
 ref: "Gorgon"

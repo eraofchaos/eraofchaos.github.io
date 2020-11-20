@@ -2,7 +2,7 @@
 title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
-heroID: 806
+unitID: 806
 last_modified_at: 2020-11-20
 lang: en
 ref: "Wyvern"

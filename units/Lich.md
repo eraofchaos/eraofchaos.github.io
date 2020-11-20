@@ -2,7 +2,7 @@
 title: "Lich"
 permalink: /units/Lich/
 excerpt: "Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
-heroID: 305
+unitID: 305
 last_modified_at: 2020-11-20
 lang: en
 ref: "Lich"

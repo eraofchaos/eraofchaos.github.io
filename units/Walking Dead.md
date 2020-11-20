@@ -2,7 +2,7 @@
 title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
-heroID: 302
+unitID: 302
 last_modified_at: 2020-11-20
 lang: en
 ref: "Walking Dead"

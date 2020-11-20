@@ -2,7 +2,7 @@
 title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
-heroID: 401
+unitID: 401
 last_modified_at: 2020-11-20
 lang: en
 ref: "Goblin"

@@ -2,7 +2,7 @@
 title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
-heroID: 905
+unitID: 905
 last_modified_at: 2020-11-20
 lang: en
 ref: "Stone Elemental"

@@ -2,7 +2,7 @@
 title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
-heroID: 505
+unitID: 505
 last_modified_at: 2020-11-20
 lang: en
 ref: "Pit Fiend"

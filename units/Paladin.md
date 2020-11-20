@@ -2,7 +2,7 @@
 title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
-heroID: 108
+unitID: 108
 last_modified_at: 2020-11-20
 lang: en
 ref: "Paladin"

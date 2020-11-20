@@ -2,7 +2,7 @@
 title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
-heroID: 807
+unitID: 807
 last_modified_at: 2020-11-20
 lang: en
 ref: "Hydra"

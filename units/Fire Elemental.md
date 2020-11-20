@@ -2,7 +2,7 @@
 title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
-heroID: 904
+unitID: 904
 last_modified_at: 2020-11-20
 lang: en
 ref: "Fire Elemental"

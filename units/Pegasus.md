@@ -2,7 +2,7 @@
 title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
-heroID: 204
+unitID: 204
 last_modified_at: 2020-11-20
 lang: en
 ref: "Pegasus"

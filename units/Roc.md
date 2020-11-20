@@ -2,7 +2,7 @@
 title: "Roc"
 permalink: /units/Roc/
 excerpt: "Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
-heroID: 405
+unitID: 405
 last_modified_at: 2020-11-20
 lang: en
 ref: "Roc"

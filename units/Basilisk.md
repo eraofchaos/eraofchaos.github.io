@@ -2,7 +2,7 @@
 title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
-heroID: 804
+unitID: 804
 last_modified_at: 2020-11-20
 lang: en
 ref: "Basilisk"

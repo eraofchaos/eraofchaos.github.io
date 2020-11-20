@@ -2,7 +2,7 @@
 title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
-heroID: 907
+unitID: 907
 last_modified_at: 2020-11-20
 lang: en
 ref: "Firebird"

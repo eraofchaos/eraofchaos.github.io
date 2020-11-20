@@ -1,13 +1,14 @@
 ---
-title: "intRevyaratan"
-permalink: /units/intRevyaratan/
+title: "Revyaratan"
+permalink: /units/Revyaratan/
 excerpt: "A monster swims in the deep sea. Its huge mouth seems to devour everything."
-heroID: 9908
+unitID: 9908
 last_modified_at: 2020-11-20
 lang: en
-ref: "intRevyaratan"
+ref: "Revyaratan"
 toc: true
 ---
+**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 ## General information
  **Description:** A monster swims in the deep sea. Its huge mouth seems to devour everything.
 

@@ -2,7 +2,7 @@
 title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
-heroID: 203
+unitID: 203
 last_modified_at: 2020-11-20
 lang: en
 ref: "Wood Elf"

@@ -2,7 +2,7 @@
 title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
-heroID: 707
+unitID: 707
 last_modified_at: 2020-11-20
 lang: en
 ref: "Black Dragon"
