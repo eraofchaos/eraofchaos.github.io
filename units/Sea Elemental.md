@@ -9,6 +9,8 @@ ref: "Sea Elemental"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 

@@ -9,6 +9,8 @@ ref: "Mermaid"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean.
 

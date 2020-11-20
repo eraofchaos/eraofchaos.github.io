@@ -9,6 +9,8 @@ ref: "Regnan Serpent"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king.
 

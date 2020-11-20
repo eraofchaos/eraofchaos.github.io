@@ -9,6 +9,8 @@ ref: "Regnan Seer"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout.
 

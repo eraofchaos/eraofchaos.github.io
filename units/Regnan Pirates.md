@@ -9,6 +9,8 @@ ref: "Regnan Pirates"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition.
 

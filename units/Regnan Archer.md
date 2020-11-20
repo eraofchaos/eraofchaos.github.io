@@ -9,6 +9,8 @@ ref: "Regnan Archer"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** She is destined for wealth. Everything is her target, wherever her arrow aims.
 

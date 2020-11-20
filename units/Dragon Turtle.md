@@ -9,6 +9,8 @@ ref: "Dragon Turtle"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
 

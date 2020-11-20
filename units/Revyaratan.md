@@ -9,6 +9,8 @@ ref: "Revyaratan"
 toc: true
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
 ## General information
  **Description:** A monster swims in the deep sea. Its huge mouth seems to devour everything.
 
