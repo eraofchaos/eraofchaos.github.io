@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Forest
 
+ **Rank:** SR
+
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
  **Base HP:** 438.4

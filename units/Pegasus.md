@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Forest
 
+ **Rank:** SR
+
  **Unit description:** Vitality Protection: Gives a life shield to the closest units in your army.
 
  **Base HP:** 1144.0

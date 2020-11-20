@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Fiend
 
+ **Rank:** SR
+
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
  **Base HP:** 10182.0

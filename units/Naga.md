@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SSR
+
  **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
 
  **Base HP:** 811.0

@@ -22,6 +22,8 @@ toc: true
 
  **Race:** Pirate
 
+ **Rank:** SR
+
  **Unit description:** null
 
  **Base HP:** 695.0

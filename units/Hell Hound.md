@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Beast
 
+ **Rank:** SR
+
  **Unit description:** Rampage: Each hit is critical attack for a short period.
 
  **Base HP:** 827.0

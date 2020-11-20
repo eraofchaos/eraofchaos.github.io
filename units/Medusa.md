@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Evil spirit
 
+ **Rank:** SR
+
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
  **Base HP:** 1144.0

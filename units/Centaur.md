@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Forest
 
+ **Rank:** R
+
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
  **Base HP:** 2691.0

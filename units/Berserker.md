@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Orc
 
+ **Rank:** SSR
+
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
  **Base HP:** 5317.0

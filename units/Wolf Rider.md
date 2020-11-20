@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Orc
 
+ **Rank:** R
+
  **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
 
  **Base HP:** 860.0

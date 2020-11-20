@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Evil spirit
 
+ **Rank:** SR
+
  **Unit description:** FireBall: Deals colossal damage to your enemies, causes burning.
 
  **Base HP:** 1446.0

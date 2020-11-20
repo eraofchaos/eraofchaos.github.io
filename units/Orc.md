@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Orc
 
+ **Rank:** SR
+
  **Unit description:** Execution: Deals extra damage to enemies with health lower than 30%.
 
  **Base HP:** 662.0

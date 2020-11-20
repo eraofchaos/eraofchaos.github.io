@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Beast
 
+ **Rank:** SR
+
  **Unit description:** Dive: Deals damage to 3 opponent units when attacking.
 
  **Base HP:** 1850.0

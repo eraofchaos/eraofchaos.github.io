@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Demoniac
 
+ **Rank:** SR
+
  **Unit description:** null
 
  **Base HP:** 2691.0

@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** R
+
  **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
 
  **Base HP:** 645.0

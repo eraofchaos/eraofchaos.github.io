@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Demoniac
 
+ **Rank:** R
+
  **Unit description:** Impulse: Unit has a chance to revive with full health after death.
 
  **Base HP:** 1224.0

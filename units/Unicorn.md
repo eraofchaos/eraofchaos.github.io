@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Unicorn
 
+ **Rank:** SR
+
  **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
 
  **Base HP:** 1850.0

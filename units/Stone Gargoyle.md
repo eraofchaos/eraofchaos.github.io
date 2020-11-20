@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Stone Form: Increases ATK and ATK speed
 
  **Base HP:** 300.0

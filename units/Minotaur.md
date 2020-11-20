@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Dungeon troops
 
+ **Rank:** SR
+
  **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
 
  **Base HP:** 2725.0

@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Energy Gift: Converts ATK into healing
 
  **Base HP:** 662.0

@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Prayer: Heals the unit in your army with the lowest health.
 
  **Base HP:** 662.0

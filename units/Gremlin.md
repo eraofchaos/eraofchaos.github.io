@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** R
+
  **Unit description:** Magic Ironball: Greatly increases ATK and ATK speed
 
  **Base HP:** 645.0

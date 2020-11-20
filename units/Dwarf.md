@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Forest
 
+ **Rank:** SR
+
  **Unit description:** Dwarf Howl: Increases friendly unit's max health at the beginning of a battle.
 
  **Base HP:** 1324.0

@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
 
  **Base HP:** 1850.0

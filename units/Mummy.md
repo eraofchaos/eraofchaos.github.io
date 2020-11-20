@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Undead
 
+ **Rank:** SR
+
  **Unit description:** Decaying Curse: Greatly decreased enemies' healing
 
  **Base HP:** 2691.0

@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Evil spirit
 
+ **Rank:** SR
+
  **Unit description:** Mind Control: Immobilizes enemies and makes them lose HP over time
 
  **Base HP:** 744.0

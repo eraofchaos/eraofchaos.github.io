@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Evil spirit
 
+ **Rank:** SR
+
  **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
 
  **Base HP:** 910.0

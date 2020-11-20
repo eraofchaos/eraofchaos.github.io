@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SSR
+
  **Unit description:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 
  **Base HP:** 2589.0

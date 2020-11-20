@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Dragon
 
+ **Rank:** SSR
+
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
  **Base HP:** 4525.0

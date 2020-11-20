@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Assassin Guild
 
+ **Rank:** SSR
+
  **Unit description:** null
 
  **Base HP:** 2119.0

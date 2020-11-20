@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Undead
 
+ **Rank:** SSR
+
  **Unit description:** Critical Strike: Deals colossal damage and causes low morale.
 
  **Base HP:** 910.0

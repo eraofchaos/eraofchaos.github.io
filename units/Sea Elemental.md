@@ -22,6 +22,8 @@ toc: true
 
  **Race:** The Underwaters
 
+ **Rank:** SR
+
  **Unit description:** null
 
  **Base HP:** 1446.0

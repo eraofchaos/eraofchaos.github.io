@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Demoniac
 
+ **Rank:** SSR
+
  **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
  **Base HP:** 5431.0

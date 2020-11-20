@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Barbarian
 
+ **Rank:** SR
+
  **Unit description:** Blood Pool: Improves the life drain of your nearby units.
 
  **Base HP:** 2523.0

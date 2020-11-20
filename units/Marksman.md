@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** R
+
  **Unit description:** Explosive Arrow: Deals sizeable damage to enemy units.
 
  **Base HP:** 438.4

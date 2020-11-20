@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Undead
 
+ **Rank:** SR
+
  **Unit description:** Sacrifice: Summons a horde of Skeletons.
 
  **Base HP:** 1581.0

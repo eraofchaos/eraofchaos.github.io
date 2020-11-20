@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Beast
 
+ **Rank:** SSR
+
  **Unit description:** 
 
  **Base HP:** 3094.0

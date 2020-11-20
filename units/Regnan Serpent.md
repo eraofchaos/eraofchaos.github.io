@@ -22,6 +22,8 @@ toc: true
 
  **Race:** The Underwaters
 
+ **Rank:** SR
+
  **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
 
  **Base HP:** 3027.0

@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Demoniac
 
+ **Rank:** SR
+
  **Unit description:** Scalding Strike: Deals colossal damage to enemy troops.
 
  **Base HP:** 2489.0

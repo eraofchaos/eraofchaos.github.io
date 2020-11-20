@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Unicorn
 
+ **Rank:** SSR
+
  **Unit description:** 
 
  **Base HP:** 5770.0

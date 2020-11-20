@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Unicorn
 
+ **Rank:** SR
+
  **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
 
  **Base HP:** 4525.0

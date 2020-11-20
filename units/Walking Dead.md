@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Undead
 
+ **Rank:** R
+
  **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
  **Base HP:** 2758.0

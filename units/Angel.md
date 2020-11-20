@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Angel
 
+ **Rank:** SSR
+
  **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
  **Base HP:** 5431.0

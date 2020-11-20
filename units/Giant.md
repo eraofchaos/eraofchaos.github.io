@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SSR
+
  **Unit description:** God of War: Ignores range and deals HP percentage damage
 
  **Base HP:** 5431.0

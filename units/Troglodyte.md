@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Dungeon troops
 
+ **Rank:** R
+
  **Unit description:** Spear Array: AoE damage and stunning
 
  **Base HP:** 744.0

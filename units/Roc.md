@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Unicorn
 
+ **Rank:** SR
+
  **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
 
  **Base HP:** 4978.0

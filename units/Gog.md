@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Demoniac
 
+ **Rank:** R
+
  **Unit description:** Fire Wall: Deals damage to enemy troops in its path.
 
  **Base HP:** 629.0

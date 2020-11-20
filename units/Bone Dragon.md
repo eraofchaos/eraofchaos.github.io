@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Dragon
 
+ **Rank:** SSR
+
  **Unit description:** Fear: Sharply decreases enemies' defense, causes low morale.
 
  **Base HP:** 5770.0

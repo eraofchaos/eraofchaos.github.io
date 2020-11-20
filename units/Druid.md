@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Forest
 
+ **Rank:** SR
+
  **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
  **Base HP:** 844.0

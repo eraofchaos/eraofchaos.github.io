@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** null
 
  **Base HP:** 1715.0

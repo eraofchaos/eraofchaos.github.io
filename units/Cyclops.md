@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Barbarian
 
+ **Rank:** SR
+
  **Unit description:** Flame Stone: Deals catastrophic damage to all enemy troops in its path.
 
  **Base HP:** 5091.0

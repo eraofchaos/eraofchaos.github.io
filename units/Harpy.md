@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Dungeon troops
 
+ **Rank:** SR
+
  **Unit description:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
 
  **Base HP:** 860.0

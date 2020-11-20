@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Spell penetration: Damage to single units gets higher and higher
 
  **Base HP:** 1324.0

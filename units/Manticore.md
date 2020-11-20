@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Dungeon troops
 
+ **Rank:** SR
+
  **Unit description:** 
 
  **Base HP:** 1917.0

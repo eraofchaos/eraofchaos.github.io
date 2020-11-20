@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Beast Master
 
+ **Rank:** SR
+
  **Unit description:** null
 
  **Base HP:** 744.0

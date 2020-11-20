@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Demoniac
 
+ **Rank:** SR
+
  **Unit description:** Fire Spring: Continuously heals friendly units in its path
 
  **Base HP:** 1850.0

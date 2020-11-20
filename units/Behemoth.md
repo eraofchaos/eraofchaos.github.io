@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Unicorn
 
+ **Rank:** SSR
+
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
  **Base HP:** 10182.0

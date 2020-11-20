@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Undead
 
+ **Rank:** R
+
  **Unit description:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 
  **Base HP:** 1158.0

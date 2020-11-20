@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Dragon
 
+ **Rank:** SSR
+
  **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 
  **Base HP:** 8712.0

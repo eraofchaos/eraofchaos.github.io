@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Divine Protection: Reduce damage taken
 
  **Base HP:** 1324.0

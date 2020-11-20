@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
 
  **Base HP:** 662.0

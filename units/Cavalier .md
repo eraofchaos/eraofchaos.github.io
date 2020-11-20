@@ -19,6 +19,8 @@ toc: true
 
  **Race:** Human
 
+ **Rank:** SR
+
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
  **Base HP:** 811.0
