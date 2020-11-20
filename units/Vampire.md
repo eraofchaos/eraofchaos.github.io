@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Vampire with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Charging units and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Bloodlust Echo
+ **Description:** <span style="color: #48b946"><Life Drain><span style="color: black"><span style="color: #645252"> effect is increased to 150%, and its healing is effective on friendly units within a large range<span style="color: black">
+
+### 2nd Skill (or 1st): Bloodlust Revenge
+ **Description:** <span style="color: #48b946"><Life Drain><span style="color: black"><span style="color: #645252">Effect increased to 150%. When HP is lower than 50% for the first time, <Life Drain> is cast once.<span style="color: black">
+
+### 3rd Skill (or 4th): Embrace of the Dead
+ **Description:** <span style="color: #48b946"><Blood Hunting><span style="color: black"><span style="color: #645252">Increases unit's damage by 10% when the target unit is downed. The effect lasts throughout battle and can be stacked 10 times<span style="color: black">
+
+### 4th Skill (or 3rd): Protection of the Dead
+ **Description:** <span style="color: #48b946"><Blood Hunting><span style="color: black"><span style="color: #645252">Increases Magic resistance by 20% when the target unit is killed. The effect lasts throughout the entire battle and can be stacked 10 times<span style="color: black">
+
+### 5th Skill (or 6th): Scarlet Desire
+ **Description:** <span style="color: #48b946"><Bloodthirst><span style="color: black"><span style="color: #645252">Immune to diseases. Increases life drain by 50% when HP is lower than 50%. Lasts throughout the entire battle. (It still works after HP is restored)<span style="color: black">
+
+### 6th Skill (or 5th): Kiss of Unusual Love
+ **Description:** <span style="color: #48b946"><Bloodthirst><span style="color: black"><span style="color: #645252">Grants immunity to diseases and improves healing by 50%<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

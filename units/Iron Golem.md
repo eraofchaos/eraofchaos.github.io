@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Iron Golem with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Same Kin Protection
+ **Description:** <span style="color: #48b946"><Metal Resonance><span style="color: black"><span style="color: #645252">Guaranteed to cast when engaged. Tower units receive an increase of 10% unit's damage reduction<span style="color: black">
+
+### 2nd Skill (or 1st): Warrior Protection
+ **Description:** <span style="color: #48b946"><Metal Resonance><span style="color: black"><span style="color: #645252">Guaranteed to cast when engaged. The effect also works on all friendly Offensive units<span style="color: black">
+
+### 3rd Skill (or 4th): Anti-magic Body
+ **Description:** <span style="color: #48b946"><Iron Body><span style="color: black"><span style="color: #645252">When the Iron Golem takes spell damage from a hero, its DEF is increased by 30%.The effect lasts for 10s <span style="color: black">
+
+### 4th Skill (or 3rd): Steel-forged Body
+ **Description:** <span style="color: #48b946"><Iron Body><span style="color: black"><span style="color: #645252">Iron Golem's DEF will be increased by 20%<span style="color: black">
+
+### 5th Skill (or 6th): Potent Enforcement
+ **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Regeneration caused by Magic Awakening increased by 30%, and stacked unit's damage reduction increased by 30%<span style="color: black">
+
+### 6th Skill (or 5th): Same Kin Awakening
+ **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Increases your Tower units' DEF by 5%. The effect can be stacked up to 3 times<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

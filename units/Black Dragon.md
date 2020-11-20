@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Black Dragon with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and win 1 Duel of Champions battle. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Magnetic Scales
+ **Description:** <span style="color: #48b946"><Magic Immunity><span style="color: black"><span style="color: #645252">For each <Dragon Breath> cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled<span style="color: black">
+
+### 2nd Skill (or 1st): Molten Dragon Armor
+ **Description:** <span style="color: #48b946"><Magic Immunity><span style="color: black"><span style="color: #645252">For each <Dragon Breath> released, Black Dragon gets 2-stack buff, up to 4 stacks. The buff cannot be dispelled<span style="color: black">
+
+### 3rd Skill (or 4th): Mantle-derived Nutrition
+ **Description:** <span style="color: #48b946"><Black Dragon Scale><span style="color: black"><span style="color: #645252">Restores additional 2% HP when hit by a Crit Hit. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP<span style="color: black">
+
+### 4th Skill (or 3rd): Volcanic Block
+ **Description:** <span style="color: #48b946"><Black Dragon Scale><span style="color: black"><span style="color: #645252">Black Dragon's healing amount increased by 10%. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP<span style="color: black">
+
+### 5th Skill (or 6th): null
+ **Description:** <span style="color: #48b946"><Dragon Breath><span style="color: black"><span style="color: #645252">The given damage dealt by <Dragon Breath> is increased to 200% of the previous skill's damage. When a hostile hero casts a spell, the Black Dragon uses <Dragon Breath> once (cannot trigger spell breaker skill effect because it's not a spell breaker skill). The skill CD is 15s<span style="color: black">
+
+### 6th Skill (or 5th): null
+ **Description:** <span style="color: #48b946"><Dragon Breath><span style="color: black"><span style="color: #645252">The percentage damage dealt by <Dragon Breath> is increased to 150% of the previous skill's damage. When a hostile hero casts a spell, the Black Dragon uses <Dragon Breath> once (cannot trigger spell breaker skill because it's not a spell breaker skill). The skill CD is 15s<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

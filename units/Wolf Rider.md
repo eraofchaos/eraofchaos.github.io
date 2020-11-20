@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Wolf Rider and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Beast Lineage
+ **Description:** <span style="color: #48b946"><Beast Companion><span style="color: black"><span style="color: #645252">Increases Crit Hit of summoned wargs by additional 400. The Wolf Rider summons another warg when its target is downed<span style="color: black">
+
+### 2nd Skill (or 1st): Living With Wolves
+ **Description:** <span style="color: #48b946"><Beast Companion><span style="color: black"><span style="color: #645252">Summons a warg that increases unit's damage by 10%. At the beginning of battle, 9 wargs are summoned<span style="color: black">
+
+### 3rd Skill (or 4th): Enthusiasm
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252">When <Rampage> is triggered, Wolf Rider's ATK speed increased by additional 30% for 20s<span style="color: black">
+
+### 4th Skill (or 3rd): Bloodlust Rampage
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252"> When <Rampage> is triggered, Wolf Rider's Crit Hit is increased by additional 400 (Still active when HP is restored)<span style="color: black">
+
+### 5th Skill (or 6th): Beast Instinct
+ **Description:** <span style="color: #48b946"><Bloodlust><span style="color: black"><span style="color: #645252">HP regeneration increases to 5% when a Crit Hit is landed<span style="color: black">
+
+### 6th Skill (or 5th): Extend Lead
+ **Description:** <span style="color: #48b946"><Bloodlust><span style="color: black"><span style="color: #645252">Each Crit Hit grants 30 extra Crit Hit<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

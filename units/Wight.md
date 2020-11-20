@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Wight and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Curse of the Undead
+ **Description:** <span style="color: #48b946"><Invisibility><span style="color: black"><span style="color: #645252">Invisibility's Magic resistance doubled. The Wight releases a fatal sound wave, causing damage equal to 5% of Max HP to hostile non-Necropolis units in its path, after taking spell damage from enemies<span style="color: black">
+
+### 2nd Skill (or 1st): Fatal Blessing
+ **Description:** <span style="color: #48b946"><Invisibility><span style="color: black"><span style="color: #645252">Invisibility's Magic resistance doubled. When the Wight takes spell damage from enemies , it releases a fatal blessing that increases unit's damage reduction for friendly Necropolis units by 10%, lasting throughout the entire battle, up to 3 stacks<span style="color: black">
+
+### 3rd Skill (or 4th): Panic Disorder
+ **Description:** <span style="color: #48b946"><Horrific Shrieking><span style="color: black"><span style="color: #645252">Units silenced by Horrific Shrieking receive a Magic resistance decreased of 50% during the silence<span style="color: black">
+
+### 4th Skill (or 3rd): Shrieking Mastery
+ **Description:** <span style="color: #48b946"><Horrific Shrieking><span style="color: black"><span style="color: #645252">Increases extra Magic resistance by 50% for friendly Necropolis units in the same path over the next 25s<span style="color: black">
+
+### 5th Skill (or 6th): Quaky Soul
+ **Description:** <span style="color: #48b946"><Incarnation of Horror><span style="color: black"><span style="color: #645252">When a friendly hero casts an earth spell, the Wight restores 5 mana for the hero and decreases earth Magic resistance of all hostile units by 8%, lasting throughout battle, up to 20 stacks. The effect cannot be dispelled<span style="color: black">
+
+### 6th Skill (or 5th): Horrible Scene
+ **Description:** <span style="color: #48b946"><Incarnation of Horror><span style="color: black"><span style="color: #645252">When a friendly hero casts an earth spell, the Wight restores 5 mana for the hero and decreases hostile's earth Magic resistance by 16%, lasting throughout the entire battle, up to 6 stacks. This effect cannot be dispelled.<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

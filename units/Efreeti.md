@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Efreeti under Rashka's leadership and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Broiling Impact
+ **Description:** <span style="color: #48b946"><Firestorm><span style="color: black"><span style="color: #645252">When a battle starts, <burns> all hostile units for 20s<span style="color: black">
+
+### 2nd Skill (or 1st): Flame Feaster
+ **Description:** <span style="color: #48b946"><Firestorm><span style="color: black"><span style="color: #645252">It deals damage to targets and a large area of enemies standing behind the target<span style="color: black">
+
+### 3rd Skill (or 4th): Fight in Fire
+ **Description:** <span style="color: #48b946"><Flaming Shield><span style="color: black"><span style="color: #645252">Increases unit's damage by 15%. Duration increased by 30s<span style="color: black">
+
+### 4th Skill (or 3rd): Refractory Skin
+ **Description:** <span style="color: #48b946"><Flaming Shield><span style="color: black"><span style="color: #645252">Increases unit's damage reduction by an extra 15%. Duration increased by 30s<span style="color: black">
+
+### 5th Skill (or 6th): Inferno Vanguard
+ **Description:** <span style="color: #48b946"><God of Fire><span style="color: black"><span style="color: #645252">Efreeti's ATK speed will be increased by 5% for every Inferno Faction unit on the battlefield<span style="color: black">
+
+### 6th Skill (or 5th): Magic Weave
+ **Description:** <span style="color: #48b946"><God of Fire><span style="color: black"><span style="color: #645252">Efreeti's ATK speed will be increased by 5% for every Caster Unit on the battlefield<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

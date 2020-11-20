@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Berserker and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Deadweight Battle Axe
+ **Description:** <span style="color: #48b946"><Peerless Dance><span style="color: black"><span style="color: #645252">Damage related to Max HP caused by Peerless Dance doubled. When it's dispelled successfully, it deals 200% extra damage<span style="color: black">
+
+### 2nd Skill (or 1st): Bloodlust Battle Axe
+ **Description:** <span style="color: #48b946"><Peerless Dance><span style="color: black"><span style="color: #645252">The Berserker receives 20% extra life drain. When it is successfully dispelled, it deals 200% extra damage<span style="color: black">
+
+### 3rd Skill (or 4th): Endless Rage
+ **Description:** <span style="color: #48b946"><War Fury><span style="color: black"><span style="color: #645252">War Fury's duration increased by 15s. Fury increased by 50%. Crit DMG increased by a further 30%. Effects cannot be dispelled.<span style="color: black">
+
+### 4th Skill (or 3rd): War Killing
+ **Description:** <span style="color: #48b946"><War Fury><span style="color: black"><span style="color: #645252">War Fury increases all friendly Stronghold units' unit's damage by 5% and ATK speed by 10% for 10s<span style="color: black">
+
+### 5th Skill (or 6th): War God's Blessing
+ **Description:** <span style="color: #48b946"><Immortal War God><span style="color: black"><span style="color: #645252">Summons a small Statue of Mars at the beginning of the battle to restore 1.5% of Max HP per 2s and increases unit's damage by 8% for your Stronghold Man Units. The colossus disappears when Berserker Units are destroyed. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s<span style="color: black">
+
+### 6th Skill (or 5th): Huge Statue
+ **Description:** <span style="color: #48b946"><Immortal War God><span style="color: black"><span style="color: #645252">Buff effect offered by Statue of Mars increased by 50%. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

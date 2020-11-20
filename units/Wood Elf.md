@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Wood Elf and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Phantom Concentration
+ **Description:** <span style="color: #48b946"><Rain of Arrows><span style="color: black"><span style="color: #645252">When receiving the bonuses of <Frenzy>, increases unit's damage by 20% for 5s<span style="color: black">
+
+### 2nd Skill (or 1st): Downpour
+ **Description:** <span style="color: #48b946"><Rain of Arrows><span style="color: black"><span style="color: #645252">Duration increased by 1.5s<span style="color: black">
+
+### 3rd Skill (or 4th): Watcher of Nature
+ **Description:** <span style="color: #48b946"><Elf Shelter><span style="color: black"><span style="color: #645252"><Shield> effect increased to 300% of the previous skill's effect<span style="color: black">
+
+### 4th Skill (or 3rd): Affinity for Nature
+ **Description:** <span style="color: #48b946"><Elf Shelter><span style="color: black"><span style="color: #645252"><Shield> effect increased to 150% of the previous skill's effect. CD reduced to 0s<span style="color: black">
+
+### 5th Skill (or 6th): Release the Beast
+ **Description:** <span style="color: #48b946"><Fire Caller><span style="color: black"><span style="color: #645252">Increases Crit DMG by 15%. Wood Elf's Crit DMG will be increased by 3% further for every friendly Ranged unit on the battlefield<span style="color: black">
+
+### 6th Skill (or 5th): Hunter Instinct
+ **Description:** <span style="color: #48b946"><Fire Caller><span style="color: black"><span style="color: #645252">Increases unit's damage by 10%. Wood Elf's Crit DMG will be increased by additional 2% for every friendly Ranged unit on the battlefield<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

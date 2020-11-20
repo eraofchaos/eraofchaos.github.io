@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Minotaur and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon Units and win 1 Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Hyperactive Slash
+ **Description:** <span style="color: #48b946"><Whirlwind><span style="color: black"><span style="color: #645252">When the Minotaur is in High Morale effect, it's guaranteed to trigger <Whirlwind> once. Damage caused by <Whirlwind> doubles and decreases target unit's damage reduction by 10%. The effect lasts for 6s, up to 3 stacks<span style="color: black">
+
+### 2nd Skill (or 1st): Stimulated Slash
+ **Description:** <span style="color: #48b946"><Whirlwind><span style="color: black"><span style="color: #645252">When a Minotaur is in High Morale effect, it is guaranteed to trigger <Whirlwind> once. Damage caused by Whirlwind is doubled and works on all hostile units in a large area<span style="color: black">
+
+### 3rd Skill (or 4th): Indomitable Soul
+ **Description:** <span style="color: #48b946"><Spell Breaker's Physique><span style="color: black"><span style="color: #645252">When a hostile hero casts a spell, the Minotaur will be in <High Morale> state for 5s and restore 5% of its Max HP.<span style="color: black">
+
+### 4th Skill (or 3rd): Magic Resistance
+ **Description:** <span style="color: #48b946"><Spell Breaker's Physique><span style="color: black"><span style="color: #645252"> When a hostile hero casts a spell, the Minotaur will enter \"High Morale\" state for 5s and will increase its unit's damage reduction by 10%, can be stacked 3 times throughout the entire battle<span style="color: black">
+
+### 5th Skill (or 6th): Ferocious Will
+ **Description:** <span style="color: #48b946"><Advanced Ferocity><span style="color: black"><span style="color: #645252">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its attack speed will be increased by 20% for 6s<span style="color: black">
+
+### 6th Skill (or 5th): Bloody Fierceness
+ **Description:** <span style="color: #48b946"><Advanced Ferocity><span style="color: black"><span style="color: #645252">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its unit's damage reduction will be increased by 20% for 6s<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Behemoth and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Ancient Roar
+ **Description:**  <span style="color: #48b946"><Wild Roar><span style="color: black"><span style="color: #645252">After casting <Wild Roar>, all friendly Stronghold units' ATK and Magic resistance is increased by 30%, lasting for 10s<span style="color: black">
+
+### 2nd Skill (or 1st): Violent Roar
+ **Description:** <span style="color: #48b946"><Wild Roar><span style="color: black"><span style="color: #645252">Its stun range is expanded to all hostile melee units<span style="color: black">
+
+### 3rd Skill (or 4th): Rage of the Wilderness
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252">effect increased by 50%. When Rampage is triggered, all friendly Stronghold man units' unit damage is increased by 10% for 20s<span style="color: black">
+
+### 4th Skill (or 3rd): Bloodlust Rampage
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252">effect increased by 50%. When Rampage is triggered, all friendly Stronghold units' unit damage reduction is increased by 10% for 20s<span style="color: black">
+
+### 5th Skill (or 6th): Ancient Fury
+ **Description:** <span style="color: #48b946"><Infuriate><span style="color: black"><span style="color: #645252">Healing effect increases by 50% and grants immunity to diseases<span style="color: black">
+
+### 6th Skill (or 5th): Unyielding Anger
+ **Description:** <span style="color: #48b946"><Infuriate><span style="color: black"><span style="color: #645252">unit's damage reduction increased until the battle is over, up to 5 stacks<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

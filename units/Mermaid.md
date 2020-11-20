@@ -82,6 +82,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Naga and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Bloodred Dance
+ **Description:** <span style="color: #48b946"><Blade Dance><span style="color: black"><span style="color: #645252">When actively cast, increases Naga's ATK speed and life drain by 30% over the next 20s<span style="color: black">
+
+### 2nd Skill (or 1st): Sharp Blade Dance
+ **Description:** <span style="color: #48b946"><Blade Dance><span style="color: black"><span style="color: #645252">Skill damage increased to 200% of the previous skill's damage, causing damage to all units within range<span style="color: black">
+
+### 3rd Skill (or 4th): Blade of Will
+ **Description:** <span style="color: #48b946"><Blade Queen><span style="color: black"><span style="color: #645252">Bonus effect increases to 150% of the previous skill's effect<span style="color: black">
+
+### 4th Skill (or 3rd): Crazy Blade
+ **Description:** <span style="color: #48b946"><Blade Queen><span style="color: black"><span style="color: #645252">Crit Hit and Crit DMG offer a bonus for Naga, increasing the effect to 200% of the previous skill<span style="color: black">
+
+### 5th Skill (or 6th): Magical Skin
+ **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Grants a 3s spell damage immunity<span style="color: black">
+
+### 6th Skill (or 5th): Magic-quenched Edge
+ **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Grants 30% extra unit's damage for 6s<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

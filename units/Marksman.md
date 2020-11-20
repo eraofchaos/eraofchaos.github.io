@@ -79,6 +79,26 @@ toc: true
 
  4. 
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): null
+ **Description:** 
+
+### 2nd Skill (or 1st): null
+ **Description:** 
+
+### 3rd Skill (or 4th): null
+ **Description:** 
+
+### 4th Skill (or 3rd): null
+ **Description:** 
+
+### 5th Skill (or 6th): null
+ **Description:** 
+
+### 6th Skill (or 5th): null
+ **Description:** 
+
 ## Technical info
  **runart:** 0
 

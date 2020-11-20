@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Dendroid Guard and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Fury of the Forest
+ **Description:** <span style="color: #48b946"><Bind><span style="color: black"><span style="color: #645252">Increases ATK speed of friendly units within a large range by 20% for 10s when Bind is cast<span style="color: black">
+
+### 2nd Skill (or 1st): Protection of the Forest
+ **Description:** <span style="color: #48b946"><Bind><span style="color: black"><span style="color: #645252">Creates a shield for friendly units within a large range that absorbs damage equal to 6% of Max HP when Bind is cast<span style="color: black">
+
+### 3rd Skill (or 4th): Stiffen
+ **Description:** <span style="color: #48b946"><Armor of Petrified Wood><span style="color: black"><span style="color: #645252">Dendroid Guards unit's damage reduction increased by 20%. The effect doubles when they are fighting bleeding hostile units<span style="color: black">
+
+### 4th Skill (or 3rd): Power of the Jungle
+ **Description:** <span style="color: #48b946"><Armor of Petrified Wood><span style="color: black"><span style="color: #645252">Dendroid Guards increase unit's damage reduction by 10% and DEF of friendly units by 30% within a large area<span style="color: black">
+
+### 5th Skill (or 6th): Corrosive Spike
+ **Description:** <span style="color: #48b946"><Wooden Stake><span style="color: black"><span style="color: #645252">Decreases DEF of attacker by 30% and slows the attacker<span style="color: black">
+
+### 6th Skill (or 5th): Spike of Weakness
+ **Description:** <span style="color: #48b946"><Wooden Stake><span style="color: black"><span style="color: #645252">Decreases attacker unit's damage by 10% and slows the attacker<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

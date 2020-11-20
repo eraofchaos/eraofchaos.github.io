@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Roc with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Caster units and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Thunderstorm
+ **Description:** <span style="color: #48b946"><Thunder><span style="color: black"><span style="color: #645252">Skill damage increased to 200% of the previous skill's damage<span style="color: black">
+
+### 2nd Skill (or 1st): Electrocution
+ **Description:** <span style="color: #48b946"><Thunder> <span style="color: black"><span style="color: #645252">Accuracy decreased by 2000<span style="color: black">
+
+### 3rd Skill (or 4th): Hunting Instinct
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252">Roc's unit DMG increased by 10% (doubled when rampaged)<span style="color: black">
+
+### 4th Skill (or 3rd): Nature's Swiftness
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252"> Roc's Crit DMG increased by 15% (doubled when rampaged)<span style="color: black">
+
+### 5th Skill (or 6th): Implosion
+ **Description:** <span style="color: #48b946"><Hurricane Barrier><span style="color: black"><span style="color: #645252"> Summons a streak of lightning every 10s, dealing damage equal to 8% of max HP to 1 random enemy unit.<span style="color: black">
+
+### 6th Skill (or 5th): Electric Shock
+ **Description:** <span style="color: #48b946"><Hurricane Barrier><span style="color: black"><span style="color: #645252"> Summons a streak of lightning every 10s, dealing damage equal to 15% of max HP to 1 member of random enemy unit.<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

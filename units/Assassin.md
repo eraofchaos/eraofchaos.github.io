@@ -35,7 +35,8 @@ toc: true
 
 ## Skills
 ### 1 Skill: Assassination
- **Description:** <span style="color: #645252">Assassins enter <span style="color: black"><span style="color: #48b946">Stealth<span style="color: black"><span style="color: #645252"> status at the beginning of battle, and they lose <span style="color: black"><span style="color: #48b946">Stealth<span style="color: black"><span style="color: #645252"> once engaged. Whenever an Assassin loses <span style="color: black">[]<span style="color: black"><span style="color: #48b946">Stealth<span style="color: black"><span style="color: #645252">, their next attack will be a Broken Stealth attack, dealing damage equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*20+100}%<span style="color: black"><span style="color: #645252"> of their Attack and reducing their healing received by 30%. This effect can trigger once every 10s.<span style="color: black">
+ **Description:** <span style="color: #645252">Assassins enter <span style="color: black"><span style="color: #48b946">Stealth<span style="color: black"><span style="color: #645252"> status at the beginning of battle, and they lose <span style="color: black"><span style="color: #48b946">Stealth<span style="color: black"><span style="color: #645252"> once engaged. Whenever an Assassin loses <span style="color: black">
+<span style="color: #48b946">Stealth<span style="color: black"><span style="color: #645252">, their next attack will be a Broken Stealth attack, dealing damage equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*20+100}%<span style="color: black"><span style="color: #645252"> of their Attack and reducing their healing received by 30%. This effect can trigger once every 10s.<span style="color: black">
 
 ### 2 Skill: Assassin Instinct
  **Description:** <span style="color: #645252">Assassin increases <span style="color: black"><span style="color: #645252">unit damage by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+15}%<span style="color: black"><span style="color: #645252"> and Crit DMG by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+15}%.<span style="color: black"><span style="color: #645252"> This bonus doubles when under the effect of <span style="color: black"><span style="color: #48b946"><Hawkeye><span style="color: black"><span style="color: #645252">. Attacking<span style="color: black"><span style="color: #48b946"> <blind> <span style="color: black"><span style="color: #645252">enemies increases penetration by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*10+50}.<span style="color: black">
@@ -78,6 +79,26 @@ toc: true
  3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
 
  4. null
+
+## Awaken Skills
+
+### 1st Skill (or 2nd): Spear Array Sweep
+ **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252">'s targets changed to all enemy units in a large range<span style="color: black">
+
+### 2nd Skill (or 1st): Spear Array Surprise Attack
+ **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252"> damage increases to 150%, and stun effect is increased to 4.5 seconds<span style="color: black">
+
+### 3rd Skill (or 4th): Dense Array
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s<span style="color: black">
+
+### 4th Skill (or 3rd): Hollow-Hearted Array
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s<span style="color: black">
+
+### 5th Skill (or 6th): Infiltration Strategy
+ **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300<span style="color: black">
+
+### 6th Skill (or 5th): Fatigue Attack
+ **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man man units, decreases target's dodge by 300<span style="color: black">
 
 ## Technical info
  **runart:** 1

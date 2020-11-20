@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Genie with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Energy Overload
+ **Description:** <span style="color: #48b946"><Energy Gift><span style="color: black"><span style="color: #645252">Restores HP equal to 25% of ATK when a normal attack is made. Increases unit's damage reduction by 20% and ATK speed by 10% for itself<span style="color: black">
+
+### 2nd Skill (or 1st): Energy Protection
+ **Description:** <span style="color: #48b946"><Energy Gift><span style="color: black"><span style="color: #645252">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.<span style="color: black">
+
+### 3rd Skill (or 4th): As You Wish
+ **Description:** <span style="color: #48b946"><Three Wishes><span style="color: black"><span style="color: #645252">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%<span style="color: black">
+
+### 4th Skill (or 3rd): Multiple Blessings
+ **Description:** <span style="color: #48b946"><Three Wishes><span style="color: black"><span style="color: #645252">Blesses 6 random friendly units and receives two bonuses among unit's damage reduction, unit's damage or ATK speed<span style="color: black">
+
+### 5th Skill (or 6th): Awakening Enforcement
+ **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252"> Cannot be effected by control states. Increases DEF by 10% for units being healed. This effect lasts for 3s<span style="color: black">
+
+### 6th Skill (or 5th): Transcendental Awakening
+ **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Healing increased by 50%. Increases DEF by 20% for units being healed. This effect lasts for 3s<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

@@ -82,6 +82,26 @@ toc: true
 
  4. 
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): 
+ **Description:** 
+
+### 2nd Skill (or 1st): Ocean Blessing
+ **Description:** 
+
+### 3rd Skill (or 4th): 
+ **Description:** 
+
+### 4th Skill (or 3rd): 
+ **Description:** 
+
+### 5th Skill (or 6th): 
+ **Description:** 
+
+### 6th Skill (or 5th): 
+ **Description:** 
+
 ## Technical info
  **runart:** 1
 

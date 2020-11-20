@@ -79,6 +79,26 @@ toc: true
 
  4. null
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Spear Array Sweep
+ **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252">'s targets changed to all enemy units in a large range<span style="color: black">
+
+### 2nd Skill (or 1st): Spear Array Surprise Attack
+ **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252"> damage increases to 150%, and stun effect is increased to 4.5 seconds<span style="color: black">
+
+### 3rd Skill (or 4th): Dense Array
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s<span style="color: black">
+
+### 4th Skill (or 3rd): Hollow-Hearted Array
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s<span style="color: black">
+
+### 5th Skill (or 6th): Infiltration Strategy
+ **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300<span style="color: black">
+
+### 6th Skill (or 5th): Fatigue Attack
+ **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man man units, decreases target's dodge by 300<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

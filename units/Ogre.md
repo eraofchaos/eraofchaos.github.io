@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Hack and Ogre and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Recovery Pond
+ **Description:** <span style="color: #48b946"><Blood Pool><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect. Duration increased by 10s<span style="color: black">
+
+### 2nd Skill (or 1st): Spring of the Wilderness
+ **Description:** <span style="color: #48b946"><Blood Pool><span style="color: black"><span style="color: #645252">Skill's effect is increased by 50% and its range is expanded<span style="color: black">
+
+### 3rd Skill (or 4th): Wild Heart
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252">Ogre unit's damage reduction increased by 20%. The effect doubles when in <Rampage> state<span style="color: black">
+
+### 4th Skill (or 3rd): Heartening War Song
+ **Description:** <span style="color: #48b946"><Rampage><span style="color: black"><span style="color: #645252"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in <Rampage> state<span style="color: black">
+
+### 5th Skill (or 6th): Ancient Surge
+ **Description:** <span style="color: #48b946"><Cure Poison><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect<span style="color: black">
+
+### 6th Skill (or 5th): Patriarch's Protection
+ **Description:** <span style="color: #48b946"><Cure Poison><span style="color: black"><span style="color: #645252">Skill effect still works after the death of Ogre unit <span style="color: black">
+
 ## Technical info
  **runart:** 1
 

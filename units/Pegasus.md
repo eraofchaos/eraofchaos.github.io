@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Pegasus and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Ranged units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Forest Chronosphere
+ **Description:** <span style="color: #48b946"><Vitality Protection><span style="color: black"><span style="color: #645252">Works on all friendly units in the back-row. Skill effect increases to 200% of the previous skill's effect<span style="color: black">
+
+### 2nd Skill (or 1st): Blessing from the Forest
+ **Description:** <span style="color: #48b946"><Vitality Protection><span style="color: black"><span style="color: #645252">Skill effect increases to 200% of the previous skill's effect. At the beginning of battle, the Pegasus unit casts <Vitality Protection><span style="color: black">
+
+### 3rd Skill (or 4th): Wild Blade
+ **Description:** <span style="color: #48b946"><Razor-sharp><span style="color: black"><span style="color: #645252">Pegasus' ATK speed increased by 100% for 10s when she has a <shield><span style="color: black">
+
+### 4th Skill (or 3rd): Thorn Sword
+ **Description:** <span style="color: #48b946"><Razor-sharp><span style="color: black"><span style="color: #645252">Normal attacks decrease the target unit's damage reduction by 10%<span style="color: black">
+
+### 5th Skill (or 6th): Leadership Mind
+ **Description:** <span style="color: #48b946"><Calvary of Silver Wings><span style="color: black"><span style="color: #645252">Pegasus unit's damage will be increased by 5% for every friendly Rampart unit on the battlefield.<span style="color: black">
+
+### 6th Skill (or 5th): Wings of Inspiration
+ **Description:** <span style="color: #48b946"><Calvary of Silver Wings><span style="color: black"><span style="color: #645252">Pegasus unit's damage will be increased by 5% for every friendly flying unit on the battlefield<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

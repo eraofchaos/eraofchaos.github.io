@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units and win 1 Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Fearless Execution
+ **Description:** <span style="color: #48b946"><Reinforcements of the Valiant><span style="color: black"><span style="color: #645252">Sanctuary Retinue is promoted to Sanctuary Supervisor. For each Sanctuary Supervisor on the battlefield, the Sanctuary Supervisor increases the DEF of Supreme Paladin by 15%. Sanctuary will restore 10% HP during the first 3 summons<span style="color: black">
+
+### 2nd Skill (or 1st): Sanctuary's Glory
+ **Description:** <span style="color: #48b946"><Reinforcements of the Valiant><span style="color: black"><span style="color: #645252">Sanctuary Retinue gets promoted to Sanctuary Supervisor. For the first 3 summons, friendly units' damage and damage reduction will be increased by 10% for 30s. Supreme Paladin summons a Sanctuary Supervisor when entering the battlefield for the first time<span style="color: black">
+
+### 3rd Skill (or 4th): Loyalty and Belief
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">Paladin's unit's damage reduction increased by 22%. This effect is not affected by \"High Morale\"<span style="color: black">
+
+### 4th Skill (or 3rd): Unyielding Faith
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">The Paladin's unit's damage reduction is increased by an extra 15%<span style="color: black"><span style="color: #645252">. The effect doubles under <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252"><span style="color: black">
+
+### 5th Skill (or 6th): Perseverance
+ **Description:** <span style="color: #48b946"><Incentive><span style="color: black"><span style="color: #645252"> works on all friendly units. Increases Crit DMG by 50% and tenacity by 150. Duration of High Morale increased by 10s<span style="color: black">
+
+### 6th Skill (or 5th): Agile Riposte
+ **Description:** <span style="color: #48b946"><Incentive><span style="color: black"><span style="color: #645252"> works on all friendly units. Increases unit's damage by 15% and tenacity by 150 for all units within range. Duration of High Morale increased by 10s<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Gorgon and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Abyss' Glance
+ **Description:** <span style="color: #48b946"><Mighty Gorgon><span style="color: black"><span style="color: #645252">Will be triggered once every 18 seconds. It has a 100% chance of petrifying the target for 3s and applies 1 random debuff on hostile units within a certain range. Meanwhile, it increases penetration by 200 for all friendly units over the next 10s<span style="color: black">
+
+### 2nd Skill (or 1st): Deathly Gaze
+ **Description:** <span style="color: #48b946"><Mighty Gorgon><span style="color: black"><span style="color: #645252">Will be triggered once every 18s. It has a 100% chance to petrify the target unit for 3s and apply 2 random debuffs to hostile units within a certain range.This effect lasts for 10s <span style="color: black">
+
+### 3rd Skill (or 4th): Curse of Ageing
+ **Description:** <span style="color: #48b946"><Uncivilized Curse><span style="color: black"><span style="color: #645252">Decreases unit's damage reduction of hostile units by 20%. When dying, petrifies surrounding units within a certain range for 8s and permanently decreases ATK speed of hostile non-Fortress units by 3%. Stacks up to 4 times<span style="color: black">
+
+### 4th Skill (or 3rd): Fatal Horn
+ **Description:** <span style="color: #48b946"><Uncivilized Curse><span style="color: black"><span style="color: #645252">Decreases hostile units' ATK speed by 20%. When dying, petrifies surrounding units within a certain range for 8s and permanently decreases ATK speed of hostile non-Fortress units by 3%. Stacks up to 4 times<span style="color: black">
+
+### 5th Skill (or 6th): Marsh King
+ **Description:** <span style="color: #48b946"><Marsh Overlord><span style="color: black"><span style="color: #645252">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Decreases non-Fortress hostile units' ATK speed by 10% and healing by 30% when the Gorgon is on the battlefield<span style="color: black">
+
+### 6th Skill (or 5th): Marsh Lord
+ **Description:** <span style="color: #48b946"><Marsh Overlord><span style="color: black"><span style="color: #645252">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Increases ATK speed of all friendly units by 20% when a Gorgon is on the battlefield<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

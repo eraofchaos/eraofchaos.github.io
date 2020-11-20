@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Vidomina and Lich and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Summon Skeleton
+ **Description:** <span style="color: #48b946"><Sacrifice><span style="color: black"><span style="color: #645252">Summons 2 Skeletons at the same time<span style="color: black">
+
+### 2nd Skill (or 1st): Undead Summon
+ **Description:** <span style="color: #48b946"><Sacrifice><span style="color: black"><span style="color: #645252">The summoned Skeleton turns into an Armed Skeleton whose normal attack has an 8% chance to stun the target<span style="color: black">
+
+### 3rd Skill (or 4th): Death Sacrifice
+ **Description:** <span style="color: #48b946"><Skeletal Sacrifice><span style="color: black"><span style="color: #645252">Increases Lich's ATK speed by 20% and Crit Hit by 200. For every hostile unit's death, the bonus doubles. Lasts for 20s<span style="color: black">
+
+### 4th Skill (or 3rd): Death's Embrace
+ **Description:** <span style="color: #48b946"><Skeletal Sacrifice><span style="color: black"><span style="color: #645252">Increases DEF and life drain by 20% for Necropolis units. For every hostile unit's death, the bonus doubles. Lasts for 20s<span style="color: black">
+
+### 5th Skill (or 6th): Magic Contract
+ **Description:** <span style="color: #48b946"><Dark Boost><span style="color: black"><span style="color: #645252">Lich unit's damage will be increased by an extra 5% for every Caster Unit on the battlefield<span style="color: black">
+
+### 6th Skill (or 5th): Contract of the Dead
+ **Description:** <span style="color: #48b946"><Incineration><span style="color: black"><span style="color: #645252">Lich unit's damage will be increased by 5% for every Necropolis unit on the battlefield<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Devil with at least 3 Inferno units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Dark Authority
+ **Description:** <span style="color: #48b946"><Painful Reaper><span style="color: black"><span style="color: #645252">The first damage done by Painful Reaper is increased to 200% of the previous skill's damage. For each cast, a 5s invincibility is applied<span style="color: black">
+
+### 2nd Skill (or 1st): Avengers
+ **Description:** <span style="color: #48b946"><Painful Reaper><span style="color: black"><span style="color: #645252">Devil's Crit DMG increased by 100% when fighting against \"Burned\" units. The chasm fire removes all buffs from enemies within its range<span style="color: black">
+
+### 3rd Skill (or 4th): Testimony of the Fallen
+ **Description:** <span style="color: #48b946"><Cruel Torture><span style="color: black"><span style="color: #645252">Increases skill damage to 150% of the skill's basic damage and reduces the target unit's DEF by 50% for 10s<span style="color: black">
+
+### 4th Skill (or 3rd): Beast Mark
+ **Description:** <span style="color: #48b946"><Cruel Torture><span style="color: black"><span style="color: #645252"> increases skill damage to 150% of the skill's basic damage. All friendly Inferno Faction units gain 1000 Critical Hit for 10s when this skill is cast.<span style="color: black">
+
+### 5th Skill (or 6th): Blasphemy
+ **Description:** <span style="color: #48b946"><Withering><span style="color: black"><span style="color: #645252">Decreases 35% healing of all hostile units when the Devil enters the battlefield<span style="color: black">
+
+### 6th Skill (or 5th): Annihilation
+ **Description:** <span style="color: #48b946"><Withering><span style="color: black"><span style="color: #645252">Skill damage increases to 150% of the previous skill damage. Decreases 10% of unit's damage reduction of all hostile units<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

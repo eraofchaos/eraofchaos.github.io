@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Pit Fiend and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Arena battles. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Bath in a Fire Lake
+ **Description:** <span style="color: #48b946"><Fire Spring><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill. HP regeneration works on all Inferno Faction units<span style="color: black">
+
+### 2nd Skill (or 1st): Baptism of Fire
+ **Description:** <span style="color: #48b946"><Fire Spring><span style="color: black"><span style="color: #645252">Skill duration increases to 12s. HP regeneration works on all Inferno Units<span style="color: black">
+
+### 3rd Skill (or 4th): Zealous Minion
+ **Description:** <span style="color: #48b946"><Lord's Summon><span style="color: black"><span style="color: #645252">Summons a Demon, increasing unit's damage reduction by 40% and dodge by 800<span style="color: black">
+
+### 4th Skill (or 3rd): Love Gift
+ **Description:** <span style="color: #48b946"><Lord's Summon><span style="color: black"><span style="color: #645252">When a hostile unit is downed, Pit Fiend will summon 4 Demons<span style="color: black">
+
+### 5th Skill (or 6th): Delighted Believer
+ **Description:** <span style="color: #48b946"><Lord's Will><span style="color: black"><span style="color: #645252">Increases unit's damage and unit's damage reduction for friendly Inferno units by 6% every 10s. For each hostile unit downed, it is triggered once. This effect can be stacked 5 times<span style="color: black">
+
+### 6th Skill (or 5th): Blissful Private Rite
+ **Description:** <span style="color: #48b946"><Lord's Will><span style="color: black"><span style="color: #645252">Increases unit's damage reduction for friendly Inferno units by 20% for 20s and restores 10% HP for every hostile unit is downed<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

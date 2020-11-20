@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Angel and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Trinity
+ **Description:** <span style="color: #48b946"><Condemnation><span style="color: black"><span style="color: #645252">Causes a special increase of unit's damage reduction by 10% for 3 random friendly units, lasts throughout the battle<span style="color: black">
+
+### 2nd Skill (or 1st): Come Again
+ **Description:** <span style="color: #48b946"><Condemnation><span style="color: black"><span style="color: #645252">Restores HP equal to 15% of their Max HP for all friendly units  <span style="color: black">
+
+### 3rd Skill (or 4th): Salvation
+ **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">Makes friendly units immune to all damage for 6s. Angel is immune to <silence><span style="color: black">
+
+### 4th Skill (or 3rd): Immersion
+ **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">Restores Max HP by 10% for all friendly units. Angel is immune to <silence><span style="color: black">
+
+### 5th Skill (or 6th): Gospel Talk
+ **Description:** <span style="color: #48b946"><Radiance><span style="color: black"><span style="color: #645252">Increases healing of all friendly units by 35% when Angel is on the battlefield<span style="color: black">
+
+### 6th Skill (or 5th): Ordination
+ **Description:** <span style="color: #48b946"><Radiance><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10% for all friendly units<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Wyvern to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Caustic Acid Poison
+ **Description:** <span style="color: #48b946">Venomous Spurt<span style="color: black"><span style="color: #645252"> will be triggered once every 13s and deal additional damage equal to 5% of the target's Max HP.<span style="color: black">
+
+### 2nd Skill (or 1st): A Designed Poison
+ **Description:** <span style="color: #48b946">Venomous Spurt<span style="color: black"><span style="color: #645252"> will be triggered once every 17s and deal additional damage equal to 10% of the target's Max HP.<span style="color: black">
+
+### 3rd Skill (or 4th): Touch of Venom
+ **Description:** <span style="color: #48b946"><Vicious Claw><span style="color: black"><span style="color: #645252">decreases damage reduction of target units by 10%. Normal attack bleeds the target<span style="color: black">
+
+### 4th Skill (or 3rd): Envoy of Poison
+ **Description:** <span style="color: #48b946"><Vicious Claw><span style="color: black"><span style="color: #645252">decreases target units' healing by 15%. Normal attack causes damage equal to 20% of ATK and bleeds the target<span style="color: black">
+
+### 5th Skill (or 6th): Wild Miasma
+ **Description:** <span style="color: #48b946"><Wild Miasma><span style="color: black"><span style="color: #645252">Inflict plague on all hostile units every 20s. Doubles the effects of plague, lasting for 15s. The lowered healing effect is increased by 1.5 times<span style="color: black">
+
+### 6th Skill (or 5th): Pestilent Toxin
+ **Description:** <span style="color: #48b946"><Wild Miasma><span style="color: black"><span style="color: #645252">Inflicts plague on all hostile units every 20s. Lasts for 22s, up to 2 stacks<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

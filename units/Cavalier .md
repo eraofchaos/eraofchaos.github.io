@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Cavalier and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in the Duel of Champions under the leadership of Mullich.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Survival Skills
+ **Description:** <span style="color: #48b946"><Knight Abilities><span style="color: black"><span style="color: #645252">Increases HP and Magic resistance by 30%<span style="color: black">
+
+### 2nd Skill (or 1st): Skills of War
+ **Description:** <span style="color: #48b946"><Knight Abilities><span style="color: black"><span style="color: #645252">Increases ATK and Magic resistance by a further 30%<span style="color: black">
+
+### 3rd Skill (or 4th): Light-Armored Knight's Rush
+ **Description:** <span style="color: #48b946"><Fast Breaching><span style="color: black"><span style="color: #645252">Activates Fast Breaching whenever a target unit is killed (excluding summoned units )<span style="color: black">
+
+### 4th Skill (or 3rd): Heavy-Armored Charge
+ **Description:** <span style="color: #48b946"><Fast Breaching><span style="color: black"><span style="color: #645252"> Damage after another assault is  increased to 150% and <stuns> enemies for 5s<span style="color: black">
+
+### 5th Skill (or 6th): Fanaticism
+ **Description:** <span style="color: #48b946"><Knight Pike><span style="color: black"><span style="color: #645252">Increases unit's damage reduction by an extra 20%. The effect doubles under \"High Morale\" <span style="color: black">
+
+### 6th Skill (or 5th): Calm Thinking
+ **Description:** <span style="color: #48b946"><Knight Pike> <span style="color: black"><span style="color: #645252">When in combat, \"High Morale\" effect is entered. Guaranteed to deal a Critical Hit. The effect lasts for 10s<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

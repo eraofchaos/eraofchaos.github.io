@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Green Dragon to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Spectral Poison
+ **Description:** <span style="color: #48b946"><Flood of Poison><span style="color: black"><span style="color: #645252">Cast every 20s. Decreases healing of hostile units that are affected by Flood of Poison by 30%<span style="color: black">
+
+### 2nd Skill (or 1st): Spread of Malaria
+ **Description:** <span style="color: #48b946"><Flood of Poison><span style="color: black"><span style="color: #645252">Skill damage increased to 200% of the previous skill's damage<span style="color: black">
+
+### 3rd Skill (or 4th): Anti-magic Dragon Scale
+ **Description:** <span style="color: #48b946"><Green Dragon Scale><span style="color: black"> <span style="color: #645252">Increases magic resistance instead of water damage reduction. For the first 30s of Gold Dragon's deployment, friendly Rampart and Dungeon units get a 20% increase in Unit DMG Reduction and become immune to Bleed.<span style="color: black">
+
+### 4th Skill (or 3rd): Natural Wind
+ **Description:** <span style="color: #48b946"><Green Dragon Scale><span style="color: black"><span style="color: #645252">Increased water damage reduction converted into Magic resistance. Meanwhile, ATK speed is increased by 50% of the previous skill's ATK Speed<span style="color: black">
+
+### 5th Skill (or 6th): Fury of the Sky
+ **Description:** <span style="color: #48b946"><Reinforcement from the Skies><span style="color: black"><span style="color: #645252">Casts a Reinforcement from the Skies, causing damage to enemies and decreasing their healing by 30% for 30s when engaged<span style="color: black">
+
+### 6th Skill (or 5th): Nymph's Care
+ **Description:** <span style="color: #48b946"><Reinforcement from the Skies><span style="color: black"><span style="color: #645252">Creates a <shield> for all friendly units to absorb damage equal to 10% of Max HP<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

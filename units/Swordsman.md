@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Swordsman with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Anti-magic Shield
+ **Description:** <span style="color: #48b946"><Divine Protection><span style="color: black"><span style="color: #645252"> provides additional immunity from magic damage<span style="color: black">
+
+### 2nd Skill (or 1st): Sacred Protection
+ **Description:** <span style="color: #48b946"><Divine Protection><span style="color: black"><span style="color: #645252">Effect duration increased by 10s<span style="color: black">
+
+### 3rd Skill (or 4th): Inspiration of the Valiant
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">Immune to \"Low Morale\". Skill effect increases to 150% of the previous skill's effect<span style="color: black">
+
+### 4th Skill (or 3rd): Raise Me Up
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">Increases unit's damage reduction for friendly units by 10% within a large area for 10s when becoming immune to <Low Morale]>and receiving \"High Morale\"<span style="color: black">
+
+### 5th Skill (or 6th): Light of Salvation
+ **Description:** <span style="color: #48b946"><Salvation><span style="color: black"><span style="color: #645252">HP regeneration amount increased to 200% of the previous skill's effect<span style="color: black">
+
+### 6th Skill (or 5th): A Mighty Heart
+ **Description:** <span style="color: #48b946"><Salvation><span style="color: black"><span style="color: #645252">Swordsman is immune to <silence>, <stun> and <petrification><span style="color: black">
+
 ## Technical info
  **runart:** 1
 

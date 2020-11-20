@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Fire Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Blazing Skyfire
+ **Description:** <span style="color: #48b946"><Heavenly Fire><span style="color: black"><span style="color: #645252"> Skill damage increased to 200% of the previous skill's damage<span style="color: black">
+
+### 2nd Skill (or 1st): Running Fire
+ **Description:** <span style="color: #48b946"><Heavenly Fire><span style="color: black"><span style="color: #645252">Deals damage to two random hostile units<span style="color: black">
+
+### 3rd Skill (or 4th): Elemental Injection
+ **Description:** <span style="color: #48b946"><Elemental Force><span style="color: black"><span style="color: #645252">Increases 50% ATK and 10% life drain for two random Offensive units for 10s when the friendly hero casts a fire spell<span style="color: black">
+
+### 4th Skill (or 3rd): Elemental Frenzy
+ **Description:** <span style="color: #48b946"><Elemental Force><span style="color: black"><span style="color: #645252">Has a 30% chance to unleash <Heavenly Fire> on 1 random hostile unit when the friendly hero casts a fire spell<span style="color: black">
+
+### 5th Skill (or 6th): Curse of Raging Flame
+ **Description:** <span style="color: #48b946"><Fire Energy Conductor><span style="color: black"><span style="color: #645252">Bonuses double. Stacks remain the same<span style="color: black">
+
+### 6th Skill (or 5th): Harmony of Flames
+ **Description:** <span style="color: #48b946"><Fire Energy Conductor><span style="color: black"><span style="color: #645252">Its effect works additionally on friendly units within a certain range<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

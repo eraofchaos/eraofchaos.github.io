@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Bone Dragon with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): null
+ **Description:** <span style="color: #48b946"><Fear><span style="color: black"><span style="color: #645252">Decreases unit's damage reduction of the target unit by additional 20%<span style="color: black">
+
+### 2nd Skill (or 1st): null
+ **Description:** <span style="color: #48b946"><Fear><span style="color: black"><span style="color: #645252">Decreases unit's damage reduction of hostile units by addtional 10% in a large area<span style="color: black">
+
+### 3rd Skill (or 4th): Debilitating Strike
+ **Description:** <span style="color: #48b946"><Crushing Roll><span style="color: black"><span style="color: #645252">Decreases DEF by 30%<span style="color: black">
+
+### 4th Skill (or 3rd): Dark Prohibition
+ **Description:** <span style="color: #48b946"><Crushing Roll><span style="color: black"><span style="color: #645252"><Silence> range expands to cover all hostile units within a certain range<span style="color: black">
+
+### 5th Skill (or 6th): Ghostly Embrace
+ **Description:** <span style="color: #48b946"><Ageing><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect<span style="color: black">
+
+### 6th Skill (or 5th): Ageing Curse
+ **Description:** <span style="color: #48b946"><Ageing><span style="color: black"><span style="color: #645252">Hostile units within a certain range around the Bone Dragon will take damage that is increased to 200% of the previous skill's damage<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Vidomina and Skeleton to win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Enchanted Bones
+ **Description:** <span style="color: #48b946"><Rib Cage><span style="color: black"><span style="color: #645252">Offers damage reduction that also works on Caster Units<span style="color: black">
+
+### 2nd Skill (or 1st): Evil Skeleton
+ **Description:** <span style="color: #48b946"><Rib Cage><span style="color: #645252">DEF increased by 30%. The effect doubles if the enemy unit attacking you is <Low Morale><span style="color: black">
+
+### 3rd Skill (or 4th): Death Nourishment
+ **Description:** <span style="color: #48b946"><Turn to Stone><span style="color: black"><span style="color: #645252">Increases DEF by 30% for every hostile unit's death throughout the entire battle, up to 3 stacks<span style="color: black">
+
+### 4th Skill (or 3rd): Mania of the Undead
+ **Description:** <span style="color: #48b946"><Turn to Stone><span style="color: black"><span style="color: #645252">Increases Magic resistance and DEF by 30%<span style="color: black">
+
+### 5th Skill (or 6th): Armed to the Teeth
+ **Description:** <span style="color: #48b946"><Bone Shield><span style="color: black"><span style="color: #645252">The effect lasts the whole battle<span style="color: black">
+
+### 6th Skill (or 5th): Wait in the Wings
+ **Description:** <span style="color: #48b946"><Turn to Stone><span style="color: black"><span style="color: #645252">Skill is triggered when entering battle. Duration increased to 30s<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

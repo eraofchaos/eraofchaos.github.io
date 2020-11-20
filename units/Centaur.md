@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Centaur and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Burst
+ **Description:** <span style="color: #48b946"><Battle Stomp><span style="color: black"><span style="color: #645252">Decreases extra unit's damage reduction of hostile units by 20% for 15s<span style="color: black">
+
+### 2nd Skill (or 1st): Aftermath
+ **Description:** <span style="color: #48b946"><Battle Stomp><span style="color: black"><span style="color: #645252">Skill damage increased to 150% of the previous skill and skill range increased by 20%<span style="color: black">
+
+### 3rd Skill (or 4th): Tireless March
+ **Description:** <span style="color: #48b946"><Strong><span style="color: black"><span style="color: #645252">Centaur unit's damage reduction increased by 20%. The effect doubles when it is against slowed enemies<span style="color: black">
+
+### 4th Skill (or 3rd): Psalm of Life
+ **Description:** <span style="color: #48b946"><Strength><span style="color: black"><span style="color: #645252">The Centaur restores his own HP equal to 1% of his Max HP per second<span style="color: black">
+
+### 5th Skill (or 6th): Guard Stance
+ **Description:** <span style="color: #48b946"><Fearless Leader><span style="color: black"><span style="color: #645252">Centaur increases damage reduction of friendly units by 20% within a large area over the next 20s when engaged<span style="color: black">
+
+### 6th Skill (or 5th): Unyielding Will
+ **Description:** <span style="color: #48b946"><Fearless Leader><span style="color: black"><span style="color: #645252">Increases extra DEF by 30% for 10s when the Centaur has a shield<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

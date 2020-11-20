@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Mage and win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Magic Affinity
+ **Description:** <span style="color: #48b946"><Spell Penetration><span style="color: black"><span style="color: #645252">ATK speed increased by 10%. The stacked effect will not be cleared even if <Spell Penetration> changes target<span style="color: black">
+
+### 2nd Skill (or 1st): Magic Mastery
+ **Description:** <span style="color: #48b946"><Spell Penetration><span style="color: black"><span style="color: #645252"> ATK speed increased by 10%. At the beginning of battle, receives a 10-stack <Spell Penetration> lasting throughout the entire battle<span style="color: black">
+
+### 3rd Skill (or 4th): Arcane Node
+ **Description:** <span style="color: #48b946"><Magic Field><span style="color: black"><span style="color: #645252">Increases ATK speed by 15% for friendly units in its path<span style="color: black">
+
+### 4th Skill (or 3rd): Arcane Mark
+ **Description:** <span style="color: #48b946"><Magic Field><span style="color: black"><span style="color: #645252">At the beginning of battle, creates another <Magic Field> for all friendly Tower units (The effect will not be doubled, but stacked with the previous skill's effect)<span style="color: black">
+
+### 5th Skill (or 6th): Death Toll
+ **Description:** <span style="color: #48b946"><Energy Loss><span style="color: black"><span style="color: #645252">If the target is downed, makes the mana of hostile heroes reduce by 2<span style="color: black">
+
+### 6th Skill (or 5th): Energy Suppression
+ **Description:** <span style="color: #48b946"><Energy Loss><span style="color: black"><span style="color: #645252">Skill effect increased to 200% of the previous skill's effect<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

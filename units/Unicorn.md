@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Unicorn and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Brilliance of Forest Spirit
+ **Description:** <span style="color: #48b946"><Blind><span style="color: black"><span style="color: #645252">Decreases extra accuracy by 1000 when blinded<span style="color: black">
+
+### 2nd Skill (or 1st): Forest Spirit's Will
+ **Description:** <span style="color: #48b946"><Blind><span style="color: black"><span style="color: #645252">Casts \"Blind\" immediately when engaged<span style="color: black">
+
+### 3rd Skill (or 4th): The Sixth Sense
+ **Description:** <span style="color: #48b946"><Aglimmer Silhouette><span style="color: black"><span style="color: #645252"> Chance to trigger the Shield is increased to 200% of the previous one<span style="color: black">
+
+### 4th Skill (or 3rd): Power of Coordination
+ **Description:** <span style="color: #48b946"><Aglimmer Silhouette><span style="color: black"><span style="color: #645252">Shield effect increased to 200% of the previous skill's effect<span style="color: black">
+
+### 5th Skill (or 6th): Forest Spirit's Guidance
+ **Description:** <span style="color: #48b946"><Bold Leader><span style="color: black"><span style="color: #645252">Unicorn increases unit's damage by 10% for all friendly units over the next 20s when the target unit is killed. The effect can be stacked 3 times<span style="color: black">
+
+### 6th Skill (or 5th): Forest Spirit's Shelter
+ **Description:** <span style="color: #48b946"><Bold Leader><span style="color: black"><span style="color: #645252">Unicorn creates a shield for all friendly units to absorb damage equal to 6% of Max HP when the target unit is killed<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

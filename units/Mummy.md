@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Mummy and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Curse of Decay
+ **Description:** <span style="color: #48b946"><Decaying Curse><span style="color: black"><span style="color: #645252"> can be triggered 1 time every 18s. The damage it causes is increased to 150% of the previous skill's damage. \"Disease\" decreases 10% of hostile unit's damage reduction further. The additional effect doubles if the target is from Rampart Faction. Range of <Decaying Curse> expanded greatly<span style="color: black">
+
+### 2nd Skill (or 1st): Will of Death
+ **Description:** <span style="color: #48b946"><Decaying Curse><span style="color: black"><span style="color: #645252"> can be triggered once every 18s. The damage it causes is increased to 150% of the previous skill's damage. \"Disease\" decreases hostile units' unit's damage by 10%. Disease cannot be dispelled. Range of <Decaying Curse> greatly expanded<span style="color: black">
+
+### 3rd Skill (or 4th): Armored Crusader
+ **Description:** <span style="color: #48b946"><Shroud><span style="color: black"><span style="color: #645252">Mummy unit's damage reduction increased by 20%. <Shroud> Buff duration increases by 5s. Increases extra unit's damage reduction for friendly units within a certain range by 20% and restores their Max HP by 5%<span style="color: black">
+
+### 4th Skill (or 3rd): The Hardened Shroud
+ **Description:** <span style="color: #48b946"><Shroud><span style="color: black"><span style="color: #645252">Mummy unit's damage reduction increased by 20%. <Shroud> Buff duration increases to 5s. Increases unit's damage reduction by an extra 20% for all Necropolis units and restores 5% of their Max HP<span style="color: black">
+
+### 5th Skill (or 6th): Disease Mutation
+ **Description:** <span style="color: #48b946"><Source of Disease><span style="color: black"><span style="color: #645252">Source of Disease decreases healing of enemies by 20%. The effect works on all hostile units<span style="color: black">
+
+### 6th Skill (or 5th): Disease Infection
+ **Description:** <span style="color: #48b946"><Source of Disease><span style="color: black"><span style="color: #645252">Decreases all enemy unit's damage reduction by 10%<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

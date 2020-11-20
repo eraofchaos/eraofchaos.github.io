@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Gog and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Caster Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Fire Primer
+ **Description:** <span style="color: #48b946"><Fire Wall><span style="color: black"><span style="color: #645252">Damage dealt increased to 150%. Duration increased by 4s<span style="color: black">
+
+### 2nd Skill (or 1st): Fire Flood
+ **Description:** <span style="color: #48b946"><Fire Wall><span style="color: black"><span style="color: #645252">Damage dealt increased to 150%. Fire wall range expands over time<span style="color: black">
+
+### 3rd Skill (or 4th): Red-hot Forbidden Spell
+ **Description:** <span style="color: #48b946"><Fire Phantom><span style="color: black"><span style="color: #645252">Gog unit's damage increased by 10%. Bonus doubles when fighting against <burned> units<span style="color: black">
+
+### 4th Skill (or 3rd): Red-hot Insight
+ **Description:** <span style="color: #48b946"><Fire Phantom><span style="color: black"><span style="color: #645252">Gog is guaranteed to land a Crit Hit when fighting against <burned> units<span style="color: black">
+
+### 5th Skill (or 6th): Inferno Vanguard
+ **Description:** <span style="color: #48b946"><Incineration><span style="color: black"><span style="color: #645252">Gog unit's damage will be increased by 5% for every Inferno unit on the battlefield<span style="color: black">
+
+### 6th Skill (or 5th): Magic Weave
+ **Description:** <span style="color: #48b946"><Incineration><span style="color: black"><span style="color: #645252">Gog unit's damage will be increased by 5% for every friendly Caster Unit on the battlefield<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Goblin and win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> times in the Arena.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Fighter's Mentality
+ **Description:** <span style="color: #48b946"><War Storm> <span style="color: black"><span style="color: #645252"><War Storm>'s trigger chance doubled<span style="color: black">
+
+### 2nd Skill (or 1st): Inertia
+ **Description:** <span style="color: #48b946"><War Storm> <span style="color: black"><span style="color: #645252"><War Storm> grants a combo attack (trigger <War Storm> twice)<span style="color: black">
+
+### 3rd Skill (or 4th): Wielding Skill
+ **Description:** <span style="color: #48b946"><Execution><span style="color: black"><span style="color: #645252">Goblin receives an increase of additional 150% ATK when fighting against targets with HP lower than 30%<span style="color: black">
+
+### 4th Skill (or 3rd): Unarmed Counter
+ **Description:** <span style="color: #48b946"><Execution><span style="color: black"><span style="color: #645252">Goblin receives an increase of 30% unit's damage when against a target with less than 30% HP<span style="color: black">
+
+### 5th Skill (or 6th): Bloodlust Mastery
+ **Description:** <span style="color: #48b946"><Bloodlust><span style="color: black"><span style="color: #645252">HP regeneration increases to 5% when a Crit Hit is landed<span style="color: black">
+
+### 6th Skill (or 5th): Bloody Maul
+ **Description:** <span style="color: #48b946"><Bloodlust><span style="color: black"><span style="color: #645252">Each Crit Hit will increase extra ATK speed by 2%, lasting for 10s, up to 10 stacks<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

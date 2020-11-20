@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Firebird and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> spellcasting units to win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in the Campaign.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Eternal Flame
+ **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">Reborn after death every time (Skill CD is 20s)<span style="color: black">
+
+### 2nd Skill (or 1st): Endless Storm
+ **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">After resurrecting, deals damage equal to 8% of Max HP to all hostile units and <burns> them for 15s<span style="color: black">
+
+### 3rd Skill (or 4th): Blast of the Cross
+ **Description:** <span style="color: #48b946"><Flame Breath><span style="color: black"><span style="color: #645252">Deals additional damage to enemies standing in the row where the target is (targets on a crossing take double damage)<span style="color: black">
+
+### 4th Skill (or 3rd): Lava Breath
+ **Description:** <span style="color: #48b946"><Flame Breath><span style="color: black"><span style="color: #645252">Damage increased to 200%<span style="color: black">
+
+### 5th Skill (or 6th): Endless Rage
+ **Description:** <span style="color: #48b946"><Fire Boost><span style="color: black"><span style="color: #645252">Extra 30% unit's damage<span style="color: black">
+
+### 6th Skill (or 5th): Flame Intensifies
+ **Description:** <span style="color: #48b946"><Fire Boost><span style="color: black"><span style="color: #645252">Guaranteed to cause a Crit Hit on <burned> targets<span style="color: black">
+
 ## Technical info
  **runart:** 0
 

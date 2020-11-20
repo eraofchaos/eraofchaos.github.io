@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Psychic Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Focus
+ **Description:** <span style="color: #48b946"><Energy Blast><span style="color: black"><span style="color: #645252"> skill damage increased to 200% of the original skill's damage.<span style="color: black">
+
+### 2nd Skill (or 1st): Divergence
+ **Description:** <span style="color: #48b946"><Energy Blast><span style="color: black"><span style="color: #645252"> skill damage increased to 150% of the original skill's damage, and the range covers all hostile units.<span style="color: black">
+
+### 3rd Skill (or 4th): Stress Reaction
+ **Description:** <span style="color: #48b946"><Earth><span style="color: black"><span style="color: #645252"> causes AoE <stun>.<span style="color: black">
+
+### 4th Skill (or 3rd): Trauma
+ **Description:** <span style="color: #48b946"><Earth><span style="color: black"><span style="color: #645252"> doubles unit's damage dealt.<span style="color: black">
+
+### 5th Skill (or 6th): Sparks of Thought
+ **Description:** <span style="color: #48b946"><Fire><span style="color: black"><span style="color: #645252"> Unit's damage reduction triples. Trigger chance increased by 10%. Burns a crowd of enemies<span style="color: black">
+
+### 6th Skill (or 5th): Fired Up
+ **Description:** <span style="color: #48b946"><Fire><span style="color: black"><span style="color: #645252"> Unit's damage reduction triples. Trigger chance increased by 10%. Burn duration increased to 12s<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

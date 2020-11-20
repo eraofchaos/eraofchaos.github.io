@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Walking Dead and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Disease Outbreak
+ **Description:** <span style="color: #48b946"><Poison Gas><span style="color: black"><span style="color: #645252">Deals additional damage equal to 2% of Max HP<span style="color: black">
+
+### 2nd Skill (or 1st): Infectious Disease
+ **Description:** <span style="color: #48b946"><Poison Gas><span style="color: black"><span style="color: #645252">At the beginning of battle, applies <Poison Gas> to all friendly Necropolis melee units, lasting throughout the battle. Damage can be stacked up to 6 times<span style="color: black">
+
+### 3rd Skill (or 4th): Complication
+ **Description:** <span style="color: #48b946"><Infection><span style="color: black"><span style="color: #645252">Decreases extra ATK and extra DEF by 30%<span style="color: black">
+
+### 4th Skill (or 3rd): Superinfection
+ **Description:** <span style="color: #48b946"><Infection><span style="color: black"><span style="color: #645252">Decreases unit's damage reduction by an extra 10%<span style="color: black">
+
+### 5th Skill (or 6th): Horrific Barrier
+ **Description:** <span style="color: #48b946"><Barricade of Corpses><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect<span style="color: black">
+
+### 6th Skill (or 5th): Macabre Feast
+ **Description:** <span style="color: #48b946"><Barricade of Corpses><span style="color: black"><span style="color: #645252">Restores HP of Walking Dead equal to 10% of Max HP every time 1 hostile unit is downed<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

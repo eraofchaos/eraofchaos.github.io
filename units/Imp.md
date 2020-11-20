@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Imp with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Inferno units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Will of the Abyss
+ **Description:** <span style="color: #48b946"><Impulse><span style="color: black"><span style="color: #645252">Each Imp has a 30% chance to summon a Devil when it dies<span style="color: black">
+
+### 2nd Skill (or 1st): Lingering Warmth
+ **Description:** <span style="color: #48b946"><Impulse><span style="color: black"><span style="color: #645252">Resurrection chance of Imp increases to 200% of the previous skill. Restores 2 mana for friendly heroes when each Imp is killed<span style="color: black">
+
+### 3rd Skill (or 4th): Evil Wisdom
+ **Description:** <span style="color: #48b946"><Agility><span style="color: black"> <span style="color: #645252"> After entering the battlefield, Imp's Dodge is increased by 2000, lasting 20 seconds.<span style="color: black">
+
+### 4th Skill (or 3rd): Inferno Rules
+ **Description:** <span style="color: #48b946"><Agility><span style="color: black"><span style="color: #645252">Imp increases dodge by 200 for friendly units within a certain range. For Inferno Faction units, the effect doubles<span style="color: black">
+
+### 5th Skill (or 6th): The Deep Asylum
+ **Description:** <span style="color: #48b946"><Inferno Minion><span style="color: black"><span style="color: #645252">Imp's unit defense increased by 15%, and by 4% further for every Inferno unit deployed<span style="color: black">
+
+### 6th Skill (or 5th): Inferno Agitation
+ **Description:** <span style="color: #48b946"><Inferno Minion><span style="color: black"><span style="color: #645252">Increases Imps' DEF by 15% for each one that dies, lasting throughout the battle, up to 5 stacks<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Black Knights to win <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battles.<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Spread of Darkness
+ **Description:** <span style="color: #48b946"><Critical Strike><span style="color: black"><span style="color: #645252">The target is increased to 2 hostile units within a large range<span style="color: black">
+
+### 2nd Skill (or 1st): Explosion of Fear
+ **Description:** <span style="color: #48b946"><Critical Strike><span style="color: black"><span style="color: #645252">Damage dealt increased by 50%. The duration extends to 20s if in \"Low Morale\"<span style="color: black">
+
+### 3rd Skill (or 4th): Harvest of Life
+ **Description:** <span style="color: #48b946"><Death Charge><span style="color: black"><span style="color: #645252">Restores HP by 30% of Max HP and becomes immune to spell damage for 7s when killing the target unit<span style="color: black">
+
+### 4th Skill (or 3rd): Ghostly Shield
+ **Description:** <span style="color: #48b946"><Death Charge><span style="color: black"><span style="color: #645252"> Restores 80% unit's damage reduction and becomes immune to spell damage for 7s when killing a target unit<span style="color: black">
+
+### 5th Skill (or 6th): Fear Absolute
+ **Description:** <span style="color: #48b946"><Terrifying Suppression><span style="color: black"><span style="color: #645252">If the target unit is in \"Low Morale\", Crit DMG is increased by 50%<span style="color: black">
+
+### 6th Skill (or 5th): Bloody Crackdown
+ **Description:** <span style="color: #48b946"><Terrifying Suppression><span style="color: black"><span style="color: #645252">If the target is in \"Low Morale\", a 20% extra life drain is given<span style="color: black">
+
 ## Technical info
  **runart:** 1
 

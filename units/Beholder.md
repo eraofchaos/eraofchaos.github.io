@@ -79,6 +79,26 @@ toc: true
 
  4. <span style="color: #3c2a1e">Deploy Beholder with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Dungeon units and win 1 Duel of Champions battle. (Sweep does not count towards the mission.)<span style="color: black">
 
+## Awaken Skills
+
+### 1st Skill (or 2nd): Mana Strike
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">Beholder opens 4 more eyes. It closes 2 of them when killing 1 target unit. At most he will close 6 eyes<span style="color: black">
+
+### 2nd Skill (or 1st): Into the Abyss
+ **Description:** <span style="color: #48b946"><Spell penetration><span style="color: black"><span style="color: #645252">Each eye of death grants 3% unit's damage and 3% unit's damage reduction for friendly Dungeon units. For Beholder, the effect doubles<span style="color: black">
+
+### 3rd Skill (or 4th): Sorcery Collapse
+ **Description:** <span style="color: #48b946"><Debility><span style="color: black"><span style="color: #645252">Hostile heroes' mana regeneration speed is decreased by 1 for every hostile unit that dies. The effect can be triggered 2 times<span style="color: black">
+
+### 4th Skill (or 3rd): Sorcery Plunder
+ **Description:** <span style="color: #48b946"><Debility><span style="color: black"><span style="color: #645252">Hostile heroes' mana is decreased by 10 for every hostile unit's death<span style="color: black">
+
+### 5th Skill (or 6th): Spell Breaker's Shield
+ **Description:** <span style="color: #48b946"><Gather Energy><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10%. Increases Magic resistance and unit's damage reduction for the Beholder by 10% when a hostile hero casts a spell<span style="color: black">
+
+### 6th Skill (or 5th): Exorcism Resonance
+ **Description:** <span style="color: #48b946"><Gather Energy><span style="color: black"><span style="color: #645252">Skill effect increased to 150%. <Gather Energy> buff works on all friendly units. Increases Magic resistance and unit's damage reduction by 10% for the Beholder when a hostile hero casts a spell<span style="color: black">
+
 ## Technical info
  **runart:** 0
 
