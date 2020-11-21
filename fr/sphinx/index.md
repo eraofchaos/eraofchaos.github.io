@@ -216,88 +216,89 @@ classes: wide
   | 203 |  Parmi les unités suivantes, laquelle appartient à la faction du Rempart ?  | **La Licorne** | Le Chien de l'Enfer | Le Chevaucheur de loup | Le Vampire |
   | 204 |  Parmi les unités suivantes, laquelle est une unité d'aptitude R ?  | **Fée** | Golem de fer | Naga | Ogre |
   | 205 |  Parmi les unités suivantes, laquelle est une unité d'aptitude SR ?  | **Mage** | Lancier | Diablotin | Chevalier noir |
-  | 206 |  Parmi les unités suivantes, laquelle n'est pas une unité d'aptitude SSR ?  | **Béhémoth** | Oiseau de feu | Chevalier impérial | Élémentaire de glace |
-  | 207 |  Parmi les écrivains suivants, lequel n'est pas Français ?  | **Heinrich** | Hugo | Maupassant | Balzac |
-  | 208 |  Parmi les œuvres suivantes, laquelle est associée à la mythologie nordique ?  | **La Chanson des Nibelungen** | La Divine Comédie | Le Ramayana | Le Livre des morts |
-  | 209 |  Parmi les œuvres suivantes, laquelle n'a aucun lien avec la mythologie indienne ?  | **La Théogonie** | Le Mahabharata | Le Ramayana | Le Veda |
-  | 210 |  Parmi les œuvres suivantes, laquelle n'a aucun lien avec la mythologie nordique ?  | **L'Odyssée** | Ada | La Chanson des Nibelungen | Les bénédictions d'Odin |
-  | 211 |  Pendant la guerre de Troie, qui était à la tête de l'armée grecque (achéenne) ?  | **Agamemnon** | Atrée | Cadmos | Deucalion |
-  | 212 |  Qu'indique la valeur inscrite sur les bouteilles de bière ?  | **Le taux de moût** | Le taux d'alcool | Le taux de gaz carbonique | Le contenu en minéraux |
-  | 213 |  Que signifie \"Tatalia\" ?  | **Communauté** | Fédération | Guilde | Terre de liberté |
-  | 214 |  Que trouve-t-on en plus grand nombre dans les océans ?  | **Le plancton** | Les vertébrés | Les arthropodes | Les mammifères |
-  | 215 |  Quel animal symbolise Anubis, le dieu de la mort dans la mythologie égyptienne ?  | **Le chacal** | L'éléphant | L'aigle | Le lion |
-  | 216 |  Quel est l'élément chimique principal du soleil ?  | **Hydrogène** | Azote | Oxygène | Carbone |
-  | 217 |  Quel est le demi-dieu le plus important de la guerre de Troie ?  | **Achilles** | Admète | Ajax | Antiloque |
-  | 218 |  Quel est le demi-dieu le plus important de mythologie occidentale ?  | **Minotaure** | Graeae | Chimère | Crataeis |
-  | 219 |  Quel est le plus grand titre qui existe parmi les privilèges ?  | **Roi** | Duc | Comte | Empereur |
-  | 220 |  Quel est le plus gros félin existant au monde ?  | **Le tigre de Mandchourie** | Le guépard | Le tigre de Chine méridionale | Le lion d'Afrique |
-  | 221 |  Quel est le plus long fleuve du monde ?  | **La Volga** | Le Mississippi | Le Gange | L'Amazone |
-  | 222 |  Quel est le plus long fleuve qui se jette dans l'océan Atlantique ?  | **L'Amazone** | Le Gange | Le Mississippi | Le fleuve Jaune |
-  | 223 |  Quel est le point culminant de la chaîne des Alpes ?  | **Le mont Blanc** | Le Cervin | La pointe Dufour | Le dôme de Clingmans |
-  | 224 |  Quel est le premier établissement d'éducation supérieure de l'histoire des États-Unis ?  | **L'université de Harvard** | L'université de Princeton | L'université de Yale | L'université de Duke |
-  | 225 |  Quel est le second plus grand continent du monde ?  | **L'Afrique** | L'Europe | L'Asie | L'Océanie |
-  | 226 |  Quel est le talent ultime de l'École de l'Air ?  | **La régénération de mana** | L'augmentation de mana | Mana endommagé | La frappe de mana |
-  | 227 |  Quel est le talent ultime de l'École de l'Eau ?  | **L'augmentation de mana** | Mana endommagé | La régénération de mana | La frappe de mana |
-  | 228 |  Quel est le talent ultime de l'École de la Terre ?  | **La frappe de mana** | L'augmentation de mana | Mana endommagé | La régénération de mana |
-  | 229 |  Quel est le talent ultime de l'École du Feu ?  | **Mana endommagé** | L'augmentation de mana | La régénération de mana | La frappe de mana |
-  | 230 |  Quel instrument appelle-t-on \"cor d'harmonie\" ?  | **Le cor** | Le trombone | Le violon | Le violoncelle |
-  | 231 |  Quel niveau du jeu vous permet de gagner beaucoup d'EXP d'unité ?  | **Crypte** | Trésor des Nains | Utopie draconique | Épreuve des Anges |
-  | 232 |  Quel niveau du jeu vous permet de gagner beaucoup d'or ?  | **Trésor des Nains** | Crypte | Utopie draconique | Épreuve des Anges |
-  | 233 |  Quel niveau du jeu vous permet de gagner beaucoup de pierres artificielles du Paradis ?  | **Campagne** | Trésor des Nains | Crypte | Utopie draconique |
-  | 234 |  Quel pays n'est pas allié aux forces du mal ?  | **Kreward** | Eeofol | Deyja | Nighon |
-  | 235 |  Quel pays n'est pas l'allié d'Erathia ?  | **Eeofol** | Avlee | Bracada | Deyja |
-  | 236 |  Quel sort appartient à l'école de feu ?  | **Foudre de guerre** | Blizzard | Flèche terrestre | Mur de vent |
-  | 237 |  Quel sort appartient à l'école de l'air ?  | **Carapace** | Éclair de foudre | Attaque rapide | Foudre terrible |
-  | 238 |  Quel sort appartient à l'école de l'eau ?  | **Faveur divine** | Portail de feu | Éclair de foudre | Pourfendeur |
-  | 239 |  Quel sort appartient à l'école de la terre ?  | **Foudre de guerre** | Mise à mort | Chagrin | Onde mortelle |
-  | 240 |  Quelle carence est à l'origine du scorbut, maladie répandue chez les marins ?  | **Vitamine C** | Vitamine A | Vitamine B | Vitamine E |
-  | 241 |  Quelle créature change quiconque la regarde en pierre ?  | **La Méduse** | Le Lutin | La Gargouille | Le Rock |
-  | 242 |  Quelle est l'origine du mot \"sphinx\" ?  | **La mythologie égyptienne** | La mythologie nordique | La mythologie indienne | La mythologie grecque |
-  | 243 |  Quelle est l'unité dont l'efficacité en attaque augmente avec la distance ?  | **Unité à distance** | Unité offensive | Unité défensive | Unité d'assaut |
-  | 244 |  Quelle est la capitale la plus verte du monde ?  | **Varsovie** | New York | Moscou | Berlin |
-  | 245 |  Quelle est la compétence qui permet à un héros d'invoquer des Diablotins ?  | **Portail de feu** | Blizzard | Arrêt du temps | Armée des Non-Morts |
-  | 246 |  Quelle est la compétence qui permet à une unité d'invoquer des créatures pour qu'elles prennent part au combat ?  | **Invocation du Seigneur** | Tour de commandement | Infection | Carnage |
-  | 247 |  Quelle est la compétence qui permet à une unité de soigner les unités alliées ?  | **Cercle de feu** | Pic du Chevalier | Charisme | Décadence |
-  | 248 |  Quelle est la date de la fête nationale française ?  | **14 juillet** | 7 juillet | 1er juillet | 21 juillet |
-  | 249 |  Quelle est la musique d'ambiance de la Nécropole dans Heroes of Might and Magic 3 ?  | **Necro Town** | Septet Dedicated to the Disappeared Highness | Impassioned Duelist | The River That Year |
-  | 250 |  Quelle est la plus grande plaine au monde ?  | **Plaine de Sibérie occidentale** | Plaine des Indes | Plaine du Gange | Plaine d'Amazonie |
-  | 251 |  Quelle est la principale vitamine contenue dans le maïs frais ?  | **Vitamine E** | Vitamine A | Vitamine B | Vitamine C |
-  | 252 |  Quelle est la période orbitale de la comète de Halley ?  | **76 ans** | 70 ans | 69 ans | 100 ans |
-  | 253 |  Quelle guerre est l'arrière-plan historique du fameux roman Autant en emporte le vent ?  | **La guerre de Sécession** | La Première Guerre mondiale | La Seconde Guerre mondiale | La guerre du Golfe |
-  | 254 |  Quelle unité peut être déployée à la fois sur les premières lignes et les lignes arrière ?  | **Unité d'assaut** | Unité offensive | Unité défensive | Unité à distance |
-  | 255 |  Quelle était la nourriture utilisée par Genghis Khan lors de ses campagnes militaires ?  | **Le bœuf séché** | Le riz | Le blé | L’orge du Tibet |
-  | 256 |  Quelle était la première loi de la Rome antique ?  | **La loi des Douze Tables** | Le Corpus juris civilis | L'ostracisme | Les lois de la Rome antique |
-  | 257 |  Quelles créatures ne retrouve-t-on pas dans la mythologie nordique ?  | **Les Orques** | Les géants | Elfes | Nain |
-  | 258 |  Quels sont les éléments à l'origine de la destruction de la couche d'ozone ?  | **Les hydrocarbures halogénés** | L'hydrogène et le nitrogène | Les composés ferriques | Les hydrocarbures |
-  | 259 |  Qui a dit : \"L'air, en se déplaçant, nourrit la vie\" ?  | **Solmyr** | Dante | Patchouli | Jeanne d'Arc |
-  | 260 |  Qui a dit : \"Pour la victoire et pour la liberté !\" ?  | **Roland** | Rashka | Seigneur Haart | Adelaïde |
-  | 261 |  Qui a inventé les chiffres arabes ?  | **Les Indiens** | Les Arabes | Les Américains | Les Jérusalémites |
-  | 262 |  Qui a peint Guernica ?  | **Picasso** | Van Gogh | La Gorgone | Sandro |
-  | 263 |  Qui a peint Mona Lisa ?  | **Vinci** | Van Gogh | Monet | Titien |
-  | 264 |  Qui a renversé L'Empire de Bracaduun ?  | **Tarnum** | Crag Hack | Conan | Bul-Kathos |
-  | 265 |  Qui a vu pour la première fois la comète de Halley ?  | **Les Chinois** | Les Indiens | Les Égyptiens | Les Arabes |
-  | 266 |  Qui a écrit L'Utopie ?  | **More** | Monet | Moyan | Moyu |
-  | 267 |  Qui a écrit Madame Bovary ?  | **Flaubert** | Maupassant | Gorky | Dumas |
-  | 268 |  Qui est l'auteur de la 9e symphonie ?  | **Beethoven** | Chopin | Edvard Grieg | Saint-Saëns |
-  | 269 |  Qui est l'auteur de la citation : \"Si vient l'hiver, le printemps peut-il être loin ?\"  | **Shelley** | Shecey | Monet | Gnegit |
-  | 270 |  Qui est l'auteur du Comte de Monte-Cristo ?  | **Dumas** | Dumas fils | Flaubert | Smith |
-  | 271 |  Qui est l'hôte de la Lame d'Armageddon ?  | **Xeron** | Gelu | Kilgor | Catherine |
-  | 272 |  Qui est le dieu souverain de l'Olympe ?  | **Zeus** | Odin | Ramon | Brahma |
-  | 273 |  Qui est le dieu souverain de la mythologie nordique ?  | **Odin** | Freyr | Týr | Freya |
-  | 274 |  Qui peut intervenir en cas de Démotivation dans le jeu ?  | **Roland** | Crag Hack | Shiva | Sandro |
-  | 275 |  Qui peut intervenir lorsque l'on fait face à un problème de sécheresse dans le jeu ?  | **Adelaïde** | Rashka | Luna | Solmyr |
-  | 276 |  Qui veut devenir Chasseur de dragon ?  | **Dracon** | Gelu | Crag Hack | Yog |
-  | 277 |  Selon la légende, où a été trouvée l'épée de Kusanagi ?  | **À l'intérieur d'un serpent** | Dans une grotte | Au fond d'une rivière | Sous terre |
-  | 278 |  Sur le champ de bataille, je suis toujours accompagné d'un loup géant. Qui suis-je ?  | **L'Orque Pillard** | Le Trépassé | Le Cyclope | La Pégase |
-  | 279 |  Sur quel principe physique repose la construction des pyramides ?  | **Le principe du levier** | La thermodynamique | La connectique | La réflexion |
-  | 280 |  Venu des ténèbres, je suis un chevalier immortel. Qui suis-je ?  | **Le Chevalier noir** | La Cavalerie | Le Chevaucheur de loup | Le Centaure |
-  | 281 |  À combien de degrés sur l'échelle de Beaufort le vent est-il considéré comme fort ?  | **6** | 5 | 7 | 8 |
-  | 282 |  À quel courant architectural appartient Notre-Dame de Paris ?  | **Gothique** | Baroque | Rococo | Romane |
-  | 283 |  À quel groupe ethnique appartiennent les Corses ?  | **Européens de l'Ouest** | Européens de l'Est | Américains du Nord | Américains du Sud |
-  | 284 |  À quel mouvement artistique se réfère-t-on lorsque l'on parle de \"Poète de la Lumière\" ?  | **Impressionnisme** | Modernisme | Néo-classicisme | Réalisme |
-  | 285 |  À quel niveau les 5 îles sont-elles accessibles depuis le chantier naval ?  | **65** | 33 | 55 | 75 |
-  | 286 |  À quelle mythologie appartient Cupidon ?  | **Romaine** | Indienne | Égyptienne | Européenne du Nord |
-  | 287 |  À quelle température l'eau atteint-elle sa densité maximale ?  | **4°C** | 0°C | 10°C | 100°C |
-  | 288 |  À quelle unité Catherine est-elle associée ?  | **Spadassin** | Chevalier impérial | Arbalétrier | Lancier |
-  | 289 |  À quelle unité Ryland est-il associé ?  | **Garde sylvanien** | Licorne | Centaure | Dragon vert |
-  | 290 |  À quoi la fleur de thé doit-elle son nom ?  | **La fleur** | La façon de préparer le thé | Le type d'eau utilisé | Le procédé de fabrication |
+  | 206 |  Parmi les unités suivantes, laquelle n'est pas une unité d'aptitude SSR ?  | **Oiseau de feu** | Béhémoth | Ange | Diable |
+  | 207 |  Parmi les unités suivantes, laquelle n'est pas une unité d'aptitude SSR ?   | **Béhémoth** | Oiseau de feu | Chevalier impérial | Élémentaire de glace |
+  | 208 |  Parmi les écrivains suivants, lequel n'est pas Français ?  | **Heinrich** | Hugo | Maupassant | Balzac |
+  | 209 |  Parmi les œuvres suivantes, laquelle est associée à la mythologie nordique ?  | **La Chanson des Nibelungen** | La Divine Comédie | Le Ramayana | Le Livre des morts |
+  | 210 |  Parmi les œuvres suivantes, laquelle n'a aucun lien avec la mythologie indienne ?  | **La Théogonie** | Le Mahabharata | Le Ramayana | Le Veda |
+  | 211 |  Parmi les œuvres suivantes, laquelle n'a aucun lien avec la mythologie nordique ?  | **L'Odyssée** | Ada | La Chanson des Nibelungen | Les bénédictions d'Odin |
+  | 212 |  Pendant la guerre de Troie, qui était à la tête de l'armée grecque (achéenne) ?  | **Agamemnon** | Atrée | Cadmos | Deucalion |
+  | 213 |  Qu'indique la valeur inscrite sur les bouteilles de bière ?  | **Le taux de moût** | Le taux d'alcool | Le taux de gaz carbonique | Le contenu en minéraux |
+  | 214 |  Que signifie \"Tatalia\" ?  | **Communauté** | Fédération | Guilde | Terre de liberté |
+  | 215 |  Que trouve-t-on en plus grand nombre dans les océans ?  | **Le plancton** | Les vertébrés | Les arthropodes | Les mammifères |
+  | 216 |  Quel animal symbolise Anubis, le dieu de la mort dans la mythologie égyptienne ?  | **Le chacal** | L'éléphant | L'aigle | Le lion |
+  | 217 |  Quel est l'élément chimique principal du soleil ?  | **Hydrogène** | Azote | Oxygène | Carbone |
+  | 218 |  Quel est le demi-dieu le plus important de la guerre de Troie ?  | **Achilles** | Admète | Ajax | Antiloque |
+  | 219 |  Quel est le demi-dieu le plus important de mythologie occidentale ?  | **Minotaure** | Graeae | Chimère | Crataeis |
+  | 220 |  Quel est le plus grand titre qui existe parmi les privilèges ?  | **Roi** | Duc | Comte | Empereur |
+  | 221 |  Quel est le plus gros félin existant au monde ?  | **Le tigre de Mandchourie** | Le guépard | Le tigre de Chine méridionale | Le lion d'Afrique |
+  | 222 |  Quel est le plus long fleuve du monde ?  | **La Volga** | Le Mississippi | Le Gange | L'Amazone |
+  | 223 |  Quel est le plus long fleuve qui se jette dans l'océan Atlantique ?  | **L'Amazone** | Le Gange | Le Mississippi | Le fleuve Jaune |
+  | 224 |  Quel est le point culminant de la chaîne des Alpes ?  | **Le mont Blanc** | Le Cervin | La pointe Dufour | Le dôme de Clingmans |
+  | 225 |  Quel est le premier établissement d'éducation supérieure de l'histoire des États-Unis ?  | **L'université de Harvard** | L'université de Princeton | L'université de Yale | L'université de Duke |
+  | 226 |  Quel est le second plus grand continent du monde ?  | **L'Afrique** | L'Europe | L'Asie | L'Océanie |
+  | 227 |  Quel est le talent ultime de l'École de l'Air ?  | **La régénération de mana** | L'augmentation de mana | Mana endommagé | La frappe de mana |
+  | 228 |  Quel est le talent ultime de l'École de l'Eau ?  | **L'augmentation de mana** | Mana endommagé | La régénération de mana | La frappe de mana |
+  | 229 |  Quel est le talent ultime de l'École de la Terre ?  | **La frappe de mana** | L'augmentation de mana | Mana endommagé | La régénération de mana |
+  | 230 |  Quel est le talent ultime de l'École du Feu ?  | **Mana endommagé** | L'augmentation de mana | La régénération de mana | La frappe de mana |
+  | 231 |  Quel instrument appelle-t-on \"cor d'harmonie\" ?  | **Le cor** | Le trombone | Le violon | Le violoncelle |
+  | 232 |  Quel niveau du jeu vous permet de gagner beaucoup d'EXP d'unité ?  | **Crypte** | Trésor des Nains | Utopie draconique | Épreuve des Anges |
+  | 233 |  Quel niveau du jeu vous permet de gagner beaucoup d'or ?  | **Trésor des Nains** | Crypte | Utopie draconique | Épreuve des Anges |
+  | 234 |  Quel niveau du jeu vous permet de gagner beaucoup de pierres artificielles du Paradis ?  | **Campagne** | Trésor des Nains | Crypte | Utopie draconique |
+  | 235 |  Quel pays n'est pas allié aux forces du mal ?  | **Kreward** | Eeofol | Deyja | Nighon |
+  | 236 |  Quel pays n'est pas l'allié d'Erathia ?  | **Eeofol** | Avlee | Bracada | Deyja |
+  | 237 |  Quel sort appartient à l'école de feu ?  | **Foudre de guerre** | Blizzard | Flèche terrestre | Mur de vent |
+  | 238 |  Quel sort appartient à l'école de l'air ?  | **Carapace** | Éclair de foudre | Attaque rapide | Foudre terrible |
+  | 239 |  Quel sort appartient à l'école de l'eau ?  | **Faveur divine** | Portail de feu | Éclair de foudre | Pourfendeur |
+  | 240 |  Quel sort appartient à l'école de la terre ?  | **Foudre de guerre** | Mise à mort | Chagrin | Onde mortelle |
+  | 241 |  Quelle carence est à l'origine du scorbut, maladie répandue chez les marins ?  | **Vitamine C** | Vitamine A | Vitamine B | Vitamine E |
+  | 242 |  Quelle créature change quiconque la regarde en pierre ?  | **La Méduse** | Le Lutin | La Gargouille | Le Rock |
+  | 243 |  Quelle est l'origine du mot \"sphinx\" ?  | **La mythologie égyptienne** | La mythologie nordique | La mythologie indienne | La mythologie grecque |
+  | 244 |  Quelle est l'unité dont l'efficacité en attaque augmente avec la distance ?  | **Unité à distance** | Unité offensive | Unité défensive | Unité d'assaut |
+  | 245 |  Quelle est la capitale la plus verte du monde ?  | **Varsovie** | New York | Moscou | Berlin |
+  | 246 |  Quelle est la compétence qui permet à un héros d'invoquer des Diablotins ?  | **Portail de feu** | Blizzard | Arrêt du temps | Armée des Non-Morts |
+  | 247 |  Quelle est la compétence qui permet à une unité d'invoquer des créatures pour qu'elles prennent part au combat ?  | **Invocation du Seigneur** | Tour de commandement | Infection | Carnage |
+  | 248 |  Quelle est la compétence qui permet à une unité de soigner les unités alliées ?  | **Cercle de feu** | Pic du Chevalier | Charisme | Décadence |
+  | 249 |  Quelle est la date de la fête nationale française ?  | **14 juillet** | 7 juillet | 1er juillet | 21 juillet |
+  | 250 |  Quelle est la musique d'ambiance de la Nécropole dans Heroes of Might and Magic 3 ?  | **Necro Town** | Septet Dedicated to the Disappeared Highness | Impassioned Duelist | The River That Year |
+  | 251 |  Quelle est la plus grande plaine au monde ?  | **Plaine de Sibérie occidentale** | Plaine des Indes | Plaine du Gange | Plaine d'Amazonie |
+  | 252 |  Quelle est la principale vitamine contenue dans le maïs frais ?  | **Vitamine E** | Vitamine A | Vitamine B | Vitamine C |
+  | 253 |  Quelle est la période orbitale de la comète de Halley ?  | **76 ans** | 70 ans | 69 ans | 100 ans |
+  | 254 |  Quelle guerre est l'arrière-plan historique du fameux roman Autant en emporte le vent ?  | **La guerre de Sécession** | La Première Guerre mondiale | La Seconde Guerre mondiale | La guerre du Golfe |
+  | 255 |  Quelle unité peut être déployée à la fois sur les premières lignes et les lignes arrière ?  | **Unité d'assaut** | Unité offensive | Unité défensive | Unité à distance |
+  | 256 |  Quelle était la nourriture utilisée par Genghis Khan lors de ses campagnes militaires ?  | **Le bœuf séché** | Le riz | Le blé | L’orge du Tibet |
+  | 257 |  Quelle était la première loi de la Rome antique ?  | **La loi des Douze Tables** | Le Corpus juris civilis | L'ostracisme | Les lois de la Rome antique |
+  | 258 |  Quelles créatures ne retrouve-t-on pas dans la mythologie nordique ?  | **Les Orques** | Les géants | Elfes | Nain |
+  | 259 |  Quels sont les éléments à l'origine de la destruction de la couche d'ozone ?  | **Les hydrocarbures halogénés** | L'hydrogène et le nitrogène | Les composés ferriques | Les hydrocarbures |
+  | 260 |  Qui a dit : \"L'air, en se déplaçant, nourrit la vie\" ?  | **Solmyr** | Dante | Patchouli | Jeanne d'Arc |
+  | 261 |  Qui a dit : \"Pour la victoire et pour la liberté !\" ?  | **Roland** | Rashka | Seigneur Haart | Adelaïde |
+  | 262 |  Qui a inventé les chiffres arabes ?  | **Les Indiens** | Les Arabes | Les Américains | Les Jérusalémites |
+  | 263 |  Qui a peint Guernica ?  | **Picasso** | Van Gogh | La Gorgone | Sandro |
+  | 264 |  Qui a peint Mona Lisa ?  | **Vinci** | Van Gogh | Monet | Titien |
+  | 265 |  Qui a renversé L'Empire de Bracaduun ?  | **Tarnum** | Crag Hack | Conan | Bul-Kathos |
+  | 266 |  Qui a vu pour la première fois la comète de Halley ?  | **Les Chinois** | Les Indiens | Les Égyptiens | Les Arabes |
+  | 267 |  Qui a écrit L'Utopie ?  | **More** | Monet | Moyan | Moyu |
+  | 268 |  Qui a écrit Madame Bovary ?  | **Flaubert** | Maupassant | Gorky | Dumas |
+  | 269 |  Qui est l'auteur de la 9e symphonie ?  | **Beethoven** | Chopin | Edvard Grieg | Saint-Saëns |
+  | 270 |  Qui est l'auteur de la citation : \"Si vient l'hiver, le printemps peut-il être loin ?\"  | **Shelley** | Shecey | Monet | Gnegit |
+  | 271 |  Qui est l'auteur du Comte de Monte-Cristo ?  | **Dumas** | Dumas fils | Flaubert | Smith |
+  | 272 |  Qui est l'hôte de la Lame d'Armageddon ?  | **Xeron** | Gelu | Kilgor | Catherine |
+  | 273 |  Qui est le dieu souverain de l'Olympe ?  | **Zeus** | Odin | Ramon | Brahma |
+  | 274 |  Qui est le dieu souverain de la mythologie nordique ?  | **Odin** | Freyr | Týr | Freya |
+  | 275 |  Qui peut intervenir en cas de Démotivation dans le jeu ?  | **Roland** | Crag Hack | Shiva | Sandro |
+  | 276 |  Qui peut intervenir lorsque l'on fait face à un problème de sécheresse dans le jeu ?  | **Adelaïde** | Rashka | Luna | Solmyr |
+  | 277 |  Qui veut devenir Chasseur de dragon ?  | **Dracon** | Gelu | Crag Hack | Yog |
+  | 278 |  Selon la légende, où a été trouvée l'épée de Kusanagi ?  | **À l'intérieur d'un serpent** | Dans une grotte | Au fond d'une rivière | Sous terre |
+  | 279 |  Sur le champ de bataille, je suis toujours accompagné d'un loup géant. Qui suis-je ?  | **L'Orque Pillard** | Le Trépassé | Le Cyclope | La Pégase |
+  | 280 |  Sur quel principe physique repose la construction des pyramides ?  | **Le principe du levier** | La thermodynamique | La connectique | La réflexion |
+  | 281 |  Venu des ténèbres, je suis un chevalier immortel. Qui suis-je ?  | **Le Chevalier noir** | La Cavalerie | Le Chevaucheur de loup | Le Centaure |
+  | 282 |  À combien de degrés sur l'échelle de Beaufort le vent est-il considéré comme fort ?  | **6** | 5 | 7 | 8 |
+  | 283 |  À quel courant architectural appartient Notre-Dame de Paris ?  | **Gothique** | Baroque | Rococo | Romane |
+  | 284 |  À quel groupe ethnique appartiennent les Corses ?  | **Européens de l'Ouest** | Européens de l'Est | Américains du Nord | Américains du Sud |
+  | 285 |  À quel mouvement artistique se réfère-t-on lorsque l'on parle de \"Poète de la Lumière\" ?  | **Impressionnisme** | Modernisme | Néo-classicisme | Réalisme |
+  | 286 |  À quel niveau les 5 îles sont-elles accessibles depuis le chantier naval ?  | **65** | 33 | 55 | 75 |
+  | 287 |  À quelle mythologie appartient Cupidon ?  | **Romaine** | Indienne | Égyptienne | Européenne du Nord |
+  | 288 |  À quelle température l'eau atteint-elle sa densité maximale ?  | **4°C** | 0°C | 10°C | 100°C |
+  | 289 |  À quelle unité Catherine est-elle associée ?  | **Spadassin** | Chevalier impérial | Arbalétrier | Lancier |
+  | 290 |  À quelle unité Ryland est-il associé ?  | **Garde sylvanien** | Licorne | Centaure | Dragon vert |
+  | 291 |  À quoi la fleur de thé doit-elle son nom ?  | **La fleur** | La façon de préparer le thé | Le type d'eau utilisé | Le procédé de fabrication |
