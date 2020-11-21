@@ -4,7 +4,7 @@ date: 2020-11-21T18:23:11+01:00
 categories:
   - blog
 tags:
-  - Sphinx
+  - Sphinx EN/DE/FR
 ---
 
 Initial version of Sphinx questions(with correct answers) are published:
