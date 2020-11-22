@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Sandro is a Necromancer who has seen all of Enroth and Erathia. Now he apparently supports Finneas Vilmar, leader of the Necromancers of Deyja."
 heroID: 60501
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Sandro"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 45
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |  Intelligence  |    Knowledge   |      Specialty     |

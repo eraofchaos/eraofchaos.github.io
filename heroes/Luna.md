@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /heroes/Luna/
 excerpt: "Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets."
 heroID: 60701
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Luna"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 20
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |     Attack     |    Deffence    |      Specialty     |

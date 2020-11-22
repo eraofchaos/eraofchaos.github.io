@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there."
 heroID: 60304
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Gem"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 45
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |    Deffence    |    Knowledge   |      Specialty     |

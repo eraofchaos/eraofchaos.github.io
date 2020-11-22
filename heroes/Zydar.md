@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. "
 heroID: 60901
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Zydar"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 32
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |    Deffence    |  Intelligence  |      Specialty     |

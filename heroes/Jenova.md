@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages"
 heroID: 60202
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Jenova"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 20
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |     Attack     |  Intelligence  |      Specialty     |

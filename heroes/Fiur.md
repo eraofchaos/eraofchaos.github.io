@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental"
 heroID: 60704
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Fiur"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 20
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |     Attack     |    Deffence    |      Specialty     |

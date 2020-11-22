@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Monere was born with the ability to control Psychic and Magic Elementals. He is a vital general of Elemental."
 heroID: 60702
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Monere"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 20
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |     Attack     |    Knowledge   |      Specialty     |

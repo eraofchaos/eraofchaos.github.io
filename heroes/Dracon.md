@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer."
 heroID: 61202
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Dracon"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 56
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |    Deffence    |  Intelligence  |      Specialty     |

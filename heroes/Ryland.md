@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. "
 heroID: 60303
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Ryland"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 24
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |  Intelligence  |    Knowledge   |      Specialty     |

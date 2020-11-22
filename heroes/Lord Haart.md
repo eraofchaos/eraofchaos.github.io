@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Lord Haart was killed, and has been resurrected. As a general of the undead army, he has even more formidable powers than he had in life. "
 heroID: 60401
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Lord Haart"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 20
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |     Attack     |    Deffence    |      Specialty     |

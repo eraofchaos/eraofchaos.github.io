@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "A general loyal to the royal family of Erathia. Since the death of King Gryphonheart, Morgan Kendal has taken charge of the country until the rightful heir returns."
 heroID: 60104
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Kendal"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 16
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |    Deffence    |    Knowledge   |      Specialty     |

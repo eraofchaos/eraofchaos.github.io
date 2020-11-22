@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster."
 heroID: 60101
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Mullich"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 26
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |    Deffence    |  Intelligence  |      Specialty     |

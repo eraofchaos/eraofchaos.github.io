@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. "
 heroID: 60102
-last_modified_at: 2020-11-16
+last_modified_at: 2020-11-22
 lang: en
 ref: "Catherine"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Mana base:** 14
 
- **Mana recovery:** 2.5
+ **Mana recovery:** 5.0
 
 
   | Stars   |     Attack     |    Deffence    |      Specialty     |
