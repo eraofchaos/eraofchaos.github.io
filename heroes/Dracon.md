@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer."
 heroID: 61202
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: en
 ref: "Dracon"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Enchanter
+Under Dracon's leadership, Monks and Mages upgrade to Enchanters. Their skills will be greatly improved.
 
  **Mana base:** 56
 

@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /de/heroes/Fiur/
 excerpt: "Obwohl er für einen Elementar noch jung und unerprobt ist, besitzt Fiur Kräfte, die ihresgleichen suchen. Man glaubt, dass er früher oder später einer der stärksten Helden der Elementare werden wird."
 heroID: 60704
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Fiur"
 toc: true

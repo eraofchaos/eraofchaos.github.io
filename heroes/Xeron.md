@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king."
 heroID: 60801
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: en
 ref: "Xeron"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SSR
 
  **Specialty:** Arch Devil
+Under Xeron's leadership, Devil upgrades to Doombringer. Its fighting and attacking abilities are greatly improved.
 
  **Mana base:** 20
 

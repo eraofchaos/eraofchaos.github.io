@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead."
 heroID: 60603
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: en
 ref: "Shiva"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Stormbringer
+Under Shiva's leadership, Roc will upgrade to Stormbringer. Their abilities will be greatly improved.
 
  **Mana base:** 24
 

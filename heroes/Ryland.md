@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. "
 heroID: 60303
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: en
 ref: "Ryland"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Dendroid Guard
+Under Ryland's leadership, Dendroid Guard upgrade to Forest Guardian. Their ability to increase the endurance of nearby Defensive units improves dramatically.
 
  **Mana base:** 24
 

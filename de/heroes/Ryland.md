@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /de/heroes/Ryland/
 excerpt: "Ryland ist der erste – und bisher einzige – Mensch, der vom Kreis der Elfenältesten ganz akzeptiert wurde. Manche scherzen sogar, er sei wirklich ein Elf, der in einem menschlichen Körper wiedergeboren wurde."
 heroID: 60303
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Ryland"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Dendroidenwache
+Unter Rylands Führung werden Dendroidenwachen zu Waldwächtern aufgewertet. Ihre Fähigkeit, die Ausdauer naher Abwehreinheiten zu erhöhen, verbessert sich drastisch.
 
  **Mana base:** 24
 

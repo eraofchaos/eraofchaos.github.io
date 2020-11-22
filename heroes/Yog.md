@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
 heroID: 60604
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: en
 ref: "Yog"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SR
 
  **Specialty:** Raging Cyclops
+Under Yog's leadership, Cyclops are upgraded to Raging Cyclops. Their fighting and attacking abilities are greatly improved.
 
  **Mana base:** 20
 

@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /de/heroes/Astral/
 excerpt: "Astral kam vor ungefähr einem Jahrzehnt nach Erathia und wurde schnell von der Magiergilde von Bracada anerkannt. Nachdem er in der Gilde eine hohe Position einnahm, scherzten einige, dass dabei bestimmt Magie im Spiel war."
 heroID: 61203
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Astral"
 toc: true

@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /de/heroes/Gelu/
 excerpt: "Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert."
 heroID: 60301
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Gelu"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SR+
 
  **Specialty:** Meisterschütze
+Unter Gelus Führung werden Bogenschützen und Waldelfen zu Meisterschützen aufgewertet. Ihre Angriffsfähigkeiten und ihre Reichweite verbessern sich stark.
 
  **Mana base:** 20
 

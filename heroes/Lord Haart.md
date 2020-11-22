@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Lord Haart was killed, and has been resurrected. As a general of the undead army, he has even more formidable powers than he had in life. "
 heroID: 60401
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: en
 ref: "Lord Haart"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SR-
 
  **Specialty:** Death Knight
+Under the undead Lord Haart's leadership, Black Knights upgrade to Death Knights. Their fighting capabilities and attack both increase dramatically.
 
  **Mana base:** 20
 

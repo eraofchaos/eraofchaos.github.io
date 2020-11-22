@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /de/heroes/Gem/
 excerpt: "Gem ist die größte aller Hexen Enroths. In beiden Kriegen kämpfte sie für Roland Eisenfaust. Sobald Roland zum König gekrönt wurde, zog Gem nach Erathia und baute sich dort ein neues Zuhause auf."
 heroID: 60304
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Gem"
 toc: true

@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: en
 ref: "Gelu"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SR+
 
  **Specialty:** Sharpshooter
+Under Gelu's leadership, Archers and Wood Elves will upgrade to Sharpshooters. Their attacking abilities and range will be greatly improved.
 
  **Mana base:** 20
 

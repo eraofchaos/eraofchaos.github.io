@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /de/heroes/Xeron/
 excerpt: "Als Luzifer Kreegan Xenofex tötete und die Macht übernahm, war Xeron der erste, der dem Usurpator die Treue schwor. Durch diese Tat erkaufte er sich die Gunst des neuen Königs."
 heroID: 60801
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Xeron"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SSR
 
  **Specialty:** Erzteufel
+Unter Xerons Führung wird der Teufel zum Todbringer aufgewertet. Seine Kampf- und Angriffsfähigkeiten verbessern sich stark.
 
  **Mana base:** 20
 

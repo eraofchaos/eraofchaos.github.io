@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /de/heroes/Tazar/
 excerpt: "Während des sechsmonatigen Grenzkriegs gegen Krewlod führte Tazar eine kleine Streitkraft in einem Außenposten Tatalias an. Er konnte die fünfmal größere Armee Krewlods acht Tage lang aufhalten, bis Verstärkung eintraf."
 heroID: 61501
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Tazar"
 toc: true

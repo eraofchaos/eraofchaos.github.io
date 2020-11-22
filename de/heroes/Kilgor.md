@@ -3,7 +3,7 @@ title: "Kilgor"
 permalink: /de/heroes/Kilgor/
 excerpt: "Kilgor besiegte in jungem Alter seinen Vater, um Klanhäuptling zu werden. Sein Ruhm hat sich seither in ganz Krewlod verbreitet. Viele glauben, dass er der einzige Krieger ist, der das Fest des Lebens dieser Generation gewinnen kann."
 heroID: 60601
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Kilgor"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SSR
 
  **Specialty:** Kriegsbehemoth
+Unter Kilgors Führung wird der Behemoth zum Kriegsbehemoth aufgewertet. Sein Angriff und seine Überlebensfähigkeit erhöhen sich stark.
 
  **Mana base:** 20
 

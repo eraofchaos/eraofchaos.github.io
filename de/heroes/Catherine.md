@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /de/heroes/Catherine/
 excerpt: "Catherine ist die Königin von Erathia und deshalb gezwungen, Krieg zu führen, um das Königreich ihres Vaters zu beschützen. Sie wird bis zum finalen Showdown der Armageddonklinge kämpfen."
 heroID: 60102
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Catherine"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Eisenkreuzritter
+Unter Catherines Führung werden Schwertkämpfer zu Eisenkreuzrittern aufgewertet. Ihre Kampffähigkeiten und ihre Überlebenschance erhöhen sich drastisch.
 
  **Mana base:** 14
 

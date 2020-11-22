@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /de/heroes/Wystan/
 excerpt: "Wystan ist der älteste Schwiegersohn von König Tralossk und steht in der Thronfolge an zweiter Stelle. Er wartet auf den Tag, an dem er den Thron besteigen kann."
 heroID: 61504
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Wystan"
 toc: true

@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /de/heroes/Rashka/
 excerpt: "Rashka führt seine Truppen zum Ruhm, indem er alle einschüchtert. Bis jetzt war seine Taktik äußerst effektiv."
 heroID: 60802
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Rashka"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Feuer-Lord
+Unter Rashkas Führung wird Efreeti zum Feuer-Lord aufgewertet. Seine Kampf- und Angriffsfähigkeiten verbessern sich stark.
 
  **Mana base:** 20
 

@@ -3,7 +3,7 @@ title: "Drache Mutare"
 permalink: /de/heroes/Drache Mutare/
 excerpt: "Nachdem sie aus der Drachenblutphiole getrunken hatte, wurde Mutare zu einem Drachen mit einem menschlichen Bewusstsein. Manche glauben, dass ihre Verwandlung die Ankunft des Drachenvaters ankündigt."
 heroID: 61302
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Drache Mutare"
 toc: true

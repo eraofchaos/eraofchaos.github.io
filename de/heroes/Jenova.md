@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /de/heroes/Jenova/
 excerpt: "Als Kind wurde sie von Dunkelelfen entführt und verkauft. Irgendwann wurde Jenova jedoch von einem rachsüchtigen Einhorn aus ihrem Elend befreit. Seit dieser Zeit verehrt sie diese geheimnisvollen Kreaturen im Wald und will ihr ganzes Leben mit ihnen verbringen. Niemand weiß besser über Einhörner Bescheid als Jenova, die deren Schnelligkeit und Intelligenz im Krieg nutzt, um einen taktischen Vorteil zu gewinnen."
 heroID: 60202
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Jenova"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Einhornmaid
+Unter Jenovas Führung werden Einhörner zu Einhornkönigen aufgewertet. Ihre Angriffs- und Ausweichfähigkeiten verbessern sich stark.
 
  **Mana base:** 20
 

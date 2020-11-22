@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /de/heroes/Solmyr/
 excerpt: "Solmyr saß über tausend Jahre in einer Dschinnflasche fest und ist seinem Befreier, Gavin Magnus, dem ewigen Herrscher über das Hochland von Bracada, ewig dankbar und hat ihm immerwährende Treue geschworen."
 heroID: 61201
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Solmyr"
 toc: true

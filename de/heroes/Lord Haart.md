@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /de/heroes/Lord Haart/
 excerpt: "Lord Haart wurde getötet und wiederbelebt. Als General der Untotenarmee ist er jetzt noch stärker als zu Lebzeiten."
 heroID: 60401
-last_modified_at: 2020-11-22
+last_modified_at: 2020-11-23
 lang: de
 ref: "Lord Haart"
 toc: true
@@ -17,6 +17,7 @@ toc: true
  **Rate:** SR-
 
  **Specialty:** Todesritter
+Unter der Führung des untoten Lord Haart werden Schwarze Ritter zu Todesrittern aufgewertet. Ihre Kampfleistung und ihr Angriff erhöhen sich drastisch.
 
  **Mana base:** 20
 
