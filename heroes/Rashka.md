@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Fire Lord
+Under Rashka's leadership, Efreeti upgrades to Fire Lord. Its fighting and attacking abilities will be greatly improved.
 
  **Mana base:** 20
 

@@ -17,6 +17,7 @@ toc: true
  **Rate:** SSR
 
  **Specialty:** War Behemoth
+Under Kilgor's leadership, Behemoth will upgrade to War Behemoth. Its attack and survivability will be greatly improved.
 
  **Mana base:** 20
 

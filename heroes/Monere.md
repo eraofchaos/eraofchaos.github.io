@@ -17,6 +17,7 @@ toc: true
  **Rate:** R
 
  **Specialty:** Psychic Elemental
+Under Monere's leadership, Psychic Elementals upgrade to Magic Elementals. Their fighting and attacking abilities are greatly improved.
 
  **Mana base:** 20
 
