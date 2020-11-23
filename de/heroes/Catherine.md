@@ -17,7 +17,6 @@ toc: true
  **Rate:** R
 
  **Specialty:** Eisenkreuzritter
-Unter Catherines Führung werden Schwertkämpfer zu Eisenkreuzrittern aufgewertet. Ihre Kampffähigkeiten und ihre Überlebenschance erhöhen sich drastisch.
 
  **Mana base:** 14
 

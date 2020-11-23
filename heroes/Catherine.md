@@ -17,7 +17,6 @@ toc: true
  **Rate:** R
 
  **Specialty:** Iron Crusader
-Under Catherine's leadership, Swordsmen upgrade into Iron Crusaders. Their fighting skills and survival rate increase dramatically.
 
  **Mana base:** 14
 

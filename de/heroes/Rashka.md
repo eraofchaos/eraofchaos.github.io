@@ -17,7 +17,6 @@ toc: true
  **Rate:** R
 
  **Specialty:** Feuer-Lord
-Unter Rashkas Führung wird Efreeti zum Feuer-Lord aufgewertet. Seine Kampf- und Angriffsfähigkeiten verbessern sich stark.
 
  **Mana base:** 20
 

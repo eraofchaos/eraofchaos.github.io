@@ -17,7 +17,6 @@ toc: true
  **Rate:** R
 
  **Specialty:** Einhornmaid
-Unter Jenovas Führung werden Einhörner zu Einhornkönigen aufgewertet. Ihre Angriffs- und Ausweichfähigkeiten verbessern sich stark.
 
  **Mana base:** 20
 

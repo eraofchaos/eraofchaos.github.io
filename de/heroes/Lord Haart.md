@@ -17,7 +17,6 @@ toc: true
  **Rate:** SR-
 
  **Specialty:** Todesritter
-Unter der Führung des untoten Lord Haart werden Schwarze Ritter zu Todesrittern aufgewertet. Ihre Kampfleistung und ihr Angriff erhöhen sich drastisch.
 
  **Mana base:** 20
 
