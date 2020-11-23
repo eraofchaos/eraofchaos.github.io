@@ -1,5 +1,5 @@
 ---
-title: "Heroes of Magic and Might: Era Of Chaos des informations complètes sur le jeu mobile"
+title: "Heroes of Magic and Might: Era Of Chaos des informations completes sur le jeu mobile"
 permalink: /fr/
 excerpt: "French version"
 author_profile: false
@@ -10,11 +10,11 @@ sidebar:
 
 Cette page contient des informations sur le jeu mobile "Era Of Chaos".
 
-Désolé, ce site est actuellement en construction.
+Desole, ce site est actuellement en construction.
 
 Vous pouvez trouver ici:
-### <i class="fas fa-chess-king"/>  [Héros](/fr/heroes/) 
-### <i class="fas fa-question-circle"/>  [Réponses Sphinx](/fr/sphinx/)
+### <i class="fas fa-chess-king"/>  [Heros](/fr/heroes/) 
+### <i class="fas fa-question-circle"/>  [Reponses Sphinx](/fr/sphinx/)
 
 
 

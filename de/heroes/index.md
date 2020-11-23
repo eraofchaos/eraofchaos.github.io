@@ -15,7 +15,7 @@ classes: wide
   | 3 | [Catherine](/de/heroes/Catherine/) | Schloss | Ritter | R |  Eisenkreuzritter  |
   | 4 | [Ciele](/de/heroes/Ciele/) | Konflux | Elementarist | SSR |  Elementar-Resonanz  |
   | 5 | [Crag Hack](/de/heroes/Crag Hack/) | Burg | Barbar | R+ |  Offensive  |
-  | 6 | [Drache Mutare](/de/heroes/Drache Mutare/) | Dungeon | Overlord | R |  Drachenerwachen  |
+  | 6 | [Drache Mutare](/de/heroes/Dragon Mutare/) | Dungeon | Overlord | R |  Drachenerwachen  |
   | 7 | [Dracon](/de/heroes/Dracon/) | Turm | Zauberer | R |  Verzauberer  |
   | 8 | [Erdamon](/de/heroes/Erdamon/) | Konflux | Ebenenwandler | R |  König der Steine  |
   | 9 | [Ezio](/de/heroes/Ezio/) | Neutrale Armee |  | R+ |  Bruderschaft  |
@@ -30,7 +30,7 @@ classes: wide
   | 18 | [Korbac](/de/heroes/Korbac/) | Festung | Bestienmeister | R |  Luft voller Fliegen  |
   | 19 | [Lord Haart](/de/heroes/Lord Haart/) | Nekropolis | Todesritter | SR- |  Todesritter  |
   | 20 | [Luna](/de/heroes/Luna/) | Konflux | Elementarist | R |  Höllenmauer  |
-  | 21 | [Mensch Sandro](/de/heroes/Mensch Sandro/) | Nekropolis | Totenbeschwörer | R |  Unsterbliche Seele  |
+  | 21 | [Mensch Sandro](/de/heroes/Human Sandro/) | Nekropolis | Totenbeschwörer | R |  Unsterbliche Seele  |
   | 22 | [Mephala](/de/heroes/Mephala/) | Schutzwall | Waldläufer | R |  Absolute Abwehr  |
   | 23 | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | R |  Psy-Elementar  |
   | 24 | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | R+ |  Sturmangriff  |
