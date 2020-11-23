@@ -149,9 +149,9 @@ defaults:
       read_time: false
       sidebar:
         nav: "docs"
-  # DE pages
+  # heroes
   - scope:
-      path: "de"
+      path: "/de/heroes"
       type: pages
     values:
       layout: single
@@ -159,9 +159,9 @@ defaults:
       read_time: false
       sidebar:
         nav: "docs"
-  # FR pages
+  # heroes
   - scope:
-      path: "fr"
+      path: "de"
       type: pages
     values:
       layout: single
