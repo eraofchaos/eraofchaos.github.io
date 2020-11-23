@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Dendroid Guard
 
-      Under Ryland's leadership, Dendroid Guard upgrade to Forest Guardian. Their ability to increase the endurance of nearby Defensive units improves dramatically.
+ **Specialty Desc:** Under Ryland's leadership, Dendroid Guard upgrade to Forest Guardian. Their ability to increase the endurance of nearby Defensive units improves dramatically.
 
  **Mana base:** 24
 

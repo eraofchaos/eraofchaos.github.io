@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Seigneur du feu
 
-      Sous le commandement de Rashka, l'Effrit devient un Seigneur du feu aux capacités fortement accrues.
+ **Specialty Desc:** Sous le commandement de Rashka, l'Effrit devient un Seigneur du feu aux capacités fortement accrues.
 
  **Mana base:** 20
 

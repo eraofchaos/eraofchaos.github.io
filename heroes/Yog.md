@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Raging Cyclops
 
-      Under Yog's leadership, Cyclops are upgraded to Raging Cyclops. Their fighting and attacking abilities are greatly improved.
+ **Specialty Desc:** Under Yog's leadership, Cyclops are upgraded to Raging Cyclops. Their fighting and attacking abilities are greatly improved.
 
  **Mana base:** 20
 

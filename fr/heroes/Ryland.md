@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Garde sylvanien
 
-      Sous le commandement de Ryland, le Garde sylvanien devient Gardien de la forêt, ce qui améliore fortement sa capacité à renforcer l'endurance des unités défensives proches.
+ **Specialty Desc:** Sous le commandement de Ryland, le Garde sylvanien devient Gardien de la forêt, ce qui améliore fortement sa capacité à renforcer l'endurance des unités défensives proches.
 
  **Mana base:** 24
 

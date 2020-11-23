@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Béhémoth de guerre
 
-      Sous le commandement de Kilgor, le Béhémoth devient un Béhémoth de guerre, ce qui améliore fortement son attaque et ses capacités de survie.
+ **Specialty Desc:** Sous le commandement de Kilgor, le Béhémoth devient un Béhémoth de guerre, ce qui améliore fortement son attaque et ses capacités de survie.
 
  **Mana base:** 20
 

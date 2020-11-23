@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Kriegsbehemoth
 
-      Unter Kilgors Führung wird der Behemoth zum Kriegsbehemoth aufgewertet. Sein Angriff und seine Überlebensfähigkeit erhöhen sich stark.
+ **Specialty Desc:** Unter Kilgors Führung wird der Behemoth zum Kriegsbehemoth aufgewertet. Sein Angriff und seine Überlebensfähigkeit erhöhen sich stark.
 
  **Mana base:** 20
 

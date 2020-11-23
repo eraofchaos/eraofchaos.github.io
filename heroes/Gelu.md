@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Sharpshooter
 
-      Under Gelu's leadership, Archers and Wood Elves will upgrade to Sharpshooters. Their attacking abilities and range will be greatly improved.
+ **Specialty Desc:** Under Gelu's leadership, Archers and Wood Elves will upgrade to Sharpshooters. Their attacking abilities and range will be greatly improved.
 
  **Mana base:** 20
 

@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Tireur d'élite
 
-      Sous le commandement de Gelu, les Archers et les Elfes sylvaines deviennent des Tireurs d'élite, ce qui améliore fortement leur attaque et leur portée.
+ **Specialty Desc:** Sous le commandement de Gelu, les Archers et les Elfes sylvaines deviennent des Tireurs d'élite, ce qui améliore fortement leur attaque et leur portée.
 
  **Mana base:** 20
 

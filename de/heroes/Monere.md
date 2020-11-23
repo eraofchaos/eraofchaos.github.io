@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Psy-Elementar
 
-      Unter Moneres Führung werden Psy-Elementare zu Magie-Elementaren aufgewertet. Ihre Kampf- und Angriffsfähigkeiten verbessern sich stark.
+ **Specialty Desc:** Unter Moneres Führung werden Psy-Elementare zu Magie-Elementaren aufgewertet. Ihre Kampf- und Angriffsfähigkeiten verbessern sich stark.
 
  **Mana base:** 20
 

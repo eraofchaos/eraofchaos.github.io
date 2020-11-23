@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Meisterschütze
 
-      Unter Gelus Führung werden Bogenschützen und Waldelfen zu Meisterschützen aufgewertet. Ihre Angriffsfähigkeiten und ihre Reichweite verbessern sich stark.
+ **Specialty Desc:** Unter Gelus Führung werden Bogenschützen und Waldelfen zu Meisterschützen aufgewertet. Ihre Angriffsfähigkeiten und ihre Reichweite verbessern sich stark.
 
  **Mana base:** 20
 

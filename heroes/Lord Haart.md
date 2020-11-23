@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Death Knight
 
-      Under the undead Lord Haart's leadership, Black Knights upgrade to Death Knights. Their fighting capabilities and attack both increase dramatically.
+ **Specialty Desc:** Under the undead Lord Haart's leadership, Black Knights upgrade to Death Knights. Their fighting capabilities and attack both increase dramatically.
 
  **Mana base:** 20
 

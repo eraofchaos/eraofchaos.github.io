@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Cyclope enragé
 
-      Sous le commandement de Yog, les Cyclopes deviennent des Cyclopes enragés, ce qui améliore fortement leur attaque et leurs capacités de combat.
+ **Specialty Desc:** Sous le commandement de Yog, les Cyclopes deviennent des Cyclopes enragés, ce qui améliore fortement leur attaque et leurs capacités de combat.
 
  **Mana base:** 20
 

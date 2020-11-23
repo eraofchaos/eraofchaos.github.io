@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Stormbringer
 
-      Under Shiva's leadership, Roc will upgrade to Stormbringer. Their abilities will be greatly improved.
+ **Specialty Desc:** Under Shiva's leadership, Roc will upgrade to Stormbringer. Their abilities will be greatly improved.
 
  **Mana base:** 24
 

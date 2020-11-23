@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Archidiable
 
-      Sous le commandement de Xeron, le Diable devient un Porteur du fléau, ce qui améliore fortement son attaque et ses capacités de combat.
+ **Specialty Desc:** Sous le commandement de Xeron, le Diable devient un Porteur du fléau, ce qui améliore fortement son attaque et ses capacités de combat.
 
  **Mana base:** 20
 

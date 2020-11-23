@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Verzauberer
 
-      Unter Dracons Führung werden Mönche und Magier zu Verzauberern aufgewertet. Ihre Fähigkeiten verbessern sich stark.
+ **Specialty Desc:** Unter Dracons Führung werden Mönche und Magier zu Verzauberern aufgewertet. Ihre Fähigkeiten verbessern sich stark.
 
  **Mana base:** 56
 

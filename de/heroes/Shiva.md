@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Sturmbringer
 
-      Unter Shivas Führung werden Rocs zu Sturmbringern aufgewertet. Ihre Fähigkeiten verbessern sich stark.
+ **Specialty Desc:** Unter Shivas Führung werden Rocs zu Sturmbringern aufgewertet. Ihre Fähigkeiten verbessern sich stark.
 
  **Mana base:** 24
 

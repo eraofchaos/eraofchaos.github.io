@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Enchanter
 
-      Under Dracon's leadership, Monks and Mages upgrade to Enchanters. Their skills will be greatly improved.
+ **Specialty Desc:** Under Dracon's leadership, Monks and Mages upgrade to Enchanters. Their skills will be greatly improved.
 
  **Mana base:** 56
 
