@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Rasender Zyklop
 
+      Unter Yogs Führung werden Zyklopen zu Rasenden Zyklopen aufgewertet. Ihre Kampf- und Angriffsfertigkeiten verbessern sich stark.
+
  **Mana base:** 20
 
  **Mana recovery:** 5.0

@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Enchanteur
 
+      Sous le commandement de Dracon, les Moines et les Mages deviennent des Enchanteurs, ce qui améliore fortement leurs compétences.
+
  **Mana base:** 56
 
  **Mana recovery:** 5.0

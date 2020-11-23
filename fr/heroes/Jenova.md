@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Vierge à la Licorne
 
+      Sous le commandement de Jenova, la Licorne devient un Roi Licorne, ce qui améliore fortement son attaque et son esquive.
+
  **Mana base:** 20
 
  **Mana recovery:** 5.0

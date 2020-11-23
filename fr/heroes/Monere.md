@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Élémentaire de l'esprit
 
+      Sous le commandement de Monere, les Élémentaires de l'esprit deviennent des Élémentaires de magie, ce qui améliore fortement leur attaque et leurs capacités de combat.
+
  **Mana base:** 20
 
  **Mana recovery:** 5.0

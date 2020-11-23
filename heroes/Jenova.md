@@ -17,7 +17,8 @@ toc: true
  **Rate:** R
 
  **Specialty:** Unicorn Maiden
-Under Jenova's leadership, the Unicorn upgrades to Unicorn King. Its attacking and dodging abilities are greatly improved.
+
+      Under Jenova's leadership, the Unicorn upgrades to Unicorn King. Its attacking and dodging abilities are greatly improved.
 
  **Mana base:** 20
 

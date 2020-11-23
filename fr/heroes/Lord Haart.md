@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Chevalier de la mort
 
+      Sous le commandement du Seigneur Haart, les Chevaliers noirs deviennent des Chevaliers de la mort, ce qui améliore fortement leur attaque et leurs capacités de combat.
+
  **Mana base:** 20
 
  **Mana recovery:** 5.0

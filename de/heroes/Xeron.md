@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Erzteufel
 
+      Unter Xerons Führung wird der Teufel zum Todbringer aufgewertet. Seine Kampf- und Angriffsfähigkeiten verbessern sich stark.
+
  **Mana base:** 20
 
  **Mana recovery:** 5.0

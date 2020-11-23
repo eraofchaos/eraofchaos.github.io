@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Sturmbringer
 
+      Unter Shivas Führung werden Rocs zu Sturmbringern aufgewertet. Ihre Fähigkeiten verbessern sich stark.
+
  **Mana base:** 24
 
  **Mana recovery:** 5.0

@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Croisé de fer
 
+      Sous le commandement de Catherine, les Spadassins deviennent des Croisés de fer, ce qui améliore fortement leurs capacités de combat et de survie.
+
  **Mana base:** 14
 
  **Mana recovery:** 5.0

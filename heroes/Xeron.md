@@ -17,7 +17,8 @@ toc: true
  **Rate:** SSR
 
  **Specialty:** Arch Devil
-Under Xeron's leadership, Devil upgrades to Doombringer. Its fighting and attacking abilities are greatly improved.
+
+      Under Xeron's leadership, Devil upgrades to Doombringer. Its fighting and attacking abilities are greatly improved.
 
  **Mana base:** 20
 

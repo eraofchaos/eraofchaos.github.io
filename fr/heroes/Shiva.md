@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Porteur du tonnerre
 
+      Sous le commandement de Shiva, le Rock devient un Porteur du tonnerre aux capacités fortement accrues.
+
  **Mana base:** 24
 
  **Mana recovery:** 5.0

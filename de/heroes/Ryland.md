@@ -18,6 +18,8 @@ toc: true
 
  **Specialty:** Dendroidenwache
 
+      Unter Rylands Führung werden Dendroidenwachen zu Waldwächtern aufgewertet. Ihre Fähigkeit, die Ausdauer naher Abwehreinheiten zu erhöhen, verbessert sich drastisch.
+
  **Mana base:** 24
 
  **Mana recovery:** 5.0
