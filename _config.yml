@@ -151,16 +151,6 @@ defaults:
         nav: "docs"
   # heroes
   - scope:
-      path: "/de/heroes"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs"
-  # heroes
-  - scope:
       path: "de"
       type: pages
     values:
