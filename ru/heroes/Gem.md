@@ -3,7 +3,7 @@ title: "Джем"
 permalink: /ru/heroes/Gem/
 excerpt: ""
 heroID: 60304
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Gem"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** R
+ **Rate:** SSR
 
  **Specialty:** Природное исцеление
 

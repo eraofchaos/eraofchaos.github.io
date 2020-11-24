@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /fr/heroes/Yog/
 excerpt: "Yog a étudié auprès des Mages de Bracada pendant de longues années, mais il a toujours préféré la stratégie militaire au langage des runes. Repéré par le duc Krewlod, il est devenu un général exceptionnel de l'armée barbare."
 heroID: 60604
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Yog"
 toc: true

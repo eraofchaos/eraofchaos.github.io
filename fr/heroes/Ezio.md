@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /fr/heroes/Ezio/
 excerpt: "Même s'il est dans un monde totalement différent, Ezio s'accroche à ses convictions. Il agit dans l'ombre pour servir la lumière."
 heroID: 61901
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Ezio"
 toc: true

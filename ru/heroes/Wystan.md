@@ -3,7 +3,7 @@ title: "Вестан"
 permalink: /ru/heroes/Wystan/
 excerpt: "Вестан - старший зять короля Тралосска и второй претендент на престол. Он давно ждет возможности захватить власть."
 heroID: 61504
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Wystan"
 toc: true

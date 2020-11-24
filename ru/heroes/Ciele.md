@@ -3,7 +3,7 @@ title: "Сиэль"
 permalink: /ru/heroes/Ciele/
 excerpt: ""
 heroID: 60705
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Ciele"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** R
+ **Rate:** SSR
 
  **Specialty:** Резонанс стихий
 

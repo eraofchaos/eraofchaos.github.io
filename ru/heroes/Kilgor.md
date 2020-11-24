@@ -1,9 +1,9 @@
 ---
-title: "Kilgor"
+title: "Килгор"
 permalink: /ru/heroes/Kilgor/
 excerpt: "В юном возрасте Килгор победил своего отца, чтобы стать вождем клана. С тех пор слава о нем распространилась по всему Крулоду. Многие считают его единственным воином, способным победить в Празднестве Жизни своего времени."
 heroID: 60601
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Kilgor"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Description:** 
 
 ### 4 Spell: Неукротимая воля
- **Description:** Повышает стойкость всех союзных отрядов на 50 и крит. урон на 10%. Дает союзным отрядам Цитадели +<span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"> ОЗ раз в 3 сек. в течение <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"> сек.
+ **Description:** 
 
 
 ## HERO Biography

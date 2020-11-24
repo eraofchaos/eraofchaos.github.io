@@ -3,7 +3,7 @@ title: "Сефинрот"
 permalink: /ru/heroes/Sephinroth/
 excerpt: "Говорят, что Сефинрот, единственная известная колдунья Антагрича, является незаконнорожденной дочерью короля Грифонхарта."
 heroID: 61402
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Sephinroth"
 toc: true

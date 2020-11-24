@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /fr/heroes/Dracon/
 excerpt: "Dracon est considéré comme un prodige de la magie par bon nombre de ses aînés. Son but dans la vie est de devenir le plus grand chasseur de dragons de l'histoire."
 heroID: 61202
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Dracon"
 toc: true

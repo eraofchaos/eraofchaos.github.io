@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /fr/heroes/Kendal/
 excerpt: "Un général dévoué à la famille royale d'Erathia. Depuis la mort du Roi Gryphonheart, Morgan Kendal dirige le royaume en attendant le retour de son héritier légitime."
 heroID: 60104
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Kendal"
 toc: true

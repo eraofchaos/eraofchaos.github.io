@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /fr/heroes/Jeddite/
 excerpt: "Jeddite est un homme mystérieux, qui maintient d'étroites relations avec des dirigeants importants de différentes nations. Mais personne ne sait rien sur son passé, il n'en parle jamais."
 heroID: 61401
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Jeddite"
 toc: true

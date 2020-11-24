@@ -3,7 +3,7 @@ title: "Кендал"
 permalink: /ru/heroes/Kendal/
 excerpt: "Генерал, верный королевской семье Эрафии. С момента смерти короля Грифонхарта Морган Кендал взял на себя управление страной до появления законного наследника."
 heroID: 60104
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Kendal"
 toc: true
@@ -40,7 +40,7 @@ toc: true
 ### 3 Spell: Разрушительный луч
  **Description:** Снижает сопротивление урону и уклонение выбранных противников на {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a124+$a126+$a134+$a136)>% и {-($buffaddattr22+$buffaddattr23*($sklevel-1))/20}<-(($buffaddattr22+$buffaddattr23*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% соответственно; эффект длится <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"> сек.
 
-### 4 Spell: Тактика набегов
+### 4 Spell: null
  **Description:** Увеличивает скорость АТК на 30% и сопротивление магии на 50% всем союзным отрядам в радиусе действия на <span style="color: #48b946">{($olast11+$olast12*($sklevel-1))/1000}<span style="color: black"> сек. Бонус удваивается для отрядов из 9 существ
 
 

@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /de/heroes/Roland/
 excerpt: "König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn."
 heroID: 60103
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Roland"
 toc: true
@@ -71,6 +71,16 @@ toc: true
    - Frisch vermählter König
    - Brandneues Kampfbild
    - Einzigartiger Avatar
+
+### Skin 4: **Nacht der Ernte**
+
+ **Description:** Wenn das Fest beginnt, sollten wir bei unserer Familie bleiben und uns an den Speisen und der Gesellschaft erfreuen.
+
+ **Skin features:** 
+
+   - Ein Vater, der Essen kocht
+   - Brandneues Kampfbild
+   - Einzigartiger Avatar und Zaubereffekt
 
 
 ## Initial Mastery

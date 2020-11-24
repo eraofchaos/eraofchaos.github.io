@@ -3,7 +3,7 @@ title: "Дракон"
 permalink: /ru/heroes/Dracon/
 excerpt: "Многие из старейшин Дракона считают его невероятно талантливым магом. Его цель в жизни - стать лучшим убийцей драконов в истории."
 heroID: 61202
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Dracon"
 toc: true

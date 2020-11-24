@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /de/heroes/Lord Haart/
 excerpt: "Lord Haart wurde getötet und wiederbelebt. Als General der Untotenarmee ist er jetzt noch stärker als zu Lebzeiten."
 heroID: 60401
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Lord Haart"
 toc: true

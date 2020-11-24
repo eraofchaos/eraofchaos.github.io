@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /fr/heroes/Catherine/
 excerpt: "En tant que reine d'Erathia, Catherine est contrainte de faire la guerre pour préserver le royaume fondé par son père. Elle luttera jusqu'à l'ultime épreuve de la lame d'Armageddon."
 heroID: 60102
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Catherine"
 toc: true
@@ -92,6 +92,16 @@ toc: true
 
    - Hôte généreux
    - Tout nouveau style de Héros
+   - Avatar unique
+
+### Skin 5: **Ailes du triomphe**
+
+ **Description:** Les forces du mal ne peuvent pas triompher ! L'Alliance de la Justice s'est formée pour repousser l'invasion orchestrée par Lucifer Kreegan et pour protéger Erathia.
+
+ **Skin features:** 
+
+   - Reine héroïque qui mène ses troupes
+   - Toute nouvelle image de bataille
    - Avatar unique
 
 

@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /fr/heroes/Ryland/
 excerpt: "Ryland est le premier et jusqu'ici l'unique humain à avoir été totalement accepté par le Cercle des Aînés des Elfes. Certains disent en plaisantant qu'il doit simplement être un elfe réincarné dans le corps d'un humain."
 heroID: 60303
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Ryland"
 toc: true

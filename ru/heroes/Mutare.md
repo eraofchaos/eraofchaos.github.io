@@ -3,7 +3,7 @@ title: "Мутара"
 permalink: /ru/heroes/Mutare/
 excerpt: "Мутара, недавно ставшая лордом Нигона, с рождения обладала способностью командовать драконами. Эта особенность делает ее практически непобедимой в бою."
 heroID: 61301
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Mutare"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** R
+ **Rate:** SSR
 
  **Specialty:** Подземелье безумия
 
@@ -47,7 +47,7 @@ toc: true
 ## HERO Biography
 
 ## HERO Skins
-### Skin 1: **Классический**
+### Skin 1: **null**
 
  **Description:** Нигон ведет кровавую войну за положение и территории!
 

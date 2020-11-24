@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /de/heroes/Kassandra/
 excerpt: "Kassandras herausragende Kampffähigkeiten verdankt sie ihrer spartanischen Erziehung. Nachdem die Spartaner sie auf dem Berg Taygetos ihrem Tod überlassen hatten, wurde sie zur Söldnerin."
 heroID: 62001
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Kassandra"
 toc: true

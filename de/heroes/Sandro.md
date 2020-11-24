@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /de/heroes/Sandro/
 excerpt: "Sandro ist ein Totenbeschwörer, der jede Ecke Enroths und Erathias kennt. Jetzt unterstützt er offensichtlich Finneas Vilmar, den Anführer der Totenbeschwörer von Deyja."
 heroID: 60501
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Sandro"
 toc: true

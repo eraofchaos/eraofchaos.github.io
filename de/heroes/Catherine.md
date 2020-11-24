@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /de/heroes/Catherine/
 excerpt: "Catherine ist die Königin von Erathia und deshalb gezwungen, Krieg zu führen, um das Königreich ihres Vaters zu beschützen. Sie wird bis zum finalen Showdown der Armageddonklinge kämpfen."
 heroID: 60102
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Catherine"
 toc: true
@@ -92,6 +92,16 @@ toc: true
 
    - Großzügige Gastgeberin
    - Brandneues Heldendesign
+   - Einzigartiger Avatar
+
+### Skin 5: **Schwingen des Triumphes**
+
+ **Description:** Das Böse darf nicht siegen! Die Allianz der Gerechtigkeit hat sich versammelt, um Luzifer Kreegans Invasion abzuwehren, und schwört, den Frieden in Erathia zu beschützen.
+
+ **Skin features:** 
+
+   - Heldenhafte Königin, die ihre Truppen anführt
+   - Brandneues Kampfbild
    - Einzigartiger Avatar
 
 

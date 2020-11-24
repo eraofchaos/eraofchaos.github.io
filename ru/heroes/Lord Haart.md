@@ -3,7 +3,7 @@ title: "Лорд Хаарт"
 permalink: /ru/heroes/Lord Haart/
 excerpt: "Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни."
 heroID: 60401
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Lord Haart"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** R
+ **Rate:** SR-
 
  **Specialty:** Рыцарь Смерти
 

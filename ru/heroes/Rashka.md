@@ -1,9 +1,9 @@
 ---
-title: "Rashka"
+title: "Раска"
 permalink: /ru/heroes/Rashka/
 excerpt: "Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
 heroID: 60802
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Rashka"
 toc: true

@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /fr/heroes/Gelu/
 excerpt: "Gelu est un demi-Elfe, mais c'est aussi le guerrier le plus connu d'Erathia. Au service de la reine Catherine, il a été remarqué et promu par le général Morgan Kendal en personne."
 heroID: 60301
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Gelu"
 toc: true
@@ -71,6 +71,26 @@ toc: true
  **Skin features:** 
 
    - Capitaine des éclaireurs
+   - Toute nouvelle image de bataille
+   - Avatar unique
+
+### Skin 3: **Lame d'Armageddon**
+
+ **Description:** J'utiliserai ma tranchante épée de justice pour punir les crimes de ces Démons. 
+
+ **Skin features:** 
+
+   - Hôte de la Lame d'Armageddon
+   - Tout nouveau style de Héros
+   - Avatar unique
+
+### Skin 4: **Ailes du triomphe**
+
+ **Description:** Les forces du mal ne peuvent pas triompher ! L'Alliance de la Justice s'est formée pour repousser l'invasion orchestrée par Lucifer Kreegan et pour protéger Erathia.
+
+ **Skin features:** 
+
+   - Commandant qui cherche une occasion de passer à l'offensive
    - Toute nouvelle image de bataille
    - Avatar unique
 

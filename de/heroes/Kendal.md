@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /de/heroes/Kendal/
 excerpt: "Ein General, der der Königsfamilie von Erathia treu ergeben ist. Seit dem Tod von König Greifenherz kümmert sich Morgan Kendal bis zur Rückkehr des rechtmäßigen Erben um das Land."
 heroID: 60104
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Kendal"
 toc: true

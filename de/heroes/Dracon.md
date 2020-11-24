@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /de/heroes/Dracon/
 excerpt: "Dracon wird von vielen seiner Ältesten als magisches Wunderkind betrachtet. Sein Lebensziel ist es, der mächtigste Drachentöter der Welt zu werden."
 heroID: 61202
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Dracon"
 toc: true

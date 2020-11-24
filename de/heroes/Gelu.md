@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /de/heroes/Gelu/
 excerpt: "Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert."
 heroID: 60301
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Gelu"
 toc: true
@@ -71,6 +71,26 @@ toc: true
  **Skin features:** 
 
    - Erkundungsteam-Hauptmann
+   - Brandneues Kampfbild
+   - Einzigartiger Avatar
+
+### Skin 3: **Armageddonklinge**
+
+ **Description:** Über die Verbrechen der Dämonen werde ich mit meinem scharfen Schwert urteilen.
+
+ **Skin features:** 
+
+   - Meister der Armageddonklinge
+   - Brandneues Heldendesign
+   - Einzigartiger Avatar
+
+### Skin 4: **Schwingen des Triumphes**
+
+ **Description:** Das Böse darf nicht siegen! Die Allianz der Gerechtigkeit hat sich versammelt, um Luzifer Kreegans Invasion abzuwehren, und schwört, den Frieden in Erathia zu beschützen.
+
+ **Skin features:** 
+
+   - Guerillakommandant auf der Suche nach einer Angriffsmöglichkeit
    - Brandneues Kampfbild
    - Einzigartiger Avatar
 

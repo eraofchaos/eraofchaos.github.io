@@ -3,7 +3,7 @@ title: "Sandro (humain)"
 permalink: /fr/heroes/Human Sandro/
 excerpt: "Sandro (humain), apprenti du Mage Eric de Bracada, est un jeune Mage venu d'Enroth par la mer. Il dissimule ses ambitions, au point que même son maître et ses proches ignorent tout de ses intentions."
 heroID: 60503
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Human Sandro"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Nécropole
 
- **Rate:** R
+ **Rate:** SR
 
  **Specialty:** Âme immortelle
 

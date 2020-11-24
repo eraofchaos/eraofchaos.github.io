@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /de/heroes/Shiva/
 excerpt: "Shiva wurde in eine Familie hineingeboren, deren Mitglieder sich auf die Ausbildung und Domestizierung von Rocs spezialisierten. Sie wollte mit dem Familienunternehmen nichts zu tun haben, sondern sich stattdessen Krewlods Armee anschließen und eine ausgezeichnete Söldnerin werden."
 heroID: 60603
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Shiva"
 toc: true

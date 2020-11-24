@@ -3,7 +3,7 @@ title: "Мюллих"
 permalink: /ru/heroes/Mullich/
 excerpt: ""
 heroID: 60101
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Mullich"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Замок
 
- **Rate:** R
+ **Rate:** R+
 
  **Specialty:** Штурмовая атака
 

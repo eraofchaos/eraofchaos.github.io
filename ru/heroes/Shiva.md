@@ -1,9 +1,9 @@
 ---
-title: "Shiva"
+title: "Шива"
 permalink: /ru/heroes/Shiva/
 excerpt: ""
 heroID: 60603
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Shiva"
 toc: true

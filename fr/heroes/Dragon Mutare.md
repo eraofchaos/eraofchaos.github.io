@@ -3,7 +3,7 @@ title: "Mutare (dragon)"
 permalink: /fr/heroes/Dragon Mutare/
 excerpt: "En buvant la Fiole de sang de dragon, Mutare en est elle-même devenue un, tout en conservant sa conscience humaine. Certains affirment que sa transformation est annonciatrice de l'arrivée du Dragon patriarche."
 heroID: 61302
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Dragon Mutare"
 toc: true

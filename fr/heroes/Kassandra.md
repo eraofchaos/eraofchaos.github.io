@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /fr/heroes/Kassandra/
 excerpt: "Kassandra doit ses compétences de combat exceptionnelles à l'éducation spartiate qu'elle a reçue enfant. Après que les Spartiates l'ont laissée pour morte sur le Mont Taygetos, elle est devenue mercenaire."
 heroID: 62001
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Kassandra"
 toc: true

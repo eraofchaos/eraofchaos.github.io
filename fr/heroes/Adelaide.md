@@ -3,7 +3,7 @@ title: "Adelaïde"
 permalink: /fr/heroes/Adelaide/
 excerpt: "Alors qu'elle n'était qu'une jeune naufragée solitaire, Adelaïde est entrée par hasard sur le territoire des Elfes des neiges. Elle s'est entraînée pendant vingt ans à leurs côtés pour devenir la Mage la plus puissante du royaume avant de retourner en Erathia."
 heroID: 60001
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Adelaide"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Château
 
- **Rate:** R
+ **Rate:** R+
 
  **Specialty:** Anneau de givre
 

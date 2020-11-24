@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /fr/heroes/Tazar/
 excerpt: "Pendant la guerre frontalière de six mois avec Krewlod, Tazar et sa petite troupe s'installèrent dans un avant-poste de Tatalia pour retenir l'armée ennemie ; bien que cinq fois moins nombreux, ils parvinrent à résister huit jours jusqu'à l'arrivée des renforts."
 heroID: 61501
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Tazar"
 toc: true

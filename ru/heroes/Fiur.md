@@ -3,7 +3,7 @@ title: "Фиур"
 permalink: /ru/heroes/Fiur/
 excerpt: ""
 heroID: 60704
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Fiur"
 toc: true
@@ -38,7 +38,7 @@ toc: true
  **Description:** 
 
 ### 3 Spell: Элементаль Огня
- **Description:** 
+ **Description:** Призывает 9 элементалей Огня <span style="color: #48b946">{$sklevel}<span style="color: black"> ур. в выбранной области. Элементали Огня остаются до конца битвы, имеют <span style="color: #48b946">{310+85*($sklevel-1)}<span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> АТК и <span style="color: #48b946">{3400+1476*($sklevel-1)}<span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13> ОЗ.
 
 ### 4 Spell: Извержение вулкана
  **Description:** Наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> урона Огнем противникам в большой области, а также дополнительный урон Огнем <span style="color: #e07c44">горящим<span style="color: black"> целям в размере 35% от их максимального ОЗ

@@ -1,9 +1,9 @@
 ---
-title: "Erdamon"
+title: "Эрдамон"
 permalink: /ru/heroes/Erdamon/
 excerpt: ""
 heroID: 60703
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Erdamon"
 toc: true

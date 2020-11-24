@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /fr/heroes/Zydar/
 excerpt: "Zydar a consacré une grande partie de sa vie à améliorer sa magie, pour devenir un grand Lanceur de sorts avant de rejoindre le champ de bataille. Il est bien plus fiable que ses autres frères démons."
 heroID: 60901
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Zydar"
 toc: true

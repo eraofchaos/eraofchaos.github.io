@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /fr/heroes/Gem/
 excerpt: "Gem est la plus puissante des sorcières d'Enroth. Elle a combattu pour Roland Ironfist dans les deux guerres. Une fois Roland couronné, elle s'est installée à Erathia."
 heroID: 60304
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Gem"
 toc: true

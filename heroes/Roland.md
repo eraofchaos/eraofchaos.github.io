@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "King Roland was rescued from the Kreegans by a group of warriors. In thanks, he joined the Erathian army as a general. There he met Catherine, and they fought together to resist foreign forces. "
 heroID: 60103
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: en
 ref: "Roland"
 toc: true
@@ -71,6 +71,16 @@ toc: true
    - Newly-Wed King
    - All-new Battle Image
    - Unique Avatar
+
+### Skin 4: **Harvest Night**
+
+ **Description:** When the festival comes, we should stay with our family to enjoy food and each other's company.
+
+ **Skin features:** 
+
+   - A father cooking food
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
 
 
 ## Initial Mastery

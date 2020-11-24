@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /de/heroes/Zydar/
 excerpt: "Zydar widmete den Großteil seines Lebens der Verbesserung seiner Zauber und wurde ein mächtiger Zauberer, bevor er die Anführerrolle auf dem Schlachtfeld ergriff. Er ist verlässlicher als seine dämonischen Verwandten."
 heroID: 60901
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Zydar"
 toc: true

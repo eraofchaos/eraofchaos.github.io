@@ -3,7 +3,7 @@ title: "Корбак"
 permalink: /ru/heroes/Korbac/
 excerpt: "Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии."
 heroID: 61502
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Korbac"
 toc: true
@@ -47,7 +47,7 @@ toc: true
 ## HERO Biography
 
 ## HERO Skins
-### Skin 1: **null**
+### Skin 1: **Классический**
 
  **Description:** Вы не докажете смысл вашего существования, пока не победите в войне.
 

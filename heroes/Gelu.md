@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: en
 ref: "Gelu"
 toc: true
@@ -73,6 +73,26 @@ toc: true
    - Scout Team Captain
    - All-new Battle Image
    - Unique avatar
+
+### Skin 3: **Armageddon's Blade**
+
+ **Description:** I shall judge the crimes of the Demons with my sharp sword of justice. 
+
+ **Skin features:** 
+
+   - Host of Armageddon's Blade
+   - All-new hero design
+   - Unique avatar
+
+### Skin 4: **Wings of Triumph**
+
+ **Description:** Evil cannot prevail! The Alliance of Justice has assembled to resist Lucifer Kreegan's invasion and vows to protect the peace in Erathia.
+
+ **Skin features:** 
+
+   - Guerrilla Commander Looking for a Chance to Attack
+   - All-new Battle Image
+   - Unique Avatar
 
 
 ## Initial Mastery

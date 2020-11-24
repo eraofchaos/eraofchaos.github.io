@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /fr/heroes/Roland/
 excerpt: "Le Roi Roland a été sauvé des griffes des Kreegans par un groupe de guerriers. En signe de gratitude, il a rejoint l'armée d'Erathia en tant que général. C'est là qu'il a rencontré Catherine et combattu à ses côtés contre les envahisseurs."
 heroID: 60103
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: fr
 ref: "Roland"
 toc: true
@@ -71,6 +71,16 @@ toc: true
    - Roi jeune marié
    - Toute nouvelle image de bataille
    - Avatar unique
+
+### Skin 4: **Nuit de moisson**
+
+ **Description:** Pendant les festivités, nous devrions rester avec nos familles, bien manger et profiter de la compagnie des êtres qui nous sont chers.
+
+ **Skin features:** 
+
+   - Père cuisinier
+   - Toute nouvelle image de bataille
+   - Avatar unique et effet de sort
 
 
 ## Initial Mastery

@@ -3,7 +3,7 @@ title: "Mensch Sandro"
 permalink: /de/heroes/Human Sandro/
 excerpt: "Mensch Sandro, der Lehrling des Magiers Eric in Bracada, ist ein junger Magier, der von Enroth aus das Meer überquerte. Er verbirgt seine Ambitionen und Absichten vor seinem Lehrer und anderen, die ihn kennen."
 heroID: 60503
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Human Sandro"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Nekropolis
 
- **Rate:** R
+ **Rate:** SR
 
  **Specialty:** Unsterbliche Seele
 

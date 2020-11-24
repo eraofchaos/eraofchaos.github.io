@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use."
 heroID: 60602
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: en
 ref: "Crag Hack"
 toc: true

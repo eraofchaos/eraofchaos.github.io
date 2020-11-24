@@ -3,7 +3,7 @@ title: "Человек Сандро"
 permalink: /ru/heroes/Human Sandro/
 excerpt: "Человек Сандро, ученик мага Эрика в Бракаде, пересек море из Энрота. Он скрывает свои амбиции, а потому ни его учитель, ни другие знакомые не знают его истинных намерений."
 heroID: 60503
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Human Sandro"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** R
+ **Rate:** SR
 
  **Specialty:** Бессмертная душа
 

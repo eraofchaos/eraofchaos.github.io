@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /de/heroes/Erdamon/
 excerpt: "Erdamon, der uralte König der Lava, hat Hunderte von Jahren in den Bergen an der Grenze zu Eeofol geschlafen. Jetzt wacht er auf und schließt sich den Elementaren an. Erdamon ist mehr als bereit, der Welt zu helfen, und sich der Kreeganer mithilfe eines Kriegs zu entledigen."
 heroID: 60703
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Erdamon"
 toc: true

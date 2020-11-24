@@ -3,7 +3,7 @@ title: "Сандро"
 permalink: /ru/heroes/Sandro/
 excerpt: "Сандро - некромант, который повидал многое как в Энроте, так и в Эрафии. Сейчас же он служит Финнеасу Вильмару, лидеру некромантов Дейи."
 heroID: 60501
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: ru
 ref: "Sandro"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** R
+ **Rate:** SSR
 
  **Specialty:** Падение тьмы
 
@@ -59,7 +59,7 @@ toc: true
 
 ### Skin 2: **Фатальный заговор**
 
- **Description:** Одной крошечной капли хватит, чтобы низвергнуть королевства. 
+ **Description:** 
 
  **Skin features:** 
 

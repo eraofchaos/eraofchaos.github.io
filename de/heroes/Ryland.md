@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /de/heroes/Ryland/
 excerpt: "Ryland ist der erste – und bisher einzige – Mensch, der vom Kreis der Elfenältesten ganz akzeptiert wurde. Manche scherzen sogar, er sei wirklich ein Elf, der in einem menschlichen Körper wiedergeboren wurde."
 heroID: 60303
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Ryland"
 toc: true

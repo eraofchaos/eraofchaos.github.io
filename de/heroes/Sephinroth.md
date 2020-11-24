@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /de/heroes/Sephinroth/
 excerpt: "Sephinroth, die einzige bekannte Zauberin Antagarichs soll angeblich die uneheliche Tochter von König Greifenherz sein."
 heroID: 61402
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Sephinroth"
 toc: true

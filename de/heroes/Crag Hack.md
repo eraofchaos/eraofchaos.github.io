@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /de/heroes/Crag Hack/
 excerpt: "Crag Hack war ein unbesungener Held in Enroth, bevor er die Segel nach Erathia setzte. Er erkannte, dass er in diesem Land voller Tumulte den größtmöglichen Nutzen aus seinen Talenten ziehen kann."
 heroID: 60602
-last_modified_at: 2020-11-23
+last_modified_at: 2020-11-24
 lang: de
 ref: "Crag Hack"
 toc: true
