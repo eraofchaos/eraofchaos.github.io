@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Crique
 
- **Rate:** R
+ **Rate:** ?
 
  **Specialty:** Levez les voiles
 

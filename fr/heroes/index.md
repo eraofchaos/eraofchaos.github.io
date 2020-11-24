@@ -12,7 +12,7 @@ classes: wide
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaïde](/fr/heroes/Adelaide/) | Château | Clercs | R+ |  Anneau de givre  |
   | 2 | [Astral](/fr/heroes/Astral/) | Tour | Magicien | SSR |  Amplification magique  |
-  | 3 | [Cassanbel](/fr/heroes/Cassanbel/) | Crique | Créatures marines | R |  Chant de l'océan  |
+  | 3 | [Cassanbel](/fr/heroes/Cassanbel/) | Crique | Créatures marines | ? |  Chant de l'océan  |
   | 4 | [Catherine](/fr/heroes/Catherine/) | Château | Chevalier | R |  Croisé de fer  |
   | 5 | [Ciele](/fr/heroes/Ciele/) | Conflux | Élémentaliste | SSR |  Résonance élémentaire  |
   | 6 | [Crag Hack](/fr/heroes/Crag Hack/) | Bastion | Barbare | R+ |  Offensive  |
@@ -34,7 +34,7 @@ classes: wide
   | 22 | [Mullich](/fr/heroes/Mullich/) | Château | Chevalier | R+ |  Charge d'assaut  |
   | 23 | [Mutare](/fr/heroes/Mutare/) | Donjon | Seigneur de guerre | SSR |  Torrent du Donjon  |
   | 24 | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) | Donjon | Seigneur de guerre | R |  Éveil du Dragon  |
-  | 25 | [PeterLee](/fr/heroes/Peter Lee/) | Crique | Pirate | R |  Levez les voiles  |
+  | 25 | [PeterLee](/fr/heroes/Peter Lee/) | Crique | Pirate | ? |  Levez les voiles  |
   | 26 | [Rashka](/fr/heroes/Rashka/) | Hadès | Démoniaque | R |  Seigneur du feu  |
   | 27 | [Roland](/fr/heroes/Roland/) | Château | Chevalier | SR+ |  Moral accru  |
   | 28 | [Ryland](/fr/heroes/Ryland/) | Rempart | Rôdeur | R |  Garde sylvanien  |

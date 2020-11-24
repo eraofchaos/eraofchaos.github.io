@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** R
+ **Rate:** ?
 
  **Specialty:** Поднятый парус
 

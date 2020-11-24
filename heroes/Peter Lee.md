@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Cove
 
- **Rate:** R
+ **Rate:** ?
 
  **Specialty:** Set Sail
 
