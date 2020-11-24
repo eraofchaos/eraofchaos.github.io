@@ -8,7 +8,7 @@ ref: "index.md"
 toc: false
 classes: wide
 ---
- [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Rampart](/units/Fraction Rampart){: .btn .btn--danger} [Fortress](/units/Fraction Fortress){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--danger} [Necropolis](/units/Fraction Necropolis){: .btn .btn--info} 
+ [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Rampart](/units/Fraction Rampart){: .btn .btn--danger} [Fortress](/units/Fraction Fortress){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |      Art      |  class  |    s   |   label   |    HP     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:------:|:---------:|:----------|
