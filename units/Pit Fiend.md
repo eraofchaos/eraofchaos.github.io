@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Pit Fiend"
 toc: true
@@ -64,7 +64,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Pit Lord
 
@@ -88,7 +88,7 @@ toc: true
  **Description:** <span style="color: #48b946"><Fire Spring><span style="color: black"><span style="color: #645252">Skill duration increases to 12s. HP regeneration works on all Inferno Units<span style="color: black">
 
 ### 3rd Skill (or 4th): Zealous Minion
- **Description:** <span style="color: #48b946"><Lord's Summon><span style="color: black"><span style="color: #645252">Summons a Demon, increasing unit's damage reduction by 40% and dodge by 800<span style="color: black">
+ **Description:** <span style="color: #48b946"><Lord's Summon><span style="color: black"><span style="color: #645252">Summons a Demon, whose unit's damage reduction is increased by 40% and dodge increased by 800<span style="color: black">
 
 ### 4th Skill (or 3rd): Love Gift
  **Description:** <span style="color: #48b946"><Lord's Summon><span style="color: black"><span style="color: #645252">When a hostile unit is downed, Pit Fiend will summon 4 Demons<span style="color: black">
@@ -132,7 +132,7 @@ toc: true
 
  **label:** 2
 
- **label1:** 
+ **label1:** 4
 
  **speedmove:** 100
 

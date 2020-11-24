@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Neutral Army -  Units"
 permalink: /units/Fraction Neutral Army/
 excerpt: "Fraction Neutral Army - List of Units in Era of Chaos"
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Fraction Neutral Army"
 toc: false
@@ -12,5 +12,5 @@ classes: wide
 
   | Nr |         Name        |   Type   | Awake |    Rank   |      Art      |  class  |    s   |   label   |    HP     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:------:|:---------:|:----------|
-  | 1 | [Assassin](/units/Assassin/) | Charging | - | SSR | cishazhe | 3 |  1 |  3() |  2119  |
-  | 2 | [Spartan Warriors](/units/Spartan Warriors/) | Offense | - | SSR | sibada | 1 |  1 |  3() |  2825  |
+  | 1 | [Assassin](/units/Assassin/) | Charging | - | SSR | cishazhe | 3 |  1 |  3(14) |  2119  |
+  | 2 | [Spartan Warriors](/units/Spartan Warriors/) | Offense | - | SSR | sibada | 1 |  1 |  3(14) |  2825  |

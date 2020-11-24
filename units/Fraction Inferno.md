@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Inferno -  Units"
 permalink: /units/Fraction Inferno/
 excerpt: "Fraction Inferno - List of Units in Era of Chaos"
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Fraction Inferno"
 toc: false
@@ -12,11 +12,11 @@ classes: wide
 
   | Nr |         Name        |   Type   | Awake |    Rank   |      Art      |  class  |    s   |   label   |    HP     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:------:|:---------:|:----------|
-  | 1 | [Imp](/units/Imp/) | Defense | - | R | xiaoemo | 2 |  51 |  1() |  1224  |
-  | 2 | [Gog](/units/Gog/) | Caster | + | R | touhuoguai | 5 |  51 |  1() |  629  |
-  | 3 | [Demon](/units/Demon/) | Defense | - | SR | changjiaoemo | 2 |  51 |  2() |  2489  |
-  | 4 | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | santouquan | 3 |  51 |  1() |  827  |
-  | 5 | [Pit Fiend](/units/Pit Fiend/) | Offense | - | SR | xieshenwang | 1 |  51 |  2() |  1850  |
-  | 6 | [Efreeti](/units/Efreeti/) | Caster | + | SR | liehuojingling | 5 |  51 |  2() |  1446  |
+  | 1 | [Imp](/units/Imp/) | Defense | + | R | xiaoemo | 2 |  51 |  1(4) |  1224  |
+  | 2 | [Gog](/units/Gog/) | Caster | + | R | touhuoguai | 5 |  51 |  1(4) |  629  |
+  | 3 | [Demon](/units/Demon/) | Defense | - | SR | changjiaoemo | 2 |  51 |  2(4) |  2489  |
+  | 4 | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | santouquan | 3 |  51 |  1(4) |  827  |
+  | 5 | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | xieshenwang | 1 |  51 |  2(4) |  1850  |
+  | 6 | [Efreeti](/units/Efreeti/) | Caster | + | SR | liehuojingling | 5 |  51 |  2(4) |  1446  |
   | 7 | [Devil](/units/Devil/) | Offense | + | SSR | daemo | 1 |   |  3(4) |  5431  |
   | 8 | [Nightmare](/units/Nightmare/) | Defense | - | SR | mengyan | 2 |  51 |  2(4) |  2691  |

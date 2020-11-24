@@ -3,14 +3,11 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Regnan Serpent"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
  **Description:** The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king.
 
@@ -47,7 +44,7 @@ toc: true
  **Description:** <span style="color: #645252">Choose one of 3 buffs at the beginning of battle (<span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*5+5)}<span style="color: black"><span style="color: #645252">Tenacity + <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*5+5)}<span style="color: black"><span style="color: #645252"> dodge; <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.2+2)}%<span style="color: black"><span style="color: #645252">unit's damage reduction + <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+7.5)}%<span style="color: black"><span style="color: #645252"> magic resistance; <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.2+2)}%<span style="color: black"><span style="color: #645252"> DEF + <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+0.5)}%<span style="color: black"><span style="color: #645252"> damage reflection). The effect works throughout the entire battle. The Regnan Serpent gets one random buff when dealing a Crit Hit. Each effect can be stacked up to 3 times<span style="color: black">
 
 ### 4 Skill: Battle Horn
- **Description:** <span style="color: #645252">The Regnan Serpent triggers <Deep-sea Stomp> when taking a Crit Hit. The skill CD is 8s. It's guaranteed to trigger <Deep-sea Stomp> 1 time whenever the Regnan Serpent takes 30% damage. The Regnan Serpent roars a mighty battle cry once every 25s, increasing its ATK speed by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.7+9.3)}%<span style="color: black"><span style="color: #645252"> and Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"> for friendly units within a large range around him for 10s. For Cove Faction units, the effect doubles<span style="color: black">
+ **Description:** <span style="color: #645252">The Regnan Serpent triggers <Deep-sea Stomp> when taking a Crit Hit. The skill CD is 8s. It's guaranteed to trigger <Deep-sea Stomp> 1 time whenever the Regnan Serpent takes 30% damage. The Regnan Serpent roars a mighty battle cry once every 25s, increasing ATK speed by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.7+9.3)}%<span style="color: black"><span style="color: #645252"> and Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"> for friendly units within a large range around him for 10s. For Cove Faction units, the effect doubles<span style="color: black">
 
 ### 5 Skill: Calm Body
  **Description:** <span style="color: #645252">Cove units know their way around a storm. HP is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem<span style="color: black">
@@ -71,36 +68,36 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** Playing beautiful music or writing impressive poems, Centaur Captains are known for their erudition. Whether shoot with great precision or in short ranged combat, the tribe leaders must be the best ones.
+ **Awaking Description:** 
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Centaur with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. 
 
- 2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ 2. 
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Centaur Captain souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+ 3. 
 
- 4. <span style="color: #3c2a1e">Deploy Centaur and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ 4. 
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Burst
- **Description:** <span style="color: #48b946"><Battle Stomp><span style="color: black"><span style="color: #645252">Decreases extra unit's damage reduction of hostile units by 20% for 15s<span style="color: black">
+### 1st Skill (or 2nd): null
+ **Description:** 
 
-### 2nd Skill (or 1st): Aftermath
- **Description:** <span style="color: #48b946"><Battle Stomp><span style="color: black"><span style="color: #645252">Skill damage increased to 150% of the previous skill and skill range increased by 20%<span style="color: black">
+### 2nd Skill (or 1st): null
+ **Description:** 
 
-### 3rd Skill (or 4th): Tireless March
- **Description:** <span style="color: #48b946"><Strong><span style="color: black"><span style="color: #645252">Centaur unit's damage reduction increased by 20%. The effect doubles when it is against slowed enemies<span style="color: black">
+### 3rd Skill (or 4th): null
+ **Description:** 
 
-### 4th Skill (or 3rd): Psalm of Life
- **Description:** <span style="color: #48b946"><Strength><span style="color: black"><span style="color: #645252">The Centaur restores his own HP equal to 1% of his Max HP per second<span style="color: black">
+### 4th Skill (or 3rd): null
+ **Description:** 
 
-### 5th Skill (or 6th): Guard Stance
- **Description:** <span style="color: #48b946"><Fearless Leader><span style="color: black"><span style="color: #645252">Centaur increases damage reduction of friendly units by 20% within a large area over the next 20s when engaged<span style="color: black">
+### 5th Skill (or 6th): null
+ **Description:** 
 
-### 6th Skill (or 5th): Unyielding Will
- **Description:** <span style="color: #48b946"><Fearless Leader><span style="color: black"><span style="color: #645252">Increases extra DEF by 30% for 10s when the Centaur has a shield<span style="color: black">
+### 6th Skill (or 5th): null
+ **Description:** 
 
 ## Technical info
  **runart:** 1
@@ -135,7 +132,7 @@ toc: true
 
  **label:** 2
 
- **label1:** 
+ **label1:** 13
 
  **speedmove:** 90
 

@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Monk"
 toc: true
@@ -71,13 +71,13 @@ toc: true
  **Awaking Description:** 
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #3c2a1e">Deploy Monk with at least <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> Castle units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
  2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
 
- 3. 
+ 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Zealot souls in the Underground: Levels 13-2 and 13-4.<span style="color: black">
 
- 4. 
+ 4. <span style="color: #3c2a1e">Deploy Monk and win <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> Arena battles.<span style="color: black">
 
 ## Awaken Skills
 

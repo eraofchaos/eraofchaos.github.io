@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Lizardman"
 toc: true
@@ -138,7 +138,7 @@ toc: true
 
  **label:** 2
 
- **label1:** 
+ **label1:** 12
 
  **speedmove:** 90
 

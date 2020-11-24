@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Imp"
 toc: true
@@ -64,9 +64,9 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** Varied Jinnee
+ **Awaking Name:** Familiar
 
  **Awaking Description:** As a faithful and tenacious servant of the hell, she defends the victory with life, and summons the horrible devil with the will.
 
@@ -75,7 +75,7 @@ toc: true
 
  2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Varied Jinnee souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Familiar souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
 
  4. <span style="color: #3c2a1e">Deploy Imp with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Inferno units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
 
@@ -132,7 +132,7 @@ toc: true
 
  **label:** 1
 
- **label1:** 
+ **label1:** 4
 
  **speedmove:** 90
 

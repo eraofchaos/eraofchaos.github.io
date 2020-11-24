@@ -3,14 +3,11 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Dragon Turtle"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
  **Description:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
 
@@ -61,7 +58,7 @@ toc: true
 
     - HP
 
-    - unit Damage
+    - Defense
 
     - unit DMG Reduction
 
@@ -135,7 +132,7 @@ toc: true
 
  **label:** 3
 
- **label1:** 
+ **label1:** 13
 
  **speedmove:** 90
 

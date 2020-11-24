@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Cove -  Units"
 permalink: /units/Fraction Cove/
 excerpt: "Fraction Cove - List of Units in Era of Chaos"
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Fraction Cove"
 toc: false
@@ -15,11 +15,10 @@ classes: wide
 
   | Nr |         Name        |   Type   | Awake |    Rank   |      Art      |  class  |    s   |   label   |    HP     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:------:|:---------:|:----------|
-  | 1 | [Regnan Seer](/units/Regnan Seer/) | Caster | - | UR | haihou | 5 |  4 |  3() |  5091  |
-  | 2 | [Revyaratan](/units/Revyaratan/) | Offense | - | SR | haiguai | 1 |  1 |  2() |  7128  |
-  | 3 | [Regnan Archer](/units/Regnan Archer/) | Ranged | - | SSR | ruigenanushou | 4 |  1 |  3() |  1245  |
-  | 4 | [Sea Elemental](/units/Sea Elemental/) | Caster | - | SR | haiyuansu | 5 |  2 |  2() |  1446  |
-  | 5 | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | yurenyongshi | 2 |  1 |  2() |  3027  |
-  | 6 | [Mermaid](/units/Mermaid/) | Caster | - | SR | meirenyu | 5 |  2 |  2() |  1648  |
-  | 7 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | longgui | 2 |  4 |  3() |  12000  |
-  | 8 | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | haidao | 1 |  1 |  2() |  695  |
+  | 1 | [Revyaratan](/units/Revyaratan/) | Offense | - | SR | haiguai | 1 |  1 |  2(13) |  7128  |
+  | 2 | [Regnan Archer](/units/Regnan Archer/) | Ranged | - | SSR | ruigenanushou | 4 |  1 |  3(13) |  1245  |
+  | 3 | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | haiyuansu | 5 |  2 |  1(13) |  1446  |
+  | 4 | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | yurenyongshi | 2 |  1 |  2(13) |  3027  |
+  | 5 | [Mermaid](/units/Mermaid/) | Caster | - | SR | meirenyu | 5 |  2 |  2(13) |  1648  |
+  | 6 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | longgui | 2 |  4 |  3(13) |  12000  |
+  | 7 | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | haidao | 1 |  1 |  2(13) |  695  |

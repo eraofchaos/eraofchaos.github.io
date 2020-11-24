@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Marksman"
 toc: true
@@ -66,38 +66,38 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** null
+ **Awaking Name:** Master Archer
 
  **Awaking Description:** 
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741">Deploy Marksman with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #876741"> Castle units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
 
- 2. 
+ 2. <span style="color: #876741">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #876741"> monsters in Guild Adventure.<span style="color: black">
 
- 3. 
+ 3. <span style="color: #876741">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #876741"> Master Archer souls in the Underground: Levels 15-2 and 15-4.<span style="color: black">
 
- 4. 
+ 4. <span style="color: #876741">Deploy Marksman and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #876741"> Duel of Champions battle.<span style="color: black">
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Description:** 
+### 1st Skill (or 2nd): Arrow of Judgment
+ **Description:** <span style="color: #48b946"><Exploding Arrow><span style="color: black"><span style="color: #645252"> Deals additional damage equal to 40% of <Exploding Arrow>'s DMG to enemy units in a wider area while reducing their Unit DMG Reduction by 15% for 10s.<span style="color: black">
 
-### 2nd Skill (or 1st): null
- **Description:** 
+### 2nd Skill (or 1st): Arrow of Justice
+ **Description:** <span style="color: #48b946"><Exploding Arrow><span style="color: black"><span style="color: #645252"> Deals additional damage equal to 30% of <Exploding Arrow>'s DMG to two random enemy units while reducing their Unit DMG by 15% for 10s.<span style="color: black">
 
-### 3rd Skill (or 4th): null
- **Description:** 
+### 3rd Skill (or 4th): Temple Ward
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252"> When experiencing the bonus from High Morale, grants themself a shield equal to 10% of your max HP for 5s. Can stack up to 2 times.<span style="color: black">
 
-### 4th Skill (or 3rd): null
- **Description:** 
+### 4th Skill (or 3rd): Sacred Protection
+ **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252"> When experiencing the bonus from High Morale, increases own Unit DMG Reduction and Magic Resistance by 2% for 10s. Can stack up to 10 times.<span style="color: black">
 
-### 5th Skill (or 6th): null
- **Description:** 
+### 5th Skill (or 6th): Shooting Skills
+ **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252"> When attacking 1-man or 4-man units, increases own Critical Hit DMG by 10% and Critical Hit by 100.<span style="color: black">
 
-### 6th Skill (or 5th): null
- **Description:** 
+### 6th Skill (or 5th): Sniper Abilities
+ **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252"> When attacking 1-man or 4-man units, increases own Unit DMG by 10% and Penetration by 100.<span style="color: black">
 
 ## Technical info
  **runart:** 0

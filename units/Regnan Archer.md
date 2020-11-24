@@ -3,14 +3,11 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2020-11-20
+last_modified_at: 2020-11-24
 lang: en
 ref: "Regnan Archer"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
  **Description:** She is destined for wealth. Everything is her target, wherever her arrow aims.
 
@@ -71,36 +68,36 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Description:** 
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. 
 
- 2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+ 2. 
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+ 3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252">'s targets changed to all enemy units in a large range<span style="color: black">
+### 1st Skill (or 2nd): null
+ **Description:** 
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252"> damage increases to 150%, and stun effect is increased to 4.5 seconds<span style="color: black">
+### 2nd Skill (or 1st): null
+ **Description:** 
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s<span style="color: black">
+### 3rd Skill (or 4th): null
+ **Description:** 
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s<span style="color: black">
+### 4th Skill (or 3rd): null
+ **Description:** 
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300<span style="color: black">
+### 5th Skill (or 6th): null
+ **Description:** 
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man man units, decreases target's dodge by 300<span style="color: black">
+### 6th Skill (or 5th): null
+ **Description:** 
 
 ## Technical info
  **runart:** 0
@@ -141,7 +138,7 @@ toc: true
 
  **label:** 3
 
- **label1:** 
+ **label1:** 13
 
  **speedmove:** 90
 
