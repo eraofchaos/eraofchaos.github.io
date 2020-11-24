@@ -25,4 +25,10 @@ Congratulation with new game update (24.11.2020)
 - Русский: <i class="fas fa-chess-king"/>  [Кассанбель](/ru/heroes/Cassanbel/)
 
 
+## New Fraction Cove
+![image-center](/assets/images/units/newunits.png){: .align-center}
+<i class="fab fa-optin-monster"/> [New COVE fraction](/units/Fraction Cove/)
+
+More information is on the way.
+
 Your feedback are welcome!
