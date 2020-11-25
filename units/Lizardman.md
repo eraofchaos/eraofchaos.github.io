@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Lizardman"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Beast Master
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 12
 

@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Unicorn"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Unicorn
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 3
 

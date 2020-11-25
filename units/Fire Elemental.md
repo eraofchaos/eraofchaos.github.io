@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 11
 

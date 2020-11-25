@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Devil"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Demoniac
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 
-
- **label:** 3
 
  **label1:** 4
 

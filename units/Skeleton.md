@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Skeleton"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Undead
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 3
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 1
 

@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Mummy"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Undead
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 3
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 10
 

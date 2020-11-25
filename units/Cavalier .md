@@ -3,7 +3,7 @@ title: "Cavalier "
 permalink: /units/Cavalier /
 excerpt: "Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Cavalier "
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 2
 

@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Marksman"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 2
 

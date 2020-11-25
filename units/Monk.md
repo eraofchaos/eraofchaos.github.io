@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Monk"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 2
 

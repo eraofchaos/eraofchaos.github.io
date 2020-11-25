@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Hydra"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Unicorn
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 3
 
  **s:** 4
-
- **label:** 3
 
  **label1:** 12
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of INTERNAL (unreleased) Units"
 permalink: /units/internal/
 excerpt: "List of INTERNAL Units in Era of Chaos"
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "internal"
 toc: false
@@ -13,5 +13,5 @@ classes: wide
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
-  | Nr |         Name        |   Type   | Awake |    Rank   |      Art      |  class  |    s   |   label   |    HP     |
-  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:------:|:---------:|:----------|
+  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
+  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|

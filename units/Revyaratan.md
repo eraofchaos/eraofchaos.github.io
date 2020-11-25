@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Cove](/units/Fraction Cove)
 
  **Race:** Pirate
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 13
 

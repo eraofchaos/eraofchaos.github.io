@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Medusa"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
  **Race:** Evil spirit
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 7
 

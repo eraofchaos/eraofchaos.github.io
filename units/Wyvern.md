@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Wyvern"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Beast
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 12
 

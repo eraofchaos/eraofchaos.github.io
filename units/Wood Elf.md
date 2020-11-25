@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Forest
+
+ **Members:** x9
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 3
 

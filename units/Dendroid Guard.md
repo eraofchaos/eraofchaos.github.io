@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Dendroid Guard"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Fiend
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 4
-
- **label:** 2
 
  **label1:** 3
 

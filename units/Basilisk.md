@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Basilisk"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Beast
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 3
-
- **label:** 2
 
  **label1:** 12
 

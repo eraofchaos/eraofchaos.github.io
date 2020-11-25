@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 3
 
  **label1:** 11
 

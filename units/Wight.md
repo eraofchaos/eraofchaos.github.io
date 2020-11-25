@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Wight"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Human
+
+ **Members:** x9
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 10
 

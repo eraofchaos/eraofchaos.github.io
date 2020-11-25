@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Naga"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Tower](/units/Fraction Tower)
 
  **Race:** Human
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 3
 
  **label1:** 6
 

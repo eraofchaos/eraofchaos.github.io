@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Dwarf"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Forest
+
+ **Members:** x9
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 3
 

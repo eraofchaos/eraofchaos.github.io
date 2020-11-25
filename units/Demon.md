@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Demon"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Demoniac
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 2
 
  **s:** 51
-
- **label:** 2
 
  **label1:** 4
 

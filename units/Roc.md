@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Roc"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Stronghold](/units/Fraction Stronghold)
 
  **Race:** Unicorn
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 4
-
- **label:** 2
 
  **label1:** 5
 

@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Gorgon"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Beast
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 3
 
  **label1:** 12
 

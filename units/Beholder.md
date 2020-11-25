@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Beholder"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
  **Race:** Evil spirit
+
+ **Members:** x9
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 1
 
  **label1:** 7
 

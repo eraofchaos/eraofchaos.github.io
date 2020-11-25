@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Neutral Army](/units/Fraction Neutral Army)
 
  **Race:** Assassin Guild
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 3
 
  **label1:** 14
 

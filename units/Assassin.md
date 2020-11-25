@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Assassin"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Neutral Army](/units/Fraction Neutral Army)
 
  **Race:** Assassin Guild
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -130,8 +132,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 3
 
  **label1:** 14
 

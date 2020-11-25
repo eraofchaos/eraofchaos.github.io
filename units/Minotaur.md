@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Minotaur"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
  **Race:** Dungeon troops
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 2
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 7
 

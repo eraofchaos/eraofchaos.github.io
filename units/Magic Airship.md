@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Tower](/units/Fraction Tower)
 
  **Race:** Human
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 3
 

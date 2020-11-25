@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Serpent Fly"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Beast
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 12
 

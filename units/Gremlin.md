@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Gremlin"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Tower](/units/Fraction Tower)
 
  **Race:** Human
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 6
 

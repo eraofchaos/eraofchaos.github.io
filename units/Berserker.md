@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Berserker"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Stronghold](/units/Fraction Stronghold)
 
  **Race:** Orc
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 3
 
  **label1:** 5
 

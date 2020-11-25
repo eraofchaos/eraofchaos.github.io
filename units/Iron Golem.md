@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Tower](/units/Fraction Tower)
 
  **Race:** Human
+
+ **Members:** x9
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 1
 
  **label1:** 6
 

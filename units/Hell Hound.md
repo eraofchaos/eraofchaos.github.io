@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Hell Hound"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Beast
+
+ **Members:** x9
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 51
-
- **label:** 1
 
  **label1:** 4
 

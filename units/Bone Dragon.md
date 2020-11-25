@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Dragon
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 4
-
- **label:** 3
 
  **label1:** 1
 

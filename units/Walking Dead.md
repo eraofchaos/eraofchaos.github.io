@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Undead
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 10
 

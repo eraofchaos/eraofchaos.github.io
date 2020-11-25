@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Dragon
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 2
 
  **s:** 4
-
- **label:** 3
 
  **label1:** 3
 

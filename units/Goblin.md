@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Goblin"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Stronghold](/units/Fraction Stronghold)
 
  **Race:** Orc
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 5
 

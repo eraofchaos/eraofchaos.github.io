@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Cove](/units/Fraction Cove)
 
  **Race:** Pirate
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 3
 
  **label1:** 13
 

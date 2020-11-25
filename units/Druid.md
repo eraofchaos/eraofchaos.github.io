@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Druid"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Forest
+
+ **Members:** x9
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 3
 

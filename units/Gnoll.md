@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Gnoll"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Beast Master
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 12
 

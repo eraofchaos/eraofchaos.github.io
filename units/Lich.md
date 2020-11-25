@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Lich"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Undead
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 3
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 1
 

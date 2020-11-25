@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Orc"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Stronghold](/units/Fraction Stronghold)
 
  **Race:** Orc
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 5
 

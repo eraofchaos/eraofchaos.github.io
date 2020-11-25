@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Cove](/units/Fraction Cove)
 
  **Race:** The Underwaters
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 4
-
- **label:** 3
 
  **label1:** 13
 

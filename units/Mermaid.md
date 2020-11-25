@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Mermaid"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Cove](/units/Fraction Cove)
 
  **Race:** The Underwaters
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 13
 

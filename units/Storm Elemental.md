@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 11
 

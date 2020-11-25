@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Regnan Serpent"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Cove](/units/Fraction Cove)
 
  **Race:** The Underwaters
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 13
 

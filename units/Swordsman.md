@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Swordsman"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 2
 

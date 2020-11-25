@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Cove](/units/Fraction Cove)
 
  **Race:** The Underwaters
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 1
 
  **label1:** 13
 

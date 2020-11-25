@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Imp"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Demoniac
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 51
-
- **label:** 1
 
  **label1:** 4
 

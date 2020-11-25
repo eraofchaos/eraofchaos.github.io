@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Vampire"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Evil spirit
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 10
 

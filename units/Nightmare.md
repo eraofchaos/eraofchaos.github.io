@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Nightmare"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Demoniac
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 2
 
  **s:** 51
-
- **label:** 2
 
  **label1:** 4
 

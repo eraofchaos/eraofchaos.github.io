@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Cyclops"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Stronghold](/units/Fraction Stronghold)
 
  **Race:** Barbarian
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -135,8 +137,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 4
-
- **label:** 2
 
  **label1:** 5
 

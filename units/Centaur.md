@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Centaur"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Forest
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 3
 

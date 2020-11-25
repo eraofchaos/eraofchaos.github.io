@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Stone Elemental"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
+
+ **Members:** x4
 
  **Rank:** SR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 2
 
  **label1:** 11
 

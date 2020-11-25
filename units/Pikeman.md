@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Pikeman"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
+
+ **Members:** x9
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 1
 
  **label1:** 2
 

@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Paladin"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
+
+ **Members:** x1
 
  **Rank:** SSR
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 2
-
- **label:** 3
 
  **label1:** 2
 

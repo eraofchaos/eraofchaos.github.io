@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-25
 lang: en
 ref: "Sprite"
 toc: true
@@ -18,6 +18,8 @@ toc: true
  **Fraction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Beast Master
+
+ **Members:** x4
 
  **Rank:** R
 
@@ -129,8 +131,6 @@ toc: true
  **deadtype:** 1
 
  **s:** 1
-
- **label:** 2
 
  **label1:** 11
 
