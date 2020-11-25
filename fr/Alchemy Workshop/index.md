@@ -67,8 +67,8 @@ classes: wide
 
 <br/>  You can get **Potion d'alchimie** (Potion d'alchimie. S'obtient en transformant des matériaux dans l'Atelier d'alchimie.) **by refining materials:**
 
-  |  Nr  |    Tool    |   Refining points    |   Tool description   |
-  |:-----|:-----------|:--------------------:|:--------------------:|
+  |  Nr  |    Material    |   Refining points    |   Material description   |
+  |:-----|:---------------|:--------------------:|:------------------------:|
   | 1  | Bois d'âme | **250**  | Matériaux communs pour la mise à niveau des équipements d'orange +3 à orange +4. |
   | 2  | Bois de bonne qualité | **50**  | Matériaux communs pour la mise à niveau des équipements de bleu à bleu +1. |
   | 3  | Bois de qualité inférieure | **25**  | Matériaux communs pour la mise à niveau des équipements de blanc à vert. |

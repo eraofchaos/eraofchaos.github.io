@@ -67,8 +67,8 @@ classes: wide
 
 <br/>  You can get **Alchemy Potion** (Alchemy Potion, obtained by refining materials in the Alchemy Workshop) **by refining materials:**
 
-  |  Nr  |    Tool    |   Refining points    |   Tool description   |
-  |:-----|:-----------|:--------------------:|:--------------------:|
+  |  Nr  |    Material    |   Refining points    |   Material description   |
+  |:-----|:---------------|:--------------------:|:------------------------:|
   | 1  | Blue Crystal | **375**  | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used. |
   | 2  | Book of Arms | **300**  | Rare materials to upgrade equipment from blue +1 to blue +2. |
   | 3  | Book of Essences | **450**  | Rare materials to upgrade equipment from purple +1 to purple +2. |

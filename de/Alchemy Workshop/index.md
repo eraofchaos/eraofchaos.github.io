@@ -67,8 +67,8 @@ classes: wide
 
 <br/>  You can get **Alchemietrank** (Ein Alchemietrank, den man erhält, indem man Materialien in der Alchemiewerkstatt veredelt.) **by refining materials:**
 
-  |  Nr  |    Tool    |   Refining points    |   Tool description   |
-  |:-----|:-----------|:--------------------:|:--------------------:|
+  |  Nr  |    Material    |   Refining points    |   Material description   |
+  |:-----|:---------------|:--------------------:|:------------------------:|
   | 1  | Blauer Kristall | **375**  | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten verbessern. Gibt beim Benutzen 150 Einheiten-ERF. |
   | 2  | Buch der Essenzen | **450**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
   | 3  | Buch der Waffen | **300**  | Seltenes Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
