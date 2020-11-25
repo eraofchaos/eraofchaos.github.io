@@ -1,6 +1,9 @@
 ---
 title: "M&M Era Of Chaos mobile Wiki portal"
 author_profile: false
+last_modified_at: 2020-11-25
+toc: false
+classes: wide
 sidebar:
   nav: "docs"
 ---
