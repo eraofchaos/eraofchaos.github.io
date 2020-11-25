@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Alchemy Workshop"
+title: "Alchemy Workshop"
 permalink: /Alchemy Workshop/
 excerpt: "Alchemy Workshop.The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another."
 last_modified_at: 2020-11-25
@@ -9,13 +9,11 @@ toc: false
 classes: wide
 ---
 
-#  Alchemy Workshop
-
-   The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another.
+  The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another.
 
 ## Rules
 
-    <span style="color: #8a5c1d"> A mysterious island comes out of nowhere over the sea. People found a dusty and ancient workshop that is full of amazing alchemy devices. <span style="color: black">
+  <span style="color: #8a5c1d"> A mysterious island comes out of nowhere over the sea. People found a dusty and ancient workshop that is full of amazing alchemy devices. <span style="color: black">
 
 　<span style="color: black">
 
@@ -65,9 +63,9 @@ classes: wide
 
 <span style="color: #645252"> 2. Players have 3 formula refreshes per day. When the free refreshes are used up, players need to spend diamonds to refresh the formula.<span style="color: black">
 
-    <span style="color: #562600">The Alchemy Workshop is ancient. You can mix Alchemy Potions with refinement materials, and produce the corresponding items by using ancient alchemy formulas.<span style="color: black">
+<br/>  <span style="color: #562600">The Alchemy Workshop is ancient. You can mix Alchemy Potions with refinement materials, and produce the corresponding items by using ancient alchemy formulas.<span style="color: black">
 
-  You can get **Alchemy Potion** (Alchemy Potion, obtained by refining materials in the Alchemy Workshop) **by refining materials:**
+<br/>  You can get **Alchemy Potion** (Alchemy Potion, obtained by refining materials in the Alchemy Workshop) **by refining materials:**
 
   |  Nr  |    Tool    |   Refining points    |   Tool description   |
   |:-----|:-----------|:--------------------:|:--------------------:|
