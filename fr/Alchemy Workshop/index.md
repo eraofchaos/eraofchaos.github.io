@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Atelier d'alchimie"
+title: "Atelier d'alchimie"
 permalink: /fr/Alchemy Workshop/
 excerpt: "Atelier d'alchimie.L'Atelier d'alchimie est un endroit vraiment merveilleux. Non seulement il centralise le savoir de plusieurs races, mais il chapeaute également de nombreuses inventions incroyables."
 last_modified_at: 2020-11-25
@@ -9,13 +9,11 @@ toc: false
 classes: wide
 ---
 
-#  Atelier d'alchimie
-
-   L'Atelier d'alchimie est un endroit vraiment merveilleux. Non seulement il centralise le savoir de plusieurs races, mais il chapeaute également de nombreuses inventions incroyables.
+  L'Atelier d'alchimie est un endroit vraiment merveilleux. Non seulement il centralise le savoir de plusieurs races, mais il chapeaute également de nombreuses inventions incroyables.
 
 ## Rules
 
-    <span style="color: #8a5c1d">Une île mystérieuse est sortie de nulle part en mer. Les gens ont découvert un ancien atelier poussiéreux regorgeant de dispositifs d’alchimie étonnants. <span style="color: black">
+  <span style="color: #8a5c1d">Une île mystérieuse est sortie de nulle part en mer. Les gens ont découvert un ancien atelier poussiéreux regorgeant de dispositifs d’alchimie étonnants. <span style="color: black">
 
 <span style="color: black">
 
@@ -65,9 +63,9 @@ classes: wide
 
 <span style="color: #645252">2. Les joueurs ont droit à 3 rafraîchissements de formules par jour. Lorsque les rafraîchissements gratuits ont été utilisés, les joueurs doivent dépenser des diamants pour rafraîchir leurs formules.<span style="color: black">
 
-    <span style="color: #562600">L'Atelier d'alchimie est un vieux bâtiment. Vous pouvez mélanger des potions d'alchimie avec des matériaux de raffinage, et produire les objets correspondants en utilisant d'anciennes formules alchimiques.<span style="color: black">
+<br/>  <span style="color: #562600">L'Atelier d'alchimie est un vieux bâtiment. Vous pouvez mélanger des potions d'alchimie avec des matériaux de raffinage, et produire les objets correspondants en utilisant d'anciennes formules alchimiques.<span style="color: black">
 
-  You can get **Potion d'alchimie** (Potion d'alchimie. S'obtient en transformant des matériaux dans l'Atelier d'alchimie.) **by refining materials:**
+<br/>  You can get **Potion d'alchimie** (Potion d'alchimie. S'obtient en transformant des matériaux dans l'Atelier d'alchimie.) **by refining materials:**
 
   |  Nr  |    Tool    |   Refining points    |   Tool description   |
   |:-----|:-----------|:--------------------:|:--------------------:|

@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Alchemiewerkstatt"
+title: "Alchemiewerkstatt"
 permalink: /de/Alchemy Workshop/
 excerpt: "Alchemiewerkstatt.Die Alchemiewerkstatt ist ein wahrlich wundervoller Ort. Sie beherbergt nicht nur das Wissen verschiedener Völker, sondern produziert laufend verblüffende neue Dinge."
 last_modified_at: 2020-11-25
@@ -9,13 +9,11 @@ toc: false
 classes: wide
 ---
 
-#  Alchemiewerkstatt
-
-   Die Alchemiewerkstatt ist ein wahrlich wundervoller Ort. Sie beherbergt nicht nur das Wissen verschiedener Völker, sondern produziert laufend verblüffende neue Dinge.
+  Die Alchemiewerkstatt ist ein wahrlich wundervoller Ort. Sie beherbergt nicht nur das Wissen verschiedener Völker, sondern produziert laufend verblüffende neue Dinge.
 
 ## Rules
 
-    <span style="color: #8a5c1d"> Eine geheimnisumwobene Insel erhebt sich im Meer wie aus dem Nichts. Auf ihr fand man eine staubige uralte Werkstatt, die voller wundersamer alchemistischer Gerätschaften ist. <span style="color: black">
+  <span style="color: #8a5c1d"> Eine geheimnisumwobene Insel erhebt sich im Meer wie aus dem Nichts. Auf ihr fand man eine staubige uralte Werkstatt, die voller wundersamer alchemistischer Gerätschaften ist. <span style="color: black">
 
 　<span style="color: black">
 
@@ -65,9 +63,9 @@ classes: wide
 
 <span style="color: #645252"> 2. Spieler haben pro Tag 3 Gratis-Formelaktualisierungen zur Verfügung. Wenn die Gratisaktualisierungen aufgebraucht sind, kostet das Aktualisieren Diamanten.<span style="color: black">
 
-    <span style="color: #562600">In der uralten Alchemiewerkstatt kannst du aus Veredelungsmaterial Alchemietränke brauen und die entsprechenden Gegenstände mittels uralter Formeln herstellen.<span style="color: black">
+<br/>  <span style="color: #562600">In der uralten Alchemiewerkstatt kannst du aus Veredelungsmaterial Alchemietränke brauen und die entsprechenden Gegenstände mittels uralter Formeln herstellen.<span style="color: black">
 
-  You can get **Alchemietrank** (Ein Alchemietrank, den man erhält, indem man Materialien in der Alchemiewerkstatt veredelt.) **by refining materials:**
+<br/>  You can get **Alchemietrank** (Ein Alchemietrank, den man erhält, indem man Materialien in der Alchemiewerkstatt veredelt.) **by refining materials:**
 
   |  Nr  |    Tool    |   Refining points    |   Tool description   |
   |:-----|:-----------|:--------------------:|:--------------------:|
