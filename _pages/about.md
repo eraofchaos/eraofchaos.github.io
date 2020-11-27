@@ -8,7 +8,7 @@ author_profile: true
 
 This information portal contains information about mobile game - Might & Magic: Era of Chaos.
 
-Main goal to provide maximum information about game for players. To help them enjoy the game and follow the best growing path.
+Main goal to provide maximum information about this game for all players. To help them enjoy the game and follow the best growing path.
 Currently we are covering English, French, German and Russian players to provide content on their main language.
 
 **Special Thanks to [Vera](https://discordapp.com/users/595209980161032192/)** (Community Manager for **Era Of Chaos** at Ubisoft).
