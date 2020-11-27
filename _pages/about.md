@@ -16,5 +16,5 @@ Content submitted as feedback are not licensed under the CC BY-SA licenses.
 YOUR feedback is welcome!
 
 Official web site - [Might & Magic: Era of Chaos](https://www.ubisoft.com/en-us/game/might-and-magic/era-of-chaos)
-© 2020 Ubisoft Entertainment. All Rights Reserved. Might and Magic, Heroes, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries.
+<i class="far fa-copyright"/> 2020 Ubisoft Entertainment. All Rights Reserved. Might and Magic, Heroes, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries.
 [PRIVACY & LEGAL](https://www.ubisoft.com/en-us/privacy-policy.html)
