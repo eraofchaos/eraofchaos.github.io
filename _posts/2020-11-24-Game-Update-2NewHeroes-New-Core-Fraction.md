@@ -1,6 +1,7 @@
 ﻿---
 title: "Era Of Chaos - 24.11.2020 Game Update - 2 new Heroes, New Fraction COVE and more..."
 date: 2020-11-21T18:18:27+01:00
+classes: wide
 categories:
   - blog
 tags:
