@@ -13,7 +13,7 @@ This information portal contains information about "Era Of Chaos" mobile game.
 **Game Update 24.11.2020** - 2 new Heroes and new COVE fraction. **[Read more](/blog/Game-Update-2NewHeroes-New-Core-Fraction/)**
 {: .notice--danger}
 
-Test {#idTEST}
+<a name="idTEST"/>Test
 
 You will find here:
 ### <i class="fas fa-chess-king"/>  [Heroes](/heroes/) 
