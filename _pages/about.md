@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+toc: false
+classes: wide
 author_profile: true
 ---
 
