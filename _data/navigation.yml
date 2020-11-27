@@ -17,16 +17,18 @@ docs:
       url: /heroes/
     - title: "Units"
       url: /units/
-    - title: "Artifacts"
-      url: /artifacts/
-    - title: "Emblem"
-      url: /emblem/
-    - title: "Guild"
-      url: /guild/
-    - title: "Stores"
-      url: /stores/
-    - title: "Auto Chess"
-      url: /autochess/
+    - title: "Alchemy Workshop"
+      url: /Alchemy Workshop/
+#    - title: "Artifacts"
+#      url: /artifacts/
+#    - title: "Emblem"
+#      url: /emblem/
+#    - title: "Guild"
+#      url: /guild/
+#    - title: "Stores"
+#      url: /stores/
+#    - title: "Auto Chess"
+#      url: /autochess/
     - title: "Sphinx answers"
       url: /sphinx/
 

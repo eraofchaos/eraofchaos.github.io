@@ -19,6 +19,7 @@ You will find here:
 ### <i class="fas fa-chess-king"/>  [Heroes](/heroes/) 
 ### <i class="fab fa-optin-monster"/>  [Units](/units/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
+### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/Alchemy Workshop/)
 
 <br/>
 <br/>
