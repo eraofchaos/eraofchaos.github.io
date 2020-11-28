@@ -8,9 +8,12 @@ ref: "BattleFormationFractionRampart"
 toc: false
 classes: wide
 ---
- [Cove](/Battle Formation/Battle Formation Fraction Cove){: .btn .btn--primary} [Castle](/Battle Formation/Battle Formation Fraction Castle){: .btn .btn--success} [Rampart](/Battle Formation/Battle Formation Fraction Rampart){: .btn .btn--warning} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold){: .btn .btn--danger} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis){: .btn .btn--info} [Inferno](/Battle Formation/Battle Formation Fraction Inferno){: .btn .btn--primary} [Tower](/Battle Formation/Battle Formation Fraction Tower){: .btn .btn--success} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon){: .btn .btn--warning} [Fortress](/Battle Formation/Battle Formation Fraction Fortress){: .btn .btn--danger} [Conflux](/Battle Formation/Battle Formation Fraction Conflux){: .btn .btn--info} 
+ [Castle](/Battle Formation/Battle Formation Fraction Castle){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Fraction Rampart){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Fraction Inferno){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Fraction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Fraction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Fraction Conflux){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Fraction Cove){: .btn .btn--info} 
 
   **Description:** We dance to the rhythm of the world.
+
+**Info** You can find this feature under **Arsenal** -> **Battle Formation** -> **Rampart** 
+{: .notice--danger}
 
 ## Battle Formation Bonus:
 
