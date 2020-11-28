@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | Necropolis units will receive an increase of 5% unit damage when against units in Low Morale |
-  | 3 | Increases 8% HP for all Necropolis Units |
-  | 4 | Increases 8% DEF for all Necropolis Units |
-  | 5 | Increases 12% CRIT DMG for all friendly Necropolis Units for 6 seconds when a friendly hero casts an earth spell |
-  | 6 | Increases 10% ATK for all Necropolis Units |
+  | **2** | **Necropolis units will receive an increase of 5% unit damage when against units in Low Morale** |
+  | **3** | **Increases 8% HP for all Necropolis Units** |
+  | **4** | **Increases 8% DEF for all Necropolis Units** |
+  | **5** | **Increases 12% CRIT DMG for all friendly Necropolis Units for 6 seconds when a friendly hero casts an earth spell** |
+  | **6** | **Increases 10% ATK for all Necropolis Units** |
 
 ## Battle Formation Circle 1:
 

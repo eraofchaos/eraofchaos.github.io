@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | When Rampart units are against bleeding and slowed units, 40 Accuracy will be increased for them per effect active |
-  | 3 | Increases 8% HP for all Rampart Units |
-  | 4 | Increases 8% DEF for all Rampart Units |
-  | 5 | When Rampart units are against bleeding and slowed units, 25 Critical Hit will be increased for them per effect |
-  | 6 | Increases 10% ATK for all Rampart Units |
+  | **2** | **When Rampart units are against bleeding and slowed units, 40 Accuracy will be increased for them per effect active** |
+  | **3** | **Increases 8% HP for all Rampart Units** |
+  | **4** | **Increases 8% DEF for all Rampart Units** |
+  | **5** | **When Rampart units are against bleeding and slowed units, 25 Critical Hit will be increased for them per effect** |
+  | **6** | **Increases 10% ATK for all Rampart Units** |
 
 ## Battle Formation Circle 1:
 

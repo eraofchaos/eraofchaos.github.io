@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | Fortress units will receive an increase of 6% DEF when against the units suffering from the disease |
-  | 3 | Increases 8% HP for all Fortress Units |
-  | 4 | Increases 8% DEF for all Fortress Units |
-  | 5 | Fortress units will receive an increase of 5% unit damage when against units suffering from the disease |
-  | 6 | Increases 10% ATK for all Fortress Units |
+  | **2** | **Fortress units will receive an increase of 6% DEF when against the units suffering from the disease** |
+  | **3** | **Increases 8% HP for all Fortress Units** |
+  | **4** | **Increases 8% DEF for all Fortress Units** |
+  | **5** | **Fortress units will receive an increase of 5% unit damage when against units suffering from the disease** |
+  | **6** | **Increases 10% ATK for all Fortress Units** |
 
 ## Battle Formation Circle 1:
 

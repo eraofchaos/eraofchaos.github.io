@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | Tower Units receive an increases of 30 Critical Hit for every Tower Unit on the field |
-  | 3 | Increases 8% HP for all Tower Units |
-  | 4 | Increases 8% DEF for all Tower Units |
-  | 5 | Tower Units receive an increases of 30 Dodge for every Tower Unit on the field |
-  | 6 | Increases 10% ATK for all Tower Units |
+  | **2** | **Tower Units receive an increases of 30 Critical Hit for every Tower Unit on the field** |
+  | **3** | **Increases 8% HP for all Tower Units** |
+  | **4** | **Increases 8% DEF for all Tower Units** |
+  | **5** | **Tower Units receive an increases of 30 Dodge for every Tower Unit on the field** |
+  | **6** | **Increases 10% ATK for all Tower Units** |
 
 ## Battle Formation Circle 1:
 

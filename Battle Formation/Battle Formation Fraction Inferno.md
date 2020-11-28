@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | Inferno units receive an increase of 5% unit damage reduction when against the burning enemy units |
-  | 3 | Increases 8% HP for all Inferno Units |
-  | 4 | Increases 8% DEF for all Inferno Units |
-  | 5 | Inferno Units receive an increases of 30 Dodge for every Inferno Unit on the field |
-  | 6 | Increases 10% ATK for all Inferno Units |
+  | **2** | **Inferno units receive an increase of 5% unit damage reduction when against the burning enemy units** |
+  | **3** | **Increases 8% HP for all Inferno Units** |
+  | **4** | **Increases 8% DEF for all Inferno Units** |
+  | **5** | **Inferno Units receive an increases of 30 Dodge for every Inferno Unit on the field** |
+  | **6** | **Increases 10% ATK for all Inferno Units** |
 
 ## Battle Formation Circle 1:
 

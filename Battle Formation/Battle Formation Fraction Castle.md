@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | All Castle units receive an increase of 5% unit damage when in High Morale |
-  | 3 | Increases 8% HP for all Castle Units |
-  | 4 | Increases 8% DEF for all Castle Units |
-  | 5 | All Castle units receive an increase of 5% unit damage reduction when in High Morale |
-  | 6 | Increases 10% ATK for all Castle Units |
+  | **2** | **All Castle units receive an increase of 5% unit damage when in High Morale** |
+  | **3** | **Increases 8% HP for all Castle Units** |
+  | **4** | **Increases 8% DEF for all Castle Units** |
+  | **5** | **All Castle units receive an increase of 5% unit damage reduction when in High Morale** |
+  | **6** | **Increases 10% ATK for all Castle Units** |
 
 ## Battle Formation Circle 1:
 

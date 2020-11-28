@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | Conflux Units receive an increase of 5% unit damage when against burning enemy units |
-  | 3 | Increases 8% HP for all Conflux Units |
-  | 4 | Increases 8% DEF for all Conflux Units |
-  | 5 | Conflux Units will receive an increase of 12% CRIT DMG when against frozen units |
-  | 6 | Increases 10% ATK for all Conflux Units |
+  | **2** | **Conflux Units receive an increase of 5% unit damage when against burning enemy units** |
+  | **3** | **Increases 8% HP for all Conflux Units** |
+  | **4** | **Increases 8% DEF for all Conflux Units** |
+  | **5** | **Conflux Units will receive an increase of 12% CRIT DMG when against frozen units** |
+  | **6** | **Increases 10% ATK for all Conflux Units** |
 
 ## Battle Formation Circle 1:
 

@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | Stronghold units will receive an increase of 5% unit damage when their HP is less than 40% |
-  | 3 | Increases 8% HP for all Stronghold Units |
-  | 4 | Increases 8% DEF for all Stronghold Units |
-  | 5 | Stronghold units will receive an increase of 5% Life Drain when their HP is less than 50% |
-  | 6 | Increases 10% ATK for all Stronghold Units |
+  | **2** | **Stronghold units will receive an increase of 5% unit damage when their HP is less than 40%** |
+  | **3** | **Increases 8% HP for all Stronghold Units** |
+  | **4** | **Increases 8% DEF for all Stronghold Units** |
+  | **5** | **Stronghold units will receive an increase of 5% Life Drain when their HP is less than 50%** |
+  | **6** | **Increases 10% ATK for all Stronghold Units** |
 
 ## Battle Formation Circle 1:
 

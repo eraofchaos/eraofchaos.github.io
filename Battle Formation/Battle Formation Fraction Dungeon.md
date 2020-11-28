@@ -16,11 +16,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | Whenever a hostile hero casts a spell, Dungeon Units' attack speed is increased by 5% for 6 seconds |
-  | 3 | Increases 8% HP for all Dungeon Units |
-  | 4 | Increases 8% DEF for all Dungeon Units |
-  | 5 | Dungeon units receive an increase of 6% DEF when against the bleeding units |
-  | 6 | Increases 10% ATK for all Dungeon Units |
+  | **2** | **Whenever a hostile hero casts a spell, Dungeon Units' attack speed is increased by 5% for 6 seconds** |
+  | **3** | **Increases 8% HP for all Dungeon Units** |
+  | **4** | **Increases 8% DEF for all Dungeon Units** |
+  | **5** | **Dungeon units receive an increase of 6% DEF when against the bleeding units** |
+  | **6** | **Increases 10% ATK for all Dungeon Units** |
 
 ## Battle Formation Circle 1:
 

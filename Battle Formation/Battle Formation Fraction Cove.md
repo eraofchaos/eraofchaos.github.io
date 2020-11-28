@@ -19,11 +19,11 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | 2 | For each additional Cove unit deployed, Cove Units' Magic resistance will be increased by 4% |
-  | 3 | Increases 8% HP for all Cove Units |
-  | 4 | Increases 8% DEF for all Cove Units |
-  | 5 | For each additional Cove unit deployed, Cove Units' damage reduction will be increased by 3% |
-  | 6 | Increases 10% ATK for all Cove Units |
+  | **2** | **For each additional Cove unit deployed, Cove Units' Magic resistance will be increased by 4%** |
+  | **3** | **Increases 8% HP for all Cove Units** |
+  | **4** | **Increases 8% DEF for all Cove Units** |
+  | **5** | **For each additional Cove unit deployed, Cove Units' damage reduction will be increased by 3%** |
+  | **6** | **Increases 10% ATK for all Cove Units** |
 
 ## Battle Formation Circle 1:
 
