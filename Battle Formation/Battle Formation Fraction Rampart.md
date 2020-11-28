@@ -26,18 +26,18 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Rampart - Damage Amplification | Unit DMG ** +0.3 %**  | 150 |  **10** x [Centaur](/units/Centaur) |
-  | 2 | Rampart - Storm Assaulter | ATK ** +0.9 %**  | 70 |   |
-  | 3 | Rampart - A Strike Hit | Accuracy ** +6**  | 150 |  **10** x [Centaur](/units/Centaur) |
-  | 4 | Rampart - Storm Assaulter | ATK ** +0.5 %** , HP ** +0.5 %**  | 70 |   |
-  | 5 | Rampart - Ingeniousness | Dodge ** +6**  | 150 |  **10** x [Centaur](/units/Centaur) |
-  | 6 | Rampart - Physical Trials | HP ** +0.9 %**  | 70 |   |
-  | 7 | Rampart - Shield Practice | Unit DMG Reduction ** +0.3 %**  | 150 |  **10** x [Wood Elf](/units/Wood Elf) |
-  | 8 | Rampart - Physical Trials | HP ** +0.9 %**  | 70 |   |
-  | 9 | Rampart - Rocklike Skin | Tenacity ** +6**  | 150 |  **10** x [Wood Elf](/units/Wood Elf) |
-  | 10 | Rampart - Storm Assaulter | ATK ** +0.5 %** , HP ** +0.5 %**  | 70 |   |
-  | 11 | Rampart - Blaster | Critical Hit ** +5**  | 150 |  **10** x [Wood Elf](/units/Wood Elf) |
-  | 12 | Rampart - Storm Assaulter | ATK ** +0.9 %**  | 70 |   |
+  | 1 | Rampart - Damage Amplification | Unit DMG +0.3 % | 150 |  **10** x [Centaur](/units/Centaur) |
+  | 2 | Rampart - Storm Assaulter | ATK +0.9 % | 70 |   |
+  | 3 | Rampart - A Strike Hit | Accuracy +6 | 150 |  **10** x [Centaur](/units/Centaur) |
+  | 4 | Rampart - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
+  | 5 | Rampart - Ingeniousness | Dodge +6 | 150 |  **10** x [Centaur](/units/Centaur) |
+  | 6 | Rampart - Physical Trials | HP +0.9 % | 70 |   |
+  | 7 | Rampart - Shield Practice | Unit DMG Reduction +0.3 % | 150 |  **10** x [Wood Elf](/units/Wood Elf) |
+  | 8 | Rampart - Physical Trials | HP +0.9 % | 70 |   |
+  | 9 | Rampart - Rocklike Skin | Tenacity +6 | 150 |  **10** x [Wood Elf](/units/Wood Elf) |
+  | 10 | Rampart - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
+  | 11 | Rampart - Blaster | Critical Hit +5 | 150 |  **10** x [Wood Elf](/units/Wood Elf) |
+  | 12 | Rampart - Storm Assaulter | ATK +0.9 % | 70 |   |
   
 
 
@@ -45,23 +45,23 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Rampart - Damage Amplification | Unit DMG ** +0.4 %**  | 160 |  **10** x [Centaur](/units/Centaur) |
-  | 2 | Rampart - Storm Assaulter | ATK ** +1 %**  | 80 |   |
-  | 3 | Rampart - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
-  | 4 | Rampart - A Strike Hit | Accuracy ** +6**  | 160 |  **10** x [Unicorn](/units/Unicorn) |
-  | 5 | Rampart - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
-  | 6 | Rampart - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
-  | 7 | Rampart - Ingeniousness | Dodge ** +6**  | 160 |  **10** x [Dwarf](/units/Dwarf) |
-  | 8 | Rampart - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
-  | 9 | Rampart - Physical Trials | HP ** +1 %**  | 80 |   |
-  | 10 | Rampart - Shield Practice | Unit DMG Reduction ** +0.4 %**  | 160 |  **10** x [Unicorn](/units/Unicorn) |
-  | 11 | Rampart - Physical Trials | HP ** +1 %**  | 80 |   |
-  | 12 | Rampart - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
-  | 13 | Rampart - Rocklike Skin | Tenacity ** +7**  | 160 |  **10** x [Dwarf](/units/Dwarf) |
-  | 14 | Rampart - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
-  | 15 | Rampart - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
-  | 16 | Rampart - Blaster | Critical Hit ** +5**  | 160 |  **10** x [Wood Elf](/units/Wood Elf) |
-  | 17 | Rampart - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
-  | 18 | Rampart - Storm Assaulter | ATK ** +1 %**  | 80 |   |
+  | 1 | Rampart - Damage Amplification | Unit DMG +0.4 % | 160 |  **10** x [Centaur](/units/Centaur) |
+  | 2 | Rampart - Storm Assaulter | ATK +1 % | 80 |   |
+  | 3 | Rampart - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
+  | 4 | Rampart - A Strike Hit | Accuracy +6 | 160 |  **10** x [Unicorn](/units/Unicorn) |
+  | 5 | Rampart - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
+  | 6 | Rampart - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
+  | 7 | Rampart - Ingeniousness | Dodge +6 | 160 |  **10** x [Dwarf](/units/Dwarf) |
+  | 8 | Rampart - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
+  | 9 | Rampart - Physical Trials | HP +1 % | 80 |   |
+  | 10 | Rampart - Shield Practice | Unit DMG Reduction +0.4 % | 160 |  **10** x [Unicorn](/units/Unicorn) |
+  | 11 | Rampart - Physical Trials | HP +1 % | 80 |   |
+  | 12 | Rampart - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
+  | 13 | Rampart - Rocklike Skin | Tenacity +7 | 160 |  **10** x [Dwarf](/units/Dwarf) |
+  | 14 | Rampart - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
+  | 15 | Rampart - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
+  | 16 | Rampart - Blaster | Critical Hit +5 | 160 |  **10** x [Wood Elf](/units/Wood Elf) |
+  | 17 | Rampart - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
+  | 18 | Rampart - Storm Assaulter | ATK +1 % | 80 |   |
   
 
