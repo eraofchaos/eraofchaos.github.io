@@ -15,7 +15,7 @@ classes: wide
 
 ## Battle Formation by Fractions: 
 
- [Conflux](/Battle Formation Fraction Conflux){: .btn .btn--primary} [Inferno](/Battle Formation Fraction Inferno){: .btn .btn--success} [Dungeon](/Battle Formation Fraction Dungeon){: .btn .btn--warning} [Rampart](/units/Fraction Rampart){: .btn .btn--danger} [Fortress](/units/Fraction Fortress){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
+  [Cove](/Battle Formation/Battle Formation Fraction Cove){: .btn .btn--primary} [Castle](/Battle Formation/Battle Formation Fraction Castle){: .btn .btn--success} [Rampart](/Battle Formation/Battle Formation Fraction Rampart){: .btn .btn--warning} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold){: .btn .btn--danger} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis){: .btn .btn--info} [Inferno](/Battle Formation/Battle Formation Fraction Inferno){: .btn .btn--primary} [Tower](/Battle Formation/Battle Formation Fraction Tower){: .btn .btn--success} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon){: .btn .btn--warning} [Fortress](/Battle Formation/Battle Formation Fraction Fortress){: .btn .btn--danger} [Conflux](/Battle Formation/Battle Formation Fraction Conflux){: .btn .btn--info} 
 
 ## Rules
 
