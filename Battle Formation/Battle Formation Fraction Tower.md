@@ -13,6 +13,7 @@ classes: wide
   **Description:** All secrets will be mastered, all secrets will be learned.
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | Tower Units receive an increases of 30 Critical Hit for every Tower Unit on the field |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Tower Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Tower - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Gremlin](/units/Gremlin) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Tower - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Tower - Blaster | Critical Hit +5 | 150 |  **20** x [Gremlin](/units/Gremlin) |
   | 12 | Tower - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Tower - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Gremlin](/units/Gremlin) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Tower - Blaster | Critical Hit +5 | 160 |  **20** x [Gremlin](/units/Gremlin) |
   | 17 | Tower - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Tower - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

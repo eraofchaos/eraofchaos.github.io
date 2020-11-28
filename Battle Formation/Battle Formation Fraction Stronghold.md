@@ -13,6 +13,7 @@ classes: wide
   **Description:** Life is change, only death has meaning.
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | Stronghold units will receive an increase of 5% unit damage when their HP is less than 40% |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Stronghold Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Stronghold - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Goblin](/units/Goblin) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Stronghold - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Stronghold - Blaster | Critical Hit +5 | 150 |  **20** x [Orc](/units/Orc) |
   | 12 | Stronghold - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Stronghold - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Goblin](/units/Goblin) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Stronghold - Blaster | Critical Hit +5 | 160 |  **20** x [Orc](/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

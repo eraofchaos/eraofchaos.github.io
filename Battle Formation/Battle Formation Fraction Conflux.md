@@ -13,6 +13,7 @@ classes: wide
   **Description:** Heaven and earth are born as one, both worlds intertwinned
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | Conflux Units receive an increase of 5% unit damage when against burning enemy units |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Conflux Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Conflux - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Sprite](/units/Sprite) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Conflux - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Conflux - Blaster | Critical Hit +5 | 150 |  **20** x [Sprite](/units/Sprite) |
   | 12 | Conflux - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Conflux - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Sprite](/units/Sprite) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Conflux - Blaster | Critical Hit +5 | 160 |  **20** x [Sprite](/units/Sprite) |
   | 17 | Conflux - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Conflux - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

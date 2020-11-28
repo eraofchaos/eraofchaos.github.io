@@ -13,6 +13,7 @@ classes: wide
   **Description:** Dance around as the whole world burns.
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | Inferno units receive an increase of 5% unit damage reduction when against the burning enemy units |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Inferno Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Inferno - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Imp](/units/Imp) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Inferno - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Inferno - Blaster | Critical Hit +5 | 150 |  **20** x [Gog](/units/Gog) |
   | 12 | Inferno - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Inferno - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Imp](/units/Imp) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Inferno - Blaster | Critical Hit +5 | 160 |  **20** x [Gog](/units/Gog) |
   | 17 | Inferno - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Inferno - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

@@ -16,6 +16,7 @@ classes: wide
   **Description:** I am a Man of Fortune, and I must seek my fortune
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | For each additional Cove unit deployed, Cove Units' Magic resistance will be increased by 4% |
@@ -25,6 +26,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Cove Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Cove - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
@@ -39,8 +41,11 @@ classes: wide
   | 10 | Cove - Rocklike Skin | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Cove - Storm Assaulter | Critical Hit +5 | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
   | 12 | Cove - Blaster | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Cove - Storm Assaulter | Unit DMG +0.4 % | 160 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
@@ -61,3 +66,5 @@ classes: wide
   | 16 | Cove - Storm Assaulter | Critical Hit +5 | 160 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
   | 17 | Cove - Blaster | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Cove - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

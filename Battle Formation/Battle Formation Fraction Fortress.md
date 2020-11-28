@@ -13,6 +13,7 @@ classes: wide
   **Description:** Unity and solidarity, people were born free
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | Fortress units will receive an increase of 6% DEF when against the units suffering from the disease |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Fortress Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Fortress - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Gnoll](/units/Gnoll) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Fortress - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Fortress - Blaster | Critical Hit +5 | 150 |  **20** x [Gnoll](/units/Gnoll) |
   | 12 | Fortress - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Fortress - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Gnoll](/units/Gnoll) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Fortress - Blaster | Critical Hit +5 | 160 |  **20** x [Gnoll](/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Fortress - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

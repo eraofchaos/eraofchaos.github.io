@@ -13,6 +13,7 @@ classes: wide
   **Description:** For honour, order and for duty.
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | All Castle units receive an increase of 5% unit damage when in High Morale |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Castle Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Castle - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Pikeman](/units/Pikeman) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Castle - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Castle - Blaster | Critical Hit +5 | 150 |  **10** x [Marksman](/units/Marksman) |
   | 12 | Castle - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Castle - Damage Amplification | Unit DMG +0.4 % | 160 |  **10** x [Pikeman](/units/Pikeman) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Castle - Blaster | Critical Hit +5 | 160 |  **10** x [Marksman](/units/Marksman) |
   | 17 | Castle - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Castle - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

@@ -13,6 +13,7 @@ classes: wide
   **Description:** The shadow master rules all
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | Whenever a hostile hero casts a spell, Dungeon Units' attack speed is increased by 5% for 6 seconds |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Dungeon Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Dungeon - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Troglodyte](/units/Troglodyte) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Dungeon - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Dungeon - Blaster | Critical Hit +5 | 150 |  **20** x [Troglodyte](/units/Troglodyte) |
   | 12 | Dungeon - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Dungeon - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Troglodyte](/units/Troglodyte) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Dungeon - Blaster | Critical Hit +5 | 160 |  **20** x [Troglodyte](/units/Troglodyte) |
   | 17 | Dungeon - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Dungeon - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

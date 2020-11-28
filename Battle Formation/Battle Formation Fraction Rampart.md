@@ -13,6 +13,7 @@ classes: wide
   **Description:** We dance to the rhythm of the world.
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | When Rampart units are against bleeding and slowed units, 40 Accuracy will be increased for them per effect active |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Rampart Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Rampart - Damage Amplification | Unit DMG +0.3 % | 150 |  **10** x [Centaur](/units/Centaur) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Rampart - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Rampart - Blaster | Critical Hit +5 | 150 |  **10** x [Wood Elf](/units/Wood Elf) |
   | 12 | Rampart - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Rampart - Damage Amplification | Unit DMG +0.4 % | 160 |  **10** x [Centaur](/units/Centaur) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Rampart - Blaster | Critical Hit +5 | 160 |  **10** x [Wood Elf](/units/Wood Elf) |
   | 17 | Rampart - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Rampart - Storm Assaulter | ATK +1 % | 80 |   |
+  
+

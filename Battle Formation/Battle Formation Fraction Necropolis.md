@@ -13,6 +13,7 @@ classes: wide
   **Description:** We walk alone as our paths unfurl.
 
 ## Battle Formation Bonus:
+
   | Level |         Effect        |
   |:------|:---------------------|
   | 2 | Necropolis units will receive an increase of 5% unit damage when against units in Low Morale |
@@ -22,6 +23,7 @@ classes: wide
   | 6 | Increases 10% ATK for all Necropolis Units |
 
 ## Battle Formation Circle 1:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Necropolis - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Skeleton](/units/Skeleton) |
@@ -36,8 +38,11 @@ classes: wide
   | 10 | Necropolis - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
   | 11 | Necropolis - Blaster | Critical Hit +5 | 150 |  **20** x [Walking Dead](/units/Walking Dead) |
   | 12 | Necropolis - Storm Assaulter | ATK +0.9 % | 70 |   |
+  
+
 
 ## Battle Formation Circle 2:
+
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
   | 1 | Necropolis - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Skeleton](/units/Skeleton) |
@@ -58,3 +63,5 @@ classes: wide
   | 16 | Necropolis - Blaster | Critical Hit +5 | 160 |  **20** x [Walking Dead](/units/Walking Dead) |
   | 17 | Necropolis - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
   | 18 | Necropolis - Storm Assaulter | ATK +1 % | 80 |   |
+  
+
