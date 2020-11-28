@@ -13,6 +13,8 @@ classes: wide
 
  [Castle](/Battle Formation/Battle Formation Fraction Castle){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Fraction Rampart){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Fraction Inferno){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Fraction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Fraction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Fraction Conflux){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Fraction Cove){: .btn .btn--info} 
 
+  **Fraction:** [Cove](/units/Fraction Cove)
+
   **Description:** I am a Man of Fortune, and I must seek my fortune
 
 **Info** You can find this feature under **Arsenal** -> **Battle Formation** -> **Cove** 
