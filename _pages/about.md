@@ -14,9 +14,10 @@ Currently we are covering English, French, German and Russian players to provide
 **Special Thanks to [Vera](https://discordapp.com/users/595209980161032192/)** (Community Manager for **Era Of Chaos** at Ubisoft).
 
 The text on this web site is licensed under the [Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/legalcode).
-Content submitted as feedback are not licensed under the CC BY-SA licenses.
+Content submitted as feedback are not licensed under the CC BY-SA licenses. 
 
 **YOUR feedback is welcome!**
+[Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 Official web site - [Might & Magic: Era of Chaos](https://www.ubisoft.com/en-us/game/might-and-magic/era-of-chaos)
 
