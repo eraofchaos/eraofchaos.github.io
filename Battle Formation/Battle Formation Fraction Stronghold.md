@@ -26,18 +26,18 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Stronghold - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Goblin](/units/Goblin) |
-  | 2 | Stronghold - Storm Assaulter | ATK +0.9 % | 70 |   |
-  | 3 | Stronghold - A Strike Hit | Accuracy +6 | 150 |  **20** x [Goblin](/units/Goblin) |
-  | 4 | Stronghold - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 5 | Stronghold - Ingeniousness | Dodge +6 | 150 |  **20** x [Goblin](/units/Goblin) |
-  | 6 | Stronghold - Physical Trials | HP +0.9 % | 70 |   |
-  | 7 | Stronghold - Shield Practice | Unit DMG Reduction +0.3 % | 150 |  **20** x [Orc](/units/Orc) |
-  | 8 | Stronghold - Physical Trials | HP +0.9 % | 70 |   |
-  | 9 | Stronghold - Rocklike Skin | Tenacity +6 | 150 |  **20** x [Orc](/units/Orc) |
-  | 10 | Stronghold - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 11 | Stronghold - Blaster | Critical Hit +5 | 150 |  **20** x [Orc](/units/Orc) |
-  | 12 | Stronghold - Storm Assaulter | ATK +0.9 % | 70 |   |
+  | 1 | Stronghold - Damage Amplification | Unit DMG ** +0.3 %**  | 150 |  **20** x [Goblin](/units/Goblin) |
+  | 2 | Stronghold - Storm Assaulter | ATK ** +0.9 %**  | 70 |   |
+  | 3 | Stronghold - A Strike Hit | Accuracy ** +6**  | 150 |  **20** x [Goblin](/units/Goblin) |
+  | 4 | Stronghold - Storm Assaulter | ATK ** +0.5 %** , HP ** +0.5 %**  | 70 |   |
+  | 5 | Stronghold - Ingeniousness | Dodge ** +6**  | 150 |  **20** x [Goblin](/units/Goblin) |
+  | 6 | Stronghold - Physical Trials | HP ** +0.9 %**  | 70 |   |
+  | 7 | Stronghold - Shield Practice | Unit DMG Reduction ** +0.3 %**  | 150 |  **20** x [Orc](/units/Orc) |
+  | 8 | Stronghold - Physical Trials | HP ** +0.9 %**  | 70 |   |
+  | 9 | Stronghold - Rocklike Skin | Tenacity ** +6**  | 150 |  **20** x [Orc](/units/Orc) |
+  | 10 | Stronghold - Storm Assaulter | ATK ** +0.5 %** , HP ** +0.5 %**  | 70 |   |
+  | 11 | Stronghold - Blaster | Critical Hit ** +5**  | 150 |  **20** x [Orc](/units/Orc) |
+  | 12 | Stronghold - Storm Assaulter | ATK ** +0.9 %**  | 70 |   |
   
 
 
@@ -45,23 +45,23 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Stronghold - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Goblin](/units/Goblin) |
-  | 2 | Stronghold - Storm Assaulter | ATK +1 % | 80 |   |
-  | 3 | Stronghold - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 4 | Stronghold - A Strike Hit | Accuracy +6 | 160 |  **20** x [Goblin](/units/Goblin) |
-  | 5 | Stronghold - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 6 | Stronghold - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 7 | Stronghold - Ingeniousness | Dodge +6 | 160 |  **20** x [Ogre](/units/Ogre) |
-  | 8 | Stronghold - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 9 | Stronghold - Physical Trials | HP +1 % | 80 |   |
-  | 10 | Stronghold - Shield Practice | Unit DMG Reduction +0.4 % | 160 |  **20** x [Wolf Rider](/units/Wolf Rider) |
-  | 11 | Stronghold - Physical Trials | HP +1 % | 80 |   |
-  | 12 | Stronghold - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 13 | Stronghold - Rocklike Skin | Tenacity +7 | 160 |  **20** x [Orc](/units/Orc) |
-  | 14 | Stronghold - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 15 | Stronghold - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 16 | Stronghold - Blaster | Critical Hit +5 | 160 |  **20** x [Orc](/units/Orc) |
-  | 17 | Stronghold - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 18 | Stronghold - Storm Assaulter | ATK +1 % | 80 |   |
+  | 1 | Stronghold - Damage Amplification | Unit DMG ** +0.4 %**  | 160 |  **20** x [Goblin](/units/Goblin) |
+  | 2 | Stronghold - Storm Assaulter | ATK ** +1 %**  | 80 |   |
+  | 3 | Stronghold - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 4 | Stronghold - A Strike Hit | Accuracy ** +6**  | 160 |  **20** x [Goblin](/units/Goblin) |
+  | 5 | Stronghold - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 6 | Stronghold - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 7 | Stronghold - Ingeniousness | Dodge ** +6**  | 160 |  **20** x [Ogre](/units/Ogre) |
+  | 8 | Stronghold - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 9 | Stronghold - Physical Trials | HP ** +1 %**  | 80 |   |
+  | 10 | Stronghold - Shield Practice | Unit DMG Reduction ** +0.4 %**  | 160 |  **20** x [Wolf Rider](/units/Wolf Rider) |
+  | 11 | Stronghold - Physical Trials | HP ** +1 %**  | 80 |   |
+  | 12 | Stronghold - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 13 | Stronghold - Rocklike Skin | Tenacity ** +7**  | 160 |  **20** x [Orc](/units/Orc) |
+  | 14 | Stronghold - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 15 | Stronghold - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 16 | Stronghold - Blaster | Critical Hit ** +5**  | 160 |  **20** x [Orc](/units/Orc) |
+  | 17 | Stronghold - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 18 | Stronghold - Storm Assaulter | ATK ** +1 %**  | 80 |   |
   
 

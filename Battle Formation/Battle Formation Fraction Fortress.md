@@ -26,18 +26,18 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Fortress - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Gnoll](/units/Gnoll) |
-  | 2 | Fortress - Storm Assaulter | ATK +0.9 % | 70 |   |
-  | 3 | Fortress - A Strike Hit | Accuracy +6 | 150 |  **20** x [Gnoll](/units/Gnoll) |
-  | 4 | Fortress - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 5 | Fortress - Ingeniousness | Dodge +6 | 150 |  **20** x [Gnoll](/units/Gnoll) |
-  | 6 | Fortress - Physical Trials | HP +0.9 % | 70 |   |
-  | 7 | Fortress - Shield Practice | Unit DMG Reduction +0.3 % | 150 |  **20** x [Gnoll](/units/Gnoll) |
-  | 8 | Fortress - Physical Trials | HP +0.9 % | 70 |   |
-  | 9 | Fortress - Rocklike Skin | Tenacity +6 | 150 |  **20** x [Gnoll](/units/Gnoll) |
-  | 10 | Fortress - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 11 | Fortress - Blaster | Critical Hit +5 | 150 |  **20** x [Gnoll](/units/Gnoll) |
-  | 12 | Fortress - Storm Assaulter | ATK +0.9 % | 70 |   |
+  | 1 | Fortress - Damage Amplification | Unit DMG ** +0.3 %**  | 150 |  **20** x [Gnoll](/units/Gnoll) |
+  | 2 | Fortress - Storm Assaulter | ATK ** +0.9 %**  | 70 |   |
+  | 3 | Fortress - A Strike Hit | Accuracy ** +6**  | 150 |  **20** x [Gnoll](/units/Gnoll) |
+  | 4 | Fortress - Storm Assaulter | ATK ** +0.5 %** , HP ** +0.5 %**  | 70 |   |
+  | 5 | Fortress - Ingeniousness | Dodge ** +6**  | 150 |  **20** x [Gnoll](/units/Gnoll) |
+  | 6 | Fortress - Physical Trials | HP ** +0.9 %**  | 70 |   |
+  | 7 | Fortress - Shield Practice | Unit DMG Reduction ** +0.3 %**  | 150 |  **20** x [Gnoll](/units/Gnoll) |
+  | 8 | Fortress - Physical Trials | HP ** +0.9 %**  | 70 |   |
+  | 9 | Fortress - Rocklike Skin | Tenacity ** +6**  | 150 |  **20** x [Gnoll](/units/Gnoll) |
+  | 10 | Fortress - Storm Assaulter | ATK ** +0.5 %** , HP ** +0.5 %**  | 70 |   |
+  | 11 | Fortress - Blaster | Critical Hit ** +5**  | 150 |  **20** x [Gnoll](/units/Gnoll) |
+  | 12 | Fortress - Storm Assaulter | ATK ** +0.9 %**  | 70 |   |
   
 
 
@@ -45,23 +45,23 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Fortress - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Gnoll](/units/Gnoll) |
-  | 2 | Fortress - Storm Assaulter | ATK +1 % | 80 |   |
-  | 3 | Fortress - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 4 | Fortress - A Strike Hit | Accuracy +6 | 160 |  **20** x [Serpent Fly](/units/Serpent Fly) |
-  | 5 | Fortress - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 6 | Fortress - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 7 | Fortress - Ingeniousness | Dodge +6 | 160 |  **20** x [Lizardman](/units/Lizardman) |
-  | 8 | Fortress - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 9 | Fortress - Physical Trials | HP +1 % | 80 |   |
-  | 10 | Fortress - Shield Practice | Unit DMG Reduction +0.4 % | 160 |  **20** x [Lizardman](/units/Lizardman) |
-  | 11 | Fortress - Physical Trials | HP +1 % | 80 |   |
-  | 12 | Fortress - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 13 | Fortress - Rocklike Skin | Tenacity +7 | 160 |  **20** x [Serpent Fly](/units/Serpent Fly) |
-  | 14 | Fortress - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 15 | Fortress - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 16 | Fortress - Blaster | Critical Hit +5 | 160 |  **20** x [Gnoll](/units/Gnoll) |
-  | 17 | Fortress - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 18 | Fortress - Storm Assaulter | ATK +1 % | 80 |   |
+  | 1 | Fortress - Damage Amplification | Unit DMG ** +0.4 %**  | 160 |  **20** x [Gnoll](/units/Gnoll) |
+  | 2 | Fortress - Storm Assaulter | ATK ** +1 %**  | 80 |   |
+  | 3 | Fortress - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 4 | Fortress - A Strike Hit | Accuracy ** +6**  | 160 |  **20** x [Serpent Fly](/units/Serpent Fly) |
+  | 5 | Fortress - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 6 | Fortress - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 7 | Fortress - Ingeniousness | Dodge ** +6**  | 160 |  **20** x [Lizardman](/units/Lizardman) |
+  | 8 | Fortress - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 9 | Fortress - Physical Trials | HP ** +1 %**  | 80 |   |
+  | 10 | Fortress - Shield Practice | Unit DMG Reduction ** +0.4 %**  | 160 |  **20** x [Lizardman](/units/Lizardman) |
+  | 11 | Fortress - Physical Trials | HP ** +1 %**  | 80 |   |
+  | 12 | Fortress - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 13 | Fortress - Rocklike Skin | Tenacity ** +7**  | 160 |  **20** x [Serpent Fly](/units/Serpent Fly) |
+  | 14 | Fortress - Physical Trials | ATK ** +0.3 %** , HP ** +0.7 %**  | 80 |   |
+  | 15 | Fortress - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 16 | Fortress - Blaster | Critical Hit ** +5**  | 160 |  **20** x [Gnoll](/units/Gnoll) |
+  | 17 | Fortress - Storm Assaulter | ATK ** +0.7 %** , HP ** +0.3 %**  | 80 |   |
+  | 18 | Fortress - Storm Assaulter | ATK ** +1 %**  | 80 |   |
   
 
