@@ -13,14 +13,16 @@ This information portal contains information about "Era Of Chaos" mobile game.
 **Game Update 24.11.2020** - 2 new Heroes and new COVE fraction. **[Read more](/blog/Game-Update-2NewHeroes-New-Core-Fraction/)**
 {: .notice--danger}
 
+**Game Update 24.11.2020** - New feature - Battle Formation. **[Read more](/blog/Battle-Formation/)**
+{: .notice--danger}
 
 
 You will find here:
 ### <i class="fas fa-chess-king"/>  [Heroes](/heroes/) 
 ### <i class="fab fa-optin-monster"/>  [Units](/units/)
-### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 ### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/Alchemy Workshop/)
-
+### <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
+### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 <br/>
 <br/>
 Sorry, Right now this web site is **Under Construct**
