@@ -26,18 +26,18 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Tower - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Gremlin](/units/Gremlin) |
-  | 2 | Tower - Storm Assaulter | ATK +0.9 % | 70 |   |
-  | 3 | Tower - A Strike Hit | Accuracy +6 | 150 |  **20** x [Gremlin](/units/Gremlin) |
-  | 4 | Tower - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 5 | Tower - Ingeniousness | Dodge +6 | 150 |  **20** x [Gremlin](/units/Gremlin) |
-  | 6 | Tower - Physical Trials | HP +0.9 % | 70 |   |
-  | 7 | Tower - Shield Practice | Unit DMG Reduction +0.3 % | 150 |  **20** x [Gremlin](/units/Gremlin) |
-  | 8 | Tower - Physical Trials | HP +0.9 % | 70 |   |
-  | 9 | Tower - Rocklike Skin | Tenacity +6 | 150 |  **20** x [Gremlin](/units/Gremlin) |
-  | 10 | Tower - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 11 | Tower - Blaster | Critical Hit +5 | 150 |  **20** x [Gremlin](/units/Gremlin) |
-  | 12 | Tower - Storm Assaulter | ATK +0.9 % | 70 |   |
+  | 1 | Tower - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Gremlin](/units/Gremlin) |
+  | 2 | Tower - Storm Assaulter | ATK + **0.9** % | 70 |   |
+  | 3 | Tower - A Strike Hit | Accuracy + **6**  | 150 |  **20** x [Gremlin](/units/Gremlin) |
+  | 4 | Tower - Storm Assaulter | ATK + **0.5** %, HP + **0.5** % | 70 |   |
+  | 5 | Tower - Ingeniousness | Dodge + **6**  | 150 |  **20** x [Gremlin](/units/Gremlin) |
+  | 6 | Tower - Physical Trials | HP + **0.9** % | 70 |   |
+  | 7 | Tower - Shield Practice | Unit DMG Reduction + **0.3** % | 150 |  **20** x [Gremlin](/units/Gremlin) |
+  | 8 | Tower - Physical Trials | HP + **0.9** % | 70 |   |
+  | 9 | Tower - Rocklike Skin | Tenacity + **6**  | 150 |  **20** x [Gremlin](/units/Gremlin) |
+  | 10 | Tower - Storm Assaulter | ATK + **0.5** %, HP + **0.5** % | 70 |   |
+  | 11 | Tower - Blaster | Critical Hit + **5**  | 150 |  **20** x [Gremlin](/units/Gremlin) |
+  | 12 | Tower - Storm Assaulter | ATK + **0.9** % | 70 |   |
   
 
 
@@ -45,23 +45,23 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Tower - Damage Amplification | Unit DMG +0.4 % | 160 |  **20** x [Gremlin](/units/Gremlin) |
-  | 2 | Tower - Storm Assaulter | ATK +1 % | 80 |   |
-  | 3 | Tower - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 4 | Tower - A Strike Hit | Accuracy +6 | 160 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
-  | 5 | Tower - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 6 | Tower - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 7 | Tower - Ingeniousness | Dodge +6 | 160 |  **20** x [Iron Golem](/units/Iron Golem) |
-  | 8 | Tower - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 9 | Tower - Physical Trials | HP +1 % | 80 |   |
-  | 10 | Tower - Shield Practice | Unit DMG Reduction +0.4 % | 160 |  **20** x [Iron Golem](/units/Iron Golem) |
-  | 11 | Tower - Physical Trials | HP +1 % | 80 |   |
-  | 12 | Tower - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 13 | Tower - Rocklike Skin | Tenacity +7 | 160 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
-  | 14 | Tower - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 15 | Tower - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 16 | Tower - Blaster | Critical Hit +5 | 160 |  **20** x [Gremlin](/units/Gremlin) |
-  | 17 | Tower - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 18 | Tower - Storm Assaulter | ATK +1 % | 80 |   |
+  | 1 | Tower - Damage Amplification | Unit DMG + **0.4** % | 160 |  **20** x [Gremlin](/units/Gremlin) |
+  | 2 | Tower - Storm Assaulter | ATK + **1** % | 80 |   |
+  | 3 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 4 | Tower - A Strike Hit | Accuracy + **6**  | 160 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
+  | 5 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 6 | Tower - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 7 | Tower - Ingeniousness | Dodge + **6**  | 160 |  **20** x [Iron Golem](/units/Iron Golem) |
+  | 8 | Tower - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 9 | Tower - Physical Trials | HP + **1** % | 80 |   |
+  | 10 | Tower - Shield Practice | Unit DMG Reduction + **0.4** % | 160 |  **20** x [Iron Golem](/units/Iron Golem) |
+  | 11 | Tower - Physical Trials | HP + **1** % | 80 |   |
+  | 12 | Tower - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 13 | Tower - Rocklike Skin | Tenacity + **7**  | 160 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
+  | 14 | Tower - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 15 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 16 | Tower - Blaster | Critical Hit + **5**  | 160 |  **20** x [Gremlin](/units/Gremlin) |
+  | 17 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 18 | Tower - Storm Assaulter | ATK + **1** % | 80 |   |
   
 

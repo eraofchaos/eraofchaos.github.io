@@ -26,18 +26,18 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Castle - Damage Amplification | Unit DMG +0.3 % | 150 |  **20** x [Pikeman](/units/Pikeman) |
-  | 2 | Castle - Storm Assaulter | ATK +0.9 % | 70 |   |
-  | 3 | Castle - A Strike Hit | Accuracy +6 | 150 |  **20** x [Pikeman](/units/Pikeman) |
-  | 4 | Castle - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 5 | Castle - Ingeniousness | Dodge +6 | 150 |  **10** x [Pikeman](/units/Pikeman) |
-  | 6 | Castle - Physical Trials | HP +0.9 % | 70 |   |
-  | 7 | Castle - Shield Practice | Unit DMG Reduction +0.3 % | 150 |  **10** x [Marksman](/units/Marksman) |
-  | 8 | Castle - Physical Trials | HP +0.9 % | 70 |   |
-  | 9 | Castle - Rocklike Skin | Tenacity +6 | 150 |  **10** x [Marksman](/units/Marksman) |
-  | 10 | Castle - Storm Assaulter | ATK +0.5 %, HP +0.5 % | 70 |   |
-  | 11 | Castle - Blaster | Critical Hit +5 | 150 |  **10** x [Marksman](/units/Marksman) |
-  | 12 | Castle - Storm Assaulter | ATK +0.9 % | 70 |   |
+  | 1 | Castle - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Pikeman](/units/Pikeman) |
+  | 2 | Castle - Storm Assaulter | ATK + **0.9** % | 70 |   |
+  | 3 | Castle - A Strike Hit | Accuracy + **6**  | 150 |  **20** x [Pikeman](/units/Pikeman) |
+  | 4 | Castle - Storm Assaulter | ATK + **0.5** %, HP + **0.5** % | 70 |   |
+  | 5 | Castle - Ingeniousness | Dodge + **6**  | 150 |  **10** x [Pikeman](/units/Pikeman) |
+  | 6 | Castle - Physical Trials | HP + **0.9** % | 70 |   |
+  | 7 | Castle - Shield Practice | Unit DMG Reduction + **0.3** % | 150 |  **10** x [Marksman](/units/Marksman) |
+  | 8 | Castle - Physical Trials | HP + **0.9** % | 70 |   |
+  | 9 | Castle - Rocklike Skin | Tenacity + **6**  | 150 |  **10** x [Marksman](/units/Marksman) |
+  | 10 | Castle - Storm Assaulter | ATK + **0.5** %, HP + **0.5** % | 70 |   |
+  | 11 | Castle - Blaster | Critical Hit + **5**  | 150 |  **10** x [Marksman](/units/Marksman) |
+  | 12 | Castle - Storm Assaulter | ATK + **0.9** % | 70 |   |
   
 
 
@@ -45,23 +45,23 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
   |:-----|:--------------------|---------|-----------------|----------------|
-  | 1 | Castle - Damage Amplification | Unit DMG +0.4 % | 160 |  **10** x [Pikeman](/units/Pikeman) |
-  | 2 | Castle - Storm Assaulter | ATK +1 % | 80 |   |
-  | 3 | Castle - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 4 | Castle - A Strike Hit | Accuracy +6 | 160 |  **10** x [Swordsman](/units/Swordsman) |
-  | 5 | Castle - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 6 | Castle - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 7 | Castle - Ingeniousness | Dodge +6 | 160 |  **10** x [Monk](/units/Monk) |
-  | 8 | Castle - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 9 | Castle - Physical Trials | HP +1 % | 80 |   |
-  | 10 | Castle - Shield Practice | Unit DMG Reduction +0.4 % | 160 |  **10** x [Swordsman](/units/Swordsman) |
-  | 11 | Castle - Physical Trials | HP +1 % | 80 |   |
-  | 12 | Castle - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 13 | Castle - Rocklike Skin | Tenacity +7 | 160 |  **10** x [Monk](/units/Monk) |
-  | 14 | Castle - Physical Trials | ATK +0.3 %, HP +0.7 % | 80 |   |
-  | 15 | Castle - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 16 | Castle - Blaster | Critical Hit +5 | 160 |  **10** x [Marksman](/units/Marksman) |
-  | 17 | Castle - Storm Assaulter | ATK +0.7 %, HP +0.3 % | 80 |   |
-  | 18 | Castle - Storm Assaulter | ATK +1 % | 80 |   |
+  | 1 | Castle - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Pikeman](/units/Pikeman) |
+  | 2 | Castle - Storm Assaulter | ATK + **1** % | 80 |   |
+  | 3 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 4 | Castle - A Strike Hit | Accuracy + **6**  | 160 |  **10** x [Swordsman](/units/Swordsman) |
+  | 5 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 6 | Castle - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 7 | Castle - Ingeniousness | Dodge + **6**  | 160 |  **10** x [Monk](/units/Monk) |
+  | 8 | Castle - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 9 | Castle - Physical Trials | HP + **1** % | 80 |   |
+  | 10 | Castle - Shield Practice | Unit DMG Reduction + **0.4** % | 160 |  **10** x [Swordsman](/units/Swordsman) |
+  | 11 | Castle - Physical Trials | HP + **1** % | 80 |   |
+  | 12 | Castle - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 13 | Castle - Rocklike Skin | Tenacity + **7**  | 160 |  **10** x [Monk](/units/Monk) |
+  | 14 | Castle - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
+  | 15 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 16 | Castle - Blaster | Critical Hit + **5**  | 160 |  **10** x [Marksman](/units/Marksman) |
+  | 17 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
+  | 18 | Castle - Storm Assaulter | ATK + **1** % | 80 |   |
   
 
