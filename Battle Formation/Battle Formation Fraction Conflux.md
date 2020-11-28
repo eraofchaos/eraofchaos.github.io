@@ -24,8 +24,8 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Conflux - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Sprite](/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATK + **0.9** % | 70 |   |
   | 3 | Conflux - A Strike Hit | Accuracy + **6**  | 150 |  **20** x [Sprite](/units/Sprite) |
@@ -43,8 +43,8 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Conflux - Damage Amplification | Unit DMG + **0.4** % | 160 |  **20** x [Sprite](/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATK + **1** % | 80 |   |
   | 3 | Conflux - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |

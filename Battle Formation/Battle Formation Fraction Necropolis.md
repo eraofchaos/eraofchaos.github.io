@@ -24,8 +24,8 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Necropolis - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Skeleton](/units/Skeleton) |
   | 2 | Necropolis - Storm Assaulter | ATK + **0.9** % | 70 |   |
   | 3 | Necropolis - A Strike Hit | Accuracy + **6**  | 150 |  **20** x [Skeleton](/units/Skeleton) |
@@ -43,8 +43,8 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Necropolis - Damage Amplification | Unit DMG + **0.4** % | 160 |  **20** x [Skeleton](/units/Skeleton) |
   | 2 | Necropolis - Storm Assaulter | ATK + **1** % | 80 |   |
   | 3 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |

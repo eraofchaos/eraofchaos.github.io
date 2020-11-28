@@ -27,8 +27,8 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Cove - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
   | 2 | Cove - Damage Amplification | ATK + **0.9** % | 70 |   |
   | 3 | Cove - Storm Assaulter | Accuracy + **6**  | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
@@ -46,8 +46,8 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Cove - Storm Assaulter | Unit DMG + **0.4** % | 160 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
   | 2 | Cove - Damage Amplification | ATK + **1** % | 80 |   |
   | 3 | Cove - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |

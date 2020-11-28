@@ -24,8 +24,8 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Rampart - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Centaur](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATK + **0.9** % | 70 |   |
   | 3 | Rampart - A Strike Hit | Accuracy + **6**  | 150 |  **10** x [Centaur](/units/Centaur) |
@@ -43,8 +43,8 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | Battle Soul  |  Required Soul Tokens |
-  |:-----|:--------------------|---------|-----------------|----------------|
+  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Rampart - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Centaur](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATK + **1** % | 80 |   |
   | 3 | Rampart - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
