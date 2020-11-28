@@ -1,6 +1,8 @@
 ﻿---
 title: "Era Of Chaos - 24.11.2020 Game Update - Battle Formation..."
 date: 2020-11-28T16:23:11+01:00
+classes: wide
+toc: false
 categories:
   - blog
 tags:
