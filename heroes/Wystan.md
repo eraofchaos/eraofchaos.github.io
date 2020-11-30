@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Wystan is the eldest son-in-law of King Tralossk and the second successor to the throne. He's been waiting for the day when he ascends to the throne."
 heroID: 61504
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Wystan"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44">stuns<span style="color: black"> them for 3s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span> them for 3s.
 
 ### 2 Spell: Slayer
- **Description:** Increases ATK by <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946">%<span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Description:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
 ### 3 Spell: Stone Skin
- **Description:** Gives a <span style="color: #e07c44">shield<span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Morass
- **Description:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: #e07c44">10%<span style="color: black"> and restore HP by <span style="color: #e07c44">3%<span style="color: black"> of their Max HP every second; reduces ATK speed by <span style="color: #e07c44">30%<span style="color: black"> and movement speed by <span style="color: #e07c44">60<span style="color: black"> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Description:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: #e07c44;font-size:20px">10%</span> and restore HP by <span style="color: #e07c44;font-size:20px">3%</span> of their Max HP every second; reduces ATK speed by <span style="color: #e07c44;font-size:20px">30%</span> and movement speed by <span style="color: #e07c44;font-size:20px">60</span> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
 
 
 ## HERO Biography
@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** There is much to learn before I become king.
+ **Description:** <span style="color: #ffffff;font-size:20px">There is much to learn before I become king.</span>
 
 
 

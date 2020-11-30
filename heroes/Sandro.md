@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Sandro is a Necromancer who has seen all of Enroth and Erathia. Now he apparently supports Finneas Vilmar, leader of the Necromancers of Deyja."
 heroID: 60501
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Sandro"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44">stuns<span style="color: black"> them for 3s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span> them for 3s.
 
 ### 2 Spell: Animate Dead
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 3 Spell: Implosion
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage on enemy units within a certain range, and has a 50% chance to <span style="color: #e07c44">stun<span style="color: black"> them for 2s
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage on enemy units within a certain range, and has a 50% chance to <span style="color: #e07c44;font-size:20px">stun</span> them for 2s
 
 ### 4 Spell: Darkest Hours
- **Description:** Deals earth spell damage to all hostile non-Necropolis units equal to <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> and 5% of their Max HP, and inflicts <span style="color: #e07c44">Low Morale<span style="color: black"> on them for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black">s. Meanwhile, restores the HP of friendly Necropolis units by <span style="color: #48b946">{($valueadd21+$valueadd22*($sklevel-1))}<span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, and inflicts <span style="color: #e07c44">Low Morale<span style="color: black"> on them.
+ **Description:** Deals earth spell damage to all hostile non-Necropolis units equal to <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> and 5% of their Max HP, and inflicts <span style="color: #e07c44;font-size:20px">Low Morale</span> on them for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s. Meanwhile, restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, and inflicts <span style="color: #e07c44;font-size:20px">Low Morale</span> on them.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** Death is a new life; my lies are merely intricate traps to trip and unsettle you. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Death is a new life; my lies are merely intricate traps to trip and unsettle you. </span>
 
 
 ### Skin 2: **Fatal Plot**
 
- **Description:** With one tiny drop you could topple kingdoms. 
+ **Description:** <span style="color: #ffffff;font-size:20px">With one tiny drop you could topple kingdoms. </span>
 
  **Skin features:** 
 

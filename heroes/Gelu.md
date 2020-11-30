@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Gelu"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Stone Skin
- **Description:** Gives a <span style="color: #e07c44">shield<span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Precision
- **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black">s.
+ **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 4 Spell: Frenzy
- **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black">s.
+ **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** Gelu's life story is shrouded in mystery. The only thing people are sure of is that he's a half-elf, probably with Vori blood on his elven side. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Gelu's life story is shrouded in mystery. The only thing people are sure of is that he's a half-elf, probably with Vori blood on his elven side. </span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Scout Team**
 
- **Description:** Sharpshooters under Gelu's command bring fear to the hearts of their enemies. Multiple enemy officers have been killed by their arrows from far behind the front line. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Sharpshooters under Gelu's command bring fear to the hearts of their enemies. Multiple enemy officers have been killed by their arrows from far behind the front line. </span>
 
  **Skin features:** 
 
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Armageddon's Blade**
 
- **Description:** I shall judge the crimes of the Demons with my sharp sword of justice. 
+ **Description:** <span style="color: #ffffff;font-size:20px">I shall judge the crimes of the Demons with my sharp sword of justice. </span>
 
  **Skin features:** 
 
@@ -86,7 +86,7 @@ toc: true
 
 ### Skin 4: **Wings of Triumph**
 
- **Description:** Evil cannot prevail! The Alliance of Justice has assembled to resist Lucifer Kreegan's invasion and vows to protect the peace in Erathia.
+ **Description:** <span style="color: #ffffff;font-size:20px">Evil cannot prevail! The Alliance of Justice has assembled to resist Lucifer Kreegan's invasion and vows to protect the peace in Erathia.</span>
 
  **Skin features:** 
 

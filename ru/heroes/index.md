@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /ru/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: ru
 ref: "index.md"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 8 | [Джелу](/ru/heroes/Gelu/) |  |  | SR+ |  Снайпер  |
   | 9 | [Джем](/ru/heroes/Gem/) |  |  | SSR |  Природное исцеление  |
   | 10 | [Дракон](/ru/heroes/Dracon/) |  |  | R |    |
-  | 11 | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |  |  | R |    |
+  | 11 | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |  |  | SSR |    |
   | 12 | [Зидар](/ru/heroes/Zydar/) |  | Еретик | R |    |
   | 13 | [Йог](/ru/heroes/Yog/) | Цитадель | Варвар | SR |  Разъяренные циклопы  |
   | 14 | [Кассанбель](/ru/heroes/Cassanbel/) |  | Дитя океана | ? |  Песнь океана  |
@@ -33,7 +33,7 @@ classes: wide
   | 21 | [Лорд Хаарт](/ru/heroes/Lord Haart/) |  |  | SR- |  Рыцарь Смерти  |
   | 22 | [Луна](/ru/heroes/Luna/) |  |  | R |  Стена Инферно  |
   | 23 | [Мефала](/ru/heroes/Mephala/) |  |  | R |  Абсолютная защита  |
-  | 24 | [Мутара](/ru/heroes/Mutare/) |  |  | SSR |  Подземелье безумия  |
+  | 24 | [Мутара](/ru/heroes/Mutare/) |  |  | R |  Подземелье безумия  |
   | 25 | [Мюллих](/ru/heroes/Mullich/) | Замок | Рыцарь | R+ |  Штурмовая атака  |
   | 26 | [Питер Ли](/ru/heroes/Peter Lee/) |  |  | ? |  Поднятый парус  |
   | 27 | [Раска](/ru/heroes/Rashka/) |  |  | R |    |

@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /de/heroes/Vidomina/
 excerpt: "Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte."
 heroID: 60502
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: de
 ref: "Vidomina"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Nekromantie
- **Description:** Beschwört 9 Skelette der Stufe <span style="color: #48b946">{$sklevel}<span style="color: black"> im Zielbereich. Die Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946">{250+68*($sklevel-1)}<span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946">{2800+1216*($sklevel-1)}.<span style="color: black">
+ **Description:** Beschwört 9 Skelette der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span> im Zielbereich. Die Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span>
 
 ### 3 Spell: Tote beleben
- **Description:** Fügt gegnerischen Einheiten, außer Nekropolis-Fraktion, innerhalb eines bestimmten Bereichs <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu und stellt LP von verbündeten Nekropolis-Einheiten um <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> wieder her.
+ **Description:** Fügt gegnerischen Einheiten, außer Nekropolis-Fraktion, innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu und stellt LP von verbündeten Nekropolis-Einheiten um <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> wieder her.
 
 ### 4 Spell: Untotenarmee
- **Description:** Beschwört so viele Skelette der Stufe <span style="color: #48b946">{$sklevel}<span style="color: black"> im Zielbereich, wie sich gegnerische Einheiten darin befinden. Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946">{250+68*($sklevel-1)}<span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946">{2800+1216*($sklevel-1)}.<span style="color: black">
+ **Description:** Beschwört so viele Skelette der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span> im Zielbereich, wie sich gegnerische Einheiten darin befinden. Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span>
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** Der Tod ist wie ein Himmelskörper: Er zieht ganze Fluten von Knochen an, die alles umhüllen!
+ **Description:** <span style="color: #ffffff;font-size:20px">Der Tod ist wie ein Himmelskörper: Er zieht ganze Fluten von Knochen an, die alles umhüllen!</span>
 
 
 ### Skin 2: **Zucker-Hexe**
 
- **Description:** Reine Seelen werden immer von Festen und Süßigkeiten angezogen.
+ **Description:** <span style="color: #ffffff;font-size:20px">Reine Seelen werden immer von Festen und Süßigkeiten angezogen.</span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Lehrling der Ketzerei**
 
- **Description:** Die meisten sehen nur die Hässlichkeit und das Chaos des Todes, doch ich sehe ewige Wahrheit.
+ **Description:** <span style="color: #ffffff;font-size:20px">Die meisten sehen nur die Hässlichkeit und das Chaos des Todes, doch ich sehe ewige Wahrheit.</span>
 
  **Skin features:** 
 

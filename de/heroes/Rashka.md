@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /de/heroes/Rashka/
 excerpt: "Rashka führt seine Truppen zum Ruhm, indem er alle einschüchtert. Bis jetzt war seine Taktik äußerst effektiv."
 heroID: 60802
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: de
 ref: "Rashka"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Feuerpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44">verbrennt<span style="color: black"> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44;font-size:20px">verbrennt</span> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 2 Spell: Fluch
- **Description:** Verringert ANG der anvisierten gegnerischen Einheit in einem großen Bereich um <span style="color: #48b946">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946"> %.<span style="color: black"> Dauer: <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
+ **Description:** Verringert ANG der anvisierten gegnerischen Einheit in einem großen Bereich um <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %.</span> Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
 
 ### 3 Spell: Blutdurst
- **Description:** Erhöht den Angriff verbündeter Einheiten innerhalb einer großen Reichweite um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % und den Lebensentzug um {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %. Dauer: <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
+ **Description:** Erhöht den Angriff verbündeter Einheiten innerhalb einer großen Reichweite um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % und den Lebensentzug um {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
 
 ### 4 Spell: Infernoflamme
- **Description:** Beschwört einen Infernospalt, der gegnerischen Einheiten im Umkreis {$olast11/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946">{($ovalueadd11+$ovalueadd12*($sklevel-1))}<span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zufügt. Schaden halbiert sich bei Inferno-Einheiten.
+ **Description:** Beschwört einen Infernospalt, der gegnerischen Einheiten im Umkreis {$olast11/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zufügt. Schaden halbiert sich bei Inferno-Einheiten.
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** Diese Flammen haben mir den Weg zum Sieg geebnet.
+ **Description:** <span style="color: #ffffff;font-size:20px">Diese Flammen haben mir den Weg zum Sieg geebnet.</span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Aschetyrann**
 
- **Description:** Rashka herrschte mit eiserner Faust über das Land der Asche, der neue Name Erathias nach seinem Untergang.
+ **Description:** <span style="color: #ffffff;font-size:20px">Rashka herrschte mit eiserner Faust über das Land der Asche, der neue Name Erathias nach seinem Untergang.</span>
 
  **Skin features:** 
 

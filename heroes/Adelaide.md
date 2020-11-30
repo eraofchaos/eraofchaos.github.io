@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "As a young woman, shipwrecked and alone, Adelaide stumbled into Snow Elf territory. She underwent 20 years of training with her rescuers and became the most powerful mage in the kingdom before returning to Erathia."
 heroID: 60001
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Adelaide"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frozen Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44">slows<span style="color: black"> them for 8s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span> them for 8s.
 
 ### 2 Spell: Ice Bolt
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage to enemy units within a certain range, and deals additional <span style="color: #48b946">{($valueadd21+$valueadd22*($sklevel-1))}<span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> water spell damage to <span style="color: #e07c44">slowed <span style="color: black"> targets.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage to enemy units within a certain range, and deals additional <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> water spell damage to <span style="color: #e07c44;font-size:20px">slowed </span> targets.
 
 ### 3 Spell: Ice Wall
- **Description:** Summons 1 Ice Wall which <span style="color: #e07c44">freezes<span style="color: black"> nearby enemy units for {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Description:** Summons 1 Ice Wall which <span style="color: #e07c44;font-size:20px">freezes</span> nearby enemy units for {($olast11+$olast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Frost Ring
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage on enemy units within a very large range, and <span style="color: #e07c44">freezes<span style="color: black"> to <span style="color: #e07c44">slowed down<span style="color: black"> targets for 5s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage on enemy units within a very large range, and <span style="color: #e07c44;font-size:20px">freezes</span> to <span style="color: #e07c44;font-size:20px">slowed down</span> targets for 5s.
 
 
 ## HERO Biography
@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** I have returned from my icy paradise but decades have passed in the world. 
+ **Description:** <span style="color: #ffffff;font-size:20px">I have returned from my icy paradise but decades have passed in the world. </span>
 
  **Skin features:** 
 
@@ -59,7 +59,7 @@ toc: true
 
 ### Skin 2: **Champion Fighter**
 
- **Description:** A hero amongst heroes and the Champion of the Arena! 
+ **Description:** <span style="color: #ffffff;font-size:20px">A hero amongst heroes and the Champion of the Arena! </span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Worli Mage**
 
- **Description:** No one has ever beaten the winter of Vori.
+ **Description:** <span style="color: #ffffff;font-size:20px">No one has ever beaten the winter of Vori.</span>
 
  **Skin features:** 
 
@@ -78,7 +78,7 @@ toc: true
 
 ### Skin 4: **Christmas Carol**
 
- **Description:** After a long year, it is only this time that we open and close our hearts.
+ **Description:** <span style="color: #ffffff;font-size:20px">After a long year, it is only this time that we open and close our hearts.</span>
 
  **Skin features:** 
 

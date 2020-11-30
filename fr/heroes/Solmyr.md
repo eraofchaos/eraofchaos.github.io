@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /fr/heroes/Solmyr/
 excerpt: "Solmyr est resté piégé dans une lampe de génie pendant plus d'un millénaire. Infiniment reconnaissant envers celui qui l'a libéré, Gavin Magnus le souverain immortel des Hautes Terres de Bracada, il lui a juré son éternelle allégeance."
 heroID: 61201
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: fr
 ref: "Solmyr"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche aérienne
- **Description:** Inflige <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air aux ennemis à portée et réduit leur précision de 30 %, pendant 8s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air aux ennemis à portée et réduit leur précision de 30 %, pendant 8s.
 
 ### 2 Spell: Éclair de foudre
- **Description:** Inflige <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air à toutes les unités ennemies dans la zone d'effet.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air à toutes les unités ennemies dans la zone d'effet.
 
 ### 3 Spell: Mur de vent
- **Description:** Invoque un mur de vent qui augmente l'esquive de {<span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20} %<span style="color: black"> et la vitesse de déplacement de {$buffaddattr22+$buffaddattr23*($sklevel-1)} pour toutes les unités alliées qui le traversent, pendant {$olast11/1000} secondes.
+ **Description:** Invoque un mur de vent qui augmente l'esquive de {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20} %</span> et la vitesse de déplacement de {$buffaddattr22+$buffaddattr23*($sklevel-1)} pour toutes les unités alliées qui le traversent, pendant {$olast11/1000} secondes.
 
 ### 4 Spell: Foudre terrible
- **Description:** Lance un éclair qui rebondit 5 fois entre différentes unités ennemies. Chaque bond inflige <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> points de dégâts d'air.
+ **Description:** Lance un éclair qui rebondit 5 fois entre différentes unités ennemies. Chaque bond inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> points de dégâts d'air.
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classique**
 
- **Description:** Je jure allégeance au seul Roi de Bracada, qui m'a libéré de ma prison de verre ! 
+ **Description:** <span style="color: #ffffff;font-size:20px">Je jure allégeance au seul Roi de Bracada, qui m'a libéré de ma prison de verre ! </span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Diable en bouteille**
 
- **Description:** Quatre siècles après avoir été jeté dans les tréfonds de l'océan, le diable en bouteille a juré de tuer celui qui le libérerait. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Quatre siècles après avoir été jeté dans les tréfonds de l'océan, le diable en bouteille a juré de tuer celui qui le libérerait. </span>
 
  **Skin features:** 
 

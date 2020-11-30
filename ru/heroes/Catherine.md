@@ -3,7 +3,7 @@ title: "Катерина"
 permalink: /ru/heroes/Catherine/
 excerpt: "Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: ru
 ref: "Catherine"
 toc: true
@@ -37,7 +37,7 @@ toc: true
  **Description:** 
 
 ### 2 Spell: Радость
- **Description:** Дает <span style="color: #e07c44">высокий боевой дух<span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Убийца
  **Description:** 
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** Не было никакого Спасителя! Спасайте себя сами! Берите оружие и защищайте все то, что вам дорого!
+ **Description:** <span style="color: #ffffff;font-size:20px">Не было никакого Спасителя! Спасайте себя сами! Берите оружие и защищайте все то, что вам дорого!</span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **null**
 
- **Description:** Мы отправимся в Эрафию, на правый бой.
+ **Description:** <span style="color: #ffffff;font-size:20px">Мы отправимся в Эрафию, на правый бой.</span>
 
  **Skin features:** 
 
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Королевская свадьба**
 
- **Description:** Я надеюсь, что наш союз принесет мир стране и счастье нашему народу.
+ **Description:** <span style="color: #ffffff;font-size:20px">Я надеюсь, что наш союз принесет мир стране и счастье нашему народу.</span>
 
  **Skin features:** 
 
@@ -86,7 +86,7 @@ toc: true
 
 ### Skin 4: **Светская львица**
 
- **Description:** Если бы не мешали гости, за садом было бы видно отцовский дворец. Этот зеленый свет ведет меня домой сквозь ночную тьму.  ——Катерина, в разговоре с ее подругой Кристиной[]
+ **Description:** <span style="color: #ffffff;font-size:20px">Если бы не мешали гости, за садом было бы видно отцовский дворец. Этот зеленый свет ведет меня домой сквозь ночную тьму. <span style="color: #ffffff;font-size:20px"> ——Катерина, в разговоре с ее подругой Кристиной</span>[]
 
  **Skin features:** 
 
@@ -96,7 +96,7 @@ toc: true
 
 ### Skin 5: **Союз Правосудия**
 
- **Description:** Нечисть не пройдет! Союз Правосудия готов к обороне - вместе мы остановим вторжение демонов и сохраним мир на землях Эрафии! 
+ **Description:** <span style="color: #ffffff;font-size:20px">Нечисть не пройдет! Союз Правосудия готов к обороне - вместе мы остановим вторжение демонов и сохраним мир на землях Эрафии! </span>
 
  **Skin features:** 
 

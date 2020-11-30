@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /fr/heroes/Gelu/
 excerpt: "Gelu est un demi-Elfe, mais c'est aussi le guerrier le plus connu d'Erathia. Au service de la reine Catherine, il a été remarqué et promu par le général Morgan Kendal en personne."
 heroID: 60301
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: fr
 ref: "Gelu"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche aérienne
- **Description:** Inflige <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air aux ennemis à portée et réduit leur précision de 30 %, pendant 8s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air aux ennemis à portée et réduit leur précision de 30 %, pendant 8s.
 
 ### 2 Spell: Carapace
- **Description:** Octroie un <span style="color: #e07c44">bouclier<span style="color: black"> aux unités alliées à portée, qui absorbe <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> points de dégâts et dure {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Octroie un <span style="color: #e07c44;font-size:20px">bouclier</span> aux unités alliées à portée, qui absorbe <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> points de dégâts et dure {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Précision
- **Description:** Octroie un bonus de 100 % de précision et de coups critiques à toutes les unités alliées dans une large zone pendant <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000} <span style="color: black">secondes.
+ **Description:** Octroie un bonus de 100 % de précision et de coups critiques à toutes les unités alliées dans une large zone pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} </span>secondes.
 
 ### 4 Spell: Foudre de guerre
- **Description:** Sacrifie 30 % des PV max des unités alliées dans une large zone (sans les tuer) pour accroître leur vitesse d'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pendant <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000} secondes.<span style="color: black">
+ **Description:** Sacrifie 30 % des PV max des unités alliées dans une large zone (sans les tuer) pour accroître leur vitesse d'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} secondes.</span>
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classique**
 
- **Description:** La vie de Gelu est recouverte d'un voile mystérieux. La seule certitude, c'est qu'il est à moitié Elfe, probablement même de Vori. 
+ **Description:** <span style="color: #ffffff;font-size:20px">La vie de Gelu est recouverte d'un voile mystérieux. La seule certitude, c'est qu'il est à moitié Elfe, probablement même de Vori. </span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Éclaireurs**
 
- **Description:** Les Tireurs d'élite dirigés par Gelu instillent la peur dans le cœur de leurs ennemis. Leurs flèches, tirées loin derrière la ligne de front, ont abattu un grand nombre d'officiers ennemis. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Les Tireurs d'élite dirigés par Gelu instillent la peur dans le cœur de leurs ennemis. Leurs flèches, tirées loin derrière la ligne de front, ont abattu un grand nombre d'officiers ennemis. </span>
 
  **Skin features:** 
 
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Lame d'Armageddon**
 
- **Description:** J'utiliserai ma tranchante épée de justice pour punir les crimes de ces Démons. 
+ **Description:** <span style="color: #ffffff;font-size:20px">J'utiliserai ma tranchante épée de justice pour punir les crimes de ces Démons. </span>
 
  **Skin features:** 
 
@@ -86,7 +86,7 @@ toc: true
 
 ### Skin 4: **Ailes du triomphe**
 
- **Description:** Les forces du mal ne peuvent pas triompher ! L'Alliance de la Justice s'est formée pour repousser l'invasion orchestrée par Lucifer Kreegan et pour protéger Erathia.
+ **Description:** <span style="color: #ffffff;font-size:20px">Les forces du mal ne peuvent pas triompher ! L'Alliance de la Justice s'est formée pour repousser l'invasion orchestrée par Lucifer Kreegan et pour protéger Erathia.</span>
 
  **Skin features:** 
 

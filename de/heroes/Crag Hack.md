@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /de/heroes/Crag Hack/
 excerpt: "Crag Hack war ein unbesungener Held in Enroth, bevor er die Segel nach Erathia setzte. Er erkannte, dass er in diesem Land voller Tumulte den größtmöglichen Nutzen aus seinen Talenten ziehen kann."
 heroID: 60602
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: de
 ref: "Crag Hack"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Erdpfeil
- **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> Erdzauberschaden zu und <span style="color: #e07c44">betäubt<span style="color: black"> sie 3 Sek. lang.
+ **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> Erdzauberschaden zu und <span style="color: #e07c44;font-size:20px">betäubt</span> sie 3 Sek. lang.
 
 ### 2 Spell: Treibsand
- **Description:** Beschwört Treibsand an einem bestimmten Ort und fügt allen Einheiten im Sekundentakt Schaden entsprechend 2 % ihrer max. LP zu (Gegner erleiden doppelten Schaden). Verringert die Schadensreduzierung gegnerischer Einheiten {($olast11+$olast12)/1000} Sek. lang um <span style="color: #48b946">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946"> %.<span style="color: black">
+ **Description:** Beschwört Treibsand an einem bestimmten Ort und fügt allen Einheiten im Sekundentakt Schaden entsprechend 2 % ihrer max. LP zu (Gegner erleiden doppelten Schaden). Verringert die Schadensreduzierung gegnerischer Einheiten {($olast11+$olast12)/1000} Sek. lang um <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px"> %.</span>
 
 ### 3 Spell: Töter
- **Description:** Erhöht den ANG verbündeter Einheiten innerhalb einer großen Reichweite um <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946"> %.<span style="color: black"> Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek. Die Dauer erhöht sich bei 9-Mann-Einheiten um weitere 5 Sek.
+ **Description:** Erhöht den ANG verbündeter Einheiten innerhalb einer großen Reichweite um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %.</span> Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek. Die Dauer erhöht sich bei 9-Mann-Einheiten um weitere 5 Sek.
 
 ### 4 Spell: Tötungswille
- **Description:** Erhöht den ANG verbündeter Nahkampfeinheiten um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % und ihren Lebensentzug um {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %. Dauer: <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.<span style="color: black">
+ **Description:** Erhöht den ANG verbündeter Nahkampfeinheiten um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % und ihren Lebensentzug um {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span>
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** Ruhm bedeutet einen ehrenhaften Tod auf dem Schlachtfeld; der Kampf ist meine schönste Belohnung.
+ **Description:** <span style="color: #ffffff;font-size:20px">Ruhm bedeutet einen ehrenhaften Tod auf dem Schlachtfeld; der Kampf ist meine schönste Belohnung.</span>
 
 
 ### Skin 2: **Goldherzog**
 
- **Description:** Nachdem er die Goldminen von Erathia geplündert hatte, wurde Crag Hack zum Anführer der Krewlod. Seine Gier nach Gold ist Tag für Tag größer geworden und so erklärt er Gegner um Gegner den Krieg.
+ **Description:** <span style="color: #ffffff;font-size:20px">Nachdem er die Goldminen von Erathia geplündert hatte, wurde Crag Hack zum Anführer der Krewlod. Seine Gier nach Gold ist Tag für Tag größer geworden und so erklärt er Gegner um Gegner den Krieg.</span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Weihnachtslied**
 
- **Description:** Ihr könnt Eure Arbeit unmöglich mit Gewalt beenden. Ein warmherziges Fest kommt da gerade recht.
+ **Description:** <span style="color: #ffffff;font-size:20px">Ihr könnt Eure Arbeit unmöglich mit Gewalt beenden. Ein warmherziges Fest kommt da gerade recht.</span>
 
  **Skin features:** 
 

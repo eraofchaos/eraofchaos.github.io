@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Monere was born with the ability to control Psychic and Magic Elementals. He is a vital general of Elemental."
 heroID: 60702
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Monere"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frozen Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44">slows<span style="color: black"> them for 8s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span> them for 8s.
 
 ### 2 Spell: Lightning Bolt
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
 
 ### 3 Spell: Fireball
- **Description:** Summons continuous fire balls in the target area, dealing fire spell damage 6 times (adds up to <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))*6}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>) to enemy units within a certain range and <span style="color: #e07c44">burns<span style="color: black"> them, lasting for 8s.
+ **Description:** Summons continuous fire balls in the target area, dealing fire spell damage 6 times (adds up to <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*6}</span><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>) to enemy units within a certain range and <span style="color: #e07c44;font-size:20px">burns</span> them, lasting for 8s.
 
 ### 4 Spell: Mystic Domain
- **Description:** Creates a Mystic Domain in the target area, dealing <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a very large range, and inflicting <span style="color: #e07c44">silence<span style="color: black"> on enemy units within range for <span style="color: #48b946">{($olast11+$olast12*($sklevel-1))/1000}<span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Creates a Mystic Domain in the target area, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a very large range, and inflicting <span style="color: #e07c44;font-size:20px">silence</span> on enemy units within range for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** I am born from the thoughts of all living things. 
+ **Description:** <span style="color: #ffffff;font-size:20px">I am born from the thoughts of all living things. </span>
 
 
 

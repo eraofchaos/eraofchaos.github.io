@@ -3,7 +3,7 @@ title: "Сольмир"
 permalink: /ru/heroes/Solmyr/
 excerpt: "Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность."
 heroID: 61201
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: ru
 ref: "Solmyr"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Description:** Наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Молния
- **Description:** Наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом всем противникам в области действия.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом всем противникам в области действия.
 
 ### 3 Spell: Стена Ветра
  **Description:** 
 
 ### 4 Spell: Цепь молний
- **Description:** Призывает разряд молнии, который перескакивает на новую цель 5 раз. Каждый удар наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> урона Воздухом
+ **Description:** Призывает разряд молнии, который перескакивает на новую цель 5 раз. Каждый удар наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> урона Воздухом
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** Я присягаю на верность только королю Бракады, освободившему меня из моей стеклянной тюрьмы! 
+ **Description:** <span style="color: #ffffff;font-size:20px">Я присягаю на верность только королю Бракады, освободившему меня из моей стеклянной тюрьмы! </span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Дьявол в бутылке**
 
- **Description:** Спустя четыре столетия после того, как его бросили в морскую пучину, дьявол из бутылки поклялся убить того, кто освободит его из заточения. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Спустя четыре столетия после того, как его бросили в морскую пучину, дьявол из бутылки поклялся убить того, кто освободит его из заточения. </span>
 
  **Skin features:** 
 

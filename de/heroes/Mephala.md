@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /de/heroes/Mephala/
 excerpt: "Mephala genoss eine Ausbildung in der Armee Erathias und war ein Naturtalent, wenn es darum ging, das Gelände zu ihren Gunsten auszunutzen. Obwohl sie den Frieden und die Ruhe ihres Dorfs bevorzugt, bleibt sie für ihr Land beim Militär."
 heroID: 60302
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: de
 ref: "Mephala"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Steinhaut
- **Description:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44">Schild<span style="color: black">, der <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Description:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span>, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 3 Spell: Erdschild
- **Description:** Erhöht die Schadensreduzierung verbündeter Einheiten innerhalb eines großen Bereichs um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)> % und gewährt ihnen Immunität gegen Erdzauberschaden. Dauer: <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"> Sek.
+ **Description:** Erhöht die Schadensreduzierung verbündeter Einheiten innerhalb eines großen Bereichs um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)> % und gewährt ihnen Immunität gegen Erdzauberschaden. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> Sek.
 
 ### 4 Spell: Heiliger Schild
- **Description:** Beschwört einen riesigen Schutzschild und verleiht verbündeten Einheiten Immunität gegen jeglichen Schaden. Dauer: <span style="color: #48b946">{($olast11+$olast12*($sklevel-1))/1000}<span style="color: black"> Sek.
+ **Description:** Beschwört einen riesigen Schutzschild und verleiht verbündeten Einheiten Immunität gegen jeglichen Schaden. Dauer: <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span> Sek.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** Es ist meine Natur, die Schwachen zu beschützen. Mut ist der beste Schild gegen das Böse!
+ **Description:** <span style="color: #ffffff;font-size:20px">Es ist meine Natur, die Schwachen zu beschützen. Mut ist der beste Schild gegen das Böse!</span>
 
 
 ### Skin 2: **Waldläuferin**
 
- **Description:** Erschöpft und dem Hungertod nahe brach Mephala im Wald zusammen. Die Tiere, die sie so mutig verteidigt hatte, brachten ihr Früchte und süßes Quellwasser, um ihr für den Schutz des Waldes zu danken.
+ **Description:** <span style="color: #ffffff;font-size:20px">Erschöpft und dem Hungertod nahe brach Mephala im Wald zusammen. Die Tiere, die sie so mutig verteidigt hatte, brachten ihr Früchte und süßes Quellwasser, um ihr für den Schutz des Waldes zu danken.</span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Kämpfer-Champion**
 
- **Description:** Eine Heldin unter Helden und Champion der Arena! 
+ **Description:** <span style="color: #ffffff;font-size:20px">Eine Heldin unter Helden und Champion der Arena! </span>
 
  **Skin features:** 
 

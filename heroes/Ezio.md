@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Even though he's in a wholly different world, Ezio continues to hold fast to his conviction. He works in the dark to serve the light."
 heroID: 61901
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Ezio"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Hidden Blade Assassination
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: #e07c44">bleeding<span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: #e07c44;font-size:20px">bleeding</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Stealth
- **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black">s.
+ **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 3 Spell: Quiet
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: #e07c44">silence<span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: #e07c44;font-size:20px">silence</span> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Eagle Vision
- **Description:** Grants <span style="color: #e07c44">Hawkeye<span style="color: black"> to all friendly units while increasing Critical Hit and Accuracy by 900 for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black">s.
+ **Description:** Grants <span style="color: #e07c44;font-size:20px">Hawkeye</span> to all friendly units while increasing Critical Hit and Accuracy by 900 for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **null**
 
- **Description:** A mysterious person from a different world. Possesses extraordinary assassination skills.
+ **Description:** <span style="color: #ffffff;font-size:20px">A mysterious person from a different world. Possesses extraordinary assassination skills.</span>
 
 
 ### Skin 2: **Revelations**
 
- **Description:** After experiencing countless deaths and glory, his steps no longer waver.
+ **Description:** <span style="color: #ffffff;font-size:20px">After experiencing countless deaths and glory, his steps no longer waver.</span>
 
  **Skin features:** 
 

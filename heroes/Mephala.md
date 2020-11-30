@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Trained in the Erathian army, Mephala was a natural genius at using terrain to her advantage. Although she prefers the calm quiet of her village, she remains in the military for the sake of her country. "
 heroID: 60302
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Mephala"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Air Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
 ### 2 Spell: Stone Skin
- **Description:** Gives a <span style="color: #e07c44">shield<span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Earth Shield
- **Description:** Increases unit damage reduction by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>% for friendly units within a large range and grants them immunity to earth spell damage, lasting for <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black">s.
+ **Description:** Increases unit damage reduction by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>% for friendly units within a large range and grants them immunity to earth spell damage, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
 
 ### 4 Spell: Holy Shield
- **Description:** Summons 1 giant protective shield and makes friendly units immune to all damage for <span style="color: #48b946">{($olast11+$olast12*($sklevel-1))/1000}<span style="color: black">s.
+ **Description:** Summons 1 giant protective shield and makes friendly units immune to all damage for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span>s.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** It is in my nature to protect the weak. Courage is the best shield against evil! 
+ **Description:** <span style="color: #ffffff;font-size:20px">It is in my nature to protect the weak. Courage is the best shield against evil! </span>
 
 
 ### Skin 2: **Ranger of the Forest**
 
- **Description:** Starving and exhausted, Mephala collapsed in the forest. The animals she had defended so courageously brought her fruit and sweet spring water to thank her for protecting the forest. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Starving and exhausted, Mephala collapsed in the forest. The animals she had defended so courageously brought her fruit and sweet spring water to thank her for protecting the forest. </span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Champion Fighter**
 
- **Description:** A hero amongst heroes and the Champion of the Arena! 
+ **Description:** <span style="color: #ffffff;font-size:20px">A hero amongst heroes and the Champion of the Arena! </span>
 
  **Skin features:** 
 

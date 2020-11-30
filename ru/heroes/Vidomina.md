@@ -3,7 +3,7 @@ title: "Видомина"
 permalink: /ru/heroes/Vidomina/
 excerpt: "Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла."
 heroID: 60502
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: ru
 ref: "Vidomina"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Description:** Наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: null
- **Description:** Призывает 9 скелетов <span style="color: #48b946">{$sklevel}<span style="color: black"> ур. в указанное место. Скелеты остаются на 20 сек., имеют <span style="color: #48b946">{250+68*($sklevel-1)}<span style="color: black"> АТК и <span style="color: #48b946">{2800+1216*($sklevel-1)}<span style="color: black"> ОЗ.
+ **Description:** Призывает 9 скелетов <span style="color: #48b946;font-size:20px">{$sklevel}</span> ур. в указанное место. Скелеты остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span> ОЗ.
 
 ### 3 Spell: Поднять мертвецов
- **Description:** Наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в определенной области (кроме отрядов Некрополя) и восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в определенной области (кроме отрядов Некрополя) и восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>
 
 ### 4 Spell: Армия нежити
- **Description:** Призывает скелетов <span style="color: #48b946">{$sklevel}<span style="color: black"> ур. в выбранной области в количестве, равном числу вражеских отрядов в этой области Скелеты остаются на 20 сек., имеют <span style="color: #48b946">{250+68*($sklevel-1)}<span style="color: black"> АТК и <span style="color: #48b946">{2800+1216*($sklevel-1)}<span style="color: black"> ОЗ.
+ **Description:** Призывает скелетов <span style="color: #48b946;font-size:20px">{$sklevel}</span> ур. в выбранной области в количестве, равном числу вражеских отрядов в этой области Скелеты остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span> ОЗ.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** Смерть подобна небесному телу; на ее зов поднимается всепоглощающая волна костей!
+ **Description:** <span style="color: #ffffff;font-size:20px">Смерть подобна небесному телу; на ее зов поднимается всепоглощающая волна костей!</span>
 
 
 ### Skin 2: **Ведьма с конфетами**
 
- **Description:** Праведные души всегда слетаются на шум праздника и запах сластей.
+ **Description:** <span style="color: #ffffff;font-size:20px">Праведные души всегда слетаются на шум праздника и запах сластей.</span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Ученица-еретик**
 
- **Description:** Большинство замечают в смерти лишь уродство и хаос, но я вижу истину вечности.
+ **Description:** <span style="color: #ffffff;font-size:20px">Большинство замечают в смерти лишь уродство и хаос, но я вижу истину вечности.</span>
 
  **Skin features:** 
 

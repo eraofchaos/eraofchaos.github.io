@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /fr/heroes/Monere/
 excerpt: "Monere possède la capacité innée de contrôler les Élémentaires de magie et de l'esprit. C'est un général idéal pour les armées d'Élémentaires."
 heroID: 60702
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: fr
 ref: "Monere"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche gelée
- **Description:** Inflige <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> points de dégâts d'eau aux ennemis à portée et les <span style="color: #e07c44">ralentit<span style="color: black"> pendant 8s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> points de dégâts d'eau aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">ralentit</span> pendant 8s.
 
 ### 2 Spell: Éclair de foudre
- **Description:** Inflige <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air à toutes les unités ennemies dans la zone d'effet.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> points de dégâts d'air à toutes les unités ennemies dans la zone d'effet.
 
 ### 3 Spell: Boule de feu
- **Description:** Des boules de feu s'abattent sur la zone cible ; elles infligent des dégâts de feu 6 fois (pour un total cumulé de <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))*6}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> points de dégâts) aux unités ennemies à portée et les <span style="color: #e07c44">brûlent<span style="color: black">, pendant 8s.
+ **Description:** Des boules de feu s'abattent sur la zone cible ; elles infligent des dégâts de feu 6 fois (pour un total cumulé de <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*6}</span><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> points de dégâts) aux unités ennemies à portée et les <span style="color: #e07c44;font-size:20px">brûlent</span>, pendant 8s.
 
 ### 4 Spell: Domaine mystique
- **Description:** Crée un Domaine mystique dans la zone cible, infligeant <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux unités ennemies sur une large zone et les réduisant au <span style="color: #e07c44">silence<span style="color: black"> pour <span style="color: #48b946">{($olast11+$olast12*($sklevel-1))/1000}<span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Crée un Domaine mystique dans la zone cible, infligeant <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux unités ennemies sur une large zone et les réduisant au <span style="color: #e07c44;font-size:20px">silence</span> pour <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classique**
 
- **Description:**  Ce sont les pensées des créatures vivantes qui m'ont donné la vie. 
+ **Description:** <span style="color: #ffffff;font-size:20px"> Ce sont les pensées des créatures vivantes qui m'ont donné la vie. </span>
 
 
 

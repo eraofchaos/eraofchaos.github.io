@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /de/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: de
 ref: "index.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 4 | [Catherine](/de/heroes/Catherine/) | Schloss | Ritter | R |  Eisenkreuzritter  |
   | 5 | [Ciele](/de/heroes/Ciele/) | Konflux | Elementarist | SSR |  Elementar-Resonanz  |
   | 6 | [Crag Hack](/de/heroes/Crag Hack/) | Burg | Barbar | R+ |  Offensive  |
-  | 7 | [Drache Mutare](/de/heroes/Dragon Mutare/) | Dungeon | Overlord | R |  Drachenerwachen  |
+  | 7 | [Drache Mutare](/de/heroes/Dragon Mutare/) | Dungeon | Overlord | SSR |  Drachenerwachen  |
   | 8 | [Dracon](/de/heroes/Dracon/) | Turm | Zauberer | R |  Verzauberer  |
   | 9 | [Erdamon](/de/heroes/Erdamon/) | Konflux | Ebenenwandler | R |  König der Steine  |
   | 10 | [Ezio](/de/heroes/Ezio/) | Neutrale Armee |  | R+ |  Bruderschaft  |
@@ -35,7 +35,7 @@ classes: wide
   | 23 | [Mephala](/de/heroes/Mephala/) | Schutzwall | Waldläufer | R |  Absolute Abwehr  |
   | 24 | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | R |  Psy-Elementar  |
   | 25 | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | R+ |  Sturmangriff  |
-  | 26 | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | SSR |  Dungeon-Flut  |
+  | 26 | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | R |  Dungeon-Flut  |
   | 27 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | ? |  Segel setzen  |
   | 28 | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | R |  Feuer-Lord  |
   | 29 | [Roland](/de/heroes/Roland/) | Schloss | Ritter | SR+ |  Erhöhte Moral  |

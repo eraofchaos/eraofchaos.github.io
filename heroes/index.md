@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "index.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 5 | [Ciele](/heroes/Ciele/) | Conflux | Elementalist | SSR |  Elemental Resonance  |
   | 6 | [Crag Hack](/heroes/Crag Hack/) | Stronghold | Barbarian | R+ |  Offense  |
   | 7 | [Dracon](/heroes/Dracon/) | Tower | Wizard | R |  Enchanter  |
-  | 8 | [Dragon Mutare](/heroes/Dragon Mutare/) | Dungeon | Overlord | R |  Dragon Awakes  |
+  | 8 | [Dragon Mutare](/heroes/Dragon Mutare/) | Dungeon | Overlord | SSR |  Dragon Awakes  |
   | 9 | [Erdamon](/heroes/Erdamon/) | Conflux | Planeswalker | R |  King of Rocks  |
   | 10 | [Ezio](/heroes/Ezio/) | Neutral Army |  | R+ |  Brotherhood  |
   | 11 | [Fiur](/heroes/Fiur/) | Conflux | Planeswalker | R |  Fire Elemental  |
@@ -35,7 +35,7 @@ classes: wide
   | 23 | [Mephala](/heroes/Mephala/) | Rampart | Ranger | R |  Absolute Defense  |
   | 24 | [Monere](/heroes/Monere/) | Conflux | Planeswalker | R |  Psychic Elemental  |
   | 25 | [Mullich](/heroes/Mullich/) | Castle | Knight | R+ |  Charge Assault  |
-  | 26 | [Mutare](/heroes/Mutare/) | Dungeon | Overlord | SSR |  Dungeon Torrent  |
+  | 26 | [Mutare](/heroes/Mutare/) | Dungeon | Overlord | R |  Dungeon Torrent  |
   | 27 | [Peter Lee](/heroes/Peter Lee/) | Cove | Pirate | ? |  Set Sail  |
   | 28 | [Rashka](/heroes/Rashka/) | Inferno | Demoniac | R |  Fire Lord  |
   | 29 | [Roland](/heroes/Roland/) | Castle | Knight | SR+ |  Heightened Morale  |

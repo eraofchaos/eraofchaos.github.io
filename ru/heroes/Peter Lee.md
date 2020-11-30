@@ -3,7 +3,7 @@ title: "Питер Ли"
 permalink: /ru/heroes/Peter Lee/
 excerpt: "Питер Ли - легендарный пират, который разбою и грабежам предпочитает сокровища и приключения. Ходят слухи, что его флот доплывал до края мира."
 heroID: 61801
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: ru
 ref: "Peter Lee"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Холода
- **Description:** Наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44">замедляет<span style="color: black"> их на 8 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span> их на 8 сек.
 
 ### 2 Spell: Радость
- **Description:** Дает <span style="color: #e07c44">высокий боевой дух<span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Щит Льда
  **Description:** 
 
 ### 4 Spell: Буруны
- **Description:** Корабль Питера Ли атакует врагов и наносит <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой всем вражеским отрядам. Оборонительные отряды получат дополнительный урон от заклинания в размере 10% от максимального ОЗ
+ **Description:** Корабль Питера Ли атакует врагов и наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой всем вражеским отрядам. Оборонительные отряды получат дополнительный урон от заклинания в размере 10% от максимального ОЗ
 
 
 ## HERO Biography
@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** На море никто нет никого быстрее моего ворона. Даже буре за ним не угнаться!
+ **Description:** <span style="color: #ffffff;font-size:20px">На море никто нет никого быстрее моего ворона. Даже буре за ним не угнаться!</span>
 
 
 

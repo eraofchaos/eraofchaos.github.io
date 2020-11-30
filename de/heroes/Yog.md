@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /de/heroes/Yog/
 excerpt: "Yog wurde viele Jahre lang von den Magiern in Bracada unterrichtet, aber er studiert lieber Militärstrategien anstatt magische Runen zu verwenden. Später erkannte Herzog Krewlod seinen Wert und er wurde ein außergewöhnlicher General in der Barbarenarmee."
 heroID: 60604
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: de
 ref: "Yog"
 toc: true
@@ -34,13 +34,13 @@ toc: true
 
 ## Spells
 ### 1 Spell: Feuerpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44">verbrennt<span style="color: black"> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44;font-size:20px">verbrennt</span> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 2 Spell: Treibsand
- **Description:** Beschwört Treibsand an einem bestimmten Ort und fügt allen Einheiten im Sekundentakt Schaden entsprechend 2 % ihrer max. LP zu (Gegner erleiden doppelten Schaden). Verringert die Schadensreduzierung gegnerischer Einheiten {($olast11+$olast12)/1000} Sek. lang um <span style="color: #48b946">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946"> %.<span style="color: black">
+ **Description:** Beschwört Treibsand an einem bestimmten Ort und fügt allen Einheiten im Sekundentakt Schaden entsprechend 2 % ihrer max. LP zu (Gegner erleiden doppelten Schaden). Verringert die Schadensreduzierung gegnerischer Einheiten {($olast11+$olast12)/1000} Sek. lang um <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px"> %.</span>
 
 ### 3 Spell: Präzision
- **Description:** Gewährt verbündeten Einheiten in einem großen Bereich 100 % krit. Treffer und Präzision. Dauer: <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"> Sek.
+ **Description:** Gewährt verbündeten Einheiten in einem großen Bereich 100 % krit. Treffer und Präzision. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> Sek.
 
 ### 4 Spell: Energieumkehr
  **Description:** Von Helden gewirkter Zauberschaden gegen alle verbündeten Einheiten heilt sie nun stattdessen und von Helden gewirkte Heilzauber fügen nun gegnerischen Einheiten Schaden zu. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
@@ -56,12 +56,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** Macht und Magie, Blut und Ruhm!
+ **Description:** <span style="color: #ffffff;font-size:20px">Macht und Magie, Blut und Ruhm!</span>
 
 
 ### Skin 2: **Kampfmagier**
 
- **Description:** Unterschätzt niemals die Macht der Verwandtschaft.
+ **Description:** <span style="color: #ffffff;font-size:20px">Unterschätzt niemals die Macht der Verwandtschaft.</span>
 
  **Skin features:** 
 

@@ -3,7 +3,7 @@ title: "Мюллих"
 permalink: /ru/heroes/Mullich/
 excerpt: ""
 heroID: 60101
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: ru
 ref: "Mullich"
 toc: true
@@ -35,13 +35,13 @@ toc: true
  **Description:** 
 
 ### 2 Spell: Радость
- **Description:** Дает <span style="color: #e07c44">высокий боевой дух<span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Быстрая атака
  **Description:** 
 
 ### 4 Spell: Остановка времени
- **Description:** Создает хронополе, которое обездвиживает врагов в радиусе действия на <span style="color: #48b946">{($olast11+$olast12*($sklevel-1))/1000}<span style="color: black"> сек.
+ **Description:** Создает хронополе, которое обездвиживает врагов в радиусе действия на <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span> сек.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** Мюллих - дисциплинированный лидер. Он установил для своих подчиненных строгие правила, его армия была известна своей скоростью. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Мюллих - дисциплинированный лидер. Он установил для своих подчиненных строгие правила, его армия была известна своей скоростью. </span>
 
 
 ### Skin 2: **Великий солдат Эрафии**
 
- **Description:** Выдающиеся полководцы выбирают боевое построение, исходя из особенностей каждого поля битвы.
+ **Description:** <span style="color: #ffffff;font-size:20px">Выдающиеся полководцы выбирают боевое построение, исходя из особенностей каждого поля битвы.</span>
 
  **Skin features:** 
 
@@ -68,7 +68,7 @@ toc: true
 
 ### Skin 3: **Дон Мюллих**
 
- **Description:** Мои подвиги следует увековечить в бронзе. Или мраморе. Или может даже на доске их нарисовать. Все должно остаться в веках!
+ **Description:** <span style="color: #ffffff;font-size:20px">Мои подвиги следует увековечить в бронзе. Или мраморе. Или может даже на доске их нарисовать. Все должно остаться в веках!</span>
 
  **Skin features:** 
 

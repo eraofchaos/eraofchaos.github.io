@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /heroes/Erdamon/
 excerpt: "Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war."
 heroID: 60703
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: en
 ref: "Erdamon"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals <span style="color: #48b946">{($valueadd11+$valueadd12*($sklevel-1))}<span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44">stuns<span style="color: black"> them for 3s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span> them for 3s.
 
 ### 2 Spell: Stone Skin
- **Description:** Gives a <span style="color: #e07c44">shield<span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946">{($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Earth Elemental
- **Description:** Summons 4 Earth Elementals of Lv.<span style="color: #48b946">{$sklevel}<span style="color: black"> in the target area. Earth Elementals will remain for the whole battle with an ATK of <span style="color: #48b946">{440+120*($sklevel-1)}<span style="color: black"><(440+120*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946">{9600+4170*($sklevel-1)}<span style="color: black"><(9600+4170*($sklevel-1))*$talent14+$talent13>.
+ **Description:** Summons 4 Earth Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> in the target area. Earth Elementals will remain for the whole battle with an ATK of <span style="color: #48b946;font-size:20px">{440+120*($sklevel-1)}</span><(440+120*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{9600+4170*($sklevel-1)}</span><(9600+4170*($sklevel-1))*$talent14+$talent13>.
 
 ### 4 Spell: Lava Trap
- **Description:** Summons a Lava Trap, dealing <span style="color: #48b946">{($ovalueadd11+$ovalueadd12*($sklevel-1))}<span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage on non-flying enemy units next to the trap every second, and <span style="color: #e07c44">stunning<span style="color: black"> them for 0.7s. The trap lasts for {$olast11/1000}s.
+ **Description:** Summons a Lava Trap, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage on non-flying enemy units next to the trap every second, and <span style="color: #e07c44;font-size:20px">stunning</span> them for 0.7s. The trap lasts for {$olast11/1000}s.
 
 
 ## HERO Biography
@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classic**
 
- **Description:** The earth began to wail and woke me from my slumber. I found a land afflicted with an abscess called Eeofol.
+ **Description:** <span style="color: #ffffff;font-size:20px">The earth began to wail and woke me from my slumber. I found a land afflicted with an abscess called Eeofol.</span>
 
 
 

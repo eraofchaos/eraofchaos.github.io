@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /ru/heroes/Crag Hack/
 excerpt: ""
 heroID: 60602
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: ru
 ref: "Crag Hack"
 toc: true
@@ -35,13 +35,13 @@ toc: true
  **Description:** 
 
 ### 2 Spell: Зыбучие пески
- **Description:** Создает зыбучие пески в определенном месте, которые наносят урон всем отрядам в размере 2% от их максимального ОЗ каждую секунду. Вражеские отряды получат двойной урон. Снижает сопротивление урону для противников на <span style="color: #48b946">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}<span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946">%<span style="color: black">; эффект длится {($olast11+$olast12)/1000} сек.
+ **Description:** Создает зыбучие пески в определенном месте, которые наносят урон всем отрядам в размере 2% от их максимального ОЗ каждую секунду. Вражеские отряды получат двойной урон. Снижает сопротивление урону для противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span>; эффект длится {($olast11+$olast12)/1000} сек.
 
 ### 3 Spell: Убийца
  **Description:** 
 
 ### 4 Spell: Жажда убийства
- **Description:** Дает всем союзным отрядам ближнего боя +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946">{($bufflast11+$bufflast12*($sklevel-1))/1000}<span style="color: black"> сек.
+ **Description:** Дает всем союзным отрядам ближнего боя +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> сек.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** Слава означает славную гибель на поле боя; битва - есть лучшая награда. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Слава означает славную гибель на поле боя; битва - есть лучшая награда. </span>
 
 
 ### Skin 2: **Золотой герцог**
 
- **Description:** Разграбив золотые прииски Эрафии, Крэг Хак стал повелителем Крулода. С каждым днем жажда золота росла в нем, толкая на войну со все новыми противниками. 
+ **Description:** <span style="color: #ffffff;font-size:20px">Разграбив золотые прииски Эрафии, Крэг Хак стал повелителем Крулода. С каждым днем жажда золота росла в нем, толкая на войну со все новыми противниками. </span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Рождественский гимн**
 
- **Description:** Невозможно закончить работу насилием. Веселый праздник придется кстати.
+ **Description:** <span style="color: #ffffff;font-size:20px">Невозможно закончить работу насилием. Веселый праздник придется кстати.</span>
 
  **Skin features:** 
 

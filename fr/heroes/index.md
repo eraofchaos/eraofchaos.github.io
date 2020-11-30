@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /fr/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-11-24
+last_modified_at: 2020-11-30
 lang: fr
 ref: "index.md"
 toc: false
@@ -32,8 +32,8 @@ classes: wide
   | 20 | [Mephala](/fr/heroes/Mephala/) | Rempart | Rôdeur | R |  Défense absolue  |
   | 21 | [Monere](/fr/heroes/Monere/) | Conflux | Marcheur | R |  Élémentaire de l'esprit  |
   | 22 | [Mullich](/fr/heroes/Mullich/) | Château | Chevalier | R+ |  Charge d'assaut  |
-  | 23 | [Mutare](/fr/heroes/Mutare/) | Donjon | Seigneur de guerre | SSR |  Torrent du Donjon  |
-  | 24 | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) | Donjon | Seigneur de guerre | R |  Éveil du Dragon  |
+  | 23 | [Mutare](/fr/heroes/Mutare/) | Donjon | Seigneur de guerre | R |  Torrent du Donjon  |
+  | 24 | [Mutare (dragon)](/fr/heroes/Dragon Mutare/) | Donjon | Seigneur de guerre | SSR |  Éveil du Dragon  |
   | 25 | [PeterLee](/fr/heroes/Peter Lee/) | Crique | Pirate | ? |  Levez les voiles  |
   | 26 | [Rashka](/fr/heroes/Rashka/) | Hadès | Démoniaque | R |  Seigneur du feu  |
   | 27 | [Roland](/fr/heroes/Roland/) | Château | Chevalier | SR+ |  Moral accru  |
