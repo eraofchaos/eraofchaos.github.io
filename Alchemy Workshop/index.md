@@ -2,7 +2,7 @@
 title: "Alchemy Workshop"
 permalink: /Alchemy Workshop/
 excerpt: "Alchemy Workshop.The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another."
-last_modified_at: 2020-11-25
+last_modified_at: 2020-11-30
 lang: en
 ref: "index.md"
 toc: false
@@ -13,55 +13,7 @@ classes: wide
 
 ## Rules
 
-  <span style="color: #8a5c1d"> A mysterious island comes out of nowhere over the sea. People found a dusty and ancient workshop that is full of amazing alchemy devices. <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #3c2a1e">General Rules<span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 1. Alchemy Potion: The Alchemy Potion is the vital production part of the  workshop, where materials can be refined. <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 2. Alchemy Warehouse: The warehouse holds 9 products of formulas at most. The products need be harvested and put into the parcel manually. The alchemy workshop stops production when the alchemy warehouse is full. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252"> 3. Alchemy Formula: They are carriers of alchemy production, which records the time, materials and results of production. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #3c2a1e">Alchemy Production<span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252"> 1. The workshop produces 1 formula at a time. After the production, the formula listed at the top of the production queue will be produced next. <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 2. Drag and add a formula to the production queue. Materials required will be deducted when you add a formula. <span style="color: black">
-
-<span style="color: #645252"> 3. It takes time to produce every formula. The product will be stored in the alchemy warehouse when the production time is up. <span style="color: black">
-
-<span style="color: #645252"> 4. There are different qualities of alchemy formulas. The higher the quality, the more efficient the process will be. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #3c2a1e"> Formula Refresh <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">1. 8 new formulas will be chosen from the formula warehouse for players at 05:00 every day. <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 2. Players have 3 formula refreshes per day. When the free refreshes are used up, players need to spend diamonds to refresh the formula.<span style="color: black">
+  <span style="color: #8a5c1d"> A mysterious island comes out of nowhere over the sea. People found a dusty and ancient workshop that is full of amazing alchemy devices. <span style="color: black"><br/>　<span style="color: black"><br/><span style="color: #3c2a1e">General Rules<span style="color: black"><br/>　<span style="color: black"><br/><span style="color: #645252"> 1. Alchemy Potion: The Alchemy Potion is the vital production part of the  workshop, where materials can be refined. <span style="color: black"><br/>　<span style="color: black"><br/><span style="color: #645252"> 2. Alchemy Warehouse: The warehouse holds 9 products of formulas at most. The products need be harvested and put into the parcel manually. The alchemy workshop stops production when the alchemy warehouse is full. <span style="color: black"><br/><span style="color: black"><br/><span style="color: #645252"> 3. Alchemy Formula: They are carriers of alchemy production, which records the time, materials and results of production. <span style="color: black"><br/><span style="color: black"><br/><span style="color: #3c2a1e">Alchemy Production<span style="color: black"><br/>　<span style="color: black"><br/><span style="color: black"><br/><span style="color: #645252"> 1. The workshop produces 1 formula at a time. After the production, the formula listed at the top of the production queue will be produced next. <span style="color: black"><br/>　<span style="color: black"><br/><span style="color: #645252"> 2. Drag and add a formula to the production queue. Materials required will be deducted when you add a formula. <span style="color: black"><br/><span style="color: #645252"> 3. It takes time to produce every formula. The product will be stored in the alchemy warehouse when the production time is up. <span style="color: black"><br/><span style="color: #645252"> 4. There are different qualities of alchemy formulas. The higher the quality, the more efficient the process will be. <span style="color: black"><br/><span style="color: black"><br/><span style="color: #3c2a1e"> Formula Refresh <span style="color: black"><br/>　<span style="color: black"><br/><span style="color: black"><br/><span style="color: #645252">1. 8 new formulas will be chosen from the formula warehouse for players at 05:00 every day. <span style="color: black"><br/>　<span style="color: black"><br/><span style="color: #645252"> 2. Players have 3 formula refreshes per day. When the free refreshes are used up, players need to spend diamonds to refresh the formula.<span style="color: black">
 
 <br/>  <span style="color: #562600">The Alchemy Workshop is ancient. You can mix Alchemy Potions with refinement materials, and produce the corresponding items by using ancient alchemy formulas.<span style="color: black">
 
