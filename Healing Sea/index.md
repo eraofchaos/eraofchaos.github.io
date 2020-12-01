@@ -5,8 +5,7 @@ excerpt: "List of ALL Healing Sea questions with correct answers"
 last_modified_at: 2020-12-01
 lang: en
 ref: "healingSea"
-toc: false
-classes: wide
+toc: true
 ---
 
 ## <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
