@@ -10,11 +10,13 @@ sidebar:
 
 This information portal contains information about "Era Of Chaos" mobile game.
 
-**Game Update 24.11.2020** - 2 new Heroes and new COVE fraction. **[Read more](/blog/Game-Update-2NewHeroes-New-Core-Fraction/)**
+**1.12.2020 Update: Added [Italiano](/it/) and [Español](/es/) languages to site.**
 {: .notice--danger}
 
+**Game Update 24.11.2020** - 2 new Heroes and new COVE fraction. **[Read more](/blog/Game-Update-2NewHeroes-New-Core-Fraction/)**
 **Game Update 24.11.2020** - New feature - Battle Formation. **[Read more](/blog/Battle-Formation/)**
 {: .notice--danger}
+
 
 
 You will find here:
