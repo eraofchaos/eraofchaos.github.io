@@ -12,7 +12,7 @@ sidebar:
 
 Сайт в разработке, сейчас Вам доступны:
 ### <i class="fas fa-chess-king"/>  [Герои](/ru/heroes/) 
-### <i class="fab fa-battle-net"/>  [Боевое построение](/ru/Battle Formation/) в разработке
+### <i class="fab fa-battle-net"/>  [Боевое построение](/ru/Battle Formation/) (в разработке)
 ### <i class="fas fa-question-circle"/>  [Ответы на Сфинкса](/ru/sphinx/)
 ### <i class="fas fa-place-of-worship"/>  [Мастерская алхимика](/ru/Alchemy Workshop/)
 ### <i class="fas fa-water"/>  [Море чудес](/ru/Healing Sea/)
