@@ -39,7 +39,7 @@ classes: wide
 
    **Correct Answer:** **B. The Dwarf** 
 
-   **Rewards:** nests4
+   **Rewards:**  ** 300x **Dragon Blood Crystal (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
    Wrong Answer: A. The Wood Elf
 
@@ -51,7 +51,7 @@ classes: wide
 
    **Correct Answer:** **A. That is the question.** 
 
-   **Rewards:** msCoupons
+   **Rewards:**  ** 1x **Discount Coupon (Coupon that can be used in the Healing Sea event.)
 
    Wrong Answer: B. That is not the question.
 
@@ -63,7 +63,7 @@ classes: wide
 
    **Correct Answer:** **B. The Kreegans** 
 
-   **Rewards:** msMove
+   **Rewards:**  ** 1x **Teleportation (Enables teleportation in the Healing Sea event.)
 
    Wrong Answer: A. The Orcs
 
@@ -75,7 +75,7 @@ classes: wide
 
    **Correct Answer:** **B. I want to build a snow Cyclops.** 
 
-   **Rewards:** msMove
+   **Rewards:**  ** 1x **Teleportation (Enables teleportation in the Healing Sea event.)
 
    Wrong Answer: A. No.
 
@@ -87,7 +87,7 @@ classes: wide
 
    **Correct Answer:** **B. Minotaur** 
 
-   **Rewards:** msCoupons
+   **Rewards:**  ** 1x **Discount Coupon (Coupon that can be used in the Healing Sea event.)
 
    Wrong Answer: A. Centaur
 
@@ -99,7 +99,7 @@ classes: wide
 
    **Correct Answer:** **B. Sharpshooter** 
 
-   **Rewards:** nests4
+   **Rewards:**  ** 300x **Dragon Blood Crystal (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
    Wrong Answer: A. Black Dragon
 
@@ -111,7 +111,7 @@ classes: wide
 
    **Correct Answer:** **B. Gold Dragon** 
 
-   **Rewards:** msMove
+   **Rewards:**  ** 1x **Teleportation (Enables teleportation in the Healing Sea event.)
 
    Wrong Answer: A. Green Dragon
 
@@ -123,7 +123,7 @@ classes: wide
 
    **Correct Answer:** **A. indomitable will** 
 
-   **Rewards:** msCoupons
+   **Rewards:**  ** 1x **Discount Coupon (Coupon that can be used in the Healing Sea event.)
 
    Wrong Answer: B. high spirits
 
@@ -135,7 +135,7 @@ classes: wide
 
    **Correct Answer:** **B. Devils** 
 
-   **Rewards:** msCoupons
+   **Rewards:**  ** 1x **Discount Coupon (Coupon that can be used in the Healing Sea event.)
 
    Wrong Answer: A. Angels
 
@@ -147,7 +147,7 @@ classes: wide
 
    **Correct Answer:** **A. Shame on me** 
 
-   **Rewards:** nests4
+   **Rewards:**  ** 300x **Dragon Blood Crystal (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
    Wrong Answer: B. Still shame on you
 
@@ -159,7 +159,7 @@ classes: wide
 
    **Correct Answer:** **B. Underground** 
 
-   **Rewards:** msMove
+   **Rewards:**  ** 1x **Teleportation (Enables teleportation in the Healing Sea event.)
 
    Wrong Answer: A. Stronghold
 
