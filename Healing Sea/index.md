@@ -1,11 +1,12 @@
 ---
 title: "Era of Chaos - Healing Sea - Questions with correct answers"
-permalink: /Healing Sea Quiz/
+permalink: /Healing Sea/
 excerpt: "List of ALL Healing Sea questions with correct answers"
 last_modified_at: 2020-12-01
 lang: en
 ref: "healingSea"
-toc: true
+toc: false
+classes: wide
 ---
 
 ## <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
@@ -13,8 +14,8 @@ toc: true
    <span style="color: #3c2a1e">2. Square rewards will be refreshed each time you pass the starting point.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">3. You can get several free dice rolls every day during the event. Once you've used up your free rolls, you can purchase more. Rolls reset on the following day.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">4. You can earn coupons, Teleportation spells, and Dragon Blood Crystals through dialog events. Coupon value is fixed at 300 and can be used for a limited time and in limited quantities at the store. Only one coupon can be used per purchase, and coupons do not stack. In addition to being earned through event dialog, Teleportation spells can be earned when daily mission Activity reaches 100/200. Teleportation spells can be used via the bottom right corner of the Events screen.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   [color=3c2a1e]5. Limited-time Store: Different discounted items will be sold for a limited time every day during the event.[-][][-][color=ffffff,fontsize=6]　[-][][-]
-   [color=3c2a1e]6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.[-][][-]
+   <span style="color: #3c2a1e">5. Limited-time Store: Different discounted items will be sold for a limited time every day during the event.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e">6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.</span><br/>
 ## Items on map: 
 
   -  1 Bag of heavy diamonds. 
@@ -32,133 +33,133 @@ toc: true
 
 ### 1 In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf? 
 
- **Title:**  A challenge between close friends.
+   **Title:**  A challenge between close friends.
 
- **Question:** In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf?
+   **Question:** In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf?
 
- **Correct Answer:** **B. The Dwarf** 
+   **Correct Answer:** **B. The Dwarf** 
 
- **Rewards:** nests4
+   **Rewards:** nests4
 
- Wrong Answer: A. The Wood Elf
+   Wrong Answer: A. The Wood Elf
 
 ### 2 To spread the fire or extinguish the fire, _________. 
 
- **Title:**  To spread the fire or extinguish the fire.
+   **Title:**  To spread the fire or extinguish the fire.
 
- **Question:** To spread the fire or extinguish the fire, _________.
+   **Question:** To spread the fire or extinguish the fire, _________.
 
- **Correct Answer:** **A. That is the question.** 
+   **Correct Answer:** **A. That is the question.** 
 
- **Rewards:** msCoupons
+   **Rewards:** msCoupons
 
- Wrong Answer: B. That is not the question.
+   Wrong Answer: B. That is not the question.
 
 ### 3 Who came from the depths, traveled across the world, and conquered everything in sight? 
 
- **Title:**  I came, I saw, I conquered.
+   **Title:**  I came, I saw, I conquered.
 
- **Question:** Who came from the depths, traveled across the world, and conquered everything in sight?
+   **Question:** Who came from the depths, traveled across the world, and conquered everything in sight?
 
- **Correct Answer:** **B. The Kreegans** 
+   **Correct Answer:** **B. The Kreegans** 
 
- **Rewards:** msMove
+   **Rewards:** msMove
 
- Wrong Answer: A. The Orcs
+   Wrong Answer: A. The Orcs
 
 ### 4 Do you want to build a Snowman? 
 
- **Title:**  Snowman
+   **Title:**  Snowman
 
- **Question:** Do you want to build a Snowman?
+   **Question:** Do you want to build a Snowman?
 
- **Correct Answer:** **B. I want to build a snow Cyclops.** 
+   **Correct Answer:** **B. I want to build a snow Cyclops.** 
 
- **Rewards:** msMove
+   **Rewards:** msMove
 
- Wrong Answer: A. No.
+   Wrong Answer: A. No.
 
 ### 5 The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins? 
 
- **Title:**  Push-ups
+   **Title:**  Push-ups
 
- **Question:** The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins?
+   **Question:** The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins?
 
- **Correct Answer:** **B. Minotaur** 
+   **Correct Answer:** **B. Minotaur** 
 
- **Rewards:** msCoupons
+   **Rewards:** msCoupons
 
- Wrong Answer: A. Centaur
+   Wrong Answer: A. Centaur
 
 ### 6 Who looks more likely to interrupt an adventurer's adventure? 
 
- **Title:**  Old Adventurer
+   **Title:**  Old Adventurer
 
- **Question:** Who looks more likely to interrupt an adventurer's adventure?
+   **Question:** Who looks more likely to interrupt an adventurer's adventure?
 
- **Correct Answer:** **B. Sharpshooter** 
+   **Correct Answer:** **B. Sharpshooter** 
 
- **Rewards:** nests4
+   **Rewards:** nests4
 
- Wrong Answer: A. Black Dragon
+   Wrong Answer: A. Black Dragon
 
 ### 7 Who died and then destroyed the ice wall? 
 
- **Title:**  Undead King's Necromancy
+   **Title:**  Undead King's Necromancy
 
- **Question:** Who died and then destroyed the ice wall?
+   **Question:** Who died and then destroyed the ice wall?
 
- **Correct Answer:** **B. Gold Dragon** 
+   **Correct Answer:** **B. Gold Dragon** 
 
- **Rewards:** msMove
+   **Rewards:** msMove
 
- Wrong Answer: A. Green Dragon
+   Wrong Answer: A. Green Dragon
 
 ### 8 Courage, faith, and________! 
 
- **Title:**  Slogan
+   **Title:**  Slogan
 
- **Question:** Courage, faith, and________!
+   **Question:** Courage, faith, and________!
 
- **Correct Answer:** **A. indomitable will** 
+   **Correct Answer:** **A. indomitable will** 
 
- **Rewards:** msCoupons
+   **Rewards:** msCoupons
 
- Wrong Answer: B. high spirits
+   Wrong Answer: B. high spirits
 
 ### 9 The Inferno is empty and all the ________ are here. 
 
- **Title:**  Angels and Demons
+   **Title:**  Angels and Demons
 
- **Question:** The Inferno is empty and all the ________ are here.
+   **Question:** The Inferno is empty and all the ________ are here.
 
- **Correct Answer:** **B. Devils** 
+   **Correct Answer:** **B. Devils** 
 
- **Rewards:** msCoupons
+   **Rewards:** msCoupons
 
- Wrong Answer: A. Angels
+   Wrong Answer: A. Angels
 
 ### 10 Fool me once, shame on you. Fool me twice, _______. 
 
- **Title:**  Fool me once
+   **Title:**  Fool me once
 
- **Question:** Fool me once, shame on you. Fool me twice, _______.
+   **Question:** Fool me once, shame on you. Fool me twice, _______.
 
- **Correct Answer:** **A. Shame on me** 
+   **Correct Answer:** **A. Shame on me** 
 
- **Rewards:** nests4
+   **Rewards:** nests4
 
- Wrong Answer: B. Still shame on you
+   Wrong Answer: B. Still shame on you
 
 ### 11 Which faction has the units with the most economical eye drops? 
 
- **Title:**  Eye Drops
+   **Title:**  Eye Drops
 
- **Question:** Which faction has the units with the most economical eye drops?
+   **Question:** Which faction has the units with the most economical eye drops?
 
- **Correct Answer:** **B. Underground** 
+   **Correct Answer:** **B. Underground** 
 
- **Rewards:** msMove
+   **Rewards:** msMove
 
- Wrong Answer: A. Stronghold
+   Wrong Answer: A. Stronghold
 
