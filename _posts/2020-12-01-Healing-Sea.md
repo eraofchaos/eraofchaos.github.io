@@ -20,6 +20,8 @@ We prepared all Quiz questions with correct answers and rewards.
  - French: <i class="fas fa-water"/>  [Mer guérisseuse](/fr/Healing Sea/)
  - German: <i class="fas fa-water"/>  [Heilendes Meer](/de/Healing Sea/)
  - Русский: <i class="fas fa-water"/>  [Море чудес](/ru/Healing Sea/)
+ - Italiano: <i class="fas fa-water"/>  [Mare curativo](/it/Healing Sea/)
+ - Español: <i class="fas fa-water"/>  [Mar Sanador](/es/Healing Sea/)
 
 More information is on the way.
 
