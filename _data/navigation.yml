@@ -51,8 +51,8 @@ docs_de:
     children:
     - title: "Heroes"
       url: /de/heroes/
-    - title: "Units"
-      url: /units/
+    - title: "Einheiten"
+      url: /de/units/
     - title: "Alchemiewerkstatt"
       url: /de/Alchemy Workshop/
     - title: "Kampfformationn"
@@ -83,8 +83,8 @@ docs_fr:
     children:
     - title: "Heroes"
       url: /fr/heroes/
-    - title: "Units"
-      url: /units/
+    - title: "Unités"
+      url: /fr/units/
     - title: "Atelier d'alchimie"
       url: /fr/Alchemy Workshop/
     - title: "Formation de combat"
@@ -117,8 +117,8 @@ docs_ru:
     children:
     - title: "Герои"
       url: /ru/heroes/
-    - title: "Units"
-      url: /units/
+    - title: "Отряды"
+      url: /ru/units/
     - title: "Мастерская алхимика"
       url: /ru/Alchemy Workshop/
     - title: "Боевое построение"
@@ -151,8 +151,8 @@ docs_it:
     children:
     - title: "Heroes"
       url: /it/heroes/
-    - title: "Units"
-      url: /units/
+    - title: "Unità"
+      url: /it/units/
     - title: "Laboratorio alchemico"
       url: /it/Alchemy Workshop/
     - title: "Formazione di battaglia"
@@ -185,8 +185,8 @@ docs_es:
     children:
     - title: "Heroes"
       url: /es/heroes/
-    - title: "Units"
-      url: /units/
+    - title: "Unidades"
+      url: /es/units/
     - title: "Taller alquímico"
       url: /es/Alchemy Workshop/
     - title: "Formación de batalla"

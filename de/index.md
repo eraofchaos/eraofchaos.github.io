@@ -14,6 +14,7 @@ Entschuldigung, diese Website befindet sich derzeit im Aufbau.
 
 Sie finden hier:
 ### <i class="fas fa-chess-king"/>  [Heroes](/de/heroes/) 
+### <i class="fab fa-optin-monster"/>  [Einheiten](/de/units/)
 ### <i class="fab fa-battle-net"/>  [Kampfformation](/de/Battle Formation/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/de/sphinx/)
 ### <i class="fas fa-place-of-worship"/>  [Alchemiewerkstatt](/de/Alchemy Workshop/)
