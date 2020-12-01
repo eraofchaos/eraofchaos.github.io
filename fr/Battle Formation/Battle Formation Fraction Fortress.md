@@ -2,7 +2,7 @@
 title: "Formation de combat Forteresse"
 permalink: /fr/Battle Formation/Battle Formation Fraction Fortress
 excerpt: "Formation de combat Forteresse"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: fr
 ref: "BattleFormationFractionFortress"
 toc: false

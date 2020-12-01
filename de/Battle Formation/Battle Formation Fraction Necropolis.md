@@ -2,7 +2,7 @@
 title: "Kampfformation Nekropolis"
 permalink: /de/Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Kampfformation Nekropolis"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: de
 ref: "BattleFormationFractionNecropolis"
 toc: false

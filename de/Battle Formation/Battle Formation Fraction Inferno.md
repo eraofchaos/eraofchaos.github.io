@@ -2,7 +2,7 @@
 title: "Kampfformation Inferno"
 permalink: /de/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Kampfformation Inferno"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: de
 ref: "BattleFormationFractionInferno"
 toc: false

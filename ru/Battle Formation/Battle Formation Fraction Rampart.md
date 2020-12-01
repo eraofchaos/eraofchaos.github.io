@@ -2,7 +2,7 @@
 title: "Боевое построение Rampart"
 permalink: /ru/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Боевое построение Rampart"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: ru
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -39,7 +39,7 @@ classes: wide
   | 6 | Rampart - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 7 | Rampart - Shield Practice | null + **0.3** % | 150 |  **10** x [Лесной эльф](/ru/units/Wood Elf) |
   | 8 | Rampart - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Rampart - Rocklike Skin | Выносливость + **6**  | 150 |  **10** x [Лесной эльф](/ru/units/Wood Elf) |
+  | 9 | Rampart - Rocklike Skin | null + **6**  | 150 |  **10** x [Лесной эльф](/ru/units/Wood Elf) |
   | 10 | Rampart - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
   | 11 | Rampart - Blaster | null + **5**  | 150 |  **10** x [Лесной эльф](/ru/units/Wood Elf) |
   | 12 | Rampart - Storm Assaulter | АТК + **0.9** % | 70 |   |
@@ -62,7 +62,7 @@ classes: wide
   | 10 | Rampart - Shield Practice | null + **0.4** % | 160 |  **10** x [Единорог](/ru/units/Unicorn) |
   | 11 | Rampart - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Rampart - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Rampart - Rocklike Skin | Выносливость + **7**  | 160 |  **10** x [Гном](/ru/units/Dwarf) |
+  | 13 | Rampart - Rocklike Skin | null + **7**  | 160 |  **10** x [Гном](/ru/units/Dwarf) |
   | 14 | Rampart - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Rampart - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 16 | Rampart - Blaster | null + **5**  | 160 |  **10** x [Лесной эльф](/ru/units/Wood Elf) |

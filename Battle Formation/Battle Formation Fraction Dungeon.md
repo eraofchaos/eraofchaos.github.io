@@ -2,7 +2,7 @@
 title: "Battle Formation Dungeon"
 permalink: /Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Battle Formation Dungeon"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: en
 ref: "BattleFormationFractionDungeon"
 toc: false

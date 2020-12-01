@@ -2,7 +2,7 @@
 title: "Kampfformation Turm"
 permalink: /de/Battle Formation/Battle Formation Fraction Tower
 excerpt: "Kampfformation Turm"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: de
 ref: "BattleFormationFractionTower"
 toc: false

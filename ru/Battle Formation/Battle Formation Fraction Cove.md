@@ -2,7 +2,7 @@
 title: "Боевое построение Cove"
 permalink: /ru/Battle Formation/Battle Formation Fraction Cove
 excerpt: "Боевое построение Cove"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: ru
 ref: "BattleFormationFractionCove"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
   | 6 | Cove - Ingeniousness | ОЗ + **0.9** % | 70 |   |
   | 7 | Cove - Physical Trials | null + **0.3** % | 150 |  **20** x [Регнанский пират](/ru/units/Regnan Pirates) |
   | 8 | Cove - Shield Practice | ОЗ + **0.9** % | 70 |   |
-  | 9 | Cove - Physical Trials | Выносливость + **6**  | 150 |  **20** x [Регнанский пират](/ru/units/Regnan Pirates) |
+  | 9 | Cove - Physical Trials | null + **6**  | 150 |  **20** x [Регнанский пират](/ru/units/Regnan Pirates) |
   | 10 | Cove - Rocklike Skin | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
   | 11 | Cove - Storm Assaulter | null + **5**  | 150 |  **20** x [Регнанский пират](/ru/units/Regnan Pirates) |
   | 12 | Cove - Blaster | АТК + **0.9** % | 70 |   |
@@ -65,7 +65,7 @@ classes: wide
   | 10 | Cove - Physical Trials | null + **0.4** % | 160 |  **20** x [Регнанский пират](/ru/units/Regnan Pirates) |
   | 11 | Cove - Shield Practice | ОЗ + **1** % | 80 |   |
   | 12 | Cove - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Cove - Physical Trials | Выносливость + **7**  | 160 |  **20** x [Sea Elemental](/ru/units/Sea Elemental) |
+  | 13 | Cove - Physical Trials | null + **7**  | 160 |  **20** x [Sea Elemental](/ru/units/Sea Elemental) |
   | 14 | Cove - Rocklike Skin | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Cove - Physical Trials | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 16 | Cove - Storm Assaulter | null + **5**  | 160 |  **20** x [Регнанский пират](/ru/units/Regnan Pirates) |

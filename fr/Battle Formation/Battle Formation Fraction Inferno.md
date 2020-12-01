@@ -2,7 +2,7 @@
 title: "Formation de combat Hadès"
 permalink: /fr/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Formation de combat Hadès"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: fr
 ref: "BattleFormationFractionInferno"
 toc: false

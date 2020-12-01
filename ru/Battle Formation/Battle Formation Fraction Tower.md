@@ -2,7 +2,7 @@
 title: "Боевое построение Tower"
 permalink: /ru/Battle Formation/Battle Formation Fraction Tower
 excerpt: "Боевое построение Tower"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: ru
 ref: "BattleFormationFractionTower"
 toc: false
@@ -39,7 +39,7 @@ classes: wide
   | 6 | Tower - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 7 | Tower - Shield Practice | null + **0.3** % | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
   | 8 | Tower - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Tower - Rocklike Skin | Выносливость + **6**  | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 9 | Tower - Rocklike Skin | null + **6**  | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
   | 10 | Tower - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
   | 11 | Tower - Blaster | null + **5**  | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
   | 12 | Tower - Storm Assaulter | АТК + **0.9** % | 70 |   |
@@ -62,7 +62,7 @@ classes: wide
   | 10 | Tower - Shield Practice | null + **0.4** % | 160 |  **20** x [Железный голем](/ru/units/Iron Golem) |
   | 11 | Tower - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Tower - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Tower - Rocklike Skin | Выносливость + **7**  | 160 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
+  | 13 | Tower - Rocklike Skin | null + **7**  | 160 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
   | 14 | Tower - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Tower - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 16 | Tower - Blaster | null + **5**  | 160 |  **20** x [Gremlin](/ru/units/Gremlin) |

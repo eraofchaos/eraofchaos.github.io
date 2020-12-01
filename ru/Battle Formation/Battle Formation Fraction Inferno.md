@@ -2,7 +2,7 @@
 title: "Боевое построение Inferno"
 permalink: /ru/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Боевое построение Inferno"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: ru
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **null** |
+  | **2** | **Сражаясь с горящими вражескими отрядами, отряды Инферно получают +5% к сопротивлению урону** |
   | **3** | **Увеличивает ОЗ всех отрядов Инферно на 8%** |
   | **4** | **Усиливает ЗЩТ всех отрядов Инферно на 8%** |
   | **5** | **Отряды Инферно получают +30 к уклонению за каждый отряд Инферно на поле** |
@@ -31,15 +31,15 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Inferno - Damage Amplification | null + **0.3** % | 150 |  **20** x [Бес](/ru/units/Imp) |
+  | 1 | Inferno - Damage Amplification | null + **0.3** % | 150 |  **20** x [Imp](/ru/units/Imp) |
   | 2 | Inferno - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Inferno - A Strike Hit | null + **6**  | 150 |  **20** x [Бес](/ru/units/Imp) |
+  | 3 | Inferno - A Strike Hit | null + **6**  | 150 |  **20** x [Imp](/ru/units/Imp) |
   | 4 | Inferno - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Inferno - Ingeniousness | null + **6**  | 150 |  **20** x [Бес](/ru/units/Imp) |
+  | 5 | Inferno - Ingeniousness | null + **6**  | 150 |  **20** x [Imp](/ru/units/Imp) |
   | 6 | Inferno - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 7 | Inferno - Shield Practice | null + **0.3** % | 150 |  **20** x [Gog](/ru/units/Gog) |
   | 8 | Inferno - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Inferno - Rocklike Skin | Выносливость + **6**  | 150 |  **20** x [Gog](/ru/units/Gog) |
+  | 9 | Inferno - Rocklike Skin | null + **6**  | 150 |  **20** x [Gog](/ru/units/Gog) |
   | 10 | Inferno - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
   | 11 | Inferno - Blaster | null + **5**  | 150 |  **20** x [Gog](/ru/units/Gog) |
   | 12 | Inferno - Storm Assaulter | АТК + **0.9** % | 70 |   |
@@ -50,10 +50,10 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Inferno - Damage Amplification | null + **0.4** % | 160 |  **20** x [Бес](/ru/units/Imp) |
+  | 1 | Inferno - Damage Amplification | null + **0.4** % | 160 |  **20** x [Imp](/ru/units/Imp) |
   | 2 | Inferno - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Inferno - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 4 | Inferno - A Strike Hit | null + **6**  | 160 |  **20** x [Бес](/ru/units/Imp) |
+  | 4 | Inferno - A Strike Hit | null + **6**  | 160 |  **20** x [Imp](/ru/units/Imp) |
   | 5 | Inferno - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 6 | Inferno - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 7 | Inferno - Ingeniousness | null + **6**  | 160 |  **20** x [Демон](/ru/units/Demon) |
@@ -62,7 +62,7 @@ classes: wide
   | 10 | Inferno - Shield Practice | null + **0.4** % | 160 |  **20** x [Гончая ада](/ru/units/Hell Hound) |
   | 11 | Inferno - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Inferno - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Inferno - Rocklike Skin | Выносливость + **7**  | 160 |  **20** x [Gog](/ru/units/Gog) |
+  | 13 | Inferno - Rocklike Skin | null + **7**  | 160 |  **20** x [Gog](/ru/units/Gog) |
   | 14 | Inferno - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Inferno - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 16 | Inferno - Blaster | null + **5**  | 160 |  **20** x [Gog](/ru/units/Gog) |

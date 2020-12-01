@@ -2,7 +2,7 @@
 title: "Боевое построение Замок"
 permalink: /ru/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Боевое построение Замок"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: ru
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -39,7 +39,7 @@ classes: wide
   | 6 | Castle - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 7 | Castle - Shield Practice | null + **0.3** % | 150 |  **10** x [Лучник](/ru/units/Marksman) |
   | 8 | Castle - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Castle - Rocklike Skin | Выносливость + **6**  | 150 |  **10** x [Лучник](/ru/units/Marksman) |
+  | 9 | Castle - Rocklike Skin | null + **6**  | 150 |  **10** x [Лучник](/ru/units/Marksman) |
   | 10 | Castle - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
   | 11 | Castle - Blaster | null + **5**  | 150 |  **10** x [Лучник](/ru/units/Marksman) |
   | 12 | Castle - Storm Assaulter | АТК + **0.9** % | 70 |   |
@@ -62,7 +62,7 @@ classes: wide
   | 10 | Castle - Shield Practice | null + **0.4** % | 160 |  **10** x [Swordsman](/ru/units/Swordsman) |
   | 11 | Castle - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Castle - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Castle - Rocklike Skin | Выносливость + **7**  | 160 |  **10** x [Монах](/ru/units/Monk) |
+  | 13 | Castle - Rocklike Skin | null + **7**  | 160 |  **10** x [Монах](/ru/units/Monk) |
   | 14 | Castle - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Castle - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 16 | Castle - Blaster | null + **5**  | 160 |  **10** x [Лучник](/ru/units/Marksman) |

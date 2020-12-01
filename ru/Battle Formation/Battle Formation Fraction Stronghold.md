@@ -2,7 +2,7 @@
 title: "Боевое построение Цитадель"
 permalink: /ru/Battle Formation/Battle Formation Fraction Stronghold
 excerpt: "Боевое построение Цитадель"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: ru
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | Level |         Effect        |
   |:------|:---------------------|
   | **2** | **null** |
-  | **3** | **null** |
+  | **3** | **Увеличивает ОЗ всех отрядов Цитадели на 8%** |
   | **4** | **Усиливает ЗЩТ всех отрядов Цитадели на 8%** |
   | **5** | **Отряды Цитадели получают +5% к высасыванию жизни, если их ОЗ ниже 50%** |
   | **6** | **Усиливает АТК всех отрядов Цитадели на 10%** |
@@ -39,7 +39,7 @@ classes: wide
   | 6 | Stronghold - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 7 | Stronghold - Shield Practice | null + **0.3** % | 150 |  **20** x [Orc](/ru/units/Orc) |
   | 8 | Stronghold - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Stronghold - Rocklike Skin | Выносливость + **6**  | 150 |  **20** x [Orc](/ru/units/Orc) |
+  | 9 | Stronghold - Rocklike Skin | null + **6**  | 150 |  **20** x [Orc](/ru/units/Orc) |
   | 10 | Stronghold - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
   | 11 | Stronghold - Blaster | null + **5**  | 150 |  **20** x [Orc](/ru/units/Orc) |
   | 12 | Stronghold - Storm Assaulter | АТК + **0.9** % | 70 |   |
@@ -62,7 +62,7 @@ classes: wide
   | 10 | Stronghold - Shield Practice | null + **0.4** % | 160 |  **20** x [Наездник на волке](/ru/units/Wolf Rider) |
   | 11 | Stronghold - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Stronghold - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Stronghold - Rocklike Skin | Выносливость + **7**  | 160 |  **20** x [Orc](/ru/units/Orc) |
+  | 13 | Stronghold - Rocklike Skin | null + **7**  | 160 |  **20** x [Orc](/ru/units/Orc) |
   | 14 | Stronghold - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Stronghold - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 16 | Stronghold - Blaster | null + **5**  | 160 |  **20** x [Orc](/ru/units/Orc) |

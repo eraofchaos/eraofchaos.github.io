@@ -2,7 +2,7 @@
 title: "Боевое построение Dungeon"
 permalink: /ru/Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Боевое построение Dungeon"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: ru
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Dungeon - Damage Amplification | null + **0.3** % | 150 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 1 | Dungeon - Damage Amplification | null + **0.3** % | 150 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 2 | Dungeon - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Dungeon - A Strike Hit | null + **6**  | 150 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 3 | Dungeon - A Strike Hit | null + **6**  | 150 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 4 | Dungeon - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Dungeon - Ingeniousness | null + **6**  | 150 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 5 | Dungeon - Ingeniousness | null + **6**  | 150 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 6 | Dungeon - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 7 | Dungeon - Shield Practice | null + **0.3** % | 150 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 7 | Dungeon - Shield Practice | null + **0.3** % | 150 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 8 | Dungeon - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Dungeon - Rocklike Skin | Выносливость + **6**  | 150 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 9 | Dungeon - Rocklike Skin | null + **6**  | 150 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 10 | Dungeon - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 11 | Dungeon - Blaster | null + **5**  | 150 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 11 | Dungeon - Blaster | null + **5**  | 150 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 12 | Dungeon - Storm Assaulter | АТК + **0.9** % | 70 |   |
   
 
@@ -50,7 +50,7 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Dungeon - Damage Amplification | null + **0.4** % | 160 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 1 | Dungeon - Damage Amplification | null + **0.4** % | 160 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 2 | Dungeon - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 4 | Dungeon - A Strike Hit | null + **6**  | 160 |  **20** x [Минотавр](/ru/units/Minotaur) |
@@ -62,10 +62,10 @@ classes: wide
   | 10 | Dungeon - Shield Practice | null + **0.4** % | 160 |  **20** x [Harpy](/ru/units/Harpy) |
   | 11 | Dungeon - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Dungeon - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Dungeon - Rocklike Skin | Выносливость + **7**  | 160 |  **20** x [Минотавр](/ru/units/Minotaur) |
+  | 13 | Dungeon - Rocklike Skin | null + **7**  | 160 |  **20** x [Минотавр](/ru/units/Minotaur) |
   | 14 | Dungeon - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 16 | Dungeon - Blaster | null + **5**  | 160 |  **20** x [Троглодит](/ru/units/Troglodyte) |
+  | 16 | Dungeon - Blaster | null + **5**  | 160 |  **20** x [Troglodyte](/ru/units/Troglodyte) |
   | 17 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 18 | Dungeon - Storm Assaulter | АТК + **1** % | 80 |   |
   
