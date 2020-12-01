@@ -1,7 +1,7 @@
 ---
 title: "Sabueso Infernal"
 permalink: /es/units/Hell Hound/
-excerpt: "Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
+excerpt: "Unidades Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
 last_modified_at: 2020-12-01
 lang: es

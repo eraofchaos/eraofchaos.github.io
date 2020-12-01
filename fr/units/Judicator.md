@@ -1,7 +1,7 @@
 ---
 title: "Adjudicatrice"
 permalink: /fr/units/Judicator/
-excerpt: "Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
+excerpt: "Unités Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
 last_modified_at: 2020-12-01
 lang: fr

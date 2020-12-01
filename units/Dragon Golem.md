@@ -1,7 +1,7 @@
 ---
 title: "Dragon Golem"
 permalink: /units/Dragon Golem/
-excerpt: "The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
+excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
 last_modified_at: 2020-12-01
 lang: en

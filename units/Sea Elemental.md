@@ -1,7 +1,7 @@
 ---
 title: "Sea Elemental"
 permalink: /units/Sea Elemental/
-excerpt: "Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
+excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
 last_modified_at: 2020-12-01
 lang: en

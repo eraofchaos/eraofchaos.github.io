@@ -1,7 +1,7 @@
 ---
 title: "Gigante"
 permalink: /es/units/Giant/
-excerpt: "Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
+excerpt: "Unidades Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
 unitID: 607
 last_modified_at: 2020-12-01
 lang: es

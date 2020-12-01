@@ -1,7 +1,7 @@
 ---
 title: "Waspwort"
 permalink: /units/Waspwort/
-excerpt: "A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
+excerpt: "Units A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
 last_modified_at: 2020-12-01
 lang: en

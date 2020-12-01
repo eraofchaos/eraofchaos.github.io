@@ -1,7 +1,7 @@
 ---
 title: "Revyaratan"
 permalink: /de/units/Revyaratan/
-excerpt: "Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
+excerpt: "Einheiten Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
 last_modified_at: 2020-12-01
 lang: de

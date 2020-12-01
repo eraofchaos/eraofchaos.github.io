@@ -1,7 +1,7 @@
 ---
 title: "Zyklop"
 permalink: /de/units/Cyclops/
-excerpt: "Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
+excerpt: "Einheiten Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
 last_modified_at: 2020-12-01
 lang: de

@@ -1,7 +1,7 @@
 ---
 title: "Lancier"
 permalink: /fr/units/Pikeman/
-excerpt: "Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
+excerpt: "Unités Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
 last_modified_at: 2020-12-01
 lang: fr

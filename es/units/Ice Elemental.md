@@ -1,7 +1,7 @@
 ---
 title: "Elemental de Hielo"
 permalink: /es/units/Ice Elemental/
-excerpt: "Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
+excerpt: "Unidades Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
 last_modified_at: 2020-12-01
 lang: es

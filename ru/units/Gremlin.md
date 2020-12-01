@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_601"
 permalink: /ru/units/Gremlin/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 601
 last_modified_at: 2020-12-01
 lang: ru

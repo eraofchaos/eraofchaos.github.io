@@ -1,7 +1,7 @@
 ---
 title: "Paladín"
 permalink: /es/units/Paladin/
-excerpt: "El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
+excerpt: "Unidades El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
 last_modified_at: 2020-12-01
 lang: es

@@ -1,7 +1,7 @@
 ---
 title: "Goblin"
 permalink: /de/units/Goblin/
-excerpt: "Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
+excerpt: "Einheiten Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
 last_modified_at: 2020-12-01
 lang: de

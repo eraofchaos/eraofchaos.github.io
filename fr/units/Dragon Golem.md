@@ -1,7 +1,7 @@
 ---
 title: "Golem dragon"
 permalink: /fr/units/Dragon Golem/
-excerpt: "L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
+excerpt: "Unités L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
 last_modified_at: 2020-12-01
 lang: fr

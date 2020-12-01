@@ -1,7 +1,7 @@
 ---
 title: "Berserker"
 permalink: /it/units/Berserker/
-excerpt: "I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
+excerpt: "Unità I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
 unitID: 408
 last_modified_at: 2020-12-01
 lang: it

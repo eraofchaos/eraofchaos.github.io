@@ -1,7 +1,7 @@
 ---
 title: "Basilisco"
 permalink: /it/units/Basilisk/
-excerpt: "Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
+excerpt: "Unità Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
 last_modified_at: 2020-12-01
 lang: it

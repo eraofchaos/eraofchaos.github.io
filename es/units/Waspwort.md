@@ -1,7 +1,7 @@
 ---
 title: "Hierbavispa"
 permalink: /es/units/Waspwort/
-excerpt: "Una extraña planta que crece en las ciénagas tóxicas. El fuerte zumbido que emite es una pesadilla para cualquier criatura."
+excerpt: "Unidades Una extraña planta que crece en las ciénagas tóxicas. El fuerte zumbido que emite es una pesadilla para cualquier criatura."
 unitID: 808
 last_modified_at: 2020-12-01
 lang: es

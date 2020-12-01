@@ -1,7 +1,7 @@
 ---
 title: "Asesino"
 permalink: /es/units/Assassin/
-excerpt: "Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
+excerpt: "Unidades Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
 last_modified_at: 2020-12-01
 lang: es

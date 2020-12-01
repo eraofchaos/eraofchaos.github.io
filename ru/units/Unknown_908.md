@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_908"
 permalink: /ru/units/Unknown_908/
-excerpt: ""
+excerpt: "Отряды "
 unitID: 908
 last_modified_at: 2020-12-01
 lang: ru

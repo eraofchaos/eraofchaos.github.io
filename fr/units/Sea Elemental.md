@@ -1,7 +1,7 @@
 ---
 title: "Élémentaire de mer"
 permalink: /fr/units/Sea Elemental/
-excerpt: "Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
+excerpt: "Unités Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
 last_modified_at: 2020-12-01
 lang: fr

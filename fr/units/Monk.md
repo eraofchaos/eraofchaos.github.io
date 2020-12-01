@@ -1,7 +1,7 @@
 ---
 title: "Moine"
 permalink: /fr/units/Monk/
-excerpt: "Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
+excerpt: "Unités Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
 last_modified_at: 2020-12-01
 lang: fr

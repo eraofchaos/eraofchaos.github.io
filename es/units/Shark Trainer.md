@@ -1,7 +1,7 @@
 ---
 title: "Domador de Tiburones"
 permalink: /es/units/Shark Trainer/
-excerpt: "Domador de Tiburones"
+excerpt: "Unidades Domador de Tiburones"
 unitID: 9909
 last_modified_at: 2020-12-01
 lang: es

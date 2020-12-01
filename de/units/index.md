@@ -1,7 +1,7 @@
 ---
-title: "Era of Chaos - List of Units"
+title: "Era of Chaos - List of Einheiten"
 permalink: /de/units/
-excerpt: "List of ALL Units in Era of Chaos"
+excerpt: "List of ALL Einheiten in Era of Chaos"
 last_modified_at: 2020-12-01
 lang: de
 ref: "index.md"

@@ -1,7 +1,7 @@
 ---
 title: "Elfa del Bosque"
 permalink: /es/units/Wood Elf/
-excerpt: "Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos."
+excerpt: "Unidades Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos."
 unitID: 203
 last_modified_at: 2020-12-01
 lang: es

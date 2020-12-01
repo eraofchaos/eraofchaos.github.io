@@ -1,7 +1,7 @@
 ---
 title: "Serpent de Regna"
 permalink: /fr/units/Regnan Serpent/
-excerpt: "Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
+excerpt: "Unités Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
 last_modified_at: 2020-12-01
 lang: fr

@@ -1,7 +1,7 @@
 ---
 title: "Élémentaire de feu"
 permalink: /fr/units/Fire Elemental/
-excerpt: "Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
+excerpt: "Unités Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
 last_modified_at: 2020-12-01
 lang: fr

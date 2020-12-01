@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_604"
 permalink: /ru/units/Arch Mage/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 604
 last_modified_at: 2020-12-01
 lang: ru

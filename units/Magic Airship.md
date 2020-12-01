@@ -1,7 +1,7 @@
 ---
 title: "Magic Airship"
 permalink: /units/Magic Airship/
-excerpt: "The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
+excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
 last_modified_at: 2020-12-01
 lang: en

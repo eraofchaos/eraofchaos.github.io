@@ -1,7 +1,7 @@
 ---
 title: "Dunkler Kämpe"
 permalink: /de/units/Dark Champion/
-excerpt: "Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
+excerpt: "Einheiten Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
 unitID: 309
 last_modified_at: 2020-12-01
 lang: de

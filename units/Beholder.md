@@ -1,7 +1,7 @@
 ---
 title: "Beholder"
 permalink: /units/Beholder/
-excerpt: "These multi-eyed monsters are clever. For them, all the creatures are servants."
+excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
 last_modified_at: 2020-12-01
 lang: en

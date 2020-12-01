@@ -1,7 +1,7 @@
 ---
 title: "Sturmelementar"
 permalink: /de/units/Storm Elemental/
-excerpt: "Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
+excerpt: "Einheiten Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
 last_modified_at: 2020-12-01
 lang: de

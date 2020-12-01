@@ -1,7 +1,7 @@
 ---
 title: "Harpyie"
 permalink: /de/units/Harpy/
-excerpt: "Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
+excerpt: "Einheiten Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
 last_modified_at: 2020-12-01
 lang: de

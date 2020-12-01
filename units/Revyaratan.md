@@ -1,7 +1,7 @@
 ---
 title: "Revyaratan"
 permalink: /units/Revyaratan/
-excerpt: "A monster swims in the deep sea. Its huge mouth seems to devour everything."
+excerpt: "Units A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
 last_modified_at: 2020-12-01
 lang: en

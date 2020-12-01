@@ -1,7 +1,7 @@
 ---
 title: "Echsenmensch"
 permalink: /de/units/Lizardman/
-excerpt: "Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
+excerpt: "Einheiten Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
 last_modified_at: 2020-12-01
 lang: de

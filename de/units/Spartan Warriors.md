@@ -1,7 +1,7 @@
 ---
 title: "Spartaner"
 permalink: /de/units/Spartan Warriors/
-excerpt: "Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
+excerpt: "Einheiten Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
 last_modified_at: 2020-12-01
 lang: de

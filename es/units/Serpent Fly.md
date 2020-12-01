@@ -1,7 +1,7 @@
 ---
 title: "Libélula Menor"
 permalink: /es/units/Serpent Fly/
-excerpt: "Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
+excerpt: "Unidades Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
 last_modified_at: 2020-12-01
 lang: es

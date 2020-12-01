@@ -1,7 +1,7 @@
 ---
 title: "Lich"
 permalink: /it/units/Lich/
-excerpt: "I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
+excerpt: "Unità I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
 unitID: 305
 last_modified_at: 2020-12-01
 lang: it

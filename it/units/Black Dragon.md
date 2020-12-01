@@ -1,7 +1,7 @@
 ---
 title: "Drago nero"
 permalink: /it/units/Black Dragon/
-excerpt: "Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
+excerpt: "Unità Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
 last_modified_at: 2020-12-01
 lang: it

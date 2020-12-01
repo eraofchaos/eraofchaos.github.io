@@ -1,7 +1,7 @@
 ---
 title: "Monk"
 permalink: /units/Monk/
-excerpt: "Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
+excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
 last_modified_at: 2020-12-01
 lang: en

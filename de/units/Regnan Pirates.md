@@ -1,7 +1,7 @@
 ---
 title: "Regnanpirat"
 permalink: /de/units/Regnan Pirates/
-excerpt: "Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
+excerpt: "Einheiten Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
 last_modified_at: 2020-12-01
 lang: de

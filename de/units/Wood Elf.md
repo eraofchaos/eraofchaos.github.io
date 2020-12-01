@@ -1,7 +1,7 @@
 ---
 title: "Waldelfe"
 permalink: /de/units/Wood Elf/
-excerpt: "Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
+excerpt: "Einheiten Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
 unitID: 203
 last_modified_at: 2020-12-01
 lang: de

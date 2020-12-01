@@ -1,7 +1,7 @@
 ---
 title: "Hada"
 permalink: /es/units/Sprite/
-excerpt: "Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
+excerpt: "Unidades Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
 unitID: 901
 last_modified_at: 2020-12-01
 lang: es

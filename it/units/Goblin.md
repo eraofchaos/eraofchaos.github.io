@@ -1,7 +1,7 @@
 ---
 title: "Goblin"
 permalink: /it/units/Goblin/
-excerpt: "I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
+excerpt: "Unità I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
 last_modified_at: 2020-12-01
 lang: it

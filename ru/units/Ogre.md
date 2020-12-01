@@ -1,7 +1,7 @@
 ---
 title: "Огр"
 permalink: /ru/units/Ogre/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 404
 last_modified_at: 2020-12-01
 lang: ru

@@ -1,7 +1,7 @@
 ---
 title: "Assassin"
 permalink: /fr/units/Assassin/
-excerpt: "Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
+excerpt: "Unités Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
 last_modified_at: 2020-12-01
 lang: fr

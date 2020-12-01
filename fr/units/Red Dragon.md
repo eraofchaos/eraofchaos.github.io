@@ -1,7 +1,7 @@
 ---
 title: "Dragon rouge"
 permalink: /fr/units/Red Dragon/
-excerpt: "C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
+excerpt: "Unités C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
 last_modified_at: 2020-12-01
 lang: fr

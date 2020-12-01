@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_9905"
 permalink: /ru/units/Mermaid/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 9905
 last_modified_at: 2020-12-01
 lang: ru

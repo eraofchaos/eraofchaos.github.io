@@ -1,7 +1,7 @@
 ---
 title: "Elementale del ghiaccio"
 permalink: /it/units/Ice Elemental/
-excerpt: "Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
+excerpt: "Unità Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
 last_modified_at: 2020-12-01
 lang: it

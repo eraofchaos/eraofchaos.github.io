@@ -1,7 +1,7 @@
 ---
 title: "Spadassin"
 permalink: /fr/units/Swordsman/
-excerpt: "Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
+excerpt: "Unités Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
 last_modified_at: 2020-12-01
 lang: fr

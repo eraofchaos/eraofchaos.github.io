@@ -1,7 +1,7 @@
 ---
 title: "Goblin"
 permalink: /units/Goblin/
-excerpt: "Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
+excerpt: "Units Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
 last_modified_at: 2020-12-01
 lang: en

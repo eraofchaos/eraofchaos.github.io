@@ -1,7 +1,7 @@
 ---
 title: "Drachenschildkröte"
 permalink: /de/units/Dragon Turtle/
-excerpt: "Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
+excerpt: "Einheiten Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
 last_modified_at: 2020-12-01
 lang: de

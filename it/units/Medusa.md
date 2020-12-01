@@ -1,7 +1,7 @@
 ---
 title: "Medusa"
 permalink: /it/units/Medusa/
-excerpt: "Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
+excerpt: "Unità Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
 last_modified_at: 2020-12-01
 lang: it

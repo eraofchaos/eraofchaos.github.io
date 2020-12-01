@@ -1,7 +1,7 @@
 ---
 title: "Basilic"
 permalink: /fr/units/Basilisk/
-excerpt: "Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
+excerpt: "Unités Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
 last_modified_at: 2020-12-01
 lang: fr

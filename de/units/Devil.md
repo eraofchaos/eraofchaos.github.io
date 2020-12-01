@@ -1,7 +1,7 @@
 ---
 title: "Teufel"
 permalink: /de/units/Devil/
-excerpt: "Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
+excerpt: "Einheiten Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
 unitID: 507
 last_modified_at: 2020-12-01
 lang: de

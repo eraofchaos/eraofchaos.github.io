@@ -1,7 +1,7 @@
 ---
 title: "Gog"
 permalink: /fr/units/Gog/
-excerpt: "Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
+excerpt: "Unités Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
 last_modified_at: 2020-12-01
 lang: fr

@@ -1,7 +1,7 @@
 ---
 title: "Hydra"
 permalink: /de/units/Hydra/
-excerpt: "Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
+excerpt: "Einheiten Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
 last_modified_at: 2020-12-01
 lang: de

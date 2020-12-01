@@ -1,7 +1,7 @@
 ---
 title: "Archimaga"
 permalink: /es/units/Arch Mage/
-excerpt: "El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
+excerpt: "Unidades El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
 unitID: 604
 last_modified_at: 2020-12-01
 lang: es

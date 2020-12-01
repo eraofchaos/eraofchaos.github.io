@@ -1,7 +1,7 @@
 ---
 title: "Gog"
 permalink: /de/units/Gog/
-excerpt: "Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
+excerpt: "Einheiten Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
 last_modified_at: 2020-12-01
 lang: de

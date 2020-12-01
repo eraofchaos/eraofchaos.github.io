@@ -1,7 +1,7 @@
 ---
 title: "Дьявол"
 permalink: /ru/units/Devil/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 507
 last_modified_at: 2020-12-01
 lang: ru

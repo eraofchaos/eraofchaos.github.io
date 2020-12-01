@@ -1,7 +1,7 @@
 ---
 title: "Leprechaun"
 permalink: /de/units/Leprechaun/
-excerpt: ""
+excerpt: "Einheiten "
 unitID: 909
 last_modified_at: 2020-12-01
 lang: de

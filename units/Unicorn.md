@@ -1,7 +1,7 @@
 ---
 title: "Unicorn"
 permalink: /units/Unicorn/
-excerpt: "The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
+excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
 last_modified_at: 2020-12-01
 lang: en

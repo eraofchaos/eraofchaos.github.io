@@ -1,7 +1,7 @@
 ---
 title: "Domatore di lupi"
 permalink: /it/units/Wolf Rider/
-excerpt: "I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
+excerpt: "Unità I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
 last_modified_at: 2020-12-01
 lang: it

@@ -1,7 +1,7 @@
 ---
 title: "Devil"
 permalink: /units/Devil/
-excerpt: "The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
+excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
 last_modified_at: 2020-12-01
 lang: en

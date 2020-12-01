@@ -1,7 +1,7 @@
 ---
 title: "Виверна"
 permalink: /ru/units/Wyvern/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 806
 last_modified_at: 2020-12-01
 lang: ru

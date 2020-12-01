@@ -1,7 +1,7 @@
 ---
 title: "Pegaso"
 permalink: /es/units/Pegasus/
-excerpt: "Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque."
+excerpt: "Unidades Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque."
 unitID: 204
 last_modified_at: 2020-12-01
 lang: es

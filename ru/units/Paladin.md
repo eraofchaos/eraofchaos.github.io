@@ -1,7 +1,7 @@
 ---
 title: "Паладин"
 permalink: /ru/units/Paladin/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 108
 last_modified_at: 2020-12-01
 lang: ru

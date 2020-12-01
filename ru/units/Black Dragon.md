@@ -1,7 +1,7 @@
 ---
 title: "Красный дракон"
 permalink: /ru/units/Black Dragon/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 707
 last_modified_at: 2020-12-01
 lang: ru

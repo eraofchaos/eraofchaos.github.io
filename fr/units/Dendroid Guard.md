@@ -1,7 +1,7 @@
 ---
 title: "Garde sylvanien"
 permalink: /fr/units/Dendroid Guard/
-excerpt: "Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
+excerpt: "Unités Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
 last_modified_at: 2020-12-01
 lang: fr

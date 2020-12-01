@@ -1,7 +1,7 @@
 ---
 title: "Pegasus"
 permalink: /de/units/Pegasus/
-excerpt: "Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
+excerpt: "Einheiten Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
 last_modified_at: 2020-12-01
 lang: de

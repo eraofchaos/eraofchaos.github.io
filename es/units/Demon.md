@@ -1,7 +1,7 @@
 ---
 title: "Demonio"
 permalink: /es/units/Demon/
-excerpt: "Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne."
+excerpt: "Unidades Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne."
 unitID: 504
 last_modified_at: 2020-12-01
 lang: es

@@ -1,7 +1,7 @@
 ---
 title: "Aparición"
 permalink: /es/units/Wight/
-excerpt: "Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
+excerpt: "Unidades Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
 last_modified_at: 2020-12-01
 lang: es

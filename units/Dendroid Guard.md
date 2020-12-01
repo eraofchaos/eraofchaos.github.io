@@ -1,7 +1,7 @@
 ---
 title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
-excerpt: "Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
+excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
 last_modified_at: 2020-12-01
 lang: en

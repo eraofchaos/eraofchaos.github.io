@@ -1,7 +1,7 @@
 ---
 title: "Red Dragon"
 permalink: /units/Red Dragon/
-excerpt: "It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
+excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
 last_modified_at: 2020-12-01
 lang: en

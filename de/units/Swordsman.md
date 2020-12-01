@@ -1,7 +1,7 @@
 ---
 title: "Schwertkämpfer"
 permalink: /de/units/Swordsman/
-excerpt: "Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
+excerpt: "Einheiten Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
 last_modified_at: 2020-12-01
 lang: de

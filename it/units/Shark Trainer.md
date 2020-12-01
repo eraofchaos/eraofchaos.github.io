@@ -1,7 +1,7 @@
 ---
 title: "Addestratore di squali"
 permalink: /it/units/Shark Trainer/
-excerpt: "Addestratore di squali"
+excerpt: "Unità Addestratore di squali"
 unitID: 9909
 last_modified_at: 2020-12-01
 lang: it

@@ -1,7 +1,7 @@
 ---
 title: "Farfadet"
 permalink: /fr/units/Leprechaun/
-excerpt: ""
+excerpt: "Unités "
 unitID: 909
 last_modified_at: 2020-12-01
 lang: fr

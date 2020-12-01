@@ -1,7 +1,7 @@
 ---
 title: "Zwerg"
 permalink: /de/units/Dwarf/
-excerpt: "Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
+excerpt: "Einheiten Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
 last_modified_at: 2020-12-01
 lang: de

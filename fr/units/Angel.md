@@ -1,7 +1,7 @@
 ---
 title: "Ange"
 permalink: /fr/units/Angel/
-excerpt: "Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
+excerpt: "Unités Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
 last_modified_at: 2020-12-01
 lang: fr

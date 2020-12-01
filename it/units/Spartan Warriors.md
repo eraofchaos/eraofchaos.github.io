@@ -1,7 +1,7 @@
 ---
 title: "Guerrieri spartani"
 permalink: /it/units/Spartan Warriors/
-excerpt: "Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
+excerpt: "Unità Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
 last_modified_at: 2020-12-01
 lang: it

@@ -1,7 +1,7 @@
 ---
 title: "Гигант"
 permalink: /ru/units/Giant/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 607
 last_modified_at: 2020-12-01
 lang: ru

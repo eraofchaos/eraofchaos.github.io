@@ -1,7 +1,7 @@
 ---
 title: "Rapace di fuoco"
 permalink: /it/units/Firebird/
-excerpt: "Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
+excerpt: "Unità Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
 last_modified_at: 2020-12-01
 lang: it

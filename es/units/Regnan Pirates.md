@@ -1,7 +1,7 @@
 ---
 title: "Piratas Regnan"
 permalink: /es/units/Regnan Pirates/
-excerpt: "Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
+excerpt: "Unidades Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
 last_modified_at: 2020-12-01
 lang: es

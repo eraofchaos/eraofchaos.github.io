@@ -1,7 +1,7 @@
 ---
 title: "Berserker"
 permalink: /es/units/Berserker/
-excerpt: "Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
+excerpt: "Unidades Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
 unitID: 408
 last_modified_at: 2020-12-01
 lang: es

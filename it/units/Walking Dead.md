@@ -1,7 +1,7 @@
 ---
 title: "Morto vivente"
 permalink: /it/units/Walking Dead/
-excerpt: "Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
+excerpt: "Unità Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
 last_modified_at: 2020-12-01
 lang: it

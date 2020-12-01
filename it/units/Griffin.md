@@ -1,7 +1,7 @@
 ---
 title: "Grifone"
 permalink: /it/units/Griffin/
-excerpt: "I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
+excerpt: "Unità I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
 last_modified_at: 2020-12-01
 lang: it

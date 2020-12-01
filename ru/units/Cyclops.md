@@ -1,7 +1,7 @@
 ---
 title: "Циклоп"
 permalink: /ru/units/Cyclops/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 406
 last_modified_at: 2020-12-01
 lang: ru

@@ -1,7 +1,7 @@
 ---
 title: "Грифон"
 permalink: /ru/units/Griffin/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 103
 last_modified_at: 2020-12-01
 lang: ru

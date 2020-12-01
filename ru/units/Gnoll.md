@@ -1,7 +1,7 @@
 ---
 title: "Гнолл"
 permalink: /ru/units/Gnoll/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 801
 last_modified_at: 2020-12-01
 lang: ru

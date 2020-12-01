@@ -1,7 +1,7 @@
 ---
 title: "Kavallerist"
 permalink: /de/units/Cavalier /
-excerpt: "Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
+excerpt: "Einheiten Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
 last_modified_at: 2020-12-01
 lang: de

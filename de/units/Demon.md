@@ -1,7 +1,7 @@
 ---
 title: "Dämon"
 permalink: /de/units/Demon/
-excerpt: "Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
+excerpt: "Einheiten Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
 unitID: 504
 last_modified_at: 2020-12-01
 lang: de

@@ -1,7 +1,7 @@
 ---
 title: "Pégase"
 permalink: /fr/units/Pegasus/
-excerpt: "Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
+excerpt: "Unités Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
 last_modified_at: 2020-12-01
 lang: fr

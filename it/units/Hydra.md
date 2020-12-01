@@ -1,7 +1,7 @@
 ---
 title: "Idra"
 permalink: /it/units/Hydra/
-excerpt: "Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
+excerpt: "Unità Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
 last_modified_at: 2020-12-01
 lang: it

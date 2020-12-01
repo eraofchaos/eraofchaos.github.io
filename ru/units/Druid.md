@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_208"
 permalink: /ru/units/Druid/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 208
 last_modified_at: 2020-12-01
 lang: ru

@@ -1,7 +1,7 @@
 ---
 title: "Elemental Psíquico"
 permalink: /es/units/Psychic Elemental/
-excerpt: "Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
+excerpt: "Unidades Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
 last_modified_at: 2020-12-01
 lang: es

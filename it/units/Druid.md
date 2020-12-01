@@ -1,7 +1,7 @@
 ---
 title: "Druido"
 permalink: /it/units/Druid/
-excerpt: "Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
+excerpt: "Unità Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
 last_modified_at: 2020-12-01
 lang: it

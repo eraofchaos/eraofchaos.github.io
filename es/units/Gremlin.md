@@ -1,7 +1,7 @@
 ---
 title: "Gremlin"
 permalink: /es/units/Gremlin/
-excerpt: "Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
+excerpt: "Unidades Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
 last_modified_at: 2020-12-01
 lang: es

@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_709"
 permalink: /ru/units/Unknown_709/
-excerpt: ""
+excerpt: "Отряды "
 unitID: 709
 last_modified_at: 2020-12-01
 lang: ru

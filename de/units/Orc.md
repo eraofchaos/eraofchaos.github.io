@@ -1,7 +1,7 @@
 ---
 title: "Ork"
 permalink: /de/units/Orc/
-excerpt: "Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
+excerpt: "Einheiten Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
 last_modified_at: 2020-12-01
 lang: de

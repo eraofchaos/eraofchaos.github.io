@@ -1,7 +1,7 @@
 ---
 title: "Arpia"
 permalink: /it/units/Harpy/
-excerpt: "Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
+excerpt: "Unità Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
 last_modified_at: 2020-12-01
 lang: it

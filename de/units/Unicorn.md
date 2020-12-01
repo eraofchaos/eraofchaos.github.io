@@ -1,7 +1,7 @@
 ---
 title: "Einhorn"
 permalink: /de/units/Unicorn/
-excerpt: "Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
+excerpt: "Einheiten Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
 last_modified_at: 2020-12-01
 lang: de

@@ -1,7 +1,7 @@
 ---
 title: "Caballero Negro"
 permalink: /es/units/Black Knight/
-excerpt: "Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
+excerpt: "Unidades Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
 last_modified_at: 2020-12-01
 lang: es

@@ -1,7 +1,7 @@
 ---
 title: "Medusa"
 permalink: /units/Medusa/
-excerpt: "Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
+excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
 last_modified_at: 2020-12-01
 lang: en

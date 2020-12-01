@@ -1,7 +1,7 @@
 ---
 title: "Campione oscuro"
 permalink: /it/units/Dark Champion/
-excerpt: "Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
+excerpt: "Unità Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
 unitID: 309
 last_modified_at: 2020-12-01
 lang: it

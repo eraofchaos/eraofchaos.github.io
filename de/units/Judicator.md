@@ -1,7 +1,7 @@
 ---
 title: "Richterin"
 permalink: /de/units/Judicator/
-excerpt: "Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
+excerpt: "Einheiten Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
 last_modified_at: 2020-12-01
 lang: de

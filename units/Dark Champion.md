@@ -1,7 +1,7 @@
 ---
 title: "Dark Champion"
 permalink: /units/Dark Champion/
-excerpt: "He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
+excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
 last_modified_at: 2020-12-01
 lang: en

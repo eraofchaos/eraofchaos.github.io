@@ -1,7 +1,7 @@
 ---
 title: "Uomo lucertola"
 permalink: /it/units/Lizardman/
-excerpt: "Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
+excerpt: "Unità Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
 unitID: 802
 last_modified_at: 2020-12-01
 lang: it

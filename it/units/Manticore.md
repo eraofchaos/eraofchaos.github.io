@@ -1,7 +1,7 @@
 ---
 title: "Manticora"
 permalink: /it/units/Manticore/
-excerpt: "Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
+excerpt: "Unità Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
 last_modified_at: 2020-12-01
 lang: it

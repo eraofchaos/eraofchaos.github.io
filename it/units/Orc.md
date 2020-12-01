@@ -1,7 +1,7 @@
 ---
 title: "Orco"
 permalink: /it/units/Orc/
-excerpt: "Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
+excerpt: "Unità Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
 unitID: 403
 last_modified_at: 2020-12-01
 lang: it

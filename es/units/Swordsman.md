@@ -1,7 +1,7 @@
 ---
 title: "Espadachín"
 permalink: /es/units/Swordsman/
-excerpt: "Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
+excerpt: "Unidades Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
 last_modified_at: 2020-12-01
 lang: es

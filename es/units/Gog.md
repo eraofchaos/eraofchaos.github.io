@@ -1,7 +1,7 @@
 ---
 title: "Gog"
 permalink: /es/units/Gog/
-excerpt: "Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
+excerpt: "Unidades Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
 last_modified_at: 2020-12-01
 lang: es

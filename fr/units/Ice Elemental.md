@@ -1,7 +1,7 @@
 ---
 title: "Élémentaire de glace"
 permalink: /fr/units/Ice Elemental/
-excerpt: "Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
+excerpt: "Unités Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
 last_modified_at: 2020-12-01
 lang: fr

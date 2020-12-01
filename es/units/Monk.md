@@ -1,7 +1,7 @@
 ---
 title: "Monje"
 permalink: /es/units/Monk/
-excerpt: "Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
+excerpt: "Unidades Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
 last_modified_at: 2020-12-01
 lang: es

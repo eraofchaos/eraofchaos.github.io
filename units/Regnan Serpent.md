@@ -1,7 +1,7 @@
 ---
 title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
-excerpt: "The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
+excerpt: "Units The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
 last_modified_at: 2020-12-01
 lang: en

@@ -1,7 +1,7 @@
 ---
 title: "Призрак"
 permalink: /ru/units/Wight/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 303
 last_modified_at: 2020-12-01
 lang: ru

@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_407"
 permalink: /ru/units/Behemoth/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 407
 last_modified_at: 2020-12-01
 lang: ru

@@ -1,7 +1,7 @@
 ---
 title: "Cyclope"
 permalink: /fr/units/Cyclops/
-excerpt: "Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
+excerpt: "Unités Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
 last_modified_at: 2020-12-01
 lang: fr

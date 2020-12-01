@@ -1,7 +1,7 @@
 ---
 title: "Guêpe serpent"
 permalink: /fr/units/Serpent Fly/
-excerpt: "Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
+excerpt: "Unités Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
 last_modified_at: 2020-12-01
 lang: fr

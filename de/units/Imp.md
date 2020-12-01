@@ -1,7 +1,7 @@
 ---
 title: "Imp"
 permalink: /de/units/Imp/
-excerpt: "Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
+excerpt: "Einheiten Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
 last_modified_at: 2020-12-01
 lang: de

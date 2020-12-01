@@ -1,7 +1,7 @@
 ---
 title: "Hai-Ausbilder"
 permalink: /de/units/Shark Trainer/
-excerpt: "Hai-Ausbilder"
+excerpt: "Einheiten Hai-Ausbilder"
 unitID: 9909
 last_modified_at: 2020-12-01
 lang: de

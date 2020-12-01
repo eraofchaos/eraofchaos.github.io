@@ -1,7 +1,7 @@
 ---
 title: "Élémentaire de tempête"
 permalink: /fr/units/Storm Elemental/
-excerpt: "Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
+excerpt: "Unités Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
 last_modified_at: 2020-12-01
 lang: fr

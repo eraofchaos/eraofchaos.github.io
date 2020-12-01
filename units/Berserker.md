@@ -1,7 +1,7 @@
 ---
 title: "Berserker"
 permalink: /units/Berserker/
-excerpt: "Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
+excerpt: "Units Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
 last_modified_at: 2020-12-01
 lang: en

@@ -1,7 +1,7 @@
 ---
 title: "Gremlin"
 permalink: /units/Gremlin/
-excerpt: "Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
+excerpt: "Units Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
 last_modified_at: 2020-12-01
 lang: en

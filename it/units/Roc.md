@@ -1,7 +1,7 @@
 ---
 title: "Roc"
 permalink: /it/units/Roc/
-excerpt: "I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
+excerpt: "Unità I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
 unitID: 405
 last_modified_at: 2020-12-01
 lang: it

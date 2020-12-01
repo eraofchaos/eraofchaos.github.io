@@ -1,7 +1,7 @@
 ---
 title: "Catafratto"
 permalink: /it/units/Cavalier /
-excerpt: "I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
+excerpt: "Unità I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
 last_modified_at: 2020-12-01
 lang: it

@@ -1,7 +1,7 @@
 ---
 title: "Naga"
 permalink: /units/Naga/
-excerpt: "These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
+excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
 last_modified_at: 2020-12-01
 lang: en

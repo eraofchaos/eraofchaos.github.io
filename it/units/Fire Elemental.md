@@ -1,7 +1,7 @@
 ---
 title: "Elementale del fuoco"
 permalink: /it/units/Fire Elemental/
-excerpt: "Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
+excerpt: "Unità Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
 last_modified_at: 2020-12-01
 lang: it

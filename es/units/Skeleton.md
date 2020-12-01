@@ -1,7 +1,7 @@
 ---
 title: "Esqueleto"
 permalink: /es/units/Skeleton/
-excerpt: "Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
+excerpt: "Unidades Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
 last_modified_at: 2020-12-01
 lang: es

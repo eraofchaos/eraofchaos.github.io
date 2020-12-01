@@ -1,7 +1,7 @@
 ---
 title: "Регнанский змей"
 permalink: /ru/units/Regnan Serpent/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 9904
 last_modified_at: 2020-12-01
 lang: ru

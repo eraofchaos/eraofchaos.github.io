@@ -1,7 +1,7 @@
 ---
 title: "Лепрекон"
 permalink: /ru/units/Leprechaun/
-excerpt: ""
+excerpt: "Отряды "
 unitID: 909
 last_modified_at: 2020-12-01
 lang: ru

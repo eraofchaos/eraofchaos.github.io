@@ -1,7 +1,7 @@
 ---
 title: "Eiselementar"
 permalink: /de/units/Ice Elemental/
-excerpt: "Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
+excerpt: "Einheiten Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
 last_modified_at: 2020-12-01
 lang: de

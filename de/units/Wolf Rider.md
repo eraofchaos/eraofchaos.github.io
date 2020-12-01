@@ -1,7 +1,7 @@
 ---
 title: "Wolfsreiter"
 permalink: /de/units/Wolf Rider/
-excerpt: "Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
+excerpt: "Einheiten Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
 unitID: 402
 last_modified_at: 2020-12-01
 lang: de

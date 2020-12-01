@@ -1,7 +1,7 @@
 ---
 title: "Бес"
 permalink: /ru/units/Imp/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 501
 last_modified_at: 2020-12-01
 lang: ru

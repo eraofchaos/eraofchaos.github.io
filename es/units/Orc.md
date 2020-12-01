@@ -1,7 +1,7 @@
 ---
 title: "Orco"
 permalink: /es/units/Orc/
-excerpt: "Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
+excerpt: "Unidades Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
 last_modified_at: 2020-12-01
 lang: es

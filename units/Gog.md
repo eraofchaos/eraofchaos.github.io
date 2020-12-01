@@ -1,7 +1,7 @@
 ---
 title: "Gog"
 permalink: /units/Gog/
-excerpt: "Gogs may seem to be mild but they can be very aggressive in battle."
+excerpt: "Units Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
 last_modified_at: 2020-12-01
 lang: en

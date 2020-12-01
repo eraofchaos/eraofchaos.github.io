@@ -1,7 +1,7 @@
 ---
 title: "Elementale tempesta"
 permalink: /it/units/Storm Elemental/
-excerpt: "Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
+excerpt: "Unità Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
 last_modified_at: 2020-12-01
 lang: it

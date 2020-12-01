@@ -1,7 +1,7 @@
 ---
 title: "Scharfschütze"
 permalink: /de/units/Marksman/
-excerpt: "Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
+excerpt: "Einheiten Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
 last_modified_at: 2020-12-01
 lang: de

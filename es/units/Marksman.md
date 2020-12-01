@@ -1,7 +1,7 @@
 ---
 title: "Ballestero"
 permalink: /es/units/Marksman/
-excerpt: "Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo."
+excerpt: "Unidades Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo."
 unitID: 102
 last_modified_at: 2020-12-01
 lang: es

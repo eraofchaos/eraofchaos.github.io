@@ -1,7 +1,7 @@
 ---
 title: "Revenante"
 permalink: /fr/units/Wight/
-excerpt: "Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
+excerpt: "Unités Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
 last_modified_at: 2020-12-01
 lang: fr

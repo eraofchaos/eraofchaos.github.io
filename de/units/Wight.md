@@ -1,7 +1,7 @@
 ---
 title: "Geist"
 permalink: /de/units/Wight/
-excerpt: "Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
+excerpt: "Einheiten Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
 last_modified_at: 2020-12-01
 lang: de

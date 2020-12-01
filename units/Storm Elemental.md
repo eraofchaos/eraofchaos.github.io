@@ -1,7 +1,7 @@
 ---
 title: "Storm Elemental"
 permalink: /units/Storm Elemental/
-excerpt: "An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
+excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
 last_modified_at: 2020-12-01
 lang: en

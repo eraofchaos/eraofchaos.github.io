@@ -1,7 +1,7 @@
 ---
 title: "Golem di ferro"
 permalink: /it/units/Iron Golem/
-excerpt: "I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia."
+excerpt: "Unità I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia."
 unitID: 603
 last_modified_at: 2020-12-01
 lang: it

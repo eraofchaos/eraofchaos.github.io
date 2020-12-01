@@ -1,7 +1,7 @@
 ---
 title: "Effrit"
 permalink: /fr/units/Efreeti/
-excerpt: "Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
+excerpt: "Unités Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
 last_modified_at: 2020-12-01
 lang: fr

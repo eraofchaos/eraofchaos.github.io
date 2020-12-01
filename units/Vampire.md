@@ -1,7 +1,7 @@
 ---
 title: "Vampire"
 permalink: /units/Vampire/
-excerpt: "Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
+excerpt: "Units Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
 last_modified_at: 2020-12-01
 lang: en

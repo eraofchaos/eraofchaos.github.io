@@ -1,7 +1,7 @@
 ---
 title: "Orque"
 permalink: /fr/units/Orc/
-excerpt: "Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
+excerpt: "Unités Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
 last_modified_at: 2020-12-01
 lang: fr

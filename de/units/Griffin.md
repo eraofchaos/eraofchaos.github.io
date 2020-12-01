@@ -1,7 +1,7 @@
 ---
 title: "Greif"
 permalink: /de/units/Griffin/
-excerpt: "Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
+excerpt: "Einheiten Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
 last_modified_at: 2020-12-01
 lang: de

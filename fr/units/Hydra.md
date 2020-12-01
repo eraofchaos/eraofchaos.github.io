@@ -1,7 +1,7 @@
 ---
 title: "Hydre"
 permalink: /fr/units/Hydra/
-excerpt: "Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
+excerpt: "Unités Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
 last_modified_at: 2020-12-01
 lang: fr

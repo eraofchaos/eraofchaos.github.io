@@ -1,7 +1,7 @@
 ---
 title: "Sirena"
 permalink: /it/units/Mermaid/
-excerpt: "Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
+excerpt: "Unità Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
 last_modified_at: 2020-12-01
 lang: it

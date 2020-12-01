@@ -1,7 +1,7 @@
 ---
 title: "Arquera Regnan"
 permalink: /es/units/Regnan Archer/
-excerpt: "Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
+excerpt: "Unidades Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
 last_modified_at: 2020-12-01
 lang: es

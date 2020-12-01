@@ -1,7 +1,7 @@
 ---
 title: "Stein-Wasserspeier"
 permalink: /de/units/Stone Gargoyle/
-excerpt: "Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
+excerpt: "Einheiten Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
 unitID: 602
 last_modified_at: 2020-12-01
 lang: de

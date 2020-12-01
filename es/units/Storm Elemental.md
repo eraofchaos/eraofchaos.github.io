@@ -1,7 +1,7 @@
 ---
 title: "Elemental de Tormenta"
 permalink: /es/units/Storm Elemental/
-excerpt: "Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
+excerpt: "Unidades Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
 last_modified_at: 2020-12-01
 lang: es

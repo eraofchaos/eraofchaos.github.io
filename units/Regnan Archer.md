@@ -1,7 +1,7 @@
 ---
 title: "Regnan Archer"
 permalink: /units/Regnan Archer/
-excerpt: "She is destined for wealth. Everything is her target, wherever her arrow aims."
+excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
 last_modified_at: 2020-12-01
 lang: en

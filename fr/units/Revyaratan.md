@@ -1,7 +1,7 @@
 ---
 title: "Revyaratan"
 permalink: /fr/units/Revyaratan/
-excerpt: "Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
+excerpt: "Unités Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
 last_modified_at: 2020-12-01
 lang: fr

@@ -1,7 +1,7 @@
 ---
 title: "Рух"
 permalink: /ru/units/Roc/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 405
 last_modified_at: 2020-12-01
 lang: ru

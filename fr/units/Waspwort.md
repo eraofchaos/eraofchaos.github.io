@@ -1,7 +1,7 @@
 ---
 title: "Guêpier"
 permalink: /fr/units/Waspwort/
-excerpt: "Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
+excerpt: "Unités Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
 unitID: 808
 last_modified_at: 2020-12-01
 lang: fr

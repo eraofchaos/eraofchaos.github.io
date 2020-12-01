@@ -1,7 +1,7 @@
 ---
 title: "Elfo del bosco"
 permalink: /it/units/Wood Elf/
-excerpt: "Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
+excerpt: "Unità Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
 last_modified_at: 2020-12-01
 lang: it

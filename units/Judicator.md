@@ -1,7 +1,7 @@
 ---
 title: "Judicator"
 permalink: /units/Judicator/
-excerpt: "Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
+excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
 last_modified_at: 2020-12-01
 lang: en

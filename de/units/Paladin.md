@@ -1,7 +1,7 @@
 ---
 title: "Paladin"
 permalink: /de/units/Paladin/
-excerpt: "Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
+excerpt: "Einheiten Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
 unitID: 108
 last_modified_at: 2020-12-01
 lang: de

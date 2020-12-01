@@ -1,7 +1,7 @@
 ---
 title: "Naga"
 permalink: /de/units/Naga/
-excerpt: "Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
+excerpt: "Einheiten Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
 last_modified_at: 2020-12-01
 lang: de

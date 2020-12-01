@@ -1,7 +1,7 @@
 ---
 title: "Ogre"
 permalink: /units/Ogre/
-excerpt: "Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
+excerpt: "Units Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
 last_modified_at: 2020-12-01
 lang: en

@@ -1,7 +1,7 @@
 ---
 title: "Gorgone"
 permalink: /it/units/Gorgon/
-excerpt: "Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
+excerpt: "Unità Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
 last_modified_at: 2020-12-01
 lang: it

@@ -1,7 +1,7 @@
 ---
 title: "Drago verde"
 permalink: /it/units/Green Dragon/
-excerpt: "I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili."
+excerpt: "Unità I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili."
 unitID: 207
 last_modified_at: 2020-12-01
 lang: it

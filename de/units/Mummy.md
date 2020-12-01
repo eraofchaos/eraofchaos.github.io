@@ -1,7 +1,7 @@
 ---
 title: "Mumie"
 permalink: /de/units/Mummy/
-excerpt: "Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
+excerpt: "Einheiten Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
 unitID: 308
 last_modified_at: 2020-12-01
 lang: de

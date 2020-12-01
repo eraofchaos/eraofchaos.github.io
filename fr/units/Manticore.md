@@ -1,7 +1,7 @@
 ---
 title: "Manticore"
 permalink: /fr/units/Manticore/
-excerpt: "Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
+excerpt: "Unités Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
 last_modified_at: 2020-12-01
 lang: fr

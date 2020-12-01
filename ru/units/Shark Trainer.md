@@ -1,7 +1,7 @@
 ---
 title: "Повелитель акул"
 permalink: /ru/units/Shark Trainer/
-excerpt: "Повелитель акул"
+excerpt: "Отряды Повелитель акул"
 unitID: 9909
 last_modified_at: 2020-12-01
 lang: ru

@@ -1,7 +1,7 @@
 ---
 title: "Archimage"
 permalink: /fr/units/Arch Mage/
-excerpt: "Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
+excerpt: "Unités Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
 last_modified_at: 2020-12-01
 lang: fr

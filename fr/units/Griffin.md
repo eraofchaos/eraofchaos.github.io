@@ -1,7 +1,7 @@
 ---
 title: "Griffon"
 permalink: /fr/units/Griffin/
-excerpt: "Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
+excerpt: "Unités Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
 last_modified_at: 2020-12-01
 lang: fr

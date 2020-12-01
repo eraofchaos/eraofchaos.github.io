@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_908"
 permalink: /it/units/Unknown_908/
-excerpt: ""
+excerpt: "Unità "
 unitID: 908
 last_modified_at: 2020-12-01
 lang: it

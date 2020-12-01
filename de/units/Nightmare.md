@@ -1,7 +1,7 @@
 ---
 title: "Nachtmahr"
 permalink: /de/units/Nightmare/
-excerpt: "Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
+excerpt: "Einheiten Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
 last_modified_at: 2020-12-01
 lang: de

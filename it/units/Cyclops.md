@@ -1,7 +1,7 @@
 ---
 title: "Ciclope"
 permalink: /it/units/Cyclops/
-excerpt: "I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
+excerpt: "Unità I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
 last_modified_at: 2020-12-01
 lang: it

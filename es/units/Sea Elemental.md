@@ -1,7 +1,7 @@
 ---
 title: "Elemental del Mar"
 permalink: /es/units/Sea Elemental/
-excerpt: "Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
+excerpt: "Unidades Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
 unitID: 9903
 last_modified_at: 2020-12-01
 lang: es

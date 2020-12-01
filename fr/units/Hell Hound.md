@@ -1,7 +1,7 @@
 ---
 title: "Chien de l'Enfer"
 permalink: /fr/units/Hell Hound/
-excerpt: "Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage."
+excerpt: "Unités Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage."
 unitID: 503
 last_modified_at: 2020-12-01
 lang: fr

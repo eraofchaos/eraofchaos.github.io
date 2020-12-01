@@ -1,7 +1,7 @@
 ---
 title: "Assassin"
 permalink: /units/Assassin/
-excerpt: "We work in the dark to serve the light. Nothing is true, everything is permitted."
+excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
 last_modified_at: 2020-12-01
 lang: en

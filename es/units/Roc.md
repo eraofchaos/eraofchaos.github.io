@@ -1,7 +1,7 @@
 ---
 title: "Roc"
 permalink: /es/units/Roc/
-excerpt: "El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
+excerpt: "Unidades El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
 last_modified_at: 2020-12-01
 lang: es

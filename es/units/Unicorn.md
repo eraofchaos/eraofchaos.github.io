@@ -1,7 +1,7 @@
 ---
 title: "Unicornio"
 permalink: /es/units/Unicorn/
-excerpt: "La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario."
+excerpt: "Unidades La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario."
 unitID: 206
 last_modified_at: 2020-12-01
 lang: es

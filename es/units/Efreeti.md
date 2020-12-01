@@ -1,7 +1,7 @@
 ---
 title: "Efrit"
 permalink: /es/units/Efreeti/
-excerpt: "Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
+excerpt: "Unidades Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
 last_modified_at: 2020-12-01
 lang: es

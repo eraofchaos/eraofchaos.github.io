@@ -1,7 +1,7 @@
 ---
 title: "Мантикора"
 permalink: /ru/units/Manticore/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 706
 last_modified_at: 2020-12-01
 lang: ru

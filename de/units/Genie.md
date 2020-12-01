@@ -1,7 +1,7 @@
 ---
 title: "Dschinn"
 permalink: /de/units/Genie/
-excerpt: "Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
+excerpt: "Einheiten Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
 last_modified_at: 2020-12-01
 lang: de

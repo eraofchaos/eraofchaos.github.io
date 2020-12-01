@@ -1,7 +1,7 @@
 ---
 title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
-excerpt: "Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
+excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
 last_modified_at: 2020-12-01
 lang: en

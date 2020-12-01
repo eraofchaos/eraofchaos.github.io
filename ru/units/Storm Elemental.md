@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_902"
 permalink: /ru/units/Storm Elemental/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 902
 last_modified_at: 2020-12-01
 lang: ru

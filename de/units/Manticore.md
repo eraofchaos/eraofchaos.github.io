@@ -1,7 +1,7 @@
 ---
 title: "Mantikor"
 permalink: /de/units/Manticore/
-excerpt: "Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr."
+excerpt: "Einheiten Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr."
 unitID: 706
 last_modified_at: 2020-12-01
 lang: de

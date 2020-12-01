@@ -1,7 +1,7 @@
 ---
 title: "Golem de fer"
 permalink: /fr/units/Iron Golem/
-excerpt: "Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
+excerpt: "Unités Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
 unitID: 603
 last_modified_at: 2020-12-01
 lang: fr

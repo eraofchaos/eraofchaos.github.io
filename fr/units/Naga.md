@@ -1,7 +1,7 @@
 ---
 title: "Naga"
 permalink: /fr/units/Naga/
-excerpt: "Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
+excerpt: "Unités Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
 last_modified_at: 2020-12-01
 lang: fr

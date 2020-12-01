@@ -1,7 +1,7 @@
 ---
-title: "Era of Chaos - List of Units"
+title: "Era of Chaos - List of Отряды"
 permalink: /ru/units/
-excerpt: "List of ALL Units in Era of Chaos"
+excerpt: "List of ALL Отряды in Era of Chaos"
 last_modified_at: 2020-12-01
 lang: ru
 ref: "index.md"

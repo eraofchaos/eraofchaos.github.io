@@ -1,7 +1,7 @@
 ---
 title: "Vampire"
 permalink: /fr/units/Vampire/
-excerpt: "Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
+excerpt: "Unités Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
 last_modified_at: 2020-12-01
 lang: fr

@@ -1,7 +1,7 @@
 ---
 title: "Genie"
 permalink: /units/Genie/
-excerpt: "Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
+excerpt: "Units Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
 last_modified_at: 2020-12-01
 lang: en

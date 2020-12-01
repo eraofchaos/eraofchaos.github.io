@@ -1,7 +1,7 @@
 ---
 title: "Betrachter"
 permalink: /de/units/Beholder/
-excerpt: "Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
+excerpt: "Einheiten Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
 last_modified_at: 2020-12-01
 lang: de

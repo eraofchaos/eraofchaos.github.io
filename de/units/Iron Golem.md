@@ -1,7 +1,7 @@
 ---
 title: "Eisengolem"
 permalink: /de/units/Iron Golem/
-excerpt: "Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
+excerpt: "Einheiten Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
 last_modified_at: 2020-12-01
 lang: de

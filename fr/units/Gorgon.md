@@ -1,7 +1,7 @@
 ---
 title: "Gorgone"
 permalink: /fr/units/Gorgon/
-excerpt: "D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
+excerpt: "Unités D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
 last_modified_at: 2020-12-01
 lang: fr

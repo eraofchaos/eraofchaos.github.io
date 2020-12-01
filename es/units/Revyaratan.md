@@ -1,7 +1,7 @@
 ---
 title: "Revyaratan"
 permalink: /es/units/Revyaratan/
-excerpt: "Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
+excerpt: "Unidades Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
 unitID: 9908
 last_modified_at: 2020-12-01
 lang: es

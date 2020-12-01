@@ -1,7 +1,7 @@
 ---
 title: "Erzmagier"
 permalink: /de/units/Arch Mage/
-excerpt: "Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
+excerpt: "Einheiten Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
 last_modified_at: 2020-12-01
 lang: de

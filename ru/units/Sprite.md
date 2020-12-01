@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_901"
 permalink: /ru/units/Sprite/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 901
 last_modified_at: 2020-12-01
 lang: ru

@@ -1,7 +1,7 @@
 ---
 title: "Gobelin"
 permalink: /fr/units/Goblin/
-excerpt: "Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
+excerpt: "Unités Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
 unitID: 401
 last_modified_at: 2020-12-01
 lang: fr

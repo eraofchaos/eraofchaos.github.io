@@ -1,7 +1,7 @@
 ---
 title: "Meerelementar"
 permalink: /de/units/Sea Elemental/
-excerpt: "Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
+excerpt: "Einheiten Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
 unitID: 9903
 last_modified_at: 2020-12-01
 lang: de

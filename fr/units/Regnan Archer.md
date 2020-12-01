@@ -1,7 +1,7 @@
 ---
 title: "Arbalétrière de Regna"
 permalink: /fr/units/Regnan Archer/
-excerpt: "Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
+excerpt: "Unités Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
 last_modified_at: 2020-12-01
 lang: fr

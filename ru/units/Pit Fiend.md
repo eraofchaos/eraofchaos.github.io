@@ -1,7 +1,7 @@
 ---
 title: "Порождение зла"
 permalink: /ru/units/Pit Fiend/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 505
 last_modified_at: 2020-12-01
 lang: ru

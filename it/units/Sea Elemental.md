@@ -1,7 +1,7 @@
 ---
 title: "Elementale del mare"
 permalink: /it/units/Sea Elemental/
-excerpt: "Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
+excerpt: "Unità Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
 last_modified_at: 2020-12-01
 lang: it

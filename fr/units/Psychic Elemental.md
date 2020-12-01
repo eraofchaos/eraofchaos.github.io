@@ -1,7 +1,7 @@
 ---
 title: "Élémentaire de l'esprit"
 permalink: /fr/units/Psychic Elemental/
-excerpt: "Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
+excerpt: "Unités Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
 last_modified_at: 2020-12-01
 lang: fr

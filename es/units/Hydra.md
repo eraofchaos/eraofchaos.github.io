@@ -1,7 +1,7 @@
 ---
 title: "Hidra"
 permalink: /es/units/Hydra/
-excerpt: "Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
+excerpt: "Unidades Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
 last_modified_at: 2020-12-01
 lang: es

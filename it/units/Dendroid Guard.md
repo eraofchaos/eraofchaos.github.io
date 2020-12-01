@@ -1,7 +1,7 @@
 ---
 title: "Guardia Dendroide"
 permalink: /it/units/Dendroid Guard/
-excerpt: "Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
+excerpt: "Unità Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
 unitID: 205
 last_modified_at: 2020-12-01
 lang: it

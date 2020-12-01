@@ -1,7 +1,7 @@
 ---
 title: "Liche"
 permalink: /fr/units/Lich/
-excerpt: "Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
+excerpt: "Unités Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
 last_modified_at: 2020-12-01
 lang: fr

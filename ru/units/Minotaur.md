@@ -1,7 +1,7 @@
 ---
 title: "Минотавр"
 permalink: /ru/units/Minotaur/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 705
 last_modified_at: 2020-12-01
 lang: ru

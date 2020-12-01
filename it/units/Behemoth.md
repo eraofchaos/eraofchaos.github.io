@@ -1,7 +1,7 @@
 ---
 title: "Behemoth"
 permalink: /it/units/Behemoth/
-excerpt: "I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
+excerpt: "Unità I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
 last_modified_at: 2020-12-01
 lang: it

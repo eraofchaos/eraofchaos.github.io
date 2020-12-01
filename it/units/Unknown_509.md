@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_509"
 permalink: /it/units/Unknown_509/
-excerpt: ""
+excerpt: "Unità "
 unitID: 509
 last_modified_at: 2020-12-01
 lang: it

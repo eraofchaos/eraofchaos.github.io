@@ -1,7 +1,7 @@
 ---
 title: "Drachengolem"
 permalink: /de/units/Dragon Golem/
-excerpt: "Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
+excerpt: "Einheiten Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
 last_modified_at: 2020-12-01
 lang: de

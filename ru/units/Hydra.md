@@ -1,7 +1,7 @@
 ---
 title: "Гидра"
 permalink: /ru/units/Hydra/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 807
 last_modified_at: 2020-12-01
 lang: ru

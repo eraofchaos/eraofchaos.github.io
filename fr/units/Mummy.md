@@ -1,7 +1,7 @@
 ---
 title: "Momie"
 permalink: /fr/units/Mummy/
-excerpt: "Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
+excerpt: "Unités Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
 last_modified_at: 2020-12-01
 lang: fr

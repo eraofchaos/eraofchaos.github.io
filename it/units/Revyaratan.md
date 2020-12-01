@@ -1,7 +1,7 @@
 ---
 title: "Leviatano"
 permalink: /it/units/Revyaratan/
-excerpt: "Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
+excerpt: "Unità Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
 last_modified_at: 2020-12-01
 lang: it

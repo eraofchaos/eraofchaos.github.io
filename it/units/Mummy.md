@@ -1,7 +1,7 @@
 ---
 title: "Mummia"
 permalink: /it/units/Mummy/
-excerpt: "I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
+excerpt: "Unità I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
 last_modified_at: 2020-12-01
 lang: it

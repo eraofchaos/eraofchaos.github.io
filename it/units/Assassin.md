@@ -1,7 +1,7 @@
 ---
 title: "Assassino"
 permalink: /it/units/Assassin/
-excerpt: "Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
+excerpt: "Unità Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
 last_modified_at: 2020-12-01
 lang: it

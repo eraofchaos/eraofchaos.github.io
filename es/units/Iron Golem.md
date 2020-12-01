@@ -1,7 +1,7 @@
 ---
 title: "Gólem de Hierro"
 permalink: /es/units/Iron Golem/
-excerpt: "Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia."
+excerpt: "Unidades Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia."
 unitID: 603
 last_modified_at: 2020-12-01
 lang: es

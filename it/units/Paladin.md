@@ -1,7 +1,7 @@
 ---
 title: "Paladino"
 permalink: /it/units/Paladin/
-excerpt: "I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
+excerpt: "Unità I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
 last_modified_at: 2020-12-01
 lang: it

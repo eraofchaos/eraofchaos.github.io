@@ -1,7 +1,7 @@
 ---
 title: "Gorgona"
 permalink: /es/units/Gorgon/
-excerpt: "Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
+excerpt: "Unidades Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
 last_modified_at: 2020-12-01
 lang: es

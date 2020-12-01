@@ -1,7 +1,7 @@
 ---
 title: "Diable"
 permalink: /fr/units/Devil/
-excerpt: "Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
+excerpt: "Unités Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
 last_modified_at: 2020-12-01
 lang: fr

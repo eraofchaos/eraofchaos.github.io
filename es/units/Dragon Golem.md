@@ -1,7 +1,7 @@
 ---
 title: "Gólem Dragón"
 permalink: /es/units/Dragon Golem/
-excerpt: "Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
+excerpt: "Unidades Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
 unitID: 609
 last_modified_at: 2020-12-01
 lang: es

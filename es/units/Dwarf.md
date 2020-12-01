@@ -1,7 +1,7 @@
 ---
 title: "Enano"
 permalink: /es/units/Dwarf/
-excerpt: "Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
+excerpt: "Unidades Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
 unitID: 202
 last_modified_at: 2020-12-01
 lang: es

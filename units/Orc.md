@@ -1,7 +1,7 @@
 ---
 title: "Orc"
 permalink: /units/Orc/
-excerpt: "No one knows where Orcs hide their axes and they seem to have endless axes to throw."
+excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
 last_modified_at: 2020-12-01
 lang: en

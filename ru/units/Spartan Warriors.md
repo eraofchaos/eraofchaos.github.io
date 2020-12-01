@@ -1,7 +1,7 @@
 ---
 title: "Спартанец"
 permalink: /ru/units/Spartan Warriors/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 9702
 last_modified_at: 2020-12-01
 lang: ru

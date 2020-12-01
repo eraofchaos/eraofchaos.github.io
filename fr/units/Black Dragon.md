@@ -1,7 +1,7 @@
 ---
 title: "Dragon noir"
 permalink: /fr/units/Black Dragon/
-excerpt: "Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
+excerpt: "Unités Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
 last_modified_at: 2020-12-01
 lang: fr

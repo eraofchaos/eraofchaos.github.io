@@ -1,7 +1,7 @@
 ---
 title: "Медуза"
 permalink: /ru/units/Medusa/
-excerpt: "null"
+excerpt: "Отряды null"
 unitID: 704
 last_modified_at: 2020-12-01
 lang: ru

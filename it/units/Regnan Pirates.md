@@ -1,7 +1,7 @@
 ---
 title: "Pirati di Regna"
 permalink: /it/units/Regnan Pirates/
-excerpt: "Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
+excerpt: "Unità Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
 last_modified_at: 2020-12-01
 lang: it

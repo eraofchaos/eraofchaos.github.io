@@ -1,7 +1,7 @@
 ---
 title: "Schlangenfliege"
 permalink: /de/units/Serpent Fly/
-excerpt: "Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
+excerpt: "Einheiten Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
 unitID: 803
 last_modified_at: 2020-12-01
 lang: de

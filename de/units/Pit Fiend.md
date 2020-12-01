@@ -1,7 +1,7 @@
 ---
 title: "Grottenteufel"
 permalink: /de/units/Pit Fiend/
-excerpt: "Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
+excerpt: "Einheiten Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
 unitID: 505
 last_modified_at: 2020-12-01
 lang: de

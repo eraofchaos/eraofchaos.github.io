@@ -1,7 +1,7 @@
 ---
 title: "Unknown_TEAM_709"
 permalink: /fr/units/Unknown_709/
-excerpt: ""
+excerpt: "Unités "
 unitID: 709
 last_modified_at: 2020-12-01
 lang: fr

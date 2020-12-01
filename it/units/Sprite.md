@@ -1,7 +1,7 @@
 ---
 title: "Driade"
 permalink: /it/units/Sprite/
-excerpt: "Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
+excerpt: "Unità Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
 last_modified_at: 2020-12-01
 lang: it

@@ -1,7 +1,7 @@
 ---
 title: "Medusa"
 permalink: /es/units/Medusa/
-excerpt: "Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
+excerpt: "Unidades Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
 last_modified_at: 2020-12-01
 lang: es

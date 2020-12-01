@@ -1,7 +1,7 @@
 ---
 title: "Dwarf"
 permalink: /units/Dwarf/
-excerpt: "Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
+excerpt: "Units Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
 last_modified_at: 2020-12-01
 lang: en

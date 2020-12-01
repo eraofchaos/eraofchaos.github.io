@@ -1,7 +1,7 @@
 ---
 title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
-excerpt: "Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
+excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
 last_modified_at: 2020-12-01
 lang: en
