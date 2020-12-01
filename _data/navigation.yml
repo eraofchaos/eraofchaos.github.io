@@ -159,15 +159,15 @@ docs_it:
       url: /heroes/
     - title: "Units"
       url: /units/
-    - title: "Alchemy Workshop"
+    - title: "Laboratorio alchemico"
       url: /Alchemy Workshop/
-    - title: "Battle Formation"
+    - title: "Formazione di battaglia"
       url: /Battle Formation/
-    - title: "Healing Sea"
+    - title: "Mare curativo"
       url: /Healing Sea/
 #    - title: "Guild"
 #      url: /guild/
-    - title: "Sphinx answers"
+    - title: "Sfinge answers"
       url: /sphinx/
 
   - title: "Language"
