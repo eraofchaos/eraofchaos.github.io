@@ -9,23 +9,18 @@ toc: false
 classes: wide
 ---
 
-## <span style="color: #3c2a1e;font-size:22px">Правила события</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
    <span style="color: #3c2a1e;font-size:16px">1. Во время события игроки могут получить щедрые награды, бросая кубики. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">2. Каждый раз при прохождении через старт награды на клетках обновляются. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">3. В день можно получить несколько бесплатных бросков. Если вы истратили все бесплатные броски, можно купить еще, но на следующий день количество бросков обнуляется. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">4. Игроки за участие в событиях могут получить купоны на скидку, телепорты и кристаллы драконьей крови. Номинал всех купонов составляет 300, они действуют ограниченное время и на ограниченное число товаров. Купоны не суммируются, на одну покупку можно потратить только один купон. Телепорты можно заработать не только в диалоговых событиях, но и набрав 100/200 очков активности в ежедневных заданиях. Телепорт активируется по нажатию в правом нижнем углу экрана «События». </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
 ## Items on map: 
 
-  -  Увесистый кошель алмазов. 
-
-  -  Прикоснись к прекрасному. 
-
   -  Маленький непримечательный осколок. 
 
 **Tip:** Получите награду, когда число попыток достигнет определенного количества!
 {: .notice--danger}
 
-## Прикоснись к прекрасному. 
+## null 
 
 ### 1. В известной легендарной битве кто больше убил орков: гном или эльф? 
 
@@ -49,7 +44,7 @@ classes: wide
 
    **Correct Answer:** **A. Вот в чем вопрос** 
 
-   **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
+   **Rewards:**  **1x Купон** (Coupon that can be used in the Healing Sea event.)
 
    *Wrong Answer:* *B. Это не вопрос* 
 
@@ -91,7 +86,7 @@ classes: wide
 
    **Correct Answer:** **B. Минотавр** 
 
-   **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
+   **Rewards:**  **1x Купон** (Coupon that can be used in the Healing Sea event.)
 
    *Wrong Answer:* *A. Кентавр* 
 
@@ -119,7 +114,7 @@ classes: wide
 
    **Correct Answer:** **B. Демоны** 
 
-   **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
+   **Rewards:**  **1x Купон** (Coupon that can be used in the Healing Sea event.)
 
    *Wrong Answer:* *A. Ангелы* 
 
