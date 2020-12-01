@@ -119,20 +119,18 @@ docs_fr:
 docs_ru:
   - title: "Navigation"
     children:
-    - title: "Heroes"
-      url: /heroes/
+    - title: "Герои"
+      url: /ru/heroes/
     - title: "Units"
       url: /units/
-    - title: "Alchemy Workshop"
-      url: /Alchemy Workshop/
-    - title: "Battle Formation"
-      url: /Battle Formation/
-    - title: "Healing Sea"
-      url: /Healing Sea/
-#    - title: "Guild"
-#      url: /guild/
-    - title: "Sphinx answers"
-      url: /sphinx/
+    - title: "Мастерская алхимика"
+      url: /ru/Alchemy Workshop/
+    - title: "Боевое построение"
+      url: /ru/Battle Formation/
+    - title: "Море чудес"
+      url: /ru/Healing Sea/
+    - title: "Ответы на Сфинкса"
+      url: /ru/sphinx/
 
   - title: "Language"
     children:

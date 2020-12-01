@@ -5,7 +5,7 @@ excerpt: "Русская version"
 author_profile: false
 lang: ru
 sidebar:
-  nav: "docs"
+  nav: "docs_ru"
 ---
 
 Информационный портал о мобильной игре "Era Of Chaos".
