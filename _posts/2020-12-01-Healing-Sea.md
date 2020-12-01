@@ -10,6 +10,7 @@ tags:
 ---
 
 A new feature in Era Of Chaos (update from 24.11.2020) is **Healing Sea**.
+
 You can find it under Event icon on main page.
 We prepared all Quiz questions with correct answers and rewards.
 
