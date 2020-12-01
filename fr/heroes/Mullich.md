@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /fr/heroes/Mullich/
 excerpt: "Les troupes de Sir Mullich sont connues pour leur vitesse. Elle est le fruit de l'entraînement spécial qu'il leur prodigue. La retenue et la discipline de Mullich sont elles aussi très appréciées."
 heroID: 60101
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Mullich"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche terrestre
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span> pendant 3 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span><span style="color: black"> pendant 3 s.
 
 ### 2 Spell: Félicité
- **Description:** Octroie <span style="color: #e07c44;font-size:20px">Exaltation</span> à toutes unités alliées à portée (sauf celles de la Nécropole), augmentant leur vitesse d'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> % pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes.
+ **Description:** Octroie <span style="color: #e07c44;font-size:20px">Exaltation</span><span style="color: black"> à toutes unités alliées à portée (sauf celles de la Nécropole), augmentant leur vitesse d'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> % pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes.
 
 ### 3 Spell: Attaque rapide
- **Description:** Augmente la vitesse d'ATQ de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a124+$a126+$a134+$a136)><span style="color: #48b946;font-size:20px"> %</span> et la vitesse de déplacement de {$buffaddattr22+$buffaddattr23*($sklevel-1)}<($buffaddattr22+$buffaddattr23*($sklevel-1))*($a124+$a126+$a134+$a136)> points pour toutes les unités alliées à portée pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Augmente la vitesse d'ATQ de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a124+$a126+$a134+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black"> et la vitesse de déplacement de {$buffaddattr22+$buffaddattr23*($sklevel-1)}<($buffaddattr22+$buffaddattr23*($sklevel-1))*($a124+$a126+$a134+$a136)> points pour toutes les unités alliées à portée pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 4 Spell: Arrêt du temps
- **Description:** Invoque un Champ temporel qui immobilise les unités ennemies à portée pendant <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span>s.
+ **Description:** Invoque un Champ temporel qui immobilise les unités ennemies à portée pendant <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
 
 ## HERO Biography

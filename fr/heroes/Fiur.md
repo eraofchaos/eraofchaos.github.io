@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /fr/heroes/Fiur/
 excerpt: "Encore jeune et inexpérimenté pour un Élémentaire, Fiur possède néanmoins un talent sans égal. Il devrait certainement devenir l'un des plus puissants Héros de sa caste."
 heroID: 60704
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Fiur"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche de feu
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de dégâts de feu aux unités ennemies à portée et les <span style="color: #e07c44;font-size:20px">brûle</span> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de dégâts de feu aux unités ennemies à portée et les <span style="color: #e07c44;font-size:20px">brûle</span><span style="color: black"> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Bouclier de flammes
- **Description:** Augmente le renvoi de dégâts pour les unités alliées dans une large zone de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % et les immunise contre les sorts de feu pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent2+$talent1> secondes.
+ **Description:** Augmente le renvoi de dégâts pour les unités alliées dans une large zone de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % et les immunise contre les sorts de feu pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent2+$talent1> secondes.
 
 ### 3 Spell: Élémentaire de feu
- **Description:** Invoque 9 Élémentaires de feu de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span> au début de la bataille. Ces unités persistent toute la bataille avec une ATQ de <span style="color: #48b946;font-size:20px">{310+85*($sklevel-1)}</span><(310+85*($sklevel-1))*$talent14+$talent13> et <span style="color: #48b946;font-size:20px">{3400+1476*($sklevel-1)}</span><(3400+1476*($sklevel-1))*$talent14+$talent13> PV.
+ **Description:** Invoque 9 Élémentaires de feu de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> au début de la bataille. Ces unités persistent toute la bataille avec une ATQ de <span style="color: #48b946;font-size:20px">{310+85*($sklevel-1)}</span><span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> et <span style="color: #48b946;font-size:20px">{3400+1476*($sklevel-1)}</span><span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13> PV.
 
 ### 4 Spell: Éruption enflammée
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> points de dégâts de feu aux unités ennemies dans une large zone, ainsi que des dégâts de feu additionnels équivalents à 35 % de leurs PV max aux cibles victimes de <span style="color: #e07c44;font-size:20px">Brûlure</span>.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> points de dégâts de feu aux unités ennemies dans une large zone, ainsi que des dégâts de feu additionnels équivalents à 35 % de leurs PV max aux cibles victimes de <span style="color: #e07c44;font-size:20px">Brûlure</span><span style="color: black">.
 
 
 ## HERO Biography

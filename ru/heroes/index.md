@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /ru/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "index.md"
 toc: false
@@ -11,17 +11,17 @@ classes: wide
   | Nr |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     |
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Crag Hack](/ru/heroes/Crag Hack/) | Цитадель | Варвар | R+ |  Наступление  |
-  | 2 | [Monere](/ru/heroes/Monere/) |  | Путешественник | R |  Элементаль Мысли  |
-  | 3 | [Аделаида](/ru/heroes/Adelaide/) | Замок | Священник | R+ |  Кольцо холода  |
-  | 4 | [Астрал](/ru/heroes/Astral/) |  |  | SSR |  Увеличение магии  |
-  | 5 | [Вестан](/ru/heroes/Wystan/) | Крепость | Хозяин зверей | R |  Болотный охотник  |
-  | 6 | [Видомина](/ru/heroes/Vidomina/) |  | Некромант | R |  Некромант  |
-  | 7 | [Джеддит](/ru/heroes/Jeddite/) |  | Алхимик | SR |  Цикл жизни  |
-  | 8 | [Джелу](/ru/heroes/Gelu/) |  |  | SR+ |  Снайпер  |
-  | 9 | [Джем](/ru/heroes/Gem/) |  |  | SSR |  Природное исцеление  |
-  | 10 | [Дракон](/ru/heroes/Dracon/) |  |  | R |    |
-  | 11 | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |  |  | SSR |    |
-  | 12 | [Зидар](/ru/heroes/Zydar/) |  | Еретик | R |    |
+  | 2 | [Jeddite](/ru/heroes/Jeddite/) |  | Алхимик | SR |    |
+  | 3 | [Monere](/ru/heroes/Monere/) |  | Путешественник | R |  Элементаль Мысли  |
+  | 4 | [Zydar](/ru/heroes/Zydar/) |  | Еретик | R |  Призыв Инферно  |
+  | 5 | [Аделаида](/ru/heroes/Adelaide/) | Замок | Священник | R+ |  Кольцо холода  |
+  | 6 | [Астрал](/ru/heroes/Astral/) |  |  | SSR |    |
+  | 7 | [Вестан](/ru/heroes/Wystan/) | Крепость | Хозяин зверей | R |  Болотный охотник  |
+  | 8 | [Видомина](/ru/heroes/Vidomina/) |  | Некромант | R |  Некромант  |
+  | 9 | [Джелу](/ru/heroes/Gelu/) |  |  | SR+ |  Снайпер  |
+  | 10 | [Джем](/ru/heroes/Gem/) |  |  | SSR |    |
+  | 11 | [Дракон](/ru/heroes/Dracon/) |  |  | R |    |
+  | 12 | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |  |  | SSR |    |
   | 13 | [Йог](/ru/heroes/Yog/) | Цитадель | Варвар | SR |  Разъяренные циклопы  |
   | 14 | [Кассанбель](/ru/heroes/Cassanbel/) |  | Дитя океана | ? |  Песнь океана  |
   | 15 | [Кассандра](/ru/heroes/Kassandra/) |  |  | R |  Армия спартанцев  |
@@ -38,7 +38,7 @@ classes: wide
   | 26 | [Питер Ли](/ru/heroes/Peter Lee/) |  |  | ? |  Поднятый парус  |
   | 27 | [Раска](/ru/heroes/Rashka/) |  |  | R |    |
   | 28 | [Риланд](/ru/heroes/Ryland/) |  |  | R |  Дендроид-страж  |
-  | 29 | [Роланд](/ru/heroes/Roland/) | Замок | Рыцарь | SR+ |  Повышение боевого духа  |
+  | 29 | [Роланд](/ru/heroes/Roland/) | Замок | Рыцарь | SR+ |    |
   | 30 | [Сандро](/ru/heroes/Sandro/) |  | Некромант | SSR |  Падение тьмы  |
   | 31 | [Сефинрот](/ru/heroes/Sephinroth/) |  | Алхимик | R |  Кристальный взгляд  |
   | 32 | [Сиэль](/ru/heroes/Ciele/) |  |  | SSR |  Резонанс стихий  |

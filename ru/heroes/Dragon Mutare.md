@@ -3,7 +3,7 @@ title: "Дракон Мутара"
 permalink: /ru/heroes/Dragon Mutare/
 excerpt: "Выпив из Фиала драконьей крови, Мутара стала драконом, который сохранил сознание человека. Некоторые утверждают, что ее превращение предвещает появление Отца драконов."
 heroID: 61302
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Dragon Mutare"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Огня
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span>, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 ### 2 Spell: Проклятие
- **Description:** Снижает атаку выбранных противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span>; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Description:** Снижает атаку выбранных противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Убийца
  **Description:** 
 
 ### 4 Spell: Рев дракона
- **Description:** Накладывает <span style="color: #e07c44;font-size:20px">кровотечение</span> на всех противников, которое наносит урон в размере <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span> от их максимального ОЗ каждые 2 сек. в течение 16 сек., а также <span style="color: #e07c44;font-size:20px">оглушает</span> их на 6 сек. Некоторые отряды могут получить иммунитет к урону от <span style="color: #e07c44;font-size:20px">кровотечения</span>; исцеление <span style="color: #e07c44;font-size:20px">кровоточащих</span> отрядов снизится.
+ **Description:** Накладывает <span style="color: #e07c44;font-size:20px">кровотечение</span><span style="color: black"> на всех противников, которое наносит урон в размере <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> от их максимального ОЗ каждые 2 сек. в течение 16 сек., а также <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 6 сек. Некоторые отряды могут получить иммунитет к урону от <span style="color: #e07c44;font-size:20px">кровотечения</span><span style="color: black">; исцеление <span style="color: #e07c44;font-size:20px">кровоточащих</span><span style="color: black"> отрядов снизится.
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 
 ### Skin 2: **Зачарованный дракон**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Небо разделяется группами звезд. Перемены в звездах отзываются на судьбах всех, живущих под небесами. Когда изменчивые звезды вернутся на свои места, в небесах воцарится свет, символизирующий дракона.</span>
+ **Description:** 
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 
 ## Initial Mastery
-   - null
+   - Наступление
    - Волшебство
    - Ученый
    - Поиск пути

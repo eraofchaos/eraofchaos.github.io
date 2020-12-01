@@ -3,7 +3,7 @@ title: "Эрдамон"
 permalink: /ru/heroes/Erdamon/
 excerpt: ""
 heroID: 60703
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Erdamon"
 toc: true
@@ -37,11 +37,11 @@ toc: true
 ### 2 Spell: Каменная кожа
  **Description:** 
 
-### 3 Spell: Элементаль Земли
+### 3 Spell: null
  **Description:** 
 
 ### 4 Spell: Лавовая ловушка
- **Description:** Создает лавовую ловушку, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона Землей нелетающим противникам рядом с собой каждую секунду и <span style="color: #e07c44;font-size:20px">оглушает</span> их на 0,7 сек. Ловушка остается {$olast11/1000} сек.
+ **Description:** Создает лавовую ловушку, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона Землей нелетающим противникам рядом с собой каждую секунду и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 0,7 сек. Ловушка остается {$olast11/1000} сек.
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 
 
 ## Initial Mastery
-   - null
+   - Наступление
    - Доспехи
-   - Стрельба
+   - null
    - Поиск пути

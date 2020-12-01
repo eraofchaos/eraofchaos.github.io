@@ -3,7 +3,7 @@ title: "Катерина"
 permalink: /ru/heroes/Catherine/
 excerpt: "Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Catherine"
 toc: true
@@ -37,7 +37,7 @@ toc: true
  **Description:** 
 
 ### 2 Spell: Радость
- **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Убийца
  **Description:** 
@@ -64,7 +64,7 @@ toc: true
    - Новейший дизайн героя
    - Уникальный аватар
 
-### Skin 2: **null**
+### Skin 2: **Капитан**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Мы отправимся в Эрафию, на правый бой.</span>
 

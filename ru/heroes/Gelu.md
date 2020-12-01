@@ -3,7 +3,7 @@ title: "Джелу"
 permalink: /ru/heroes/Gelu/
 excerpt: ""
 heroID: 60301
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Gelu"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Каменная кожа
  **Description:** 
 
 ### 3 Spell: Меткость
- **Description:** Дает союзным отрядам в радиусе действия 100% шанс крит. удара на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> сек.
+ **Description:** Дает союзным отрядам в радиусе действия 100% шанс крит. удара на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 ### 4 Spell: Бешенство
- **Description:** Приносит в жертву 30% ОЗ союзных отрядов в большой области (не наносит смертельный урон) и повышает их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> сек.
+ **Description:** Приносит в жертву 30% ОЗ союзных отрядов в большой области (не наносит смертельный урон) и повышает их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** 
+ **Description:** <span style="color: #ffffff;font-size:20px">Прошлое Джелу окутано мраком тайны. Наверняка известно только то, что он полуэльф, и возможно, родственник Вори по эльфийской линии.</span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
    - Новейший дизайн героя
    - Уникальный аватар
 
-### Skin 2: **Команда разведчиков**
+### Skin 2: **null**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Снайперы под началом Джелу вселяют страх в сердца врагов. Без счета вражеских офицеров сразили стрелы невидимых стрелков. </span>
 
@@ -98,5 +98,5 @@ toc: true
 ## Initial Mastery
    - Мудрость
    - Мистицизм
-   - Стрельба
+   - null
    - null

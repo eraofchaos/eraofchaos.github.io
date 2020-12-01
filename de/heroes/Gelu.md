@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /de/heroes/Gelu/
 excerpt: "Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert."
 heroID: 60301
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: de
 ref: "Gelu"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Steinhaut
- **Description:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span>, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Description:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span><span style="color: black">, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 3 Spell: Präzision
- **Description:** Gewährt verbündeten Einheiten in einem großen Bereich 100 % krit. Treffer und Präzision. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> Sek.
+ **Description:** Gewährt verbündeten Einheiten in einem großen Bereich 100 % krit. Treffer und Präzision. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek.
 
 ### 4 Spell: Wahnsinn
- **Description:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und steigert <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> Sek. lang ihr ANG-Tempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %.
+ **Description:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und steigert <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang ihr ANG-Tempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %.
 
 
 ## HERO Biography

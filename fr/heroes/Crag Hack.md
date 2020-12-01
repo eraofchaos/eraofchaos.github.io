@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /fr/heroes/Crag Hack/
 excerpt: "Crag Hack n'était qu'un Héros oublié d'Enroth quand il a fait voile vers Erathia. Ces terres dans la tourmente lui permettent de mettre ses immenses talents à profit."
 heroID: 60602
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Crag Hack"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche terrestre
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span> pendant 3 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span><span style="color: black"> pendant 3 s.
 
 ### 2 Spell: Sables mouvants
- **Description:** Invoque Sables mouvants à un emplacement précis infligeant des dégâts équivalents à 2 % de leurs PV max à toutes les unités (dégâts doublés pour les ennemis) chaque seconde. Réduit la résistance aux dégâts des unités ennemies de <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px"> %</span> pendant {($olast11+$olast12)/1000} s.
+ **Description:** Invoque Sables mouvants à un emplacement précis infligeant des dégâts équivalents à 2 % de leurs PV max à toutes les unités (dégâts doublés pour les ennemis) chaque seconde. Réduit la résistance aux dégâts des unités ennemies de <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black"> pendant {($olast11+$olast12)/1000} s.
 
 ### 3 Spell: Pourfendeur
- **Description:** Augmente l'ATQ de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span> pour les unités alliées dans une large zone pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes. Cette durée est prolongée de 5 secondes supplémentaires pour les unités de 9 combattants.
+ **Description:** Augmente l'ATQ de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black"> pour les unités alliées dans une large zone pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes. Cette durée est prolongée de 5 secondes supplémentaires pour les unités de 9 combattants.
 
 ### 4 Spell: Désir meurtrier
- **Description:** Augmente l'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % et le drain de vie de {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pour toutes les unités de mêlée alliées, pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+ **Description:** Augmente l'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % et le drain de vie de {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pour toutes les unités de mêlée alliées, pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
 
 ## HERO Biography

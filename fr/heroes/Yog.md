@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /fr/heroes/Yog/
 excerpt: "Yog a étudié auprès des Mages de Bracada pendant de longues années, mais il a toujours préféré la stratégie militaire au langage des runes. Repéré par le duc Krewlod, il est devenu un général exceptionnel de l'armée barbare."
 heroID: 60604
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Yog"
 toc: true
@@ -34,13 +34,13 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche de feu
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de dégâts de feu aux unités ennemies à portée et les <span style="color: #e07c44;font-size:20px">brûle</span> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de dégâts de feu aux unités ennemies à portée et les <span style="color: #e07c44;font-size:20px">brûle</span><span style="color: black"> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Sables mouvants
- **Description:** Invoque Sables mouvants à un emplacement précis infligeant des dégâts équivalents à 2 % de leurs PV max à toutes les unités (dégâts doublés pour les ennemis) chaque seconde. Réduit la résistance aux dégâts des unités ennemies de <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px"> %</span> pendant {($olast11+$olast12)/1000} s.
+ **Description:** Invoque Sables mouvants à un emplacement précis infligeant des dégâts équivalents à 2 % de leurs PV max à toutes les unités (dégâts doublés pour les ennemis) chaque seconde. Réduit la résistance aux dégâts des unités ennemies de <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black"> pendant {($olast11+$olast12)/1000} s.
 
 ### 3 Spell: Précision
- **Description:** Octroie un bonus de 100 % de précision et de coups critiques à toutes les unités alliées dans une large zone pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} </span>secondes.
+ **Description:** Octroie un bonus de 100 % de précision et de coups critiques à toutes les unités alliées dans une large zone pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} </span><span style="color: black">secondes.
 
 ### 4 Spell: Inversion d'énergie
  **Description:** Les dégâts de sorts de Héros infligés aux unités alliées deviennent des soins, et les sorts de soins des Héros ennemis infligent des dégâts à leurs unités. L'effet dure {($bufflast11+$bufflast12*($sklevel-1))/1000}s.

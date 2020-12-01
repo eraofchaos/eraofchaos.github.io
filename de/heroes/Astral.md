@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /de/heroes/Astral/
 excerpt: "Astral kam vor ungefähr einem Jahrzehnt nach Erathia und wurde schnell von der Magiergilde von Bracada anerkannt. Nachdem er in der Gilde eine hohe Position einnahm, scherzten einige, dass dabei bestimmt Magie im Spiel war."
 heroID: 61203
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: de
 ref: "Astral"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Völlige Dunkelheit
- **Description:** Belegt gegnerische Einheiten innerhalb einer großen Reichweite mit <span style="color: #e07c44;font-size:20px">Blindheit</span>. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span>
+ **Description:** Belegt gegnerische Einheiten innerhalb einer großen Reichweite mit <span style="color: #e07c44;font-size:20px">Blindheit</span><span style="color: black">. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span><span style="color: black">
 
 ### 3 Spell: Blitzstrahl
- **Description:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
+ **Description:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
 
 ### 4 Spell: Brillante Erde
- **Description:** <span style="color: #e07c44;font-size:20px">Blendet</span> alle gegnerischen Einheiten und verringert ihre Präzision um 1.000. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span>
+ **Description:** <span style="color: #e07c44;font-size:20px">Blendet</span><span style="color: black"> alle gegnerischen Einheiten und verringert ihre Präzision um 1.000. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span><span style="color: black">
 
 
 ## HERO Biography

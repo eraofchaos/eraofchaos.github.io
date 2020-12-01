@@ -3,7 +3,7 @@ title: "Сандро"
 permalink: /ru/heroes/Sandro/
 excerpt: "Сандро - некромант, который повидал многое как в Энроте, так и в Эрафии. Сейчас же он служит Финнеасу Вильмару, лидеру некромантов Дейи."
 heroID: 60501
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Sandro"
 toc: true
@@ -35,13 +35,13 @@ toc: true
  **Description:** 
 
 ### 2 Spell: Поднять мертвецов
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в определенной области (кроме отрядов Некрополя) и восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в определенной области (кроме отрядов Некрополя) и восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>
 
 ### 3 Spell: Взрыв
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в определенной области; может <span style="color: #e07c44;font-size:20px">оглушить</span> их на 2 сек. с шансом 50%.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в определенной области; может <span style="color: #e07c44;font-size:20px">оглушить</span><span style="color: black"> их на 2 сек. с шансом 50%.
 
 ### 4 Spell: Время Тьмы
- **Description:** Наносит урон Землей всем врагам, кроме отрядов Некрополя, в размере <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> и 5% от их максимального ОЗ, а также накладывает <span style="color: #e07c44;font-size:20px">низкий боевой дух</span> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span> сек. Кроме того, восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> и дает им <span style="color: #e07c44;font-size:20px">низкий боевой дух</span>.
+ **Description:** Наносит урон Землей всем врагам, кроме отрядов Некрополя, в размере <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> и 5% от их максимального ОЗ, а также накладывает <span style="color: #e07c44;font-size:20px">низкий боевой дух</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек. Кроме того, восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> и дает им <span style="color: #e07c44;font-size:20px">низкий боевой дух</span><span style="color: black">.
 
 
 ## HERO Biography
@@ -59,7 +59,7 @@ toc: true
 
 ### Skin 2: **Фатальный заговор**
 
- **Description:** 
+ **Description:** <span style="color: #ffffff;font-size:20px">Одной крошечной капли хватит, чтобы низвергнуть королевства. </span>
 
  **Skin features:** 
 
@@ -70,6 +70,6 @@ toc: true
 
 ## Initial Mastery
    - null
-   - null
+   - Наступление
    - Волшебство
    - Ученый

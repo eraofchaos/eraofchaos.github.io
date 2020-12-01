@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /de/heroes/Solmyr/
 excerpt: "Solmyr saß über tausend Jahre in einer Dschinnflasche fest und ist seinem Befreier, Gavin Magnus, dem ewigen Herrscher über das Hochland von Bracada, ewig dankbar und hat ihm immerwährende Treue geschworen."
 heroID: 61201
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: de
 ref: "Solmyr"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Blitzstrahl
- **Description:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
+ **Description:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
 
 ### 3 Spell: Windwand
- **Description:** Beschwört eine Wand aus Wind, die den Ausweichwert von verbündeten Einheiten, die sie durchqueren, {$olast11/1000} Sek. lang um {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20} %</span> und ihr Bewegungstempo um {$buffaddattr22+$buffaddattr23*($sklevel-1)} erhöht.
+ **Description:** Beschwört eine Wand aus Wind, die den Ausweichwert von verbündeten Einheiten, die sie durchqueren, {$olast11/1000} Sek. lang um {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20} %</span><span style="color: black"> und ihr Bewegungstempo um {$buffaddattr22+$buffaddattr23*($sklevel-1)} erhöht.
 
 ### 4 Spell: Blitzstrahl-Salve
- **Description:** Feuert einen Blitzstrahl ab, der 5-mal auf eine andere gegnerische Einheit überspringt. Jeder Sprung fügt <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> Luftzauberschaden zu.
+ **Description:** Feuert einen Blitzstrahl ab, der 5-mal auf eine andere gegnerische Einheit überspringt. Jeder Sprung fügt <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> Luftzauberschaden zu.
 
 
 ## HERO Biography

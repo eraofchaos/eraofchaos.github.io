@@ -3,7 +3,7 @@ title: "Риланд"
 permalink: /ru/heroes/Ryland/
 excerpt: "Риланд - первый и единственный из людей, кого полностью принял Круг эльфийских старейшин. Некоторые шутят, что он на самом деле эльф, переродившийся в человеческом теле."
 heroID: 60303
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Ryland"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Description:** 
 
 ### 4 Spell: Молитва
- **Description:** Восстанавливает <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ союзным отрядам в большой области. Цели с <span style="color: #e07c44;font-size:20px">щитом</span> восстанавливают вдвое больше здоровья.
+ **Description:** Восстанавливает <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ союзным отрядам в большой области. Цели с <span style="color: #e07c44;font-size:20px">щитом</span><span style="color: black"> восстанавливают вдвое больше здоровья.
 
 
 ## HERO Biography
@@ -67,5 +67,5 @@ toc: true
 ## Initial Mastery
    - Мудрость
    - Магия Земли
-   - Первая помощь
+   - null
    - Мистицизм

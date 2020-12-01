@@ -3,7 +3,7 @@ title: "Adelaïde"
 permalink: /fr/heroes/Adelaide/
 excerpt: "Alors qu'elle n'était qu'une jeune naufragée solitaire, Adelaïde est entrée par hasard sur le territoire des Elfes des neiges. Elle s'est entraînée pendant vingt ans à leurs côtés pour devenir la Mage la plus puissante du royaume avant de retourner en Erathia."
 heroID: 60001
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Adelaide"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche gelée
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> points de dégâts d'eau aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">ralentit</span> pendant 8s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> points de dégâts d'eau aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">ralentit</span><span style="color: black"> pendant 8s.
 
 ### 2 Spell: Éclair de glace
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> points de dégâts d'eau aux unités ennemies dans une large zone, et <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> points de dégâts d'eau additionnels aux cibles <span style="color: #e07c44;font-size:20px">ralenties.</span>
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> points de dégâts d'eau aux unités ennemies dans une large zone, et <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> points de dégâts d'eau additionnels aux cibles <span style="color: #e07c44;font-size:20px">ralenties.</span><span style="color: black">
 
 ### 3 Spell: Mur de glace
- **Description:** Invoque un Mur de glace qui <span style="color: #e07c44;font-size:20px">gèle</span> les unités ennemies à portée pendant {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Description:** Invoque un Mur de glace qui <span style="color: #e07c44;font-size:20px">gèle</span><span style="color: black"> les unités ennemies à portée pendant {($olast11+$olast12*($sklevel-1))/1000}s.
 
 ### 4 Spell: Anneau de givre
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> points de dégâts d'eau aux unités ennemies dans une large zone, et <span style="color: #e07c44;font-size:20px">gèle</span> les cibles<span style="color: #e07c44;font-size:20px">ralenties</span> pendant 5 secondes.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> points de dégâts d'eau aux unités ennemies dans une large zone, et <span style="color: #e07c44;font-size:20px">gèle</span><span style="color: black"> les cibles<span style="color: #e07c44;font-size:20px">ralenties</span><span style="color: black"> pendant 5 secondes.
 
 
 ## HERO Biography

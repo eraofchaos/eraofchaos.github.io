@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. "
 heroID: 60102
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: en
 ref: "Catherine"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Earth Arrow
- **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span> them for 3s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
 ### 2 Spell: Mirth
- **Description:** Grants <span style="color: #e07c44;font-size:20px">High Morale</span> to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Grants <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black"> to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Slayer
- **Description:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Description:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
 ### 4 Spell: Blizzard
- **Description:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and <span style="color: #e07c44;font-size:20px">slows</span> them for 8s.
+ **Description:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 
 
 ## HERO Biography

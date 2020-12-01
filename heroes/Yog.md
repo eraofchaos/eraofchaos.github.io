@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
 heroID: 60604
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: en
 ref: "Yog"
 toc: true
@@ -34,13 +34,13 @@ toc: true
 
 ## Spells
 ### 1 Spell: Fire arrow
- **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Quicksand
- **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span> for {($olast11+$olast12)/1000}s.
+ **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for {($olast11+$olast12)/1000}s.
 
 ### 3 Spell: Precision
- **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s.
+ **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
 ### 4 Spell: Energy Reverse
  **Description:** Spell damage taken by all friendly units from heroes now heals them instead, and spell recovery from heroes that heals enemy units now deals damage instead. Lasts for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.

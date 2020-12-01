@@ -3,7 +3,7 @@ title: "Ксерон"
 permalink: /ru/heroes/Xeron/
 excerpt: "Когда Люцифер Криган убил Ксенофекса и захватил власть, Ксерон первым присягнул на верность узурпатору. Это позволило ему завоевать расположение нового короля."
 heroID: 60801
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Xeron"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Огня
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span>, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 ### 2 Spell: Огненный шар
- **Description:** Непрерывно создает огненные шары в область действия, которые наносят урон Огнем противникам в области действия 6 раз и накладывают на них <span style="color: #48b946;font-size:20px">горение {($valueadd11+$valueadd12*($sklevel-1))*6} на 8 сек. Общее количество урона: </span>$value$value<($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($tadd11+$tadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*<span style="color: #e07c44;font-size:20px">*$talent2+$talent1>.
+ **Description:** Непрерывно создает огненные шары в область действия, которые наносят урон Огнем противникам в области действия 6 раз и накладывают на них <span style="color: #48b946;font-size:20px">горение {($valueadd11+$valueadd12*($sklevel-1))*6} на 8 сек. Общее количество урона: </span><span style="color: black">$value$value<($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($tadd11+$tadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*<span style="color: #e07c44;font-size:20px">*$talent2+$talent1>.
 
 ### 3 Spell: Убийца
  **Description:** 
 
 ### 4 Spell: Эхо Бездны
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона Огнем противникам в определенной области и призывает 1 дьявола <span style="color: #48b946;font-size:20px">{$sklevel}</span> ур. с <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span> АТК и иммунитетом к любому урону. Дьявол остается на 10 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона Огнем противникам в определенной области и призывает 1 дьявола <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. с <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> АТК и иммунитетом к любому урону. Дьявол остается на 10 сек.
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 
 
 ## Initial Mastery
-   - null
+   - Наступление
    - Волшебство
    - Ученый
    - Поиск пути

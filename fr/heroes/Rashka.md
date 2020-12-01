@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /fr/heroes/Rashka/
 excerpt: "Rashka utilise la peur pour mener ses troupes à la victoire. Jusqu'ici, sa stratégie s'est révélée très efficace."
 heroID: 60802
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Rashka"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche de feu
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de dégâts de feu aux unités ennemies à portée et les <span style="color: #e07c44;font-size:20px">brûle</span> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de dégâts de feu aux unités ennemies à portée et les <span style="color: #e07c44;font-size:20px">brûle</span><span style="color: black"> pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Malédiction
- **Description:** Réduit l'ATQ des unités ciblées de <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span> pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes dans une large zone.
+ **Description:** Réduit l'ATQ des unités ciblées de <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black"> pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes dans une large zone.
 
 ### 3 Spell: Furie sanguinaire
- **Description:** Augmente l'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % et le drain de vie de {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pour les unités alliées dans une large zone pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes.
+ **Description:** Augmente l'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % et le drain de vie de {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % pour les unités alliées dans une large zone pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes.
 
 ### 4 Spell: Flamme infernale
- **Description:** Invoque une Crevasse d'Hadès, infligeant <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> points de dégâts de feu aux unités ennemies autour toutes les 0,5s pendant {$olast11/1000}s. Les dégâts sont réduits de moitié contre les unités d'Hadès.
+ **Description:** Invoque une Crevasse d'Hadès, infligeant <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> points de dégâts de feu aux unités ennemies autour toutes les 0,5s pendant {$olast11/1000}s. Les dégâts sont réduits de moitié contre les unités d'Hadès.
 
 
 ## HERO Biography

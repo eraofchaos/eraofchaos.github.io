@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead."
 heroID: 60603
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: en
 ref: "Shiva"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Fire arrow
- **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 2 Spell: Air Shield
- **Description:** Increases the dodge of friendly units within a certain range by {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% and grants them immunity to air spell damage, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Increases the dodge of friendly units within a certain range by {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% and grants them immunity to air spell damage, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Air Elemental
- **Description:** Summon 9 Air Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> in the target area. Air Elementals will remain for 20s and attack from a distance with an ATK of <span style="color: #48b946;font-size:20px">{220+60*($sklevel-1)}</span><(220+60*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{3900+1694*($sklevel-1)}</span><(3900+1694*($sklevel-1))*$talent14+$talent13>.
+ **Description:** Summon 9 Air Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Air Elementals will remain for 20s and attack from a distance with an ATK of <span style="color: #48b946;font-size:20px">{220+60*($sklevel-1)}</span><span style="color: black"><(220+60*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{3900+1694*($sklevel-1)}</span><span style="color: black"><(3900+1694*($sklevel-1))*$talent14+$talent13>.
 
 ### 4 Spell: Storm
- **Description:** Summons a storm in the target area, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all units in a certain area every 0.5s and reducing their ATK speed by 15%, lasting for {$olast11/1000}s.
+ **Description:** Summons a storm in the target area, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all units in a certain area every 0.5s and reducing their ATK speed by 15%, lasting for {$olast11/1000}s.
 
 
 ## HERO Biography

@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /fr/heroes/Catherine/
 excerpt: "En tant que reine d'Erathia, Catherine est contrainte de faire la guerre pour préserver le royaume fondé par son père. Elle luttera jusqu'à l'ultime épreuve de la lame d'Armageddon."
 heroID: 60102
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Catherine"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche terrestre
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span> pendant 3 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span><span style="color: black"> pendant 3 s.
 
 ### 2 Spell: Félicité
- **Description:** Octroie <span style="color: #e07c44;font-size:20px">Exaltation</span> à toutes unités alliées à portée (sauf celles de la Nécropole), augmentant leur vitesse d'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> % pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes.
+ **Description:** Octroie <span style="color: #e07c44;font-size:20px">Exaltation</span><span style="color: black"> à toutes unités alliées à portée (sauf celles de la Nécropole), augmentant leur vitesse d'ATQ de {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> % pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes.
 
 ### 3 Spell: Pourfendeur
- **Description:** Augmente l'ATQ de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span> pour les unités alliées dans une large zone pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes. Cette durée est prolongée de 5 secondes supplémentaires pour les unités de 9 combattants.
+ **Description:** Augmente l'ATQ de <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black"> pour les unités alliées dans une large zone pendant {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> secondes. Cette durée est prolongée de 5 secondes supplémentaires pour les unités de 9 combattants.
 
 ### 4 Spell: Blizzard
- **Description:** Invoque un Blizzard, infligeant des dégâts d'eau 5 fois (pour un total de <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1> points de dégâts) aux unités ennemies dans une large zone, et les <span style="color: #e07c44;font-size:20px">ralentit</span> en plus pour 8 secondes.
+ **Description:** Invoque un Blizzard, infligeant des dégâts d'eau 5 fois (pour un total de <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1> points de dégâts) aux unités ennemies dans une large zone, et les <span style="color: #e07c44;font-size:20px">ralentit</span><span style="color: black"> en plus pour 8 secondes.
 
 
 ## HERO Biography

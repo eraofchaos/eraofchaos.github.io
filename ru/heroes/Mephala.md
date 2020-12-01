@@ -3,7 +3,7 @@ title: "Мефала"
 permalink: /ru/heroes/Mephala/
 excerpt: "Обученная в эрафийской армии Мефала всегда умела обернуть особенности рельефа в свою пользу. И хотя Мефала предпочитает тихую и мирную родную деревушку, она осталась на службе ради своей страны."
 heroID: 60302
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Mephala"
 toc: true
@@ -32,7 +32,7 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Каменная кожа
  **Description:** 
@@ -75,10 +75,11 @@ toc: true
 
    - Чемпион Ристалища
    - Новейший дизайн героя
+   - Уникальный аватар
 
 
 ## Initial Mastery
-   - Стрельба
+   - null
    - Доспехи
    - null
    - Поиск пути

@@ -3,7 +3,7 @@ title: "Sandro (humain)"
 permalink: /fr/heroes/Human Sandro/
 excerpt: "Sandro (humain), apprenti du Mage Eric de Bracada, est un jeune Mage venu d'Enroth par la mer. Il dissimule ses ambitions, au point que même son maître et ses proches ignorent tout de ses intentions."
 heroID: 60503
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Human Sandro"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Nécromancie
- **Description:** Invoque 9 Squelettes de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span> dans la zone cible. Ils persistent 20s avec une ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span> et <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span> PV.
+ **Description:** Invoque 9 Squelettes de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> dans la zone cible. Ils persistent 20s avec une ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> et <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> PV.
 
 ### 2 Spell: Élémentaire de terre
- **Description:** Invoque 4 Élémentaires de terre de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span> dans la zone cible. Ils persistent toute la bataille avec une ATQ de <span style="color: #48b946;font-size:20px">{440+120*($sklevel-1)}</span><(440+120*($sklevel-1))*$talent14+$talent13> et <span style="color: #48b946;font-size:20px">{9600+4170*($sklevel-1)}</span><(9600+4170*($sklevel-1))*$talent14+$talent13> PV.
+ **Description:** Invoque 4 Élémentaires de terre de niveau <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> dans la zone cible. Ils persistent toute la bataille avec une ATQ de <span style="color: #48b946;font-size:20px">{440+120*($sklevel-1)}</span><span style="color: black"><(440+120*($sklevel-1))*$talent14+$talent13> et <span style="color: #48b946;font-size:20px">{9600+4170*($sklevel-1)}</span><span style="color: black"><(9600+4170*($sklevel-1))*$talent14+$talent13> PV.
 
 ### 3 Spell: Animation des morts
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies à portée (sauf Nécropole), et restaure la santé des unités de la Nécropole alliées de <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> PV.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies à portée (sauf Nécropole), et restaure la santé des unités de la Nécropole alliées de <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> PV.
 
 ### 4 Spell: Manteau des ombres
- **Description:** Invoque une ombre persistant 10s, qui inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies à portée chaque seconde et réduit leur vitesse d'ATQ de 30 %, tout en augmentant la vitesse d'ATQ et le drain de vie des unités de la Nécropole alliées de 30 %.
+ **Description:** Invoque une ombre persistant 10s, qui inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies à portée chaque seconde et réduit leur vitesse d'ATQ de 30 %, tout en augmentant la vitesse d'ATQ et le drain de vie des unités de la Nécropole alliées de 30 %.
 
 
 ## HERO Biography

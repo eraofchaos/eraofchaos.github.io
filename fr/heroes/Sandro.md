@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /fr/heroes/Sandro/
 excerpt: "Le nécromancien Sandro connaît Enroth et Erathia dans leurs moindres recoins. Il semble à présent soutenir Finneas Vilmar, chef des nécromanciens de Deyja."
 heroID: 60501
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: fr
 ref: "Sandro"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flèche terrestre
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span> pendant 3 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> points de dégâts de terre aux ennemis à portée et les <span style="color: #e07c44;font-size:20px">étourdit</span><span style="color: black"> pendant 3 s.
 
 ### 2 Spell: Animation des morts
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies à portée (sauf Nécropole), et restaure la santé des unités de la Nécropole alliées de <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> PV.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies à portée (sauf Nécropole), et restaure la santé des unités de la Nécropole alliées de <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> PV.
 
 ### 3 Spell: Implosion
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies, avec 50 % de chance de les <span style="color: #e07c44;font-size:20px">étourdir</span> pendant 2s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points de dégâts de terre aux unités ennemies, avec 50 % de chance de les <span style="color: #e07c44;font-size:20px">étourdir</span><span style="color: black"> pendant 2s.
 
 ### 4 Spell: Heures sombres
- **Description:** Inflige des dégâts de terre à toutes les unités ennemies (sauf Nécropole) équivalents à <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points plus 5 % de leurs PV max et les <span style="color: #e07c44;font-size:20px">démotive</span> pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s. Les unités de la Nécropole alliées récupèrent <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> PV, mais sont aussi <span style="color: #e07c44;font-size:20px">démotivées</span>.
+ **Description:** Inflige des dégâts de terre à toutes les unités ennemies (sauf Nécropole) équivalents à <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> points plus 5 % de leurs PV max et les <span style="color: #e07c44;font-size:20px">démotive</span><span style="color: black"> pendant <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s. Les unités de la Nécropole alliées récupèrent <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> PV, mais sont aussi <span style="color: #e07c44;font-size:20px">démotivées</span><span style="color: black">.
 
 
 ## HERO Biography

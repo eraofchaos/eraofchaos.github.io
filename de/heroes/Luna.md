@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /de/heroes/Luna/
 excerpt: "Luna lebte in Enroth, als sie hörte, dass ein Elementar in Erathia aufgetaucht war. Da sie glaubte, dort weitaus mächtigere Magie zu lernen, überquerte sie das Meer, um neue Geheimnisse zu lüften."
 heroID: 60701
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: de
 ref: "Luna"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Feuerpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44;font-size:20px">verbrennt</span> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44;font-size:20px">verbrennt</span><span style="color: black"> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 2 Spell: Blutdurst
- **Description:** Erhöht den Angriff verbündeter Einheiten innerhalb einer großen Reichweite um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % und den Lebensentzug um {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
+ **Description:** Erhöht den Angriff verbündeter Einheiten innerhalb einer großen Reichweite um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % und den Lebensentzug um {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
 
 ### 3 Spell: Feuerwand
- **Description:** Beschwört eine Feuerwand, die gegnerischen Einheiten im Umkreis {($olast11+$olast12)/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> kontinuierlichen Feuerzauberschaden zufügt.
+ **Description:** Beschwört eine Feuerwand, die gegnerischen Einheiten im Umkreis {($olast11+$olast12)/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> kontinuierlichen Feuerzauberschaden zufügt.
 
 ### 4 Spell: Brennendes Land
- **Description:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Feuerzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Feuerschaden bei <span style="color: #e07c44;font-size:20px">brennenden Zielen.</span>
+ **Description:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Feuerzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Feuerschaden bei <span style="color: #e07c44;font-size:20px">brennenden Zielen.</span><span style="color: black">
 
 
 ## HERO Biography

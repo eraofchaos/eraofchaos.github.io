@@ -3,7 +3,7 @@ title: "Раска"
 permalink: /ru/heroes/Rashka/
 excerpt: "Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
 heroID: 60802
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Rashka"
 toc: true
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Огня
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span>, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 ### 2 Spell: Проклятие
- **Description:** Снижает атаку выбранных противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span>; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Description:** Снижает атаку выбранных противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Жажда крови
  **Description:** 
 
 ### 4 Spell: Пламя Инферно
- **Description:** Открывает разлом в ад, который наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {$olast11/1000} сек. Отряды Инферно получат вдвое меньше урона.
+ **Description:** Открывает разлом в ад, который наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {$olast11/1000} сек. Отряды Инферно получат вдвое меньше урона.
 
 
 ## HERO Biography
@@ -64,7 +64,7 @@ toc: true
    - Элементаль Огня
    - Ученики огня
 
-### Skin 2: **Пепельный тиран**
+### Skin 2: **null**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Раcка держал под пятой Землю пепла - так он назвал уничтоженную Эрафию. </span>
 
@@ -77,6 +77,6 @@ toc: true
 
 ## Initial Mastery
    - Мудрость
-   - null
+   - Магия Огня
    - Мистицизм
    - null

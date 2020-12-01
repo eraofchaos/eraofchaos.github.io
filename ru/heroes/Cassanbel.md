@@ -3,7 +3,7 @@ title: "Кассанбель"
 permalink: /ru/heroes/Cassanbel/
 excerpt: "И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море."
 heroID: 61701
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: ru
 ref: "Cassanbel"
 toc: true
@@ -32,7 +32,7 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Холода
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span> их на 8 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span><span style="color: black"> их на 8 сек.
 
 ### 2 Spell: Благословение океана
  **Description:** 
@@ -55,6 +55,6 @@ toc: true
 
 ## Initial Mastery
    - null
-   - null
+   - Наступление
    - Волшебство
    - Ученый

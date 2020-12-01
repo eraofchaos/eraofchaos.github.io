@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /de/heroes/Adelaide/
 excerpt: "Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: de
 ref: "Adelaide"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frostpfeil
- **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span>
+ **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
 ### 2 Spell: Eisstrahl
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> Wasserzauberschaden bei <span style="color: #e07c44;font-size:20px">verlangsamten Zielen.</span>
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> Wasserzauberschaden bei <span style="color: #e07c44;font-size:20px">verlangsamten Zielen.</span><span style="color: black">
 
 ### 3 Spell: Eismauer
- **Description:** Beschwört 1 Eismauer, die gegnerische Einheiten in der Nähe {($olast11+$olast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">einfriert.</span>
+ **Description:** Beschwört 1 Eismauer, die gegnerische Einheiten in der Nähe {($olast11+$olast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">einfriert.</span><span style="color: black">
 
 ### 4 Spell: Frostring
- **Description:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und lässt <span style="color: #e07c44;font-size:20px">verlangsamte</span> Ziele 5 Sek. lang <span style="color: #e07c44;font-size:20px">erstarren.</span>
+ **Description:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und lässt <span style="color: #e07c44;font-size:20px">verlangsamte</span><span style="color: black"> Ziele 5 Sek. lang <span style="color: #e07c44;font-size:20px">erstarren.</span><span style="color: black">
 
 
 ## HERO Biography

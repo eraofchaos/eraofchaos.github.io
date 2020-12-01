@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /de/heroes/Kassandra/
 excerpt: "Kassandras herausragende Kampffähigkeiten verdankt sie ihrer spartanischen Erziehung. Nachdem die Spartaner sie auf dem Berg Taygetos ihrem Tod überlassen hatten, wurde sie zur Söldnerin."
 heroID: 62001
-last_modified_at: 2020-11-30
+last_modified_at: 2020-12-01
 lang: de
 ref: "Kassandra"
 toc: true
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Verst.-Kl.-Attentat
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">bluten</span>.
+ **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">bluten</span><span style="color: black">.
 
 ### 2 Spell: Rasend
- **Description:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und erhöht {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang den zugefügten Schaden um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span>.
+ **Description:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und erhöht {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang den zugefügten Schaden um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black">.
 
 ### 3 Spell: Schweigen
- **Description:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">verstummen</span>.
+ **Description:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">verstummen</span><span style="color: black">.
 
 ### 4 Spell: Speer des Leonidas
- **Description:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und verursacht {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">Verbrennung</span> und <span style="color: #e07c44;font-size:20px">Betäubung</span>.
+ **Description:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und verursacht {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">Verbrennung</span><span style="color: black"> und <span style="color: #e07c44;font-size:20px">Betäubung</span><span style="color: black">.
 
 
 ## HERO Biography
