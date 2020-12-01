@@ -10,12 +10,12 @@ classes: wide
 ---
 
 ## <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
-   <span style="color: #3c2a1e">1. During the event, players roll dice to earn awesome rewards.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">2. Square rewards will be refreshed each time you pass the starting point.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">3. You can get several free dice rolls every day during the event. Once you've used up your free rolls, you can purchase more. Rolls reset on the following day.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">4. You can earn coupons, Teleportation spells, and Dragon Blood Crystals through dialog events. Coupon value is fixed at 300 and can be used for a limited time and in limited quantities at the store. Only one coupon can be used per purchase, and coupons do not stack. In addition to being earned through event dialog, Teleportation spells can be earned when daily mission Activity reaches 100/200. Teleportation spells can be used via the bottom right corner of the Events screen.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">5. Limited-time Store: Different discounted items will be sold for a limited time every day during the event.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">1. During the event, players roll dice to earn awesome rewards.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">2. Square rewards will be refreshed each time you pass the starting point.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">3. You can get several free dice rolls every day during the event. Once you've used up your free rolls, you can purchase more. Rolls reset on the following day.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">4. You can earn coupons, Teleportation spells, and Dragon Blood Crystals through dialog events. Coupon value is fixed at 300 and can be used for a limited time and in limited quantities at the store. Only one coupon can be used per purchase, and coupons do not stack. In addition to being earned through event dialog, Teleportation spells can be earned when daily mission Activity reaches 100/200. Teleportation spells can be used via the bottom right corner of the Events screen.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">5. Limited-time Store: Different discounted items will be sold for a limited time every day during the event.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.</span><br/>
 ## Items on map: 
 
   -  1 Bag of heavy diamonds. 

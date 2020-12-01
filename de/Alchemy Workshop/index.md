@@ -2,7 +2,7 @@
 title: "Alchemiewerkstatt"
 permalink: /de/Alchemy Workshop/
 excerpt: "Alchemiewerkstatt.Die Alchemiewerkstatt ist ein wahrlich wundervoller Ort. Sie beherbergt nicht nur das Wissen verschiedener Völker, sondern produziert laufend verblüffende neue Dinge."
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: de
 ref: "index.md"
 toc: false
@@ -13,57 +13,9 @@ classes: wide
 
 ## Rules
 
-  <span style="color: #8a5c1d"> Eine geheimnisumwobene Insel erhebt sich im Meer wie aus dem Nichts. Auf ihr fand man eine staubige uralte Werkstatt, die voller wundersamer alchemistischer Gerätschaften ist. <span style="color: black">
+  <span style="color: #8a5c1d;font-size:18px"> Eine geheimnisumwobene Insel erhebt sich im Meer wie aus dem Nichts. Auf ihr fand man eine staubige uralte Werkstatt, die voller wundersamer alchemistischer Gerätschaften ist. </span><br/><span style="color: #ffffff;font-size:16px">　</span><br/><span style="color: #3c2a1e;font-size:22px">Allgemeine Regeln</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/><span style="color: #645252;font-size:16px"> 1. Alchemietrank: Alchemietränke sind das essenzielle Produktionsmaterial der Werkstatt und können durch die Veredelung von Material erhalten werden. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/><span style="color: #645252;font-size:16px"> 2. Alchemielager: Das Lager bietet Platz für maximal 9 Formelprodukte. Die Produkte müssen geerntet und manuell in das Paket gelegt werden. Die Alchemiewerkstatt hält die Produktion an, wenn das Alchemielager voll ist. </span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px"> 3. Alchemieformeln: Die Formeln sind die Träger der alchemistischen Produktion und halten die Zeit, Materialien und Ergebnisse der Produktion fest. </span><br/><span style="color: #ffffff;font-size:16px"></span><br/><span style="color: #3c2a1e;font-size:22px">Alchemieproduktion</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px"> 1. Die Werkstatt produziert immer 1 Formel. Nach der Produktion wird die Formel als Nächste produziert, die in der Produktionswarteschlange an erster Stelle steht. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/><span style="color: #645252;font-size:16px"> 2. Ziehe und füge der Produktionswarteschlange eine Formel hinzu. Die benötigten Materialien werden abgezogen, wenn du eine Formel hinzufügst. </span><br/><span style="color: #645252;font-size:16px"> 3. Es dauert, eine Formel zu produzieren. Wenn die Produktionszeit abgelaufen ist, wird das Produkt im Alchemielager aufbewahrt. </span><br/><span style="color: #645252;font-size:16px"> 4. Es gibt verschiedene Qualitätsgrade von alchemistischen Formeln. Jede höher die Qualität, desto effizienter die Formel. </span><br/><span style="color: #ffffff;font-size:16px"></span><br/><span style="color: #3c2a1e;font-size:22px"> Formelaktualisierung </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">1. Täglich um 5 Uhr werden aus dem Formellager 8 neue Formeln für die Spieler ausgewählt. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/><span style="color: #645252;font-size:16px"> 2. Spieler haben pro Tag 3 Gratis-Formelaktualisierungen zur Verfügung. Wenn die Gratisaktualisierungen aufgebraucht sind, kostet das Aktualisieren Diamanten.</span>
 
-　<span style="color: black">
-
-<span style="color: #3c2a1e">Allgemeine Regeln<span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 1. Alchemietrank: Alchemietränke sind das essenzielle Produktionsmaterial der Werkstatt und können durch die Veredelung von Material erhalten werden. <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 2. Alchemielager: Das Lager bietet Platz für maximal 9 Formelprodukte. Die Produkte müssen geerntet und manuell in das Paket gelegt werden. Die Alchemiewerkstatt hält die Produktion an, wenn das Alchemielager voll ist. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252"> 3. Alchemieformeln: Die Formeln sind die Träger der alchemistischen Produktion und halten die Zeit, Materialien und Ergebnisse der Produktion fest. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #3c2a1e">Alchemieproduktion<span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252"> 1. Die Werkstatt produziert immer 1 Formel. Nach der Produktion wird die Formel als Nächste produziert, die in der Produktionswarteschlange an erster Stelle steht. <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 2. Ziehe und füge der Produktionswarteschlange eine Formel hinzu. Die benötigten Materialien werden abgezogen, wenn du eine Formel hinzufügst. <span style="color: black">
-
-<span style="color: #645252"> 3. Es dauert, eine Formel zu produzieren. Wenn die Produktionszeit abgelaufen ist, wird das Produkt im Alchemielager aufbewahrt. <span style="color: black">
-
-<span style="color: #645252"> 4. Es gibt verschiedene Qualitätsgrade von alchemistischen Formeln. Jede höher die Qualität, desto effizienter die Formel. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #3c2a1e"> Formelaktualisierung <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">1. Täglich um 5 Uhr werden aus dem Formellager 8 neue Formeln für die Spieler ausgewählt. <span style="color: black">
-
-　<span style="color: black">
-
-<span style="color: #645252"> 2. Spieler haben pro Tag 3 Gratis-Formelaktualisierungen zur Verfügung. Wenn die Gratisaktualisierungen aufgebraucht sind, kostet das Aktualisieren Diamanten.<span style="color: black">
-
-<br/>  <span style="color: #562600">In der uralten Alchemiewerkstatt kannst du aus Veredelungsmaterial Alchemietränke brauen und die entsprechenden Gegenstände mittels uralter Formeln herstellen.<span style="color: black">
+<br/>  <span style="color: #562600">In der uralten Alchemiewerkstatt kannst du aus Veredelungsmaterial Alchemietränke brauen und die entsprechenden Gegenstände mittels uralter Formeln herstellen.</span>
 
 <br/>  You can get **Alchemietrank** (Ein Alchemietrank, den man erhält, indem man Materialien in der Alchemiewerkstatt veredelt.) **by refining materials:**
 

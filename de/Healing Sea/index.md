@@ -10,12 +10,12 @@ classes: wide
 ---
 
 ## <span style="color: #3c2a1e;font-size:22px">Ereignisregeln</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
-   <span style="color: #3c2a1e">1. Während des Ereignisses würfeln Spieler, um tolle Belohnungen zu erhalten.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">2. Feldbelohnungen werden jedes Mal aktualisiert, wenn du den Startpunkt passierst.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">3. Während des Ereignisses kannst du jeden Tag kostenlose Würfelwürfe erhalten. Sobald du deine kostenlosen Würfelwürfe aufgebraucht hast, kannst du weitere kaufen. Die Würfe werden am Tag darauf zurückgesetzt.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">4. Du kannst Coupons, Teleport-Zauber und Drachenblutkristalle in Dialogereignissen erhalten. Die Coupons sind auf einen Wert von 300 festgelegt und können für begrenzte Zeit in begrenzten Mengen im Laden eingelöst werden. Pro Kauf kann nur ein Coupon eingelöst werden, sie sind nicht stapelbar. Neben dem Erhalt in Dialogereignissen können Teleport-Zauber auch erlangt werden, wenn die Aktivität der Tagesmission 100/200 erreicht. Teleport-Zauber können über die untere rechte Ecke der Ereignis-Anzeige eingesetzt werden.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">5. Zeitbegrenzter Laden: Während des Ereignisses werden jeden Tag für begrenzte Zeit verschiedene ermäßigte Gegenstände verkauft.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">6. Mengenbegrenzter Laden: Während des Ereignisses werden jeden Tag ermäßigte Einheiten des Tages verkauft.</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">1. Während des Ereignisses würfeln Spieler, um tolle Belohnungen zu erhalten.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">2. Feldbelohnungen werden jedes Mal aktualisiert, wenn du den Startpunkt passierst.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">3. Während des Ereignisses kannst du jeden Tag kostenlose Würfelwürfe erhalten. Sobald du deine kostenlosen Würfelwürfe aufgebraucht hast, kannst du weitere kaufen. Die Würfe werden am Tag darauf zurückgesetzt.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">4. Du kannst Coupons, Teleport-Zauber und Drachenblutkristalle in Dialogereignissen erhalten. Die Coupons sind auf einen Wert von 300 festgelegt und können für begrenzte Zeit in begrenzten Mengen im Laden eingelöst werden. Pro Kauf kann nur ein Coupon eingelöst werden, sie sind nicht stapelbar. Neben dem Erhalt in Dialogereignissen können Teleport-Zauber auch erlangt werden, wenn die Aktivität der Tagesmission 100/200 erreicht. Teleport-Zauber können über die untere rechte Ecke der Ereignis-Anzeige eingesetzt werden.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">5. Zeitbegrenzter Laden: Während des Ereignisses werden jeden Tag für begrenzte Zeit verschiedene ermäßigte Gegenstände verkauft.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e;font-size:16px">6. Mengenbegrenzter Laden: Während des Ereignisses werden jeden Tag ermäßigte Einheiten des Tages verkauft.</span><br/>
 ## Items on map: 
 
   -  1 Beutel mit schweren Diamanten. 
