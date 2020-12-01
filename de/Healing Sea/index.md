@@ -9,14 +9,14 @@ toc: false
 classes: wide
 ---
 
-## <span style="color: #3c2a1e;font-size:22px">Ereignisregeln</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
+#### <span style="color: #3c2a1e;font-size:22px">Ereignisregeln</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
    <span style="color: #3c2a1e;font-size:16px">1. Während des Ereignisses würfeln Spieler, um tolle Belohnungen zu erhalten.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">2. Feldbelohnungen werden jedes Mal aktualisiert, wenn du den Startpunkt passierst.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">3. Während des Ereignisses kannst du jeden Tag kostenlose Würfelwürfe erhalten. Sobald du deine kostenlosen Würfelwürfe aufgebraucht hast, kannst du weitere kaufen. Die Würfe werden am Tag darauf zurückgesetzt.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">4. Du kannst Coupons, Teleport-Zauber und Drachenblutkristalle in Dialogereignissen erhalten. Die Coupons sind auf einen Wert von 300 festgelegt und können für begrenzte Zeit in begrenzten Mengen im Laden eingelöst werden. Pro Kauf kann nur ein Coupon eingelöst werden, sie sind nicht stapelbar. Neben dem Erhalt in Dialogereignissen können Teleport-Zauber auch erlangt werden, wenn die Aktivität der Tagesmission 100/200 erreicht. Teleport-Zauber können über die untere rechte Ecke der Ereignis-Anzeige eingesetzt werden.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">5. Zeitbegrenzter Laden: Während des Ereignisses werden jeden Tag für begrenzte Zeit verschiedene ermäßigte Gegenstände verkauft.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">6. Mengenbegrenzter Laden: Während des Ereignisses werden jeden Tag ermäßigte Einheiten des Tages verkauft.</span><br/>
-## Items on map: 
+#### Items on map: 
 
   -  1 Beutel mit schweren Diamanten. 
 
@@ -29,9 +29,9 @@ classes: wide
 **Tip:** Mein Lord, du erhältst Belohnungen für das Erreichen der erforderlichen Abschlussanzahl!
 {: .notice--danger}
 
-## Führe eine schöne Begegnung herbei! 
+#### Führe eine schöne Begegnung herbei! 
 
-### 1. Wer würde in einem epischen Kampf mehr Orks töten? Der Zwerg oder die Waldelfe? 
+##### 1. Wer würde in einem epischen Kampf mehr Orks töten? Der Zwerg oder die Waldelfe? 
 
    **Title:**  Eine Herausforderung zwischen engen Freunden
 
@@ -45,7 +45,7 @@ classes: wide
 
 ---
 
-### 2. Das Feuer anfachen oder das Feuer löschen, _________. 
+##### 2. Das Feuer anfachen oder das Feuer löschen, _________. 
 
    **Title:**  Das Feuer anfachen oder löschen.
 
@@ -59,7 +59,7 @@ classes: wide
 
 ---
 
-### 3. Wer kam aus der Tiefe, fiel über die Welt her und eroberte alles um sich herum? 
+##### 3. Wer kam aus der Tiefe, fiel über die Welt her und eroberte alles um sich herum? 
 
    **Title:**  Ich kam, sah und siegte.
 
@@ -73,7 +73,7 @@ classes: wide
 
 ---
 
-### 4. Wollen wir einen Schneemann bauen? 
+##### 4. Wollen wir einen Schneemann bauen? 
 
    **Title:**  Schneemann
 
@@ -87,7 +87,7 @@ classes: wide
 
 ---
 
-### 5. Der Zentaur und der Minotaurus machen einen Liegstütz-Wettbewerb. Wer gewinnt? 
+##### 5. Der Zentaur und der Minotaurus machen einen Liegstütz-Wettbewerb. Wer gewinnt? 
 
    **Title:**  Liegestütze
 
@@ -101,7 +101,7 @@ classes: wide
 
 ---
 
-### 6. Wer wird wahrscheinlicher das Abenteuer eines Abenteurers unterbrechen? 
+##### 6. Wer wird wahrscheinlicher das Abenteuer eines Abenteurers unterbrechen? 
 
    **Title:**  Alter Abenteurer
 
@@ -115,7 +115,7 @@ classes: wide
 
 ---
 
-### 7. Wer starb und zerstörte dann die Eismauer? 
+##### 7. Wer starb und zerstörte dann die Eismauer? 
 
    **Title:**  Nekromantie des untoten Königs
 
@@ -129,7 +129,7 @@ classes: wide
 
 ---
 
-### 8. Mut, Glaube und ________! 
+##### 8. Mut, Glaube und ________! 
 
    **Title:**  Motto
 
@@ -143,7 +143,7 @@ classes: wide
 
 ---
 
-### 9. Das Inferno ist leer und alle ________ sind hier. 
+##### 9. Das Inferno ist leer und alle ________ sind hier. 
 
    **Title:**  Engel und Dämonen
 
@@ -157,7 +157,7 @@ classes: wide
 
 ---
 
-### 10. Trickst du mich einmal aus, Schande über dich. Trickst du mich zweimal aus, _______. 
+##### 10. Trickst du mich einmal aus, Schande über dich. Trickst du mich zweimal aus, _______. 
 
    **Title:**  Tricks mich aus
 
@@ -171,7 +171,7 @@ classes: wide
 
 ---
 
-### 11. Welche Fraktion hat die Einheiten mit den effizientesten Augentropfen? 
+##### 11. Welche Fraktion hat die Einheiten mit den effizientesten Augentropfen? 
 
    **Title:**  Augentropfen
 

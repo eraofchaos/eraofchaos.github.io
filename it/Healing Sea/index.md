@@ -9,14 +9,14 @@ toc: false
 classes: wide
 ---
 
-## <span style="color: #3c2a1e;font-size:22px">Regole evento</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
+#### <span style="color: #3c2a1e;font-size:22px">Regole evento</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
    <span style="color: #3c2a1e;font-size:16px">1. Durante l'evento, i giocatori tirano i dadi per ricevere fantastiche ricompense.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">2. Le ricompense delle caselle si resettano ogni volta che torni al punto di partenza.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">3. Nel corso dell'evento potrai ottenere numerosi tiri di dadi gratuiti ogni giorno. Una volta esauriti i tiri gratuiti potrai sempre acquistarne altri. I tiri si resettano ogni giorno.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">4. I dialoghi permettono di ottenere coupon, incantesimi del Teletrasporto e Cristalli di sangue draconico. Potrai ottenere un massimo di 300 coupon, utilizzabili per un periodo specifico e in quantità limitate presso il negozio. Potrai utilizzare un massimo di 1 coupon per acquisto. I coupon non sono cumulabili. Oltre che tramite i dialoghi dell'evento, potrai ottenere incantesimi del Teletrasporto raggiungendo un totale di 100/200 punti Attività giornaliera nelle missioni. Gli incantesimi del Teletrasporto sono attivabili dall'angolo in basso a destra della schermata degli eventi.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">5. Negozio a tempo limitato: nel corso dell'evento troverai vari oggetti in offerta per un periodo limitato.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">6. Negozio a quantità limitate: nel corso dell'evento potrai acquistare ogni giorno unità in evidenza diverse a prezzo scontato.</span><br/>
-## Items on map: 
+#### Items on map: 
 
   -  1 sacca pesante di Diamanti. 
 
@@ -29,9 +29,9 @@ classes: wide
 **Tip:** Mio Signore, completa la fase per la quantità di volte indicata per ottenere ricompense!
 {: .notice--danger}
 
-## Incontro meraviglioso in arrivo! 
+#### Incontro meraviglioso in arrivo! 
 
-### 1. Chi ucciderà più Orchi in un epico scontro? Lo Gnomo o l'Elfo del bosco? 
+##### 1. Chi ucciderà più Orchi in un epico scontro? Lo Gnomo o l'Elfo del bosco? 
 
    **Title:**  Una sfida tra grandi amici.
 
@@ -45,7 +45,7 @@ classes: wide
 
 ---
 
-### 2. Alimentare il fuoco o spegnerlo, _________. 
+##### 2. Alimentare il fuoco o spegnerlo, _________. 
 
    **Title:**  Alimentare il fuoco o spegnerlo.
 
@@ -59,7 +59,7 @@ classes: wide
 
 ---
 
-### 3. Chi è giunto dagli abissi e ha esplorato il mondo intero, conquistando ogni cosa incontrasse? 
+##### 3. Chi è giunto dagli abissi e ha esplorato il mondo intero, conquistando ogni cosa incontrasse? 
 
    **Title:**  Venni, vidi, vinsi.
 
@@ -73,7 +73,7 @@ classes: wide
 
 ---
 
-### 4. Vuoi fare un pupazzo di neve? 
+##### 4. Vuoi fare un pupazzo di neve? 
 
    **Title:**  Pupazzo di neve
 
@@ -87,7 +87,7 @@ classes: wide
 
 ---
 
-### 5. Il Centauro sfida il Minotauro in una gara a chi fa più piegamenti. Chi vince, secondo te? 
+##### 5. Il Centauro sfida il Minotauro in una gara a chi fa più piegamenti. Chi vince, secondo te? 
 
    **Title:**  Piegamenti
 
@@ -101,7 +101,7 @@ classes: wide
 
 ---
 
-### 6. Cosa ha più probabilità di interrompere un'avventura in corso? 
+##### 6. Cosa ha più probabilità di interrompere un'avventura in corso? 
 
    **Title:**  Vecchio avventuriero
 
@@ -115,7 +115,7 @@ classes: wide
 
 ---
 
-### 7. Chi è morto e in seguito ha distrutto la Barriera di ghiaccio? 
+##### 7. Chi è morto e in seguito ha distrutto la Barriera di ghiaccio? 
 
    **Title:**  La Negromanzia del Re Non Morto
 
@@ -129,7 +129,7 @@ classes: wide
 
 ---
 
-### 8. Coraggio, fede e ________! 
+##### 8. Coraggio, fede e ________! 
 
    **Title:**  Motto
 
@@ -143,7 +143,7 @@ classes: wide
 
 ---
 
-### 9. L'Inferno si è svuotato, rigurgitando qui i suoi ________. 
+##### 9. L'Inferno si è svuotato, rigurgitando qui i suoi ________. 
 
    **Title:**  Angeli e demoni
 
@@ -157,7 +157,7 @@ classes: wide
 
 ---
 
-### 10. Ingannami una volta e la colpa è tua. Ingannami due volte e _______. 
+##### 10. Ingannami una volta e la colpa è tua. Ingannami due volte e _______. 
 
    **Title:**  Ingannami una volta
 
@@ -171,7 +171,7 @@ classes: wide
 
 ---
 
-### 11. Quale fazione vanta le unità che spendono di meno per il collirio? 
+##### 11. Quale fazione vanta le unità che spendono di meno per il collirio? 
 
    **Title:**  Collirio
 
