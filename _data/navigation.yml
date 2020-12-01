@@ -84,19 +84,17 @@ docs_fr:
   - title: "Navigation"
     children:
     - title: "Heroes"
-      url: /heroes/
+      url: /fr/heroes/
     - title: "Units"
       url: /units/
-    - title: "Alchemy Workshop"
-      url: /Alchemy Workshop/
-    - title: "Battle Formation"
-      url: /Battle Formation/
-    - title: "Healing Sea"
-      url: /Healing Sea/
-#    - title: "Guild"
-#      url: /guild/
-    - title: "Sphinx answers"
-      url: /sphinx/
+    - title: "Atelier d'alchimie"
+      url: /fr/Alchemy Workshop/
+    - title: "Formation de combat"
+      url: /fr/Battle Formation/
+    - title: "Mer guerisseuse"
+      url: /fr/Healing Sea/
+    - title: "Reponses Sphinx"
+      url: /fr/sphinx/
 
   - title: "Language"
     children:

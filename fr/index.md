@@ -5,7 +5,7 @@ excerpt: "French version"
 author_profile: false
 lang: fr
 sidebar:
-  nav: "docs"
+  nav: "docs_fr"
 ---
 
 Cette page contient des informations sur le jeu mobile "Era Of Chaos".
