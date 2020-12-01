@@ -10,10 +10,11 @@ sidebar:
 
 This information portal contains information about "Era Of Chaos" mobile game.
 
-**1.12.2020 Update: Added [Italiano](/it/) and [Espanol](/es/) languages to site.**
+**1.12.2020 Update:** Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
 {: .notice--danger}
 
-**Game Update 24.11.2020** 
+
+  - **Game Update 24.11.2020** 
   - 2 new Heroes and new COVE fraction. **[Read more](/blog/Game-Update-2NewHeroes-New-Core-Fraction/)**
   - New feature - Battle Formation. **[Read more](/blog/Battle-Formation/)**
   - New event [Healing Sea](/Healing Sea/) with Quiz questions, answers and rewards
