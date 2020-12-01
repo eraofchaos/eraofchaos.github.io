@@ -31,7 +31,7 @@ classes: wide
 
 ## Pop Quiz time! 
 
-### 1 In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf? 
+### 1. In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf? 
 
    **Title:**  A challenge between close friends.
 
@@ -43,7 +43,9 @@ classes: wide
 
    Wrong Answer: A. The Wood Elf
 
-### 2 To spread the fire or extinguish the fire, _________. 
+---
+
+### 2. To spread the fire or extinguish the fire, _________. 
 
    **Title:**  To spread the fire or extinguish the fire.
 
@@ -55,7 +57,9 @@ classes: wide
 
    Wrong Answer: B. That is not the question.
 
-### 3 Who came from the depths, traveled across the world, and conquered everything in sight? 
+---
+
+### 3. Who came from the depths, traveled across the world, and conquered everything in sight? 
 
    **Title:**  I came, I saw, I conquered.
 
@@ -67,7 +71,9 @@ classes: wide
 
    Wrong Answer: A. The Orcs
 
-### 4 Do you want to build a Snowman? 
+---
+
+### 4. Do you want to build a Snowman? 
 
    **Title:**  Snowman
 
@@ -79,7 +85,9 @@ classes: wide
 
    Wrong Answer: A. No.
 
-### 5 The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins? 
+---
+
+### 5. The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins? 
 
    **Title:**  Push-ups
 
@@ -91,7 +99,9 @@ classes: wide
 
    Wrong Answer: A. Centaur
 
-### 6 Who looks more likely to interrupt an adventurer's adventure? 
+---
+
+### 6. Who looks more likely to interrupt an adventurer's adventure? 
 
    **Title:**  Old Adventurer
 
@@ -103,7 +113,9 @@ classes: wide
 
    Wrong Answer: A. Black Dragon
 
-### 7 Who died and then destroyed the ice wall? 
+---
+
+### 7. Who died and then destroyed the ice wall? 
 
    **Title:**  Undead King's Necromancy
 
@@ -115,7 +127,9 @@ classes: wide
 
    Wrong Answer: A. Green Dragon
 
-### 8 Courage, faith, and________! 
+---
+
+### 8. Courage, faith, and________! 
 
    **Title:**  Slogan
 
@@ -127,7 +141,9 @@ classes: wide
 
    Wrong Answer: B. high spirits
 
-### 9 The Inferno is empty and all the ________ are here. 
+---
+
+### 9. The Inferno is empty and all the ________ are here. 
 
    **Title:**  Angels and Demons
 
@@ -139,7 +155,9 @@ classes: wide
 
    Wrong Answer: A. Angels
 
-### 10 Fool me once, shame on you. Fool me twice, _______. 
+---
+
+### 10. Fool me once, shame on you. Fool me twice, _______. 
 
    **Title:**  Fool me once
 
@@ -151,7 +169,9 @@ classes: wide
 
    Wrong Answer: B. Still shame on you
 
-### 11 Which faction has the units with the most economical eye drops? 
+---
+
+### 11. Which faction has the units with the most economical eye drops? 
 
    **Title:**  Eye Drops
 
@@ -162,4 +182,6 @@ classes: wide
    **Rewards:**  **1x Teleportation** (Enables teleportation in the Healing Sea event.)
 
    Wrong Answer: A. Stronghold
+
+---
 

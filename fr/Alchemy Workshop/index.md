@@ -2,7 +2,7 @@
 title: "Atelier d'alchimie"
 permalink: /fr/Alchemy Workshop/
 excerpt: "Atelier d'alchimie.L'Atelier d'alchimie est un endroit vraiment merveilleux. Non seulement il centralise le savoir de plusieurs races, mais il chapeaute également de nombreuses inventions incroyables."
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: fr
 ref: "index.md"
 toc: false
@@ -13,57 +13,9 @@ classes: wide
 
 ## Rules
 
-  <span style="color: #8a5c1d">Une île mystérieuse est sortie de nulle part en mer. Les gens ont découvert un ancien atelier poussiéreux regorgeant de dispositifs d’alchimie étonnants. <span style="color: black">
+  <span style="color: #8a5c1d;font-size:18px">Une île mystérieuse est sortie de nulle part en mer. Les gens ont découvert un ancien atelier poussiéreux regorgeant de dispositifs d’alchimie étonnants. </span><br/><span style="color: #ffffff;font-size:16px"></span><br/><span style="color: #3c2a1e;font-size:22px">Règles générales</span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">1. Potion d'alchimie : La potion d'alchimie est le matériau de production essentiel pour l'atelier, qui peut être obtenu en affinant d'autres matériaux. </span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">2. Entrepôt d'alchimie : L'entrepôt contient au plus 9 produits de formules. Les produits doivent être récoltés et placés manuellement dans le colis. L'Atelier d'alchimie cesse la production lorsque l'entrepôt d'alchimie est plein. </span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">3. Formule d'alchimie : Elle est porteuse de la production d'alchimie et enregistre le temps, les matériaux et les résultats de la production. </span><br/><span style="color: #ffffff;font-size:16px"></span><br/><span style="color: #3c2a1e;font-size:22px">Production d'alchimie</span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">1. L’atelier produit 1 formule par heure. Après la production, la formule figurant en haut de la file de production sera générée ensuite. </span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">2. Faites glisser une formule et ajoutez-la à la file d'attente de production. Les matériaux nécessaires seront déduits lorsque vous aurez ajouté une formule. </span><br/><span style="color: #645252;font-size:16px">3. Il faut du temps pour produire chaque formule. Le produit sera stocké dans l'entrepôt d'alchimie lorsque le temps de production sera écoulé. </span><br/><span style="color: #645252;font-size:16px">4. Il existe différentes qualités de formules d'alchimie. Plus haute est la qualité, plus elle est efficace. </span><br/><span style="color: #ffffff;font-size:16px"></span><br/><span style="color: #3c2a1e;font-size:22px">Rafraîchissement de formule</span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">1. 8 nouvelles formules seront choisies dans l’entrepôt des formules pour les joueurs à 5h chaque jour. </span><br/><span style="color: #ffffff;font-size:6px"></span><br/><span style="color: #645252;font-size:16px">2. Les joueurs ont droit à 3 rafraîchissements de formules par jour. Lorsque les rafraîchissements gratuits ont été utilisés, les joueurs doivent dépenser des diamants pour rafraîchir leurs formules.</span>
 
-<span style="color: black">
-
-<span style="color: #3c2a1e">Règles générales<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">1. Potion d'alchimie : La potion d'alchimie est le matériau de production essentiel pour l'atelier, qui peut être obtenu en affinant d'autres matériaux. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">2. Entrepôt d'alchimie : L'entrepôt contient au plus 9 produits de formules. Les produits doivent être récoltés et placés manuellement dans le colis. L'Atelier d'alchimie cesse la production lorsque l'entrepôt d'alchimie est plein. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">3. Formule d'alchimie : Elle est porteuse de la production d'alchimie et enregistre le temps, les matériaux et les résultats de la production. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #3c2a1e">Production d'alchimie<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">1. L’atelier produit 1 formule par heure. Après la production, la formule figurant en haut de la file de production sera générée ensuite. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">2. Faites glisser une formule et ajoutez-la à la file d'attente de production. Les matériaux nécessaires seront déduits lorsque vous aurez ajouté une formule. <span style="color: black">
-
-<span style="color: #645252">3. Il faut du temps pour produire chaque formule. Le produit sera stocké dans l'entrepôt d'alchimie lorsque le temps de production sera écoulé. <span style="color: black">
-
-<span style="color: #645252">4. Il existe différentes qualités de formules d'alchimie. Plus haute est la qualité, plus elle est efficace. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #3c2a1e">Rafraîchissement de formule<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">1. 8 nouvelles formules seront choisies dans l’entrepôt des formules pour les joueurs à 5h chaque jour. <span style="color: black">
-
-<span style="color: black">
-
-<span style="color: #645252">2. Les joueurs ont droit à 3 rafraîchissements de formules par jour. Lorsque les rafraîchissements gratuits ont été utilisés, les joueurs doivent dépenser des diamants pour rafraîchir leurs formules.<span style="color: black">
-
-<br/>  <span style="color: #562600">L'Atelier d'alchimie est un vieux bâtiment. Vous pouvez mélanger des potions d'alchimie avec des matériaux de raffinage, et produire les objets correspondants en utilisant d'anciennes formules alchimiques.<span style="color: black">
+<br/>  <span style="color: #562600">L'Atelier d'alchimie est un vieux bâtiment. Vous pouvez mélanger des potions d'alchimie avec des matériaux de raffinage, et produire les objets correspondants en utilisant d'anciennes formules alchimiques.</span>
 
 <br/>  You can get **Potion d'alchimie** (Potion d'alchimie. S'obtient en transformant des matériaux dans l'Atelier d'alchimie.) **by refining materials:**
 
