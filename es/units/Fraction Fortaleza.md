@@ -21,4 +21,3 @@ classes: wide
   | 5 | [Gorgona](/es/units/Gorgon/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 3094 |  manniu  |
   | 6 | [Guiverno](/es/units/Wyvern/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |
   | 7 | [Hidra](/es/units/Hydra/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |
-  | 8 | [Hierbavispa](/es/units/Waspwort/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |

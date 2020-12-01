@@ -22,4 +22,3 @@ classes: wide
   | 6 | [Grüner Drache](/de/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 7 | [Einhorn](/de/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
   | 8 | [Druidin](/de/units/Druid/) | Zauberer | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
-  | 9 | [Unknown_TEAM_209](/de/units/Unknown_209/) | Offensiv | - | UR | Unknown: 4 (3). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1140.4 | 6336 |  bileizhihuiguan  |

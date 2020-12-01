@@ -15,11 +15,10 @@ classes: wide
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
   | 1 | [Momie](/fr/units/Mummy/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 141.0 | 2691 |  munaiyi  |
-  | 2 | [Champion des ténèbres](/fr/units/Dark Champion/) | Offensive | - | UR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |  sishen  |
-  | 3 | [Squelette](/fr/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  kuloubing  |
-  | 4 | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
-  | 5 | [Revenante](/fr/units/Wight/) | Lanceur de sorts | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  youling  |
-  | 6 | [Vampire](/fr/units/Vampire/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
-  | 7 | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
-  | 8 | [Liche](/fr/units/Lich/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  wuyao  |
-  | 9 | [Dragon squelette](/fr/units/Bone Dragon/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |
+  | 2 | [Squelette](/fr/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  kuloubing  |
+  | 3 | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
+  | 4 | [Revenante](/fr/units/Wight/) | Lanceur de sorts | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  youling  |
+  | 5 | [Vampire](/fr/units/Vampire/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
+  | 6 | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
+  | 7 | [Liche](/fr/units/Lich/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  wuyao  |
+  | 8 | [Dragon squelette](/fr/units/Bone Dragon/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |

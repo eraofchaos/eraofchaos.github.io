@@ -16,10 +16,8 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
   | 1 | [Psy-Elementar](/de/units/Psychic Elemental/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  jingshenyuansu  |
   | 2 | [Feuervogel](/de/units/Firebird/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 848.5 | 4525 |  fenghuang  |
-  | 3 | [Unknown_TEAM_908](/de/units/Unknown_908/) | Fernkampf | - | UR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |  yuansuzhihuiguan  |
-  | 4 | [Leprechaun](/de/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  conglinyaojing  |
-  | 5 | [Pixie](/de/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |  mofaxianling  |
-  | 6 | [Sturmelementar](/de/units/Storm Elemental/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
-  | 7 | [Eiselementar](/de/units/Ice Elemental/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
-  | 8 | [Feuerelementar](/de/units/Fire Elemental/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
-  | 9 | [Steinelementar](/de/units/Stone Elemental/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |
+  | 3 | [Pixie](/de/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |  mofaxianling  |
+  | 4 | [Sturmelementar](/de/units/Storm Elemental/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
+  | 5 | [Eiselementar](/de/units/Ice Elemental/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
+  | 6 | [Feuerelementar](/de/units/Fire Elemental/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
+  | 7 | [Steinelementar](/de/units/Stone Elemental/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |

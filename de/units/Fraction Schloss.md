@@ -22,4 +22,3 @@ classes: wide
   | 6 | [Kavallerist](/de/units/Cavalier /) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 7 | [Paladin](/de/units/Paladin/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
   | 8 | [Engel](/de/units/Angel/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |
-  | 9 | [Richterin](/de/units/Judicator/) | Zauberer | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |  shenpanguan  |

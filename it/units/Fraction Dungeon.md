@@ -21,5 +21,3 @@ classes: wide
   | 5 | [Minotauro](/it/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  niutouguai  |
   | 6 | [Manticora](/it/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  shixie  |
   | 7 | [Drago nero](/it/units/Black Dragon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 430.0 | 8712 |  heilong  |
-  | 8 | [Drago rosso](/it/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |  honglong  |
-  | 9 | [Unknown_TEAM_709](/it/units/Unknown_709/) | Incursione | - | UR | Unknown: 4 (7). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |  dixiachengzhihuiguan  |

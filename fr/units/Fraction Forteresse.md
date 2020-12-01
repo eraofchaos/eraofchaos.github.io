@@ -21,4 +21,3 @@ classes: wide
   | 5 | [Gorgone](/fr/units/Gorgon/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 3094 |  manniu  |
   | 6 | [Wivern](/fr/units/Wyvern/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |
   | 7 | [Hydre](/fr/units/Hydra/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |
-  | 8 | [Guêpier](/fr/units/Waspwort/) | À distance | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |

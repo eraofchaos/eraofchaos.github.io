@@ -22,4 +22,3 @@ classes: wide
   | 6 | [Dragon vert](/fr/units/Green Dragon/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 7 | [Licorne](/fr/units/Unicorn/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
   | 8 | [Druidesse](/fr/units/Druid/) | Lanceur de sorts | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
-  | 9 | [Unknown_TEAM_209](/fr/units/Unknown_209/) | Offensive | - | UR | Unknown: 4 (3). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1140.4 | 6336 |  bileizhihuiguan  |
