@@ -41,7 +41,7 @@ classes: wide
 
    **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
-   Wrong Answer: A. The Wood Elf
+   *Wrong Answer:* *A. The Wood Elf* 
 
 ---
 
@@ -55,7 +55,7 @@ classes: wide
 
    **Rewards:**  **1x Discount Coupon** (Coupon that can be used in the Healing Sea event.)
 
-   Wrong Answer: B. That is not the question.
+   *Wrong Answer:* *B. That is not the question.* 
 
 ---
 
@@ -69,7 +69,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. The Orcs
+   *Wrong Answer:* *A. The Orcs* 
 
 ---
 
@@ -83,7 +83,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. No.
+   *Wrong Answer:* *A. No.* 
 
 ---
 
@@ -97,7 +97,7 @@ classes: wide
 
    **Rewards:**  **1x Discount Coupon** (Coupon that can be used in the Healing Sea event.)
 
-   Wrong Answer: A. Centaur
+   *Wrong Answer:* *A. Centaur* 
 
 ---
 
@@ -111,7 +111,7 @@ classes: wide
 
    **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
-   Wrong Answer: A. Black Dragon
+   *Wrong Answer:* *A. Black Dragon* 
 
 ---
 
@@ -125,7 +125,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. Green Dragon
+   *Wrong Answer:* *A. Green Dragon* 
 
 ---
 
@@ -139,7 +139,7 @@ classes: wide
 
    **Rewards:**  **1x Discount Coupon** (Coupon that can be used in the Healing Sea event.)
 
-   Wrong Answer: B. high spirits
+   *Wrong Answer:* *B. high spirits* 
 
 ---
 
@@ -153,7 +153,7 @@ classes: wide
 
    **Rewards:**  **1x Discount Coupon** (Coupon that can be used in the Healing Sea event.)
 
-   Wrong Answer: A. Angels
+   *Wrong Answer:* *A. Angels* 
 
 ---
 
@@ -167,7 +167,7 @@ classes: wide
 
    **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
-   Wrong Answer: B. Still shame on you
+   *Wrong Answer:* *B. Still shame on you* 
 
 ---
 
@@ -181,7 +181,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. Stronghold
+   *Wrong Answer:* *A. Stronghold* 
 
 ---
 

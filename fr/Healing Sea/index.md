@@ -41,7 +41,7 @@ classes: wide
 
    **Rewards:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
 
-   Wrong Answer: A. L'Elfe sylvaine.
+   *Wrong Answer:* *A. L'Elfe sylvaine.* 
 
 ---
 
@@ -55,7 +55,7 @@ classes: wide
 
    **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: B. Telle n'est pas la question.
+   *Wrong Answer:* *B. Telle n'est pas la question.* 
 
 ---
 
@@ -69,7 +69,7 @@ classes: wide
 
    **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: A. Les Orques
+   *Wrong Answer:* *A. Les Orques* 
 
 ---
 
@@ -83,7 +83,7 @@ classes: wide
 
    **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: A. Non.
+   *Wrong Answer:* *A. Non.* 
 
 ---
 
@@ -97,7 +97,7 @@ classes: wide
 
    **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: A. Le Centaure
+   *Wrong Answer:* *A. Le Centaure* 
 
 ---
 
@@ -111,7 +111,7 @@ classes: wide
 
    **Rewards:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
 
-   Wrong Answer: A. Le Dragon noir
+   *Wrong Answer:* *A. Le Dragon noir* 
 
 ---
 
@@ -125,7 +125,7 @@ classes: wide
 
    **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: A. Le Dragon vert
+   *Wrong Answer:* *A. Le Dragon vert* 
 
 ---
 
@@ -139,7 +139,7 @@ classes: wide
 
    **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: B. Détermination
+   *Wrong Answer:* *B. Détermination* 
 
 ---
 
@@ -153,7 +153,7 @@ classes: wide
 
    **Rewards:**  **1x Bon de réduction** (Bon utilisable dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: A. Anges
+   *Wrong Answer:* *A. Anges* 
 
 ---
 
@@ -167,7 +167,7 @@ classes: wide
 
    **Rewards:**  **300x Cristal de sang de dragon** (Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes.)
 
-   Wrong Answer: B. Encore honte à lui.
+   *Wrong Answer:* *B. Encore honte à lui.* 
 
 ---
 
@@ -181,7 +181,7 @@ classes: wide
 
    **Rewards:**  **1x Téléportation** (Permet la téléportation dans l'événement Mer guérisseuse.)
 
-   Wrong Answer: A. Bastion
+   *Wrong Answer:* *A. Bastion* 
 
 ---
 

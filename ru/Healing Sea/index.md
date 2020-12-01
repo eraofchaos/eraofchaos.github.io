@@ -37,7 +37,7 @@ classes: wide
 
    **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
-   Wrong Answer: A. Эльф
+   *Wrong Answer:* *A. Эльф* 
 
 ---
 
@@ -51,7 +51,7 @@ classes: wide
 
    **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
 
-   Wrong Answer: B. Это не вопрос
+   *Wrong Answer:* *B. Это не вопрос* 
 
 ---
 
@@ -65,7 +65,7 @@ classes: wide
 
    **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. Орки
+   *Wrong Answer:* *A. Орки* 
 
 ---
 
@@ -79,7 +79,7 @@ classes: wide
 
    **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. Нет
+   *Wrong Answer:* *A. Нет* 
 
 ---
 
@@ -93,7 +93,7 @@ classes: wide
 
    **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
 
-   Wrong Answer: A. Кентавр
+   *Wrong Answer:* *A. Кентавр* 
 
 ---
 
@@ -107,7 +107,7 @@ classes: wide
 
    **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. Зеленый дракон
+   *Wrong Answer:* *A. Зеленый дракон* 
 
 ---
 
@@ -121,7 +121,7 @@ classes: wide
 
    **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
 
-   Wrong Answer: A. Ангелы
+   *Wrong Answer:* *A. Ангелы* 
 
 ---
 
@@ -135,7 +135,7 @@ classes: wide
 
    **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
 
-   Wrong Answer: B. Позор тебе
+   *Wrong Answer:* *B. Позор тебе* 
 
 ---
 
@@ -149,7 +149,7 @@ classes: wide
 
    **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
 
-   Wrong Answer: A. Цитадель
+   *Wrong Answer:* *A. Цитадель* 
 
 ---
 

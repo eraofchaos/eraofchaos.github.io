@@ -41,7 +41,7 @@ classes: wide
 
    **Rewards:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
 
-   Wrong Answer: A. Die Waldelfe
+   *Wrong Answer:* *A. Die Waldelfe* 
 
 ---
 
@@ -55,7 +55,7 @@ classes: wide
 
    **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
-   Wrong Answer: B. Das ist nicht die Frage.
+   *Wrong Answer:* *B. Das ist nicht die Frage.* 
 
 ---
 
@@ -69,7 +69,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
-   Wrong Answer: A. Die Orks
+   *Wrong Answer:* *A. Die Orks* 
 
 ---
 
@@ -83,7 +83,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
-   Wrong Answer: A. Nein.
+   *Wrong Answer:* *A. Nein.* 
 
 ---
 
@@ -97,7 +97,7 @@ classes: wide
 
    **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
-   Wrong Answer: A. Zentaur
+   *Wrong Answer:* *A. Zentaur* 
 
 ---
 
@@ -111,7 +111,7 @@ classes: wide
 
    **Rewards:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
 
-   Wrong Answer: A. Schwarzer Drache
+   *Wrong Answer:* *A. Schwarzer Drache* 
 
 ---
 
@@ -125,7 +125,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
-   Wrong Answer: A. Grüner Drache
+   *Wrong Answer:* *A. Grüner Drache* 
 
 ---
 
@@ -139,7 +139,7 @@ classes: wide
 
    **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
-   Wrong Answer: B. Gute Laune
+   *Wrong Answer:* *B. Gute Laune* 
 
 ---
 
@@ -153,7 +153,7 @@ classes: wide
 
    **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
-   Wrong Answer: A. Engel
+   *Wrong Answer:* *A. Engel* 
 
 ---
 
@@ -167,7 +167,7 @@ classes: wide
 
    **Rewards:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
 
-   Wrong Answer: B. Immer noch Schande über dich.
+   *Wrong Answer:* *B. Immer noch Schande über dich.* 
 
 ---
 
@@ -181,7 +181,7 @@ classes: wide
 
    **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
-   Wrong Answer: A. Burg
+   *Wrong Answer:* *A. Burg* 
 
 ---
 
