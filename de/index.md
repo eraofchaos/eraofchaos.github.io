@@ -5,7 +5,7 @@ excerpt: "German version"
 author_profile: false
 lang: de
 sidebar:
-  nav: "docs"
+  nav: "docs_de"
 ---
 
 Diese Seite enthält Informationen über das Handyspiel "Era Of Chaos".

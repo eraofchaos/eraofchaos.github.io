@@ -178,7 +178,7 @@ defaults:
       author_profile: false
       read_time: false
       sidebar:
-        nav: "docs"
+        nav: "docs_de"
   # IT heroes
   - scope:
       path: "it"

@@ -25,10 +25,6 @@ docs:
       url: /Healing Sea/
 #    - title: "Guild"
 #      url: /guild/
-#    - title: "Stores"
-#      url: /stores/
-#    - title: "Auto Chess"
-#      url: /autochess/
     - title: "Sphinx answers"
       url: /sphinx/
 
@@ -40,17 +36,196 @@ docs:
         url: /ru/
       - title: "Deutsch"
         url: /de/
-      - title: "Italiano"
-        url: /it/
       - title: "Français"
         url: /fr/
       - title: "Italiano"
         url: /it/
       - title: "Español"
         url: /es/
-      - title: "中文"
-        url: /cn/
+#      - title: "中文"
+#        url: /cn/
 
+# documentation links
+docs_de:
+  - title: "Navigation"
+    children:
+    - title: "Heroes"
+      url: /de/heroes/
+    - title: "Units"
+      url: /units/
+    - title: "Alchemiewerkstatt"
+      url: /de/Alchemy Workshop/
+    - title: "Kampfformationn"
+      url: /de/Battle Formation/
+    - title: "Heilendes Meer"
+      url: /de/Healing Sea/
+#    - title: "Guild"
+#      url: /guild/
+    - title: "Sphinx answers"
+      url: /de/sphinx/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: /
+      - title: "Русский"
+        url: /ru/
+      - title: "Deutsch"
+        url: /de/
+      - title: "Français"
+        url: /fr/
+      - title: "Italiano"
+        url: /it/
+      - title: "Español"
+        url: /es/
+
+# documentation links
+docs_fr:
+  - title: "Navigation"
+    children:
+    - title: "Heroes"
+      url: /heroes/
+    - title: "Units"
+      url: /units/
+    - title: "Alchemy Workshop"
+      url: /Alchemy Workshop/
+    - title: "Battle Formation"
+      url: /Battle Formation/
+    - title: "Healing Sea"
+      url: /Healing Sea/
+#    - title: "Guild"
+#      url: /guild/
+    - title: "Sphinx answers"
+      url: /sphinx/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: /
+      - title: "Русский"
+        url: /ru/
+      - title: "Deutsch"
+        url: /de/
+      - title: "Français"
+        url: /fr/
+      - title: "Italiano"
+        url: /it/
+      - title: "Español"
+        url: /es/
+#      - title: "中文"
+#        url: /cn/
+
+# documentation links
+docs_ru:
+  - title: "Navigation"
+    children:
+    - title: "Heroes"
+      url: /heroes/
+    - title: "Units"
+      url: /units/
+    - title: "Alchemy Workshop"
+      url: /Alchemy Workshop/
+    - title: "Battle Formation"
+      url: /Battle Formation/
+    - title: "Healing Sea"
+      url: /Healing Sea/
+#    - title: "Guild"
+#      url: /guild/
+    - title: "Sphinx answers"
+      url: /sphinx/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: /
+      - title: "Русский"
+        url: /ru/
+      - title: "Deutsch"
+        url: /de/
+      - title: "Français"
+        url: /fr/
+      - title: "Italiano"
+        url: /it/
+      - title: "Español"
+        url: /es/
+#      - title: "中文"
+#        url: /cn/
+
+# documentation links
+docs_it:
+  - title: "Navigation"
+    children:
+    - title: "Heroes"
+      url: /heroes/
+    - title: "Units"
+      url: /units/
+    - title: "Alchemy Workshop"
+      url: /Alchemy Workshop/
+    - title: "Battle Formation"
+      url: /Battle Formation/
+    - title: "Healing Sea"
+      url: /Healing Sea/
+#    - title: "Guild"
+#      url: /guild/
+    - title: "Sphinx answers"
+      url: /sphinx/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: /
+      - title: "Русский"
+        url: /ru/
+      - title: "Deutsch"
+        url: /de/
+      - title: "Français"
+        url: /fr/
+      - title: "Italiano"
+        url: /it/
+      - title: "Español"
+        url: /es/
+#      - title: "中文"
+#        url: /cn/
+
+# documentation links
+docs_es:
+  - title: "Navigation"
+    children:
+    - title: "Heroes"
+      url: /heroes/
+    - title: "Units"
+      url: /units/
+    - title: "Alchemy Workshop"
+      url: /Alchemy Workshop/
+    - title: "Battle Formation"
+      url: /Battle Formation/
+    - title: "Healing Sea"
+      url: /Healing Sea/
+#    - title: "Guild"
+#      url: /guild/
+    - title: "Sphinx answers"
+      url: /sphinx/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: /
+      - title: "Русский"
+        url: /ru/
+      - title: "Deutsch"
+        url: /de/
+      - title: "Français"
+        url: /fr/
+      - title: "Italiano"
+        url: /it/
+      - title: "Español"
+        url: /es/
+#      - title: "中文"
+#        url: /cn/
+
+
+#      - title: "中文"
+#        url: /cn/
 #+        ru = "Русский",
 #+        de = "Deutsch",
 #        th = "ไทย",
