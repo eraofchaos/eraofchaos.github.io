@@ -9,14 +9,14 @@ toc: false
 classes: wide
 ---
 
-## <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
+#### <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
    <span style="color: #3c2a1e;font-size:16px">1. During the event, players roll dice to earn awesome rewards.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">2. Square rewards will be refreshed each time you pass the starting point.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">3. You can get several free dice rolls every day during the event. Once you've used up your free rolls, you can purchase more. Rolls reset on the following day.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">4. You can earn coupons, Teleportation spells, and Dragon Blood Crystals through dialog events. Coupon value is fixed at 300 and can be used for a limited time and in limited quantities at the store. Only one coupon can be used per purchase, and coupons do not stack. In addition to being earned through event dialog, Teleportation spells can be earned when daily mission Activity reaches 100/200. Teleportation spells can be used via the bottom right corner of the Events screen.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">5. Limited-time Store: Different discounted items will be sold for a limited time every day during the event.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e;font-size:16px">6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.</span><br/>
-## Items on map: 
+#### Items on map: 
 
   -  1 Bag of heavy diamonds. 
 
@@ -29,9 +29,9 @@ classes: wide
 **Tip:** My lord, you can earn rewards for reaching the required number of clears!
 {: .notice--danger}
 
-## Pop Quiz time! 
+#### Pop Quiz time! 
 
-### 1. In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf? 
+##### 1. In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf? 
 
    **Title:**  A challenge between close friends.
 
@@ -45,7 +45,7 @@ classes: wide
 
 ---
 
-### 2. To spread the fire or extinguish the fire, _________. 
+##### 2. To spread the fire or extinguish the fire, _________. 
 
    **Title:**  To spread the fire or extinguish the fire.
 
@@ -59,7 +59,7 @@ classes: wide
 
 ---
 
-### 3. Who came from the depths, traveled across the world, and conquered everything in sight? 
+##### 3. Who came from the depths, traveled across the world, and conquered everything in sight? 
 
    **Title:**  I came, I saw, I conquered.
 
@@ -73,7 +73,7 @@ classes: wide
 
 ---
 
-### 4. Do you want to build a Snowman? 
+##### 4. Do you want to build a Snowman? 
 
    **Title:**  Snowman
 
@@ -87,7 +87,7 @@ classes: wide
 
 ---
 
-### 5. The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins? 
+##### 5. The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins? 
 
    **Title:**  Push-ups
 
@@ -101,7 +101,7 @@ classes: wide
 
 ---
 
-### 6. Who looks more likely to interrupt an adventurer's adventure? 
+##### 6. Who looks more likely to interrupt an adventurer's adventure? 
 
    **Title:**  Old Adventurer
 
@@ -115,7 +115,7 @@ classes: wide
 
 ---
 
-### 7. Who died and then destroyed the ice wall? 
+##### 7. Who died and then destroyed the ice wall? 
 
    **Title:**  Undead King's Necromancy
 
@@ -129,7 +129,7 @@ classes: wide
 
 ---
 
-### 8. Courage, faith, and________! 
+##### 8. Courage, faith, and________! 
 
    **Title:**  Slogan
 
@@ -143,7 +143,7 @@ classes: wide
 
 ---
 
-### 9. The Inferno is empty and all the ________ are here. 
+##### 9. The Inferno is empty and all the ________ are here. 
 
    **Title:**  Angels and Demons
 
@@ -157,7 +157,7 @@ classes: wide
 
 ---
 
-### 10. Fool me once, shame on you. Fool me twice, _______. 
+##### 10. Fool me once, shame on you. Fool me twice, _______. 
 
    **Title:**  Fool me once
 
@@ -171,7 +171,7 @@ classes: wide
 
 ---
 
-### 11. Which faction has the units with the most economical eye drops? 
+##### 11. Which faction has the units with the most economical eye drops? 
 
    **Title:**  Eye Drops
 
