@@ -1,7 +1,7 @@
 ---
-title: "Era of Chaos - Sphinx questions and correct answers"
+title: "Era of Chaos - Sfinge questions and correct answers"
 permalink: /it/sphinx/
-excerpt: "List of ALL Sphinx questions with correct answers in Era of Chaos"
+excerpt: "List of ALL Sfinge questions with correct answers in Era of Chaos"
 last_modified_at: 2020-12-01
 lang: it
 ref: "index.md"
