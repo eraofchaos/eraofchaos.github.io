@@ -37,7 +37,7 @@ classes: wide
 
  **Question:** In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf?
 
- **Correct Answer:** **The Dwarf killed 1 more than the Wood Elf.** 
+ **Correct Answer:** **B. The Dwarf** 
 
  **Rewards:** nests4
 
@@ -53,7 +53,7 @@ classes: wide
 
  **Rewards:** msCoupons
 
- Wrong Answer: Indeed
+ Wrong Answer: B. That is not the question.
 
 ### 3 Who came from the depths, traveled across the world, and conquered everything in sight? 
 
@@ -61,7 +61,7 @@ classes: wide
 
  **Question:** Who came from the depths, traveled across the world, and conquered everything in sight?
 
- **Correct Answer:** **Nope! It was those red-skinned rascals.** 
+ **Correct Answer:** **B. The Kreegans** 
 
  **Rewards:** msMove
 
@@ -73,7 +73,7 @@ classes: wide
 
  **Question:** Do you want to build a Snowman?
 
- **Correct Answer:** **You are an unreasonable person.** 
+ **Correct Answer:** **B. I want to build a snow Cyclops.** 
 
  **Rewards:** msMove
 
@@ -85,7 +85,7 @@ classes: wide
 
  **Question:** The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins?
 
- **Correct Answer:** **The Centaur lost and spent a long time recovering from the back pain.** 
+ **Correct Answer:** **B. Minotaur** 
 
  **Rewards:** msCoupons
 
@@ -97,7 +97,7 @@ classes: wide
 
  **Question:** Who looks more likely to interrupt an adventurer's adventure?
 
- **Correct Answer:** **The adventurer defeated the Black Dragon and acquired some treasures.** 
+ **Correct Answer:** **B. Sharpshooter** 
 
  **Rewards:** nests4
 
@@ -109,7 +109,7 @@ classes: wide
 
  **Question:** Who died and then destroyed the ice wall?
 
- **Correct Answer:** **After the Gold Dragon died, he destroyed the ice wall.** 
+ **Correct Answer:** **B. Gold Dragon** 
 
  **Rewards:** msMove
 
@@ -125,7 +125,7 @@ classes: wide
 
  **Rewards:** msCoupons
 
- Wrong Answer: You've received Roland's approval.
+ Wrong Answer: B. high spirits
 
 ### 9 The Inferno is empty and all the ________ are here. 
 
@@ -133,7 +133,7 @@ classes: wide
 
  **Question:** The Inferno is empty and all the ________ are here.
 
- **Correct Answer:** **Incorrect!** 
+ **Correct Answer:** **B. Devils** 
 
  **Rewards:** msCoupons
 
@@ -149,7 +149,7 @@ classes: wide
 
  **Rewards:** nests4
 
- Wrong Answer: There's one every day.
+ Wrong Answer: B. Still shame on you
 
 ### 11 Which faction has the units with the most economical eye drops? 
 
@@ -157,7 +157,7 @@ classes: wide
 
  **Question:** Which faction has the units with the most economical eye drops?
 
- **Correct Answer:** **Troglodyte: \"When will the salted fish be free from his forgotten fate?\"** 
+ **Correct Answer:** **B. Underground** 
 
  **Rewards:** msMove
 
