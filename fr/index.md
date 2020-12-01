@@ -17,6 +17,7 @@ Vous pouvez trouver ici:
 ### <i class="fab fa-battle-net"/>  [Formation de combat](/fr/Battle Formation/)
 ### <i class="fas fa-question-circle"/>  [Reponses Sphinx](/fr/sphinx/)
 ### <i class="fas fa-place-of-worship"/>  [Atelier d'alchimie](/fr/Alchemy Workshop/)
+### <i class="fas fa-water"/>  [Mer guérisseuse](/fr/Healing Sea/)
 
 
 

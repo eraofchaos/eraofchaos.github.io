@@ -22,6 +22,7 @@ You will find here:
 ### <i class="fab fa-optin-monster"/>  [Units](/units/)
 ### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/Alchemy Workshop/)
 ### <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
+### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 <br/>
 <br/>
