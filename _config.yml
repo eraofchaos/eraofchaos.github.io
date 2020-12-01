@@ -158,7 +158,7 @@ defaults:
       author_profile: false
       read_time: false
       sidebar:
-        nav: "docs"
+        nav: "docs_ru"
   # FR roes
   - scope:
       path: "fr"
@@ -168,7 +168,7 @@ defaults:
       author_profile: false
       read_time: false
       sidebar:
-        nav: "docs"
+        nav: "docs_fr"
   # DE heroes
   - scope:
       path: "de"
@@ -188,7 +188,7 @@ defaults:
       author_profile: false
       read_time: false
       sidebar:
-        nav: "docs"
+        nav: "docs_it"
   # ES heroes
   - scope:
       path: "es"
@@ -198,7 +198,7 @@ defaults:
       author_profile: false
       read_time: false
       sidebar:
-        nav: "docs"
+        nav: "docs_es"
   # Alchemy Workshop
   - scope:
       path: "Alchemy Workshop"

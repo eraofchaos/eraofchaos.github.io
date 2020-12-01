@@ -13,12 +13,12 @@ This information portal contains information about "Era Of Chaos" mobile game.
 
 
 You will find here:
-### <i class="fas fa-chess-king"/>  [Heroes](/heroes/) 
+### <i class="fas fa-chess-king"/>  [Heroes](/es/heroes/) 
 ### <i class="fab fa-optin-monster"/>  [Units](/units/)
-### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/Alchemy Workshop/)
-### <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
-### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
-### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
+### <i class="fas fa-place-of-worship"/>  [Taller alquímico](/es/Alchemy Workshop/)
+### <i class="fab fa-battle-net"/> [Formación de batalla](/es/Battle Formation/)
+### <i class="fas fa-water"/>  [Mar Sanador](/es/Healing Sea/)
+### <i class="fas fa-question-circle"/>  [Esfinge answers](/es/sphinx/)
 <br/>
 <br/>
 Sorry, Right now this web site is **Under Construct**

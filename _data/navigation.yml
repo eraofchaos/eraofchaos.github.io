@@ -156,19 +156,17 @@ docs_it:
   - title: "Navigation"
     children:
     - title: "Heroes"
-      url: /heroes/
+      url: /it/heroes/
     - title: "Units"
       url: /units/
     - title: "Laboratorio alchemico"
-      url: /Alchemy Workshop/
+      url: /it/Alchemy Workshop/
     - title: "Formazione di battaglia"
-      url: /Battle Formation/
+      url: /it/Battle Formation/
     - title: "Mare curativo"
-      url: /Healing Sea/
-#    - title: "Guild"
-#      url: /guild/
+      url: /it/Healing Sea/
     - title: "Sfinge answers"
-      url: /sphinx/
+      url: /it/sphinx/
 
   - title: "Language"
     children:
@@ -192,19 +190,17 @@ docs_es:
   - title: "Navigation"
     children:
     - title: "Heroes"
-      url: /heroes/
+      url: /es/heroes/
     - title: "Units"
       url: /units/
-    - title: "Alchemy Workshop"
-      url: /Alchemy Workshop/
-    - title: "Battle Formation"
-      url: /Battle Formation/
-    - title: "Healing Sea"
-      url: /Healing Sea/
-#    - title: "Guild"
-#      url: /guild/
-    - title: "Sphinx answers"
-      url: /sphinx/
+    - title: "Taller alquímico"
+      url: /es/Alchemy Workshop/
+    - title: "Formación de batalla"
+      url: /es/Battle Formation/
+    - title: "Mar Sanador"
+      url: /es/Healing Sea/
+    - title: "Esfinge answers"
+      url: /es/sphinx/
 
   - title: "Language"
     children:
