@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Poison Gas
- **Description:** <span style="color: #645252"> Within a certain range, Walking Dead units deal <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+18)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to all surrounding hostile units every 2s. Its damage to <span style="color: black"><span style="color: #48b946">\"bleeding\"<span style="color: black"><span style="color: #645252"> targets is increased by 30%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px"> Within a certain range, Walking Dead units deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all surrounding hostile units every 2s. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
 ### 2 Skill: Infectious
- **Description:** <span style="color: #645252">Walking Dead's <Poison Gas> decreases the target's ATK by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.2+10.8)}%<span style="color: black"><span style="color: #645252">, and <span style="color: black"><span style="color: #48b946"><slows><span style="color: black"><span style="color: #645252"> the target over time.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Walking Dead's <Poison Gas> decreases the target's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><slows></span><span style="color: black"><span style="color: #645252;font-size:20px"> the target over time.</span><span style="color: black">
 
 ### 3 Skill: Explosive
- **Description:** <span style="color: #645252">When the Walking Dead is downed, it deals <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*4+46)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to hostile units within a large range for 8s. Its damage to <span style="color: black"><span style="color: #48b946"><bleeding><span style="color: black"><span style="color: #645252"> units is increased by 30%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Walking Dead is downed, it deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a large range for 8s. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><bleeding></span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 30%.</span><span style="color: black">
 
 ### 4 Skill: Barricade of Corpses
- **Description:** <span style="color: #645252">Walking Dead's unit's damage reduction increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+9}%<span style="color: black"><span style="color: #645252">. If the enemy attacking the Walking Dead is in <span style="color: black"><span style="color: #48b946">\"Low Morale\"<span style="color: black"><span style="color: #645252">, the effect doubles.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Walking Dead's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Walking Dead is in </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Low Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
 
 ### 5 Skill: Dismal Defense
- **Description:** <span style="color: #645252">Necropolis units know dismal environments well. unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+10)}%<span style="color: black"><span style="color: #645252"> when they are fighting against units in \"low morale\"<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
 ### 6 Skill: Spell Harmony
- **Description:** <span style="color: #645252">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Walking Dead with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Necropolis units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Walking Dead with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Walking Dead souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Walking Dead souls in the Underground: 15-2 and 15-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Walking Dead and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Walking Dead and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Disease Outbreak
- **Description:** <span style="color: #48b946"><Poison Gas><span style="color: black"><span style="color: #645252">Deals additional damage equal to 2% of Max HP<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Poison Gas></span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
 
 ### 2nd Skill (or 1st): Infectious Disease
- **Description:** <span style="color: #48b946"><Poison Gas><span style="color: black"><span style="color: #645252">At the beginning of battle, applies <Poison Gas> to all friendly Necropolis melee units, lasting throughout the battle. Damage can be stacked up to 6 times<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Poison Gas></span><span style="color: #645252;font-size:18px">At the beginning of battle, applies <Poison Gas> to all friendly Necropolis melee units, lasting throughout the battle. Damage can be stacked up to 6 times</span>
 
 ### 3rd Skill (or 4th): Complication
- **Description:** <span style="color: #48b946"><Infection><span style="color: black"><span style="color: #645252">Decreases extra ATK and extra DEF by 30%<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Infection></span><span style="color: #645252;font-size:18px">Decreases extra ATK and extra DEF by 30%</span>
 
 ### 4th Skill (or 3rd): Superinfection
- **Description:** <span style="color: #48b946"><Infection><span style="color: black"><span style="color: #645252">Decreases unit's damage reduction by an extra 10%<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Infection></span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction by an extra 10%</span>
 
 ### 5th Skill (or 6th): Horrific Barrier
- **Description:** <span style="color: #48b946"><Barricade of Corpses><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Barricade of Corpses></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
 
 ### 6th Skill (or 5th): Macabre Feast
- **Description:** <span style="color: #48b946"><Barricade of Corpses><span style="color: black"><span style="color: #645252">Restores HP of Walking Dead equal to 10% of Max HP every time 1 hostile unit is downed<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Barricade of Corpses></span><span style="color: #645252;font-size:18px">Restores HP of Walking Dead equal to 10% of Max HP every time 1 hostile unit is downed</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 6.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 100
+ **Speedattack:** 100
 
- **atkshow:** 3.0
+ **Attack Show:** 3.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 4
+ **Attack Speed Show:** 4.0
 
- **defshow:** 6.0
+ **Defense Show:** 6.0
 
- **score:** 478
+ **Score:** 478
 
- **hpshow:** 8
+ **HP Show:** 8
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 

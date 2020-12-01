@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Genie"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Spell Gift
- **Description:** <span style="color: #645252">When the Genie's attack switches to healing, it restores the HP of the friendly unit with the lowest HP percentage by 80% of the Genie's ATK. Genie's healing is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Genie's attack switches to healing, it restores the HP of the friendly unit with the lowest HP percentage by 80% of the Genie's ATK. Genie's healing is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 2 Skill: Three Wishes
- **Description:** <span style="color: #645252">When a Genie unit is on the battlefield, they will bless 3 random friendly units, granting them 1 of the following effects: <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252"> unit's damage reduction, <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252"> unit's damage, or <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252"> ATK speed.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Genie unit is on the battlefield, they will bless 3 random friendly units, granting them 1 of the following effects: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage reduction, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage, or </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK speed.</span><span style="color: black">
 
 ### 3 Skill: Magic Wick
- **Description:** <span style="color: #645252">Genie's HP is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*2+8}%<span style="color: black"><span style="color: #645252">, its magic resistance is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+4}%<span style="color: black"><span style="color: #645252">, and its unit's damage reduction is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+2.5}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Genie's HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, its magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and its unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Magic Awakening
- **Description:** <span style="color: #645252">When a Genie unit is enhanced by a friendly hero's support spell, it restores <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+4}%<span style="color: black"><span style="color: #645252"> of Max HP for the unit with the lowest HP percentage.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Genie unit is enhanced by a friendly hero's support spell, it restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for the unit with the lowest HP percentage.</span><span style="color: black">
 
 ### 5 Skill: Sober Mind
- **Description:** <span style="color: #645252">Tower units are proficient at resisting silence. The duration of <silence> is shortened by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+10)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of <silence> is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Energy Dynamite
- **Description:** <span style="color: #645252">Tower units are proficient at energy conversion, increasing themselves Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+4)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** The Genies have become strong enough after thousands of battles, and they can return to the elemental world at any time as long as they are willing to leave this small oil lamp. However, because of their relations with mages, they choose to stay with the mages until the end of their life.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Genie with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Genie with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Master Genie souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Master Genie souls in the Underground: 15-2 and 15-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Genie with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Genie with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Energy Overload
- **Description:** <span style="color: #48b946"><Energy Gift><span style="color: black"><span style="color: #645252">Restores HP equal to 25% of ATK when a normal attack is made. Increases unit's damage reduction by 20% and ATK speed by 10% for itself<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Energy Gift></span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. Increases unit's damage reduction by 20% and ATK speed by 10% for itself</span>
 
 ### 2nd Skill (or 1st): Energy Protection
- **Description:** <span style="color: #48b946"><Energy Gift><span style="color: black"><span style="color: #645252">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Energy Gift></span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.</span>
 
 ### 3rd Skill (or 4th): As You Wish
- **Description:** <span style="color: #48b946"><Three Wishes><span style="color: black"><span style="color: #645252">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Three Wishes></span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%</span>
 
 ### 4th Skill (or 3rd): Multiple Blessings
- **Description:** <span style="color: #48b946"><Three Wishes><span style="color: black"><span style="color: #645252">Blesses 6 random friendly units and receives two bonuses among unit's damage reduction, unit's damage or ATK speed<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Three Wishes></span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and receives two bonuses among unit's damage reduction, unit's damage or ATK speed</span>
 
 ### 5th Skill (or 6th): Awakening Enforcement
- **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252"> Cannot be effected by control states. Increases DEF by 10% for units being healed. This effect lasts for 3s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px"> Cannot be effected by control states. Increases DEF by 10% for units being healed. This effect lasts for 3s</span>
 
 ### 6th Skill (or 5th): Transcendental Awakening
- **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Healing increased by 50%. Increases DEF by 20% for units being healed. This effect lasts for 3s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Healing increased by 50%. Increases DEF by 20% for units being healed. This effect lasts for 3s</span>
 
 ## Technical info
  **runart:** 0
@@ -114,27 +114,27 @@ toc: true
 
  **atkfly:** 1
 
- **rush:** 3
+ **Rush:** 3
 
- **speedattack:** 60
+ **Speedattack:** 60
 
- **atkshow:** 7.0
+ **Attack Show:** 7.0
 
- **attackarea:** 230
+ **Attack Area:** 230
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 7
+ **Attack Speed Show:** 7.0
 
- **defshow:** 3.0
+ **Defense Show:** 3.0
 
- **score:** 1236
+ **Score:** 1236
 
- **hpshow:** 5
+ **HP Show:** 5
 
  **disrdcvol:** -2147483648
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 2
 

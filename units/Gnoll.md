@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Gnoll"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Chain Slap
- **Description:** <span style="color: #645252">The Gnoll unit deals <span style="color: black"><span style="color: #48b946">{((($level+$ulevel)*30+420))*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to its target, and <span style="color: black"><span style="color: #48b946"><stuns><span style="color: black"><span style="color: #645252"> them for 3s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Gnoll unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stuns></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### 2 Skill: Primitive Wildness
- **Description:** <span style="color: #645252">Increases Gnoll's ATK by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1.5+13.5}%<span style="color: black"><span style="color: #645252"> and ATK speed by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.6+2.4}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Gnoll's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Plague Aggravation
- **Description:** <span style="color: #645252">Gnoll's unit's damage increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+4}%<span style="color: black"><span style="color: #645252">, which is increased by an extra 5% for every debuff the target has, up to 5 stacks.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Gnoll's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, which is increased by an extra 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
 ### 4 Skill: Execution
- **Description:** <span style="color: #645252">When fighting against a target with HP lower than 30%, the Gnoll's ATK is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*4+26}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When fighting against a target with HP lower than 30%, the Gnoll's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Plague Strike
- **Description:** <span style="color: #645252">Fortress units are good at spreading the plague, and increase unit's damage by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+7)}%<span style="color: black"><span style="color: #645252"> when fighting against units suffering from the <plague><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the <plague></span><span style="color: black">
 
 ### 6 Skill: Rise of Vitality
- **Description:** <span style="color: #645252">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*300+2000)}<span style="color: black"><span style="color: #645252"> HP every 3s) and receiving <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+1)}%<span style="color: black"><span style="color: #645252"> life drain<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
 
  4. null
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252">'s targets changed to all enemy units in a large range<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
 
 ### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252"> damage increases to 150%, and stun effect is increased to 4.5 seconds<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
 ### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
 
 ### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man man units, decreases target's dodge by 300<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 1.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 120
+ **Speedattack:** 120
 
- **atkshow:** 1.0
+ **Attack Show:** 1.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 1
+ **Attack Speed Show:** 1.0
 
- **defshow:** 1.0
+ **Defense Show:** 1.0
 
- **score:** 501
+ **Score:** 501
 
- **hpshow:** 1
+ **HP Show:** 1
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Castle -  Units"
 permalink: /units/Fraction Castle/
 excerpt: "Fraction Castle - List of Units in Era of Chaos"
-last_modified_at: 2020-11-28
+last_modified_at: 2020-12-01
 lang: en
 ref: "Fraction Castle"
 toc: false
@@ -22,3 +22,4 @@ classes: wide
   | 6 | [Cavalier ](/units/Cavalier /) | Charging | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 7 | [Paladin](/units/Paladin/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
   | 8 | [Angel](/units/Angel/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |
+  | 9 | [Judicator](/units/Judicator/) | Caster | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |  shenpanguan  |

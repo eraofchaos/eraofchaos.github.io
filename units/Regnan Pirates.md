@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Tidal Plunder
- **Description:** <span style="color: #645252">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+14.5)}<span style="color: black"><span style="color: #645252">s<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
 ### 2 Skill: Tactical Skill
- **Description:** <span style="color: #645252">Regnan Pirates' ATK increases by 20%. Pirates receive an increase of <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.2+1.8)}%<span style="color: black"><span style="color: #645252"> unit's damage reduction for 6s whenever they're attacked. The effect can stack up to <span style="color: black"><span style="color: #48b946">{(5*(($level+$ulevel)*0.2+1.8))}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' ATK increases by 20%. Pirates receive an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage reduction for 6s whenever they're attacked. The effect can stack up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Naked Blade
- **Description:** <span style="color: #645252">Regnan Pirates' Crit Hit increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*50+50)}<span style="color: black"><span style="color: #645252">. Decreases target unit's DEF by 2% for 6s whenever a Crit Hit is landed. The effect can be stacked up to 20%<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Decreases target unit's DEF by 2% for 6s whenever a Crit Hit is landed. The effect can be stacked up to 20%</span><span style="color: black">
 
 ### 4 Skill: Prudence and Greed
- **Description:** <span style="color: #645252">Regnan Pirates cause more damage as their HP reduces. Regnan Pirates' ATK increases as the target's HP decreases. Their ATK can increase by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*4+56)}%<span style="color: black"><span style="color: #645252"> at most<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates cause more damage as their HP reduces. Regnan Pirates' ATK increases as the target's HP decreases. Their ATK can increase by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> at most</span><span style="color: black">
 
 ### 5 Skill: Calm Body
- **Description:** <span style="color: #645252">Cove units know their way around a storm. HP is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem</span><span style="color: black">
 
 ### 6 Skill: Pirate Conflict
- **Description:** <span style="color: #645252">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 4.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 120
+ **Speedattack:** 120
 
- **atkshow:** 6.0
+ **Attack Show:** 6.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 7
+ **Attack Speed Show:** 7.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 794
+ **Score:** 794
 
- **hpshow:** 5
+ **HP Show:** 5
 
  **disrdcvol:** -2147483648
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 

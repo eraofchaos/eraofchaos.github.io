@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Monk"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Prayer
- **Description:** <span style="color: #645252">Monk units restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*15+285)*0.01*$atk}<span style="color: black"><span style="color: #645252"> HP of the friendly unit with the lowest HP percentage every 17s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Monk units restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP of the friendly unit with the lowest HP percentage every 17s.</span><span style="color: black">
 
 ### 2 Skill: Blessings of the Valiant
- **Description:** <span style="color: #645252">When the battle starts, Monk Units give <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252"> to all friendly units in its path for <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+11)}<span style="color: black"><span style="color: #645252">s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the battle starts, Monk Units give </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all friendly units in its path for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### 3 Skill: Meditation
- **Description:** <span style="color: #645252">When Monk units are on the battlefield, Hero's spell recovery speed increases by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.05+0.25}<span style="color: black"><span style="color: #645252">.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Monk units are on the battlefield, Hero's spell recovery speed increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Recovery
- **Description:** <span style="color: #645252">Monk's HP increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*4+16}%<span style="color: black"><span style="color: #645252">. Healing increases by 50%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Monk's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Healing increases by 50%.</span><span style="color: black">
 
 ### 5 Skill: Siege Combat
- **Description:** <span style="color: #645252">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+2.5)}%<span style="color: black"><span style="color: #645252"> <span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### 6 Skill: Defense Resonance
- **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -70,16 +70,16 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Description:** The zealots claim they've been blessed by the Archangel. Not the Archangel seen in combat but the true Oracle. They even cast a powerful divine spell to prove their claim.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Monk with at least <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> Castle units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Monk with at least </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> Castle units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Zealot souls in the Underground: Levels 13-2 and 13-4.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Zealot souls in the Underground: Levels 13-2 and 13-4.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Monk and win <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> Arena battles.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Monk and win </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> Arena battles.</span>
 
 ## Awaken Skills
 
@@ -114,27 +114,27 @@ toc: true
 
  **atkfly:** 1
 
- **rush:** 3
+ **Rush:** 3
 
- **speedattack:** 60
+ **Speedattack:** 60
 
- **atkshow:** 7.0
+ **Attack Show:** 7.0
 
- **attackarea:** 230
+ **Attack Area:** 230
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 7
+ **Attack Speed Show:** 7.0
 
- **defshow:** 3.0
+ **Defense Show:** 3.0
 
- **score:** 501
+ **Score:** 501
 
- **hpshow:** 5
+ **HP Show:** 5
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 

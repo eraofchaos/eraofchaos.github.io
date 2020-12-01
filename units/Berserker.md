@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Berserker"
 toc: true
@@ -40,19 +40,19 @@ toc: true
  **Description:** 
 
 ### 2 Skill: War Fury
- **Description:** <span style="color: #645252">The Berserker's attack can increase by up to <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*16+60)}%<span style="color: black"><span style="color: #645252"> as its HP reduces. The Berserker cries out every 20s, increasing his own unit's damage by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.8+3)}%<span style="color: black"><span style="color: #645252"> and ATK speed by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+10)}%<span style="color: black"><span style="color: #645252"> while <span style="color: black"><span style="color: #48b946"><deterring><span style="color: black"><span style="color: #645252"> all hostile units for 10s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Berserker's attack can increase by up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> as its HP reduces. The Berserker cries out every 20s, increasing his own unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> while </span><span style="color: black"><span style="color: #48b946;font-size:20px"><deterring></span><span style="color: black"><span style="color: #645252;font-size:20px"> all hostile units for 10s.</span><span style="color: black">
 
 ### 3 Skill: Rampage
- **Description:** <span style="color: #645252">The Berserker is immune to <petrification> and<stun>. Berserker's ATK speed increased by <span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Berserker is immune to <petrification> and<stun>. Berserker's ATK speed increased by <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)</span><span style="color: black">
 
 ### 4 Skill: Immortal War God
- **Description:** <span style="color: #645252">For each additional Stronghold unit deployed, increases Berserker's unit's damage by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.2+0.8)}%<span style="color: black"><span style="color: #645252"> and Crit Hit by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+15)}<span style="color: black"><span style="color: #645252">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"> and regenerating <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.1+0)}%<span style="color: black"><span style="color: #645252"> of Max HP.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">For each additional Stronghold unit deployed, increases Berserker's unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and regenerating </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
 ### 5 Skill: Fight Zealot
- **Description:** <span style="color: #645252">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+0.5)}%<span style="color: black"><span style="color: #645252"> for every 15% of HP lost<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
 ### 6 Skill: Rise of Vitality
- **Description:** <span style="color: #645252">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*300+1200)}<span style="color: black"><span style="color: #645252"> HP every 3s) and receiving <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.3+1)}%<span style="color: black"><span style="color: #645252"> life drain<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** One day, people found that the statues of Mars made a burst of sound, which seemed to be an unwilling roar or a rejection of death.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Berserker with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Stronghold units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Champion level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Berserker with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Stronghold units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Champion level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Death Howler souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Death Howler souls in the Underground: 17-2 and 17-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Berserker and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Berserker and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Deadweight Battle Axe
- **Description:** <span style="color: #48b946"><Peerless Dance><span style="color: black"><span style="color: #645252">Damage related to Max HP caused by Peerless Dance doubled. When it's dispelled successfully, it deals 200% extra damage<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Peerless Dance></span><span style="color: #645252;font-size:18px">Damage related to Max HP caused by Peerless Dance doubled. When it's dispelled successfully, it deals 200% extra damage</span>
 
 ### 2nd Skill (or 1st): Bloodlust Battle Axe
- **Description:** <span style="color: #48b946"><Peerless Dance><span style="color: black"><span style="color: #645252">The Berserker receives 20% extra life drain. When it is successfully dispelled, it deals 200% extra damage<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Peerless Dance></span><span style="color: #645252;font-size:18px">The Berserker receives 20% extra life drain. When it is successfully dispelled, it deals 200% extra damage</span>
 
 ### 3rd Skill (or 4th): Endless Rage
- **Description:** <span style="color: #48b946"><War Fury><span style="color: black"><span style="color: #645252">War Fury's duration increased by 15s. Fury increased by 50%. Crit DMG increased by a further 30%. Effects cannot be dispelled.<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><War Fury></span><span style="color: #645252;font-size:18px">War Fury's duration increased by 15s. Fury increased by 50%. Crit DMG increased by a further 30%. Effects cannot be dispelled.</span>
 
 ### 4th Skill (or 3rd): War Killing
- **Description:** <span style="color: #48b946"><War Fury><span style="color: black"><span style="color: #645252">War Fury increases all friendly Stronghold units' unit's damage by 5% and ATK speed by 10% for 10s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><War Fury></span><span style="color: #645252;font-size:18px">War Fury increases all friendly Stronghold units' unit's damage by 5% and ATK speed by 10% for 10s</span>
 
 ### 5th Skill (or 6th): War God's Blessing
- **Description:** <span style="color: #48b946"><Immortal War God><span style="color: black"><span style="color: #645252">Summons a small Statue of Mars at the beginning of the battle to restore 1.5% of Max HP per 2s and increases unit's damage by 8% for your Stronghold Man Units. The colossus disappears when Berserker Units are destroyed. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Immortal War God></span><span style="color: #645252;font-size:18px">Summons a small Statue of Mars at the beginning of the battle to restore 1.5% of Max HP per 2s and increases unit's damage by 8% for your Stronghold Man Units. The colossus disappears when Berserker Units are destroyed. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s</span>
 
 ### 6th Skill (or 5th): Huge Statue
- **Description:** <span style="color: #48b946"><Immortal War God><span style="color: black"><span style="color: #645252">Buff effect offered by Statue of Mars increased by 50%. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Immortal War God></span><span style="color: #645252;font-size:18px">Buff effect offered by Statue of Mars increased by 50%. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 4.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 130
+ **Speedattack:** 130
 
- **atkshow:** 8.0
+ **Attack Show:** 8.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 8
+ **Attack Speed Show:** 8.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 455
+ **Score:** 455
 
- **hpshow:** 6
+ **HP Show:** 6
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 2
 

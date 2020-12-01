@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Firebird"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Flame Breath
- **Description:** <span style="color: #645252">The Firebird decimates hostile units within a large range in front of it, causing <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+38)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage. Crit Hit dealt to <span style="color: black"><span style="color: #48b946">\"Burned\"<span style="color: black"><span style="color: #645252"> units increased by 500.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Firebird decimates hostile units within a large range in front of it, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage. Crit Hit dealt to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burned\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> units increased by 500.</span><span style="color: black">
 
 ### 2 Skill: Flametongue
- **Description:** <span style="color: #645252">When the Firebird is fighting against a 9-man unit, its normal attack deals <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+39}%<span style="color: black"><span style="color: #645252"> AoE damage to 3 hostile unit members.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Firebird is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 hostile unit members.</span><span style="color: black">
 
 ### 3 Skill: Resurrection
- **Description:** <span style="color: #645252">Firebird revives 5s after its first death, restoring <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+27)}%<span style="color: black"><span style="color: #645252"> of its HP.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Firebird revives 5s after its first death, restoring </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its HP.</span><span style="color: black">
 
 ### 4 Skill: Fire Boost
- **Description:** <span style="color: #645252">Firebird is immune to <span style="color: black"><span style="color: #48b946">\"Burning\"<span style="color: black"><span style="color: #645252"> and receives an increase of <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*5+25}%<span style="color: black"><span style="color: #645252"> Crit DMG.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Firebird is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and receives an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Crit DMG.</span><span style="color: black">
 
 ### 5 Skill: Elemental Affinity
- **Description:** <span style="color: #645252">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+15)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Elemental Conflict
- **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Firebird with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Caster units and defeat <span style="color: black"><span style="color: #1ca216">14<span style="color: black"><span style="color: #3c2a1e"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Firebird with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Caster units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Resources in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Resources in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Phoenix souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Phoenix souls in the Underground: 15-2 and 15-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Firebird and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> spellcasting units to win <span style="color: black"><span style="color: #1ca216">12<span style="color: black"><span style="color: #3c2a1e"> battles in the Campaign.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Firebird and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> spellcasting units to win </span><span style="color: #1ca216;font-size:18px">12</span><span style="color: #3c2a1e;font-size:18px"> battles in the Campaign.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Eternal Flame
- **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">Reborn after death every time (Skill CD is 20s)<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">Reborn after death every time (Skill CD is 20s)</span>
 
 ### 2nd Skill (or 1st): Endless Storm
- **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">After resurrecting, deals damage equal to 8% of Max HP to all hostile units and <burns> them for 15s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">After resurrecting, deals damage equal to 8% of Max HP to all hostile units and <burns> them for 15s</span>
 
 ### 3rd Skill (or 4th): Blast of the Cross
- **Description:** <span style="color: #48b946"><Flame Breath><span style="color: black"><span style="color: #645252">Deals additional damage to enemies standing in the row where the target is (targets on a crossing take double damage)<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Flame Breath></span><span style="color: #645252;font-size:18px">Deals additional damage to enemies standing in the row where the target is (targets on a crossing take double damage)</span>
 
 ### 4th Skill (or 3rd): Lava Breath
- **Description:** <span style="color: #48b946"><Flame Breath><span style="color: black"><span style="color: #645252">Damage increased to 200%<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Flame Breath></span><span style="color: #645252;font-size:18px">Damage increased to 200%</span>
 
 ### 5th Skill (or 6th): Endless Rage
- **Description:** <span style="color: #48b946"><Fire Boost><span style="color: black"><span style="color: #645252">Extra 30% unit's damage<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Fire Boost></span><span style="color: #645252;font-size:18px">Extra 30% unit's damage</span>
 
 ### 6th Skill (or 5th): Flame Intensifies
- **Description:** <span style="color: #48b946"><Fire Boost><span style="color: black"><span style="color: #645252">Guaranteed to cause a Crit Hit on <burned> targets<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Fire Boost></span><span style="color: #645252;font-size:18px">Guaranteed to cause a Crit Hit on <burned> targets</span>
 
 ## Technical info
  **runart:** 0
@@ -114,27 +114,27 @@ toc: true
 
  **atkfly:** 1
 
- **rush:** 3
+ **Rush:** 3
 
- **speedattack:** 60
+ **Speedattack:** 60
 
- **atkshow:** 9.0
+ **Attack Show:** 9.0
 
- **attackarea:** 230
+ **Attack Area:** 230
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 6
+ **Attack Speed Show:** 6.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 1349
+ **Score:** 1349
 
- **hpshow:** 5
+ **HP Show:** 5
 
  **disrdcvol:** 40
 
- **deadtype:** 3
+ **Dead Type:** 3
 
  **s:** 4
 

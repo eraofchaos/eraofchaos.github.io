@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Fierce-looking Jaw
- **Description:** <span style="color: #645252">Causes additional damage equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252"> of Max HP and <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*6+30}%<span style="color: black"><span style="color: #645252"> damage to the targets every 10s while <span style="color: black"><span style="color: #48b946"><deterring><span style="color: black"><span style="color: #645252"> hostile units on the same path for 4s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the targets every 10s while </span><span style="color: black"><span style="color: #48b946;font-size:20px"><deterring></span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units on the same path for 4s.</span><span style="color: black">
 
 ### 2 Skill: Ice-cold Fin
- **Description:** <span style="color: #645252">Immune to <span style="color: black"><span style="color: #48b946"><Freeze> <span style="color: black"><span style="color: #645252">and <span style="color: black"><span style="color: #48b946"><Time Stop> <span style="color: black"><span style="color: #645252"> statuses, and water spell DMG. For each Cove unit deployed, Unit DMG increases by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.1+1.5}%<span style="color: black"><span style="color: #645252"> and Critical Hit increases by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.2+1}%<span style="color: black"><span style="color: #645252">. When Revyaratan is deployed, all friendly units gets a <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+0}%<span style="color: black"><span style="color: #645252"> increase in Unit DMG, Attack Speed, and Crit DMG. For Cove faction units, this effect is increased by an additional 2.5%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Freeze> </span><span style="color: black"><span style="color: #645252;font-size:20px">and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Time Stop> </span><span style="color: black"><span style="color: #645252;font-size:20px"> statuses, and water spell DMG. For each Cove unit deployed, Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Revyaratan is deployed, all friendly units gets a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> increase in Unit DMG, Attack Speed, and Crit DMG. For Cove faction units, this effect is increased by an additional 2.5%.</span><span style="color: black">
 
 ### 3 Skill: Skeleton Covet
- **Description:** <span style="color: #645252">Increases Unit DMG by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+5}%<span style="color: black"><span style="color: #645252">. Marks 2 enemy units at the start of battle. Marked units get a <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+0}%<span style="color: black"><span style="color: #645252"> reduction in Attack Speed, Crit DMG, and Unit DMG Reduction. They also cannot be revived by Angel skills after their first death. <Fierce-looking Jaw> has a 30% chance of recovering <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+2.5}%<span style="color: black"><span style="color: #645252"> of own max HP.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Marks 2 enemy units at the start of battle. Marked units get a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduction in Attack Speed, Crit DMG, and Unit DMG Reduction. They also cannot be revived by Angel skills after their first death. <Fierce-looking Jaw> has a 30% chance of recovering </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own max HP.</span><span style="color: black">
 
 ### 4 Skill: The Unbending Undercurrents
- **Description:** <span style="color: #645252">When a friendly Cove unit suffers damage that is higher than 20% of its Max HP, the Sea Monster will be infuriated that will increase unit damage by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.2+2}%<span style="color: black"><span style="color: #645252"> and unit damage reduction by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.2+1}%<span style="color: black"><span style="color: #645252"> for friendly Cove units for 25s, up to 5 stacks<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a friendly Cove unit suffers damage that is higher than 20% of its Max HP, the Sea Monster will be infuriated that will increase unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly Cove units for 25s, up to 5 stacks</span><span style="color: black">
 
 ### 5 Skill: Calm Body
- **Description:** <span style="color: #645252">Cove units know their way around a storm. HP is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem</span><span style="color: black">
 
 ### 6 Skill: Pirate Conflict
- **Description:** <span style="color: #645252">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 4.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 120
+ **Speedattack:** 120
 
- **atkshow:** 6.0
+ **Attack Show:** 6.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 7
+ **Attack Speed Show:** 7.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 1349
+ **Score:** 1349
 
- **hpshow:** 5
+ **HP Show:** 5
 
  **disrdcvol:** -2147483648
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 

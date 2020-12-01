@@ -1,0 +1,25 @@
+---
+title: "Era of Chaos - Fraction Nécropole -  Units"
+permalink: /fr/units/Fraction Nécropole/
+excerpt: "Fraction Nécropole - List of Units in Era of Chaos"
+last_modified_at: 2020-12-01
+lang: fr
+ref: "Fraction Nécropole"
+toc: false
+classes: wide
+---
+  [Battle Formation](/Battle Formation/Battle Formation Fraction Nécropole)
+
+ [Château](/fr/units/Fraction Château){: .btn .btn--primary} [Rempart](/fr/units/Fraction Rempart){: .btn .btn--success} [Forteresse](/fr/units/Fraction Forteresse){: .btn .btn--warning} [Conflux](/fr/units/Fraction Conflux){: .btn .btn--danger} [Bastion](/fr/units/Fraction Bastion){: .btn .btn--info} [Hadès](/fr/units/Fraction Hadès){: .btn .btn--primary} [Crique](/fr/units/Fraction Crique){: .btn .btn--success} [Nécropole](/fr/units/Fraction Nécropole){: .btn .btn--warning} [Armée neutre](/fr/units/Fraction Armée neutre){: .btn .btn--danger} [Tour](/fr/units/Fraction Tour){: .btn .btn--info} [Donjon](/fr/units/Fraction Donjon){: .btn .btn--primary} 
+
+  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
+  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
+  | 1 | [Momie](/fr/units/Mummy/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 141.0 | 2691 |  munaiyi  |
+  | 2 | [Champion des ténèbres](/fr/units/Dark Champion/) | Offensive | - | UR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |  sishen  |
+  | 3 | [Squelette](/fr/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  kuloubing  |
+  | 4 | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
+  | 5 | [Revenante](/fr/units/Wight/) | Lanceur de sorts | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  youling  |
+  | 6 | [Vampire](/fr/units/Vampire/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
+  | 7 | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
+  | 8 | [Liche](/fr/units/Lich/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  wuyao  |
+  | 9 | [Dragon squelette](/fr/units/Bone Dragon/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |

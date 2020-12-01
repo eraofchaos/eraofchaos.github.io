@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -40,19 +40,19 @@ toc: true
  **Description:** 
 
 ### 2 Skill: Double Strike
- **Description:** <span style="color: #645252">The Wood Elf has a <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+9}%<span style="color: black"><span style="color: #645252"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow causes <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*3+47}%<span style="color: black"><span style="color: #645252"> damage to the target. When fighting against <span style="color: black"><span style="color: #48b946"><Slow><span style="color: black"><span style="color: #645252"> targets, the trigger chance of <Double Strike> is increased to 100%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Wood Elf has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Slow></span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of <Double Strike> is increased to 100%.</span><span style="color: black">
 
 ### 3 Skill: Elf Shelter
- **Description:** <span style="color: #645252">Each Wood Elf gets 1 <span style="color: black"><span style="color: #48b946"><Shield><span style="color: black"><span style="color: #645252"> every time a hostile hero casts a spell, absorbing damage equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.75+11.25}%<span style="color: black"><span style="color: #645252"> of Max HP for 5s. CD is 10s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Each Wood Elf gets 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Shield></span><span style="color: black"><span style="color: #645252;font-size:20px"> every time a hostile hero casts a spell, absorbing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for 5s. CD is 10s.</span><span style="color: black">
 
 ### 4 Skill: Concentrate fire on their leader
- **Description:** <span style="color: #645252">Wood Elf's Crit Hit increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*20+80}%<span style="color: black"><span style="color: #645252">. Grants 40 extra Crit Hit for the Wood Elf for every friendly Ranged unit on the battlefield.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wood Elf's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants 40 extra Crit Hit for the Wood Elf for every friendly Ranged unit on the battlefield.</span><span style="color: black">
 
 ### 5 Skill: Calm Proliferation
- **Description:** <span style="color: #645252">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+7.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Hatred Mark
- **Description:** <span style="color: #645252">Rampart units are proficient at tactical pursuit, increasing Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.9+2.4)}%<span style="color: black"><span style="color: #645252"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** The birds in the forest are her eyes, the flying arrows are her call and the natural blessing makes a perfect presentation on them. They are the noble hunters who represent the will of the great forest, the Grand Elves of Tulalyon!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Wood Elf with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Rampart units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Rampart units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Grand Elf souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Grand Elf souls in the Underground: 15-2 and 15-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Wood Elf and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Rampart Units and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Rampart Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Phantom Concentration
- **Description:** <span style="color: #48b946"><Rain of Arrows><span style="color: black"><span style="color: #645252">When receiving the bonuses of <Frenzy>, increases unit's damage by 20% for 5s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Rain of Arrows></span><span style="color: #645252;font-size:18px">When receiving the bonuses of <Frenzy>, increases unit's damage by 20% for 5s</span>
 
 ### 2nd Skill (or 1st): Downpour
- **Description:** <span style="color: #48b946"><Rain of Arrows><span style="color: black"><span style="color: #645252">Duration increased by 1.5s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Rain of Arrows></span><span style="color: #645252;font-size:18px">Duration increased by 1.5s</span>
 
 ### 3rd Skill (or 4th): Watcher of Nature
- **Description:** <span style="color: #48b946"><Elf Shelter><span style="color: black"><span style="color: #645252"><Shield> effect increased to 300% of the previous skill's effect<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Elf Shelter></span><span style="color: #645252;font-size:18px"><Shield> effect increased to 300% of the previous skill's effect</span>
 
 ### 4th Skill (or 3rd): Affinity for Nature
- **Description:** <span style="color: #48b946"><Elf Shelter><span style="color: black"><span style="color: #645252"><Shield> effect increased to 150% of the previous skill's effect. CD reduced to 0s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Elf Shelter></span><span style="color: #645252;font-size:18px"><Shield> effect increased to 150% of the previous skill's effect. CD reduced to 0s</span>
 
 ### 5th Skill (or 6th): Release the Beast
- **Description:** <span style="color: #48b946"><Fire Caller><span style="color: black"><span style="color: #645252">Increases Crit DMG by 15%. Wood Elf's Crit DMG will be increased by 3% further for every friendly Ranged unit on the battlefield<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Fire Caller></span><span style="color: #645252;font-size:18px">Increases Crit DMG by 15%. Wood Elf's Crit DMG will be increased by 3% further for every friendly Ranged unit on the battlefield</span>
 
 ### 6th Skill (or 5th): Hunter Instinct
- **Description:** <span style="color: #48b946"><Fire Caller><span style="color: black"><span style="color: #645252">Increases unit's damage by 10%. Wood Elf's Crit DMG will be increased by additional 2% for every friendly Ranged unit on the battlefield<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Fire Caller></span><span style="color: #645252;font-size:18px">Increases unit's damage by 10%. Wood Elf's Crit DMG will be increased by additional 2% for every friendly Ranged unit on the battlefield</span>
 
 ## Technical info
  **runart:** 0
@@ -114,27 +114,27 @@ toc: true
 
  **atkfly:** 2
 
- **rush:** 3
+ **Rush:** 3
 
- **speedattack:** 80
+ **Speedattack:** 80
 
- **atkshow:** 6.0
+ **Attack Show:** 6.0
 
- **attackarea:** 350
+ **Attack Area:** 350
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 9
+ **Attack Speed Show:** 9.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 761
+ **Score:** 761
 
- **hpshow:** 4
+ **HP Show:** 4
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 

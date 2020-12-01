@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -40,19 +40,19 @@ toc: true
  **Description:** 
 
 ### 2 Skill: Shield Bash
- **Description:** <span style="color: #645252">Spartan Warriors slam their shield into their opponent, <span style="color: black"><span style="color: #48b946"><stunning> <span style="color: black"><span style="color: #645252">enemy units in a large range for 5s. They then increase their own unit damage by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+5}% <span style="color: black"><span style="color: #645252"> and ATK speed by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+5}%<span style="color: black"><span style="color: #645252"> for the next 10s. CD is 20s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Spartan Warriors slam their shield into their opponent, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stunning> </span><span style="color: black"><span style="color: #645252;font-size:20px">enemy units in a large range for 5s. They then increase their own unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the next 10s. CD is 20s.</span><span style="color: black">
 
 ### 3 Skill: Spartan Bloodline
- **Description:** <span style="color: #645252">When a Spartan loses 5% of their HP, their own Defense is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.2+1}%<span style="color: black"><span style="color: #645252">, and their Attack is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+2.5}%<span style="color: black"><span style="color: #645252">. When HP is reduced to 50% for the first time, their Attack Speed is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+15}%<span style="color: black"><span style="color: #645252">, and their Unit DMG is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+15}%<span style="color: black"><span style="color: #645252"> for the rest of the battle.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Spartan loses 5% of their HP, their own Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and their Attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is reduced to 50% for the first time, their Attack Speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and their Unit DMG is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the rest of the battle.</span><span style="color: black">
 
 ### 4 Skill: Thermopylae
- **Description:** <span style="color: #645252">When a Spartan Warrior dies, the death increases the Unit DMG and Unit DMG Reduction of all friendly units by 5% each for the entire battle. The Spartan Warriors will let out a war cry every 20s to inspire other friendly units, increasing their Attack Speed by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+5}% <span style="color: black"><span style="color: #645252">for 10s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Spartan Warrior dies, the death increases the Unit DMG and Unit DMG Reduction of all friendly units by 5% each for the entire battle. The Spartan Warriors will let out a war cry every 20s to inspire other friendly units, increasing their Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px">for 10s.</span><span style="color: black">
 
 ### 5 Skill: Armed Conflict
- **Description:** <span style="color: #645252">Neutral units are a proficient force. When fighting against non-Neutral units, their <span style="color: black"><span style="color: #645252">Unit DMG increases by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Neutral units are a proficient force. When fighting against non-Neutral units, their </span><span style="color: black"><span style="color: #645252;font-size:20px">Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%.</span><span style="color: black">
 
 ### 6 Skill: Courage Boost
- **Description:** <span style="color: #645252">Neutral units are able to resist a great amount of force. Each time they lose 10% of their HP, their <span style="color: black"><span style="color: #645252">Defense increases by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.2+2)}%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Neutral units are able to resist a great amount of force. Each time they lose 10% of their HP, their </span><span style="color: black"><span style="color: #645252;font-size:20px">Defense increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Pikemen with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> monsters during a Guild adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Halberdier souls in the Underground: 14-2 and 14-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
 
  4. null
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252">'s targets changed to all enemy units in a large range<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
 
 ### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946"><Spear Array><span style="color: black"><span style="color: #645252"> damage increases to 150%, and stun effect is increased to 4.5 seconds<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
 ### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
 
 ### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946"><Dragon Slaying><span style="color: black"><span style="color: #645252">When facing 1-man or 4-man man units, decreases target's dodge by 300<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 4.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 120
+ **Speedattack:** 120
 
- **atkshow:** 6.0
+ **Attack Show:** 6.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 6
+ **Attack Speed Show:** 6.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 1574
+ **Score:** 1574
 
- **hpshow:** 7
+ **HP Show:** 7
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 

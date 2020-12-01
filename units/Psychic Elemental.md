@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Energy Blast
- **Description:** <span style="color: #645252">Psychic Elementals are immune to <span style="color: black"><span style="color: #48b946"><silence><span style="color: black"><span style="color: #645252">. Each Psychic Elemental attacks 3 members of the hostile unit every 4s, causing damage equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*4+56}%<span style="color: black"><span style="color: #645252"> of its ATK.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elementals are immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><silence></span><span style="color: black"><span style="color: #645252;font-size:20px">. Each Psychic Elemental attacks 3 members of the hostile unit every 4s, causing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK.</span><span style="color: black">
 
 ### 2 Skill: Earth
- **Description:** <span style="color: #645252">Psychic Elemental units' unit damage increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252">. The Psychic Elemental's <Energy Blast> has a 30% chance to <span style="color: black"><span style="color: #48b946"><stun><span style="color: black"><span style="color: #645252"> the target unit for 3s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental units' unit damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Psychic Elemental's <Energy Blast> has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stun></span><span style="color: black"><span style="color: #645252;font-size:20px"> the target unit for 3s.</span><span style="color: black">
 
 ### 3 Skill: Fire
- **Description:** <span style="color: #645252">Psychic Elemental unit damage reduction increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+4.5}%<span style="color: black"><span style="color: #645252">. Psychic Elemental's <Energy Blast> has a 30% chance to <span style="color: black"><span style="color: #48b946"><burn><span style="color: black"><span style="color: #645252"> the target for 6s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental unit damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psychic Elemental's <Energy Blast> has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><burn></span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 6s.</span><span style="color: black">
 
 ### 4 Skill: Lord of Element
- **Description:** <span style="color: #645252">Psychic Elemental's magic resistance is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1.2+4.8}%<span style="color: black"><span style="color: #645252"> and its unit's damage is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+6}%<span style="color: black"><span style="color: #645252">. Whenever a Psychic Elemental dies, the enemy hero's Mana is reduced by 20.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental's magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever a Psychic Elemental dies, the enemy hero's Mana is reduced by 20.</span><span style="color: black">
 
 ### 5 Skill: Elemental Affinity
- **Description:** <span style="color: #645252">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*3+15)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Elemental Conflict
- **Description:** <span style="color: #645252">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Psychic Elemental and kill <span style="color: black"><span style="color: #1ca216">1,000<span style="color: black"><span style="color: #3c2a1e"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Psychic Elemental and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">In the Guild Adventure Underground, occupy City <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">In the Guild Adventure Underground, occupy City </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Magic Elemental souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Magic Elemental souls in the Underground: 17-2 and 17-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Psychic Elemental and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Psychic Elemental and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Focus
- **Description:** <span style="color: #48b946"><Energy Blast><span style="color: black"><span style="color: #645252"> skill damage increased to 200% of the original skill's damage.<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Energy Blast></span><span style="color: #645252;font-size:18px"> skill damage increased to 200% of the original skill's damage.</span>
 
 ### 2nd Skill (or 1st): Divergence
- **Description:** <span style="color: #48b946"><Energy Blast><span style="color: black"><span style="color: #645252"> skill damage increased to 150% of the original skill's damage, and the range covers all hostile units.<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Energy Blast></span><span style="color: #645252;font-size:18px"> skill damage increased to 150% of the original skill's damage, and the range covers all hostile units.</span>
 
 ### 3rd Skill (or 4th): Stress Reaction
- **Description:** <span style="color: #48b946"><Earth><span style="color: black"><span style="color: #645252"> causes AoE <stun>.<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Earth></span><span style="color: #645252;font-size:18px"> causes AoE <stun>.</span>
 
 ### 4th Skill (or 3rd): Trauma
- **Description:** <span style="color: #48b946"><Earth><span style="color: black"><span style="color: #645252"> doubles unit's damage dealt.<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Earth></span><span style="color: #645252;font-size:18px"> doubles unit's damage dealt.</span>
 
 ### 5th Skill (or 6th): Sparks of Thought
- **Description:** <span style="color: #48b946"><Fire><span style="color: black"><span style="color: #645252"> Unit's damage reduction triples. Trigger chance increased by 10%. Burns a crowd of enemies<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Fire></span><span style="color: #645252;font-size:18px"> Unit's damage reduction triples. Trigger chance increased by 10%. Burns a crowd of enemies</span>
 
 ### 6th Skill (or 5th): Fired Up
- **Description:** <span style="color: #48b946"><Fire><span style="color: black"><span style="color: #645252"> Unit's damage reduction triples. Trigger chance increased by 10%. Burn duration increased to 12s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Fire></span><span style="color: #645252;font-size:18px"> Unit's damage reduction triples. Trigger chance increased by 10%. Burn duration increased to 12s</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 1.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 120
+ **Speedattack:** 120
 
- **atkshow:** 1.0
+ **Attack Show:** 1.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 1
+ **Attack Speed Show:** 1.0
 
- **defshow:** 1.0
+ **Defense Show:** 1.0
 
- **score:** 1349
+ **Score:** 1349
 
- **hpshow:** 1
+ **HP Show:** 1
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 2
 

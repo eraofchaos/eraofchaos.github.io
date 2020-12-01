@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Metal Resonance
- **Description:** <span style="color: #645252">The Iron Golem opens a shroud, increasing unit's damage reduction for friendly units in it by 30% for <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.8+9.2}<span style="color: black"><span style="color: #645252">s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Iron Golem opens a shroud, increasing unit's damage reduction for friendly units in it by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### 2 Skill: Strong
- **Description:** <span style="color: #645252">Iron Golem's HP increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*2+8}%<span style="color: black"><span style="color: #645252">, unit's damage reduction increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+4}%<span style="color: black"><span style="color: #645252">.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Iron Golem's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Iron Body
- **Description:** <span style="color: #645252">The Iron Golem is immune to <span style="color: black"><span style="color: #48b946">\"bleeding\"<span style="color: black"><span style="color: #645252">. When the Iron Golem takes spell damage from a hero, his magic resistance increases by 100% for <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.8+7.2}<span style="color: black"><span style="color: #645252">s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Iron Golem is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px">. When the Iron Golem takes spell damage from a hero, his magic resistance increases by 100% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### 4 Skill: Magic Awakening
- **Description:** <span style="color: #645252">When an Iron Golem unit is enhanced by a friendly hero's support spell, restores <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.3+1.2}%<span style="color: black"><span style="color: #645252"> of Max HP. At the same time, increases unit damage reduction by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.6+2.4}%<span style="color: black"><span style="color: #645252">. Effective throughout the entire battle, up to 3 stacks.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When an Iron Golem unit is enhanced by a friendly hero's support spell, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. At the same time, increases unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the entire battle, up to 3 stacks.</span><span style="color: black">
 
 ### 5 Skill: Sober Mind
- **Description:** <span style="color: #645252">Tower units are proficient at resisting silence. The duration of <silence> is shortened by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+10)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of <silence> is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Energy Dynamite
- **Description:** <span style="color: #645252">Tower units are proficient at energy conversion, increasing themselves Crit DMG by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+4)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** Mysterious magical alloy makes this great creation indestructible, and the Gold Golem, seems to be able to withstand any damage. They are loyal guards for the Tower, and they are a barrier that cannot be broken for enemies.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Iron Golem with at least <span style="color: black"><span style="color: #1ca216">5<span style="color: black"><span style="color: #3c2a1e"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Iron Golem with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Gold Golem souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Gold Golem souls in the Underground: 15-2 and 15-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Iron Golem with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Iron Golem with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Tower units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Same Kin Protection
- **Description:** <span style="color: #48b946"><Metal Resonance><span style="color: black"><span style="color: #645252">Guaranteed to cast when engaged. Tower units receive an increase of 10% unit's damage reduction<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Metal Resonance></span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. Tower units receive an increase of 10% unit's damage reduction</span>
 
 ### 2nd Skill (or 1st): Warrior Protection
- **Description:** <span style="color: #48b946"><Metal Resonance><span style="color: black"><span style="color: #645252">Guaranteed to cast when engaged. The effect also works on all friendly Offensive units<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Metal Resonance></span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. The effect also works on all friendly Offensive units</span>
 
 ### 3rd Skill (or 4th): Anti-magic Body
- **Description:** <span style="color: #48b946"><Iron Body><span style="color: black"><span style="color: #645252">When the Iron Golem takes spell damage from a hero, its DEF is increased by 30%.The effect lasts for 10s <span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Iron Body></span><span style="color: #645252;font-size:18px">When the Iron Golem takes spell damage from a hero, its DEF is increased by 30%.The effect lasts for 10s </span>
 
 ### 4th Skill (or 3rd): Steel-forged Body
- **Description:** <span style="color: #48b946"><Iron Body><span style="color: black"><span style="color: #645252">Iron Golem's DEF will be increased by 20%<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Iron Body></span><span style="color: #645252;font-size:18px">Iron Golem's DEF will be increased by 20%</span>
 
 ### 5th Skill (or 6th): Potent Enforcement
- **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Regeneration caused by Magic Awakening increased by 30%, and stacked unit's damage reduction increased by 30%<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Regeneration caused by Magic Awakening increased by 30%, and stacked unit's damage reduction increased by 30%</span>
 
 ### 6th Skill (or 5th): Same Kin Awakening
- **Description:** <span style="color: #48b946"><Magic Awakening><span style="color: black"><span style="color: #645252">Increases your Tower units' DEF by 5%. The effect can be stacked up to 3 times<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Increases your Tower units' DEF by 5%. The effect can be stacked up to 3 times</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 4.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 160
+ **Speedattack:** 160
 
- **atkshow:** 6.0
+ **Attack Show:** 6.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 6
+ **Attack Speed Show:** 6.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 761
+ **Score:** 761
 
- **hpshow:** 7
+ **HP Show:** 7
 
  **disrdcvol:** -2147483648
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 2
 

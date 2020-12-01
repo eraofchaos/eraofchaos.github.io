@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -43,16 +43,16 @@ toc: true
  **Description:** 
 
 ### 3 Skill: Tidal Rampart
- **Description:** <span style="color: #645252">After entering the battlefield, the Dragon Turtle <span style="color: black"><span style="color: #48b946">\"stuns\"<span style="color: black"><span style="color: #645252"> hostile units within a large range for 2s. After <Armoured Shield> has been triggered over 20s, the Dragon Turtle restores 15% HP, and receives a DEF increase of <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+11)}%<span style="color: black"><span style="color: #645252"> throughout the entire battle<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, the Dragon Turtle </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units within a large range for 2s. After <Armoured Shield> has been triggered over 20s, the Dragon Turtle restores 15% HP, and receives a DEF increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle</span><span style="color: black">
 
 ### 4 Skill: Reinforcement
- **Description:** <span style="color: #645252">The Dragon Turtle creates a shield of reinforcement while increasing unit's damage reduction by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+9.5)}%<span style="color: black"><span style="color: #645252"> and magic resistance by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+9.5)}%<span style="color: black"><span style="color: #645252"> for himself and all friendly Cove units every 20s. The effect lasts 8s (This effect cannot be dispelled)<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Dragon Turtle creates a shield of reinforcement while increasing unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself and all friendly Cove units every 20s. The effect lasts 8s (This effect cannot be dispelled)</span><span style="color: black">
 
 ### 5 Skill: Calm Body
- **Description:** <span style="color: #645252">Cove units know their way around a storm. HP is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem</span><span style="color: black">
 
 ### 6 Skill: Pirate Conflict
- **Description:** <span style="color: #645252">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -75,7 +75,7 @@ toc: true
 ### Awaking Tasks
  1. 
 
- 2. <span style="color: #3c2a1e">Kill <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> monsters in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
  3. 
 
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 9.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 100
+ **Speedattack:** 100
 
- **atkshow:** 2.0
+ **Attack Show:** 2.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 3
+ **Attack Speed Show:** 3.0
 
- **defshow:** 9.0
+ **Defense Show:** 9.0
 
- **score:** 1574
+ **Score:** 1574
 
- **hpshow:** 9
+ **HP Show:** 9
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 4
 

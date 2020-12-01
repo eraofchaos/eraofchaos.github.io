@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Angel"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Condemn
- **Description:** <span style="color: #645252">Angel unit deals <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+38)*0.01*$atk}<span style="color: black"><span style="color: #645252"> damage to 3 random hostile units, and <span style="color: black"><span style="color: #48b946"><stuns><span style="color: black"><span style="color: #645252"> them for 3s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stuns></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### 2 Skill: Resurrection
- **Description:** <span style="color: #645252">Angel resurrects 1 friendly unit and restores <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*3+27}%<span style="color: black"><span style="color: #645252"> HP for that unit.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
 
 ### 3 Skill: Radiance
- **Description:** <span style="color: #645252">When Angel is on the battlefield, all friendly units are granted extra HP regeneration each 2s equal to <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.05+0.45}%<span style="color: black"><span style="color: #645252"> of their Max HP.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Angel is on the battlefield, all friendly units are granted extra HP regeneration each 2s equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Max HP.</span><span style="color: black">
 
 ### 4 Skill: Singleminded Sniper
- **Description:** <span style="color: #645252">Angel's ATK is increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*5+25}%<span style="color: black"><span style="color: #645252"> and unit‘s damage is increased by 10% . When Angel is fighting against the Inferno Faction, unit's damage is increased by 50%.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Angel's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit‘s damage is increased by 10% . When Angel is fighting against the Inferno Faction, unit's damage is increased by 50%.</span><span style="color: black">
 
 ### 5 Skill: Siege Combat
- **Description:** <span style="color: #645252">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+2.5)}%<span style="color: black"><span style="color: #645252"> <span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### 6 Skill: Defense Resonance
- **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** Those who were born to be Messiah. At the hard time, the powers who bless your country will stand up. From ancient times to now, there is no such thing. For the people of Erathia, anyone who is recorded on the book will be saved. Book of Angst 12:1
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Angel with at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle units and complete Dragon Utopia <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> time at Ruthless level or higher. (Sweep does not count towards the mission.)<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Angel with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Archangel souls in the Underground: 15-2 and 15-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Archangel souls in the Underground: 15-2 and 15-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Angel and win <span style="color: black"><span style="color: #1ca216">1<span style="color: black"><span style="color: #3c2a1e"> Duel of Champions battle.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Angel and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Trinity
- **Description:** <span style="color: #48b946"><Condemnation><span style="color: black"><span style="color: #645252">Causes a special increase of unit's damage reduction by 10% for 3 random friendly units, lasts throughout the battle<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Condemnation></span><span style="color: #645252;font-size:18px">Causes a special increase of unit's damage reduction by 10% for 3 random friendly units, lasts throughout the battle</span>
 
 ### 2nd Skill (or 1st): Come Again
- **Description:** <span style="color: #48b946"><Condemnation><span style="color: black"><span style="color: #645252">Restores HP equal to 15% of their Max HP for all friendly units  <span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Condemnation></span><span style="color: #645252;font-size:18px">Restores HP equal to 15% of their Max HP for all friendly units  </span>
 
 ### 3rd Skill (or 4th): Salvation
- **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">Makes friendly units immune to all damage for 6s. Angel is immune to <silence><span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">Makes friendly units immune to all damage for 6s. Angel is immune to <silence></span>
 
 ### 4th Skill (or 3rd): Immersion
- **Description:** <span style="color: #48b946"><Resurrection><span style="color: black"><span style="color: #645252">Restores Max HP by 10% for all friendly units. Angel is immune to <silence><span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">Restores Max HP by 10% for all friendly units. Angel is immune to <silence></span>
 
 ### 5th Skill (or 6th): Gospel Talk
- **Description:** <span style="color: #48b946"><Radiance><span style="color: black"><span style="color: #645252">Increases healing of all friendly units by 35% when Angel is on the battlefield<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Radiance></span><span style="color: #645252;font-size:18px">Increases healing of all friendly units by 35% when Angel is on the battlefield</span>
 
 ### 6th Skill (or 5th): Ordination
- **Description:** <span style="color: #48b946"><Radiance><span style="color: black"><span style="color: #645252">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10% for all friendly units<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Radiance></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10% for all friendly units</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 5.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 120
+ **Speedattack:** 120
 
- **atkshow:** 9.0
+ **Attack Show:** 9.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 8
+ **Attack Speed Show:** 8.0
 
- **defshow:** 5.0
+ **Defense Show:** 5.0
 
- **score:** 1574
+ **Score:** 1574
 
- **hpshow:** 6
+ **HP Show:** 6
 
  **disrdcvol:** 70
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 
 

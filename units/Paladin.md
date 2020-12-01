@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Paladin"
 toc: true
@@ -40,19 +40,19 @@ toc: true
  **Description:** 
 
 ### 2 Skill: Leadership
- **Description:** <span style="color: #645252">Paladin unit's damage reduction increased by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*1+9}%<span style="color: black"><span style="color: #645252">. The effect doubles if under <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252"> effect.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Paladin unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if under </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect.</span><span style="color: black">
 
 ### 3 Skill: Incentive
- **Description:** <span style="color: #645252">The Paladin is immune to <span style="color: black"><span style="color: #48b946"><Low Morale><span style="color: black"><span style="color: #645252">. The Paladin gives himself and friendly units within a large range <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252"> and 500 Crit Hit for <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+11)}<span style="color: black"><span style="color: #645252">s.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Low Morale></span><span style="color: black"><span style="color: #645252;font-size:20px">. The Paladin gives himself and friendly units within a large range </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and 500 Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### 4 Skill: Innocent Domain
- **Description:** <span style="color: #645252">The Paladin is immune to <span style="color: black"><span style="color: #48b946"><Disease><span style="color: black"><span style="color: #645252">. Increases all friendly units' damage reduction by <span style="color: black"><span style="color: #48b946">{($level+$ulevel)*0.5+9.5}%<span style="color: black"><span style="color: #645252"> when the Paladin is on the battlefield.<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Disease></span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases all friendly units' damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when the Paladin is on the battlefield.</span><span style="color: black">
 
 ### 5 Skill: Siege Combat
- **Description:** <span style="color: #645252">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+2.5)}%<span style="color: black"><span style="color: #645252"> <span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### 6 Skill: Defense Resonance
- **Description:** <span style="color: #645252">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+2.5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -73,33 +73,33 @@ toc: true
  **Awaking Description:** With armed armor and cold dueling sword, Supreme Paladins and their followers go forward all the time in the light of the church.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units to pass Champion or higher level of Dragon Utopia one time.<span style="color: black">
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Paladin and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle Units to pass Champion or higher level of Dragon Utopia one time.</span>
 
- 2. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">2<span style="color: black"><span style="color: #3c2a1e"> pieces of Equipment in Guild Adventure.<span style="color: black">
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e">Collect <span style="color: black"><span style="color: #1ca216">100<span style="color: black"><span style="color: #3c2a1e"> Supreme Paladin souls in the Underground: 17-2 and 17-4 levels.<span style="color: black">
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Supreme Paladin souls in the Underground: 17-2 and 17-4 levels.</span>
 
- 4. <span style="color: #3c2a1e">Deploy Paladin and at least <span style="color: black"><span style="color: #1ca216">3<span style="color: black"><span style="color: #3c2a1e"> Castle Units and win 1 Duel of Champions battle.<span style="color: black">
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Paladin and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle Units and win 1 Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fearless Execution
- **Description:** <span style="color: #48b946"><Reinforcements of the Valiant><span style="color: black"><span style="color: #645252">Sanctuary Retinue is promoted to Sanctuary Supervisor. For each Sanctuary Supervisor on the battlefield, the Sanctuary Supervisor increases the DEF of Supreme Paladin by 15%. Sanctuary will restore 10% HP during the first 3 summons<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Reinforcements of the Valiant></span><span style="color: #645252;font-size:18px">Sanctuary Retinue is promoted to Sanctuary Supervisor. For each Sanctuary Supervisor on the battlefield, the Sanctuary Supervisor increases the DEF of Supreme Paladin by 15%. Sanctuary will restore 10% HP during the first 3 summons</span>
 
 ### 2nd Skill (or 1st): Sanctuary's Glory
- **Description:** <span style="color: #48b946"><Reinforcements of the Valiant><span style="color: black"><span style="color: #645252">Sanctuary Retinue gets promoted to Sanctuary Supervisor. For the first 3 summons, friendly units' damage and damage reduction will be increased by 10% for 30s. Supreme Paladin summons a Sanctuary Supervisor when entering the battlefield for the first time<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Reinforcements of the Valiant></span><span style="color: #645252;font-size:18px">Sanctuary Retinue gets promoted to Sanctuary Supervisor. For the first 3 summons, friendly units' damage and damage reduction will be increased by 10% for 30s. Supreme Paladin summons a Sanctuary Supervisor when entering the battlefield for the first time</span>
 
 ### 3rd Skill (or 4th): Loyalty and Belief
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">Paladin's unit's damage reduction increased by 22%. This effect is not affected by \"High Morale\"<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">Paladin's unit's damage reduction increased by 22%. This effect is not affected by \"High Morale\"</span>
 
 ### 4th Skill (or 3rd): Unyielding Faith
- **Description:** <span style="color: #48b946"><Leadership><span style="color: black"><span style="color: #645252">The Paladin's unit's damage reduction is increased by an extra 15%<span style="color: black"><span style="color: #645252">. The effect doubles under <span style="color: black"><span style="color: #48b946">\"High Morale\"<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:20px">The Paladin's unit's damage reduction is increased by an extra 15%</span><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: #645252;font-size:20px"></span>
 
 ### 5th Skill (or 6th): Perseverance
- **Description:** <span style="color: #48b946"><Incentive><span style="color: black"><span style="color: #645252"> works on all friendly units. Increases Crit DMG by 50% and tenacity by 150. Duration of High Morale increased by 10s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Incentive></span><span style="color: #645252;font-size:18px"> works on all friendly units. Increases Crit DMG by 50% and tenacity by 150. Duration of High Morale increased by 10s</span>
 
 ### 6th Skill (or 5th): Agile Riposte
- **Description:** <span style="color: #48b946"><Incentive><span style="color: black"><span style="color: #645252"> works on all friendly units. Increases unit's damage by 15% and tenacity by 150 for all units within range. Duration of High Morale increased by 10s<span style="color: black">
+ **Description:** <span style="color: #48b946;font-size:18px"><Incentive></span><span style="color: #645252;font-size:18px"> works on all friendly units. Increases unit's damage by 15% and tenacity by 150 for all units within range. Duration of High Morale increased by 10s</span>
 
 ## Technical info
  **runart:** 1
@@ -108,27 +108,27 @@ toc: true
 
  **defshow:** 5.0
 
- **rush:** 1
+ **Rush:** 1
 
- **speedattack:** 100
+ **Speedattack:** 100
 
- **atkshow:** 9.0
+ **Attack Show:** 9.0
 
- **attackarea:** 80
+ **Attack Area:** 80
 
- **atkrange:** 300
+ **Attack Range:** 300
 
- **atkspeedshow:** 8
+ **Attack Speed Show:** 8.0
 
- **defshow:** 5.0
+ **Defense Show:** 5.0
 
- **score:** 1574
+ **Score:** 1574
 
- **hpshow:** 6
+ **HP Show:** 6
 
  **disrdcvol:** 70
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 2
 

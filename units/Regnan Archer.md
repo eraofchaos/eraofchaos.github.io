@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-01
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -37,22 +37,22 @@ toc: true
 
 ## Skills
 ### 1 Skill: Deadly Arrow
- **Description:** <span style="color: #645252">Normal attack deals <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*2+100)}%<span style="color: black"><span style="color: #645252"> damage and causes additional damage equal to <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.05+0.75)}%<span style="color: black"><span style="color: #645252"> of Max HP if a Crit Hit is landed. Causes <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*4+10)}%<span style="color: black"><span style="color: #645252"> damage to hostile units on the same path every 5s, and decreases their DEF by 10% for 15s, up to 3 stacks<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP if a Crit Hit is landed. Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units on the same path every 5s, and decreases their DEF by 10% for 15s, up to 3 stacks</span><span style="color: black">
 
 ### 2 Skill: Tactics Training
- **Description:** <span style="color: #645252">Increases ATK speed by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.8+8)}%<span style="color: black"><span style="color: #645252"> and Crit Hit by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*16+24)}<span style="color: black"><span style="color: #645252"> when any unit is downed on the battlefield. The effect can be stacked up to 4 times. Increases ATK speed by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*7+45)}%<span style="color: black"><span style="color: #645252"> and is guaranteed to deal a Crit Hit when its HP is less than 30%. This effect lasts for 7s and can only be triggered once<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> when any unit is downed on the battlefield. The effect can be stacked up to 4 times. Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and is guaranteed to deal a Crit Hit when its HP is less than 30%. This effect lasts for 7s and can only be triggered once</span><span style="color: black">
 
 ### 3 Skill: Tidal Giant Crossbow
- **Description:** <span style="color: #645252">Regnan Archer's unit's damage increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1.5+3.5)}%<span style="color: black"><span style="color: #645252">. At the beginning of battle, deals <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*10+35)}%<span style="color: black"><span style="color: #645252"> ATK and additional damage equal to 25% of Max HP to 2 random units while <span style="color: black"><span style="color: #48b946"><slowing><span style="color: black"><span style="color: #645252"> them for 8s<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Archer's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. At the beginning of battle, deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and additional damage equal to 25% of Max HP to 2 random units while </span><span style="color: black"><span style="color: #48b946;font-size:20px"><slowing></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 8s</span><span style="color: black">
 
 ### 4 Skill: Shooting Support
- **Description:** <span style="color: #645252">Attacks the hostile unit with the lowest HP percentage, causing <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*0.5+12.5)}%<span style="color: black"><span style="color: #645252"> damage and decreasing the target's DEF by 30%<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Attacks the hostile unit with the lowest HP percentage, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and decreasing the target's DEF by 30%</span><span style="color: black">
 
 ### 5 Skill: Calm Body
- **Description:** <span style="color: #645252">Cove units know their way around a storm. HP is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem<span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem</span><span style="color: black">
 
 ### 6 Skill: Pirate Conflict
- **Description:** <span style="color: #645252">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by <span style="color: black"><span style="color: #48b946">{(($level+$ulevel)*1+5)}%<span style="color: black"><span style="color: #645252"><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
@@ -114,27 +114,27 @@ toc: true
 
  **atkfly:** 1
 
- **rush:** 3
+ **Rush:** 3
 
- **speedattack:** 80
+ **Speedattack:** 80
 
- **atkshow:** 8.0
+ **Attack Show:** 8.0
 
- **attackarea:** 400
+ **Attack Area:** 400
 
- **atkrange:** 500
+ **Attack Range:** 500
 
- **atkspeedshow:** 3
+ **Attack Speed Show:** 3.0
 
- **defshow:** 4.0
+ **Defense Show:** 4.0
 
- **score:** 1574
+ **Score:** 1574
 
- **hpshow:** 5
+ **HP Show:** 5
 
  **disrdcvol:** 40
 
- **deadtype:** 1
+ **Dead Type:** 1
 
  **s:** 1
 
