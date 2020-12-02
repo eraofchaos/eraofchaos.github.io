@@ -18,9 +18,9 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Boutique à durée limitée : chaque jour pendant l'événement, des unités du jour seront en promotion.</span><br/>
 #### Items on map: 
 
- -  1 sac de diamants lourds. (x77 gems) 
+ -  1 sac de diamants lourds. ( **x77** gems) 
 
- -  1 sac d'or. (x50000 gold)
+ -  1 sac d'or. ( **x50000** gold)
 
  -  [Provoquez une belle rencontre !](#pop-quiz-time) 
 

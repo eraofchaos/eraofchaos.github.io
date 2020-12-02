@@ -18,9 +18,9 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Tienda de cantidad limitada: Durante el evento, cada día se venderán las unidades del día con descuento.</span><br/>
 #### Items on map: 
 
- -  1 bolsa de pesados diamantes. (x77 gems) 
+ -  1 bolsa de pesados diamantes. ( **x77** gems) 
 
- -  1 saco de oro. (x50000 gold)
+ -  1 saco de oro. ( **x50000** gold)
 
  -  [¡Va a ser un encuentro encantador!](#pop-quiz-time) 
 

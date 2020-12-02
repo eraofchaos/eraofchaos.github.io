@@ -18,9 +18,9 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Mengenbegrenzter Laden: Während des Ereignisses werden jeden Tag ermäßigte Einheiten des Tages verkauft.</span><br/>
 #### Items on map: 
 
- -  1 Beutel mit schweren Diamanten. (x77 gems) 
+ -  1 Beutel mit schweren Diamanten. ( **x77** gems) 
 
- -  1 Sack voll Gold. (x50000 gold)
+ -  1 Sack voll Gold. ( **x50000** gold)
 
  -  [Führe eine schöne Begegnung herbei!](#pop-quiz-time) 
 

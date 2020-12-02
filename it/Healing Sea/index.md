@@ -18,9 +18,9 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Negozio a quantità limitate: nel corso dell'evento potrai acquistare ogni giorno unità in evidenza diverse a prezzo scontato.</span><br/>
 #### Items on map: 
 
- -  1 sacca pesante di Diamanti. (x77 gems) 
+ -  1 sacca pesante di Diamanti. ( **x77** gems) 
 
- -  1 sacca di Oro. (x50000 gold)
+ -  1 sacca di Oro. ( **x50000** gold)
 
  -  [Incontro meraviglioso in arrivo!](#pop-quiz-time) 
 

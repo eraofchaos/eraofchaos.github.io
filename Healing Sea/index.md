@@ -18,9 +18,9 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.</span><br/>
 #### Items on map: 
 
- -  1 Bag of heavy diamonds. (x77 gems) 
+ -  1 Bag of heavy diamonds. ( **x77** gems) 
 
- -  1 Sack of Gold. (x50000 gold)
+ -  1 Sack of Gold. ( **x50000** gold)
 
  -  [Pop Quiz time!](#pop-quiz-time) 
 
