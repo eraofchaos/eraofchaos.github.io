@@ -2,7 +2,7 @@
 title: "Era of Chaos - Mer guérisseuse - Questions with correct answers"
 permalink: /fr/Healing Sea/
 excerpt: "List of ALL Mer guérisseuse questions with correct answers"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-02
 lang: fr
 ref: "healingSea"
 toc: false
@@ -18,13 +18,31 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Boutique à durée limitée : chaque jour pendant l'événement, des unités du jour seront en promotion.</span><br/>
 #### Items on map: 
 
-  -  1 sac de diamants lourds. 
+  -  1 sac de diamants lourds. (x77 gems) 
 
-  -  1 sac d'or. 
+  -  1 sac d'or. (x50000 gold)
 
-  -  Provoquez une belle rencontre ! 
+  -  [Provoquez une belle rencontre !](#pop-quiz-time) 
 
-  -  Un petit jeton insignifiant. Est-il d'une quelconque utilité ? 
+  -  Un petit jeton insignifiant. Est-il d'une quelconque utilité ? (reward one from below)
+
+    -  **500x Pierre d'âme** (Pierre d'âme. S'obtient en démantelant des Emblèmes sacrés. S'échange contre des objets dans la Boutique d'Emblèmes sacrés.) 
+
+    -  **3x Cristal violet** (Mystérieuse pierre runique. Améliore de façon drastique les compétences de vos unités. Utilisez-la pour gagner 450 EXP de compétence.) 
+
+    -  **200x Parchemins de sorts** (Parchemin mystérieux contenant un pouvoir magique pur. Indispensable aux Héros pour recevoir de puissantes compétences.) 
+
+    -  **200x Acier draconique** (Utilisez un tas d'acier draconique (ressource de niveau 3) pour améliorer les casernes.) 
+
+    -  **1x Parchemin d'énergie** (À utiliser pour améliorer les compétences sur le champ de bataille et celles de la composition des renforts.) 
+
+    -  **3x Parchemin de temple antique** (Mystérieux parchemin de temple antique. Seuls les plus chanceux pourront l'utiliser pour actualiser gratuitement la maîtrise de leurs Héros.) 
+
+    -  **100x null** (null) 
+
+    -  **100x Ingrédients de la potion de talent** (Ingrédients pour la potion de talent. Après son élaboration, une unité au hasard reçoit la potion.) 
+
+    -  **1x Jetons des plans** (Ces jetons, forgés par les élémentaires entre les plans au fil des ans, sont très précieux. Vous pouvez les échanger contre des objets. ) 
 
 **Tip:** Mon seigneur, vous obtiendrez des récompenses en terminant un certain nombre de niveaux !
 {: .notice--danger}

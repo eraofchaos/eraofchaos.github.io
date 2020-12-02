@@ -2,7 +2,7 @@
 title: "Era of Chaos - Mar Sanador - Questions with correct answers"
 permalink: /es/Healing Sea/
 excerpt: "List of ALL Mar Sanador questions with correct answers"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-02
 lang: es
 ref: "healingSea"
 toc: false
@@ -18,13 +18,31 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Tienda de cantidad limitada: Durante el evento, cada día se venderán las unidades del día con descuento.</span><br/>
 #### Items on map: 
 
-  -  1 bolsa de pesados diamantes. 
+  -  1 bolsa de pesados diamantes. (x77 gems) 
 
-  -  1 saco de oro. 
+  -  1 saco de oro. (x50000 gold)
 
-  -  ¡Va a ser un encuentro encantador! 
+  -  [¡Va a ser un encuentro encantador!](#pop-quiz-time) 
 
-  -  Una ficha pequeña sin importancia. Quién sabe si vendrá bien algún día. 
+  -  Una ficha pequeña sin importancia. Quién sabe si vendrá bien algún día. (reward one from below)
+
+    -  **500x Piedra de Alma** (Piedra de Alma, obtenida al desarmar Emblemas Sagrados y usada para comprar objetos en la Tienda de Emblemas) 
+
+    -  **3x Cristal violeta** (Una piedra rúnica misteriosa. Puede mejorar significativamente la percepción de habilidad de tus unidades, y otorga 450 de EXP de habilidad al usarlo.) 
+
+    -  **200x Pergaminos de hechizo** (Un pergamino misterioso con poder mágico puro. Es necesario para que tus Héroes aprendan habilidades de nivel alto.) 
+
+    -  **200x Acero de dragón** (Un montón de Acero de dragón (recurso de nivel 3), que se puede usar para mejorar los Barracones.) 
+
+    -  **1x Pergamino de energía** (Se usa para mejorar las habilidades del campo de batalla y todas las habilidades de la formación de reserva) 
+
+    -  **3x Pergamino de Templo Antiguo** (Un pergamino misterioso de un templo antiguo. Solo los más afortunados pueden exprimir todo su potencial y recargar el dominio de un héroe gratis una vez.) 
+
+    -  **100x null** (null) 
+
+    -  **100x Ingredientes de poción de talento** (Los ingredientes para una poción de talento. Tras elaborarla, recibirás una poción de talento para una unidad aleatoria.) 
+
+    -  **1x Fichas de plano** (Estas fichas, forjadas por los elementales entre planos a lo largo de muchos años, son de gran valor y se pueden intercambiar por objetos.) 
 
 **Tip:** Mi señor, ¡puedes conseguir recompensas superando la cantidad de fases determinada!
 {: .notice--danger}

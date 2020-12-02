@@ -2,7 +2,7 @@
 title: "Era of Chaos - Heilendes Meer - Questions with correct answers"
 permalink: /de/Healing Sea/
 excerpt: "List of ALL Heilendes Meer questions with correct answers"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-02
 lang: de
 ref: "healingSea"
 toc: false
@@ -18,13 +18,31 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Mengenbegrenzter Laden: Während des Ereignisses werden jeden Tag ermäßigte Einheiten des Tages verkauft.</span><br/>
 #### Items on map: 
 
-  -  1 Beutel mit schweren Diamanten. 
+  -  1 Beutel mit schweren Diamanten. (x77 gems) 
 
-  -  1 Sack voll Gold. 
+  -  1 Sack voll Gold. (x50000 gold)
 
-  -  Führe eine schöne Begegnung herbei! 
+  -  [Führe eine schöne Begegnung herbei!](#pop-quiz-time) 
 
-  -  Ein kleines unauffälliges Token. Wer weiß, ob es sich als nützlich erweist ... 
+  -  Ein kleines unauffälliges Token. Wer weiß, ob es sich als nützlich erweist ... (reward one from below)
+
+    -  **500x Seelenstein** (Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen.) 
+
+    -  **3x Lila Kristall** (Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten stark verbessern. Gibt beim Benutzen 450 Einheiten-ERF.) 
+
+    -  **200x Zauberspruchrollen** (Eine geheimnisvolle Schriftrolle mit reiner magischer Energie. Wird benötigt, damit Helden hochstufige Fähigkeiten erlernen können.) 
+
+    -  **200x Drachenstahl** (Ein Vorrat an Drachenstahl (Ressource der Stufe 3). Zum Verbessern der Kaserne.) 
+
+    -  **1x Energierolle** (Hier werden Schlachtfeld-Fähigkeiten und alle Fähigkeiten der Reserve-Einheiten verbessert.) 
+
+    -  **3x Uralte Tempelrolle** (Eine geheimnisvolle Schriftrolle aus einem uralten Tempel. Nur echte Glückspilze können sie nutzen, um die Meisterung eines Helden einmalig kostenlos zu aktualisieren.) 
+
+    -  **100x null** (null) 
+
+    -  **100x Talenttrank-Zutaten** (Die Zutaten für einen Talenttrank. Gewährt nach dem Mischen einen Talenttrank für eine zufällige Einheit.) 
+
+    -  **1x Ebenen-Tokens** (Diese Tokens, die von den Elementaren über viele Jahre hinweg zwischen den Ebenen gefertigt wurden, sind extrem wertvoll und können gegen Gegenstände eingetauscht werden.) 
 
 **Tip:** Mein Lord, du erhältst Belohnungen für das Erreichen der erforderlichen Abschlussanzahl!
 {: .notice--danger}
