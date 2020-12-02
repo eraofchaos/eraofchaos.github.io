@@ -38,7 +38,7 @@ classes: wide
 
     6.  **3x Parchemin de temple antique** (Mystérieux parchemin de temple antique. Seuls les plus chanceux pourront l'utiliser pour actualiser gratuitement la maîtrise de leurs Héros.) 
 
-    7.  **100x null** (null) 
+    7.  **100x Pierre artificielle** (Une pierre cristalline datant de l'Âge des miracles. Matériau essentiel pour les améliorations de trésors.) 
 
     8.  **100x Ingrédients de la potion de talent** (Ingrédients pour la potion de talent. Après son élaboration, une unité au hasard reçoit la potion.) 
 

@@ -38,7 +38,7 @@ classes: wide
 
     6.  **3x Uralte Tempelrolle** (Eine geheimnisvolle Schriftrolle aus einem uralten Tempel. Nur echte Glückspilze können sie nutzen, um die Meisterung eines Helden einmalig kostenlos zu aktualisieren.) 
 
-    7.  **100x null** (null) 
+    7.  **100x Himmlischer Formstein** (Ein aus dem Zeitalter der Wunder übrig gebliebener Kristallstein. Unentbehrliches Material für Schatzaufwertungen.) 
 
     8.  **100x Talenttrank-Zutaten** (Die Zutaten für einen Talenttrank. Gewährt nach dem Mischen einen Talenttrank für eine zufällige Einheit.) 
 

@@ -38,7 +38,7 @@ classes: wide
 
     6.  **3x Pergamino de Templo Antiguo** (Un pergamino misterioso de un templo antiguo. Solo los más afortunados pueden exprimir todo su potencial y recargar el dominio de un héroe gratis una vez.) 
 
-    7.  **100x null** (null) 
+    7.  **100x Piedra de Forja celestial** (Una piedra de cristal que ha sobrevivido a la Era de los milagros. Un material esencial para mejorar tesoros.) 
 
     8.  **100x Ingredientes de poción de talento** (Los ingredientes para una poción de talento. Tras elaborarla, recibirás una poción de talento para una unidad aleatoria.) 
 

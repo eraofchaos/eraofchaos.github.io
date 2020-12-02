@@ -38,7 +38,7 @@ classes: wide
 
     6.  **3x Pergamena del Tempio antico** (Una pergamena misteriosa proveniente da un tempio antico. Solo i più fortunati possono usufruirne. Resetta gratuitamente la Maestria di un eroe una singola volta.) 
 
-    7.  **100x null** (null) 
+    7.  **100x Pietra celeste** (Cristallo risalente all'era dei miracoli. Materiale essenziale per il potenziamento dei tesori.) 
 
     8.  **100x Ingredienti Pozione di Talento** (Gli ingredienti per una Pozione di Talento. Una volta preparata, riceverai una Pozione di Talento per un'unità casuale.) 
 

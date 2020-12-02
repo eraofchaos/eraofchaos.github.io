@@ -38,7 +38,7 @@ classes: wide
 
     6.  **3x Ancient Temple Scroll** (A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.) 
 
-    7.  **100x null** (null) 
+    7.  **100x Heaven-Cast Stone** (A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.) 
 
     8.  **100x Talent potion ingredients** (The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit. ) 
 
