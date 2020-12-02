@@ -18,31 +18,31 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Mengenbegrenzter Laden: Während des Ereignisses werden jeden Tag ermäßigte Einheiten des Tages verkauft.</span><br/>
 #### Items on map: 
 
-  -  1 Beutel mit schweren Diamanten. (x77 gems) 
+ -  1 Beutel mit schweren Diamanten. (x77 gems) 
 
-  -  1 Sack voll Gold. (x50000 gold)
+ -  1 Sack voll Gold. (x50000 gold)
 
-  -  [Führe eine schöne Begegnung herbei!](#pop-quiz-time) 
+ -  [Führe eine schöne Begegnung herbei!](#pop-quiz-time) 
 
-  -  Ein kleines unauffälliges Token. Wer weiß, ob es sich als nützlich erweist ... (reward one from below)
+ -  Ein kleines unauffälliges Token. Wer weiß, ob es sich als nützlich erweist ... (reward one from below)
 
-    -  **500x Seelenstein** (Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen.) 
+    1.  **500x Seelenstein** (Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen.) 
 
-    -  **3x Lila Kristall** (Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten stark verbessern. Gibt beim Benutzen 450 Einheiten-ERF.) 
+    2.  **3x Lila Kristall** (Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten stark verbessern. Gibt beim Benutzen 450 Einheiten-ERF.) 
 
-    -  **200x Zauberspruchrollen** (Eine geheimnisvolle Schriftrolle mit reiner magischer Energie. Wird benötigt, damit Helden hochstufige Fähigkeiten erlernen können.) 
+    3.  **200x Zauberspruchrollen** (Eine geheimnisvolle Schriftrolle mit reiner magischer Energie. Wird benötigt, damit Helden hochstufige Fähigkeiten erlernen können.) 
 
-    -  **200x Drachenstahl** (Ein Vorrat an Drachenstahl (Ressource der Stufe 3). Zum Verbessern der Kaserne.) 
+    4.  **200x Drachenstahl** (Ein Vorrat an Drachenstahl (Ressource der Stufe 3). Zum Verbessern der Kaserne.) 
 
-    -  **1x Energierolle** (Hier werden Schlachtfeld-Fähigkeiten und alle Fähigkeiten der Reserve-Einheiten verbessert.) 
+    5.  **1x Energierolle** (Hier werden Schlachtfeld-Fähigkeiten und alle Fähigkeiten der Reserve-Einheiten verbessert.) 
 
-    -  **3x Uralte Tempelrolle** (Eine geheimnisvolle Schriftrolle aus einem uralten Tempel. Nur echte Glückspilze können sie nutzen, um die Meisterung eines Helden einmalig kostenlos zu aktualisieren.) 
+    6.  **3x Uralte Tempelrolle** (Eine geheimnisvolle Schriftrolle aus einem uralten Tempel. Nur echte Glückspilze können sie nutzen, um die Meisterung eines Helden einmalig kostenlos zu aktualisieren.) 
 
-    -  **100x null** (null) 
+    7.  **100x null** (null) 
 
-    -  **100x Talenttrank-Zutaten** (Die Zutaten für einen Talenttrank. Gewährt nach dem Mischen einen Talenttrank für eine zufällige Einheit.) 
+    8.  **100x Talenttrank-Zutaten** (Die Zutaten für einen Talenttrank. Gewährt nach dem Mischen einen Talenttrank für eine zufällige Einheit.) 
 
-    -  **1x Ebenen-Tokens** (Diese Tokens, die von den Elementaren über viele Jahre hinweg zwischen den Ebenen gefertigt wurden, sind extrem wertvoll und können gegen Gegenstände eingetauscht werden.) 
+    9.  **1x Ebenen-Tokens** (Diese Tokens, die von den Elementaren über viele Jahre hinweg zwischen den Ebenen gefertigt wurden, sind extrem wertvoll und können gegen Gegenstände eingetauscht werden.) 
 
 **Tip:** Mein Lord, du erhältst Belohnungen für das Erreichen der erforderlichen Abschlussanzahl!
 {: .notice--danger}

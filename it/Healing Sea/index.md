@@ -18,31 +18,31 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Negozio a quantità limitate: nel corso dell'evento potrai acquistare ogni giorno unità in evidenza diverse a prezzo scontato.</span><br/>
 #### Items on map: 
 
-  -  1 sacca pesante di Diamanti. (x77 gems) 
+ -  1 sacca pesante di Diamanti. (x77 gems) 
 
-  -  1 sacca di Oro. (x50000 gold)
+ -  1 sacca di Oro. (x50000 gold)
 
-  -  [Incontro meraviglioso in arrivo!](#pop-quiz-time) 
+ -  [Incontro meraviglioso in arrivo!](#pop-quiz-time) 
 
-  -  Un piccolo, insignificante token. Chissà a cosa potrà mai servire... (reward one from below)
+ -  Un piccolo, insignificante token. Chissà a cosa potrà mai servire... (reward one from below)
 
-    -  **500x Pietra mistica** (Pietra mistica ottenuta scomponendo gli Emblemi sacri. Si può usare per acquistare oggetti nel negozio degli Emblemi.) 
+    1.  **500x Pietra mistica** (Pietra mistica ottenuta scomponendo gli Emblemi sacri. Si può usare per acquistare oggetti nel negozio degli Emblemi.) 
 
-    -  **3x Cristallo viola** (Una misteriosa Pietra runica. Migliora notevolmente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 450 ESP tecnica.) 
+    2.  **3x Cristallo viola** (Una misteriosa Pietra runica. Migliora notevolmente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 450 ESP tecnica.) 
 
-    -  **200x Pergamene incantesimi** (Una pergamena infusa di un potere magico puro. Necessaria ai tuoi eroi per imparare tecniche di alto livello.) 
+    3.  **200x Pergamene incantesimi** (Una pergamena infusa di un potere magico puro. Necessaria ai tuoi eroi per imparare tecniche di alto livello.) 
 
-    -  **200x Acciaio draconico** (Un cumulo di Acciaio draconico (risorsa di livello 3); si può usare per migliorare la Caserma.) 
+    4.  **200x Acciaio draconico** (Un cumulo di Acciaio draconico (risorsa di livello 3); si può usare per migliorare la Caserma.) 
 
-    -  **1x Pergamena dell'energia** (Utile a migliorare le tecniche di battaglia e le tecniche delle unità di supporto.) 
+    5.  **1x Pergamena dell'energia** (Utile a migliorare le tecniche di battaglia e le tecniche delle unità di supporto.) 
 
-    -  **3x Pergamena del Tempio antico** (Una pergamena misteriosa proveniente da un tempio antico. Solo i più fortunati possono usufruirne. Resetta gratuitamente la Maestria di un eroe una singola volta.) 
+    6.  **3x Pergamena del Tempio antico** (Una pergamena misteriosa proveniente da un tempio antico. Solo i più fortunati possono usufruirne. Resetta gratuitamente la Maestria di un eroe una singola volta.) 
 
-    -  **100x null** (null) 
+    7.  **100x null** (null) 
 
-    -  **100x Ingredienti Pozione di Talento** (Gli ingredienti per una Pozione di Talento. Una volta preparata, riceverai una Pozione di Talento per un'unità casuale.) 
+    8.  **100x Ingredienti Pozione di Talento** (Gli ingredienti per una Pozione di Talento. Una volta preparata, riceverai una Pozione di Talento per un'unità casuale.) 
 
-    -  **1x Token planari** (Forgiati nel corso delle ere dagli Elementali tra diversi piani esistenziali. Estremamente preziosi, è possibile scambiarli per ottenere oggetti.) 
+    9.  **1x Token planari** (Forgiati nel corso delle ere dagli Elementali tra diversi piani esistenziali. Estremamente preziosi, è possibile scambiarli per ottenere oggetti.) 
 
 **Tip:** Mio Signore, completa la fase per la quantità di volte indicata per ottenere ricompense!
 {: .notice--danger}

@@ -18,31 +18,31 @@ classes: wide
    <span style="color: #3c2a1e;font-size:16px">6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.</span><br/>
 #### Items on map: 
 
-  -  1 Bag of heavy diamonds. (x77 gems) 
+ -  1 Bag of heavy diamonds. (x77 gems) 
 
-  -  1 Sack of Gold. (x50000 gold)
+ -  1 Sack of Gold. (x50000 gold)
 
-  -  [Pop Quiz time!](#pop-quiz-time) 
+ -  [Pop Quiz time!](#pop-quiz-time) 
 
-  -  An unremarkable small token. Who knows if it will be useful... (reward one from below)
+ -  An unremarkable small token. Who knows if it will be useful... (reward one from below)
 
-    -  **500x Soul Stone** (Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store) 
+    1.  **500x Soul Stone** (Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store) 
 
-    -  **3x Purple Crystal** (A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.) 
+    2.  **3x Purple Crystal** (A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.) 
 
-    -  **200x Spell Scrolls** (A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.) 
+    3.  **200x Spell Scrolls** (A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.) 
 
-    -  **200x Dragonsteel** (A pile of Dragonsteel (a level 3 resource); can be used to improve Barracks.) 
+    4.  **200x Dragonsteel** (A pile of Dragonsteel (a level 3 resource); can be used to improve Barracks.) 
 
-    -  **1x Energy Scroll** (Used for improving battlefield skills and all skills of backup lineup) 
+    5.  **1x Energy Scroll** (Used for improving battlefield skills and all skills of backup lineup) 
 
-    -  **3x Ancient Temple Scroll** (A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.) 
+    6.  **3x Ancient Temple Scroll** (A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.) 
 
-    -  **100x null** (null) 
+    7.  **100x null** (null) 
 
-    -  **100x Talent potion ingredients** (The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit. ) 
+    8.  **100x Talent potion ingredients** (The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit. ) 
 
-    -  **1x Plane tokens** (These tokens, forged by the elementals between planes over many years, are extremely valuable, and can be exchanged for items. ) 
+    9.  **1x Plane tokens** (These tokens, forged by the elementals between planes over many years, are extremely valuable, and can be exchanged for items. ) 
 
 **Tip:** My lord, you can earn rewards for reaching the required number of clears!
 {: .notice--danger}
