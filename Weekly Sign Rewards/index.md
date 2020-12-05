@@ -6,7 +6,6 @@ last_modified_at: 2020-12-05
 lang: en
 ref: "index.md"
 toc: true
-classes: wide
 ---
 
 #### 2020 CW 49  Conflux Week
@@ -20,6 +19,8 @@ classes: wide
   | **11.12**  | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
   | **12.12**  | **5x Conflux Unit Chest**  | Your troops brought you several chests filled with elemental power! |
   | **13.12**  | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
 #### 2020 CW 48  Castle Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -31,6 +32,8 @@ classes: wide
   | **4.12**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
   | **5.12**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
   | **6.12**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
+
+
 #### 2020 CW 47  Cove Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -42,6 +45,8 @@ classes: wide
   | **27.11**  | **3x Cove Roster runes**  | Your harbor corps has presented you with a number of valuable treasure runes! |
   | **28.11**  | **1x Dragon Turtle**  | A squad of Dragon Turtle joined your army and you become stronger! |
   | **29.11**  | **1x Universal Hero Tokens**  | The creatures of the Pirate Cove present you with a Universal (Hero) Token! |
+
+
 #### 2020 CW 46  Necropolis Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -53,6 +58,8 @@ classes: wide
   | **20.11**  | **2x Wight**  | A squad of Wight joined your army and you become stronger! |
   | **21.11**  | **5x Necropolis Unit Chest**  | Your Necropolis units have presented you with several treasure chests! |
   | **22.11**  | **3x Vidomina**  | Vidomina is interested in your undead warriors and is willing to join your team! |
+
+
 #### 2020 CW 45  Inferno Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -64,6 +71,8 @@ classes: wide
   | **13.11**  | **3x Demon**  | A squad of Demon joined your army and you become stronger! |
   | **14.11**  | **3x Pit Fiend**  | A squad of Pit Fiend joined your army and you become stronger! |
   | **15.11**  | **5x Rashka**  | The hero Rashka has taken an interest in your expansion and would like to join your faction! |
+
+
 #### 2020 CW 44  Stronghold Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -75,6 +84,8 @@ classes: wide
   | **6.11**  | **3x Ogre**  | A squad of Ogre joined your army and you become stronger! |
   | **7.11**  | **3x Cyclops**  | A squad of Cyclops joined your army and you become stronger! |
   | **8.11**  | **5x Crag Hack**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
+
 #### 2020 CW 43  Dungeon Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -86,6 +97,8 @@ classes: wide
   | **30.10**  | **5x Dungeon Faction Chest**  | Your army searched for several lost treasure chests in the Underground. |
   | **31.10**  | **3x Manticore**  | A squad of Manticores has joined your army. You've become stronger! |
   | **1.11**  | **5x Mutare**  | Following the guidance the ancient dragon, Mutare joined your army! |
+
+
 #### 2020 CW 42  Tower Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -97,6 +110,8 @@ classes: wide
   | **23.10**  | **3x Tower Unit Chest**  | You discovered several beautiful chests in the Tower's arcane laboratory! |
   | **24.10**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
   | **25.10**  | **5x Solmyr**  | Your research of the Arcane has attracted Solmyr to join your army! |
+
+
 #### 2020 CW 41  Fortress Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -108,6 +123,8 @@ classes: wide
   | **16.10**  | **5x Fortress Roster runes**  | Your inferno corps has presented you with a number of valuable runes! |
   | **17.10**  | **3x Serpent Fly**  | A squad of Serpent Fly joined your army and you become stronger! |
   | **18.10**  | **5x Korbac**  | A brave Beast Master has visited your territory! |
+
+
 #### 2020 CW 40  Castle Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -119,6 +136,8 @@ classes: wide
   | **9.10**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
   | **10.10**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
   | **11.10**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
+
+
 #### 2020 CW 39  Rampart Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -130,6 +149,8 @@ classes: wide
   | **2.10**  | **3x Dwarf**  | A squad of Dwarf joined your army and you become stronger! |
   | **3.10**  | **3x Dendroid Guard**  | A squad of Dendroid Guard joined your army and you become stronger! |
   | **4.10**  | **5x Ryland**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
+
+
 #### 2020 CW 38  Dungeon Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -141,6 +162,8 @@ classes: wide
   | **25.9**  | **5x Dungeon Faction Chest**  | Your army searched for several lost treasure chests in the Underground. |
   | **26.9**  | **3x Manticore**  | A squad of Manticores has joined your army. You've become stronger! |
   | **27.9**  | **5x Mutare**  | Following the guidance the ancient dragon, Mutare joined your army! |
+
+
 #### 2020 CW 37  Necropolis Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -152,6 +175,8 @@ classes: wide
   | **18.9**  | **2x Wight**  | A squad of Wight joined your army and you become stronger! |
   | **19.9**  | **5x Necropolis Unit Chest**  | Your Necropolis units have presented you with several treasure chests! |
   | **20.9**  | **3x Vidomina**  | Vidomina is interested in your undead warriors and is willing to join your team! |
+
+
 #### 2020 CW 36  Conflux Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -163,6 +188,8 @@ classes: wide
   | **11.9**  | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
   | **12.9**  | **5x Conflux Unit Chest**  | Your troops brought you several chests filled with elemental power! |
   | **13.9**  | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
 #### 2020 CW 35  Stronghold Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -174,6 +201,8 @@ classes: wide
   | **4.9**  | **3x Ogre**  | A squad of Ogre joined your army and you become stronger! |
   | **5.9**  | **3x Cyclops**  | A squad of Cyclops joined your army and you become stronger! |
   | **6.9**  | **5x Crag Hack**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
+
 #### 2020 CW 34  Tower Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -185,6 +214,8 @@ classes: wide
   | **28.8**  | **3x Tower Unit Chest**  | You discovered several beautiful chests in the Tower's arcane laboratory! |
   | **29.8**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
   | **30.8**  | **5x Solmyr**  | Your research of the Arcane has attracted Solmyr to join your army! |
+
+
 #### 2020 CW 33  Rampart Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -196,6 +227,8 @@ classes: wide
   | **21.8**  | **3x Dwarf**  | A squad of Dwarf joined your army and you become stronger! |
   | **22.8**  | **3x Dendroid Guard**  | A squad of Dendroid Guard joined your army and you become stronger! |
   | **23.8**  | **5x Ryland**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
+
+
 #### 2020 CW 32  Dungeon Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -207,6 +240,8 @@ classes: wide
   | **14.8**  | **5x Dungeon Faction Chest**  | Your army searched for several lost treasure chests in the Underground. |
   | **15.8**  | **3x Manticore**  | A squad of Manticores has joined your army. You've become stronger! |
   | **16.8**  | **5x Mutare**  | Following the guidance the ancient dragon, Mutare joined your army! |
+
+
 #### 2020 CW 31  Castle Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -218,6 +253,8 @@ classes: wide
   | **7.8**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
   | **8.8**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
   | **9.8**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
+
+
 #### 2020 CW 30  Conflux Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -229,6 +266,8 @@ classes: wide
   | **31.7**  | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
   | **1.8**  | **5x Conflux Unit Chest**  | Your troops brought you several chests filled with elemental power! |
   | **2.8**  | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
 #### 2020 CW 29  Fortress Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -240,6 +279,8 @@ classes: wide
   | **24.7**  | **5x Fortress Roster runes**  | Your inferno corps has presented you with a number of valuable runes! |
   | **25.7**  | **3x Serpent Fly**  | A squad of Serpent Fly joined your army and you become stronger! |
   | **26.7**  | **5x Korbac**  | A brave Beast Master has visited your territory! |
+
+
 #### 2020 CW 28  Inferno Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -251,6 +292,8 @@ classes: wide
   | **17.7**  | **3x Demon**  | A squad of Demon joined your army and you become stronger! |
   | **18.7**  | **3x Pit Fiend**  | A squad of Pit Fiend joined your army and you become stronger! |
   | **19.7**  | **5x Rashka**  | The hero Rashka has taken an interest in your expansion and would like to join your faction! |
+
+
 #### 2020 CW 27  Necropolis Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -262,6 +305,8 @@ classes: wide
   | **10.7**  | **2x Wight**  | A squad of Wight joined your army and you become stronger! |
   | **11.7**  | **5x Necropolis Unit Chest**  | Your Necropolis units have presented you with several treasure chests! |
   | **12.7**  | **3x Vidomina**  | Vidomina is interested in your undead warriors and is willing to join your team! |
+
+
 #### 2020 CW 26  Stronghold Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -273,6 +318,8 @@ classes: wide
   | **3.7**  | **3x Ogre**  | A squad of Ogre joined your army and you become stronger! |
   | **4.7**  | **3x Cyclops**  | A squad of Cyclops joined your army and you become stronger! |
   | **5.7**  | **5x Crag Hack**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
+
 #### 2020 CW 25  Conflux Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -284,6 +331,8 @@ classes: wide
   | **26.6**  | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
   | **27.6**  | **5x Conflux Unit Chest**  | Your troops brought you several chests filled with elemental power! |
   | **28.6**  | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
 #### 2020 CW 24  Rampart Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -295,6 +344,8 @@ classes: wide
   | **19.6**  | **3x Dwarf**  | A squad of Dwarf joined your army and you become stronger! |
   | **20.6**  | **3x Dendroid Guard**  | A squad of Dendroid Guard joined your army and you become stronger! |
   | **21.6**  | **5x Ryland**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
+
+
 #### 2020 CW 23  Tower Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -306,6 +357,8 @@ classes: wide
   | **12.6**  | **3x Tower Unit Chest**  | You discovered several beautiful chests in the Tower's arcane laboratory! |
   | **13.6**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
   | **14.6**  | **5x Solmyr**  | Your research of the Arcane has attracted Solmyr to join your army! |
+
+
 #### 2020 CW 22  Castle Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -317,6 +370,8 @@ classes: wide
   | **5.6**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
   | **6.6**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
   | **7.6**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
+
+
 #### 2020 CW 21  Inferno Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -328,6 +383,8 @@ classes: wide
   | **29.5**  | **3x Demon**  | A squad of Hell Hound joined your army and you become stronger! |
   | **30.5**  | **3x Pit Fiend**  | A squad of Gog joined your army and you become stronger! |
   | **31.5**  | **5x Rashka**  | A squad of Demon joined your army and you become stronger! |
+
+
 #### 2020 CW 20  Conflux Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -339,6 +396,8 @@ classes: wide
   | **22.5**  | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
   | **23.5**  | **5x Conflux Unit Chest**  | A squad of Stone Elemental joined your army and you become stronger! |
   | **24.5**  | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
 #### 2020 CW 19  Dungeon Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -350,6 +409,8 @@ classes: wide
   | **15.5**  | **5x Dungeon Faction Chest**  | A squad of Minotaur joined your army and you become stronger! |
   | **16.5**  | **5x Dungeon Faction Chest**  | A squad of Minotaur joined your army and you become stronger! |
   | **17.5**  | **5x Mutare**  | A squad of Medusa joined your army and you become stronger! |
+
+
 #### 2020 CW 18  Necropolis Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -361,6 +422,8 @@ classes: wide
   | **8.5**  | **2x Wight**  | A squad of Wight joined your army and you become stronger! |
   | **9.5**  | **5x Necropolis Unit Chest**  | A squad of Vampire joined your army and you become stronger! |
   | **10.5**  | **3x Vidomina**  | A squad of Lich joined your army and you become stronger! |
+
+
 #### 2020 CW 17  Stronghold Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -372,6 +435,8 @@ classes: wide
   | **1.5**  | **3x Ogre**  | A squad of Ogre joined your army and you become stronger! |
   | **2.5**  | **3x Cyclops**  | A squad of Cyclops joined your army and you become stronger! |
   | **3.5**  | **5x Crag Hack**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
+
 #### 2020 CW 16  Castle Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -383,6 +448,8 @@ classes: wide
   | **24.4**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
   | **25.4**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
   | **26.4**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
+
+
 #### 2020 CW 15  Tower Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -394,6 +461,8 @@ classes: wide
   | **17.4**  | **3x Tower Unit Chest**  | A squad of Iron Golem joined your army and you become stronger! |
   | **18.4**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
   | **19.4**  | **5x Solmyr**  | A squad of Genie joined your army and you become stronger! |
+
+
 #### 2020 CW 14  Dungeon Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -405,6 +474,8 @@ classes: wide
   | **10.4**  | **5x Dungeon Faction Chest**  | A squad of Minotaur joined your army and you become stronger! |
   | **11.4**  | **3x Medusa**  | Your army searched for several lost treasure chests in the Underground. |
   | **12.4**  | **5x Mutare**  | A squad of Medusa joined your army and you become stronger! |
+
+
 #### 2020 CW 13  Conflux Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -416,6 +487,8 @@ classes: wide
   | **3.4**  | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
   | **4.4**  | **5x Conflux Unit Chest**  | A squad of Stone Elemental joined your army and you become stronger! |
   | **5.4**  | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
 #### 2020 CW 12  Stronghold Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -427,6 +500,8 @@ classes: wide
   | **27.3**  | **3x Ogre**  | A squad of Ogre joined your army and you become stronger! |
   | **28.3**  | **3x Cyclops**  | A squad of Cyclops joined your army and you become stronger! |
   | **29.3**  | **5x Crag Hack**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
+
 #### 2020 CW 11  Inferno Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -438,6 +513,8 @@ classes: wide
   | **20.3**  | **3x Hell Hound**  | Your inferno corps has presented you with a number of valuable treasure chests! |
   | **21.3**  | **3x Demon**  | A squad of Hell Hound joined your army and you become stronger! |
   | **22.3**  | **5x Rashka**  | A squad of Demon joined your army and you become stronger! |
+
+
 #### 2020 CW 10  Rampart Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -449,6 +526,8 @@ classes: wide
   | **13.3**  | **3x Dwarf**  | A squad of Pegasus joined your army and you become stronger! |
   | **14.3**  | **3x Dendroid Guard**  | A squad of Dendroid Guard joined your army and you become stronger! |
   | **15.3**  | **5x Ryland**  | A squad of Unicorn joined your army and you become stronger! |
+
+
 #### 2020 CW 9  Necropolis Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -460,6 +539,8 @@ classes: wide
   | **6.3**  | **2x Wight**  | A squad of Wight joined your army and you become stronger! |
   | **7.3**  | **5x Necropolis Unit Chest**  | A squad of Vampire joined your army and you become stronger! |
   | **8.3**  | **3x Vidomina**  | A squad of Lich joined your army and you become stronger! |
+
+
 #### 2020 CW 8  Tower Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -471,6 +552,8 @@ classes: wide
   | **28.2**  | **3x Tower Unit Chest**  | A squad of Iron Golem joined your army and you become stronger! |
   | **29.2**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
   | **1.3**  | **5x Solmyr**  | A squad of Genie joined your army and you become stronger! |
+
+
 #### 2020 CW 7  Castle Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -482,6 +565,8 @@ classes: wide
   | **21.2**  | **3x Monk**  | A squad of Griffin joined your army and you become stronger! |
   | **22.2**  | **3x Cavalier **  | A squad of Monk joined your army and you become stronger! |
   | **23.2**  | **5x Catherine**  | A squad of Cavalier joined your army and you become stronger! |
+
+
 #### 2020 CW 6  Conflux Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -493,6 +578,8 @@ classes: wide
   | **14.2**  | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
   | **15.2**  | **5x Conflux Unit Chest**  | A squad of Stone Elemental joined your army and you become stronger! |
   | **16.2**  | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
 #### 2020 CW 5  Stronghold Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -504,6 +591,8 @@ classes: wide
   | **7.2**  | **3x Ogre**  | A squad of Ogre joined your army and you become stronger! |
   | **8.2**  | **3x Cyclops**  | A squad of Cyclops joined your army and you become stronger! |
   | **9.2**  | **5x Crag Hack**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
+
 #### 2020 CW 4  Inferno Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -515,6 +604,8 @@ classes: wide
   | **31.1**  | **3x Hell Hound**  | Your inferno corps has presented you with a number of valuable treasure chests! |
   | **1.2**  | **3x Demon**  | A squad of Hell Hound joined your army and you become stronger! |
   | **2.2**  | **5x Rashka**  | A squad of Demon joined your army and you become stronger! |
+
+
 #### 2020 CW 3  Rampart Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -526,6 +617,8 @@ classes: wide
   | **24.1**  | **3x Dwarf**  | A squad of Pegasus joined your army and you become stronger! |
   | **25.1**  | **3x Dendroid Guard**  | A squad of Dendroid Guard joined your army and you become stronger! |
   | **26.1**  | **5x Ryland**  | A squad of Unicorn joined your army and you become stronger! |
+
+
 #### 2020 CW 2  Necropolis Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -537,6 +630,8 @@ classes: wide
   | **17.1**  | **2x Wight**  | A squad of Wight joined your army and you become stronger! |
   | **18.1**  | **5x Necropolis Unit Chest**  | A squad of Vampire joined your army and you become stronger! |
   | **19.1**  | **3x Vidomina**  | A squad of Lich joined your army and you become stronger! |
+
+
 #### 2020 CW 1  Tower Week
 
   |  Date  |      Reward    |    Reward description    |
@@ -548,3 +643,5 @@ classes: wide
   | **10.1**  | **3x Tower Unit Chest**  | A squad of Iron Golem joined your army and you become stronger! |
   | **11.1**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
   | **12.1**  | **5x Solmyr**  | A squad of Genie joined your army and you become stronger! |
+
+
