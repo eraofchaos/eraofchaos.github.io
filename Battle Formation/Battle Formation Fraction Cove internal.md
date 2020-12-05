@@ -11,6 +11,9 @@ classes: wide
 **Warning** This fraction comes with game update 24.11.2020.
 {: .notice--danger}
 
+**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+{: .notice--danger}
+
  [Castle](/Battle Formation/Battle Formation Fraction Castle internal){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Fraction Rampart internal){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold internal){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis internal){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Fraction Inferno internal){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Fraction Tower internal){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon internal){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Fraction Fortress internal){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Fraction Conflux internal){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Fraction Cove internal){: .btn .btn--info} 
 
   **Fraction:** [Cove](/units/Fraction Cove)
