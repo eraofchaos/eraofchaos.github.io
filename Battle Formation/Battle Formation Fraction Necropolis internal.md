@@ -84,30 +84,30 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Necropolis - Damage Amplification | Unit DMG + **0.4** % | 177 |  **20** x [Skeleton](/units/Skeleton) |
-  | 2 | Necropolis - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 3 | Necropolis - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 4 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 5 | Necropolis - A Strike Hit | Accuracy + **7**  | 177 |  **20** x [Walking Dead](/units/Walking Dead) |
-  | 6 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 7 | Necropolis - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 94 |   |
-  | 8 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 9 | Necropolis - Ingeniousness | Dodge + **7**  | 177 |  **20** x [Wight](/units/Wight) |
-  | 10 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 11 | Necropolis - Physical Trials | HP + **1.2** % | 94 |   |
-  | 12 | Necropolis - Physical Trials | HP + **1.2** % | 94 |   |
-  | 13 | Necropolis - Shield Practice | Unit DMG Reduction + **0.4** % | 177 |  **20** x [Vampire](/units/Vampire) |
-  | 14 | Necropolis - Physical Trials | HP + **1.2** % | 94 |   |
-  | 15 | Necropolis - Physical Trials | HP + **1.2** % | 94 |   |
-  | 16 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 17 | Necropolis - Rocklike Skin | Tenacity + **8**  | 177 |  **20** x [Walking Dead](/units/Walking Dead) |
-  | 18 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 19 | Necropolis - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 94 |   |
-  | 20 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 21 | Necropolis - Blaster | Critical Hit + **6**  | 177 |  **20** x [Walking Dead](/units/Walking Dead) |
-  | 22 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 23 | Necropolis - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 24 | Necropolis - Storm Assaulter | ATK + **1.2** % | 94 |   |
+  | 1 | Necropolis - Damage Amplification | Unit DMG + **0.4** % | 180 |  **20** x [Skeleton](/units/Skeleton) |
+  | 2 | Necropolis - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 3 | Necropolis - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 4 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 5 | Necropolis - A Strike Hit | Accuracy + **7**  | 180 |  **20** x [Walking Dead](/units/Walking Dead) |
+  | 6 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 7 | Necropolis - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 8 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 9 | Necropolis - Ingeniousness | Dodge + **7**  | 180 |  **20** x [Wight](/units/Wight) |
+  | 10 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 11 | Necropolis - Physical Trials | HP + **1.2** % | 90 |   |
+  | 12 | Necropolis - Physical Trials | HP + **1.2** % | 90 |   |
+  | 13 | Necropolis - Shield Practice | Unit DMG Reduction + **0.4** % | 180 |  **20** x [Vampire](/units/Vampire) |
+  | 14 | Necropolis - Physical Trials | HP + **1.2** % | 90 |   |
+  | 15 | Necropolis - Physical Trials | HP + **1.2** % | 90 |   |
+  | 16 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 17 | Necropolis - Rocklike Skin | Tenacity + **8**  | 180 |  **20** x [Walking Dead](/units/Walking Dead) |
+  | 18 | Necropolis - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 19 | Necropolis - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 20 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 21 | Necropolis - Blaster | Critical Hit + **6**  | 180 |  **20** x [Walking Dead](/units/Walking Dead) |
+  | 22 | Necropolis - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 23 | Necropolis - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 24 | Necropolis - Storm Assaulter | ATK + **1.2** % | 90 |   |
   
 
 
@@ -115,35 +115,35 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Necropolis - Damage Amplification | Unit DMG + **0.5** % | 192 |  **20** x [Wight](/units/Wight) |
-  | 2 | Necropolis - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 3 | Necropolis - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 4 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 5 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 6 | Necropolis - A Strike Hit | Accuracy + **8**  | 192 |  **20** x [Vampire](/units/Vampire) |
-  | 7 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 8 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 9 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 10 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 11 | Necropolis - Ingeniousness | Dodge + **8**  | 192 |  **20** x [Wight](/units/Wight) |
-  | 12 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 13 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 14 | Necropolis - Physical Trials | HP + **1.4** % | 97 |   |
-  | 15 | Necropolis - Physical Trials | HP + **1.4** % | 97 |   |
-  | 16 | Necropolis - Shield Practice | Unit DMG Reduction + **0.5** % | 192 |  **20** x [Vampire](/units/Vampire) |
-  | 17 | Necropolis - Physical Trials | HP + **1.4** % | 97 |   |
-  | 18 | Necropolis - Physical Trials | HP + **1.4** % | 97 |   |
-  | 19 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 20 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 21 | Necropolis - Rocklike Skin | Tenacity + **10**  | 192 |  **20** x [Wight](/units/Wight) |
-  | 22 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 23 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 24 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 25 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 26 | Necropolis - Blaster | Critical Hit + **7**  | 192 |  **20** x [Vampire](/units/Vampire) |
-  | 27 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 28 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 29 | Necropolis - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 30 | Necropolis - Storm Assaulter | ATK + **1.4** % | 97 |   |
+  | 1 | Necropolis - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Wight](/units/Wight) |
+  | 2 | Necropolis - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 3 | Necropolis - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 4 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 5 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 6 | Necropolis - A Strike Hit | Accuracy + **8**  | 190 |  **20** x [Vampire](/units/Vampire) |
+  | 7 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 8 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 9 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 10 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 11 | Necropolis - Ingeniousness | Dodge + **8**  | 190 |  **20** x [Wight](/units/Wight) |
+  | 12 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 13 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 14 | Necropolis - Physical Trials | HP + **1.4** % | 100 |   |
+  | 15 | Necropolis - Physical Trials | HP + **1.4** % | 100 |   |
+  | 16 | Necropolis - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **20** x [Vampire](/units/Vampire) |
+  | 17 | Necropolis - Physical Trials | HP + **1.4** % | 100 |   |
+  | 18 | Necropolis - Physical Trials | HP + **1.4** % | 100 |   |
+  | 19 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 20 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 21 | Necropolis - Rocklike Skin | Tenacity + **10**  | 190 |  **20** x [Wight](/units/Wight) |
+  | 22 | Necropolis - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 23 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 24 | Necropolis - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 25 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 26 | Necropolis - Blaster | Critical Hit + **7**  | 190 |  **20** x [Vampire](/units/Vampire) |
+  | 27 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 28 | Necropolis - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 29 | Necropolis - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 30 | Necropolis - Storm Assaulter | ATK + **1.4** % | 100 |   |
   
 

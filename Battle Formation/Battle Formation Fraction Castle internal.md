@@ -84,30 +84,30 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Unit DMG + **0.4** % | 177 |  **10** x [Pikeman](/units/Pikeman) |
-  | 2 | Castle - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 3 | Castle - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 4 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 5 | Castle - A Strike Hit | Accuracy + **7**  | 177 |  **10** x [Monk](/units/Monk) |
-  | 6 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 7 | Castle - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 94 |   |
-  | 8 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 9 | Castle - Ingeniousness | Dodge + **7**  | 177 |  **10** x [Swordsman](/units/Swordsman) |
-  | 10 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 11 | Castle - Physical Trials | HP + **1.2** % | 94 |   |
-  | 12 | Castle - Physical Trials | HP + **1.2** % | 94 |   |
-  | 13 | Castle - Shield Practice | Unit DMG Reduction + **0.4** % | 177 |  **10** x [Monk](/units/Monk) |
-  | 14 | Castle - Physical Trials | HP + **1.2** % | 94 |   |
-  | 15 | Castle - Physical Trials | HP + **1.2** % | 94 |   |
-  | 16 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 17 | Castle - Rocklike Skin | Tenacity + **8**  | 177 |  **10** x [Swordsman](/units/Swordsman) |
-  | 18 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 19 | Castle - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 94 |   |
-  | 20 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 21 | Castle - Blaster | Critical Hit + **6**  | 177 |  **10** x [Marksman](/units/Marksman) |
-  | 22 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 23 | Castle - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 24 | Castle - Storm Assaulter | ATK + **1.2** % | 94 |   |
+  | 1 | Castle - Damage Amplification | Unit DMG + **0.4** % | 180 |  **10** x [Pikeman](/units/Pikeman) |
+  | 2 | Castle - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 3 | Castle - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 4 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 5 | Castle - A Strike Hit | Accuracy + **7**  | 180 |  **10** x [Monk](/units/Monk) |
+  | 6 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 7 | Castle - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 8 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 9 | Castle - Ingeniousness | Dodge + **7**  | 180 |  **10** x [Swordsman](/units/Swordsman) |
+  | 10 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 11 | Castle - Physical Trials | HP + **1.2** % | 90 |   |
+  | 12 | Castle - Physical Trials | HP + **1.2** % | 90 |   |
+  | 13 | Castle - Shield Practice | Unit DMG Reduction + **0.4** % | 180 |  **10** x [Monk](/units/Monk) |
+  | 14 | Castle - Physical Trials | HP + **1.2** % | 90 |   |
+  | 15 | Castle - Physical Trials | HP + **1.2** % | 90 |   |
+  | 16 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 17 | Castle - Rocklike Skin | Tenacity + **8**  | 180 |  **10** x [Swordsman](/units/Swordsman) |
+  | 18 | Castle - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 19 | Castle - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 20 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 21 | Castle - Blaster | Critical Hit + **6**  | 180 |  **10** x [Marksman](/units/Marksman) |
+  | 22 | Castle - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 23 | Castle - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 24 | Castle - Storm Assaulter | ATK + **1.2** % | 90 |   |
   
 
 
@@ -115,35 +115,35 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Unit DMG + **0.5** % | 192 |  **10** x [Griffin](/units/Griffin) |
-  | 2 | Castle - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 3 | Castle - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 4 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 5 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 6 | Castle - A Strike Hit | Accuracy + **8**  | 192 |  **10** x [Cavalier ](/units/Cavalier ) |
-  | 7 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 8 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 9 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 10 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 11 | Castle - Ingeniousness | Dodge + **8**  | 192 |  **10** x [Griffin](/units/Griffin) |
-  | 12 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 13 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 14 | Castle - Physical Trials | HP + **1.4** % | 97 |   |
-  | 15 | Castle - Physical Trials | HP + **1.4** % | 97 |   |
-  | 16 | Castle - Shield Practice | Unit DMG Reduction + **0.5** % | 192 |  **10** x [Cavalier ](/units/Cavalier ) |
-  | 17 | Castle - Physical Trials | HP + **1.4** % | 97 |   |
-  | 18 | Castle - Physical Trials | HP + **1.4** % | 97 |   |
-  | 19 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 20 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 21 | Castle - Rocklike Skin | Tenacity + **10**  | 192 |  **10** x [Griffin](/units/Griffin) |
-  | 22 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 23 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 24 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 25 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 26 | Castle - Blaster | Critical Hit + **7**  | 192 |  **10** x [Cavalier ](/units/Cavalier ) |
-  | 27 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 28 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 29 | Castle - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 30 | Castle - Storm Assaulter | ATK + **1.4** % | 97 |   |
+  | 1 | Castle - Damage Amplification | Unit DMG + **0.5** % | 190 |  **10** x [Griffin](/units/Griffin) |
+  | 2 | Castle - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 3 | Castle - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 4 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 5 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 6 | Castle - A Strike Hit | Accuracy + **8**  | 190 |  **10** x [Cavalier ](/units/Cavalier ) |
+  | 7 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 8 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 9 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 10 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 11 | Castle - Ingeniousness | Dodge + **8**  | 190 |  **10** x [Griffin](/units/Griffin) |
+  | 12 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 13 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 14 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
+  | 15 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
+  | 16 | Castle - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **10** x [Cavalier ](/units/Cavalier ) |
+  | 17 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
+  | 18 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
+  | 19 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 20 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 21 | Castle - Rocklike Skin | Tenacity + **10**  | 190 |  **10** x [Griffin](/units/Griffin) |
+  | 22 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 23 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 24 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 25 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 26 | Castle - Blaster | Critical Hit + **7**  | 190 |  **10** x [Cavalier ](/units/Cavalier ) |
+  | 27 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 28 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 29 | Castle - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 30 | Castle - Storm Assaulter | ATK + **1.4** % | 100 |   |
   
 

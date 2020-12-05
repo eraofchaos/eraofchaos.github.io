@@ -1,6 +1,6 @@
 ---
 title: "Battle Formation"  INTERNAL
-permalink: /Battle Formation internal/
+permalink: /Battle FormationBattle Formation internal
 excerpt: "Battle Formation.Each faction has distinct potentials and energy. Light up the exclusive Battle Formation to activate your latent power."
 last_modified_at: 2020-12-05
 lang: en

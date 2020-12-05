@@ -84,30 +84,30 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | Unit DMG + **0.4** % | 177 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
-  | 2 | Tower - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 3 | Tower - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 4 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 5 | Tower - A Strike Hit | Accuracy + **7**  | 177 |  **20** x [Iron Golem](/units/Iron Golem) |
-  | 6 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 7 | Tower - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 94 |   |
-  | 8 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 9 | Tower - Ingeniousness | Dodge + **7**  | 177 |  **20** x [Gremlin](/units/Gremlin) |
-  | 10 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 11 | Tower - Physical Trials | HP + **1.2** % | 94 |   |
-  | 12 | Tower - Physical Trials | HP + **1.2** % | 94 |   |
-  | 13 | Tower - Shield Practice | Unit DMG Reduction + **0.4** % | 177 |  **20** x [Gremlin](/units/Gremlin) |
-  | 14 | Tower - Physical Trials | HP + **1.2** % | 94 |   |
-  | 15 | Tower - Physical Trials | HP + **1.2** % | 94 |   |
-  | 16 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 17 | Tower - Rocklike Skin | Tenacity + **8**  | 177 |  **20** x [Iron Golem](/units/Iron Golem) |
-  | 18 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 94 |   |
-  | 19 | Tower - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 94 |   |
-  | 20 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 21 | Tower - Blaster | Critical Hit + **6**  | 177 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
-  | 22 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 94 |   |
-  | 23 | Tower - Storm Assaulter | ATK + **1.2** % | 94 |   |
-  | 24 | Tower - Storm Assaulter | ATK + **1.2** % | 94 |   |
+  | 1 | Tower - Damage Amplification | Unit DMG + **0.4** % | 180 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
+  | 2 | Tower - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 3 | Tower - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 4 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 5 | Tower - A Strike Hit | Accuracy + **7**  | 180 |  **20** x [Iron Golem](/units/Iron Golem) |
+  | 6 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 7 | Tower - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 8 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 9 | Tower - Ingeniousness | Dodge + **7**  | 180 |  **20** x [Gremlin](/units/Gremlin) |
+  | 10 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 11 | Tower - Physical Trials | HP + **1.2** % | 90 |   |
+  | 12 | Tower - Physical Trials | HP + **1.2** % | 90 |   |
+  | 13 | Tower - Shield Practice | Unit DMG Reduction + **0.4** % | 180 |  **20** x [Gremlin](/units/Gremlin) |
+  | 14 | Tower - Physical Trials | HP + **1.2** % | 90 |   |
+  | 15 | Tower - Physical Trials | HP + **1.2** % | 90 |   |
+  | 16 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 17 | Tower - Rocklike Skin | Tenacity + **8**  | 180 |  **20** x [Iron Golem](/units/Iron Golem) |
+  | 18 | Tower - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 19 | Tower - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 20 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 21 | Tower - Blaster | Critical Hit + **6**  | 180 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
+  | 22 | Tower - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 23 | Tower - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 24 | Tower - Storm Assaulter | ATK + **1.2** % | 90 |   |
   
 
 
@@ -115,35 +115,35 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | Unit DMG + **0.5** % | 192 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
-  | 2 | Tower - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 3 | Tower - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 4 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 5 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 6 | Tower - A Strike Hit | Accuracy + **8**  | 192 |  **20** x [Mage](/units/Mage) |
-  | 7 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 8 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 9 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 10 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 11 | Tower - Ingeniousness | Dodge + **8**  | 192 |  **20** x [Mage](/units/Mage) |
-  | 12 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 13 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 14 | Tower - Physical Trials | HP + **1.4** % | 97 |   |
-  | 15 | Tower - Physical Trials | HP + **1.4** % | 97 |   |
-  | 16 | Tower - Shield Practice | Unit DMG Reduction + **0.5** % | 192 |  **20** x [Mage](/units/Mage) |
-  | 17 | Tower - Physical Trials | HP + **1.4** % | 97 |   |
-  | 18 | Tower - Physical Trials | HP + **1.4** % | 97 |   |
-  | 19 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 20 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 21 | Tower - Rocklike Skin | Tenacity + **10**  | 192 |  **20** x [Mage](/units/Mage) |
-  | 22 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 97 |   |
-  | 23 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 24 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 97 |   |
-  | 25 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 26 | Tower - Blaster | Critical Hit + **7**  | 192 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
-  | 27 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 28 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 97 |   |
-  | 29 | Tower - Storm Assaulter | ATK + **1.4** % | 97 |   |
-  | 30 | Tower - Storm Assaulter | ATK + **1.4** % | 97 |   |
+  | 1 | Tower - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
+  | 2 | Tower - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 3 | Tower - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 4 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 5 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 6 | Tower - A Strike Hit | Accuracy + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 7 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 8 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 9 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 10 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 11 | Tower - Ingeniousness | Dodge + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 12 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 13 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 14 | Tower - Physical Trials | HP + **1.4** % | 100 |   |
+  | 15 | Tower - Physical Trials | HP + **1.4** % | 100 |   |
+  | 16 | Tower - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **20** x [Mage](/units/Mage) |
+  | 17 | Tower - Physical Trials | HP + **1.4** % | 100 |   |
+  | 18 | Tower - Physical Trials | HP + **1.4** % | 100 |   |
+  | 19 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 20 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 21 | Tower - Rocklike Skin | Tenacity + **10**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 22 | Tower - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 23 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 24 | Tower - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 25 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 26 | Tower - Blaster | Critical Hit + **7**  | 190 |  **20** x [Stone Gargoyle](/units/Stone Gargoyle) |
+  | 27 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 28 | Tower - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 29 | Tower - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 30 | Tower - Storm Assaulter | ATK + **1.4** % | 100 |   |
   
 
