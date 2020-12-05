@@ -30,7 +30,7 @@ toc: true
   | **2.12**  | **3x Swordsman**  | A squad of Swordsmen joined your army and you become stronger! |
   | **3.12**  | **3x Griffin**  | A squad of Griffin joined your army and you become stronger! |
   | **4.12**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
-  | **5.12**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
+  | **5.12**  | **3x Cavalier**  | A squad of Cavalier joined your army and you become stronger! |
   | **6.12**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
 
 
@@ -134,7 +134,7 @@ toc: true
   | **7.10**  | **3x Swordsman**  | A squad of Swordsmen joined your army and you become stronger! |
   | **8.10**  | **3x Griffin**  | A squad of Griffin joined your army and you become stronger! |
   | **9.10**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
-  | **10.10**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
+  | **10.10**  | **3x Cavalier**  | A squad of Cavalier joined your army and you become stronger! |
   | **11.10**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
 
 
@@ -251,7 +251,7 @@ toc: true
   | **5.8**  | **3x Swordsman**  | A squad of Swordsmen joined your army and you become stronger! |
   | **6.8**  | **3x Griffin**  | A squad of Griffin joined your army and you become stronger! |
   | **7.8**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
-  | **8.8**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
+  | **8.8**  | **3x Cavalier**  | A squad of Cavalier joined your army and you become stronger! |
   | **9.8**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
 
 
@@ -368,7 +368,7 @@ toc: true
   | **3.6**  | **3x Swordsman**  | A squad of Swordsmen joined your army and you become stronger! |
   | **4.6**  | **3x Griffin**  | A squad of Griffin joined your army and you become stronger! |
   | **5.6**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
-  | **6.6**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
+  | **6.6**  | **3x Cavalier**  | A squad of Cavalier joined your army and you become stronger! |
   | **7.6**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
 
 
@@ -446,7 +446,7 @@ toc: true
   | **22.4**  | **3x Swordsman**  | A squad of Swordsmen joined your army and you become stronger! |
   | **23.4**  | **3x Griffin**  | A squad of Griffin joined your army and you become stronger! |
   | **24.4**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
-  | **25.4**  | **3x Cavalier **  | A squad of Cavalier joined your army and you become stronger! |
+  | **25.4**  | **3x Cavalier**  | A squad of Cavalier joined your army and you become stronger! |
   | **26.4**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
 
 
@@ -563,7 +563,7 @@ toc: true
   | **19.2**  | **3x Swordsman**  | A squad of Marksman joined your army and you become stronger! |
   | **20.2**  | **3x Griffin**  | A squad of Swordsmen joined your army and you become stronger! |
   | **21.2**  | **3x Monk**  | A squad of Griffin joined your army and you become stronger! |
-  | **22.2**  | **3x Cavalier **  | A squad of Monk joined your army and you become stronger! |
+  | **22.2**  | **3x Cavalier**  | A squad of Monk joined your army and you become stronger! |
   | **23.2**  | **5x Catherine**  | A squad of Cavalier joined your army and you become stronger! |
 
 
