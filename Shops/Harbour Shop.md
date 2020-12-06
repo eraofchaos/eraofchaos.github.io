@@ -9,6 +9,9 @@ toc: false
 classes: wide
 ---
 
+**Info** You can find this Shop under **Cove Attack** -> **Store** 
+{: .notice--danger}
+
   |  Nr  |      Name      |         Price        |   Maximum available      |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1 |  **12x** Fervor(An item used to challenge bosses in the Cove Attack event.) |  **180x** <i class="fas fa-gem"/>  | **100** |
