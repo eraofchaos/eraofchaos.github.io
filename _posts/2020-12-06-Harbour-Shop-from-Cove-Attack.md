@@ -9,10 +9,10 @@ tags:
   - Shop
 ---
 
-During last days we was fighting under Cove Attack. We got new units and Shekels.
+During last days we was fighting under Cove Attack. We got new Units and Shekels(Shells).
 
-You can find this Shop under Cove Attack (Event icon on main page) -> Store:
-Find a best way to spend your shekels to get best rewards!
+You can find this Shop under **Cove Attack** (Event icon on main page) -> **Store** .
+Find the best way to spend your shells to grow faster!
 
 ## Harbour Shop
  - English: <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
