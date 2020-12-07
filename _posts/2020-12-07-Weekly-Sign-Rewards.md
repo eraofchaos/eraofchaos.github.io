@@ -1,5 +1,5 @@
 ﻿---
-title: "Era Of Chaos - Cove Attack - Harbour Shop"
+title: "Era Of Chaos - Weekly Sign-in Rewards"
 date: 2020-12-07T21:40:00+01:00
 classes: wide
 toc: false
@@ -13,10 +13,10 @@ Every week we have rewards from different fractions. This information helps You 
 
 ## Weekly Sign-in Rewards
  - English: <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/)
- - French: <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/fr/Weekly Sign Rewards/)
- - German: <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/de/Weekly Sign Rewards/)
- - Русский: <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/ru/Weekly Sign Rewards/)
- - Italiano: <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/it/Weekly Sign Rewards/)
- - Español: <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/es/Weekly Sign Rewards/)
+ - French: <i class="fas fa-business-time"/>  [Weekly Récompenses totales](/fr/Weekly Sign Rewards/)
+ - German: <i class="fas fa-business-time"/>  [Wochen „Volle Anmeldung“-Belohn.](/de/Weekly Sign Rewards/)
+ - Русский: <i class="fas fa-business-time"/>  [Недельная награда](/ru/Weekly Sign Rewards/)
+ - Italiano: <i class="fas fa-business-time"/>  [Weekly Ricompense giornaliere](/it/Weekly Sign Rewards/)
+ - Español: <i class="fas fa-business-time"/>  [Weekly Recompensa completa](/es/Weekly Sign Rewards/)
 
 Your feedback are welcome!
