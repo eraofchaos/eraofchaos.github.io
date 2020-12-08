@@ -22,7 +22,7 @@ This information portal contains information about "Era Of Chaos" mobile game.
 {: .notice--danger}
 
 
-  ** 1 Dec 2020 Update:** Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
+  **1 Dec 2020 Update:** Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
 {: .notice--danger}
 
 
