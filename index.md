@@ -10,15 +10,19 @@ sidebar:
 
 This information portal contains information about "Era Of Chaos" mobile game.
 
-**1.12.2020 Update:** Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
+  - **Game Update 8 Dec 2020** 
+  - 1 New Unit - Leprechaun (unit + avatar + slot in Barracks)  **[Read more](/units/Leprechaun/)**
+  - Leprechaun can be get from SSR Unit Soul
+  - Awaking **Storm Elemental** unit to **Lightning Storm**. Added Thunder Rage Soul Stone into Marketplace -> Arena. **[Read more](/units/Storm Elemental/#awaking)**
+  - Update battle calculation logic for the following skills
+     - Skill **Beast Mark** ( **Cruel Torture** increases skill damage to 150% of the skill's basic damage. All friendly Inferno Faction units gain 1000 Critical Hit for 10s when this skill is cast.)
+     - Passive skill **Cruel Torture** (They have power and a terrifying reach.)
+     - Passive skill **Testimony of the Fallen** (**Cruel Torture** Increases skill damage to 150% of the skill's basic damage and reduces the target unit's DEF by 50% for 10s)
 {: .notice--danger}
 
-
-  - **Game Update 24.11.2020** 
-  - 2 new Heroes and new COVE fraction. **[Read more](/blog/Game-Update-2NewHeroes-New-Core-Fraction/)**
-  - New feature - Battle Formation. **[Read more](/blog/Battle-Formation/)**
-  - New event [Healing Sea](/Healing Sea/) with Rewards and Quiz questions, answers and rewards
+** 1 Dec 2020 Update:** Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
 {: .notice--danger}
+
 
 
 
@@ -29,6 +33,8 @@ You will find here:
 ### <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
 ### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
+### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
+### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/)
 <br/>
 <br/>
 Sorry, Right now this web site is **Under Construct**
