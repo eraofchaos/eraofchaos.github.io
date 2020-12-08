@@ -11,10 +11,11 @@ sidebar:
 This information portal contains information about "Era Of Chaos" mobile game.
 
   - **Game Update 8 Dec 2020** 
-  - 1 New Unit - Leprechaun (unit + avatar + slot in Barracks)  **[Read more](/units/Leprechaun/)**
-  - Leprechaun can be get from SSR Unit Soul
-  - Awaking **Storm Elemental** unit to **Lightning Storm**. Added Thunder Rage Soul Stone into Marketplace -> Arena. **[Read more](/units/Storm Elemental/#awaking)**
-  - Update battle calculation logic for the following skills
+  - 1 New Unit: **Leprechaun** (Unit + Avatar + slot in Barracks)  **[Read more](/units/Leprechaun/)**
+  - You can get **Leprechaun** from SSR Unit Soul
+  - Awaking **Storm Elemental** unit to **Lightning Storm**. 
+  - Added **Thunder Rage Soul Stone** into Marketplace -> Arena. **[Read more](/units/Storm Elemental/#awaking)**
+  - Update battle calculation logic for the following skills:
      - Skill **Beast Mark** ( **Cruel Torture** increases skill damage to 150% of the skill's basic damage. All friendly Inferno Faction units gain 1000 Critical Hit for 10s when this skill is cast.)
      - Passive skill **Cruel Torture** (They have power and a terrifying reach.)
      - Passive skill **Testimony of the Fallen** (**Cruel Torture** Increases skill damage to 150% of the skill's basic damage and reduces the target unit's DEF by 50% for 10s)
