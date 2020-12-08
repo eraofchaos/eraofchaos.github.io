@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2020-12-07
+last_modified_at: 2020-12-08
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 50  Rampart Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **14.12**  | **5x Centaur**  | A squad of Centaur joined your army and you become stronger! |
+  | **15.12**  | **3x Wood Elf**  | A squad of Wood Elf joined your army and you become stronger! |
+  | **16.12**  | **3x Pegasus**  | A squad of Pegasus joined your army and you become stronger! |
+  | **17.12**  | **3x Unicorn**  | A squad of Unicorn joined your army and you become stronger! |
+  | **18.12**  | **3x Dwarf**  | A squad of Dwarf joined your army and you become stronger! |
+  | **19.12**  | **3x Dendroid Guard**  | A squad of Dendroid Guard joined your army and you become stronger! |
+  | **20.12**  | **5x Ryland**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
+
 
 #### 2020 CW 49  Conflux Week
 

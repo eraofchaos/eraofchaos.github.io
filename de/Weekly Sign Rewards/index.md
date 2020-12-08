@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /de/Weekly Sign Rewards/
 excerpt: "Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2020-12-07
+last_modified_at: 2020-12-08
 lang: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 50  Schutzwallwoche
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **14.12**  | **5x Zentaur**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **15.12**  | **3x Waldelfe**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **16.12**  | **3x Pegasus**  | Ein Trupp Pegasi schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **17.12**  | **3x Einhorn**  | Ein Trupp Einhörner schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **18.12**  | **3x Zwerg**  | Ein Trupp Zwerge schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **19.12**  | **3x Dendroidenwache**  | Ein Trupp Dendroidenwachen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **20.12**  | **5x Ryland**  | Held Ryland schätzt Eure Taten zum Schutz der Natur, er möchte Euch dienen! |
+
 
 #### 2020 CW 49  Konfluxwoche
 

@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /es/Weekly Sign Rewards/
 excerpt: "Weekly Recompensa completa."
-last_modified_at: 2020-12-07
+last_modified_at: 2020-12-08
 lang: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 50  Semana de las Murallas
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **14.12**  | **5x Centauro**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
+  | **15.12**  | **3x Elfa del Bosque**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
+  | **16.12**  | **3x Pegaso**  | ¡Un escuadrón de Pegasos se une a tu ejército y te vuelves más fuerte! |
+  | **17.12**  | **3x Unicornio**  | ¡Un escuadrón de Unicornios se une a tu ejército y te vuelves más fuerte! |
+  | **18.12**  | **3x Enano**  | ¡Un escuadrón de Enanos se une a tu ejército y te vuelves más fuerte! |
+  | **19.12**  | **3x Guardia Dendroide**  | ¡Un escuadrón de Guardias Dendroides se une a tu ejército y te vuelves más fuerte! |
+  | **20.12**  | **5x Ryland**  | ¡El Héroe Ryland respeta tus acciones para proteger a la naturaleza y desea servirte! |
+
 
 #### 2020 CW 49  Semana de Conflujo
 

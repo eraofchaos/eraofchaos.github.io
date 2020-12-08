@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /it/Weekly Sign Rewards/
 excerpt: "Weekly Ricompense giornaliere."
-last_modified_at: 2020-12-07
+last_modified_at: 2020-12-08
 lang: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 50  Settimana del Baluardo
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **14.12**  | **5x Centauro**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **15.12**  | **3x Elfo del bosco**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **16.12**  | **3x Pegaso**  | Un gruppo di Pegasi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **17.12**  | **3x Unicorno**  | Un gruppo di Unicorni è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **18.12**  | **3x Gnomo**  | Un gruppo di Gnomi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **19.12**  | **3x Guardia Dendroide**  | Un gruppo di Guardie Dendroidi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **20.12**  | **5x Ryland**  | L'eroe Ryland ammira ciò che hai fatto per proteggere la natura e ha deciso di mettersi al tuo servizio! |
+
 
 #### 2020 CW 49  Settimana della Confluenza
 

@@ -2,11 +2,24 @@
 title: "Récompenses totales"
 permalink: /fr/Weekly Sign Rewards/
 excerpt: "Weekly Récompenses totales."
-last_modified_at: 2020-12-07
+last_modified_at: 2020-12-08
 lang: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 50  Semaine du Rempart
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **14.12**  | **5x Centaure**  | Une escouade de Centaures a rejoint votre armée et vous renforce ! |
+  | **15.12**  | **3x Elfe sylvaine**  | Une escouade d'Elfes sylvaines a rejoint votre armée et vous renforce ! |
+  | **16.12**  | **3x Pégase**  | Une escouade de Pégases a rejoint votre armée et vous renforce ! |
+  | **17.12**  | **3x Licorne**  | Une escouade de Licornes a rejoint votre armée et vous renforce ! |
+  | **18.12**  | **3x Nain**  | Une escouade de Nains a rejoint votre armée et vous renforce ! |
+  | **19.12**  | **3x Garde sylvanien**  | Une escouade de Gardes sylvaniens a rejoint votre armée et vous renforce ! |
+  | **20.12**  | **5x Ryland**  | Le héros Ryland admire vos actions pour la protection de la nature et souhaite vous servir ! |
+
 
 #### 2020 CW 49  Semaine du Conflux
 
