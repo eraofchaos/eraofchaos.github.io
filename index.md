@@ -21,7 +21,8 @@ This information portal contains information about "Era Of Chaos" mobile game.
      - Passive skill **Testimony of the Fallen** (**Cruel Torture** Increases skill damage to 150% of the skill's basic damage and reduces the target unit's DEF by 50% for 10s)
 {: .notice--danger}
 
-** 1 Dec 2020 Update:** Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
+
+  ** 1 Dec 2020 Update:** Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
 {: .notice--danger}
 
 
