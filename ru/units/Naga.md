@@ -1,15 +1,15 @@
 ---
 title: "Нага"
 permalink: /ru/units/Naga/
-excerpt: "Отряды Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
+excerpt: "Отряды null"
 unitID: 606
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Нага"
 toc: true
 ---
 ## General information
- **Description:** Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови.
+ **Description:** null
 
  **Class:** Наступление
 

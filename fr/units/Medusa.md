@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /fr/units/Medusa/
 excerpt: "Unités De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Méduse"
 toc: true

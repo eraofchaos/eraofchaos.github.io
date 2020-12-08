@@ -3,7 +3,7 @@ title: "Элементаль Огня"
 permalink: /ru/units/Fire Elemental/
 excerpt: "Отряды Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников."
 unitID: 904
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Элементаль Огня"
 toc: true

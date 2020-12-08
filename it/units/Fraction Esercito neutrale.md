@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Esercito neutrale -  Units"
 permalink: /it/units/Fraction Esercito neutrale/
 excerpt: "Fraction Esercito neutrale - List of Units in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Fraction Esercito neutrale"
 toc: false

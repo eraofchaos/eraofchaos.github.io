@@ -3,7 +3,7 @@ title: "Призрак"
 permalink: /ru/units/Wight/
 excerpt: "Отряды null"
 unitID: 303
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Призрак"
 toc: true
@@ -70,7 +70,7 @@ toc: true
 
  **Awaking Name:** Привидение
 
- **Awaking Description:** Любое смертное существо, осмелившееся приблизиться к привидению, цепенеет от ужаса. Его крики несут смерть всему живому и радость нежити.
+ **Awaking Description:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте призраков и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз.</span>

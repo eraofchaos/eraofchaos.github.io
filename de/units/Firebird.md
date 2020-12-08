@@ -3,7 +3,7 @@ title: "Feuervogel"
 permalink: /de/units/Firebird/
 excerpt: "Einheiten Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht."
 unitID: 907
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Feuervogel"
 toc: true

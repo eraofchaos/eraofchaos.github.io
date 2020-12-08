@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /it/units/Ice Elemental/
 excerpt: "Unità Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Spirito della neve silente
 
  **Awaking Description:** null
 

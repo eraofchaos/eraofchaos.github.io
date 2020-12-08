@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /es/units/Minotaur/
 excerpt: "Unidades El oscuro laberinto oculta a una fuerte criatura. Su enorme hacha corta en pedazos a cualquier enemigo extraviado."
 unitID: 705
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Minotauro"
 toc: true

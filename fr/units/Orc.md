@@ -3,7 +3,7 @@ title: "Orque"
 permalink: /fr/units/Orc/
 excerpt: "Unités Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Orque"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Commandant Orque
 
  **Awaking Description:** null
 

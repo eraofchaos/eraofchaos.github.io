@@ -3,7 +3,7 @@ title: "Grifo"
 permalink: /es/units/Griffin/
 excerpt: "Unidades Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Grifo"
 toc: true

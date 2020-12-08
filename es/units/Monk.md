@@ -3,7 +3,7 @@ title: "Monje"
 permalink: /es/units/Monk/
 excerpt: "Unidades Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Monje"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Fanático
 
  **Awaking Description:** Los fanáticos afirman que los ha bendecido el Arcángel. Pero no se vio al Arcángel en el combate, sino al verdadero Oráculo. Incluso lanzan un hechizo divino muy poderoso para demostrar su afirmación.
 
@@ -83,23 +83,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Inquisición de la Luz sagrada.
+ **Description:** <span style="color: #48b946;font-size:18px"><Bendiciones del valiente></span><span style="color: #645252;font-size:18px"> Otorga moral alta durante 10 s a todas las unidades amistosas en una zona grande junto a la unidad lanzadora cada 30 s. Además, al inicio de la batalla, el Monje aumenta el daño de golpe crítico de todas las unidades amistosas y la curación recibida en un 20% cada una durante 60 s. Durante los primeros 60 s de batalla, cada unidad de Monje inflige daño equivalente al 10% de su ATQ a las unidades del Infierno enemigas una vez cada 2 s.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Bendición de Luz sagrada
+ **Description:** <span style="color: #48b946;font-size:18px"><Bendiciones del valiente></span><span style="color: #645252;font-size:18px"> Otorga moral alta durante 10 s a todas las unidades amistosas en una zona grande junto a la unidad lanzadora cada 30 s. Cuando el Monje está en el campo de batalla, aumenta el daño de golpe crítico de todas las unidades amistosas y la curación recibida en un 20% cada una durante 120 s. Durante los primeros 60 s de batalla, cada unidad de Monje curará a las unidades de Castillo amistosas los PV equivalentes al 10% de su ATQ una vez cada 2 s.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Bendición radiante
+ **Description:** <span style="color: #48b946;font-size:18px"><Meditación></span><span style="color: #645252;font-size:18px"> Aumenta el golpe crítico de todas las unidades amistosas en 200 puntos cuando el Monje consigue moral alta. El efecto dura toda la batalla, pero no se puede acumular. También aumenta el maná de los Héroes en 10. La recarga es de 3 s.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Gracia magnífica
+ **Description:** <span style="color: #48b946;font-size:18px"><Meditación></span><span style="color: #645252;font-size:18px"> Aumenta el golpe crítico de todas las unidades amistosas en 200 puntos cuando el Monje consigue moral alta. El efecto dura toda la batalla, pero no se puede acumular. También aumenta la recuperación de maná de los Héroes en 0,5. La recarga es de 3 s. La ventaja de recuperación de maná se puede activar hasta 4 veces.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Juicio sabio
+ **Description:** <span style="color: #48b946;font-size:18px"><Recuperación></span><span style="color: #645252;font-size:18px"> Aumenta la curación recibida de las unidades amistosas en un 20% cuando el Monje está en el campo de batalla. Cuando se lanza Plegaria, también se inicia un ataque en 3 fases contra la unidad enemiga con menos PV, infligiendo daño equivalente al 150% del ATQ propio.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Salmo de la masa
+ **Description:** <span style="color: #48b946;font-size:18px"><Recuperación></span><span style="color: #645252;font-size:18px"> Aumenta la curación recibida de las unidades amistosas en un 20% cuando el Monje está en el campo de batalla. Cuando se lanza Plegaria, también se cura a la unidad amistosa con menos PV con los PV equivalentes al 150% del ATQ propio en 3 fases.</span>
 
 ## Technical info
  **runart:** 0

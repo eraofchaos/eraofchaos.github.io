@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /fr/units/Spartan Warriors/
 excerpt: "Unités Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Guerriers spartiates"
 toc: true

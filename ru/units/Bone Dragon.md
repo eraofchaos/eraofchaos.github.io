@@ -3,7 +3,7 @@ title: "Костяной дракон"
 permalink: /ru/units/Bone Dragon/
 excerpt: "Отряды В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Костяной дракон"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Темный запрет
  **Description:** <span style="color: #48b946;font-size:18px"><Стремительный перекат></span><span style="color: #645252;font-size:18px">: немота поражает все вражеские отряды в определенной области</span>
 
-### 5th Skill (or 6th): Призрачные объятия
+### 5th Skill (or 6th): null
  **Description:** <span style="color: #48b946;font-size:18px"><Старение></span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 6th Skill (or 5th): null

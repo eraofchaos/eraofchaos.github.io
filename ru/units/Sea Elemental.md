@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /ru/units/Sea Elemental/
 excerpt: "Отряды null"
 unitID: 9903
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Элементаль Моря"
 toc: true

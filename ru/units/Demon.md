@@ -3,7 +3,7 @@ title: "Демон"
 permalink: /ru/units/Demon/
 excerpt: "Отряды Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов."
 unitID: 504
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Демон"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

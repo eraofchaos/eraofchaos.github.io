@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /it/units/Naga/
 excerpt: "Unità Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
 unitID: 606
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Naga"
 toc: true

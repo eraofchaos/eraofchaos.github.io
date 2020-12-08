@@ -3,7 +3,7 @@ title: "Oiseau de feu"
 permalink: /fr/units/Firebird/
 excerpt: "Unités L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Oiseau de feu"
 toc: true

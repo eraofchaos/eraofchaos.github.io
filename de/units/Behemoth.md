@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /de/units/Behemoth/
 excerpt: "Einheiten Behemoths gehören zu den wenigen urtümlichen Kreaturen, die noch aus der Zeit vor den Drachen stammen. Ihre gewaltigen Leiber sind immun gegen die Angriffe ihrer Feinde."
 unitID: 407
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Behemoth"
 toc: true

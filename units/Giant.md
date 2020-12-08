@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Units These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: en
 ref: "Giant"
 toc: true
@@ -96,10 +96,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px"><Thunder Rage></span><span style="color: #645252;font-size:18px"> causes Giant to gain an equivalent boost to Attack and Crit attributes when reducing enemies' attributes. Additionally increases own Crit DMG by 20% for 10s. <Thunder Rage> has a 15% chance to trigger whenever enemy or friendly heroes cast air spells.</span>
 
 ### 5th Skill (or 6th): Electromagnetic Mimicry
- **Description:** <span style="color: #48b946;font-size:18px"><Nemesis></span><span style="color: #645252;font-size:18px"> increases Attack Speed by 1% and Defense by 16 for each basic attack. This effect can stack up to 60 times, lasts for 10s, and has a 20% chance to grant Static Magnetic Field for 5s. Melee units have a 40% chance to be <stunned> for 2s after attacking a unit with Static Magnetic Field. While Static Magnetic Field is active, Giant becomes immune to air spell DMG. Giant's Unit DMG is increased by 15%, and Giant's basic attack DMG doubles when attacking 1 or 4-man units. If the target is a 9 or 16-man unit, Giant has a 5% chance to <stun> target units for 2s when dealing damage to 4 of the target's units.</span>
+ **Description:** <span style="color: #48b946;font-size:18px"><Nemesis></span><span style="color: #645252;font-size:18px"> increases Attack Speed by 1% and Defense by 16 for each basic attack. This effect can stack up to 60 times, lasts for 10s, and has a 20% chance to grant Static Magnetic Field for 5s. Melee units have a 40% chance to be <stunned> for 2s after attacking a unit with Static Magnetic Field. While Static Magnetic Field is active, Giant becomes immune to air spell DMG. Giant's Unit DMG is increased by 15%, and Giant's basic attack DMG is increasd by 50% when attacking 1 or 4-man units. If the target is a 9 or 16-man unit, Giant has a 5% chance to <stun> target units for 2s when dealing damage to 4 of the target's units.</span>
 
 ### 6th Skill (or 5th): Magnetic Resonance
- **Description:** <span style="color: #48b946;font-size:18px"><Nemesis></span><span style="color: #645252;font-size:18px"> causes each of the Giant's basic attacks have a 5% chance to trigger <Thunder Rage> and have a 20% chance to grant Static Magnetic Field for 5s. Melee units have a 40% chance to be <stunned> for 2s after attacking a unit with Static Magnetic Field. While Static Magnetic Field is active, Giant becomes immune to air spell DMG. Giant Unit DMG is increased by 15%, and Giant's basic attack DMG doubles when attacking 1 or 4-man units. If the target is a 9 or 16-man unit, Giant has a 5% chance to <stun> target units for 2s when dealing damage to 4 of the target's units.</span>
+ **Description:** <span style="color: #48b946;font-size:18px"><Nemesis></span><span style="color: #645252;font-size:18px"> causes each of the Giant's basic attacks have a 5% chance to trigger <Thunder Rage> and have a 20% chance to grant Static Magnetic Field for 5s. Melee units have a 40% chance to be <stunned> for 2s after attacking a unit with Static Magnetic Field. While Static Magnetic Field is active, Giant becomes immune to air spell DMG. Giant Unit DMG is increased by 15%, and Giant's basic attack DMG is increasd by 50% when attacking 1 or 4-man units. If the target is a 9 or 16-man unit, Giant has a 5% chance to <stun> target units for 2s when dealing damage to 4 of the target's units.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Гог"
 permalink: /ru/units/Gog/
 excerpt: "Отряды Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Гог"
 toc: true

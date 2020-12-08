@@ -3,7 +3,7 @@ title: "Пегас"
 permalink: /ru/units/Pegasus/
 excerpt: "Отряды null"
 unitID: 204
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Пегас"
 toc: true
@@ -48,7 +48,7 @@ toc: true
 ### 4 Skill: Конница Серебряных крыльев
  **Description:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
-### 5 Skill: Спокойное распространение
+### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Отметка ненависти

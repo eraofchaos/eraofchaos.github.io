@@ -3,7 +3,7 @@ title: "Wivern"
 permalink: /fr/units/Wyvern/
 excerpt: "Unités Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Wivern"
 toc: true

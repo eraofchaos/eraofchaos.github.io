@@ -3,7 +3,7 @@ title: "Gárgola de Piedra"
 permalink: /es/units/Stone Gargoyle/
 excerpt: "Unidades Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate."
 unitID: 602
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Gárgola de Piedra"
 toc: true

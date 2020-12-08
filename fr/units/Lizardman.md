@@ -3,7 +3,7 @@ title: "Homme-lézard"
 permalink: /fr/units/Lizardman/
 excerpt: "Unités Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Homme-lézard"
 toc: true

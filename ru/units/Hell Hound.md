@@ -3,7 +3,7 @@ title: "Гончая ада"
 permalink: /ru/units/Hell Hound/
 excerpt: "Отряды Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Гончая ада"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

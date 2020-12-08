@@ -3,7 +3,7 @@ title: "Unknown_TEAM_905"
 permalink: /ru/units/Stone Elemental/
 excerpt: "Отряды Элементали Камня возникли из сплава различных руд, образованных геологическими процессами. Разделяются на меньших элементалей Камня, продолжающих сражаться."
 unitID: 905
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Unknown_TEAM_905"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /de/units/Bone Dragon/
 excerpt: "Einheiten Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Knochendrache"
 toc: true

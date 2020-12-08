@@ -1,18 +1,15 @@
 ---
 title: "Лепрекон"
 permalink: /ru/units/Leprechaun/
-excerpt: "Отряды "
+excerpt: "Отряды Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
 unitID: 909
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Лепрекон"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
- **Description:** 
+ **Description:** Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего.
 
  **Class:** Защита
 
@@ -20,7 +17,7 @@ toc: true
 
  **Fraction:** [null](/ru/units/Fraction null)
 
- **Race:** Хозяин зверей
+ **Race:** null
 
  **Members:** x1
 
@@ -39,17 +36,17 @@ toc: true
  **Info2:** 
 
 ## Skills
-### 1 Skill: 
+### 1 Skill: Прямой удар
  **Description:** 
 
 ### 2 Skill: Фортуна
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Лепреконы каждые 10 сек. наделяют все союзные отряды Фортуной и дают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите. Эффект длится 5 сек. Для отрядов из 4 существ эффект навыка повышается в 2 раза, для отрядов из 9 и 16 существ - в 4 раза. Для самих лепреконов эффект навыка может повышаться в 3-10 раз. При повышении в 8 раз и выше дополнительно срабатывает «Прямой удар».</span><span style="color: black">
 
 ### 3 Skill: Сила элементалей
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Лепреконы получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда лепреконы вступают в бой, все союзные отряды получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При одиночном ударе лепреконы получают иммунитет к любому урону выше 20% от их максимума ОЗ. </span><span style="color: black">
 
-### 4 Skill: 
- **Description:** 
+### 4 Skill: Тактический блок
+ **Description:** <span style="color: #645252;font-size:20px">Когда лепреконам наносят критический удар, это повышает их блокирование на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и активирует «Прямой удар». Эффект длится 10 сек. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает уклонение, они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к макс. здоровью. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает блок, немедленно активируется «Прямой удар». Перезарядка 2 сек. </span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -73,36 +70,36 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Description:** 
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. 
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. 
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. 
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. null
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
-
-### 2nd Skill (or 1st): Внезапный лес копий
+### 1st Skill (or 2nd): 
  **Description:** 
 
-### 3rd Skill (or 4th): Плотный строй
+### 2nd Skill (or 1st): null
  **Description:** 
 
-### 4th Skill (or 3rd): Лукавый строй
+### 3rd Skill (or 4th): 
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 4th Skill (or 3rd): 
  **Description:** 
 
-### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 5th Skill (or 6th): 
+ **Description:** 
+
+### 6th Skill (or 5th): 
+ **Description:** 
 
 ## Technical info
  **runart:** 0

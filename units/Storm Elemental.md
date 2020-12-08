@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -66,40 +66,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Lightning Storm
 
- **Awaking Description:** null
+ **Awaking Description:** In the endless lightning and thunder, the Storm Elementals embark on a trial belonging only to the Conflux Plane. The mission that the four great Elementals entrusted to this sky realm of thunder is to make every Storm Elemental be reborn, using the power of lightning to brew a storm that will sweep across the land!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Storm Elemental with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Ranged units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">In the Guild Adventure Underground, occupy City </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Lightning Storm souls in the Underground: Levels 17-2 and 17-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Storm Elemental and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Static Chain
+ **Description:** <span style="color: #48b946;font-size:18px"><Static Marker></span><span style="color: #645252;font-size:18px"> When battle starts, Storm Elemental applies Static to all enemy units.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Lightning Veins
+ **Description:** <span style="color: #48b946;font-size:18px"><Static Marker></span><span style="color: #645252;font-size:18px"> Storm Elemental casts <Static Marker> once every 30s.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Plasma Field
+ **Description:** <span style="color: #48b946;font-size:18px"><Lightning Bounce></span><span style="color: #645252;font-size:18px"> Doubles skill's trigger chance.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Explosive Lightning
+ **Description:** <span style="color: #48b946;font-size:18px"><Lightning Bounce></span><span style="color: #645252;font-size:18px"> Doubles skill damage.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Conflux Aura
+ **Description:** <span style="color: #48b946;font-size:18px"><Elemental Force></span><span style="color: #645252;font-size:18px">Increases two random back row units' Attack Speed by 25% for 10s when a hero casts an air-type spell.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Conflux Explosion
+ **Description:** <span style="color: #48b946;font-size:18px"><Elemental Force></span><span style="color: #645252;font-size:18px"> Storm Elemental is guaranteed to cast <Lightning Bounce> 1 time when a hero casts an air-type spell, dealing damage equal to 300% of own ATK to target units.</span>
 
 ## Technical info
  **runart:** 0

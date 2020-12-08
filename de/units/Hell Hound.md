@@ -3,7 +3,7 @@ title: "Höllenhund"
 permalink: /de/units/Hell Hound/
 excerpt: "Einheiten Höllenhunde greifen den Feind mit drei Köpfen an. Ihr Körper ist von glühend heißer Lava überzogen, und ihre Spuren hinterlassen Flammen."
 unitID: 503
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Höllenhund"
 toc: true

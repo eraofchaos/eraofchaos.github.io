@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /de/units/Mermaid/
 excerpt: "Einheiten Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Meerjungfrau"
 toc: true

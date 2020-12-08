@@ -3,7 +3,7 @@ title: "Gargolla di pietra"
 permalink: /it/units/Stone Gargoyle/
 excerpt: "Unità Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Gargolla di pietra"
 toc: true

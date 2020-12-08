@@ -3,7 +3,7 @@ title: "Zentaur"
 permalink: /de/units/Centaur/
 excerpt: "Einheiten Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Zentaur"
 toc: true

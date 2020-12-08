@@ -3,7 +3,7 @@ title: "Ифрит"
 permalink: /ru/units/Efreeti/
 excerpt: "Отряды null"
 unitID: 506
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Ифрит"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Султан ифритов
+ **Awaking Name:** null
 
  **Awaking Description:** Эти сильные духи появились из сосредоточенного пламени бездны. Они - сильнейшие союзники демонов Астрального мира Огня. И теперь они пришли в Эрафию, чтобы помочь Эофолу одержать окончательную победу.
 

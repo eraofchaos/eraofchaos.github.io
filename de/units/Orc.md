@@ -3,7 +3,7 @@ title: "Ork"
 permalink: /de/units/Orc/
 excerpt: "Einheiten Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Ork"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Ork-Kommandant
 
  **Awaking Description:** null
 

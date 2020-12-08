@@ -3,7 +3,7 @@ title: "Skelett"
 permalink: /de/units/Skeleton/
 excerpt: "Einheiten Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde."
 unitID: 301
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Skelett"
 toc: true

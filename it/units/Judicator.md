@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /it/units/Judicator/
 excerpt: "Unità Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Giudice"
 toc: true

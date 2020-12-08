@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /ru/units/Ice Elemental/
 excerpt: "Отряды Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Элементаль Льда"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Снежный дух
 
  **Awaking Description:** null
 
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

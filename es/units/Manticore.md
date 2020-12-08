@@ -3,7 +3,7 @@ title: "Mantícora"
 permalink: /es/units/Manticore/
 excerpt: "Unidades Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Mantícora"
 toc: true

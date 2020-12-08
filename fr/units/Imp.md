@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /fr/units/Imp/
 excerpt: "Unités Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Diablotin"
 toc: true

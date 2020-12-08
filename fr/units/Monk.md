@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /fr/units/Monk/
 excerpt: "Unités Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Moine"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Zélote
 
  **Awaking Description:** Les Zélotes assurent avoir été bénis par l'Archange. Pas l'Archange que l'on peut voir en combat, mais le vrai Oracle. Ils ont même lancé un puissant sort divin pour prouver leurs dires.
 
@@ -83,23 +83,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Inquisition de la Sainte Lumière
+ **Description:** <span style="color: #48b946;font-size:18px"><Bénédiction des courageux> :</span><span style="color: #645252;font-size:18px"> Exalte toutes les unités alliées dans une large zone pendant 10 secondes toutes les 30 secondes. Au début du combat, le Moine augmente également les dégâts critiques et les soins reçus de 20 % pour toutes les unités alliées pendant 60 secondes. Pendant les 60 premières secondes du combat, chaque unité de Moine infligera aux unités de l'Hadès ennemies des dégâts équivalents à 10 % de son ATQ toutes les 2 secondes.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Bénédiction de la Sainte Lumière
+ **Description:** <span style="color: #48b946;font-size:18px"><Bénédiction des courageux> :</span><span style="color: #645252;font-size:18px"> Exalte toutes les unités alliées dans une large zone pendant 10 secondes toutes les 30 secondes. Lorsque le Moine est présent sur le champ de bataille, les dégâts critiques et les soins reçus augmentent de 20 % pendant 120 secondes pour toutes les unités alliées. Pendant les 60 premières secondes du combat, chaque unité de Moine permettra aux unités du Château alliées de récupérer des PV équivalents à 10 % de leur ATQ toutes les 2 secondes.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Bénédiction flamboyante
+ **Description:** <span style="color: #48b946;font-size:18px"><Méditation> :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est exalté, les coups critiques de toutes les unités alliées augmentent de 200 points. Cet effet dure jusqu'à la fin du combat, mais ne peut pas être cumulé. Le mana des Héros augmente également de 10. Le temps de recharge est de 3 secondes.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Grâce majestueuse
+ **Description:** <span style="color: #48b946;font-size:18px"><Méditation> :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est exalté, les coups critiques de toutes les unités alliées augmentent de 200 points. Cet effet dure jusqu'à la fin du combat, mais ne peut pas être cumulé. La régénération de mana des Héros augmente également de 0,5. Le temps de recharge est de 3 secondes. Le bonus de régénération de mana peut être déclenché jusqu'à 4 fois.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Jugement sage
+ **Description:** <span style="color: #48b946;font-size:18px"><Récupération> :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est présent sur le champ de bataille, les soins reçus augmentent de 20 % pour toutes les unités alliées. Lorsque le sort Faveur divine est jeté, il lance également une attaque en 3 étapes sur l'unité ennemie qui a le moins de PV, infligeant ainsi des dégâts équivalents à 150 % de son ATQ.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Psaume de messe
+ **Description:** <span style="color: #48b946;font-size:18px"><Récupération> :</span><span style="color: #645252;font-size:18px"> Lorsque le Moine est présent sur le champ de bataille, les soins reçus augmentent de 20 % pour toutes les unités alliées. Lorsque le sort Faveur divine est jeté, il soigne également l'unité alliée qui a le moins de PV en 3 étapes, lui restituant des PV équivalents à 150 % de son ATQ.</span>
 
 ## Technical info
  **runart:** 0

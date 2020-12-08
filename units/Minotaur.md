@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: en
 ref: "Minotaur"
 toc: true

@@ -3,7 +3,7 @@ title: "Incubo"
 permalink: /it/units/Nightmare/
 excerpt: "Unità L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Incubo"
 toc: true

@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /fr/units/Skeleton/
 excerpt: "Unités Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Squelette"
 toc: true

@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /es/units/Vampire/
 excerpt: "Unidades Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte."
 unitID: 304
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Vampiro"
 toc: true

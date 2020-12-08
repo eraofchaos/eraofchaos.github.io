@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Torre -  Units"
 permalink: /it/units/Fraction Torre/
 excerpt: "Fraction Torre - List of Units in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Fraction Torre"
 toc: false

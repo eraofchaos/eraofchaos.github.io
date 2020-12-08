@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /ru/units/Revyaratan/
 excerpt: "Отряды Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Левиафан"
 toc: true

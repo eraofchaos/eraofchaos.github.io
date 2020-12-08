@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /de/units/Druid/
 excerpt: "Einheiten Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Druidin"
 toc: true

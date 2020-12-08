@@ -1,15 +1,15 @@
 ---
 title: "Unknown_TEAM_605"
 permalink: /ru/units/Genie/
-excerpt: "Отряды Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
+excerpt: "Отряды null"
 unitID: 605
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Unknown_TEAM_605"
 toc: true
 ---
 ## General information
- **Description:** Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой.
+ **Description:** null
 
  **Class:** Заклинатель
 
@@ -79,7 +79,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ владык джиннов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте джиннов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы победить в 3 боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 

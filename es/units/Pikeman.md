@@ -3,7 +3,7 @@ title: "Piquero"
 permalink: /es/units/Pikeman/
 excerpt: "Unidades Los Piqueros son la primera línea de defensa del reino. Se trata de hábiles soldados que han luchado con honor en grandes batallas y son leales al reino, lo que les ha valido el clamor del pueblo."
 unitID: 101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Piquero"
 toc: true

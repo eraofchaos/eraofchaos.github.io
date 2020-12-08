@@ -3,7 +3,7 @@ title: "Лич"
 permalink: /ru/units/Lich/
 excerpt: "Отряды Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Лич"
 toc: true

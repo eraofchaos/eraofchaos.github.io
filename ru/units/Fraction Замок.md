@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Замок -  Units"
 permalink: /ru/units/Fraction Замок/
 excerpt: "Fraction Замок - List of Units in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Fraction Замок"
 toc: false

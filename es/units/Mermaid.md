@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /es/units/Mermaid/
 excerpt: "Unidades El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Sirena"
 toc: true

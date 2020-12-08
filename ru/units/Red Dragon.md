@@ -3,7 +3,7 @@ title: "Красный дракон"
 permalink: /ru/units/Red Dragon/
 excerpt: "Отряды Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Красный дракон"
 toc: true

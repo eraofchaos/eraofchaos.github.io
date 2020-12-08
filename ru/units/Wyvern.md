@@ -3,7 +3,7 @@ title: "Виверна"
 permalink: /ru/units/Wyvern/
 excerpt: "Отряды null"
 unitID: 806
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Виверна"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Description:** 
 
 ### 3 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">Виверны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда, который дополнительно повышается на 5% за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
+ **Description:** 
 
 ### 4 Skill: Дикие миазмы
  **Description:** 

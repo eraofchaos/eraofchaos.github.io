@@ -3,7 +3,7 @@ title: "Elfe sylvaine"
 permalink: /fr/units/Wood Elf/
 excerpt: "Unités Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches."
 unitID: 203
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Elfe sylvaine"
 toc: true

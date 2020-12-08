@@ -3,7 +3,7 @@ title: "Grand Arbalétrier"
 permalink: /fr/units/Marksman/
 excerpt: "Unités Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis."
 unitID: 102
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Grand Arbalétrier"
 toc: true

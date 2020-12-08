@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /ru/units/Pit Fiend/
 excerpt: "Отряды null"
 unitID: 505
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Порождение зла"
 toc: true
@@ -40,7 +40,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Порождения зла применяют 1 Огненный источник у них на пути, восстанавливая ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у союзных отрядов в широком радиусе перед собой каждые 2 сек. в течение 8 сек.</span><span style="color: black">
 
 ### 2 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">Когда порождения зла остаются на поле боя, они призывают в бой 4 демонов. У демонов </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, 700 ЗЩТ и 500 ед. критического удара, они сохраняются в течение всего боя.</span><span style="color: black">
+ **Description:** 
 
 ### 3 Skill: Жар
  **Description:** <span style="color: #645252;font-size:20px"><Огненный источник> порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от <Огненного источника> повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Donjon -  Units"
 permalink: /fr/units/Fraction Donjon/
 excerpt: "Fraction Donjon - List of Units in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Fraction Donjon"
 toc: false

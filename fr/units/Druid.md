@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /fr/units/Druid/
 excerpt: "Unités Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Druidesse"
 toc: true

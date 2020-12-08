@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /es/units/Genie/
 excerpt: "Unidades Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Genio"
 toc: true

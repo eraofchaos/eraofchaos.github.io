@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /es/units/Troglodyte/
 excerpt: "Unidades Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato."
 unitID: 701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Troglodita"
 toc: true

@@ -1,18 +1,15 @@
 ---
 title: "Farfadet"
 permalink: /fr/units/Leprechaun/
-excerpt: "Unités "
+excerpt: "Unités Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
 unitID: 909
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Farfadet"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
- **Description:** 
+ **Description:** Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde.
 
  **Class:** Défense
 
@@ -20,7 +17,7 @@ toc: true
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
- **Race:** Maître des bêtes
+ **Race:** Licorne
 
  **Members:** x1
 
@@ -39,17 +36,17 @@ toc: true
  **Info2:** 
 
 ## Skills
-### 1 Skill: 
- **Description:** 
+### 1 Skill: Coup de poing immédiat
+ **Description:** <span style="color: #645252;font-size:20px">Le Farfadet inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à l'unité cible toutes les 5 secondes et l'</span><span style="color: black"><span style="color: #48b946;font-size:20px">étourdit</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes. Réduit également la pénétration d'une unité de mêlée et d'une unité à distance/de Lanceurs de sorts aléatoires de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> tout en infligeant des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ. Cet effet dure 6 secondes et peut être cumulé jusqu'à 3 fois.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Lorsque cette compétence est déclenchée, les dégâts et la vitesse d'attaque du Farfadet augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet dure 15 secondes et peut être cumulé jusqu'à 40 fois.</span><span style="color: black">
 
 ### 2 Skill: Fortune
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Le Farfadet lance le sort Bonne fortune sur toutes les unités alliées toutes les 10 secondes, augmentant ainsi l'esquive de toutes ces unités de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, leur ténacité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 5 secondes. L'effet est doublé pour les unités de 4 combattants et quadruplé pour les unités de 9 ou 16 combattants. L'effet sera multiplié par entre 3 et 10 pour le Farfadet. Si l'effet est multiplié par 8 ou plus, l'effet <Coup de poing immédiat> se déclenchera 1 fois de plus.</span><span style="color: black">
 
 ### 3 Skill: Force élémentaire
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Augmente la résistance aux dégâts du Farfadet de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sa DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, son esquive de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la valeur du bouclier </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le Farfadet est présent sur le champ de bataille, la valeur du bouclier des unités alliées augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le Farfadet subit des dégâts en une fois, il est immunisé contre une portion des dégâts supérieure à 20 % de ses PV.</span><span style="color: black">
 
-### 4 Skill: 
- **Description:** 
+### 4 Skill: Blocage tactique
+ **Description:** <span style="color: #645252;font-size:20px">Lorsque le Farfadet est atteint par un coup critique, la valeur de son bouclier augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px">, et un <Coup de poing immédiat> se déclenche. Cet effet dure pendant 10 secondes et a un temps de recharge de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque son esquive se déclenche, le Farfadet récupère </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max. Le temps de recharge est de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le blocage du Farfadet est activé, un <Coup de poing immédiat> se déclenche immédiatement. Le temps de recharge est de 2 secondes.</span><span style="color: black">
 
 ### 5 Skill: Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -73,36 +70,36 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Description:** 
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. 
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. 
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): 
+ **Description:** 
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): 
+ **Description:** 
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): 
+ **Description:** 
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): 
+ **Description:** 
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): 
+ **Description:** 
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): 
+ **Description:** 
 
 ## Technical info
  **runart:** 0

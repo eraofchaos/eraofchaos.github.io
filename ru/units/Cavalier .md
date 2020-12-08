@@ -3,7 +3,7 @@ title: "Всадники"
 permalink: /ru/units/Cavalier /
 excerpt: "Отряды Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Всадники"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Тяжелая атака
  **Description:** <span style="color: #48b946;font-size:18px"><Стремительный прорыв></span><span style="color: #645252;font-size:18px">: при следующем штурме урон повышается до 150%, а враги оглушаются на 5 сек.</span>
 
-### 5th Skill (or 6th): Фанатизм
+### 5th Skill (or 6th): null
  **Description:** <span style="color: #48b946;font-size:18px"><Копье рыцаря></span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 20%. Эффект удваивается в состоянии высокого боевого духа</span>
 
 ### 6th Skill (or 5th): Спокойные мысли

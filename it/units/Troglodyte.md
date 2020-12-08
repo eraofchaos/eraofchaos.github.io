@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /it/units/Troglodyte/
 excerpt: "Unità Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Troglodita"
 toc: true

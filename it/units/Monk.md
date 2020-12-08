@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /it/units/Monk/
 excerpt: "Unità I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Monaco"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Fanatico
 
  **Awaking Description:** I fanatici sostengono di essere stati benedetti dall'Arcangelo. Non quello che scende in campo a combattere; il vero Oracolo. Per dimostrare che non mentono, hanno lanciato un potente incantesimo divino.
 
@@ -83,23 +83,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Inquisizione della Sacra Luce
+ **Description:** <span style="color: #48b946;font-size:18px"><Benedizione del valoroso></span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa <Morale alto> per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. All'inizio della battaglia, il Monaco aumenta inoltre del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 60 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco infligge danni pari al 10% del proprio ATT alle unità Inferno nemiche ogni 2 secondi.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Benedizione della Sacra Luce
+ **Description:** <span style="color: #48b946;font-size:18px"><Benedizione del valoroso></span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa <Morale alto> per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 120 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco cura le unità Castello alleate di una quantità di PF pari al 10% del loro ATT ogni 2 secondi.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Benedizione splendente
+ **Description:** <span style="color: #48b946;font-size:18px"><Meditazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di <Morale alto>, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 10 il mana degli eroi. Recupero: 3 secondi.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Magnifica grazia
+ **Description:** <span style="color: #48b946;font-size:18px"><Meditazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di <Morale alto>, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 0,5 la rigenerazione del mana degli eroi. Recupero: 3 secondi. Il buff alla rigenerazione del mana può essere applicato fino a 4 volte.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Giudizio dei Savi
+ **Description:** <span style="color: #48b946;font-size:18px"><Rigenerazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia <Preghiera>, avvia un attacco in 3 fasi contro l'unità nemica con i PF più bassi, infliggendo danni pari al 150% del proprio ATT.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Salmo rituale
+ **Description:** <span style="color: #48b946;font-size:18px"><Rigenerazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia <Preghiera>, cura in 3 fasi distinte l'unità alleata con i PF più bassi di una quantità di PF pari al 150% del proprio ATT.</span>
 
 ## Technical info
  **runart:** 0

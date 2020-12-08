@@ -3,7 +3,7 @@ title: "Гоблин"
 permalink: /ru/units/Goblin/
 excerpt: "Отряды Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов."
 unitID: 401
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Гоблин"
 toc: true
@@ -46,7 +46,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">В бою против отряда с менее 30% ОЗ гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+26}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
 ### 4 Skill: Жажда крови
- **Description:** <span style="color: #645252;font-size:20px">Гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
+ **Description:** 
 
 ### 5 Skill: Фанатик сражений
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
@@ -75,7 +75,7 @@ toc: true
 ### Awaking Tasks
  1. null
 
- 2. <span style="color: #3c2a1e;font-size:18px">Используйте </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> очков действия в Походе гильдии.</span>
+ 2. null
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ гоблинов на уровнях 17-2 и 17-4 в Подземелье.</span>
 

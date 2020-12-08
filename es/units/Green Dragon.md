@@ -3,7 +3,7 @@ title: "Dragón Verde"
 permalink: /es/units/Green Dragon/
 excerpt: "Unidades Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Dragón Verde"
 toc: true

@@ -3,7 +3,7 @@ title: "Unknown_TEAM_902"
 permalink: /ru/units/Storm Elemental/
 excerpt: "Отряды null"
 unitID: 902
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Unknown_TEAM_902"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Шторма есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ударить цель молнией, нанеся 300% урона.</span><span style="color: black">
 
 ### 3 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">Когда элементали Шторма на поле боя, сопротивление урону от заклинаний Земли повышается у всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и снижается у всех врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда элементали Шторма на поле боя, исходная мана союзного героя повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** 
 
 ### 4 Skill: Пробивание разрядом
  **Description:** <span style="color: #645252;font-size:20px">Элементали Шторма получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если цель получала </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
@@ -66,40 +66,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Ураган молний
 
- **Awaking Description:** null
+ **Awaking Description:** Там, где вечно грохочет гром и сверкает молния, элементалям Шторма была поручено задание, выполнить которое способны лишь обитатели Астрального мира - использовать силу молний и накрыть ураганом целый континент!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Шторма и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> стрелковых отрядов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Захватите город в подземелье Похода гильдии </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ ураганов молний на уровнях 17-2 и 17-4 в Подземелье. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Шторма, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников. </span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Электрическая цепь
+ **Description:** <span style="color: #48b946;font-size:18px"><Отметка разряда></span><span style="color: #645252;font-size:18px">: когда элементаль Шторма вступает в бой, все вражеские отряды получают разряд.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Импульсный ток
+ **Description:** <span style="color: #48b946;font-size:18px"><Отметка разряда></span><span style="color: #645252;font-size:18px">: элементаль Шторма каждые 30 сек. активирует одну отметку разряда.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Поле плазмы
+ **Description:** <span style="color: #48b946;font-size:18px"><Скачущая молния></span><span style="color: #645252;font-size:18px">: вероятность срабатывания умения удваивается</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Разрывная молния
+ **Description:** <span style="color: #48b946;font-size:18px"><Скачущая молния></span><span style="color: #645252;font-size:18px">: урон умения удваивается</span>
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Description:** <span style="color: #48b946;font-size:18px"><Сила Гармонии></span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, два случайных отряда на задней линии получают +25% к скорости атаки на 10 сек.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Взрыв Гармонии
+ **Description:** <span style="color: #48b946;font-size:18px"><Сила Гармонии></span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, элементаль Шторма гарантированно выпускает скачущую молнию и наносит выбранному отряду 300% урона.</span>
 
 ## Technical info
  **runart:** 0

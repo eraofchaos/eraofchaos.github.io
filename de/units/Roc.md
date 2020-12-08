@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /de/units/Roc/
 excerpt: "Einheiten Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Roc"
 toc: true

@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /it/units/Centaur/
 excerpt: "Unità I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione."
 unitID: 201
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Centauro"
 toc: true

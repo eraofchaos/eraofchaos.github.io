@@ -3,7 +3,7 @@ title: "Берсерк"
 permalink: /ru/units/Berserker/
 excerpt: "Отряды Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
 unitID: 408
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Берсерк"
 toc: true
@@ -42,7 +42,7 @@ toc: true
 ### 2 Skill: Боевая ярость
  **Description:** <span style="color: #645252;font-size:20px">АТК берсерка может повыситься до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> по мере уменьшения ОЗ. Берсерки кричат каждые 20 сек., получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> все вражеские отряды в течение 10 сек.</span><span style="color: black">
 
-### 3 Skill: Буйство
+### 3 Skill: null
  **Description:** 
 
 ### 4 Skill: Бессмертный бог войны

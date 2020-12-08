@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /es/units/Harpy/
 excerpt: "Unidades Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Arpía"
 toc: true

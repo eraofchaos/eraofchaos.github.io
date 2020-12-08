@@ -3,7 +3,7 @@ title: "Орк"
 permalink: /ru/units/Orc/
 excerpt: "Отряды Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Орк"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

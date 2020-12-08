@@ -3,7 +3,7 @@ title: "Elemental de Hielo"
 permalink: /es/units/Ice Elemental/
 excerpt: "Unidades Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Elemental de Hielo"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Espíritu de las Nieves Silencioso
 
  **Awaking Description:** null
 

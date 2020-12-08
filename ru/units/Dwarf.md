@@ -3,7 +3,7 @@ title: "Гном"
 permalink: /ru/units/Dwarf/
 excerpt: "Отряды Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них."
 unitID: 202
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Гном"
 toc: true
@@ -48,7 +48,7 @@ toc: true
 ### 4 Skill: Сопротивление магии
  **Description:** <span style="color: #645252;font-size:20px">Гномы прикрывают остальных, повышая сопротивление магии на 30% у всех отрядов, попавших под их защиту, на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 5 Skill: Спокойное распространение
+### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Отметка ненависти
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

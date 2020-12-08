@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /fr/units/Regnan Pirates/
 excerpt: "Unités Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Pirates de Regna"
 toc: true

@@ -3,7 +3,7 @@ title: "Demonio del Abismo"
 permalink: /es/units/Pit Fiend/
 excerpt: "Unidades Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Demonio del Abismo"
 toc: true

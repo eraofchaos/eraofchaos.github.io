@@ -3,7 +3,7 @@ title: "Serpiente Regnan"
 permalink: /es/units/Regnan Serpent/
 excerpt: "Unidades El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Serpiente Regnan"
 toc: true

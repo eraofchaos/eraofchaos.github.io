@@ -3,7 +3,7 @@ title: "Монах"
 permalink: /ru/units/Monk/
 excerpt: "Отряды Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения."
 unitID: 105
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Монах"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Жрец
 
  **Awaking Description:** Жрецы заявили, что они избраны архангелами. Не теми, что бьются на полях сражений, а истинными провидцами. И в подтверждение своих слов продемонстрировали великую божественную силу.
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте монахов и хотя бы </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы добиться уровня «Мастер» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
@@ -83,23 +83,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
+### 1st Skill (or 2nd): Инквизиция священного света
+ **Description:** <span style="color: #48b946;font-size:18px"><Благословения отважного></span><span style="color: #645252;font-size:18px">: каждые 30 сек. накладывает на союзные отряды в значительном радиусе от себя эффект «Высокий боевой дух» на 10 сек. В начале боя монахи повышают крит. урон и эффективность лечения всех союзных отрядов на 20%. Эффект длится 60 сек. В первые 60 сек. боя каждый монах раз в две секунды наносит вражеским существам Инферно урон в 10% от АТК.
+
+### 2nd Skill (or 1st): Благословение священного света
  **Description:** 
 
-### 2nd Skill (or 1st): 
+### 3rd Skill (or 4th): Милость света
+ **Description:** <span style="color: #48b946;font-size:18px"><Медитация></span><span style="color: #645252;font-size:18px">: когда монахи получают «Высокий боевой дух», критический удар всех союзных отрядов повышается на 200 ед. Эффект длится до конца боя, но не суммируется. Герои также получают +10 ОМ. Восстановление: 3 сек.</span>
+
+### 4th Skill (or 3rd): Всеобщая благодать
  **Description:** 
 
-### 3rd Skill (or 4th): 
+### 5th Skill (or 6th): Святое учение
  **Description:** 
 
-### 4th Skill (or 3rd): 
- **Description:** 
-
-### 5th Skill (or 6th): 
- **Description:** 
-
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Месса
+ **Description:** <span style="color: #48b946;font-size:18px"><Восстановление></span><span style="color: #645252;font-size:18px">: в начале боя монахи повышают эффективность лечения всех союзных отрядов на 20%. Прочитав молитву, они дополнительно исцеляют союзный отряд с минимальным здоровьем на 150% от тройной АТК.</span>
 
 ## Technical info
  **runart:** 0

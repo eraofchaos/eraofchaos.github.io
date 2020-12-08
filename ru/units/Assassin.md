@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /ru/units/Assassin/
 excerpt: "Отряды Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Ассасин"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

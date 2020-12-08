@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /ru/units/Walking Dead/
 excerpt: "Отряды Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -99,7 +99,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): Пир смерти
- **Description:** <span style="color: #48b946;font-size:18px"><Завал из трупов></span><span style="color: #645252;font-size:18px">: восстанавливает 10% ОЗ ходячего мертвеца при уничтожении вражеского отряда</span>
+ **Description:** 
 
 ## Technical info
  **runart:** 1

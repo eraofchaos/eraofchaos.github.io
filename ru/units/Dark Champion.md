@@ -3,7 +3,7 @@ title: "Чемпион Тьмы"
 permalink: /ru/units/Dark Champion/
 excerpt: "Отряды Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Чемпион Тьмы"
 toc: true
@@ -101,7 +101,7 @@ toc: true
 ### 4th Skill (or 3rd): Темный запрет
  **Description:** <span style="color: #48b946;font-size:18px"><Стремительный перекат></span><span style="color: #645252;font-size:18px">: немота поражает все вражеские отряды в определенной области</span>
 
-### 5th Skill (or 6th): Призрачные объятия
+### 5th Skill (or 6th): null
  **Description:** <span style="color: #48b946;font-size:18px"><Старение></span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 6th Skill (or 5th): null

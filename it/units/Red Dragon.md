@@ -3,7 +3,7 @@ title: "Drago rosso"
 permalink: /it/units/Red Dragon/
 excerpt: "Unità Il Signore Supremo dei Draghi. Il suo ruggito, unico per potenza e solennità, richiama i suoi simili alla battaglia."
 unitID: 708
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Drago rosso"
 toc: true

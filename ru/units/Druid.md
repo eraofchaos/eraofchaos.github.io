@@ -3,7 +3,7 @@ title: "Unknown_TEAM_208"
 permalink: /ru/units/Druid/
 excerpt: "Отряды null"
 unitID: 208
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Unknown_TEAM_208"
 toc: true
@@ -48,7 +48,7 @@ toc: true
 ### 4 Skill: Сердце природы
  **Description:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
 
-### 5 Skill: Спокойное распространение
+### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Отметка ненависти
@@ -77,7 +77,7 @@ toc: true
 
  2. null
 
- 3. 
+ 3. null
 
  4. 
 

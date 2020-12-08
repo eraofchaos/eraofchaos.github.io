@@ -3,7 +3,7 @@ title: "Бехолдер"
 permalink: /ru/units/Beholder/
 excerpt: "Отряды Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Бехолдер"
 toc: true
@@ -73,7 +73,7 @@ toc: true
  **Awaking Description:** Взгляд этого злого создание неизвестного происхождения излучает непередаваемый страх. Око смерти видит хрупкость врагов и поглощает невидимую силу.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте бехолдеров и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 

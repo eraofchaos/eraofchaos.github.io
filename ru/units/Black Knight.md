@@ -3,7 +3,7 @@ title: "Черный рыцарь"
 permalink: /ru/units/Black Knight/
 excerpt: "Отряды На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Черный рыцарь"
 toc: true

@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /ru/units/Green Dragon/
 excerpt: "Отряды Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Зеленый дракон"
 toc: true
@@ -48,7 +48,7 @@ toc: true
 ### 4 Skill: Подкрепление с небес
  **Description:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Спокойное распространение
+### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Отметка ненависти
@@ -77,7 +77,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ золотых драконов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
  4. null
 

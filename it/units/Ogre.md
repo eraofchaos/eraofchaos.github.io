@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /it/units/Ogre/
 excerpt: "Unità Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Ogre"
 toc: true

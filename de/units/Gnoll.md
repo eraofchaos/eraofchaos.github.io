@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /de/units/Gnoll/
 excerpt: "Einheiten Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
 unitID: 801
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Gnoll"
 toc: true

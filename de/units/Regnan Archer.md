@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /de/units/Regnan Archer/
 excerpt: "Einheiten Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Regnanbogensch."
 toc: true

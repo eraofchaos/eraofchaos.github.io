@@ -3,7 +3,7 @@ title: "Elementale della pietra"
 permalink: /it/units/Stone Elemental/
 excerpt: "Unità L'Elementale della pietra è il risultato della fusione di numerosi minerali attraverso l'intervento di processi geologici. È in grado di dividersi in Elementali più piccoli, che continuano imperterriti a combattere."
 unitID: 905
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Elementale della pietra"
 toc: true

@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /it/units/Storm Elemental/
 excerpt: "Unità Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Elementale tempesta"
 toc: true
@@ -66,40 +66,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Tempesta di fulmini
 
- **Awaking Description:** null
+ **Awaking Description:** Sprigionando fulmini e saette a non finire, gli Elementali della tempesta affrontano una prova disponibile solo nel Piano di Confluenza. La missione affidata dai quattro grandi Elementali al celeste regno dei tuoni consiste nel far risorgere tutti gli Elementali della tempesta, facendo un sapiente uso dei fulmini per scatenare un colossale evento atmosferico che coprirà tutta la terra!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Schiera un Elementale della tempesta con almeno </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unità a distanza e sconfiggi </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> ondate di Morti viventi nella Cripta in una battaglia sola. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Nell'Avventura della Gilda del Sottosuolo, occupa la città </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> volta.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Tempesta di fulmini nei livelli del Sottosuolo 17-2 e 17-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Schiera un Elementale della tempesta e vinci </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> battaglia del Duello dei Campioni.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Catena folgorante
+ **Description:** <span style="color: #48b946;font-size:18px"><Segnale folgorante></span><span style="color: #645252;font-size:18px"> All'inizio della battaglia, l'Elementale della tempesta causa <Folgorazione> a tutte le unità nemiche.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Fulmine nelle vene
+ **Description:** <span style="color: #48b946;font-size:18px"><Segnale folgorante></span><span style="color: #645252;font-size:18px"> L'Elementale della tempesta lancia <Segnale folgorante> ogni 30 secondi.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Campo di plasma
+ **Description:** <span style="color: #48b946;font-size:18px"><Fulmine rimbalzante></span><span style="color: #645252;font-size:18px"> Raddoppia la probabilità di attivazione della tecnica.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Fulmine esplosivo
+ **Description:** <span style="color: #48b946;font-size:18px"><Fulmine rimbalzante></span><span style="color: #645252;font-size:18px"> Raddoppia il danno della tecnica.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Aura della Confluenza
+ **Description:** <span style="color: #48b946;font-size:18px"><Forza elementale></span><span style="color: #645252;font-size:18px">Quando un eroe lancia un incantesimo di tipo Aria, aumenta del 25% la Vel ATT di due unità casuali nelle retrovie per 10 secondi.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Esplosione della Confluenza
+ **Description:** <span style="color: #48b946;font-size:18px"><Forza elementale></span><span style="color: #645252;font-size:18px"> Quando un eroe lancia un incantesimo di tipo Aria, l'Elementale della tempesta lancia automaticamente <Fulmine rimbalzante> 1 volta, infliggendo danni pari al 300% del proprio attacco alle unità bersaglio.</span>
 
 ## Technical info
  **runart:** 0

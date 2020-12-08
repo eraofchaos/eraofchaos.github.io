@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Bastion -  Units"
 permalink: /fr/units/Fraction Bastion/
 excerpt: "Fraction Bastion - List of Units in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Fraction Bastion"
 toc: false

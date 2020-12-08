@@ -3,7 +3,7 @@ title: "Picchiere"
 permalink: /it/units/Pikeman/
 excerpt: "Unità I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione."
 unitID: 101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Picchiere"
 toc: true

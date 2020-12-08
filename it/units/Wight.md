@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /it/units/Wight/
 excerpt: "Unità Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Anima"
 toc: true

@@ -1,15 +1,15 @@
 ---
 title: "Ящер"
 permalink: /ru/units/Lizardman/
-excerpt: "Отряды Смертоносные ночные охотники. Яд на их стрелах достаточно силен, чтобы прикончить любую цель."
+excerpt: "Отряды null"
 unitID: 802
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Ящер"
 toc: true
 ---
 ## General information
- **Description:** Смертоносные ночные охотники. Яд на их стрелах достаточно силен, чтобы прикончить любую цель.
+ **Description:** null
 
  **Class:** Стрелковый
 
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

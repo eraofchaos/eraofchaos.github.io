@@ -1,18 +1,15 @@
 ---
 title: "Leprecauno"
 permalink: /it/units/Leprechaun/
-excerpt: "Unità "
+excerpt: "Unità Coperti da vesti di un verde brillante, i Leprecauni erano un tempo semplici figli della foresta e vivevano liberi e spensierati sotto l'egida dell'Albero del Mondo. Tuttavia, i corni di guerra che risuonano in tutta l'Erathia hanno donato loro il coraggio necessario a proteggere l'Albero."
 unitID: 909
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Leprecauno"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
- **Description:** 
+ **Description:** Coperti da vesti di un verde brillante, i Leprecauni erano un tempo semplici figli della foresta e vivevano liberi e spensierati sotto l'egida dell'Albero del Mondo. Tuttavia, i corni di guerra che risuonano in tutta l'Erathia hanno donato loro il coraggio necessario a proteggere l'Albero.
 
  **Class:** Difesa
 
@@ -20,7 +17,7 @@ toc: true
 
  **Fraction:** [Confluenza](/it/units/Fraction Confluenza)
 
- **Race:** Domatore
+ **Race:** Unicorno
 
  **Members:** x1
 
@@ -39,17 +36,17 @@ toc: true
  **Info2:** 
 
 ## Skills
-### 1 Skill: 
- **Description:** 
+### 1 Skill: Pugno diretto
+ **Description:** <span style="color: #645252;font-size:20px">Il Leprecauno infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT all'unità bersaglio ogni 5 secondi e la </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordisce></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 2 secondi. Inoltre, riduce di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> la Perforazione di 1 unità da mischia e 1 unità a distanza/incantatore scelte casualmente, e infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT. L'effetto dura 6 secondi ed è cumulabile fino a 3 volte.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Quando viene attivata la tecnica, aumenta ulteriormente DAN e Vel ATT del Leprecauno (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto dura 15 secondi ed è cumulabile fino a 40 volte.</span><span style="color: black">
 
 ### 2 Skill: Sorte
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Il Leprecauno lancia <Sorte> su tutte le unità alleate ogni 10 secondi, aumentandone Schivata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">), Tenacia (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 5 secondi. L'effetto è raddoppiato per le unità da 4 membri e quadruplicato per le unità da 9 e 16 membri. L'effetto per il Leprecauno è moltiplicato da 3 a 10 volte. Se l'effetto viene moltiplicato 8 o più volte, <Pugno diretto> viene attivato 1 volta in più.</span><span style="color: black">
 
 ### 3 Skill: Forza elementale
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Il Leprecauno gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Schivata aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">), e valore <scudo> aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quando il Leprecauno è sul campo di battaglia, aumenta il valore <scudo> di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> e il CRIT di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> per tutte le unità alleate.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Per una sola volta, il Leprecauno non può subire danni singoli che eccedono il 20% dei suoi PF massimi.</span><span style="color: black">
 
-### 4 Skill: 
- **Description:** 
+### 4 Skill: Parata tattica
+ **Description:** <span style="color: #645252;font-size:20px">Quando il Leprecauno subisce un colpo critico, il suo valore <scudo> aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px"> e lancia automaticamente <Pugno diretto>. L'effetto dura 10 secondi e ha un recupero di 5 secondi.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quando il Leprecauno effettua una Schivata, recupera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi. Recupero: 5 secondi.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quando il Leprecauno effettua una Parata, lancia automaticamente <Pugno diretto>. Recupero: 2 secondi.</span><span style="color: black">
 
 ### 5 Skill: Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -73,36 +70,36 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Description:** 
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. 
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. 
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): 
+ **Description:** 
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): 
+ **Description:** 
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): 
+ **Description:** 
 
-### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): 
+ **Description:** 
 
-### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): 
+ **Description:** 
 
-### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): 
+ **Description:** 
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /fr/units/Revyaratan/
 excerpt: "Unités Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Revyaratan"
 toc: true

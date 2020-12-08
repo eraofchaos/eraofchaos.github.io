@@ -3,7 +3,7 @@ title: "Pesadilla"
 permalink: /es/units/Nightmare/
 excerpt: "Unidades La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Pesadilla"
 toc: true

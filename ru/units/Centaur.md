@@ -3,7 +3,7 @@ title: "Кентавр"
 permalink: /ru/units/Centaur/
 excerpt: "Отряды Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку."
 unitID: 201
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Кентавр"
 toc: true
@@ -48,7 +48,7 @@ toc: true
 ### 4 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Кентаврам дается дополнительно 2% к сопротивлению отряда урону за каждый оборонительный отряд на поле боя. </span><span style="color: black">
 
-### 5 Skill: Спокойное распространение
+### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Отметка ненависти

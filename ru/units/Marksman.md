@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /ru/units/Marksman/
 excerpt: "Отряды Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Лучник"
 toc: true
@@ -70,7 +70,7 @@ toc: true
 
  **Awaking Name:** Опытный лучник
 
- **Awaking Description:** Благодаря тренировкам Валески мастерство лучников растет не по дням, а по часам. Они - основная сила Замка на поле боя.
+ **Awaking Description:** null
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Используйте лучников и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Замка, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>

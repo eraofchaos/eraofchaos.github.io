@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /es/units/Centaur/
 excerpt: "Unidades Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración."
 unitID: 201
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Centauro"
 toc: true

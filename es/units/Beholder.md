@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /es/units/Beholder/
 excerpt: "Unidades Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Observador"
 toc: true

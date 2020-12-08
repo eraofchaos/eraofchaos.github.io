@@ -3,7 +3,7 @@ title: "Повелитель акул"
 permalink: /ru/units/Shark Trainer/
 excerpt: "Отряды Повелитель акул"
 unitID: 9909
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Повелитель акул"
 toc: true
@@ -71,7 +71,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** Разбойники на акулах
+ **Awaking Name:** null
 
  **Awaking Description:** null
 

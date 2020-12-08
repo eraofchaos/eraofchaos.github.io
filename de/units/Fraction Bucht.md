@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Bucht -  Units"
 permalink: /de/units/Fraction Bucht/
 excerpt: "Fraction Bucht - List of Units in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Fraction Bucht"
 toc: false

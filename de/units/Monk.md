@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /de/units/Monk/
 excerpt: "Einheiten Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Mönch"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Zelot
 
  **Awaking Description:** Die Zeloten behaupten, dass sie vom Erzengel gesegnet seien. Nicht von dem Erzengel, den man im Kampf antrifft, sondern vom wahren Orakel. Sie wirken sogar einen mächtigen göttlichen Zauberer, um ihre Behauptung zu beweisen.
 
@@ -83,23 +83,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Inquisition des Heiligen Lichts
+ **Description:** <span style="color: #48b946;font-size:18px"><Segnung der Tapferen></span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Zu Beginn des Kampfes erhöht der Mönch den Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 60 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes fügt jede Mönch-Einheit gegnerischen Inferno-Einheiten ein Mal alle 2 Sekunden Schaden in Höhe von 10 % ihres ANG zu.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Segen des Heiligen Lichts
+ **Description:** <span style="color: #48b946;font-size:18px"><Segnung der Tapferen></span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Ist der Mönch auf dem Schlachtfeld anwesend, erhöht sich der Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 120 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes heilt jede Mönch-Einheit bei verbündeten Schloss-Einheiten ein Mal alle 2 Sekunden LP in Höhe von 10 % ihres ANG.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Strahlender Segen
+ **Description:** <span style="color: #48b946;font-size:18px"><Meditation></span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch das Mana der Helden um 10. Die AKZ beträgt 3 Sekunden.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Majestätische Gnade
+ **Description:** <span style="color: #48b946;font-size:18px"><Meditation></span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch die Mana-Erholung um 0,5. Die AKZ beträgt 3 Sekunden. Der Mana-Erholung-Buff kann bis zu 4 Mal ausgelöst werden.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Weises Urteil
+ **Description:** <span style="color: #48b946;font-size:18px"><Erholung></span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, beginnt zudem ein 3-stufiger Angriff gegen die gegnerische Einheit mit den geringsten LP, der Schaden in Höhe von 150 % des eigenen ANG zufügt.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Psalm der Messe
+ **Description:** <span style="color: #48b946;font-size:18px"><Erholung></span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, wird außerdem die verbündete Einheit mit den geringsten LP in 3 Stufen um LP in Höhe von 150 % des eigenen ANG geheilt.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Golem draconico"
 permalink: /it/units/Dragon Golem/
 excerpt: "Unità L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile."
 unitID: 609
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Golem draconico"
 toc: true

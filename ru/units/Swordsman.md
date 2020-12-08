@@ -3,7 +3,7 @@ title: "Мечник"
 permalink: /ru/units/Swordsman/
 excerpt: "Отряды В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Мечник"
 toc: true
@@ -75,7 +75,7 @@ toc: true
 ### Awaking Tasks
  1. null
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
+ 2. null
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ крестоносцев на уровнях 15-2 и 15-4 в Подземелье.</span>
 

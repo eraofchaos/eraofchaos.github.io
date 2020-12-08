@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /fr/units/Ice Elemental/
 excerpt: "Unités Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Esprit de la neige silencieux
 
  **Awaking Description:** null
 

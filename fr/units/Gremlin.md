@@ -3,7 +3,7 @@ title: "Lutin"
 permalink: /fr/units/Gremlin/
 excerpt: "Unités Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Lutin"
 toc: true

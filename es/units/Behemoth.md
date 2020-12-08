@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /es/units/Behemoth/
 excerpt: "Unidades Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos."
 unitID: 407
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Behemoth"
 toc: true

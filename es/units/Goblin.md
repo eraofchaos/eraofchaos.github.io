@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /es/units/Goblin/
 excerpt: "Unidades Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo."
 unitID: 401
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Goblin"
 toc: true

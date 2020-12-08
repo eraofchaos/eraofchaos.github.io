@@ -3,7 +3,7 @@ title: "Cavaliere nero"
 permalink: /it/units/Black Knight/
 excerpt: "Unità I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Cavaliere nero"
 toc: true

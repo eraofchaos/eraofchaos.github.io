@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /de/units/Storm Elemental/
 excerpt: "Einheiten Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Sturmelementar"
 toc: true
@@ -66,40 +66,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Blitzgewitter
 
- **Awaking Description:** null
+ **Awaking Description:** Im unaufhörlichen Blitz und Donner nehmen sich die Sturmelementare einer Prüfung an, die nur der Konflux-Ebene gehört. Die Mission, die die vier großen Elementare diesem Himmelreich des Donners anvertraut haben, besteht darin, jeden Sturmelementar wiederauferstehen zu lassen, indem man die Macht des Blitzes nutzt, um einen Sturm zu entfesseln, der über das Land fegen wird!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Setze einen Sturmelementar und mindestens </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Fernkampf-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> Wellen Wandelnder Toter in der Krypta einmal zu besiegen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Besetze die Stadt im Gildenabenteuer-Untergrund </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Mal.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Blitzsturm-Seelen im Untergrund: Stufen 17-2 und 17-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Setze Sturmelementar ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Schockkette
+ **Description:** <span style="color: #48b946;font-size:18px"><Statische Markierung></span><span style="color: #645252;font-size:18px"> Zu Beginn der Schlacht wendet der Sturmelementar bei allen gegnerischen Einheiten Schock an.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Blitzimpulse
+ **Description:** <span style="color: #48b946;font-size:18px"><Statische Markierung></span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt alle 30 Sekunden <Statische Markierung>.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Plasmafeld
+ **Description:** <span style="color: #48b946;font-size:18px"><Entfesselter Blitz></span><span style="color: #645252;font-size:18px"> Verdoppelt die Auslösewahrscheinlichkeit der Fähigkeit.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Explosiver Blitz
+ **Description:** <span style="color: #48b946;font-size:18px"><Entfesselter Blitz></span><span style="color: #645252;font-size:18px"> Verdoppelt den Fähigkeitenschaden.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Konflux-Aura
+ **Description:** <span style="color: #48b946;font-size:18px"><Kraft der Elemente></span><span style="color: #645252;font-size:18px"> Erhöht 10 Sekunden lang das Angriffstempo bei zwei zufälligen Einheiten der hinteren Reihe um 25 %, wenn ein Held einen Luftzauber wirkt.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Konflux-Explosion
+ **Description:** <span style="color: #48b946;font-size:18px"><Kraft der Elemente></span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt garantiert 1 Mal <Entfesselter Blitz>, wenn ein Held einen Luftzauber wirkt, was Zieleinheiten Schaden in Höhe von 300 % des eigenen ANG zufügt.</span>
 
 ## Technical info
  **runart:** 0

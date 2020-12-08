@@ -3,7 +3,7 @@ title: "Копейщик"
 permalink: /ru/units/Pikeman/
 excerpt: "Отряды Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе."
 unitID: 101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Копейщик"
 toc: true
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

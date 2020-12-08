@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /de/units/Red Dragon/
 excerpt: "Einheiten Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Roter Drache"
 toc: true

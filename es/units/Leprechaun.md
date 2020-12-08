@@ -1,18 +1,15 @@
 ---
 title: "Duendecillo"
 permalink: /es/units/Leprechaun/
-excerpt: "Unidades "
+excerpt: "Unidades En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo."
 unitID: 909
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Duendecillo"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
- **Description:** 
+ **Description:** En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo.
 
  **Class:** Defensa
 
@@ -20,7 +17,7 @@ toc: true
 
  **Fraction:** [Conflujo](/es/units/Fraction Conflujo)
 
- **Race:** Amaestrador
+ **Race:** Unicornio
 
  **Members:** x1
 
@@ -39,17 +36,17 @@ toc: true
  **Info2:** 
 
 ## Skills
-### 1 Skill: 
- **Description:** 
+### 1 Skill: Golpe directo
+ **Description:** <span style="color: #645252;font-size:20px">La unidad Duendecillo inflige un daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su propio ATQ a la unidad objetivo actual cada 5 s y la </span><span style="color: black"><span style="color: #48b946;font-size:20px">aturde</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 2 s. También reduce la Penetración de 1 unidad cuerpo a cuerpo aleatoria y de una unidad lanzadora/a distancia en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> mientras inflige daño adicional equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su propio ATQ. El efecto dura 6 s y se puede acumular hasta 3 veces.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Siempre que se activa esta habilidad, la velocidad de ataque y el daño de unidad del Duendecillo aumentan en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto dura 15 s y se puede acumular hasta 40 veces.</span><span style="color: black">
 
 ### 2 Skill: Fortuna
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">El Duendecillo lanza Fortuna sobre todas las unidades amistosas una vez cada 10 s, aumentando la esquiva de todas las unidades amistosas en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, la tenacidad en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la DEF en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s. El efecto de la habilidad se duplicará en unidades de 4 hombres y se cuadruplicará en unidades de 9 y 16 hombres. El Duendecillo ganara entre 3-10 veces el efecto de la habilidad. Si recibe un multiplicador de efecto de la habilidad de 8 o más, <Golpe directo> se activará 1 vez más.</span><span style="color: black">
 
 ### 3 Skill: Fuerza elemental
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de unidad del Duendecillo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DEF en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la esquiva en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el valor de Escudo en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando el Duendecillo está en el campo de batalla, aumenta el valor de Escudo de las unidades amistosas en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Durante un solo caso en el que el Duendecillo reciba daño, se evitará parte del daño que supere el 20% de los PV máximos del Duendecillo.</span><span style="color: black">
 
-### 4 Skill: 
- **Description:** 
+### 4 Skill: Bloqueo táctico
+ **Description:** <span style="color: #645252;font-size:20px">Cuando un golpe crítico alcanza al Duendecillo, su valor de escudo aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y se activa un <Golpe directo>. Este efecto dura 10 s y tiene una recarga de 5 s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando se activa la esquiva del Duendecillo, recupera un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos. La recarga es de 5 s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando se activa el bloqueo del Duendecillo, se activa un <Golpe directo> inmediatamente. La recarga es de 2 s.</span><span style="color: black">
 
 ### 5 Skill: Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -73,36 +70,36 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Description:** 
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. 
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. 
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): 
+ **Description:** 
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+### 2nd Skill (or 1st): 
+ **Description:** 
 
-### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+### 3rd Skill (or 4th): 
+ **Description:** 
 
-### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): 
+ **Description:** 
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">Aplica <deterrence> al objetivo al enfrentarse a unidades de 1 o 4 miembros. <Deterrence>: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): 
+ **Description:** 
 
-### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px"><Matanza de Dragones></span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): 
+ **Description:** 
 
 ## Technical info
  **runart:** 0

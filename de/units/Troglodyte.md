@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /de/units/Troglodyte/
 excerpt: "Einheiten Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Troglodyt"
 toc: true

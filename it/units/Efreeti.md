@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /it/units/Efreeti/
 excerpt: "Unità Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Efreet"
 toc: true

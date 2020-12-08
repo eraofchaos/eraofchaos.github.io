@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /de/units/Medusa/
 excerpt: "Einheiten Wunderschöne Frauen mit Schlangenkörpern und Schlangenhaaren. Wer in ihre Augen schaut, wird zu Stein."
 unitID: 704
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Medusa"
 toc: true

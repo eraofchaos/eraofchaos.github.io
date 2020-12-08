@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /ru/units/Wood Elf/
 excerpt: "Отряды Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Лесной эльф"
 toc: true
@@ -48,7 +48,7 @@ toc: true
 ### 4 Skill: Сосредоточить огонь на вражеском лидере
  **Description:** <span style="color: #645252;font-size:20px">Лесные эльфы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Лесным эльфам дается дополнительно 40 ед. критического удара за каждый стрелковый отряд на поле боя.</span><span style="color: black">
 
-### 5 Skill: Спокойное распространение
+### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Отметка ненависти
@@ -73,7 +73,7 @@ toc: true
  **Awaking Description:** Лесные птицы служат для них глазами, их стрелы разят без промаха, и они едины с природой. Благородные охотники, воплощение воли огромного леса, высокие эльфы Тулалиона!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте лесных эльфов и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Бастиона, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз пройти уровень «Безжалостный» в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 

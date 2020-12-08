@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /fr/units/Walking Dead/
 excerpt: "Unités Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Trépassé"
 toc: true

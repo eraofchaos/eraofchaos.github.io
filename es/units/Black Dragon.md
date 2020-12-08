@@ -3,7 +3,7 @@ title: "Dragón Negro"
 permalink: /es/units/Black Dragon/
 excerpt: "Unidades Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Dragón Negro"
 toc: true

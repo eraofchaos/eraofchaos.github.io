@@ -3,7 +3,7 @@ title: "Schwarzer Drache"
 permalink: /de/units/Black Dragon/
 excerpt: "Einheiten Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Schwarzer Drache"
 toc: true

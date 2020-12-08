@@ -3,7 +3,7 @@ title: "Vampir"
 permalink: /de/units/Vampire/
 excerpt: "Einheiten Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Vampir"
 toc: true

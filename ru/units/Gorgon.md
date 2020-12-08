@@ -1,15 +1,15 @@
 ---
 title: "Горгона"
 permalink: /ru/units/Gorgon/
-excerpt: "Отряды Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
+excerpt: "Отряды null"
 unitID: 805
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Горгона"
 toc: true
 ---
 ## General information
- **Description:** Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью.
+ **Description:** null
 
  **Class:** Защита
 

@@ -3,7 +3,7 @@ title: "Aeronave Mágica"
 permalink: /es/units/Magic Airship/
 excerpt: "Unidades La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Aeronave Mágica"
 toc: true

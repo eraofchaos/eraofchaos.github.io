@@ -3,7 +3,7 @@ title: "Ogro"
 permalink: /es/units/Ogre/
 excerpt: "Unidades Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Ogro"
 toc: true

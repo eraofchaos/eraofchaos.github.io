@@ -3,7 +3,7 @@ title: "Diavolo"
 permalink: /it/units/Devil/
 excerpt: "Unità Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Diavolo"
 toc: true

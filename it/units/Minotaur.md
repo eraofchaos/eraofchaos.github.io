@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /it/units/Minotaur/
 excerpt: "Unità Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Minotauro"
 toc: true

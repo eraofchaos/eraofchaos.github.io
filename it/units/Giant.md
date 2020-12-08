@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /it/units/Giant/
 excerpt: "Unità Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Gigante"
 toc: true
@@ -96,10 +96,10 @@ toc: true
  **Description:** Quando usa <span style="color: #48b946;font-size:18px"><Furia del tuono></span><span style="color: #645252;font-size:18px">, il Gigante aumenta il proprio ATT e il proprio CRIT in proporzione a quanto ha ridotto gli stessi attributi nelle unità colpite. Inoltre, il suo DAN CRIT aumenta del 20% for 10 secondi. <Furia del tuono> ha una probabilità del 15% di attivarsi quando gli eroi alleati o nemici lanciano incantesimi di tipo Aria.</span>
 
 ### 5th Skill (or 6th): Imitazione elettromagnetica
- **Description:** <span style="color: #48b946;font-size:18px"><Nemesi></span><span style="color: #645252;font-size:18px"> aumenta la Vel ATT dell'1% e la DIF di 16 con ogni attacco base. L'effetto è cumulabile fino a 60 volte, dura 10 secondi e ha una probabilità del 20% di applicare <Campo magnetico> per 5 secondi. Le unità da mischia che attaccano un'unità con <Campo magnetico> hanno una probabilità del 40% di essere <stordite> per 2 secondi. Mentre il <Campo magnetico> è attivo, il Gigante è immune al danno degli incantesimi di tipo Aria. Il DAN del Gigante aumenta del 15% e il DAN degli attacchi base è raddoppiato contro unità da 1 o 4 membri. Se attacca un'unità da 9 o 16 membri, il Gigante ha una probabilità del 5% di <stordire> le unità bersaglio per 2 secondi quando danneggia 4 membri delle unità bersaglio.</span>
+ **Description:** <span style="color: #48b946;font-size:18px"><Nemesi></span><span style="color: #645252;font-size:18px"> aumenta la Vel ATT dell'1% e la DIF di 16 con ogni attacco base. L'effetto è cumulabile fino a 60 volte, dura 10 secondi e ha una probabilità del 20% di applicare <Campo magnetico> per 5 secondi. Le unità da mischia che attaccano un'unità con <Campo magnetico> hanno una probabilità del 40% di essere <stordite> per 2 secondi. Mentre il <Campo magnetico> è attivo, il Gigante è immune ai danni da Aria. Il DAN del Gigante aumenta del 15% e il DAN degli attacchi base aumenta del 50% contro unità da 1 o 4 membri. Se attacca un'unità da 9 o 16 membri, il Gigante ha una probabilità del 5% di <stordire> le unità bersaglio per 2 secondi quando danneggia 4 membri delle unità bersaglio.</span>
 
 ### 6th Skill (or 5th): Risonanza magnetica
- **Description:** Quando <span style="color: #48b946;font-size:18px"><Nemesi></span><span style="color: #645252;font-size:18px"> è attiva, gli attacchi base del Gigante hanno una probabilità del 5% di attivare <Furia del tuono> e una probabilità del 20% di applicare <Campo magnetico> per 5 secondi. Le unità da mischia che attaccano un'unità con <Campo magnetico> hanno una probabilità del 40% di essere <stordite> per 2 secondi. Mentre il <Campo magnetico> è attivo, il Gigante è immune al danno degli incantesimi di tipo Aria. Il DAN del Gigante aumenta del 15% e il DAN degli attacchi base è raddoppiato contro unità da 1 o 4 membri. Se attacca un'unità da 9 o 16 membri, il Gigante ha una probabilità del 5% di <stordire> le unità bersaglio per 2 secondi quando danneggia 4 membri delle unità bersaglio.</span>
+ **Description:** Quando <span style="color: #48b946;font-size:18px"><Nemesi></span><span style="color: #645252;font-size:18px"> è attiva, gli attacchi base del Gigante hanno una probabilità del 5% di attivare <Furia del tuono> e una probabilità del 20% di applicare <Campo magnetico> per 5 secondi. Le unità da mischia che attaccano un'unità con <Campo magnetico> hanno una probabilità del 40% di essere <stordite> per 2 secondi. Mentre il <Campo magnetico> è attivo, il Gigante è immune ai danni da Aria. Il DAN del Gigante aumenta del 15% e il DAN degli attacchi base aumenta del 50% contro unità da 1 o 4 membri. Se attacca un'unità da 9 o 16 membri, il Gigante ha una probabilità del 5% di <stordire> le unità bersaglio per 2 secondi quando danneggia 4 membri delle unità bersaglio.</span>
 
 ## Technical info
  **runart:** 1

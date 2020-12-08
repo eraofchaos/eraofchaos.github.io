@@ -3,7 +3,7 @@ title: "Dragón Rojo"
 permalink: /es/units/Red Dragon/
 excerpt: "Unidades Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones."
 unitID: 708
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Dragón Rojo"
 toc: true

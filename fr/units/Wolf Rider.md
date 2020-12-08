@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /fr/units/Wolf Rider/
 excerpt: "Unités Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Chevaucheur de loup"
 toc: true

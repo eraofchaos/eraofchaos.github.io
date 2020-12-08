@@ -3,7 +3,7 @@ title: "Elementale psichico"
 permalink: /it/units/Psychic Elemental/
 excerpt: "Unità Un'entità nata dalla forza delle idee del mondo materiale. È in grado di colpire direttamente la mente dei propri nemici. Chi non possiede forza mentale sufficiente a resistergli viene risucchiato in una spirale di caos e delirio."
 unitID: 906
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Elementale psichico"
 toc: true

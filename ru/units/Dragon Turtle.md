@@ -3,7 +3,7 @@ title: "Панцирный дракон"
 permalink: /ru/units/Dragon Turtle/
 excerpt: "Отряды У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Панцирный дракон"
 toc: true

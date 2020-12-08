@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /it/units/Bone Dragon/
 excerpt: "Unità I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Drago scheletrico"
 toc: true

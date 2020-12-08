@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /de/units/Ice Elemental/
 excerpt: "Einheiten Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Eiselementar"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Stiller Schneegeist
 
  **Awaking Description:** null
 

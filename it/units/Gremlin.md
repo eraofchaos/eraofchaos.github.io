@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /it/units/Gremlin/
 excerpt: "Unità I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Gremlin"
 toc: true

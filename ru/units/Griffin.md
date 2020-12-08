@@ -3,7 +3,7 @@ title: "Грифон"
 permalink: /ru/units/Griffin/
 excerpt: "Отряды null"
 unitID: 103
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Грифон"
 toc: true
@@ -36,7 +36,7 @@ toc: true
  **Info2:** null
 
 ## Skills
-### 1 Skill: Ответный удар в пикировании
+### 1 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Когда грифоны подвергаются атаке, у них есть шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 отрядам. При обычной атаке также есть шанс выполнить Пикирование.</span><span style="color: black">
 
 ### 2 Skill: Управление башней
@@ -95,7 +95,7 @@ toc: true
 ### 4th Skill (or 3rd): Лукавый строй
  **Description:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
+### 5th Skill (or 6th): null
  **Description:** 
 
 ### 6th Skill (or 5th): null

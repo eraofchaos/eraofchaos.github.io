@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /it/units/Pit Fiend/
 excerpt: "Unità I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Demone dell'abisso"
 toc: true

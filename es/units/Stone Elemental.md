@@ -3,7 +3,7 @@ title: "Elemental de Piedra"
 permalink: /es/units/Stone Elemental/
 excerpt: "Unidades El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Elemental de Piedra"
 toc: true

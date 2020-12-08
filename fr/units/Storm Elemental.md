@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /fr/units/Storm Elemental/
 excerpt: "Unités Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -66,40 +66,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Orage
 
- **Awaking Description:** null
+ **Awaking Description:** Sous des éclairs et du tonnerre à n'en plus finir, les Élémentaires de tempête se lancent dans une épreuve n'existant que sur le Plan du Conflux. La mission confiée à ce royaume céleste du tonnerre par les quatre grands Élémentaires consiste à redonner vie à chaque Élémentaire de tempête en utilisant la puissance de la foudre pour créer une tempête qui balaiera le monde !
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Déployez un Élémentaire de tempête et au moins </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unités à distance pour venir à bout de </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> vagues de Trépassés dans la crypte en une fois. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Dans le Souterrain de l'aventure de guilde, occupez la ville </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px">fois.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes d'Orage dans les niveaux 17-2 et 17-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez un Élémentaire de tempête et remportez </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> combat de Duel de champions.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Chaîne statique
+ **Description:** <span style="color: #48b946;font-size:18px"><Marqueur statique> :</span><span style="color: #645252;font-size:18px"> Lorsque le combat commence, l'Élémentaire de tempête inflige <Statique> à toutes les unités ennemies.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Lésion foudroyante
+ **Description:** <span style="color: #48b946;font-size:18px"><Marqueur statique> :</span><span style="color: #645252;font-size:18px"> L'Élémentaire de tempête lance <Marqueur statique> toutes les 30 secondes.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Champ de plasma
+ **Description:** <span style="color: #48b946;font-size:18px"><Rebond électrique> :</span><span style="color: #645252;font-size:18px"> Double les chances d'activation de la compétence.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Éclair explosif
+ **Description:** <span style="color: #48b946;font-size:18px"><Rebond électrique> :</span><span style="color: #645252;font-size:18px"> Double les dégâts de la compétence.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Aura du Conflux
+ **Description:** <span style="color: #48b946;font-size:18px"><Force élémentaire> :</span><span style="color: #645252;font-size:18px"> Augmente de 25 % la vitesse d'attaque de deux unités aléatoires en ligne arrière pendant 10 secondes lorsqu'un Héros lance un sort d'air.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Explosion du Conflux
+ **Description:** <span style="color: #48b946;font-size:18px"><Force élémentaire> :</span><span style="color: #645252;font-size:18px"> L'Élémentaire de tempête a 100 % de chance de lancer <Rebond électrique> 1 fois lorsqu'un Héros lance un sort d'air, infligeant des dégâts équivalents à 300 % de l'ATQ aux unités cibles.</span>
 
 ## Technical info
  **runart:** 0

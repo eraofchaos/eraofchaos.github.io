@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /de/units/Lich/
 excerpt: "Einheiten Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Lich"
 toc: true

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "List of ALL Units in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: en
 ref: "index.md"
 toc: false
@@ -49,44 +49,45 @@ classes: wide
   | 35 | [Ice Elemental](/units/Ice Elemental/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 36 | [Imp](/units/Imp/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 51.3 | 1224 |  xiaoemo  |
   | 37 | [Iron Golem](/units/Iron Golem/) | Defense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  tieren  |
-  | 38 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  wuyao  |
-  | 39 | [Lizardman](/units/Lizardman/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |  xiyiren  |
-  | 40 | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |  reqiqiu  |
-  | 41 | [Manticore](/units/Manticore/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  shixie  |
-  | 42 | [Marksman](/units/Marksman/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  nushou  |
-  | 43 | [Medusa](/units/Medusa/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  meidusha  |
-  | 44 | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |  meirenyu  |
-  | 45 | [Minotaur](/units/Minotaur/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  niutouguai  |
-  | 46 | [Monk](/units/Monk/) | Caster | - | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  senglv  |
-  | 47 | [Mummy](/units/Mummy/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 141.0 | 2691 |  munaiyi  |
-  | 48 | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  najianvyao  |
-  | 49 | [Nightmare](/units/Nightmare/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |  mengyan  |
-  | 50 | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.6 | 2523 |  shirenmo  |
-  | 51 | [Orc](/units/Orc/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  shourentoufushou  |
-  | 52 | [Paladin](/units/Paladin/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
-  | 53 | [Pegasus](/units/Pegasus/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  feima  |
-  | 54 | [Pikeman](/units/Pikeman/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  jibing  |
-  | 55 | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  xieshenwang  |
-  | 56 | [Psychic Elemental](/units/Psychic Elemental/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  jingshenyuansu  |
-  | 57 | [Regnan Archer](/units/Regnan Archer/) | Ranged | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |  ruigenanushou  |
-  | 58 | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  haidao  |
-  | 59 | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |  yurenyongshi  |
-  | 60 | [Revyaratan](/units/Revyaratan/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1267.1 | 7128 |  haiguai  |
-  | 61 | [Roc](/units/Roc/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 4978 |  leiniao  |
-  | 62 | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  haiyuansu  |
-  | 63 | [Serpent Fly](/units/Serpent Fly/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |  longying  |
-  | 64 | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  kuloubing  |
-  | 65 | [Spartan Warriors](/units/Spartan Warriors/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 216.0 | 2825 |  sibada  |
-  | 66 | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |  mofaxianling  |
-  | 67 | [Stone Elemental](/units/Stone Elemental/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |
-  | 68 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |  shixianggui  |
-  | 69 | [Storm Elemental](/units/Storm Elemental/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
-  | 70 | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
-  | 71 | [Troglodyte](/units/Troglodyte/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
-  | 72 | [Unicorn](/units/Unicorn/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
-  | 73 | [Vampire](/units/Vampire/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
-  | 74 | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
-  | 75 | [Wight](/units/Wight/) | Caster | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  youling  |
-  | 76 | [Wolf Rider](/units/Wolf Rider/) | Charging | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  langqibing  |
-  | 77 | [Wood Elf](/units/Wood Elf/) | Ranged | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  mujingling  |
-  | 78 | [Wyvern](/units/Wyvern/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |
+  | 38 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  conglinyaojing  |
+  | 39 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  wuyao  |
+  | 40 | [Lizardman](/units/Lizardman/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |  xiyiren  |
+  | 41 | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |  reqiqiu  |
+  | 42 | [Manticore](/units/Manticore/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  shixie  |
+  | 43 | [Marksman](/units/Marksman/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  nushou  |
+  | 44 | [Medusa](/units/Medusa/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  meidusha  |
+  | 45 | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |  meirenyu  |
+  | 46 | [Minotaur](/units/Minotaur/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  niutouguai  |
+  | 47 | [Monk](/units/Monk/) | Caster | - | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  senglv  |
+  | 48 | [Mummy](/units/Mummy/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 141.0 | 2691 |  munaiyi  |
+  | 49 | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  najianvyao  |
+  | 50 | [Nightmare](/units/Nightmare/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |  mengyan  |
+  | 51 | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.6 | 2523 |  shirenmo  |
+  | 52 | [Orc](/units/Orc/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  shourentoufushou  |
+  | 53 | [Paladin](/units/Paladin/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
+  | 54 | [Pegasus](/units/Pegasus/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  feima  |
+  | 55 | [Pikeman](/units/Pikeman/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  jibing  |
+  | 56 | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  xieshenwang  |
+  | 57 | [Psychic Elemental](/units/Psychic Elemental/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  jingshenyuansu  |
+  | 58 | [Regnan Archer](/units/Regnan Archer/) | Ranged | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |  ruigenanushou  |
+  | 59 | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  haidao  |
+  | 60 | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |  yurenyongshi  |
+  | 61 | [Revyaratan](/units/Revyaratan/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1267.1 | 7128 |  haiguai  |
+  | 62 | [Roc](/units/Roc/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 4978 |  leiniao  |
+  | 63 | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  haiyuansu  |
+  | 64 | [Serpent Fly](/units/Serpent Fly/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |  longying  |
+  | 65 | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  kuloubing  |
+  | 66 | [Spartan Warriors](/units/Spartan Warriors/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 216.0 | 2825 |  sibada  |
+  | 67 | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |  mofaxianling  |
+  | 68 | [Stone Elemental](/units/Stone Elemental/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |
+  | 69 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |  shixianggui  |
+  | 70 | [Storm Elemental](/units/Storm Elemental/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
+  | 71 | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
+  | 72 | [Troglodyte](/units/Troglodyte/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 73 | [Unicorn](/units/Unicorn/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
+  | 74 | [Vampire](/units/Vampire/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
+  | 75 | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
+  | 76 | [Wight](/units/Wight/) | Caster | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  youling  |
+  | 77 | [Wolf Rider](/units/Wolf Rider/) | Charging | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  langqibing  |
+  | 78 | [Wood Elf](/units/Wood Elf/) | Ranged | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  mujingling  |
+  | 79 | [Wyvern](/units/Wyvern/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |

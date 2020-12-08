@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /de/units/Gorgon/
 excerpt: "Einheiten Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Gorgone"
 toc: true

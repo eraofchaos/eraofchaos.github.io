@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /fr/units/Cavalier /
 excerpt: "Unités Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Cavalier"
 toc: true

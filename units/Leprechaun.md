@@ -1,18 +1,15 @@
 ---
 title: "Leprechaun"
 permalink: /units/Leprechaun/
-excerpt: "Units "
+excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: en
 ref: "Leprechaun"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
- **Description:** 
+ **Description:** Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree.
 
  **Class:** Defense
 
@@ -20,7 +17,7 @@ toc: true
 
  **Fraction:** [Conflux](/units/Fraction Conflux)
 
- **Race:** Beast Master
+ **Race:** Unicorn
 
  **Members:** x1
 
@@ -39,17 +36,17 @@ toc: true
  **Info2:** 
 
 ## Skills
-### 1 Skill: 
- **Description:** 
+### 1 Skill: Direct Punch
+ **Description:** <span style="color: #645252;font-size:20px">Leprechaun deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to the current target unit every 5s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">stuns</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 2s. Also reduces the Penetration of 1 random Melee unit and Ranged/Caster unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> while additionally dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK. This effect lasts for 6s and can stack up to 3 times.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Whenever skill is triggered, further increases Leprechaun's Unit DMG and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 15s and can stack up to 40 times.</span><span style="color: black">
 
 ### 2 Skill: Fortune
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Leprechaun casts Fortune on all friendly units once every 10s, increasing all friendly units' Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, Tenacity by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 5s. Skill effect will be doubled for 4-man units and quadrupled for 9- and 16-man units. Leprechaun will gain 3-10x the skill effect. If it gets a skill effect multiplier of 8 or higher, <Direct Punch> will trigger 1 additional time.</span><span style="color: black">
 
 ### 3 Skill: Elemental Force
- **Description:** 
+ **Description:** <span style="color: #645252;font-size:20px">Increases Leprechaun's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun is present on the battlefield, increases all friendly units' Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">During a single instance of Leprechaun taking damage, a part of damage that exceeds 20% of Leprechaun's max HP will be avoided.</span><span style="color: black">
 
-### 4 Skill: 
- **Description:** 
+### 4 Skill: Tactical Block
+ **Description:** <span style="color: #645252;font-size:20px">When Leprechaun is hit by a Critical Hit, its Shield Value will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and a <Direct Punch> will be triggered. This effect lasts for 10s and has a CD of 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Dodge is triggered, it will recover </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its max HP. CD is 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Block is triggered, a <Direct Punch> will be immediately triggered. CD is 2s.</span><span style="color: black">
 
 ### 5 Skill: Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
@@ -73,36 +70,36 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Description:** 
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. 
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. 
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): 
+ **Description:** 
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): 
+ **Description:** 
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): 
+ **Description:** 
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): 
+ **Description:** 
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): 
+ **Description:** 
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): 
+ **Description:** 
 
 ## Technical info
  **runart:** 0

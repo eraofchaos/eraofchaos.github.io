@@ -3,7 +3,7 @@ title: "Единорог"
 permalink: /ru/units/Unicorn/
 excerpt: "Отряды Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами."
 unitID: 206
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Единорог"
 toc: true
@@ -48,7 +48,7 @@ toc: true
 ### 4 Skill: Смелый лидер
  **Description:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
 
-### 5 Skill: Спокойное распространение
+### 5 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Отметка ненависти

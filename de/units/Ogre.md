@@ -3,7 +3,7 @@ title: "Oger"
 permalink: /de/units/Ogre/
 excerpt: "Einheiten Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: de
 ref: "Oger"
 toc: true

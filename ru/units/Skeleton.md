@@ -3,7 +3,7 @@ title: "Скелет"
 permalink: /ru/units/Skeleton/
 excerpt: "Отряды Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Скелет"
 toc: true

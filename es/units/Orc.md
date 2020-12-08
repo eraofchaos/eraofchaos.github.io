@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /es/units/Orc/
 excerpt: "Unidades Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Orco"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Comandante Orco
 
  **Awaking Description:** null
 

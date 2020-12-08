@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /es/units/Storm Elemental/
 excerpt: "Unidades Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -66,40 +66,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Tormenta de rayos
 
- **Awaking Description:** null
+ **Awaking Description:** En los truenos y rayos interminables, los Elementales de Tormenta se embarcan en una prueba que pertenece únicamente al Plano del Conflujo. La misión que los cuatro grandes Elementales confiaron a este reino de los cielos de los truenos es que renazcan todos los Elementales de Tormenta, usando el poder del rayo para preparar una tormenta que arrase la tierra.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Despliega un Elemental de Tormenta con al menos </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unidades a distancia y derrota </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> oleadas de Muertos Vivientes en la Cripta en una única batalla. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Durante la Aventura de Gremio en el Subterráneo, ocupa la ciudad </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> vez.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Tormenta de rayos en el Subterráneo: niveles 17-2 y 17-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega un Elemental de Tormenta y gana </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> batalla del Duelo de Campeones.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Cadena de estática
+ **Description:** <span style="color: #48b946;font-size:18px"><Marcador de estática></span><span style="color: #645252;font-size:18px"> Al principio de la batalla, el Elemental de Tormenta causa estática en todas las unidades enemigas.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Venas de rayo
+ **Description:** <span style="color: #48b946;font-size:18px"><Marcador de estática></span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanza <Marcador de estática> una vez cada 30 s.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Campo de plasma
+ **Description:** <span style="color: #48b946;font-size:18px"><Rebote de relámpagos></span><span style="color: #645252;font-size:18px"> Duplica la probabilidad de activar la habilidad.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Relámpago explosivo
+ **Description:** <span style="color: #48b946;font-size:18px"><Rebote de relámpagos></span><span style="color: #645252;font-size:18px"> Duplica el daño de habilidad.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Aura del Conflujo
+ **Description:** <span style="color: #48b946;font-size:18px"><Fuerza Elemental></span><span style="color: #645252;font-size:18px"> Aumenta la velocidad de ataque de dos unidades de retaguardia aleatorias en un 25% durante 10 s cuando un Héroe lanza un hechizo de aire.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Explosión del Conflujo
+ **Description:** <span style="color: #48b946;font-size:18px"><Fuerza elemental></span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanzará <Rebote de relámpagos> 1 vez cuando un Héroe lance un hechizo de tipo aire, infligiendo daño equivalente al 300% del ATQ propio a las unidades objetivo.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /fr/units/Demon/
 excerpt: "Unités Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: fr
 ref: "Démon"
 toc: true

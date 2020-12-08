@@ -3,7 +3,7 @@ title: "Мантикора"
 permalink: /ru/units/Manticore/
 excerpt: "Отряды null"
 unitID: 706
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: ru
 ref: "Мантикора"
 toc: true
@@ -46,7 +46,7 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Брызги ядовитой крови
- **Description:** <span style="color: #645252;font-size:20px">Если цель погибает, все вражеские отряды теряют 30% ЗЩТ и получают <span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Эффект активируется только один раз в течение всего боя.</span><span style="color: black">
+ **Description:** 
 
 ### 5 Skill: null
  **Description:** 

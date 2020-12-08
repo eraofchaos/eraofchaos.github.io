@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /it/units/Waspwort/
 excerpt: "Unità Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-08
 lang: it
 ref: "Erbavespa"
 toc: true
