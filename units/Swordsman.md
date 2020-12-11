@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Units The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: en
 ref: "Swordsman"
 toc: true

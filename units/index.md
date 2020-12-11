@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "List of ALL Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: en
 ref: "index.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | [Black Dragon](/units/Black Dragon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 430.0 | 8712 |  heilong  |
   | 9 | [Black Knight](/units/Black Knight/) | Charging | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
   | 10 | [Bone Dragon](/units/Bone Dragon/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |
-  | 11 | [Cavalier ](/units/Cavalier /) | Charging | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 11 | [Cavalier](/units/Cavalier/) | Charging | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 12 | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  banrenma  |
   | 13 | [Cyclops](/units/Cyclops/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5091 |  duyanjuren  |
   | 14 | [Demon](/units/Demon/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 114.4 | 2489 |  changjiaoemo  |

@@ -21,7 +21,7 @@ classes: wide
 
   To Be Done
 
-## This item contains:
+## This item drops:
 
   None
 

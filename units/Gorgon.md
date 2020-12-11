@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Units Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: en
 ref: "Gorgon"
 toc: true

@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: en
 ref: "Leprechaun"
 toc: true

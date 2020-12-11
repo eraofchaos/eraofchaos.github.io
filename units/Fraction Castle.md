@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Castle -  Units"
 permalink: /units/Fraction Castle/
 excerpt: "Fraction Castle - List of Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: en
 ref: "Fraction Castle"
 toc: false
@@ -19,6 +19,6 @@ classes: wide
   | 3 | [Griffin](/units/Griffin/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  shijiu  |
   | 4 | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
   | 5 | [Monk](/units/Monk/) | Caster | - | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  senglv  |
-  | 6 | [Cavalier ](/units/Cavalier /) | Charging | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 6 | [Cavalier](/units/Cavalier/) | Charging | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 7 | [Paladin](/units/Paladin/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
   | 8 | [Angel](/units/Angel/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |

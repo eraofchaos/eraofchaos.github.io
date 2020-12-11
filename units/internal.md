@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of INTERNAL (unreleased) Units"
 permalink: /units/internal/
 excerpt: "List of INTERNAL Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: en
 ref: "internal"
 toc: false
@@ -15,10 +15,10 @@ classes: wide
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
-  | 1 | [ Ice Demon](/units/ Ice Demon/) | Ranged | - | UR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |  yuansuzhihuiguan  |
-  | 2 | [ Infamous](/units/ Infamous/) | Defense | - | UR | Unknown: 4 (4). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |
-  | 3 | [Dark Champion](/units/Dark Champion/) | Offense | - | UR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |  sishen  |
-  | 4 | [Dragon Golem](/units/Dragon Golem/) | Defense | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |  kuileilong  |
+  | 1 | [Dark Champion](/units/Dark Champion/) | Offense | - | UR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |  sishen  |
+  | 2 | [Dragon Golem](/units/Dragon Golem/) | Defense | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |  kuileilong  |
+  | 3 | [Ice Demon](/units/Ice Demon/) | Ranged | - | UR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |  yuansuzhihuiguan  |
+  | 4 | [Infamous](/units/Infamous/) | Defense | - | UR | Unknown: 4 (4). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |
   | 5 | [Judicator](/units/Judicator/) | Caster | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |  shenpanguan  |
   | 6 | [Mantis](/units/Mantis/) | Offense | - | UR | Unknown: 4 (3). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1140.4 | 6336 |  bileizhihuiguan  |
   | 7 | [Red Dragon](/units/Red Dragon/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |  honglong  |
