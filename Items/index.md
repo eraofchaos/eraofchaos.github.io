@@ -1,7 +1,7 @@
 ---
-title: "Era of Chaos Item - Materials"
+title: "Item - Materials"
 permalink: /Items/
-excerpt: "List of ALL Materials in Era of Chaos"
+excerpt: "Materials in Era of Chaos"
 last_modified_at: 2020-12-11
 lang: en
 ref: "Materials.md"
@@ -12,97 +12,97 @@ classes: wide
 
   | Nr |         Name        |   Description     |
   |:---|:--------------------|:------------------|
-  | 1 | <span style="color: #0000CD"> Book of Arms</span> | Rare materials to upgrade equipment from blue +1 to blue +2. |
-  | 2 | <span style="color: #DA70D6"> Book of Essences</span> | Rare materials to upgrade equipment from purple +1 to purple +2. |
-  | 3 | <span style="color: #FF8C00"> Certificate of Legend</span> | Rare materials to upgrade equipment from orange +3 to orange +4. |
-  | 4 | <span style="color: #32CD32"> Common Crystal</span> | Common materials to upgrade equipment from green to blue. |
-  | 5 | <span style="color: #32CD32"> Common Gems</span> | Common materials to upgrade equipment from green to blue. |
-  | 6 | <span style="color: #32CD32"> Common Mercury</span> | Common materials to upgrade equipment from green to blue. |
-  | 7 | <span style="color: #32CD32"> Common Ore</span> | Common materials to upgrade equipment from green to blue. |
-  | 8 | <span style="color: #32CD32"> Common Sulfur</span> | Common materials to upgrade equipment from green to blue. |
-  | 9 | <span style="color: #32CD32"> Common Wood</span> | Common materials to upgrade equipment from green to blue. |
-  | 10 | <span style="color: #DA70D6"> Epic Crystal</span> | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 11 | <span style="color: #DA70D6"> Epic Gems</span> | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 12 | <span style="color: #DA70D6"> Epic Mercury</span> | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 13 | <span style="color: #DA70D6"> Epic Ore</span> | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 14 | <span style="color: #DA70D6"> Epic Sulfur</span> | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 15 | <span style="color: #DA70D6"> Epic Wood</span> | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 16 | <span style="color: #FF8C00"> Eternal Crystal</span> | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 17 | <span style="color: #FF8C00"> Eternal Gems</span> | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 18 | <span style="color: #FF8C00"> Eternal Mercury</span> | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 19 | <span style="color: #FF8C00"> Eternal Ore</span> | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 20 | <span style="color: #FF8C00"> Eternal Sulfur</span> | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 21 | <span style="color: #FF8C00"> Eternal Wood</span> | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 22 | <span style="color: #DA70D6"> Exceptional Crystal</span> | Common materials to upgrade equipment from purple to purple +1. |
-  | 23 | <span style="color: #DA70D6"> Exceptional Gems</span> | Common materials to upgrade equipment from purple to purple +1. |
-  | 24 | <span style="color: #DA70D6"> Exceptional Mercury</span> | Common materials to upgrade equipment from purple to purple +1. |
-  | 25 | <span style="color: #DA70D6"> Exceptional Ore</span> | Common materials to upgrade equipment from purple to purple +1. |
-  | 26 | <span style="color: #DA70D6"> Exceptional Sulfur</span> | Common materials to upgrade equipment from purple to purple +1. |
-  | 27 | <span style="color: #DA70D6"> Exceptional Wood</span> | Common materials to upgrade equipment from purple to purple +1. |
-  | 28 | <span style="color: #0000CD"> Good Crystal</span> | Common materials to upgrade equipment from blue to blue +1. |
-  | 29 | <span style="color: #0000CD"> Good Gems</span> | Common materials to upgrade equipment from blue to blue +1. |
-  | 30 | <span style="color: #0000CD"> Good Mercury</span> | Common materials to upgrade equipment from blue to blue +1. |
-  | 31 | <span style="color: #0000CD"> Good Ore</span> | Common materials to upgrade equipment from blue to blue +1. |
-  | 32 | <span style="color: #0000CD"> Good Sulfur</span> | Common materials to upgrade equipment from blue to blue +1. |
-  | 33 | <span style="color: #0000CD"> Good Wood</span> | Common materials to upgrade equipment from blue to blue +1. |
-  | 34 | <span style="color: #C0C0C0"> Inferior Crystal</span> | Common materials to upgrade equipment from white to green. |
-  | 35 | <span style="color: #C0C0C0"> Inferior Gems</span> | Common materials to upgrade equipment from white to green. |
-  | 36 | <span style="color: #C0C0C0"> Inferior Mercury</span> | Common materials to upgrade equipment from white to green. |
-  | 37 | <span style="color: #C0C0C0"> Inferior Ore</span> | Common materials to upgrade equipment from white to green. |
-  | 38 | <span style="color: #C0C0C0"> Inferior Sulfur</span> | Common materials to upgrade equipment from white to green. |
-  | 39 | <span style="color: #C0C0C0"> Inferior Wood</span> | Common materials to upgrade equipment from white to green. |
-  | 40 | <span style="color: #FF8C00"> Legendary Certificate</span> | Rare materials used to upgrade equipment from orange +5 to Red. |
-  | 41 | <span style="color: #DA70D6"> Legendary Crystal</span> | Common materials to upgrade equipment from purple +3 to orange. |
-  | 42 | <span style="color: #DA70D6"> Legendary Gems</span> | Common materials to upgrade equipment from purple +3 to orange. |
-  | 43 | <span style="color: #DA70D6"> Legendary Mercury</span> | Common materials to upgrade equipment from purple +3 to orange. |
-  | 44 | <span style="color: #DA70D6"> Legendary Ore</span> | Common materials to upgrade equipment from purple +3 to orange. |
-  | 45 | <span style="color: #DA70D6"> Legendary Sulfur</span> | Common materials to upgrade equipment from purple +3 to orange. |
-  | 46 | <span style="color: #DA70D6"> Legendary Wood</span> | Common materials to upgrade equipment from purple +3 to orange. |
-  | 47 | <span style="color: #FF8C00"> Mythical Crystal</span> | Common materials to upgrade equipment from orange to orange +1. |
-  | 48 | <span style="color: #FF8C00"> Mythical Gems</span> | Common materials to upgrade equipment from orange to orange +1. |
-  | 49 | <span style="color: #FF8C00"> Mythical Mercury</span> | Common materials to upgrade equipment from orange to orange +1. |
-  | 50 | <span style="color: #FF8C00"> Mythical Ore</span> | Common materials to upgrade equipment from orange to orange +1. |
-  | 51 | <span style="color: #FF8C00"> Mythical Sulfur</span> | Common materials to upgrade equipment from orange to orange +1. |
-  | 52 | <span style="color: #FF8C00"> Mythical Wood</span> | Common materials to upgrade equipment from orange to orange +1. |
-  | 53 | <span style="color: #FF8C00"> Radiant Crystal</span> | Common materials to upgrade equipment from orange +5 to Red. |
-  | 54 | <span style="color: #FF8C00"> Radiant Gems</span> | Common materials to upgrade equipment from orange +5 to Red. |
-  | 55 | <span style="color: #FF8C00"> Radiant Mercury</span> | Common materials to upgrade equipment from orange +5 to Red. |
-  | 56 | <span style="color: #FF8C00"> Radiant Ore</span> | Common materials to upgrade equipment from orange +5 to Red. |
-  | 57 | <span style="color: #FF8C00"> Radiant Sulfur</span> | Common materials to upgrade equipment from orange +5 to Red. |
-  | 58 | <span style="color: #FF8C00"> Radiant Wood</span> | Common materials to upgrade equipment from orange +5 to Red. |
-  | 59 | <span style="color: #DA70D6"> Rare Crystal</span> | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 60 | <span style="color: #DA70D6"> Rare Gems</span> | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 61 | <span style="color: #DA70D6"> Rare Mercury</span> | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 62 | <span style="color: #DA70D6"> Rare Ore</span> | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 63 | <span style="color: #DA70D6"> Rare Sulfur</span> | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 64 | <span style="color: #DA70D6"> Rare Wood</span> | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 65 | <span style="color: #FF8C00"> Secret Crystal</span> | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 66 | <span style="color: #FF8C00"> Secret Gems</span> | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 67 | <span style="color: #FF8C00"> Secret Mercury</span> | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 68 | <span style="color: #FF8C00"> Secret Ore</span> | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 69 | <span style="color: #FF8C00"> Secret Sulfur</span> | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 70 | <span style="color: #FF8C00"> Secret Wood</span> | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 71 | <span style="color: #FF8C00"> Soul Crystal</span> | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 72 | <span style="color: #FF8C00"> Soul Gems</span> | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 73 | <span style="color: #FF8C00"> Soul Mercury</span> | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 74 | <span style="color: #FF8C00"> Soul Ore</span> | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 75 | <span style="color: #FF8C00"> Soul Sulfur</span> | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 76 | <span style="color: #FF8C00"> Soul Wood</span> | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 77 | <span style="color: #FF8C00"> Star Crystal</span> | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 78 | <span style="color: #FF8C00"> Star Gems</span> | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 79 | <span style="color: #FF8C00"> Star Mercury</span> | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 80 | <span style="color: #FF8C00"> Star Ore</span> | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 81 | <span style="color: #FF8C00"> Star Sulfur</span> | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 82 | <span style="color: #FF8C00"> Star Wood</span> | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 83 | <span style="color: #0000CD"> Superior Crystal</span> | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 84 | <span style="color: #0000CD"> Superior Gems</span> | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 85 | <span style="color: #0000CD"> Superior Mercury</span> | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 86 | <span style="color: #0000CD"> Superior Ore</span> | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 87 | <span style="color: #0000CD"> Superior Sulfur</span> | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 88 | <span style="color: #0000CD"> Superior Wood</span> | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 89 | <span style="color: #0000CD"> Valuable Crystal</span> | Common materials to upgrade equipment from blue +2 to purple. |
-  | 90 | <span style="color: #0000CD"> Valuable Gems</span> | Common materials to upgrade equipment from blue +2 to purple. |
-  | 91 | <span style="color: #0000CD"> Valuable Mercury</span> | Common materials to upgrade equipment from blue +2 to purple. |
-  | 92 | <span style="color: #0000CD"> Valuable Ore</span> | Common materials to upgrade equipment from blue +2 to purple. |
-  | 93 | <span style="color: #0000CD"> Valuable Sulfur</span> | Common materials to upgrade equipment from blue +2 to purple. |
-  | 94 | <span style="color: #0000CD"> Valuable Wood</span> | Common materials to upgrade equipment from blue +2 to purple. |
+  | 1 | [ Book of Arms](/Items/mat_71/){: .btn .btn--era3} | Rare materials to upgrade equipment from blue +1 to blue +2. |
+  | 2 | [ Book of Essences](/Items/mat_84/){: .btn .btn--era4} | Rare materials to upgrade equipment from purple +1 to purple +2. |
+  | 3 | [ Certificate of Legend](/Items/mat_100/){: .btn .btn--era5} | Rare materials to upgrade equipment from orange +3 to orange +4. |
+  | 4 | [ Common Crystal](/Items/mat_85/){: .btn .btn--era2} | Common materials to upgrade equipment from green to blue. |
+  | 5 | [ Common Gems](/Items/mat_69/){: .btn .btn--era2} | Common materials to upgrade equipment from green to blue. |
+  | 6 | [ Common Mercury](/Items/mat_65/){: .btn .btn--era2} | Common materials to upgrade equipment from green to blue. |
+  | 7 | [ Common Ore](/Items/mat_39/){: .btn .btn--era2} | Common materials to upgrade equipment from green to blue. |
+  | 8 | [ Common Sulfur](/Items/mat_79/){: .btn .btn--era2} | Common materials to upgrade equipment from green to blue. |
+  | 9 | [ Common Wood](/Items/mat_53/){: .btn .btn--era2} | Common materials to upgrade equipment from green to blue. |
+  | 10 | [ Epic Crystal](/Items/mat_5/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 11 | [ Epic Gems](/Items/mat_94/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 12 | [ Epic Mercury](/Items/mat_70/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 13 | [ Epic Ore](/Items/mat_42/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 14 | [ Epic Sulfur](/Items/mat_83/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 15 | [ Epic Wood](/Items/mat_57/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 16 | [ Eternal Crystal](/Items/mat_19/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 17 | [ Eternal Gems](/Items/mat_86/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 18 | [ Eternal Mercury](/Items/mat_62/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 19 | [ Eternal Ore](/Items/mat_36/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 20 | [ Eternal Sulfur](/Items/mat_97/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 21 | [ Eternal Wood](/Items/mat_75/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 22 | [ Exceptional Crystal](/Items/mat_33/){: .btn .btn--era4} | Common materials to upgrade equipment from purple to purple +1. |
+  | 23 | [ Exceptional Gems](/Items/mat_17/){: .btn .btn--era4} | Common materials to upgrade equipment from purple to purple +1. |
+  | 24 | [ Exceptional Mercury](/Items/mat_91/){: .btn .btn--era4} | Common materials to upgrade equipment from purple to purple +1. |
+  | 25 | [ Exceptional Ore](/Items/mat_67/){: .btn .btn--era4} | Common materials to upgrade equipment from purple to purple +1. |
+  | 26 | [ Exceptional Sulfur](/Items/mat_1/){: .btn .btn--era4} | Common materials to upgrade equipment from purple to purple +1. |
+  | 27 | [ Exceptional Wood](/Items/mat_82/){: .btn .btn--era4} | Common materials to upgrade equipment from purple to purple +1. |
+  | 28 | [ Good Crystal](/Items/mat_16/){: .btn .btn--era3} | Common materials to upgrade equipment from blue to blue +1. |
+  | 29 | [ Good Gems](/Items/mat_4/){: .btn .btn--era3} | Common materials to upgrade equipment from blue to blue +1. |
+  | 30 | [ Good Mercury](/Items/mat_102/){: .btn .btn--era3} | Common materials to upgrade equipment from blue to blue +1. |
+  | 31 | [ Good Ore](/Items/mat_78/){: .btn .btn--era3} | Common materials to upgrade equipment from blue to blue +1. |
+  | 32 | [ Good Sulfur](/Items/mat_92/){: .btn .btn--era3} | Common materials to upgrade equipment from blue to blue +1. |
+  | 33 | [ Good Wood](/Items/mat_90/){: .btn .btn--era3} | Common materials to upgrade equipment from blue to blue +1. |
+  | 34 | [ Inferior Crystal](/Items/mat_45/){: .btn .btn--era1} | Common materials to upgrade equipment from white to green. |
+  | 35 | [ Inferior Gems](/Items/mat_54/){: .btn .btn--era1} | Common materials to upgrade equipment from white to green. |
+  | 36 | [ Inferior Mercury](/Items/mat_27/){: .btn .btn--era1} | Common materials to upgrade equipment from white to green. |
+  | 37 | [ Inferior Ore](/Items/mat_103/){: .btn .btn--era1} | Common materials to upgrade equipment from white to green. |
+  | 38 | [ Inferior Sulfur](/Items/mat_40/){: .btn .btn--era1} | Common materials to upgrade equipment from white to green. |
+  | 39 | [ Inferior Wood](/Items/mat_12/){: .btn .btn--era1} | Common materials to upgrade equipment from white to green. |
+  | 40 | [ Legendary Certificate](/Items/mat_76/){: .btn .btn--era5} | Rare materials used to upgrade equipment from orange +5 to Red. |
+  | 41 | [ Legendary Crystal](/Items/mat_48/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +3 to orange. |
+  | 42 | [ Legendary Gems](/Items/mat_31/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +3 to orange. |
+  | 43 | [ Legendary Mercury](/Items/mat_3/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +3 to orange. |
+  | 44 | [ Legendary Ore](/Items/mat_81/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +3 to orange. |
+  | 45 | [ Legendary Sulfur](/Items/mat_18/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +3 to orange. |
+  | 46 | [ Legendary Wood](/Items/mat_93/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +3 to orange. |
+  | 47 | [ Mythical Crystal](/Items/mat_61/){: .btn .btn--era5} | Common materials to upgrade equipment from orange to orange +1. |
+  | 48 | [ Mythical Gems](/Items/mat_74/){: .btn .btn--era5} | Common materials to upgrade equipment from orange to orange +1. |
+  | 49 | [ Mythical Mercury](/Items/mat_50/){: .btn .btn--era5} | Common materials to upgrade equipment from orange to orange +1. |
+  | 50 | [ Mythical Ore](/Items/mat_23/){: .btn .btn--era5} | Common materials to upgrade equipment from orange to orange +1. |
+  | 51 | [ Mythical Sulfur](/Items/mat_35/){: .btn .btn--era5} | Common materials to upgrade equipment from orange to orange +1. |
+  | 52 | [ Mythical Wood](/Items/mat_9/){: .btn .btn--era5} | Common materials to upgrade equipment from orange to orange +1. |
+  | 53 | [ Radiant Crystal](/Items/mat_37/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +5 to Red. |
+  | 54 | [ Radiant Gems](/Items/mat_52/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +5 to Red. |
+  | 55 | [ Radiant Mercury](/Items/mat_24/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +5 to Red. |
+  | 56 | [ Radiant Ore](/Items/mat_88/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +5 to Red. |
+  | 57 | [ Radiant Sulfur](/Items/mat_10/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +5 to Red. |
+  | 58 | [ Radiant Wood](/Items/mat_21/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +5 to Red. |
+  | 59 | [ Rare Crystal](/Items/mat_68/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 60 | [ Rare Gems](/Items/mat_59/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 61 | [ Rare Mercury](/Items/mat_29/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 62 | [ Rare Ore](/Items/mat_2/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 63 | [ Rare Sulfur](/Items/mat_46/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 64 | [ Rare Wood](/Items/mat_14/){: .btn .btn--era4} | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 65 | [ Secret Crystal](/Items/mat_51/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 66 | [ Secret Gems](/Items/mat_47/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 67 | [ Secret Mercury](/Items/mat_22/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 68 | [ Secret Ore](/Items/mat_99/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 69 | [ Secret Sulfur](/Items/mat_7/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 70 | [ Secret Wood](/Items/mat_87/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 71 | [ Soul Crystal](/Items/mat_64/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 72 | [ Soul Gems](/Items/mat_77/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 73 | [ Soul Mercury](/Items/mat_34/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 74 | [ Soul Ore](/Items/mat_8/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 75 | [ Soul Sulfur](/Items/mat_73/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 76 | [ Soul Wood](/Items/mat_49/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 77 | [ Star Crystal](/Items/mat_26/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 78 | [ Star Gems](/Items/mat_89/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 79 | [ Star Mercury](/Items/mat_98/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 80 | [ Star Ore](/Items/mat_72/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 81 | [ Star Sulfur](/Items/mat_101/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 82 | [ Star Wood](/Items/mat_63/){: .btn .btn--era5} | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 83 | [ Superior Crystal](/Items/mat_56/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 84 | [ Superior Gems](/Items/mat_41/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 85 | [ Superior Mercury](/Items/mat_15/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 86 | [ Superior Ore](/Items/mat_13/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 87 | [ Superior Sulfur](/Items/mat_30/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 88 | [ Superior Wood](/Items/mat_28/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 89 | [ Valuable Crystal](/Items/mat_95/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +2 to purple. |
+  | 90 | [ Valuable Gems](/Items/mat_80/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +2 to purple. |
+  | 91 | [ Valuable Mercury](/Items/mat_58/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +2 to purple. |
+  | 92 | [ Valuable Ore](/Items/mat_55/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +2 to purple. |
+  | 93 | [ Valuable Sulfur](/Items/mat_66/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +2 to purple. |
+  | 94 | [ Valuable Wood](/Items/mat_43/){: .btn .btn--era3} | Common materials to upgrade equipment from blue +2 to purple. |
