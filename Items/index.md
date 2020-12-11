@@ -1,13 +1,13 @@
 ---
-title: "Era of Chaos - MATERIALS"
+title: "Era of Chaos - Materials"
 permalink: /Items/
-excerpt: "List of ALL MATERIALS in Era of Chaos"
+excerpt: "List of ALL Materials in Era of Chaos"
 last_modified_at: 2020-12-11
 lang: en
-ref: "MATERIALS.md"
-toc: true
+ref: "Materials.md"
+toc: false
 ---
- [MATERIALS](/Items/){: .btn .btn--primary}[ARTIFACTS](/Items/ARTIFACTS/){: .btn .btn--success}[UNITS SOUL](/Items/UNITS/){: .btn .btn--warning}[HEROES SOUL](/Items/HEROES/){: .btn .btn--danger}[CONSUMABLES](/Items/CONSUMABLES/){: .btn .btn--info}[UNKNOWN](/Items/UNKNOWN/){: .btn .btn--primary}
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
   | Nr |         Name        |   Description     |
   |:---|:--------------------|:------------------|

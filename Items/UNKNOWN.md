@@ -1,13 +1,13 @@
 ---
-title: "Era of Chaos - UNKNOWN"
-permalink: /Items/UNKNOWN/
-excerpt: "List of ALL UNKNOWN in Era of Chaos"
+title: "Era of Chaos - Unknown"
+permalink: /Items/Unknown/
+excerpt: "List of ALL Unknown in Era of Chaos"
 last_modified_at: 2020-12-11
 lang: en
-ref: "UNKNOWN.md"
-toc: true
+ref: "Unknown.md"
+toc: false
 ---
- [MATERIALS](/Items/){: .btn .btn--primary}[ARTIFACTS](/Items/ARTIFACTS/){: .btn .btn--success}[UNITS SOUL](/Items/UNITS/){: .btn .btn--warning}[HEROES SOUL](/Items/HEROES/){: .btn .btn--danger}[CONSUMABLES](/Items/CONSUMABLES/){: .btn .btn--info}[UNKNOWN](/Items/UNKNOWN/){: .btn .btn--primary}
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
   | Nr |         Name        |   Description     |
   |:---|:--------------------|:------------------|

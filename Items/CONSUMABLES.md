@@ -1,13 +1,13 @@
 ---
-title: "Era of Chaos - CONSUMABLES"
-permalink: /Items/CONSUMABLES/
-excerpt: "List of ALL CONSUMABLES in Era of Chaos"
+title: "Era of Chaos - Consumables"
+permalink: /Items/Consumables/
+excerpt: "List of ALL Consumables in Era of Chaos"
 last_modified_at: 2020-12-11
 lang: en
-ref: "CONSUMABLES.md"
-toc: true
+ref: "Consumables.md"
+toc: false
 ---
- [MATERIALS](/Items/){: .btn .btn--primary}[ARTIFACTS](/Items/ARTIFACTS/){: .btn .btn--success}[UNITS SOUL](/Items/UNITS/){: .btn .btn--warning}[HEROES SOUL](/Items/HEROES/){: .btn .btn--danger}[CONSUMABLES](/Items/CONSUMABLES/){: .btn .btn--info}[UNKNOWN](/Items/UNKNOWN/){: .btn .btn--primary}
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
   | Nr |         Name        |   Type  |   Description     |
   |:---|:--------------------|:-------:|:------------------|

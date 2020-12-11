@@ -5,7 +5,7 @@ excerpt: "List of ALL ITEMS"
 last_modified_at: 2020-12-11
 lang: en
 ref: "items.md"
-toc: true
+toc: false
 ---
 
   | Nr |  id |     Name     | P | bT | type | tab | _Id_ |  range |  approach  | approach2  |  approach3  |  shine | description | 
