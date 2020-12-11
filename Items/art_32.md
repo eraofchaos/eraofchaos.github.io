@@ -1,5 +1,5 @@
 ---
-title: "Item -  Cape of Conjuring"
+title: "Item - Artifacts -  Cape of Conjuring"
 permalink: /Items/art_32/
 excerpt: " Cape of Conjuring"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A cape crackling with magical power. One of the components of Ring of the Mage.
+
  **Quality:** <span style="color: #0000CD">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

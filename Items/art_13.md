@@ -1,5 +1,5 @@
 ---
-title: "Item -  Bottle of Energy"
+title: "Item - Artifacts -  Bottle of Energy"
 permalink: /Items/art_13/
 excerpt: " Bottle of Energy"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A bottle to make the wearer feel energized. One of the components of the Elixir of Life.
+
  **Quality:** <span style="color: #32CD32">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

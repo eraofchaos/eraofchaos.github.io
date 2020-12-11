@@ -1,5 +1,5 @@
 ---
-title: "Item -  Necklace of Dragonteeth"
+title: "Item - Artifacts -  Necklace of Dragonteeth"
 permalink: /Items/art_39/
 excerpt: " Necklace of Dragonteeth"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A necklace blessed by the Holy Dragon. One of the components of Power of the Dragon Father.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Shield of the Yawning Dead"
+title: "Item - Artifacts -  Shield of the Yawning Dead"
 permalink: /Items/art_56/
 excerpt: " Shield of the Yawning Dead"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A shield assembled from undead bones. One of the components of the Armour of the Damned.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

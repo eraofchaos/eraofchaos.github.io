@@ -1,5 +1,5 @@
 ---
-title: "Item -  Mountain Battleaxe"
+title: "Item - Artifacts -  Mountain Battleaxe"
 permalink: /Items/art_14/
 excerpt: " Mountain Battleaxe"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

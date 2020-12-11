@@ -1,5 +1,5 @@
 ---
-title: "Item -  Warrior Hammer"
+title: "Item - Artifacts -  Warrior Hammer"
 permalink: /Items/art_15/
 excerpt: " Warrior Hammer"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A warhammer hidden on Giant's Ridge. One of the components of Armageddon's Blade.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

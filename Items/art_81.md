@@ -1,5 +1,5 @@
 ---
-title: "Item -  Staff of the Netherworld"
+title: "Item - Artifacts -  Staff of the Netherworld"
 permalink: /Items/art_81/
 excerpt: " Staff of the Netherworld"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** An ultimate staff sealed in Deyja. One of the components of the Sword of Frost.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

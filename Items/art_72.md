@@ -1,5 +1,5 @@
 ---
-title: "Item -  Mystic Orb of Mana"
+title: "Item - Artifacts -  Mystic Orb of Mana"
 permalink: /Items/art_72/
 excerpt: " Mystic Orb of Mana"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A crystal ball with strong magic. One of the components of the Wizard's Well.
+
  **Quality:** <span style="color: #0000CD">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

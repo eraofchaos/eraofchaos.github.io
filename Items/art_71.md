@@ -1,5 +1,5 @@
 ---
-title: "Item -  Vampire's Cowl"
+title: "Item - Artifacts -  Vampire's Cowl"
 permalink: /Items/art_71/
 excerpt: " Vampire's Cowl"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A vampire's precious cape. One of the components of the Cloak of the Undead King.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

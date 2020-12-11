@@ -1,5 +1,5 @@
 ---
-title: "Item -  Crystal Ball"
+title: "Item - Artifacts -  Crystal Ball"
 permalink: /Items/art_1/
 excerpt: " Crystal Ball"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A shining crystal ball. Legend says it can see the future.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

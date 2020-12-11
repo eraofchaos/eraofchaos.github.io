@@ -1,5 +1,5 @@
 ---
-title: "Item -  Amulet of the Undertaker"
+title: "Item - Artifacts -  Amulet of the Undertaker"
 permalink: /Items/art_46/
 excerpt: " Amulet of the Undertaker"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

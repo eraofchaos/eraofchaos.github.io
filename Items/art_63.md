@@ -1,5 +1,5 @@
 ---
-title: "Item -  Orb of Tempestuous Fire"
+title: "Item - Artifacts -  Orb of Tempestuous Fire"
 permalink: /Items/art_63/
 excerpt: " Orb of Tempestuous Fire"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A toy picked from magma by Red Dragon. One of the components of the Orb of Vulnerability
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

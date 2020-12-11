@@ -1,5 +1,5 @@
 ---
-title: "Item -  Thunder Helmet"
+title: "Item - Artifacts -  Thunder Helmet"
 permalink: /Items/art_55/
 excerpt: " Thunder Helmet"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A helmet used by the thunder god. One of the components of the Titan's Thunder.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

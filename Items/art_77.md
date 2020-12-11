@@ -1,5 +1,5 @@
 ---
-title: "Item -  Sphere of Permanence"
+title: "Item - Artifacts -  Sphere of Permanence"
 permalink: /Items/art_77/
 excerpt: " Sphere of Permanence"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** It was kept by an elder who gave it to you before his death. One of the components of the Orb of Vulnerability
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

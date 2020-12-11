@@ -1,5 +1,5 @@
 ---
-title: "Item -  Minotaur's Battleaxe"
+title: "Item - Artifacts -  Minotaur's Battleaxe"
 permalink: /Items/art_10/
 excerpt: " Minotaur's Battleaxe"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A battleaxe passed down by the Tauren. One of the components of the Sword of Frost.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

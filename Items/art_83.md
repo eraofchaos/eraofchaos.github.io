@@ -1,5 +1,5 @@
 ---
-title: "Item -  Pendant of Holiness"
+title: "Item - Artifacts -  Pendant of Holiness"
 permalink: /Items/art_83/
 excerpt: " Pendant of Holiness"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A necklace from an Angel. One of the components of the Angelic Alliance.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

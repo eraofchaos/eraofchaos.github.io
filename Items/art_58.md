@@ -1,5 +1,5 @@
 ---
-title: "Item -  Tunic of the Cyclops King"
+title: "Item - Artifacts -  Tunic of the Cyclops King"
 permalink: /Items/art_58/
 excerpt: " Tunic of the Cyclops King"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

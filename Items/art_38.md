@@ -1,5 +1,5 @@
 ---
-title: "Item -  Armor of Wonders"
+title: "Item - Artifacts -  Armor of Wonders"
 permalink: /Items/art_38/
 excerpt: " Armor of Wonders"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** Armour that witnessed the heights of the Empire. One of the components of the Angelic Alliance.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Casting Crystal"
+title: "Item - Artifacts -  Casting Crystal"
 permalink: /Items/art_61/
 excerpt: " Casting Crystal"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A skill crystal made in an ancient foundry. Essential material to upgrade advanced combo Artifacts.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

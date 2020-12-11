@@ -1,5 +1,5 @@
 ---
-title: "Item -  Knight Sword"
+title: "Item - Artifacts -  Knight Sword"
 permalink: /Items/art_24/
 excerpt: " Knight Sword"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A sword worn by castle heroes. One of the components of Armageddon's Blade.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

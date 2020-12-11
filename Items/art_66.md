@@ -1,5 +1,5 @@
 ---
-title: "Item -  Ring of Life"
+title: "Item - Artifacts -  Ring of Life"
 permalink: /Items/art_66/
 excerpt: " Ring of Life"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A ring that supplies vast health to its wearer. One of the components of the Elixir of Life
+
  **Quality:** <span style="color: #32CD32">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

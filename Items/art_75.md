@@ -1,5 +1,5 @@
 ---
-title: "Item -  Sword of Judgement"
+title: "Item - Artifacts -  Sword of Judgement"
 permalink: /Items/art_75/
 excerpt: " Sword of Judgement"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A sword gifted to men by the gods. One of the components of the Angelic Alliance.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

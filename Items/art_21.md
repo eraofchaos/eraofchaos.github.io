@@ -1,5 +1,5 @@
 ---
-title: "Item -  Garniture of Interference"
+title: "Item - Artifacts -  Garniture of Interference"
 permalink: /Items/art_21/
 excerpt: " Garniture of Interference"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone.
+
  **Quality:** <span style="color: #0000CD">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

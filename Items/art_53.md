@@ -1,5 +1,5 @@
 ---
-title: "Item -  Magic Charm"
+title: "Item - Artifacts -  Magic Charm"
 permalink: /Items/art_53/
 excerpt: " Magic Charm"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A charm with magic power. One of the components of the Wizard's Well.
+
  **Quality:** <span style="color: #0000CD">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

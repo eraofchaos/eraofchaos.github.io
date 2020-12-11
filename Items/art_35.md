@@ -1,5 +1,5 @@
 ---
-title: "Item -  Crown of the Supreme Magi"
+title: "Item - Artifacts -  Crown of the Supreme Magi"
 permalink: /Items/art_35/
 excerpt: " Crown of the Supreme Magi"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

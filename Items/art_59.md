@@ -1,5 +1,5 @@
 ---
-title: "Item -  Red Dragon Flame Tongue"
+title: "Item - Artifacts -  Red Dragon Flame Tongue"
 permalink: /Items/art_59/
 excerpt: " Red Dragon Flame Tongue"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A sword forged from flame dragon crystals. One of the components of Power of the Dragon Father.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

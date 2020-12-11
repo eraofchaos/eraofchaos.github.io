@@ -1,5 +1,5 @@
 ---
-title: "Item -  Staff of Eden"
+title: "Item - Artifacts -  Staff of Eden"
 permalink: /Items/art_64/
 excerpt: " Staff of Eden"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A staff from the First Civilization. It can grant the wielder limitless time and knowledge.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

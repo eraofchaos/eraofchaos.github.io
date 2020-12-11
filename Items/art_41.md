@@ -1,5 +1,5 @@
 ---
-title: "Item -  Sword of Eden"
+title: "Item - Artifacts -  Sword of Eden"
 permalink: /Items/art_41/
 excerpt: " Sword of Eden"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A sword from the First Civilization. It can call upon lightning to strike down enemies.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

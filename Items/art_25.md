@@ -1,5 +1,5 @@
 ---
-title: "Item -  Orb of the Firmament"
+title: "Item - Artifacts -  Orb of the Firmament"
 permalink: /Items/art_25/
 excerpt: " Orb of the Firmament"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** An ancient air mage's belonging. One of the components of the Orb of Vulnerability
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

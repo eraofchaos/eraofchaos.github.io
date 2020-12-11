@@ -1,5 +1,5 @@
 ---
-title: "Item -  Tome of Earth Magic"
+title: "Item - Artifacts -  Tome of Earth Magic"
 permalink: /Items/art_8/
 excerpt: " Tome of Earth Magic"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

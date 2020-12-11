@@ -1,5 +1,5 @@
 ---
-title: "Item -  Shroud of Eden"
+title: "Item - Artifacts -  Shroud of Eden"
 permalink: /Items/art_5/
 excerpt: " Shroud of Eden"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** The legendary holy Shroud of Eden. There is no way to verify it's authenticity.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

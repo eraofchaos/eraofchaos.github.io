@@ -1,5 +1,5 @@
 ---
-title: "Item -  Bone Armour"
+title: "Item - Artifacts -  Bone Armour"
 permalink: /Items/art_18/
 excerpt: " Bone Armour"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A shield made from hard bones. One of the components of the Armour of the Damned.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

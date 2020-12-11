@@ -1,5 +1,5 @@
 ---
-title: "Item -  Surcoat of Counterpoise"
+title: "Item - Artifacts -  Surcoat of Counterpoise"
 permalink: /Items/art_45/
 excerpt: " Surcoat of Counterpoise"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone.
+
  **Quality:** <span style="color: #0000CD">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

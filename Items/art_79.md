@@ -1,5 +1,5 @@
 ---
-title: "Item -  Titan's Cuirass"
+title: "Item - Artifacts -  Titan's Cuirass"
 permalink: /Items/art_79/
 excerpt: " Titan's Cuirass"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** An armour made from a meteor. One of the components of the Titan's Thunder.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Ogre's Club of Havoc"
+title: "Item - Artifacts -  Ogre's Club of Havoc"
 permalink: /Items/art_11/
 excerpt: " Ogre's Club of Havoc"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

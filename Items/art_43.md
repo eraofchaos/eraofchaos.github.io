@@ -1,5 +1,5 @@
 ---
-title: "Item -  Pendant of Negativity"
+title: "Item - Artifacts -  Pendant of Negativity"
 permalink: /Items/art_43/
 excerpt: " Pendant of Negativity"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

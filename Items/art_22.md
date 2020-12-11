@@ -1,5 +1,5 @@
 ---
-title: "Item -  Tome of Fire Magic"
+title: "Item - Artifacts -  Tome of Fire Magic"
 permalink: /Items/art_22/
 excerpt: " Tome of Fire Magic"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Heaven-Cast Stone"
+title: "Item - Artifacts -  Heaven-Cast Stone"
 permalink: /Items/art_40/
 excerpt: " Heaven-Cast Stone"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.
+
  **Quality:** <span style="color: #000080">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

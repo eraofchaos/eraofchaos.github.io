@@ -1,5 +1,5 @@
 ---
-title: "Item -  Medal of Truth"
+title: "Item - Artifacts -  Medal of Truth"
 permalink: /Items/art_51/
 excerpt: " Medal of Truth"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A witch charm with mounted eyeballs. One of the components of the Live Hawkeye.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

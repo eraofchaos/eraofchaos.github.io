@@ -1,5 +1,5 @@
 ---
-title: "Item -  Orb of Driving Rain"
+title: "Item - Artifacts -  Orb of Driving Rain"
 permalink: /Items/art_4/
 excerpt: " Orb of Driving Rain"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** It was Cassanbel's beloved accessory. One of the components of the Orb of Vulnerability
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

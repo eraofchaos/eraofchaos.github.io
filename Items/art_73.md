@@ -1,5 +1,5 @@
 ---
-title: "Item -  Staff of Wisdom"
+title: "Item - Artifacts -  Staff of Wisdom"
 permalink: /Items/art_73/
 excerpt: " Staff of Wisdom"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A relic that guards the Ice Shield. One of the components of Armageddon's Blade.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

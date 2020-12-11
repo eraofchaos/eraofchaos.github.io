@@ -1,5 +1,5 @@
 ---
-title: "Item -  Stoic Watchman"
+title: "Item - Artifacts -  Stoic Watchman"
 permalink: /Items/art_26/
 excerpt: " Stoic Watchman"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

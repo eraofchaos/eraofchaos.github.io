@@ -1,5 +1,5 @@
 ---
-title: "Item -  Tome of Water Magic"
+title: "Item - Artifacts -  Tome of Water Magic"
 permalink: /Items/art_42/
 excerpt: " Tome of Water Magic"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

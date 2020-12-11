@@ -1,5 +1,5 @@
 ---
-title: "Item -  Sentinel's Shield"
+title: "Item - Artifacts -  Sentinel's Shield"
 permalink: /Items/art_52/
 excerpt: " Sentinel's Shield"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A shield blessed with holy power. One of the components of the Titan's Thunder.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

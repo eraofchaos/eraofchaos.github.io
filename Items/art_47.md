@@ -1,5 +1,5 @@
 ---
-title: "Item -  Ring of Vitality"
+title: "Item - Artifacts -  Ring of Vitality"
 permalink: /Items/art_47/
 excerpt: " Ring of Vitality"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A ring that supplies energy. One of the components of the Elixir of Life.
+
  **Quality:** <span style="color: #32CD32">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

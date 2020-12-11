@@ -1,5 +1,5 @@
 ---
-title: "Item -  Crown of Dragontooth"
+title: "Item - Artifacts -  Crown of Dragontooth"
 permalink: /Items/art_82/
 excerpt: " Crown of Dragontooth"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A helmet cast from dragon teeth. One of the components of Power of the Dragon Father.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Crystal Skull"
+title: "Item - Artifacts -  Crystal Skull"
 permalink: /Items/art_62/
 excerpt: " Crystal Skull"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Helm of Heavenly Enlightenment"
+title: "Item - Artifacts -  Helm of Heavenly Enlightenment"
 permalink: /Items/art_17/
 excerpt: " Helm of Heavenly Enlightenment"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A crown blessed by the gods. One of the components of the Angelic Alliance.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Angel Feather Arrows"
+title: "Item - Artifacts -  Angel Feather Arrows"
 permalink: /Items/art_30/
 excerpt: " Angel Feather Arrows"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A magic arrow made by elves. One of the components of the Bow of the Sharpshooter.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

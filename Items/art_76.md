@@ -1,5 +1,5 @@
 ---
-title: "Item -  Ring of Eagle Vision"
+title: "Item - Artifacts -  Ring of Eagle Vision"
 permalink: /Items/art_76/
 excerpt: " Ring of Eagle Vision"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A secret ring with mounted eyeballs. One of the components of the Live Hawkeye
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

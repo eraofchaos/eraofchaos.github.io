@@ -1,5 +1,5 @@
 ---
-title: "Item -  Dragon Scale Shield"
+title: "Item - Artifacts -  Dragon Scale Shield"
 permalink: /Items/art_16/
 excerpt: " Dragon Scale Shield"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A shield blessed with the Dragon King's magic. One of the components of Power of the Dragon Father.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

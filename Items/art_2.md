@@ -1,5 +1,5 @@
 ---
-title: "Item -  Clover of Fortune"
+title: "Item - Artifacts -  Clover of Fortune"
 permalink: /Items/art_2/
 excerpt: " Clover of Fortune"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A clover that brings great fortune. One of the components of the Lucky Horseshoe.
+
  **Quality:** <span style="color: #32CD32">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

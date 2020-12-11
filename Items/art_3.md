@@ -1,5 +1,5 @@
 ---
-title: "Item -  Bow of Elven Cherrywood"
+title: "Item - Artifacts -  Bow of Elven Cherrywood"
 permalink: /Items/art_3/
 excerpt: " Bow of Elven Cherrywood"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

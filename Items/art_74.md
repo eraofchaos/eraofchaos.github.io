@@ -1,5 +1,5 @@
 ---
-title: "Item -  Orb of Inhibition"
+title: "Item - Artifacts -  Orb of Inhibition"
 permalink: /Items/art_74/
 excerpt: " Orb of Inhibition"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A precious artifact in civilian society. One of the components of the Orb of Vulnerability
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

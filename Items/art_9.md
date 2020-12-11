@@ -1,5 +1,5 @@
 ---
-title: "Item -  Ring of Flares"
+title: "Item - Artifacts -  Ring of Flares"
 permalink: /Items/art_9/
 excerpt: " Ring of Flares"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A ring with magic flowing on its surface. One of the Archmage's Codex.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

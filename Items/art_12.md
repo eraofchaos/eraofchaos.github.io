@@ -1,5 +1,5 @@
 ---
-title: "Item -  Dead Man's Boots"
+title: "Item - Artifacts -  Dead Man's Boots"
 permalink: /Items/art_12/
 excerpt: " Dead Man's Boots"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Ring of Conjuring"
+title: "Item - Artifacts -  Ring of Conjuring"
 permalink: /Items/art_7/
 excerpt: " Ring of Conjuring"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A mysterious ring with strong magic. One of the components of Ring of the Mage.
+
  **Quality:** <span style="color: #0000CD">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

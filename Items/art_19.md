@@ -1,5 +1,5 @@
 ---
-title: "Item -  Dragon Scale Armour"
+title: "Item - Artifacts -  Dragon Scale Armour"
 permalink: /Items/art_19/
 excerpt: " Dragon Scale Armour"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A chest blessed by the Holy Dragon. One of the components of Power of the Dragon Father.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

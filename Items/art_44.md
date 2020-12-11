@@ -1,5 +1,5 @@
 ---
-title: "Item -  Ladybird of Luck"
+title: "Item - Artifacts -  Ladybird of Luck"
 permalink: /Items/art_44/
 excerpt: " Ladybird of Luck"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A glowing bird statue. One of the components of the Lucky Horseshoe.
+
  **Quality:** <span style="color: #32CD32">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

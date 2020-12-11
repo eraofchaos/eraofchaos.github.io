@@ -1,5 +1,5 @@
 ---
-title: "Item -  Recanter`s Cloak"
+title: "Item - Artifacts -  Recanter`s Cloak"
 permalink: /Items/art_68/
 excerpt: " Recanter`s Cloak"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** Wear it to weaken magical attacks. One of the Archmage's Codex.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

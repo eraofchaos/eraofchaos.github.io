@@ -1,5 +1,5 @@
 ---
-title: "Item -  Dragonbone Greaves"
+title: "Item - Artifacts -  Dragonbone Greaves"
 permalink: /Items/art_37/
 excerpt: " Dragonbone Greaves"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

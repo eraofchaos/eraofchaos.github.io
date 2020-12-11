@@ -1,5 +1,5 @@
 ---
-title: "Item -  Bird of Perception"
+title: "Item - Artifacts -  Bird of Perception"
 permalink: /Items/art_6/
 excerpt: " Bird of Perception"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

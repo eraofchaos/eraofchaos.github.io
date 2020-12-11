@@ -1,5 +1,5 @@
 ---
-title: "Item -  Staff of Disruption"
+title: "Item - Artifacts -  Staff of Disruption"
 permalink: /Items/art_29/
 excerpt: " Staff of Disruption"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A staff with great power sealed within. One of the Archmage's Codex.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

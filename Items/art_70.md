@@ -1,5 +1,5 @@
 ---
-title: "Item -  Collar of Conjuring"
+title: "Item - Artifacts -  Collar of Conjuring"
 permalink: /Items/art_70/
 excerpt: " Collar of Conjuring"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** Enhances the wearer's magic power. One of the components of Ring of the Mage.
+
  **Quality:** <span style="color: #0000CD">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Orb of Silt"
+title: "Item - Artifacts -  Orb of Silt"
 permalink: /Items/art_50/
 excerpt: " Orb of Silt"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** It's said that it is a national treasure of a destroyed country. One of the components of the Orb of Vulnerability
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Examplar Crossbow"
+title: "Item - Artifacts -  Examplar Crossbow"
 permalink: /Items/art_36/
 excerpt: " Examplar Crossbow"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** An artifact worn by Hero Gelu before he came of age. One of the components of Armageddon's Blade.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

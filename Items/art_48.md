@@ -1,5 +1,5 @@
 ---
-title: "Item -  Forest Bow"
+title: "Item - Artifacts -  Forest Bow"
 permalink: /Items/art_48/
 excerpt: " Forest Bow"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A bow often used by wood elves. One of the components of Armageddon's Blade.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

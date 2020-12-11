@@ -1,5 +1,5 @@
 ---
-title: "Item -  Sword of Hellfire"
+title: "Item - Artifacts -  Sword of Hellfire"
 permalink: /Items/art_54/
 excerpt: " Sword of Hellfire"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A sword that hosts a dark power. One of the components of the Armour of the Damned.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

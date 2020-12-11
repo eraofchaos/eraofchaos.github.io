@@ -1,5 +1,5 @@
 ---
-title: "Item -  Lion's Shield of Courage"
+title: "Item - Artifacts -  Lion's Shield of Courage"
 permalink: /Items/art_78/
 excerpt: " Lion's Shield of Courage"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A symbol of the military might of Griffin units. One of the components of the Angelic Alliance.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

@@ -1,5 +1,5 @@
 ---
-title: "Item -  Withering Staff"
+title: "Item - Artifacts -  Withering Staff"
 permalink: /Items/art_31/
 excerpt: " Withering Staff"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A staff used by an Arch Lich. One of the components of the Sword of Frost.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

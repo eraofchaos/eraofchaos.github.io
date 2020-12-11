@@ -1,5 +1,5 @@
 ---
-title: "Item -  Titan's Gladius"
+title: "Item - Artifacts -  Titan's Gladius"
 permalink: /Items/art_28/
 excerpt: " Titan's Gladius"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A sword wielded by ancient Giant. One of the components of the Titan's Thunder.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

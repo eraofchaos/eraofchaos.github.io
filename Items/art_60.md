@@ -1,5 +1,5 @@
 ---
-title: "Item -  Sandals of the Saint"
+title: "Item - Artifacts -  Sandals of the Saint"
 permalink: /Items/art_60/
 excerpt: " Sandals of the Saint"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A holy relic made in celebration of a united Erathia. One of the components of the Angelic Alliance.
+
  **Quality:** <span style="color: #FF8C00">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done

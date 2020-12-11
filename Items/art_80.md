@@ -1,5 +1,5 @@
 ---
-title: "Item -  Skull Helmet"
+title: "Item - Artifacts -  Skull Helmet"
 permalink: /Items/art_80/
 excerpt: " Skull Helmet"
 last_modified_at: 2020-12-11
@@ -12,8 +12,11 @@ classes: wide
 
 ## Details
  **Description:** A helmet found in the underworld. One of the components of the Armour of the Damned.
+
  **Quality:** <span style="color: #DA70D6">OK</span>
+
  **Type:** Artifact
+
 ## Gather
 
   To Be Done
