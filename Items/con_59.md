@@ -1,0 +1,32 @@
+---
+title: "Item - Consumables -  Darkness Dominance Pack"
+permalink: /Items/con_59/
+excerpt: " Darkness Dominance Pack"
+last_modified_at: 2020-12-11
+lang: en
+ref: "con_59.md"
+toc: false
+classes: wide
+---
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Use it to select one from the following: Darkness Dominance Avatar Frame *1 or Bone Dragon Token *5
+
+ **Quality:** <span style="color: #FF8C00">OK</span>
+
+ **Type:** Gift
+
+## Gather
+
+  To Be Done
+
+## This item contains:
+
+ **Open Level:** 1
+ **Open VIP Level:** 
+
+  | Nr |      Item    |
+  |:---|:------------:|
+  | 1 | AVATARFRAME1034 | 
+  | 2 |  **5x** Bone Dragon(Once you have gathered 80 soul tokens you can summon a Bone Dragon, an SSR aptitude unit.) | 

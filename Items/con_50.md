@@ -1,0 +1,33 @@
+---
+title: "Item - Consumables -  Revelations: Ezio Special Offer"
+permalink: /Items/con_50/
+excerpt: " Revelations: Ezio Special Offer"
+last_modified_at: 2020-12-11
+lang: en
+ref: "con_50.md"
+toc: false
+classes: wide
+---
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Grants 680 Diamonds, 1 Revelations: Ezio Skin, and 10 Ancient Temple Scrolls.
+
+ **Quality:** <span style="color: #DA70D6">OK</span>
+
+ **Type:** Gift
+
+## Gather
+
+  To Be Done
+
+## This item contains:
+
+ **Open Level:** 1
+ **Open VIP Level:** 
+
+  | Nr |      Item    |
+  |:---|:------------:|
+  | 1 |  **680x** <i class="fas fa-gem"/> | 
+  | 2 |  **1x** Revelations: Ezio(Grants the Revelations: Ezio skin.) | 
+  | 3 |  **10x** Ancient Temple Scroll(A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.) | 

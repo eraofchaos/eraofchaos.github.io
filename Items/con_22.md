@@ -1,0 +1,32 @@
+---
+title: "Item - Consumables -  Expert Book of Essences"
+permalink: /Items/con_22/
+excerpt: " Expert Book of Essences"
+last_modified_at: 2020-12-11
+lang: en
+ref: "con_22.md"
+toc: false
+classes: wide
+---
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Records the advanced secrets of battle. Can be used to improve units' magic resistance.
+
+ **Quality:** <span style="color: #FF8C00">OK</span>
+
+ **Type:** Gift
+
+## Gather
+
+  To Be Done
+
+## This item contains:
+
+ **Open Level:** 1
+ **Open VIP Level:** 
+
+  | Nr |      Item    |
+  |:---|:------------:|
+  | 1 |  **1x** Damage reduction skill essence(Records the expert secrets of battle. Can be used to improve units' damage reduction.) | 
+  | 2 |  **1x** Damage augmentation skill essence(Records the expert secrets of battle. Can be used to improve units' damage augmentation.) | 

@@ -1,0 +1,32 @@
+---
+title: "Item - Consumables -  Christmas Carol Pack"
+permalink: /Items/con_64/
+excerpt: " Christmas Carol Pack"
+last_modified_at: 2020-12-11
+lang: en
+ref: "con_64.md"
+toc: false
+classes: wide
+---
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Use it to get Diamond *980, Christmas Carol Crag Hack *1 and Flourishing Christmas Avatar Frame *1
+
+ **Quality:** <span style="color: #DA70D6">OK</span>
+
+ **Type:** Gift
+
+## Gather
+
+  To Be Done
+
+## This item contains:
+
+ **Open Level:** 1
+ **Open VIP Level:** 
+
+  | Nr |      Item    |
+  |:---|:------------:|
+  | 1 |  **1x** Christmas Carol(Use to get a skin: Christmas Carol Crag Hack) | 
+  | 2 |  **20x** Crag Hack(Collect 30 tokens to summon Crag Hack to join your party. Tokens are also required to increase his rank.) | 

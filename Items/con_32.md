@@ -1,0 +1,33 @@
+---
+title: "Item - Consumables -  Kassandra Pack"
+permalink: /Items/con_32/
+excerpt: " Kassandra Pack"
+last_modified_at: 2020-12-11
+lang: en
+ref: "con_32.md"
+toc: false
+classes: wide
+---
+ [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
+
+## Details
+ **Description:** Grants 680 Diamonds, 30 Kassandra Tokens, and 100 Spell Scrolls.
+
+ **Quality:** <span style="color: #DA70D6">OK</span>
+
+ **Type:** Gift
+
+## Gather
+
+  To Be Done
+
+## This item contains:
+
+ **Open Level:** 1
+ **Open VIP Level:** 
+
+  | Nr |      Item    |
+  |:---|:------------:|
+  | 1 |  **680x** <i class="fas fa-gem"/> | 
+  | 2 |  **30x** Kassandra(Collect 30 tokens to summon Kassandra to join your party. Tokens are also required to increase her rank.) | 
+  | 3 |  **100x** Spell Scrolls(A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.) | 
