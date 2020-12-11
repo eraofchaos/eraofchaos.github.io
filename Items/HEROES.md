@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Heroes"
+title: "Era of Chaos Item - Heroes"
 permalink: /Items/Heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
 last_modified_at: 2020-12-11

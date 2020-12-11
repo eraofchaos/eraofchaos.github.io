@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Materials"
+title: "Era of Chaos Item - Materials"
 permalink: /Items/
 excerpt: "List of ALL Materials in Era of Chaos"
 last_modified_at: 2020-12-11

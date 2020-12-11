@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Units"
+title: "Era of Chaos Item - Units"
 permalink: /Items/Units/
 excerpt: "List of ALL Units in Era of Chaos"
 last_modified_at: 2020-12-11

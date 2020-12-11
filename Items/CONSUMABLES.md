@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Consumables"
+title: "Era of Chaos Item - Consumables"
 permalink: /Items/Consumables/
 excerpt: "List of ALL Consumables in Era of Chaos"
 last_modified_at: 2020-12-11

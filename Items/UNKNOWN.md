@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Unknown"
+title: "Era of Chaos Item - Unknown"
 permalink: /Items/Unknown/
 excerpt: "List of ALL Unknown in Era of Chaos"
 last_modified_at: 2020-12-11

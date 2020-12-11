@@ -1,5 +1,5 @@
 ---
-title: "Era of Chaos - Artifacts"
+title: "Era of Chaos Item - Artifacts"
 permalink: /Items/Artifacts/
 excerpt: "List of ALL Artifacts in Era of Chaos"
 last_modified_at: 2020-12-11
