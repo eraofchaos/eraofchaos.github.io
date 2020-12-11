@@ -21,9 +21,11 @@ classes: wide
 
   To Be Done
 
-## This item drops:
+## This item contains:
 
- **Open Level:** 1
+ **Required Level to open:** 1
+
+ You would get **1** item  from:
 
   | Nr |      Item    |
   |:---|:------------:|
