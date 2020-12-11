@@ -17,14 +17,14 @@ docs:
       url: /heroes/
     - title: "Units"
       url: /units/
+    - title: "Items"
+      url: /Items/
     - title: "Alchemy Workshop"
       url: /Alchemy Workshop/
     - title: "Battle Formation"
       url: /Battle Formation/
     - title: "Healing Sea"
       url: /Healing Sea/
-#    - title: "Guild"
-#      url: /guild/
     - title: "Sphinx answers"
       url: /sphinx/
 

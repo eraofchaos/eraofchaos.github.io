@@ -10,6 +10,9 @@ sidebar:
 
 This information portal contains information about "Era Of Chaos" mobile game.
 
+  **11 Dec 2020 Update:** Huge work was done. We are happy to announce -> Added [Items](/Items/) 94 Materials, 83 Artifacts, 134 Units Souls, 148 Heroes Souls, 953 Consumables.
+{: .notice--danger}
+
   - **Game Update 8 Dec 2020** 
   - 1 New Unit: **Leprechaun** (Unit + Avatar + slot in Barracks)  **[Read more](/units/Leprechaun/)**
   - You can get **Leprechaun** from SSR Unit Soul
@@ -29,6 +32,7 @@ This information portal contains information about "Era Of Chaos" mobile game.
 
 
 You will find here:
+### <i class="fas fa-gavel"/> [Items](/Items/)
 ### <i class="fas fa-chess-king"/>  [Heroes](/heroes/) 
 ### <i class="fab fa-optin-monster"/>  [Units](/units/)
 ### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/Alchemy Workshop/)
