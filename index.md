@@ -11,14 +11,12 @@ sidebar:
 This information portal contains information about "Era Of Chaos" mobile game.
 
 
- **12 Dec 2020 Update:** 
- Huge work was done. We are happy to announce [Items](/Items/) 
+ **12 Dec 2020 Update:** Huge work was done. We are happy to announce [Items](/Items/) 
 * [94 Materials](https://eraofchaos.github.io/Items/), 
 * [83 Artifacts](https://eraofchaos.github.io/Items/Artifacts/), 
 * [134 Units Souls](https://eraofchaos.github.io/Items/Units/), 
 * [148 Heroes Souls](https://eraofchaos.github.io/Items/Heroes/), 
-* [953 Consumables](https://eraofchaos.github.io/Items/Consumables/).
-Each item contains section **Gather** from where You can get it and **This item contains** what You get by openning it. Drop rate to be done.
+* [953 Consumables](https://eraofchaos.github.io/Items/Consumables/). Each item contains section **Gather** from where You can get it and **This item contains** what You get by openning it. Drop rate to be done.
 {: .notice--danger}
 
 
@@ -36,6 +34,7 @@ You will find here:
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 ### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 ### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/)
+### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
 <br/>
 <br/>
 **YOUR feedback is welcome!**
@@ -43,7 +42,6 @@ You will find here:
 
 Currently in the development:
 ### <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/) see [Items - Artifacts](/Items/Artifacts/)
-### <i class="fas fa-atom"/>  [Holy Emblem](/emblem/)
 ### <i class="fas fa-place-of-worship"/>  [Guild](/guild/)
 ### <i class="fas fa-store"/>  [Stores](/stores/)
 ### <i class="fas fa-chess"/>  [Auto Chess](/autochess/)
