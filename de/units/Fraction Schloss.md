@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Schloss -  Units"
 permalink: /de/units/Fraction Schloss/
 excerpt: "Fraction Schloss - List of Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: de
 ref: "Fraction Schloss"
 toc: false
@@ -19,6 +19,6 @@ classes: wide
   | 3 | [Greif](/de/units/Griffin/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  shijiu  |
   | 4 | [Schwertkämpfer](/de/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
   | 5 | [Mönch](/de/units/Monk/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  senglv  |
-  | 6 | [Kavallerist](/de/units/Cavalier /) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 6 | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 7 | [Paladin](/de/units/Paladin/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
   | 8 | [Engel](/de/units/Angel/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |

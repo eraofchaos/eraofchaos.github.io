@@ -1,8 +1,8 @@
 ---
-title: "Formación de batalla"  INTERNAL
-permalink: /es/Battle FormationBattle Formation internal
+title: "Formación de batalla INTERNAL"
+permalink: /es/Battle Formation/Battle Formation internal
 excerpt: "Formación de batalla.Cada facción tiene unos potenciales y energía diferentes. Activa la formación de batalla exclusiva para activar tu poder latente."
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-10
 lang: es
 ref: "index.md"
 toc: false

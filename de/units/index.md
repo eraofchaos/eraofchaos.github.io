@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /de/units/
 excerpt: "List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: de
 ref: "index.md"
 toc: false
@@ -45,7 +45,7 @@ classes: wide
   | 31 | [Hydra](/de/units/Hydra/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |
   | 32 | [Höllenhund](/de/units/Hell Hound/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 77.8 | 827 |  santouquan  |
   | 33 | [Imp](/de/units/Imp/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 51.3 | 1224 |  xiaoemo  |
-  | 34 | [Kavallerist](/de/units/Cavalier /) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 34 | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 35 | [Knochendrache](/de/units/Bone Dragon/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |
   | 36 | [Leprechaun](/de/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  conglinyaojing  |
   | 37 | [Lich](/de/units/Lich/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  wuyao  |

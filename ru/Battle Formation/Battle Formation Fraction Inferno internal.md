@@ -2,7 +2,7 @@
 title: "Боевое построение Inferno"
 permalink: /ru/Battle Formation/Battle Formation Fraction Inferno internal
 excerpt: "Боевое построение Inferno"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-10
 lang: ru
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **Сражаясь с горящими вражескими отрядами, отряды Инферно получают +5% к сопротивлению урону** |
+  | **2** | **null** |
   | **3** | **Увеличивает ОЗ всех отрядов Инферно на 8%** |
   | **4** | **Усиливает ЗЩТ всех отрядов Инферно на 8%** |
   | **5** | **Отряды Инферно получают +30 к уклонению за каждый отряд Инферно на поле** |

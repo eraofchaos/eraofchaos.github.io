@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /fr/units/
 excerpt: "List of ALL Unités in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: fr
 ref: "index.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 7 | [Berserker](/fr/units/Berserker/) | Offensive | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  kuangzhanshi  |
   | 8 | [Béhémoth](/fr/units/Behemoth/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  bimengjushou  |
   | 9 | [Cauchemar](/fr/units/Nightmare/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |  mengyan  |
-  | 10 | [Cavalier](/fr/units/Cavalier /) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 10 | [Cavalier](/fr/units/Cavalier/) | Assaut | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 11 | [Centaure](/fr/units/Centaur/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  banrenma  |
   | 12 | [Chevalier noir](/fr/units/Black Knight/) | Assaut | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
   | 13 | [Chevaucheur de loup](/fr/units/Wolf Rider/) | Assaut | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  langqibing  |

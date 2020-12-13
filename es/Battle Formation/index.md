@@ -1,8 +1,8 @@
 ---
-title: "Formación de batalla"
+title: "Formación de batalla "
 permalink: /es/Battle Formation/
 excerpt: "Formación de batalla.Cada facción tiene unos potenciales y energía diferentes. Activa la formación de batalla exclusiva para activar tu poder latente."
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-10
 lang: es
 ref: "index.md"
 toc: false

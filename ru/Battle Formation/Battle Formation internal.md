@@ -1,8 +1,8 @@
 ---
-title: "Боевое построение"  INTERNAL
-permalink: /ru/Battle FormationBattle Formation internal
+title: "Боевое построение INTERNAL"
+permalink: /ru/Battle Formation/Battle Formation internal
 excerpt: "Боевое построение.У каждой фракции - свои возможности и энергия. Активируйте уникальное боевое построение, чтобы активировать свои скрытые навыки."
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-10
 lang: ru
 ref: "index.md"
 toc: false

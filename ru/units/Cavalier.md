@@ -1,9 +1,9 @@
 ---
 title: "Всадники"
-permalink: /ru/units/Cavalier /
+permalink: /ru/units/Cavalier/
 excerpt: "Отряды Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: ru
 ref: "Всадники"
 toc: true

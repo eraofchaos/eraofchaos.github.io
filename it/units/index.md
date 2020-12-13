@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /it/units/
 excerpt: "List of ALL Unità in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: it
 ref: "index.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | [Basilisco](/it/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 2859 |  xiyi  |
   | 9 | [Behemoth](/it/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  bimengjushou  |
   | 10 | [Berserker](/it/units/Berserker/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  kuangzhanshi  |
-  | 11 | [Catafratto](/it/units/Cavalier /) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 11 | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 12 | [Cavaliere nero](/it/units/Black Knight/) | Incursione | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
   | 13 | [Centauro](/it/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  banrenma  |
   | 14 | [Ciclope](/it/units/Cyclops/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5091 |  duyanjuren  |

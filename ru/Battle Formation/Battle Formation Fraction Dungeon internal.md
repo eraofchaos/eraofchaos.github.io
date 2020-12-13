@@ -2,7 +2,7 @@
 title: "Боевое построение Dungeon"
 permalink: /ru/Battle Formation/Battle Formation Fraction Dungeon internal
 excerpt: "Боевое построение Dungeon"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-10
 lang: ru
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -30,7 +30,7 @@ classes: wide
   | **5** | **null** |
   | **6** | **null** |
   | **7** | **null** |
-  | **8** | **Когда вражеский герой творит заклинание, КРИТ. УРН отрядов Подземелья увеличивается на 12% на 6 сек.** |
+  | **8** | **null** |
   | **9** | **Ускоряет атаку всех отрядов Подземелья на 4%** |
   | **10** | **Усиливает АТК всех отрядов Подземелья на 15%** |
   | **11** | **null** |

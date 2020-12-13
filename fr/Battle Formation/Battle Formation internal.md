@@ -1,8 +1,8 @@
 ---
-title: "Formation de combat"  INTERNAL
-permalink: /fr/Battle FormationBattle Formation internal
+title: "Formation de combat INTERNAL"
+permalink: /fr/Battle Formation/Battle Formation internal
 excerpt: "Formation de combat.Chaque faction est unique en termes de potentiel et d'énergie. Activez la formation de combat exclusive pour déchainer votre pouvoir latent."
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-10
 lang: fr
 ref: "index.md"
 toc: false

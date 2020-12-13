@@ -1,9 +1,9 @@
 ---
 title: "Catafracto"
-permalink: /es/units/Cavalier /
+permalink: /es/units/Cavalier/
 excerpt: "Unidades Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: es
 ref: "Catafracto"
 toc: true

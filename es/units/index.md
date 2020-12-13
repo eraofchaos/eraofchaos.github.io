@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /es/units/
 excerpt: "List of ALL Unidades in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: es
 ref: "index.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Behemoth](/es/units/Behemoth/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  bimengjushou  |
   | 10 | [Berserker](/es/units/Berserker/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  kuangzhanshi  |
   | 11 | [Caballero Negro](/es/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
-  | 12 | [Catafracto](/es/units/Cavalier /) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 12 | [Catafracto](/es/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 13 | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  banrenma  |
   | 14 | [Cíclope](/es/units/Cyclops/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5091 |  duyanjuren  |
   | 15 | [Demonio](/es/units/Demon/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 114.4 | 2489 |  changjiaoemo  |

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Castillo -  Units"
 permalink: /es/units/Fraction Castillo/
 excerpt: "Fraction Castillo - List of Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: es
 ref: "Fraction Castillo"
 toc: false
@@ -19,6 +19,6 @@ classes: wide
   | 3 | [Grifo](/es/units/Griffin/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  shijiu  |
   | 4 | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
   | 5 | [Monje](/es/units/Monk/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  senglv  |
-  | 6 | [Catafracto](/es/units/Cavalier /) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 6 | [Catafracto](/es/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 7 | [Paladín](/es/units/Paladin/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
   | 8 | [Ángel](/es/units/Angel/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |

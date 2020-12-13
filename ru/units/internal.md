@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of INTERNAL (unreleased) Отряды"
 permalink: /ru/units/internal/
 excerpt: "List of INTERNAL Отряды in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-10
 lang: ru
 ref: "internal"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
-  | 1 | [ Ice Demon](/ru/units/ Ice Demon/) | Стрелковый | - | UR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |  yuansuzhihuiguan  |
+  | 1 | [Ice Demon](/ru/units/Ice Demon/) | Стрелковый | - | UR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |  yuansuzhihuiguan  |
   | 2 | [Mantis](/ru/units/Mantis/) | Наступление | - | UR | Unknown: 4 (3). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1140.4 | 6336 |  bileizhihuiguan  |
-  | 3 | [Unknown_TEAM_509](/ru/units/ Infamous/) | Защита | - | UR | Unknown: 4 (4). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |
+  | 3 | [Unknown_TEAM_509](/ru/units/Infamous/) | Защита | - | UR | Unknown: 4 (4). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |
   | 4 | [Unknown_TEAM_808](/ru/units/Waspwort/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |
   | 5 | [Wicked Lady](/ru/units/Wicked Lady/) | Штурм | - | UR | Unknown: 4 (7). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |  dixiachengzhihuiguan  |
   | 6 | [Вершитель](/ru/units/Judicator/) | Заклинатель | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |  shenpanguan  |

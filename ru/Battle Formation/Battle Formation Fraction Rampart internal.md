@@ -2,7 +2,7 @@
 title: "Боевое построение Rampart"
 permalink: /ru/Battle Formation/Battle Formation Fraction Rampart internal
 excerpt: "Боевое построение Rampart"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-10
 lang: ru
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
   | **8** | **Отряды Бастиона, сражаясь с кровоточащими и замедленными отрядами, получают 4% усиление ЗЩТ за активный эффект** |
   | **9** | **Ускоряет атаку всех отрядов Бастиона на 4%** |
   | **10** | **Усиливает АТК всех отрядов Бастиона на 15%** |
-  | **11** | **Увеличивает ОЗ всех отрядов Бастиона на 17%** |
+  | **11** | **null** |
   | **12** | **null** |
 
 ## Боевое построение Circle 1:

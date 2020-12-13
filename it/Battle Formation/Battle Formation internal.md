@@ -1,8 +1,8 @@
 ---
-title: "Formazione di battaglia"  INTERNAL
-permalink: /it/Battle FormationBattle Formation internal
+title: "Formazione di battaglia INTERNAL"
+permalink: /it/Battle Formation/Battle Formation internal
 excerpt: "Formazione di battaglia.Le fazioni hanno un potenziale e caratteristiche ben distinte. Attiva la formazione di battaglia per svelare il tuo potere latente."
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-10
 lang: it
 ref: "index.md"
 toc: false
