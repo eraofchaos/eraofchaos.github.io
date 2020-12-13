@@ -34,4 +34,4 @@ classes: wide
   | 3 |  **30x** | Expert Roster Box | A rare chest that can be found in Dragon's Treasures. Open to receive 3 random Roster runes.  | 
   | 4 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
   | 5 |  **200000x** | <i class="fas fa-coins"/> |  | 
-  | 6 |  **20000x** Unit EXP(Leveling up your units consumes unit experience.) | 
+  | 6 |  **20000x** | Unit EXP | Leveling up your units consumes unit experience.  | 

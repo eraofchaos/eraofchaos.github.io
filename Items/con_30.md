@@ -31,4 +31,4 @@ classes: wide
   |:---|:-------|:------------|:-----------:|
   | 1 |  **2x** | Random Orange Holy Emblem Pack | Grants 1 random Orange Holy Emblem.  | 
   | 2 |  **10x** | Multi-choice Cast Stone Pack | Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1  | 
-  | 3 |  **14000x** Soul Stone(Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store) | 
+  | 3 |  **14000x** | Soul Stone | Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store  | 

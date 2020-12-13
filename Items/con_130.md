@@ -29,9 +29,9 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **20x** Guild coin(Can be exchanged for items in the Guild Store.) | 
-  | 2 |  **88x** Guild coin(Can be exchanged for items in the Guild Store.) | 
-  | 3 |  **166x** Guild coin(Can be exchanged for items in the Guild Store.) | 
+  | 1 |  **20x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 2 |  **88x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 3 |  **166x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
   | 4 |  **3x** | Blue Crystal | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used.  | 
   | 5 |  **3x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
   | 6 |  **2x** | Expert Roster Box | A rare chest that can be found in Dragon's Treasures. Open to receive 3 random Roster runes.  | 
