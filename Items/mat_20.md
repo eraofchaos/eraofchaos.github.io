@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Corporal Punishment** 
-
-    - **Chapter - From Day to Night** 
-
-    - **Chapter - Safe Passage** 
-
-    - **Chapter - United Front** 
-
-
+*    Unknown_17 
+*    Chapter - Corporal Punishment 
+*    Chapter - From Day to Night 
+*    Chapter - Safe Passage 
+*    Chapter - United Front 
 
 ## This item contains:
 

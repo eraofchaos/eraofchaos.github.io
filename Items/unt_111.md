@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Campaign Store** 
-
-
+*    Campaign Store 
 
 ## This item contains:
 

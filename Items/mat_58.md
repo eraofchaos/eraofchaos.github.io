@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 8 (Borderlands) -> 8-3** 
-
-    - **Chapter 8 (Borderlands) -> 8-6** 
-
-    - **Chapter 8 (Borderlands) -> 8-9** 
-
-
+*    Unknown_17 
+*    Chapter 8 (Borderlands) -> 8-3 
+*    Chapter 8 (Borderlands) -> 8-6 
+*    Chapter 8 (Borderlands) -> 8-9 
 
 ## This item contains:
 

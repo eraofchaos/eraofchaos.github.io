@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Dragon Turtle** 
-
-    - **Altar of Recruitment** 
-
-
+*    Barracks Redemption - Dragon Turtle 
+*    Altar of Recruitment 
 
 ## This item contains:
 

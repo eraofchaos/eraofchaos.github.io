@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Serpent Fly** 
-
-
+*    Altar of Recruitment 
+*    Barracks Redemption - Serpent Fly 
 
 ## This item contains:
 

@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 19 (Neutral Ground) -> 19-3** 
-
-    - **Underground 26 (Sound of Fate) -> 26-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Cyclops** 
-
-
+*    Underground 19 (Neutral Ground) -> 19-3 
+*    Underground 26 (Sound of Fate) -> 26-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Cyclops 
 
 ## This item contains:
 

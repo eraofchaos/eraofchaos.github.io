@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 19 (Neutral Ground) -> 19-5** 
-
-    - **Underground 25 (Land of Sleep) -> 25-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Mage** 
-
-
+*    Underground 19 (Neutral Ground) -> 19-5 
+*    Underground 25 (Land of Sleep) -> 25-1 
+*    Altar of Recruitment 
+*    Barracks Redemption - Mage 
 
 ## This item contains:
 

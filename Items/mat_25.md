@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Deal with the Devil** 
-
-    - **Chapter - Neutral Ground** 
-
-    - **Chapter - Tunnels and Troglodytes** 
-
-    - **Chapter - The Grail** 
-
-
+*    Unknown_17 
+*    Chapter - Deal with the Devil 
+*    Chapter - Neutral Ground 
+*    Chapter - Tunnels and Troglodytes 
+*    Chapter - The Grail 
 
 ## This item contains:
 

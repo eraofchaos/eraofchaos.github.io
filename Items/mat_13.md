@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 6 (Breaking Ground) -> 6-1** 
-
-    - **Chapter 6 (Breaking Ground) -> 6-4** 
-
-    - **Chapter 6 (Breaking Ground) -> 6-7** 
-
-
+*    Unknown_17 
+*    Chapter 6 (Breaking Ground) -> 6-1 
+*    Chapter 6 (Breaking Ground) -> 6-4 
+*    Chapter 6 (Breaking Ground) -> 6-7 
 
 ## This item contains:
 

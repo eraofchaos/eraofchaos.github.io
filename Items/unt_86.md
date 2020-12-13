@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Gods Store** 
-
-
+*    Gods Store 
 
 ## This item contains:
 

@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Lizardman** 
-
-
+*    Altar of Recruitment 
+*    Barracks Redemption - Lizardman 
 
 ## This item contains:
 

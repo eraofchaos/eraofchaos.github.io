@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 8 (Frenzied Thoughts) -> 8-3** 
-
-    - **Underground 12 (Corporal Punishment) -> 12-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Treasure Chest - Byrds** 
-
-    - **Barracks Redemption - Wolf Rider** 
-
-
+*    Underground 8 (Frenzied Thoughts) -> 8-3 
+*    Underground 12 (Corporal Punishment) -> 12-1 
+*    Altar of Recruitment 
+*    Treasure Chest - Byrds 
+*    Barracks Redemption - Wolf Rider 
 
 ## This item contains:
 

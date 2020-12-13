@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 17 (Liberation of the Empire) -> 17-1** 
-
-    - **Chapter 17 (Liberation of the Empire) -> 17-5** 
-
-    - **Chapter 17 (Liberation of the Empire) -> 17-11** 
-
-
+*    Unknown_17 
+*    Chapter 17 (Liberation of the Empire) -> 17-1 
+*    Chapter 17 (Liberation of the Empire) -> 17-5 
+*    Chapter 17 (Liberation of the Empire) -> 17-11 
 
 ## This item contains:
 

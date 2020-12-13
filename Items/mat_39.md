@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 2 (Return of the Queen) -> 2-2** 
-
-    - **Chapter 2 (Return of the Queen) -> 2-6** 
-
-    - **Chapter 2 (Return of the Queen) -> 2-10** 
-
-
+*    Unknown_17 
+*    Chapter 2 (Return of the Queen) -> 2-2 
+*    Chapter 2 (Return of the Queen) -> 2-6 
+*    Chapter 2 (Return of the Queen) -> 2-10 
 
 ## This item contains:
 

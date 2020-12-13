@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 11 (Tatalia) -> 11-1** 
-
-    - **Chapter 11 (Tatalia) -> 11-5** 
-
-    - **Chapter 11 (Tatalia) -> 11-11** 
-
-
+*    Unknown_17 
+*    Chapter 11 (Tatalia) -> 11-1 
+*    Chapter 11 (Tatalia) -> 11-5 
+*    Chapter 11 (Tatalia) -> 11-11 
 
 ## This item contains:
 

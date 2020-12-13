@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Bone Dragon** 
-
-
+*    Altar of Recruitment 
+*    Barracks Redemption - Bone Dragon 
 
 ## This item contains:
 

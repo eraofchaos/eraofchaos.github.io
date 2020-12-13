@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 4 (A Devilish Plan) -> 4-1** 
-
-    - **Underground 9 (Greed) -> 9-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Skeleton** 
-
-
+*    Underground 4 (A Devilish Plan) -> 4-1 
+*    Underground 9 (Greed) -> 9-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Skeleton 
 
 ## This item contains:
 

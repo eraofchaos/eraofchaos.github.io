@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 8 (Frenzied Thoughts) -> 8-5** 
-
-    - **Underground 13 (From Day to Night) -> 13-5** 
-
-    - **Altar of Recruitment** 
-
-    - **Treasure Chest - Tatalia** 
-
-    - **Barracks Redemption - Ogre** 
-
-
+*    Underground 8 (Frenzied Thoughts) -> 8-5 
+*    Underground 13 (From Day to Night) -> 13-5 
+*    Altar of Recruitment 
+*    Treasure Chest - Tatalia 
+*    Barracks Redemption - Ogre 
 
 ## This item contains:
 

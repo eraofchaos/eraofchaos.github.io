@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Guild Store** 
-
-    - **Dragon Utopia** 
-
-
+*    Guild Store 
+*    Dragon Utopia 
 
 ## This item contains:
 

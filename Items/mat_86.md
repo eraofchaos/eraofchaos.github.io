@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 21 (The Grail) -> 21-1** 
-
-    - **Chapter 21 (The Grail) -> 21-5** 
-
-    - **Chapter 21 (The Grail) -> 21-11** 
-
-
+*    Unknown_17 
+*    Chapter 21 (The Grail) -> 21-1 
+*    Chapter 21 (The Grail) -> 21-5 
+*    Chapter 21 (The Grail) -> 21-11 
 
 ## This item contains:
 

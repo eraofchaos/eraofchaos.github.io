@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Underground Chest** 
-
-    - **Champion Store** 
-
-
+*    Underground Chest 
+*    Champion Store 
 
 ## This item contains:
 

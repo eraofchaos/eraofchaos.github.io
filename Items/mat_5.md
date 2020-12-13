@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 15 (United Front) -> 15-6** 
-
-    - **Chapter 15 (United Front) -> 15-12** 
-
-    - **Chapter 15 (United Front) -> 15-15** 
-
-
+*    Unknown_17 
+*    Chapter 15 (United Front) -> 15-6 
+*    Chapter 15 (United Front) -> 15-12 
+*    Chapter 15 (United Front) -> 15-15 
 
 ## This item contains:
 

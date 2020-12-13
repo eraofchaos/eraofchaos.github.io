@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 11 (Harvest Season) -> 11-3** 
-
-    - **Underground 14 (Safe Passage) -> 14-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Gremlin** 
-
-
+*    Underground 11 (Harvest Season) -> 11-3 
+*    Underground 14 (Safe Passage) -> 14-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Gremlin 
 
 ## This item contains:
 

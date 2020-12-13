@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Lich** 
-
-
+*    Barracks Redemption - Lich 
 
 ## This item contains:
 

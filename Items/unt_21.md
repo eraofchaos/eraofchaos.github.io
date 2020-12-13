@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Underground 20 (Tunnels and Troglodytes) -> 20-5** 
-
-    - **Underground 24 (Elemental Tide) -> 24-1** 
-
-    - **Barracks Redemption - null** 
-
-    - **Campaign Store** 
-
-
+*    Altar of Recruitment 
+*    Underground 20 (Tunnels and Troglodytes) -> 20-5 
+*    Underground 24 (Elemental Tide) -> 24-1 
+*    Barracks Redemption - null 
+*    Campaign Store 
 
 ## This item contains:
 

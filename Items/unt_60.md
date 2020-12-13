@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 9 (Greed) -> 9-1** 
-
-    - **Underground 10 (Gryphonheart) -> 10-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Imp** 
-
-
+*    Underground 9 (Greed) -> 9-1 
+*    Underground 10 (Gryphonheart) -> 10-1 
+*    Altar of Recruitment 
+*    Barracks Redemption - Imp 
 
 ## This item contains:
 

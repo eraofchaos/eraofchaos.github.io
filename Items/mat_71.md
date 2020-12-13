@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - A Devilish Plan** 
-
-    - **Chapter - Pioneer** 
-
-    - **Chapter - Fall of the Capital** 
-
-    - **Chapter - Borderlands** 
-
-
+*    Unknown_17 
+*    Chapter - A Devilish Plan 
+*    Chapter - Pioneer 
+*    Chapter - Fall of the Capital 
+*    Chapter - Borderlands 
 
 ## This item contains:
 

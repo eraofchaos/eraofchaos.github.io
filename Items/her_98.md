@@ -19,13 +19,9 @@ classes: wide
 
 ## Gather
 
-    - **Underground 21 (The Grail) -> 21-2** 
-
-    - **Underground 25 (Land of Sleep) -> 25-2** 
-
-    - **Spell Prayer** 
-
-
+*    Underground 21 (The Grail) -> 21-2 
+*    Underground 25 (Land of Sleep) -> 25-2 
+*    Spell Prayer 
 
 ## This item contains:
 

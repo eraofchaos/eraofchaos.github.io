@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Gryphonheart** 
-
-    - **Chapter - Harvest Season** 
-
-    - **Chapter - Corporal Punishment** 
-
-    - **Chapter - From Day to Night** 
-
-
+*    Unknown_17 
+*    Chapter - Gryphonheart 
+*    Chapter - Harvest Season 
+*    Chapter - Corporal Punishment 
+*    Chapter - From Day to Night 
 
 ## This item contains:
 

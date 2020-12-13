@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Guild Store** 
-
-
+*    Guild Store 
 
 ## This item contains:
 

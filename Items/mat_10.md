@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 27 (Dragon Father's Blood) -> 27-4** 
-
-    - **Chapter 27 (Dragon Father's Blood) -> 27-10** 
-
-    - **Chapter 27 (Dragon Father's Blood) -> 27-13** 
-
-
+*    Unknown_17 
+*    Chapter 27 (Dragon Father's Blood) -> 27-4 
+*    Chapter 27 (Dragon Father's Blood) -> 27-10 
+*    Chapter 27 (Dragon Father's Blood) -> 27-13 
 
 ## This item contains:
 

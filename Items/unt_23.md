@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 2 (Guardian Angel) -> 2-1** 
-
-    - **Underground 16 (For King and Country) -> 16-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Archer** 
-
-
+*    Underground 2 (Guardian Angel) -> 2-1 
+*    Underground 16 (For King and Country) -> 16-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Archer 
 
 ## This item contains:
 

@@ -19,19 +19,12 @@ classes: wide
 
 ## Gather
 
-    - **Underground 9 (Greed) -> 9-5** 
-
-    - **Underground 13 (From Day to Night) -> 13-1** 
-
-    - **Underground 22 (The Road Home) -> 22-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Treasure Chest - Land of Chaos** 
-
-    - **Barracks Redemption - Demon** 
-
-
+*    Underground 9 (Greed) -> 9-5 
+*    Underground 13 (From Day to Night) -> 13-1 
+*    Underground 22 (The Road Home) -> 22-3 
+*    Altar of Recruitment 
+*    Treasure Chest - Land of Chaos 
+*    Barracks Redemption - Demon 
 
 ## This item contains:
 

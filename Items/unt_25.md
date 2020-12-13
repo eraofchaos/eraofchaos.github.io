@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 7 (Borderlands) -> 7-3** 
-
-    - **Underground 8 (Frenzied Thoughts) -> 8-1** 
-
-    - **Underground 15 (United Front) -> 15-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Goblin** 
-
-
+*    Underground 7 (Borderlands) -> 7-3 
+*    Underground 8 (Frenzied Thoughts) -> 8-1 
+*    Underground 15 (United Front) -> 15-1 
+*    Altar of Recruitment 
+*    Barracks Redemption - Goblin 
 
 ## This item contains:
 

@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Artifacts** 
-
-
+*    Artifacts 
 
 ## This item contains:
 

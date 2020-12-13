@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Unicorn King** 
-
-
+*    Barracks Redemption - Unicorn King 
 
 ## This item contains:
 

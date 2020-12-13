@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 7 (Erathia) -> 7-6** 
-
-    - **Chapter 7 (Erathia) -> 7-12** 
-
-    - **Chapter 7 (Erathia) -> 7-15** 
-
-
+*    Unknown_17 
+*    Chapter 7 (Erathia) -> 7-6 
+*    Chapter 7 (Erathia) -> 7-12 
+*    Chapter 7 (Erathia) -> 7-15 
 
 ## This item contains:
 

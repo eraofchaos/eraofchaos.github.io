@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Manticore** 
-
-
+*    Barracks Redemption - Manticore 
 
 ## This item contains:
 

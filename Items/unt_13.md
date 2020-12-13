@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Arena Store** 
-
-
+*    Arena Store 
 
 ## This item contains:
 

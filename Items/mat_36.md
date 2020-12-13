@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 20 (Tunnels and Troglodytes) -> 20-1** 
-
-    - **Chapter 20 (Tunnels and Troglodytes) -> 20-4** 
-
-    - **Chapter 20 (Tunnels and Troglodytes) -> 20-7** 
-
-
+*    Unknown_17 
+*    Chapter 20 (Tunnels and Troglodytes) -> 20-1 
+*    Chapter 20 (Tunnels and Troglodytes) -> 20-4 
+*    Chapter 20 (Tunnels and Troglodytes) -> 20-7 
 
 ## This item contains:
 

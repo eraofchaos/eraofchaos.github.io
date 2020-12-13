@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 23 (Independence) -> 23-5** 
-
-    - **Underground 26 (Sound of Fate) -> 26-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Harpy** 
-
-
+*    Underground 23 (Independence) -> 23-5 
+*    Underground 26 (Sound of Fate) -> 26-1 
+*    Altar of Recruitment 
+*    Barracks Redemption - Harpy 
 
 ## This item contains:
 

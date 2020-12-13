@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Duel of Champions** 
-
-
+*    Duel of Champions 
 
 ## This item contains:
 

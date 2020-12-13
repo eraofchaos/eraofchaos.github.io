@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 16 (For King and Country) -> 16-5** 
-
-    - **Underground 20 (Tunnels and Troglodytes) -> 20-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - null** 
-
-
+*    Underground 16 (For King and Country) -> 16-5 
+*    Underground 20 (Tunnels and Troglodytes) -> 20-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - null 
 
 ## This item contains:
 

@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Guild Store** 
-
-
+*    Altar of Recruitment 
+*    Guild Store 
 
 ## This item contains:
 

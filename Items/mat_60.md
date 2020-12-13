@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Safe Passage** 
-
-    - **Chapter - United Front** 
-
-    - **Chapter - For King and Country** 
-
-    - **Chapter - Liberation of the Empire** 
-
-
+*    Unknown_17 
+*    Chapter - Safe Passage 
+*    Chapter - United Front 
+*    Chapter - For King and Country 
+*    Chapter - Liberation of the Empire 
 
 ## This item contains:
 

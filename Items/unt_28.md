@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Kingdom Store** 
-
-
+*    Kingdom Store 
 
 ## This item contains:
 

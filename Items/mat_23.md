@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 18 (Deal with the Devil) -> 18-1** 
-
-    - **Chapter 18 (Deal with the Devil) -> 18-4** 
-
-    - **Chapter 18 (Deal with the Devil) -> 18-7** 
-
-
+*    Unknown_17 
+*    Chapter 18 (Deal with the Devil) -> 18-1 
+*    Chapter 18 (Deal with the Devil) -> 18-4 
+*    Chapter 18 (Deal with the Devil) -> 18-7 
 
 ## This item contains:
 

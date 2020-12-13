@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Tunnels and Troglodytes** 
-
-    - **Chapter - The Grail** 
-
-    - **Chapter - The Road Home** 
-
-    - **Chapter - Independence** 
-
-
+*    Unknown_17 
+*    Chapter - Tunnels and Troglodytes 
+*    Chapter - The Grail 
+*    Chapter - The Road Home 
+*    Chapter - Independence 
 
 ## This item contains:
 

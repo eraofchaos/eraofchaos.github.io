@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - For King and Country** 
-
-    - **Chapter - Liberation of the Empire** 
-
-    - **Chapter - Deal with the Devil** 
-
-    - **Chapter - Neutral Ground** 
-
-
+*    Unknown_17 
+*    Chapter - For King and Country 
+*    Chapter - Liberation of the Empire 
+*    Chapter - Deal with the Devil 
+*    Chapter - Neutral Ground 
 
 ## This item contains:
 

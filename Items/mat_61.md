@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 19 (Neutral Ground) -> 19-6** 
-
-    - **Chapter 19 (Neutral Ground) -> 19-12** 
-
-    - **Chapter 19 (Neutral Ground) -> 19-15** 
-
-
+*    Unknown_17 
+*    Chapter 19 (Neutral Ground) -> 19-6 
+*    Chapter 19 (Neutral Ground) -> 19-12 
+*    Chapter 19 (Neutral Ground) -> 19-15 
 
 ## This item contains:
 

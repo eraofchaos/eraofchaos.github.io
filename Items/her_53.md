@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Underground Chest** 
-
-
+*    Underground Chest 
 
 ## This item contains:
 

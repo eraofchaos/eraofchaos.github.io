@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 3 (Guardian Angel) -> 3-6** 
-
-    - **Chapter 3 (Guardian Angel) -> 3-12** 
-
-    - **Chapter 3 (Guardian Angel) -> 3-15** 
-
-
+*    Unknown_17 
+*    Chapter 3 (Guardian Angel) -> 3-6 
+*    Chapter 3 (Guardian Angel) -> 3-12 
+*    Chapter 3 (Guardian Angel) -> 3-15 
 
 ## This item contains:
 

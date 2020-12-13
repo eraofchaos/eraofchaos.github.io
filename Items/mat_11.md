@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Sound of Fate** 
-
-
+*    Unknown_17 
+*    Chapter - Sound of Fate 
 
 ## This item contains:
 

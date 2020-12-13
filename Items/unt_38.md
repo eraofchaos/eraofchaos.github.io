@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 24 (Elemental Tide) -> 24-3** 
-
-    - **Underground 26 (Sound of Fate) -> 26-5** 
-
-    - **Altar of Recruitment** 
-
-    - **Arena Store** 
-
-    - **Barracks Redemption - Roc** 
-
-
+*    Underground 24 (Elemental Tide) -> 24-3 
+*    Underground 26 (Sound of Fate) -> 26-5 
+*    Altar of Recruitment 
+*    Arena Store 
+*    Barracks Redemption - Roc 
 
 ## This item contains:
 

@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 1 (Evenmorn Island) -> 1-2** 
-
-    - **Chapter 1 (Evenmorn Island) -> 1-5** 
-
-    - **Chapter 2 (Return of the Queen) -> 2-4** 
-
-
+*    Unknown_17 
+*    Chapter 1 (Evenmorn Island) -> 1-2 
+*    Chapter 1 (Evenmorn Island) -> 1-5 
+*    Chapter 2 (Return of the Queen) -> 2-4 
 
 ## This item contains:
 

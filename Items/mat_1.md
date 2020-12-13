@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 10 (Marshland) -> 10-10** 
-
-    - **Chapter 10 (Marshland) -> 10-14** 
-
-    - **Chapter 11 (Tatalia) -> 11-4** 
-
-
+*    Unknown_17 
+*    Chapter 10 (Marshland) -> 10-10 
+*    Chapter 10 (Marshland) -> 10-14 
+*    Chapter 11 (Tatalia) -> 11-4 
 
 ## This item contains:
 

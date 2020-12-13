@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 26 (Extend Lead) -> 26-7** 
-
-
+*    Unknown_17 
+*    Chapter 26 (Extend Lead) -> 26-7 
 
 ## This item contains:
 

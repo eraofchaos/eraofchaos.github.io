@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 1 (Evenmorn Island) -> 1-2** 
-
-    - **Chapter 1 (Evenmorn Island) -> 1-3** 
-
-    - **Chapter 1 (Evenmorn Island) -> 1-5** 
-
-
+*    Unknown_17 
+*    Chapter 1 (Evenmorn Island) -> 1-2 
+*    Chapter 1 (Evenmorn Island) -> 1-3 
+*    Chapter 1 (Evenmorn Island) -> 1-5 
 
 ## This item contains:
 

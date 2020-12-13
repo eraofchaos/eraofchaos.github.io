@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "Units.md"
 toc: false

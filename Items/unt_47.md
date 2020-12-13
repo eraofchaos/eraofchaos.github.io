@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Hydra** 
-
-
+*    Barracks Redemption - Hydra 
 
 ## This item contains:
 

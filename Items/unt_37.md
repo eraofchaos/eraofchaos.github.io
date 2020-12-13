@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Medusa** 
-
-
+*    Barracks Redemption - Medusa 
 
 ## This item contains:
 

@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 13 (From Day to Night) -> 13-6** 
-
-    - **Chapter 13 (From Day to Night) -> 13-12** 
-
-    - **Chapter 13 (From Day to Night) -> 13-15** 
-
-
+*    Unknown_17 
+*    Chapter 13 (From Day to Night) -> 13-6 
+*    Chapter 13 (From Day to Night) -> 13-12 
+*    Chapter 13 (From Day to Night) -> 13-15 
 
 ## This item contains:
 

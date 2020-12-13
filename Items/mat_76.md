@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - The Pilgrim's Way** 
-
-
+*    Unknown_17 
+*    Chapter - The Pilgrim's Way 
 
 ## This item contains:
 

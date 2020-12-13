@@ -19,13 +19,9 @@ classes: wide
 
 ## Gather
 
-    - **Campaign** 
-
-    - **Artifact Store** 
-
-    - **Artifacts** 
-
-
+*    Campaign 
+*    Artifact Store 
+*    Artifacts 
 
 ## This item contains:
 

@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 24 (Elemental Tide) -> 24-5** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Minotaur** 
-
-    - **Kingdom Store** 
-
-
+*    Underground 24 (Elemental Tide) -> 24-5 
+*    Altar of Recruitment 
+*    Barracks Redemption - Minotaur 
+*    Kingdom Store 
 
 ## This item contains:
 

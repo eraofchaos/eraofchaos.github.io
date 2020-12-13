@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 5 (Pioneer) -> 5-1** 
-
-    - **Underground 7 (Borderlands) -> 7-5** 
-
-    - **Altar of Recruitment** 
-
-    - **Treasure Chest - Guardian Angel** 
-
-    - **Barracks Redemption - Centaur** 
-
-
+*    Underground 5 (Pioneer) -> 5-1 
+*    Underground 7 (Borderlands) -> 7-5 
+*    Altar of Recruitment 
+*    Treasure Chest - Guardian Angel 
+*    Barracks Redemption - Centaur 
 
 ## This item contains:
 

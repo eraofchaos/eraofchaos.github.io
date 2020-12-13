@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Genie** 
-
-
+*    Barracks Redemption - Genie 
 
 ## This item contains:
 

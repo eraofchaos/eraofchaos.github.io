@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Evil Eye** 
-
-
+*    Barracks Redemption - Evil Eye 
 
 ## This item contains:
 

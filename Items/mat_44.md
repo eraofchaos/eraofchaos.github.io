@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Frenzied Thoughts** 
-
-    - **Chapter - Greed** 
-
-    - **Chapter - Gryphonheart** 
-
-    - **Chapter - Harvest Season** 
-
-
+*    Unknown_17 
+*    Chapter - Frenzied Thoughts 
+*    Chapter - Greed 
+*    Chapter - Gryphonheart 
+*    Chapter - Harvest Season 
 
 ## This item contains:
 

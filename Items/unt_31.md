@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Regnan Pirate** 
-
-
+*    Altar of Recruitment 
+*    Barracks Redemption - Regnan Pirate 
 
 ## This item contains:
 

@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Troglodyte** 
-
-
+*    Altar of Recruitment 
+*    Barracks Redemption - Troglodyte 
 
 ## This item contains:
 

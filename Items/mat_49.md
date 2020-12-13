@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 24 (Faerie Dragon) -> 24-2** 
-
-    - **Chapter 24 (Faerie Dragon) -> 24-8** 
-
-    - **Chapter 25 (Survival of the Fittest) -> 25-2** 
-
-
+*    Unknown_17 
+*    Chapter 24 (Faerie Dragon) -> 24-2 
+*    Chapter 24 (Faerie Dragon) -> 24-8 
+*    Chapter 25 (Survival of the Fittest) -> 25-2 
 
 ## This item contains:
 

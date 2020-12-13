@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 16 (For King and Country) -> 16-1** 
-
-    - **Chapter 16 (For King and Country) -> 16-4** 
-
-    - **Chapter 16 (For King and Country) -> 16-7** 
-
-
+*    Unknown_17 
+*    Chapter 16 (For King and Country) -> 16-1 
+*    Chapter 16 (For King and Country) -> 16-4 
+*    Chapter 16 (For King and Country) -> 16-7 
 
 ## This item contains:
 

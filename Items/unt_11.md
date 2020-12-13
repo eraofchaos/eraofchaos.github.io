@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 1 (Homecoming) -> 1-3** 
-
-    - **Underground 6 (Fall of the Capital) -> 6-3** 
-
-    - **Underground 21 (The Grail) -> 21-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Griffin** 
-
-
+*    Underground 1 (Homecoming) -> 1-3 
+*    Underground 6 (Fall of the Capital) -> 6-3 
+*    Underground 21 (The Grail) -> 21-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Griffin 
 
 ## This item contains:
 

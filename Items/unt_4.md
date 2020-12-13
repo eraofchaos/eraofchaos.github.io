@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Hydra** 
-
-    - **Altar of Recruitment** 
-
-
+*    Barracks Redemption - Hydra 
+*    Altar of Recruitment 
 
 ## This item contains:
 

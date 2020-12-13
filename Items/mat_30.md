@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 6 (Breaking Ground) -> 6-10** 
-
-    - **Chapter 6 (Breaking Ground) -> 6-14** 
-
-    - **Chapter 7 (Erathia) -> 7-4** 
-
-
+*    Unknown_17 
+*    Chapter 6 (Breaking Ground) -> 6-10 
+*    Chapter 6 (Breaking Ground) -> 6-14 
+*    Chapter 7 (Erathia) -> 7-4 
 
 ## This item contains:
 

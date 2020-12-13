@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 14 (Safe Passage) -> 14-2** 
-
-    - **Chapter 14 (Safe Passage) -> 14-5** 
-
-    - **Chapter 14 (Safe Passage) -> 14-8** 
-
-
+*    Unknown_17 
+*    Chapter 14 (Safe Passage) -> 14-2 
+*    Chapter 14 (Safe Passage) -> 14-5 
+*    Chapter 14 (Safe Passage) -> 14-8 
 
 ## This item contains:
 

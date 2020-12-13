@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Underground 22 (The Road Home) -> 22-4** 
-
-    - **Spell Prayer** 
-
-
+*    Underground 22 (The Road Home) -> 22-4 
+*    Spell Prayer 
 
 ## This item contains:
 

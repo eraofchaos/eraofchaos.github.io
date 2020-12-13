@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 1 (Homecoming) -> 1-5** 
-
-    - **Underground 3 (Griffin Cliffs) -> 3-5** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Cavalier** 
-
-
+*    Underground 1 (Homecoming) -> 1-5 
+*    Underground 3 (Griffin Cliffs) -> 3-5 
+*    Altar of Recruitment 
+*    Barracks Redemption - Cavalier 
 
 ## This item contains:
 

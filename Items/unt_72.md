@@ -19,11 +19,8 @@ classes: wide
 
 ## Gather
 
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Behemoth** 
-
-
+*    Altar of Recruitment 
+*    Barracks Redemption - Behemoth 
 
 ## This item contains:
 

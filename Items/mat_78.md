@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 4 (Griffin Cliffs) -> 4-1** 
-
-    - **Chapter 4 (Griffin Cliffs) -> 4-4** 
-
-    - **Chapter 4 (Griffin Cliffs) -> 4-7** 
-
-
+*    Unknown_17 
+*    Chapter 4 (Griffin Cliffs) -> 4-1 
+*    Chapter 4 (Griffin Cliffs) -> 4-4 
+*    Chapter 4 (Griffin Cliffs) -> 4-7 
 
 ## This item contains:
 

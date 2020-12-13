@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 9 (Land of Chaos) -> 9-6** 
-
-    - **Chapter 9 (Land of Chaos) -> 9-12** 
-
-    - **Chapter 9 (Land of Chaos) -> 9-15** 
-
-
+*    Unknown_17 
+*    Chapter 9 (Land of Chaos) -> 9-6 
+*    Chapter 9 (Land of Chaos) -> 9-12 
+*    Chapter 9 (Land of Chaos) -> 9-15 
 
 ## This item contains:
 

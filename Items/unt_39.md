@@ -19,13 +19,9 @@ classes: wide
 
 ## Gather
 
-    - **Campaign Store** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Gnoll** 
-
-
+*    Campaign Store 
+*    Altar of Recruitment 
+*    Barracks Redemption - Gnoll 
 
 ## This item contains:
 

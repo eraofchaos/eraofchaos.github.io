@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Wyvern** 
-
-
+*    Barracks Redemption - Wyvern 
 
 ## This item contains:
 

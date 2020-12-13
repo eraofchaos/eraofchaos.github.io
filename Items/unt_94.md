@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 5 (Pioneer) -> 5-5** 
-
-    - **Underground 11 (Harvest Season) -> 11-5** 
-
-    - **Underground 23 (Independence) -> 23-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Wood Elf** 
-
-
+*    Underground 5 (Pioneer) -> 5-5 
+*    Underground 11 (Harvest Season) -> 11-5 
+*    Underground 23 (Independence) -> 23-1 
+*    Altar of Recruitment 
+*    Barracks Redemption - Wood Elf 
 
 ## This item contains:
 

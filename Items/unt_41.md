@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 4 (A Devilish Plan) -> 4-3** 
-
-    - **Underground 5 (Pioneer) -> 5-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Gog** 
-
-
+*    Underground 4 (A Devilish Plan) -> 4-3 
+*    Underground 5 (Pioneer) -> 5-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Gog 
 
 ## This item contains:
 

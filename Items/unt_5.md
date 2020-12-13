@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - null** 
-
-
+*    Barracks Redemption - null 
 
 ## This item contains:
 

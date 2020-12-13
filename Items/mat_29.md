@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 12 (Sea of Ice) -> 12-3** 
-
-    - **Chapter 12 (Sea of Ice) -> 12-6** 
-
-    - **Chapter 12 (Sea of Ice) -> 12-9** 
-
-
+*    Unknown_17 
+*    Chapter 12 (Sea of Ice) -> 12-3 
+*    Chapter 12 (Sea of Ice) -> 12-6 
+*    Chapter 12 (Sea of Ice) -> 12-9 
 
 ## This item contains:
 

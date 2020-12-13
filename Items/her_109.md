@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Spell Prayer** 
-
-
+*    Spell Prayer 
 
 ## This item contains:
 

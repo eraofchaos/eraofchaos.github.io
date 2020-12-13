@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 22 (Crystal Dragon) -> 22-1** 
-
-    - **Chapter 22 (Crystal Dragon) -> 22-5** 
-
-    - **Chapter 22 (Crystal Dragon) -> 22-11** 
-
-
+*    Unknown_17 
+*    Chapter 22 (Crystal Dragon) -> 22-1 
+*    Chapter 22 (Crystal Dragon) -> 22-5 
+*    Chapter 22 (Crystal Dragon) -> 22-11 
 
 ## This item contains:
 

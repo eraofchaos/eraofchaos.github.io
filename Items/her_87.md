@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Champion Store** 
-
-
+*    Champion Store 
 
 ## This item contains:
 

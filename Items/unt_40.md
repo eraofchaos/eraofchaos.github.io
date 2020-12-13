@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 14 (Safe Passage) -> 14-1** 
-
-    - **Underground 17 (Liberation of the Empire) -> 17-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Wood Elf** 
-
-    - **Campaign Store** 
-
-
+*    Underground 14 (Safe Passage) -> 14-1 
+*    Underground 17 (Liberation of the Empire) -> 17-1 
+*    Altar of Recruitment 
+*    Barracks Redemption - Wood Elf 
+*    Campaign Store 
 
 ## This item contains:
 

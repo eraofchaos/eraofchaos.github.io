@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Underground 2 (Guardian Angel) -> 2-5** 
-
-    - **Underground 4 (A Devilish Plan) -> 4-5** 
-
-    - **Arena Store** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Swordsmen** 
-
-
+*    Underground 2 (Guardian Angel) -> 2-5 
+*    Underground 4 (A Devilish Plan) -> 4-5 
+*    Arena Store 
+*    Altar of Recruitment 
+*    Barracks Redemption - Swordsmen 
 
 ## This item contains:
 

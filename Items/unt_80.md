@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 15 (United Front) -> 15-5** 
-
-    - **Underground 22 (The Road Home) -> 22-5** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Dendroid Guard** 
-
-
+*    Underground 15 (United Front) -> 15-5 
+*    Underground 22 (The Road Home) -> 22-5 
+*    Altar of Recruitment 
+*    Barracks Redemption - Dendroid Guard 
 
 ## This item contains:
 

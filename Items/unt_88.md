@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Barracks Redemption - Phoenix** 
-
-
+*    Barracks Redemption - Phoenix 
 
 ## This item contains:
 

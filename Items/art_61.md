@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Mystical Store** 
-
-
+*    Mystical Store 
 
 ## This item contains:
 

@@ -19,13 +19,9 @@ classes: wide
 
 ## Gather
 
-    - **Underground 20 (Tunnels and Troglodytes) -> 20-2** 
-
-    - **Underground 24 (Elemental Tide) -> 24-2** 
-
-    - **Spell Prayer** 
-
-
+*    Underground 20 (Tunnels and Troglodytes) -> 20-2 
+*    Underground 24 (Elemental Tide) -> 24-2 
+*    Spell Prayer 
 
 ## This item contains:
 

@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 3 (Griffin Cliffs) -> 3-1** 
-
-    - **Underground 18 (Deal with the Devil) -> 18-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Hell Hound** 
-
-
+*    Underground 3 (Griffin Cliffs) -> 3-1 
+*    Underground 18 (Deal with the Devil) -> 18-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Hell Hound 
 
 ## This item contains:
 

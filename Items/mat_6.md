@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Fall of the Capital** 
-
-    - **Chapter - Borderlands** 
-
-    - **Chapter - Frenzied Thoughts** 
-
-    - **Chapter - Greed** 
-
-
+*    Unknown_17 
+*    Chapter - Fall of the Capital 
+*    Chapter - Borderlands 
+*    Chapter - Frenzied Thoughts 
+*    Chapter - Greed 
 
 ## This item contains:
 

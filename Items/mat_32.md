@@ -19,17 +19,11 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter - Guardian Angel** 
-
-    - **Chapter - Griffin Cliffs** 
-
-    - **Chapter - A Devilish Plan** 
-
-    - **Chapter - Pioneer** 
-
-
+*    Unknown_17 
+*    Chapter - Guardian Angel 
+*    Chapter - Griffin Cliffs 
+*    Chapter - A Devilish Plan 
+*    Chapter - Pioneer 
 
 ## This item contains:
 

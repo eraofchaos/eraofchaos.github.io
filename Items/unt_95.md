@@ -19,19 +19,12 @@ classes: wide
 
 ## Gather
 
-    - **Underground 14 (Safe Passage) -> 14-5** 
-
-    - **Underground 17 (Liberation of the Empire) -> 17-5** 
-
-    - **Underground 25 (Land of Sleep) -> 25-3** 
-
-    - **Altar of Recruitment** 
-
-    - **Treasure Chest - Erathia** 
-
-    - **Barracks Redemption - Pegasus** 
-
-
+*    Underground 14 (Safe Passage) -> 14-5 
+*    Underground 17 (Liberation of the Empire) -> 17-5 
+*    Underground 25 (Land of Sleep) -> 25-3 
+*    Altar of Recruitment 
+*    Treasure Chest - Erathia 
+*    Barracks Redemption - Pegasus 
 
 ## This item contains:
 

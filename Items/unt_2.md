@@ -19,9 +19,7 @@ classes: wide
 
 ## Gather
 
-    - **Plane Shop** 
-
-
+*    Plane Shop 
 
 ## This item contains:
 

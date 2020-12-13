@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Unknown_17** 
-
-    - **Chapter 5 (Byrds) -> 5-6** 
-
-    - **Chapter 5 (Byrds) -> 5-12** 
-
-    - **Chapter 5 (Byrds) -> 5-15** 
-
-
+*    Unknown_17 
+*    Chapter 5 (Byrds) -> 5-6 
+*    Chapter 5 (Byrds) -> 5-12 
+*    Chapter 5 (Byrds) -> 5-15 
 
 ## This item contains:
 

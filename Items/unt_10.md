@@ -19,15 +19,10 @@ classes: wide
 
 ## Gather
 
-    - **Underground 6 (Fall of the Capital) -> 6-1** 
-
-    - **Underground 7 (Borderlands) -> 7-1** 
-
-    - **Altar of Recruitment** 
-
-    - **Barracks Redemption - Orc** 
-
-
+*    Underground 6 (Fall of the Capital) -> 6-1 
+*    Underground 7 (Borderlands) -> 7-1 
+*    Altar of Recruitment 
+*    Barracks Redemption - Orc 
 
 ## This item contains:
 
