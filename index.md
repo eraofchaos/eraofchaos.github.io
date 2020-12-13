@@ -11,7 +11,7 @@ sidebar:
 This information portal contains information about "Era Of Chaos" mobile game.
 
 
-**12 Dec 2020 Update:** Huge work was done. We are happy to announce [Items](/Items/) 
+ **12 Dec 2020 Update:** Huge work was done. We are happy to announce [Items](/Items/) 
 * [94 Materials](https://eraofchaos.github.io/Items/), 
 * [83 Artifacts](https://eraofchaos.github.io/Items/Artifacts/), 
 * [134 Units Souls](https://eraofchaos.github.io/Items/Units/), 
