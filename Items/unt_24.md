@@ -2,7 +2,7 @@
 title: "Item - Units -  Wolf Rider"
 permalink: /Items/unt_24/
 excerpt: " Wolf Rider"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_24.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 8 (Frenzied Thoughts) -> 8-3** 
+
+    - **Underground 12 (Corporal Punishment) -> 12-1** 
+
+    - **Altar of Recruitment** 
+
+    - **Treasure Chest - Byrds** 
+
+    - **Barracks Redemption - Wolf Rider** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Thunder Rage Soul Stone"
 permalink: /Items/unt_53/
 excerpt: " Thunder Rage Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_53.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Orange +1 Material Chest"
 permalink: /Items/con_17/
 excerpt: " Orange +1 Material Chest"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_17.md"
 toc: false
@@ -19,19 +19,19 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **1** item  from:
+ 3 You would get **1** item  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **1x** Eternal Ore(Common materials to upgrade equipment from orange +1 to orange +2.) | 
-  | 2 |  **1x** Eternal Wood(Common materials to upgrade equipment from orange +1 to orange +2.) | 
-  | 3 |  **1x** Eternal Mercury(Common materials to upgrade equipment from orange +1 to orange +2.) | 
-  | 4 |  **1x** Eternal Sulfur(Common materials to upgrade equipment from orange +1 to orange +2.) | 
-  | 5 |  **1x** Eternal Gems(Common materials to upgrade equipment from orange +1 to orange +2.) | 
-  | 6 |  **1x** Eternal Crystal(Common materials to upgrade equipment from orange +1 to orange +2.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Eternal Ore | Common materials to upgrade equipment from orange +1 to orange +2.  | 
+  | 2 |  **1x** | Eternal Wood | Common materials to upgrade equipment from orange +1 to orange +2.  | 
+  | 3 |  **1x** | Eternal Mercury | Common materials to upgrade equipment from orange +1 to orange +2.  | 
+  | 4 |  **1x** | Eternal Sulfur | Common materials to upgrade equipment from orange +1 to orange +2.  | 
+  | 5 |  **1x** | Eternal Gems | Common materials to upgrade equipment from orange +1 to orange +2.  | 
+  | 6 |  **1x** | Eternal Crystal | Common materials to upgrade equipment from orange +1 to orange +2.  | 

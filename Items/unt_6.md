@@ -2,7 +2,7 @@
 title: "Item - Units -  Enraged Cyclops Soul Stone"
 permalink: /Items/unt_6/
 excerpt: " Enraged Cyclops Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_6.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Kingdom Store** 
+
+
 
 ## This item contains:
 

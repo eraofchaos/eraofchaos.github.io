@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Dragon Mutare"
 permalink: /Items/her_23/
 excerpt: " Dragon Mutare"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_23.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

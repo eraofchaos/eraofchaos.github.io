@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Luna"
 permalink: /Items/her_15/
 excerpt: " Luna"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_15.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Champion Store** 
+
+
 
 ## This item contains:
 

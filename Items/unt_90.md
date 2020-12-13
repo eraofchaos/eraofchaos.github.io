@@ -2,7 +2,7 @@
 title: "Item - Units -  Master Genie Soul Stone"
 permalink: /Items/unt_90/
 excerpt: " Master Genie Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_90.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

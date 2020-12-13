@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Dragon Scale Armour"
 permalink: /Items/art_19/
 excerpt: " Dragon Scale Armour"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_19.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

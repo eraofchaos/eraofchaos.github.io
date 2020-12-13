@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Ore"
 permalink: /Items/mat_55/
 excerpt: " Valuable Ore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_55.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 8 (Borderlands) -> 8-1** 
+
+    - **Chapter 8 (Borderlands) -> 8-4** 
+
+    - **Chapter 8 (Borderlands) -> 8-7** 
+
+
 
 ## This item contains:
 

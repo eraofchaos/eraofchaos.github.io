@@ -2,7 +2,7 @@
 title: "Item - Materials -  Soul Wood"
 permalink: /Items/mat_49/
 excerpt: " Soul Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_49.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-2** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-8** 
+
+    - **Chapter 25 (Survival of the Fittest) -> 25-2** 
+
+
 
 ## This item contains:
 

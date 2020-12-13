@@ -2,7 +2,7 @@
 title: "Item - Materials -  Good Crystal"
 permalink: /Items/mat_16/
 excerpt: " Good Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_16.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 5 (Byrds) -> 5-6** 
+
+    - **Chapter 5 (Byrds) -> 5-12** 
+
+    - **Chapter 5 (Byrds) -> 5-15** 
+
+
 
 ## This item contains:
 

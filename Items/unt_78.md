@@ -2,7 +2,7 @@
 title: "Item - Units -  Gremlin"
 permalink: /Items/unt_78/
 excerpt: " Gremlin"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_78.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 11 (Harvest Season) -> 11-3** 
+
+    - **Underground 14 (Safe Passage) -> 14-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Gremlin** 
+
+
 
 ## This item contains:
 

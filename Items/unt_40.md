@@ -2,7 +2,7 @@
 title: "Item - Units -  Dwarf"
 permalink: /Items/unt_40/
 excerpt: " Dwarf"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_40.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 14 (Safe Passage) -> 14-1** 
+
+    - **Underground 17 (Liberation of the Empire) -> 17-1** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Wood Elf** 
+
+    - **Campaign Store** 
+
+
 
 ## This item contains:
 

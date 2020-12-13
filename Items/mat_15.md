@@ -2,7 +2,7 @@
 title: "Item - Materials -  Superior Mercury"
 permalink: /Items/mat_15/
 excerpt: " Superior Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_15.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-3** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-6** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-9** 
+
+
 
 ## This item contains:
 

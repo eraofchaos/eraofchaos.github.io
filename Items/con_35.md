@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Daily Special Offer Pack A"
 permalink: /Items/con_35/
 excerpt: " Daily Special Offer Pack A"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_35.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **20x** <i class="fas fa-gem"/> | 
-  | 2 |  **2x** Random Unit Token Pack(Randomly grants 1 R or SR unit token.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **20x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **2x** | Random Unit Token Pack | Randomly grants 1 R or SR unit token.  | 

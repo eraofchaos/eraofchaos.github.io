@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Elite Unit Pack"
 permalink: /Items/con_71/
 excerpt: " Elite Unit Pack"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_71.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ You would need to choose 1 item from the list (0):
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **40x** Medusa(Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.) | 
-  | 2 |  **40x** Druid(Once you have gathered 80 soul tokens you can summon a Druid, an SR aptitude unit.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **40x** | Medusa | Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.  | 
+  | 2 |  **40x** | Druid | Once you have gathered 80 soul tokens you can summon a Druid, an SR aptitude unit.  | 

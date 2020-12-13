@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Certificate"
 permalink: /Items/mat_76/
 excerpt: " Legendary Certificate"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_76.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter - The Pilgrim's Way** 
+
+
 
 ## This item contains:
 

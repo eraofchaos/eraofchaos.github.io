@@ -2,7 +2,7 @@
 title: "Item - Units -  Griffin"
 permalink: /Items/unt_11/
 excerpt: " Griffin"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_11.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 1 (Homecoming) -> 1-3** 
+
+    - **Underground 6 (Fall of the Capital) -> 6-3** 
+
+    - **Underground 21 (The Grail) -> 21-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Griffin** 
+
+
 
 ## This item contains:
 

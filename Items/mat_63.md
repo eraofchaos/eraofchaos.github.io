@@ -2,7 +2,7 @@
 title: "Item - Materials -  Star Wood"
 permalink: /Items/mat_63/
 excerpt: " Star Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_63.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 26 (Extend Lead) -> 26-2** 
+
+    - **Chapter 26 (Extend Lead) -> 26-8** 
+
+
 
 ## This item contains:
 

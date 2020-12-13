@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Staff of Disruption"
 permalink: /Items/art_29/
 excerpt: " Staff of Disruption"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_29.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

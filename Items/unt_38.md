@@ -2,7 +2,7 @@
 title: "Item - Units -  Roc"
 permalink: /Items/unt_38/
 excerpt: " Roc"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_38.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 24 (Elemental Tide) -> 24-3** 
+
+    - **Underground 26 (Sound of Fate) -> 26-5** 
+
+    - **Altar of Recruitment** 
+
+    - **Arena Store** 
+
+    - **Barracks Redemption - Roc** 
+
+
 
 ## This item contains:
 

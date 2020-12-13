@@ -2,7 +2,7 @@
 title: "Item - Materials -  Soul Gems"
 permalink: /Items/mat_77/
 excerpt: " Soul Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_77.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-1** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-5** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-11** 
+
+
 
 ## This item contains:
 

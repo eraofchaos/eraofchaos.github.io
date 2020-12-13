@@ -2,7 +2,7 @@
 title: "Item - Units -  Regnan Pirates"
 permalink: /Items/unt_31/
 excerpt: " Regnan Pirates"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_31.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Regnan Pirate** 
+
+
 
 ## This item contains:
 

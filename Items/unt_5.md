@@ -2,7 +2,7 @@
 title: "Item - Units -  Nightmare"
 permalink: /Items/unt_5/
 excerpt: " Nightmare"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_5.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - null** 
+
+
 
 ## This item contains:
 

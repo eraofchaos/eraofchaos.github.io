@@ -2,7 +2,7 @@
 title: "Item - Materials -  Book of Arms"
 permalink: /Items/mat_32/
 excerpt: " Book of Arms"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_32.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter - Guardian Angel** 
+
+    - **Chapter - Griffin Cliffs** 
+
+    - **Chapter - A Devilish Plan** 
+
+    - **Chapter - Pioneer** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Sulfur"
 permalink: /Items/mat_1/
 excerpt: " Exceptional Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_1.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 10 (Marshland) -> 10-10** 
+
+    - **Chapter 10 (Marshland) -> 10-14** 
+
+    - **Chapter 11 (Tatalia) -> 11-4** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Good Wood"
 permalink: /Items/mat_90/
 excerpt: " Good Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_90.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-2** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-5** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-8** 
+
+
 
 ## This item contains:
 

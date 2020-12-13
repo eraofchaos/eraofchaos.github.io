@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Sulfur"
 permalink: /Items/mat_66/
 excerpt: " Valuable Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_66.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 8 (Borderlands) -> 8-10** 
+
+    - **Chapter 8 (Borderlands) -> 8-14** 
+
+    - **Chapter 9 (Land of Chaos) -> 9-4** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Ore"
 permalink: /Items/mat_67/
 excerpt: " Exceptional Ore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_67.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 10 (Marshland) -> 10-1** 
+
+    - **Chapter 10 (Marshland) -> 10-4** 
+
+    - **Chapter 10 (Marshland) -> 10-7** 
+
+
 
 ## This item contains:
 

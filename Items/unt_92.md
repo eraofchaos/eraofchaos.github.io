@@ -2,7 +2,7 @@
 title: "Item - Units -  Cyclops"
 permalink: /Items/unt_92/
 excerpt: " Cyclops"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_92.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 19 (Neutral Ground) -> 19-3** 
+
+    - **Underground 26 (Sound of Fate) -> 26-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Cyclops** 
+
+
 
 ## This item contains:
 

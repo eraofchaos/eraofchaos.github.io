@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Orange +3 Material Chest"
 permalink: /Items/con_45/
 excerpt: " Orange +3 Material Chest"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_45.md"
 toc: false
@@ -19,19 +19,19 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **1** item  from:
+ 3 You would get **1** item  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **1x** Soul Ore(Common materials to upgrade equipment from orange +3 to orange +4.) | 
-  | 2 |  **1x** Soul Wood(Common materials to upgrade equipment from orange +3 to orange +4.) | 
-  | 3 |  **1x** Soul Mercury(Common materials to upgrade equipment from orange +3 to orange +4.) | 
-  | 4 |  **1x** Soul Sulfur(Common materials to upgrade equipment from orange +3 to orange +4.) | 
-  | 5 |  **1x** Soul Gems(Common materials to upgrade equipment from orange +3 to orange +4.) | 
-  | 6 |  **1x** Soul Crystal(Common materials to upgrade equipment from orange +3 to orange +4.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Soul Ore | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 2 |  **1x** | Soul Wood | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 3 |  **1x** | Soul Mercury | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 4 |  **1x** | Soul Sulfur | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 5 |  **1x** | Soul Gems | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 6 |  **1x** | Soul Crystal | Common materials to upgrade equipment from orange +3 to orange +4.  | 

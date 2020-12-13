@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Wood"
 permalink: /Items/mat_43/
 excerpt: " Valuable Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_43.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 8 (Borderlands) -> 8-2** 
+
+    - **Chapter 8 (Borderlands) -> 8-5** 
+
+    - **Chapter 8 (Borderlands) -> 8-8** 
+
+
 
 ## This item contains:
 

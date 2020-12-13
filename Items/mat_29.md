@@ -2,7 +2,7 @@
 title: "Item - Materials -  Rare Mercury"
 permalink: /Items/mat_29/
 excerpt: " Rare Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_29.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-3** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-6** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-9** 
+
+
 
 ## This item contains:
 

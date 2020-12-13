@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Air Mastery"
 permalink: /Items/her_81/
 excerpt: " Air Mastery"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_81.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Pegasus"
 permalink: /Items/unt_95/
 excerpt: " Pegasus"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_95.md"
 toc: false
@@ -19,7 +19,19 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 14 (Safe Passage) -> 14-5** 
+
+    - **Underground 17 (Liberation of the Empire) -> 17-5** 
+
+    - **Underground 25 (Land of Sleep) -> 25-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Treasure Chest - Erathia** 
+
+    - **Barracks Redemption - Pegasus** 
+
+
 
 ## This item contains:
 

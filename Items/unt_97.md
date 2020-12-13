@@ -2,7 +2,7 @@
 title: "Item - Units -  Angel"
 permalink: /Items/unt_97/
 excerpt: " Angel"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_97.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Angel** 
+
+
 
 ## This item contains:
 

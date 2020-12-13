@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Dungeon SR+ Unit Token Selection Chest"
 permalink: /Items/con_20/
 excerpt: " Dungeon SR+ Unit Token Selection Chest"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_20.md"
 toc: false
@@ -19,16 +19,16 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ You would need to choose 1 item from the list (0):
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **1x** Medusa(Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.) | 
-  | 2 |  **1x** Beholder(Once you have gathered 80 soul tokens you can summon a Beholder. Tokens can also be used to upgrade or increase the rank of Beholders.) | 
-  | 3 |  **1x** Manticore(Once you have gathered 80 soul tokens you can summon a Manticore. Tokens can also be used to upgrade or increase the rank of manticores.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Medusa | Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.  | 
+  | 2 |  **1x** | Beholder | Once you have gathered 80 soul tokens you can summon a Beholder. Tokens can also be used to upgrade or increase the rank of Beholders.  | 
+  | 3 |  **1x** | Manticore | Once you have gathered 80 soul tokens you can summon a Manticore. Tokens can also be used to upgrade or increase the rank of manticores.  | 

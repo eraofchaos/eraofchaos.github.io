@@ -2,7 +2,7 @@
 title: "Item - Units -  Demon"
 permalink: /Items/unt_75/
 excerpt: " Demon"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_75.md"
 toc: false
@@ -19,7 +19,19 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 9 (Greed) -> 9-5** 
+
+    - **Underground 13 (From Day to Night) -> 13-1** 
+
+    - **Underground 22 (The Road Home) -> 22-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Treasure Chest - Land of Chaos** 
+
+    - **Barracks Redemption - Demon** 
+
+
 
 ## This item contains:
 

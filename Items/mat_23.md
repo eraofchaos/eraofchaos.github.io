@@ -2,7 +2,7 @@
 title: "Item - Materials -  Mythical Ore"
 permalink: /Items/mat_23/
 excerpt: " Mythical Ore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_23.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-1** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-4** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-7** 
+
+
 
 ## This item contains:
 

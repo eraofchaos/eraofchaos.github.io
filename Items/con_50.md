@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Revelations: Ezio Special Offer"
 permalink: /Items/con_50/
 excerpt: " Revelations: Ezio Special Offer"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_50.md"
 toc: false
@@ -19,16 +19,16 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **680x** <i class="fas fa-gem"/> | 
-  | 2 |  **1x** Revelations: Ezio(Grants the Revelations: Ezio skin.) | 
-  | 3 |  **10x** Ancient Temple Scroll(A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Revelations: Ezio | Grants the Revelations: Ezio skin.  | 
+  | 3 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 

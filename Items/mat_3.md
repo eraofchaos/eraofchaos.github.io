@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Mercury"
 permalink: /Items/mat_3/
 excerpt: " Legendary Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_3.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 16 (For King and Country) -> 16-3** 
+
+    - **Chapter 16 (For King and Country) -> 16-6** 
+
+    - **Chapter 16 (For King and Country) -> 16-9** 
+
+
 
 ## This item contains:
 

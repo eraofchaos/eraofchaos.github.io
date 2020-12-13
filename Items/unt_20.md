@@ -2,7 +2,7 @@
 title: "Item - Units -  Mage"
 permalink: /Items/unt_20/
 excerpt: " Mage"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_20.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 19 (Neutral Ground) -> 19-5** 
+
+    - **Underground 25 (Land of Sleep) -> 25-1** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Mage** 
+
+
 
 ## This item contains:
 

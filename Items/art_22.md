@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Tome of Fire Magic"
 permalink: /Items/art_22/
 excerpt: " Tome of Fire Magic"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_22.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

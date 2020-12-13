@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Holy Emblem Lucky Pack 3"
 permalink: /Items/con_30/
 excerpt: " Holy Emblem Lucky Pack 3"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_30.md"
 toc: false
@@ -19,16 +19,16 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **2x** Random Orange Holy Emblem Pack(Grants 1 random Orange Holy Emblem.) | 
-  | 2 |  **10x** Multi-choice Cast Stone Pack(Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **2x** | Random Orange Holy Emblem Pack | Grants 1 random Orange Holy Emblem.  | 
+  | 2 |  **10x** | Multi-choice Cast Stone Pack | Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1  | 
   | 3 |  **14000x** Soul Stone(Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store) | 

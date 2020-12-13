@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Clover of Fortune"
 permalink: /Items/art_2/
 excerpt: " Clover of Fortune"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_2.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Campaign** 
+
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

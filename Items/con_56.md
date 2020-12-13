@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Orange +4 Material Chest"
 permalink: /Items/con_56/
 excerpt: " Orange +4 Material Chest"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_56.md"
 toc: false
@@ -19,19 +19,19 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **1** item  from:
+ 3 You would get **1** item  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **1x** Star Ore(Common materials to upgrade equipment from orange +4 to orange +5.) | 
-  | 2 |  **1x** Star Wood(Common materials to upgrade equipment from orange +4 to orange +5.) | 
-  | 3 |  **1x** Star Mercury(Common materials to upgrade equipment from orange +4 to orange +5.) | 
-  | 4 |  **1x** Star Sulfur(Common materials to upgrade equipment from orange +4 to orange +5.) | 
-  | 5 |  **1x** Star Gems(Common materials to upgrade equipment from orange +4 to orange +5.) | 
-  | 6 |  **1x** Star Crystal(Common materials to upgrade equipment from orange +4 to orange +5.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Star Ore | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 2 |  **1x** | Star Wood | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 3 |  **1x** | Star Mercury | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 4 |  **1x** | Star Sulfur | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 5 |  **1x** | Star Gems | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 6 |  **1x** | Star Crystal | Common materials to upgrade equipment from orange +4 to orange +5.  | 

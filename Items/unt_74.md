@@ -2,7 +2,7 @@
 title: "Item - Units -  Serpent Fly"
 permalink: /Items/unt_74/
 excerpt: " Serpent Fly"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_74.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Serpent Fly** 
+
+
 
 ## This item contains:
 

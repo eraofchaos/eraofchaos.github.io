@@ -2,7 +2,7 @@
 title: "Item - Materials -  Mythical Wood"
 permalink: /Items/mat_9/
 excerpt: " Mythical Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_9.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-2** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-5** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-8** 
+
+
 
 ## This item contains:
 

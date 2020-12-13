@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Staff of Eden"
 permalink: /Items/art_64/
 excerpt: " Staff of Eden"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_64.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

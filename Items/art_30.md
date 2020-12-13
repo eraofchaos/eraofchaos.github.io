@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Angel Feather Arrows"
 permalink: /Items/art_30/
 excerpt: " Angel Feather Arrows"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_30.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+
 
 ## This item contains:
 

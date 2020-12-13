@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Premium Apple of Eden"
 permalink: /Items/con_58/
 excerpt: " Premium Apple of Eden"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_58.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **3880x** <i class="fas fa-gem"/> | 
-  | 2 |  **1x** Piece of Eden Component Chest(A component chest of the Apple of Eden. Use it to select 1 of the components from the Apple of Eden Artifact.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **3880x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Piece of Eden Component Chest | A component chest of the Apple of Eden. Use it to select 1 of the components from the Apple of Eden Artifact.  | 

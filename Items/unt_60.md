@@ -2,7 +2,7 @@
 title: "Item - Units -  Imp"
 permalink: /Items/unt_60/
 excerpt: " Imp"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_60.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 9 (Greed) -> 9-1** 
+
+    - **Underground 10 (Gryphonheart) -> 10-1** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Imp** 
+
+
 
 ## This item contains:
 

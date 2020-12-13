@@ -2,7 +2,7 @@
 title: "Item - Materials -  Epic Sulfur"
 permalink: /Items/mat_83/
 excerpt: " Epic Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_83.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 14 (Safe Passage) -> 14-10** 
+
+    - **Chapter 14 (Safe Passage) -> 14-14** 
+
+    - **Chapter 15 (United Front) -> 15-4** 
+
+
 
 ## This item contains:
 

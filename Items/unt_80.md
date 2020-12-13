@@ -2,7 +2,7 @@
 title: "Item - Units -  Dendroid Guard"
 permalink: /Items/unt_80/
 excerpt: " Dendroid Guard"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_80.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 15 (United Front) -> 15-5** 
+
+    - **Underground 22 (The Road Home) -> 22-5** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Dendroid Guard** 
+
+
 
 ## This item contains:
 

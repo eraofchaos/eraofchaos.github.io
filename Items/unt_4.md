@@ -2,7 +2,7 @@
 title: "Item - Units -  Hydra"
 permalink: /Items/unt_4/
 excerpt: " Hydra"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_4.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - Hydra** 
+
+    - **Altar of Recruitment** 
+
+
 
 ## This item contains:
 

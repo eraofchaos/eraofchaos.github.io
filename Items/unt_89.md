@@ -2,7 +2,7 @@
 title: "Item - Units -  Minotaur"
 permalink: /Items/unt_89/
 excerpt: " Minotaur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_89.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 24 (Elemental Tide) -> 24-5** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Minotaur** 
+
+    - **Kingdom Store** 
+
+
 
 ## This item contains:
 

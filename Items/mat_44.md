@@ -2,7 +2,7 @@
 title: "Item - Materials -  Book of Essences"
 permalink: /Items/mat_44/
 excerpt: " Book of Essences"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_44.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter - Frenzied Thoughts** 
+
+    - **Chapter - Greed** 
+
+    - **Chapter - Gryphonheart** 
+
+    - **Chapter - Harvest Season** 
+
+
 
 ## This item contains:
 

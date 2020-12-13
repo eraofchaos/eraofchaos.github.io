@@ -2,7 +2,7 @@
 title: "Item - Units -  Skeleton"
 permalink: /Items/unt_77/
 excerpt: " Skeleton"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_77.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 4 (A Devilish Plan) -> 4-1** 
+
+    - **Underground 9 (Greed) -> 9-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Skeleton** 
+
+
 
 ## This item contains:
 

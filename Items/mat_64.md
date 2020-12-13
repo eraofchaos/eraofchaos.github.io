@@ -2,7 +2,7 @@
 title: "Item - Materials -  Soul Crystal"
 permalink: /Items/mat_64/
 excerpt: " Soul Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_64.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-6** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-12** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-15** 
+
+
 
 ## This item contains:
 

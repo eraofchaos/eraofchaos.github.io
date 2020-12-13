@@ -2,7 +2,7 @@
 title: "Item - Materials -  Rare Sulfur"
 permalink: /Items/mat_46/
 excerpt: " Rare Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_46.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-10** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-14** 
+
+    - **Chapter 13 (From Day to Night) -> 13-4** 
+
+
 
 ## This item contains:
 

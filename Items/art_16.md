@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Dragon Scale Shield"
 permalink: /Items/art_16/
 excerpt: " Dragon Scale Shield"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_16.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

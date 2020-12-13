@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Alchemy Runestone"
 permalink: /Items/con_70/
 excerpt: " Alchemy Runestone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_70.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

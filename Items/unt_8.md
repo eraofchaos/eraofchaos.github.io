@@ -2,7 +2,7 @@
 title: "Item - Units -  Fire Elemental"
 permalink: /Items/unt_8/
 excerpt: " Fire Elemental"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_8.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - null** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Mullich"
 permalink: /Items/her_49/
 excerpt: " Mullich"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_49.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Guild Store** 
+
+
 
 ## This item contains:
 

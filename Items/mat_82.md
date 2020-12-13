@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Wood"
 permalink: /Items/mat_82/
 excerpt: " Exceptional Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_82.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 10 (Marshland) -> 10-2** 
+
+    - **Chapter 10 (Marshland) -> 10-5** 
+
+    - **Chapter 10 (Marshland) -> 10-8** 
+
+
 
 ## This item contains:
 

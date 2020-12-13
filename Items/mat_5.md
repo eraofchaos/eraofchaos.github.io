@@ -2,7 +2,7 @@
 title: "Item - Materials -  Epic Crystal"
 permalink: /Items/mat_5/
 excerpt: " Epic Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_5.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 15 (United Front) -> 15-6** 
+
+    - **Chapter 15 (United Front) -> 15-12** 
+
+    - **Chapter 15 (United Front) -> 15-15** 
+
+
 
 ## This item contains:
 

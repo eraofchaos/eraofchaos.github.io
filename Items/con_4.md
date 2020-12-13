@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Cross-server Guild Coin"
 permalink: /Items/con_4/
 excerpt: " Cross-server Guild Coin"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_4.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Centaur"
 permalink: /Items/unt_56/
 excerpt: " Centaur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_56.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 5 (Pioneer) -> 5-1** 
+
+    - **Underground 7 (Borderlands) -> 7-5** 
+
+    - **Altar of Recruitment** 
+
+    - **Treasure Chest - Guardian Angel** 
+
+    - **Barracks Redemption - Centaur** 
+
+
 
 ## This item contains:
 

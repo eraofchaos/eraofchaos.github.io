@@ -2,7 +2,7 @@
 title: "Item - Materials -  Superior Wood"
 permalink: /Items/mat_28/
 excerpt: " Superior Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_28.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-2** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-5** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-8** 
+
+
 
 ## This item contains:
 

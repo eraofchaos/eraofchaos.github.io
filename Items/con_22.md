@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Expert Book of Essences"
 permalink: /Items/con_22/
 excerpt: " Expert Book of Essences"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_22.md"
 toc: false
@@ -19,15 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Duel of Champions** 
+
+
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **1** item  from:
+ 2 You would get **1** item  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **1x** Damage reduction skill essence(Records the expert secrets of battle. Can be used to improve units' damage reduction.) | 
-  | 2 |  **1x** Damage augmentation skill essence(Records the expert secrets of battle. Can be used to improve units' damage augmentation.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Damage reduction skill essence | Records the expert secrets of battle. Can be used to improve units' damage reduction.  | 
+  | 2 |  **1x** | Damage augmentation skill essence | Records the expert secrets of battle. Can be used to improve units' damage augmentation.  | 

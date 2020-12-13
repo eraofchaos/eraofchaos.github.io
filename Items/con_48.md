@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Soul Stone Pack 1"
 permalink: /Items/con_48/
 excerpt: " Soul Stone Pack 1"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_48.md"
 toc: false
@@ -19,14 +19,14 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
   | 1 |  **7000x** Soul Stone(Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store) | 

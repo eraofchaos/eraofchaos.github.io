@@ -2,7 +2,7 @@
 title: "Item - Materials -  Good Ore"
 permalink: /Items/mat_78/
 excerpt: " Good Ore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_78.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-1** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-4** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-7** 
+
+
 
 ## This item contains:
 

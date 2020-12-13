@@ -2,7 +2,7 @@
 title: "Item - Materials -  Mythical Crystal"
 permalink: /Items/mat_61/
 excerpt: " Mythical Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_61.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 19 (Neutral Ground) -> 19-6** 
+
+    - **Chapter 19 (Neutral Ground) -> 19-12** 
+
+    - **Chapter 19 (Neutral Ground) -> 19-15** 
+
+
 
 ## This item contains:
 

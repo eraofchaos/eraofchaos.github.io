@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Frozen Arrow"
 permalink: /Items/her_35/
 excerpt: " Frozen Arrow"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_35.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 20 (Tunnels and Troglodytes) -> 20-2** 
+
+    - **Underground 24 (Elemental Tide) -> 24-2** 
+
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

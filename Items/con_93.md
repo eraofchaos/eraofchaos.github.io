@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Random Purple Holy Emblem Pack"
 permalink: /Items/con_93/
 excerpt: " Random Purple Holy Emblem Pack"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_93.md"
 toc: false
@@ -19,16 +19,16 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **1** item  from:
+ 2 You would get **1** item  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
   | 1 | _RUNE_10104 | 
   | 2 | _RUNE_10204 | 
   | 3 | _RUNE_10304 | 

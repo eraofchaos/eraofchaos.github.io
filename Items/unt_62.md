@@ -2,7 +2,7 @@
 title: "Item - Units -  Vampire Lord Soul Stone"
 permalink: /Items/unt_62/
 excerpt: " Vampire Lord Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_62.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Campaign Store** 
+
+
 
 ## This item contains:
 

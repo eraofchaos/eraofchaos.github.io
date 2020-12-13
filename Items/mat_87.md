@@ -2,7 +2,7 @@
 title: "Item - Materials -  Secret Wood"
 permalink: /Items/mat_87/
 excerpt: " Secret Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_87.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-2** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-8** 
+
+    - **Chapter 23 (Rust Dragon) -> 23-2** 
+
+
 
 ## This item contains:
 

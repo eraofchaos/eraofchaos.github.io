@@ -2,7 +2,7 @@
 title: "Item - Units -  Zombie Soul Stone"
 permalink: /Items/unt_26/
 excerpt: " Zombie Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_26.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Plane Shop** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ring of Eagle Vision"
 permalink: /Items/art_76/
 excerpt: " Ring of Eagle Vision"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_76.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

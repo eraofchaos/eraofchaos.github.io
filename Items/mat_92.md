@@ -2,7 +2,7 @@
 title: "Item - Materials -  Good Sulfur"
 permalink: /Items/mat_92/
 excerpt: " Good Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_92.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-10** 
+
+    - **Chapter 4 (Griffin Cliffs) -> 4-14** 
+
+    - **Chapter 5 (Byrds) -> 5-4** 
+
+
 
 ## This item contains:
 

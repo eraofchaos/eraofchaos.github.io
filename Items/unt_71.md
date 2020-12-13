@@ -2,7 +2,7 @@
 title: "Item - Units -  Manticore"
 permalink: /Items/unt_71/
 excerpt: " Manticore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_71.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - Manticore** 
+
+
 
 ## This item contains:
 

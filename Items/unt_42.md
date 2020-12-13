@@ -2,7 +2,7 @@
 title: "Item - Units -  Cavalier "
 permalink: /Items/unt_42/
 excerpt: " Cavalier "
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_42.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 1 (Homecoming) -> 1-5** 
+
+    - **Underground 3 (Griffin Cliffs) -> 3-5** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Cavalier** 
+
+
 
 ## This item contains:
 

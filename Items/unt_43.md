@@ -2,7 +2,7 @@
 title: "Item - Units -  Wraith Soul Stone"
 permalink: /Items/unt_43/
 excerpt: " Wraith Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_43.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Arena Store** 
+
+
 
 ## This item contains:
 

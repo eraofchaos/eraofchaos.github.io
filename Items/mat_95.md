@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Crystal"
 permalink: /Items/mat_95/
 excerpt: " Valuable Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_95.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 9 (Land of Chaos) -> 9-6** 
+
+    - **Chapter 9 (Land of Chaos) -> 9-12** 
+
+    - **Chapter 9 (Land of Chaos) -> 9-15** 
+
+
 
 ## This item contains:
 

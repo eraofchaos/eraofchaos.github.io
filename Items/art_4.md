@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Orb of Driving Rain"
 permalink: /Items/art_4/
 excerpt: " Orb of Driving Rain"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_4.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

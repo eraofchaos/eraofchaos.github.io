@@ -2,7 +2,7 @@
 title: "Item - Materials -  Star Mercury"
 permalink: /Items/mat_98/
 excerpt: " Star Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_98.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 26 (Extend Lead) -> 26-3** 
+
+    - **Chapter 26 (Extend Lead) -> 26-9** 
+
+
 
 ## This item contains:
 

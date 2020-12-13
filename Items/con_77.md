@@ -2,7 +2,7 @@
 title: "Item - Consumables -  68 Diamond Pack"
 permalink: /Items/con_77/
 excerpt: " 68 Diamond Pack"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_77.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Dendroid Soldier Soul Stone"
 permalink: /Items/unt_28/
 excerpt: " Dendroid Soldier Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_28.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Kingdom Store** 
+
+
 
 ## This item contains:
 

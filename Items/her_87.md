@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Universal Hero Tokens"
 permalink: /Items/her_87/
 excerpt: " Universal Hero Tokens"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_87.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Champion Store** 
+
+
 
 ## This item contains:
 

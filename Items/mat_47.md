@@ -2,7 +2,7 @@
 title: "Item - Materials -  Secret Gems"
 permalink: /Items/mat_47/
 excerpt: " Secret Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_47.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-1** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-5** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-11** 
+
+
 
 ## This item contains:
 

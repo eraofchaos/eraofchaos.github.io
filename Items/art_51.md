@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Medal of Truth"
 permalink: /Items/art_51/
 excerpt: " Medal of Truth"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_51.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

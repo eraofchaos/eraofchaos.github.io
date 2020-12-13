@@ -2,7 +2,7 @@
 title: "Item - Units -  Paladin"
 permalink: /Items/unt_81/
 excerpt: " Paladin"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_81.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - null** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Wood Elf"
 permalink: /Items/unt_94/
 excerpt: " Wood Elf"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_94.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 5 (Pioneer) -> 5-5** 
+
+    - **Underground 11 (Harvest Season) -> 11-5** 
+
+    - **Underground 23 (Independence) -> 23-1** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Wood Elf** 
+
+
 
 ## This item contains:
 

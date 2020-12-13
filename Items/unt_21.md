@@ -2,7 +2,7 @@
 title: "Item - Units -  Ice Elemental"
 permalink: /Items/unt_21/
 excerpt: " Ice Elemental"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_21.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Altar of Recruitment** 
+
+    - **Underground 20 (Tunnels and Troglodytes) -> 20-5** 
+
+    - **Underground 24 (Elemental Tide) -> 24-1** 
+
+    - **Barracks Redemption - null** 
+
+    - **Campaign Store** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Secret Sulfur"
 permalink: /Items/mat_7/
 excerpt: " Secret Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_7.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-4** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-10** 
+
+    - **Chapter 22 (Crystal Dragon) -> 22-13** 
+
+
 
 ## This item contains:
 

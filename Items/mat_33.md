@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Crystal"
 permalink: /Items/mat_33/
 excerpt: " Exceptional Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_33.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 11 (Tatalia) -> 11-6** 
+
+    - **Chapter 11 (Tatalia) -> 11-12** 
+
+    - **Chapter 11 (Tatalia) -> 11-15** 
+
+
 
 ## This item contains:
 

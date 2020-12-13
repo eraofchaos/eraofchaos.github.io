@@ -2,7 +2,7 @@
 title: "Item - Materials -  Rare Gems"
 permalink: /Items/mat_59/
 excerpt: " Rare Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_59.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 13 (From Day to Night) -> 13-1** 
+
+    - **Chapter 13 (From Day to Night) -> 13-5** 
+
+    - **Chapter 13 (From Day to Night) -> 13-11** 
+
+
 
 ## This item contains:
 

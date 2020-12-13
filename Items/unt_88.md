@@ -2,7 +2,7 @@
 title: "Item - Units -  Firebird"
 permalink: /Items/unt_88/
 excerpt: " Firebird"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_88.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - Phoenix** 
+
+
 
 ## This item contains:
 

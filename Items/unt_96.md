@@ -2,7 +2,7 @@
 title: "Item - Units -  Crusader Soul Stone"
 permalink: /Items/unt_96/
 excerpt: " Crusader Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_96.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Plane Shop** 
+
+
 
 ## This item contains:
 

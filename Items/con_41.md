@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Christmas Carol"
 permalink: /Items/con_41/
 excerpt: " Christmas Carol"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_41.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

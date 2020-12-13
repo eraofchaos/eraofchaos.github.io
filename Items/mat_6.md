@@ -2,7 +2,7 @@
 title: "Item - Materials -  Book of Arms"
 permalink: /Items/mat_6/
 excerpt: " Book of Arms"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_6.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter - Fall of the Capital** 
+
+    - **Chapter - Borderlands** 
+
+    - **Chapter - Frenzied Thoughts** 
+
+    - **Chapter - Greed** 
+
+
 
 ## This item contains:
 

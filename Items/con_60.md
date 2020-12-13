@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Astro Silver Pack C"
 permalink: /Items/con_60/
 excerpt: " Astro Silver Pack C"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_60.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **10x** Astro Silver(A mysterious coin of unknown source said to grant free Astrology silver to the user once.) | 
-  | 2 |  **1780x** <i class="fas fa-gem"/> | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **10x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 2 |  **1780x** | <i class="fas fa-gem"/> |  | 

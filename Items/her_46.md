@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Lava Trap"
 permalink: /Items/her_46/
 excerpt: " Lava Trap"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_46.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Wind Howling"
 permalink: /Items/her_69/
 excerpt: " Wind Howling"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_69.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

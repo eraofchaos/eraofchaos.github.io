@@ -2,7 +2,7 @@
 title: "Item - Materials -  Book of Essences"
 permalink: /Items/mat_60/
 excerpt: " Book of Essences"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_60.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter - Safe Passage** 
+
+    - **Chapter - United Front** 
+
+    - **Chapter - For King and Country** 
+
+    - **Chapter - Liberation of the Empire** 
+
+
 
 ## This item contains:
 

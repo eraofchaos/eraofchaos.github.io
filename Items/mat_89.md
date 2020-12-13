@@ -2,7 +2,7 @@
 title: "Item - Materials -  Star Gems"
 permalink: /Items/mat_89/
 excerpt: " Star Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_89.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 26 (Extend Lead) -> 26-1** 
+
+    - **Chapter 26 (Extend Lead) -> 26-5** 
+
+    - **Chapter 26 (Extend Lead) -> 26-11** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Evil Sigil"
 permalink: /Items/con_39/
 excerpt: " Evil Sigil"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_39.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

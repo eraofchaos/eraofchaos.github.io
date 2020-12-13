@@ -2,7 +2,7 @@
 title: "Item - Materials -  Common Gems"
 permalink: /Items/mat_69/
 excerpt: " Common Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_69.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 3 (Guardian Angel) -> 3-1** 
+
+    - **Chapter 3 (Guardian Angel) -> 3-5** 
+
+    - **Chapter 3 (Guardian Angel) -> 3-11** 
+
+
 
 ## This item contains:
 

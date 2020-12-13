@@ -2,7 +2,7 @@
 title: "Item - Materials -  Inferior Wood"
 permalink: /Items/mat_12/
 excerpt: " Inferior Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_12.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 1 (Evenmorn Island) -> 1-2** 
+
+    - **Chapter 1 (Evenmorn Island) -> 1-3** 
+
+    - **Chapter 1 (Evenmorn Island) -> 1-5** 
+
+
 
 ## This item contains:
 

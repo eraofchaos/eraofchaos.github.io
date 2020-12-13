@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Orange +2 Material Chest"
 permalink: /Items/con_29/
 excerpt: " Orange +2 Material Chest"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_29.md"
 toc: false
@@ -19,19 +19,19 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **1** item  from:
+ 3 You would get **1** item  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **1x** Secret Ore(Common materials to upgrade equipment from orange +2 to orange +3.) | 
-  | 2 |  **1x** Secret Wood(Common materials to upgrade equipment from orange +2 to orange +3.) | 
-  | 3 |  **1x** Secret Mercury(Common materials to upgrade equipment from orange +2 to orange +3.) | 
-  | 4 |  **1x** Secret Sulfur(Common materials to upgrade equipment from orange +2 to orange +3.) | 
-  | 5 |  **1x** Secret Gems(Common materials to upgrade equipment from orange +2 to orange +3.) | 
-  | 6 |  **1x** Secret Crystal(Common materials to upgrade equipment from orange +2 to orange +3.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Secret Ore | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 2 |  **1x** | Secret Wood | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 3 |  **1x** | Secret Mercury | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 4 |  **1x** | Secret Sulfur | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 5 |  **1x** | Secret Gems | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 6 |  **1x** | Secret Crystal | Common materials to upgrade equipment from orange +2 to orange +3.  | 

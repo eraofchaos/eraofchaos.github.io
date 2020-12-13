@@ -2,7 +2,7 @@
 title: "Item - Units -  Ogre"
 permalink: /Items/unt_55/
 excerpt: " Ogre"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_55.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 8 (Frenzied Thoughts) -> 8-5** 
+
+    - **Underground 13 (From Day to Night) -> 13-5** 
+
+    - **Altar of Recruitment** 
+
+    - **Treasure Chest - Tatalia** 
+
+    - **Barracks Redemption - Ogre** 
+
+
 
 ## This item contains:
 

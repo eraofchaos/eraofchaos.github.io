@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Orb of the Firmament"
 permalink: /Items/art_25/
 excerpt: " Orb of the Firmament"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_25.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

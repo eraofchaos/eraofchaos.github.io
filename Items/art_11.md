@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ogre's Club of Havoc"
 permalink: /Items/art_11/
 excerpt: " Ogre's Club of Havoc"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_11.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Campaign** 
+
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

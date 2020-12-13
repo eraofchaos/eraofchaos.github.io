@@ -2,7 +2,7 @@
 title: "Item - Materials -  Rare Crystal"
 permalink: /Items/mat_68/
 excerpt: " Rare Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_68.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 13 (From Day to Night) -> 13-6** 
+
+    - **Chapter 13 (From Day to Night) -> 13-12** 
+
+    - **Chapter 13 (From Day to Night) -> 13-15** 
+
+
 
 ## This item contains:
 

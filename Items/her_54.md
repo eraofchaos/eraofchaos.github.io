@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Stone Skin"
 permalink: /Items/her_54/
 excerpt: " Stone Skin"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_54.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

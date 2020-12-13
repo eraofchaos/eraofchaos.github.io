@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Dragonbone Greaves"
 permalink: /Items/art_37/
 excerpt: " Dragonbone Greaves"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_37.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

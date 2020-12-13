@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Forest Resonance"
 permalink: /Items/her_43/
 excerpt: " Forest Resonance"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_43.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 22 (The Road Home) -> 22-4** 
+
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

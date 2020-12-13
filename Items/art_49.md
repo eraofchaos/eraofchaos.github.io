@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Bowstring of the Unicorn's Mane"
 permalink: /Items/art_49/
 excerpt: " Bowstring of the Unicorn's Mane"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_49.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+
 
 ## This item contains:
 

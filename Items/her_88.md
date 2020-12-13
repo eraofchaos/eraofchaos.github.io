@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Gelu"
 permalink: /Items/her_88/
 excerpt: " Gelu"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_88.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Champion Store** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Regnan Serpent"
 permalink: /Items/unt_83/
 excerpt: " Regnan Serpent"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_83.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - Unicorn King** 
+
+
 
 ## This item contains:
 

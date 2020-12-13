@@ -2,7 +2,7 @@
 title: "Item - Units -  Monk"
 permalink: /Items/unt_61/
 excerpt: " Monk"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_61.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 16 (For King and Country) -> 16-5** 
+
+    - **Underground 20 (Tunnels and Troglodytes) -> 20-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - null** 
+
+
 
 ## This item contains:
 

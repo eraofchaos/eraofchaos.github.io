@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ring of Flares"
 permalink: /Items/art_9/
 excerpt: " Ring of Flares"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_9.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

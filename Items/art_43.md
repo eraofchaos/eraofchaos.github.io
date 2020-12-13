@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Pendant of Negativity"
 permalink: /Items/art_43/
 excerpt: " Pendant of Negativity"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_43.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

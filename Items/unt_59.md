@@ -2,7 +2,7 @@
 title: "Item - Units -  Swordsman"
 permalink: /Items/unt_59/
 excerpt: " Swordsman"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_59.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 2 (Guardian Angel) -> 2-5** 
+
+    - **Underground 4 (A Devilish Plan) -> 4-5** 
+
+    - **Arena Store** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Swordsmen** 
+
+
 
 ## This item contains:
 

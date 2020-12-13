@@ -2,7 +2,7 @@
 title: "Item - Units -  Orc"
 permalink: /Items/unt_10/
 excerpt: " Orc"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_10.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 6 (Fall of the Capital) -> 6-1** 
+
+    - **Underground 7 (Borderlands) -> 7-1** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Orc** 
+
+
 
 ## This item contains:
 

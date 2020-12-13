@@ -2,7 +2,7 @@
 title: "Item - Units -  War Unicorn Soul Stone"
 permalink: /Items/unt_44/
 excerpt: " War Unicorn Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_44.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Arena Store** 
+
+
 
 ## This item contains:
 

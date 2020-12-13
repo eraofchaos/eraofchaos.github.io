@@ -2,7 +2,7 @@
 title: "Item - Materials -  Eternal Wood"
 permalink: /Items/mat_75/
 excerpt: " Eternal Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_75.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 20 (Tunnels and Troglodytes) -> 20-2** 
+
+    - **Chapter 20 (Tunnels and Troglodytes) -> 20-5** 
+
+    - **Chapter 20 (Tunnels and Troglodytes) -> 20-8** 
+
+
 
 ## This item contains:
 

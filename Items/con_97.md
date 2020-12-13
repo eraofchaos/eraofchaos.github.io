@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Vega Ciele"
 permalink: /Items/con_97/
 excerpt: " Vega Ciele"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_97.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **980x** <i class="fas fa-gem"/> | 
-  | 2 |  **1x** Vega Ciele(Use to get a skin: Vega Ciele) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **980x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Vega Ciele | Use to get a skin: Vega Ciele  | 

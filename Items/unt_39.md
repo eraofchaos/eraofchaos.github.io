@@ -2,7 +2,7 @@
 title: "Item - Units -  Gnoll"
 permalink: /Items/unt_39/
 excerpt: " Gnoll"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_39.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Campaign Store** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Gnoll** 
+
+
 
 ## This item contains:
 

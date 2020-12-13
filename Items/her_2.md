@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Chain Lightning"
 permalink: /Items/her_2/
 excerpt: " Chain Lightning"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_2.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Amulet of the Undertaker"
 permalink: /Items/art_46/
 excerpt: " Amulet of the Undertaker"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_46.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+
 
 ## This item contains:
 

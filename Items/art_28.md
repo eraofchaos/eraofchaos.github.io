@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Titan's Gladius"
 permalink: /Items/art_28/
 excerpt: " Titan's Gladius"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_28.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

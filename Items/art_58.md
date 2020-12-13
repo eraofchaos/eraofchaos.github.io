@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Tunic of the Cyclops King"
 permalink: /Items/art_58/
 excerpt: " Tunic of the Cyclops King"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_58.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Campaign** 
+
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

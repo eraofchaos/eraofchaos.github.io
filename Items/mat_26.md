@@ -2,7 +2,7 @@
 title: "Item - Materials -  Star Crystal"
 permalink: /Items/mat_26/
 excerpt: " Star Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_26.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 26 (Extend Lead) -> 26-6** 
+
+    - **Chapter 26 (Extend Lead) -> 26-12** 
+
+    - **Chapter 26 (Extend Lead) -> 26-15** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Shiva"
 permalink: /Items/her_77/
 excerpt: " Shiva"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_77.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground Chest** 
+
+    - **Guild Store** 
+
+
 
 ## This item contains:
 

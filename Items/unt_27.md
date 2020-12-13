@@ -2,7 +2,7 @@
 title: "Item - Units -  Lich"
 permalink: /Items/unt_27/
 excerpt: " Lich"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_27.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - Lich** 
+
+
 
 ## This item contains:
 

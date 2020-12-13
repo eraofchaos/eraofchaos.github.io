@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Guardian of Vernin Ryland"
 permalink: /Items/con_78/
 excerpt: " Guardian of Vernin Ryland"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_78.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

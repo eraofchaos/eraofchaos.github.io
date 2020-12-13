@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Ore"
 permalink: /Items/mat_81/
 excerpt: " Legendary Ore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_81.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 16 (For King and Country) -> 16-1** 
+
+    - **Chapter 16 (For King and Country) -> 16-4** 
+
+    - **Chapter 16 (For King and Country) -> 16-7** 
+
+
 
 ## This item contains:
 

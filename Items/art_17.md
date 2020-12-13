@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Helm of Heavenly Enlightenment"
 permalink: /Items/art_17/
 excerpt: " Helm of Heavenly Enlightenment"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_17.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

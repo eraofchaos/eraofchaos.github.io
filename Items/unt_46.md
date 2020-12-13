@@ -2,7 +2,7 @@
 title: "Item - Units -  Regnan Archer"
 permalink: /Items/unt_46/
 excerpt: " Regnan Archer"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_46.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Barracks Redemption - null** 
+
+    - **Altar of Recruitment** 
+
+
 
 ## This item contains:
 

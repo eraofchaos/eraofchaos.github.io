@@ -2,7 +2,7 @@
 title: "Item - Materials -  Certificate of Legend"
 permalink: /Items/mat_25/
 excerpt: " Certificate of Legend"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_25.md"
 toc: false
@@ -19,7 +19,17 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter - Deal with the Devil** 
+
+    - **Chapter - Neutral Ground** 
+
+    - **Chapter - Tunnels and Troglodytes** 
+
+    - **Chapter - The Grail** 
+
+
 
 ## This item contains:
 

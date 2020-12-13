@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Gems"
 permalink: /Items/mat_17/
 excerpt: " Exceptional Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_17.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 11 (Tatalia) -> 11-1** 
+
+    - **Chapter 11 (Tatalia) -> 11-5** 
+
+    - **Chapter 11 (Tatalia) -> 11-11** 
+
+
 
 ## This item contains:
 

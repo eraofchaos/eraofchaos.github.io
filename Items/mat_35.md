@@ -2,7 +2,7 @@
 title: "Item - Materials -  Mythical Sulfur"
 permalink: /Items/mat_35/
 excerpt: " Mythical Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_35.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-10** 
+
+    - **Chapter 18 (Deal with the Devil) -> 18-14** 
+
+
 
 ## This item contains:
 

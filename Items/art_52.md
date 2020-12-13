@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Sentinel's Shield"
 permalink: /Items/art_52/
 excerpt: " Sentinel's Shield"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_52.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

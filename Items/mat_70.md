@@ -2,7 +2,7 @@
 title: "Item - Materials -  Epic Mercury"
 permalink: /Items/mat_70/
 excerpt: " Epic Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_70.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 14 (Safe Passage) -> 14-3** 
+
+    - **Chapter 14 (Safe Passage) -> 14-6** 
+
+    - **Chapter 14 (Safe Passage) -> 14-9** 
+
+
 
 ## This item contains:
 

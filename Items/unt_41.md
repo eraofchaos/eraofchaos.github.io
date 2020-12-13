@@ -2,7 +2,7 @@
 title: "Item - Units -  Gog"
 permalink: /Items/unt_41/
 excerpt: " Gog"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_41.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 4 (A Devilish Plan) -> 4-3** 
+
+    - **Underground 5 (Pioneer) -> 5-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Gog** 
+
+
 
 ## This item contains:
 

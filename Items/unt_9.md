@@ -2,7 +2,7 @@
 title: "Item - Units -  Harpy"
 permalink: /Items/unt_9/
 excerpt: " Harpy"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_9.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 23 (Independence) -> 23-5** 
+
+    - **Underground 26 (Sound of Fate) -> 26-1** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Harpy** 
+
+
 
 ## This item contains:
 

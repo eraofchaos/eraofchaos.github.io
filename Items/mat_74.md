@@ -2,7 +2,7 @@
 title: "Item - Materials -  Mythical Gems"
 permalink: /Items/mat_74/
 excerpt: " Mythical Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_74.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 19 (Neutral Ground) -> 19-1** 
+
+    - **Chapter 19 (Neutral Ground) -> 19-5** 
+
+    - **Chapter 19 (Neutral Ground) -> 19-11** 
+
+
 
 ## This item contains:
 

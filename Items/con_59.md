@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Darkness Dominance Pack"
 permalink: /Items/con_59/
 excerpt: " Darkness Dominance Pack"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_59.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ You would need to choose 1 item from the list (0):
 
-  | Nr |      Item    |
-  |:---|:------------:|
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
   | 1 | AVATARFRAME1034 | 
-  | 2 |  **5x** Bone Dragon(Once you have gathered 80 soul tokens you can summon a Bone Dragon, an SSR aptitude unit.) | 
+  | 2 |  **5x** | Bone Dragon | Once you have gathered 80 soul tokens you can summon a Bone Dragon, an SSR aptitude unit.  | 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Eternal Sulfur"
 permalink: /Items/mat_97/
 excerpt: " Eternal Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_97.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 20 (Tunnels and Troglodytes) -> 20-10** 
+
+    - **Chapter 20 (Tunnels and Troglodytes) -> 20-14** 
+
+    - **Chapter 21 (The Grail) -> 21-4** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Superior Gems"
 permalink: /Items/mat_41/
 excerpt: " Superior Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_41.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 7 (Erathia) -> 7-1** 
+
+    - **Chapter 7 (Erathia) -> 7-5** 
+
+    - **Chapter 7 (Erathia) -> 7-11** 
+
+
 
 ## This item contains:
 

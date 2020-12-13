@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Resurrection"
 permalink: /Items/her_79/
 excerpt: " Resurrection"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_79.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Call of the Wild"
 permalink: /Items/her_91/
 excerpt: " Call of the Wild"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_91.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

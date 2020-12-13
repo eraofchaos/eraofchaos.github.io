@@ -2,7 +2,7 @@
 title: "Item - Materials -  Rare Ore"
 permalink: /Items/mat_2/
 excerpt: " Rare Ore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_2.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-1** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-4** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-7** 
+
+
 
 ## This item contains:
 

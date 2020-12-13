@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Gems"
 permalink: /Items/mat_31/
 excerpt: " Legendary Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_31.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 17 (Liberation of the Empire) -> 17-1** 
+
+    - **Chapter 17 (Liberation of the Empire) -> 17-5** 
+
+    - **Chapter 17 (Liberation of the Empire) -> 17-11** 
+
+
 
 ## This item contains:
 

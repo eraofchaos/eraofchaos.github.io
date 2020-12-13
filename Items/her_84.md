@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Rush Tactic"
 permalink: /Items/her_84/
 excerpt: " Rush Tactic"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_84.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

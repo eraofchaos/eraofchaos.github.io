@@ -2,7 +2,7 @@
 title: "Item - Units -  Psychic Elemental"
 permalink: /Items/unt_32/
 excerpt: " Psychic Elemental"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_32.md"
 toc: false
@@ -19,7 +19,13 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - null** 
+
+    - **Altar of Recruitment** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Dragon Breath"
 permalink: /Items/her_8/
 excerpt: " Dragon Breath"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_8.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

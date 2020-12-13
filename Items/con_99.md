@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Huge Roster runes"
 permalink: /Items/con_99/
 excerpt: " Huge Roster runes"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_99.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Guild Store** 
+
+    - **Dragon Utopia** 
+
+
 
 ## This item contains:
 

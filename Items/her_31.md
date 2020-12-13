@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Melodia"
 permalink: /Items/her_31/
 excerpt: " Melodia"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_31.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

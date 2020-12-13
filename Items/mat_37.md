@@ -2,7 +2,7 @@
 title: "Item - Materials -  Radiant Crystal"
 permalink: /Items/mat_37/
 excerpt: " Radiant Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_37.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 27 (Dragon Father's Blood) -> 27-6** 
+
+    - **Chapter 27 (Dragon Father's Blood) -> 27-12** 
+
+    - **Chapter 27 (Dragon Father's Blood) -> 27-15** 
+
+
 
 ## This item contains:
 

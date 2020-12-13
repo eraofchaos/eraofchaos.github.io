@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Petrification"
 permalink: /Items/her_32/
 excerpt: " Petrification"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_32.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Spell Prayer** 
+
+
 
 ## This item contains:
 

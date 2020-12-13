@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Dungeon Faction Selection Chest"
 permalink: /Items/con_36/
 excerpt: " Dungeon Faction Selection Chest"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_36.md"
 toc: false
@@ -19,16 +19,16 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ You would need to choose 1 item from the list (0):
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **1x** Troglodyte(Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes.) | 
-  | 2 |  **1x** Harpy(Once you have gathered 30 soul tokens you can summon a Harpy. Tokens can also be used to upgrade or increase the rank of harpies.) | 
-  | 3 |  **1x** Minotaur(Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Troglodyte | Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes.  | 
+  | 2 |  **1x** | Harpy | Once you have gathered 30 soul tokens you can summon a Harpy. Tokens can also be used to upgrade or increase the rank of harpies.  | 
+  | 3 |  **1x** | Minotaur | Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.  | 

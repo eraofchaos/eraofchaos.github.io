@@ -2,7 +2,7 @@
 title: "Item - Units -  Dread Knight's Soul Stone"
 permalink: /Items/unt_98/
 excerpt: " Dread Knight's Soul Stone"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_98.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Gods Store** 
+
+
 
 ## This item contains:
 

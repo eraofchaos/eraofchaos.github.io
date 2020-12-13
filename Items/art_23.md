@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Charm of Mana"
 permalink: /Items/art_23/
 excerpt: " Charm of Mana"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_23.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Campaign** 
+
+    - **Artifact Store** 
+
+
 
 ## This item contains:
 

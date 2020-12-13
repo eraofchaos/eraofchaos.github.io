@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Mercury"
 permalink: /Items/mat_91/
 excerpt: " Exceptional Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_91.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 10 (Marshland) -> 10-3** 
+
+    - **Chapter 10 (Marshland) -> 10-6** 
+
+    - **Chapter 10 (Marshland) -> 10-9** 
+
+
 
 ## This item contains:
 

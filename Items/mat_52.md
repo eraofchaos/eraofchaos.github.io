@@ -2,7 +2,7 @@
 title: "Item - Materials -  Radiant Gems"
 permalink: /Items/mat_52/
 excerpt: " Radiant Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_52.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 27 (Dragon Father's Blood) -> 27-1** 
+
+    - **Chapter 27 (Dragon Father's Blood) -> 27-5** 
+
+    - **Chapter 27 (Dragon Father's Blood) -> 27-11** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Good Gems"
 permalink: /Items/mat_4/
 excerpt: " Good Gems"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_4.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 5 (Byrds) -> 5-1** 
+
+    - **Chapter 5 (Byrds) -> 5-5** 
+
+    - **Chapter 5 (Byrds) -> 5-11** 
+
+
 
 ## This item contains:
 

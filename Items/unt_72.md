@@ -2,7 +2,7 @@
 title: "Item - Units -  Behemoth"
 permalink: /Items/unt_72/
 excerpt: " Behemoth"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_72.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Behemoth** 
+
+
 
 ## This item contains:
 

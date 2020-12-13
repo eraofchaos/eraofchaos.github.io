@@ -2,7 +2,7 @@
 title: "Item - Materials -  Soul Mercury"
 permalink: /Items/mat_34/
 excerpt: " Soul Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_34.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-3** 
+
+    - **Chapter 24 (Faerie Dragon) -> 24-9** 
+
+    - **Chapter 25 (Survival of the Fittest) -> 25-3** 
+
+
 
 ## This item contains:
 

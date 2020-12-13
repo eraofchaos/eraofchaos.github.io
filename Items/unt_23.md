@@ -2,7 +2,7 @@
 title: "Item - Units -  Marksman"
 permalink: /Items/unt_23/
 excerpt: " Marksman"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "unt_23.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Underground 2 (Guardian Angel) -> 2-1** 
+
+    - **Underground 16 (For King and Country) -> 16-3** 
+
+    - **Altar of Recruitment** 
+
+    - **Barracks Redemption - Archer** 
+
+
 
 ## This item contains:
 

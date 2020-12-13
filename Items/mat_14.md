@@ -2,7 +2,7 @@
 title: "Item - Materials -  Rare Wood"
 permalink: /Items/mat_14/
 excerpt: " Rare Wood"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_14.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-2** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-5** 
+
+    - **Chapter 12 (Sea of Ice) -> 12-8** 
+
+
 
 ## This item contains:
 

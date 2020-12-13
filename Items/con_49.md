@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Hero Leader Pack"
 permalink: /Items/con_49/
 excerpt: " Hero Leader Pack"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "con_49.md"
 toc: false
@@ -19,16 +19,16 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- You would get **ALL** items  from:
+ You would need to choose 1 item from the list (0):
 
-  | Nr |      Item    |
-  |:---|:------------:|
-  | 1 |  **30x** Roland(Collect 30 tokens to summon Roland to join your party. Tokens are also required to increase his rank.) | 
-  | 2 |  **30x** Sandro(Collect 30 tokens to summon Sandro to join your party. Tokens are also required to increase his rank.) | 
-  | 3 |  **30x** Kilgor(Collect 30 tokens to summon Kilgor to join your party. Tokens are also required to increase his rank.) | 
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **30x** | Roland | Collect 30 tokens to summon Roland to join your party. Tokens are also required to increase his rank.  | 
+  | 2 |  **30x** | Sandro | Collect 30 tokens to summon Sandro to join your party. Tokens are also required to increase his rank.  | 
+  | 3 |  **30x** | Kilgor | Collect 30 tokens to summon Kilgor to join your party. Tokens are also required to increase his rank.  | 

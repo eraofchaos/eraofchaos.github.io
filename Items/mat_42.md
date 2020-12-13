@@ -2,7 +2,7 @@
 title: "Item - Materials -  Epic Ore"
 permalink: /Items/mat_42/
 excerpt: " Epic Ore"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_42.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 14 (Safe Passage) -> 14-1** 
+
+    - **Chapter 14 (Safe Passage) -> 14-4** 
+
+    - **Chapter 14 (Safe Passage) -> 14-7** 
+
+
 
 ## This item contains:
 

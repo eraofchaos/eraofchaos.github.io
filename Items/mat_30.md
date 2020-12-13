@@ -2,7 +2,7 @@
 title: "Item - Materials -  Superior Sulfur"
 permalink: /Items/mat_30/
 excerpt: " Superior Sulfur"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_30.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-10** 
+
+    - **Chapter 6 (Breaking Ground) -> 6-14** 
+
+    - **Chapter 7 (Erathia) -> 7-4** 
+
+
 
 ## This item contains:
 

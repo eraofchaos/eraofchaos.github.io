@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Shroud of Eden"
 permalink: /Items/art_5/
 excerpt: " Shroud of Eden"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_5.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

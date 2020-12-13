@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Yog"
 permalink: /Items/her_12/
 excerpt: " Yog"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_12.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Guild Store** 
+
+
 
 ## This item contains:
 

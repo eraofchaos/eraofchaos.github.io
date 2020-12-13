@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Crown of Dragontooth"
 permalink: /Items/art_82/
 excerpt: " Crown of Dragontooth"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_82.md"
 toc: false
@@ -19,7 +19,11 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+    - **Artifacts** 
+
+
 
 ## This item contains:
 

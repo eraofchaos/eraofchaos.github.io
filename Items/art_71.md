@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Vampire's Cowl"
 permalink: /Items/art_71/
 excerpt: " Vampire's Cowl"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "art_71.md"
 toc: false
@@ -19,7 +19,9 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Artifact Store** 
+
+
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Kendal"
 permalink: /Items/her_30/
 excerpt: " Kendal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "her_30.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+  None
 
 ## This item contains:
 

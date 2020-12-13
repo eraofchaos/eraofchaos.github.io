@@ -2,7 +2,7 @@
 title: "Item - Materials -  Eternal Crystal"
 permalink: /Items/mat_19/
 excerpt: " Eternal Crystal"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_19.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 21 (The Grail) -> 21-6** 
+
+    - **Chapter 21 (The Grail) -> 21-12** 
+
+    - **Chapter 21 (The Grail) -> 21-15** 
+
+
 
 ## This item contains:
 

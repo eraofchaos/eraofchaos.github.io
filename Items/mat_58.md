@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Mercury"
 permalink: /Items/mat_58/
 excerpt: " Valuable Mercury"
-last_modified_at: 2020-12-11
+last_modified_at: 2020-12-13
 lang: en
 ref: "mat_58.md"
 toc: false
@@ -19,7 +19,15 @@ classes: wide
 
 ## Gather
 
-  To Be Done
+    - **Unknown_17** 
+
+    - **Chapter 8 (Borderlands) -> 8-3** 
+
+    - **Chapter 8 (Borderlands) -> 8-6** 
+
+    - **Chapter 8 (Borderlands) -> 8-9** 
+
+
 
 ## This item contains:
 
