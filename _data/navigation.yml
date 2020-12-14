@@ -19,6 +19,8 @@ docs:
       url: /units/
     - title: "Items"
       url: /Items/
+    - title: "Holy Emblem"
+      url: /Emblem/
     - title: "Alchemy Workshop"
       url: /Alchemy Workshop/
     - title: "Battle Formation"
@@ -53,6 +55,8 @@ docs_de:
       url: /de/heroes/
     - title: "Einheiten"
       url: /de/units/
+    - title: "Heiliges Emblem"
+      url: /de/Emblem/
     - title: "Alchemiewerkstatt"
       url: /de/Alchemy Workshop/
     - title: "Kampfformationn"
@@ -85,6 +89,8 @@ docs_fr:
       url: /fr/heroes/
     - title: "Unités"
       url: /fr/units/
+    - title: "Emblème sacré"
+      url: /fr/Emblem/
     - title: "Atelier d'alchimie"
       url: /fr/Alchemy Workshop/
     - title: "Formation de combat"
@@ -119,6 +125,8 @@ docs_ru:
       url: /ru/heroes/
     - title: "Отряды"
       url: /ru/units/
+    - title: "Эмблема святости"
+      url: /ru/Emblem/
     - title: "Мастерская алхимика"
       url: /ru/Alchemy Workshop/
     - title: "Боевое построение"
@@ -153,6 +161,8 @@ docs_it:
       url: /it/heroes/
     - title: "Unità"
       url: /it/units/
+    - title: "Emblema sacro"
+      url: /it/Emblem/
     - title: "Laboratorio alchemico"
       url: /it/Alchemy Workshop/
     - title: "Formazione di battaglia"
@@ -187,6 +197,8 @@ docs_es:
       url: /es/heroes/
     - title: "Unidades"
       url: /es/units/
+    - title: "Emblema Sagrado"
+      url: /es/Emblem/
     - title: "Taller alquímico"
       url: /es/Alchemy Workshop/
     - title: "Formación de batalla"

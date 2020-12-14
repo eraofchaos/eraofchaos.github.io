@@ -10,6 +10,21 @@ sidebar:
 
 This information portal contains information about "Era Of Chaos" mobile game.
 
+{% capture notice-update20201214 %}
+By community request, we did [Holy Emblem](/Emblem/) in your language:
+* <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
+* <i class="fas fa-atom"/>  [Emblème sacré](/fr/Emblem/)
+* <i class="fas fa-atom"/>  [Heiliges Emblem](/de/Emblem/)
+* <i class="fas fa-atom"/>  [Эмблема святости](/ru/Emblem/)
+* <i class="fas fa-atom"/>  [Emblema sacro](/it/Emblem/)
+* <i class="fas fa-atom"/>  [Emblema Sagrado](/es/Emblem/)
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">14 Dec 2020 Update:</h4>
+  {{ notice-update20201214 | markdownify }}
+</div>
+
 {% capture notice-update20201212 %}
 Huge work was done. We are happy to announce [Items](/Items/) 
 
@@ -27,14 +42,6 @@ Each item contains section **Gather** from where You can get it and **This item 
   {{ notice-update20201212 | markdownify }}
 </div>
 
-{% capture notice-update20201201 %}
-  Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">1 Dec 2020 Update:</h4>
-  {{ notice-update20201201 | markdownify }}
-</div>
 
 You will find here:
 ### <i class="fas fa-gavel"/> [Items](/Items/)
@@ -52,6 +59,8 @@ You will find here:
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
+
+
 Currently in the development:
 ### <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/) see [Items - Artifacts](/Items/Artifacts/)
 ### <i class="fas fa-place-of-worship"/>  [Guild](/guild/)
@@ -60,9 +69,9 @@ Currently in the development:
 ### War Maschines (TBD)
 ### Battlefield Backup (TBD)
 
-Sorry, Right now this web site is **Under Construct**
 
- **Game Update 8 Dec 2020** 
+## History
+{% capture notice-update20201208 %}
 * 1 New Unit: **Leprechaun** (Unit + Avatar + slot in Barracks)  **[Read more](/units/Leprechaun/)**
 * You can get **Leprechaun** from SSR Unit Soul
 * Awaking **Storm Elemental** unit to **Lightning Storm**. 
@@ -71,5 +80,23 @@ Sorry, Right now this web site is **Under Construct**
      - Skill **Beast Mark** ( **Cruel Torture** increases skill damage to 150% of the skill's basic damage. All friendly Inferno Faction units gain 1000 Critical Hit for 10s when this skill is cast.)
      - Passive skill **Cruel Torture** (They have power and a terrifying reach.)
      - Passive skill **Testimony of the Fallen** (**Cruel Torture** Increases skill damage to 150% of the skill's basic damage and reduces the target unit's DEF by 50% for 10s)
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">8 Dec 2020 Game Update:</h4>
+  {{ notice-update20201208 | markdownify }}
+</div>
+
+{% capture notice-update20201201 %}
+  Added [Italiano](/it/) and [Espanol](/es/) languages to site. Added Units for all languages (alpha version).
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">1 Dec 2020 Update:</h4>
+  {{ notice-update20201201 | markdownify }}
+</div>
+
+Sorry, Right now this web site is **Under Construct**
+
 {: .notice--danger}
 
