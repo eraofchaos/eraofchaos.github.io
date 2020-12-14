@@ -37,7 +37,7 @@ toc: true
 
 ## Skills
 ### 1 Skill: Condemn
- **Description:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stuns></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### 2 Skill: Resurrection
  **Description:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
@@ -60,6 +60,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
@@ -86,10 +88,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Condemnation&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 15% of their Max HP for all friendly units  </span>
 
 ### 3rd Skill (or 4th): Salvation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Makes friendly units immune to all damage for 6s. Angel is immune to <silence></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Makes friendly units immune to all damage for 6s. Angel is immune to &lt;silence&gt;</span>
 
 ### 4th Skill (or 3rd): Immersion
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Restores Max HP by 10% for all friendly units. Angel is immune to <silence></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Restores Max HP by 10% for all friendly units. Angel is immune to &lt;silence&gt;</span>
 
 ### 5th Skill (or 6th): Gospel Talk
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Radiance&gt;</span><span style="color: #645252;font-size:18px">Increases healing of all friendly units by 35% when Angel is on the battlefield</span>
