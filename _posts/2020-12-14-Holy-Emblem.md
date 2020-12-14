@@ -1,5 +1,5 @@
 ﻿---
-title: "Era Of Chaos - Weekly Sign-in Rewards"
+title: "Era Of Chaos - Holy Emblem"
 date: 2020-12-14T22:03:00+01:00
 classes: wide
 toc: false
