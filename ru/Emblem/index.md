@@ -22,7 +22,7 @@ classes: wide
   | 1 | [Зловещий знак](/ru/Emblem/Ominous Sign/) | Злой | Подходит для любых отрядов | 
   | 2 | [Принципы наследия](/ru/Emblem/Successors' Legal Principles/) | Нейтральный | Подходит оборонительным отрядам | 
   | 3 | [Похоть](/ru/Emblem/Lust/) | Хаос | Подходит оборонительным отрядам | 
-  | 4 | [null](/ru/Emblem/Darkness Enlightenment/) | Злой | null | 
+  | 4 | [Darkness Enlightenment](/ru/Emblem/Darkness Enlightenment/) | Злой | null | 
   | 5 | [Жетон Аксо](/ru/Emblem/Aksoe Token/) | Нейтральный | Подходит отрядам, замедляющим врагов | 
   | 6 | [Гордыня](/ru/Emblem/Arrogance/) | Хаос | Больше всего подходит отрядам с УВС | 
   | 7 | [Святилище Космоса](/ru/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
@@ -37,7 +37,7 @@ classes: wide
   | 16 | [Суд отцов](/ru/Emblem/The Judgment of Fathers/) | Нейтральный | Подходит отрядам, оглушающим врагов | 
   | 17 | [Древний огонь](/ru/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
   | 18 | [Путь ассасина](/ru/Emblem/Path of an Assassin/) | Нейтральный | Больше всего подходит отрядам с УВС | 
-  | 19 | [null](/ru/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
+  | 19 | [Dragon King's Breath](/ru/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
   | 20 | [Снаряжение времени](/ru/Emblem/Gear of Time/) | Добро | Подходит оборонительным отрядам | 
   | 21 | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) | Нейтральный | null | 
   | 22 | [Ревность](/ru/Emblem/Jealousy/) | Хаос | Больше всего подходит отрядам с УВС | 
