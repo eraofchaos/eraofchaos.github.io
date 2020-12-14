@@ -13,8 +13,8 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Gear of Time](/Emblem/Gear of Time/) | Goodness | Recommended to inlay for Defensive units | 
+  | 1 | [Green Prophet](/Emblem/Green Prophet/) | Goodness | Suitable for any units | 
   | 2 | [Wall of Knowledge](/Emblem/Wall of Knowledge/) | Goodness | Suitable for any units | 
-  | 3 | [Guardian Angel](/Emblem/Guardian Angel/) | Goodness | Recommended to inlay for units with DPS | 
-  | 4 | [Witness](/Emblem/Witness/) | Goodness | Recommended to inlay for units with DPS | 
-  | 5 | [Green Prophet](/Emblem/Green Prophet/) | Goodness | Suitable for any units | 
+  | 3 | [Gear of Time](/Emblem/Gear of Time/) | Goodness | Recommended to inlay for Defensive units | 
+  | 4 | [Guardian Angel](/Emblem/Guardian Angel/) | Goodness | Recommended to inlay for units with DPS | 
+  | 5 | [Witness](/Emblem/Witness/) | Goodness | Recommended to inlay for units with DPS | 

@@ -13,10 +13,10 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) | Neutral | Recommended to inlay for units that stun enemies | 
-  | 2 | [Path of an Assassin](/Emblem/Path of an Assassin/) | Neutral | Recommended to inlay for units with DPS | 
+  | 1 | [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) | Neutral | Recommended to inlay for Defensive units | 
+  | 2 | [Aksoe Token](/Emblem/Aksoe Token/) | Neutral | Recommended to inlay in units that slow enemies | 
   | 3 | [Tarnum's Culpability](/Emblem/Tarnum's Culpability/) | Neutral | Suitable for any units | 
-  | 4 | [Core of the Global Network](/Emblem/Core of the Global Network/) | Neutral | Suitable for any units | 
-  | 5 | [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) | Neutral | Recommended to inlay for Defensive units | 
+  | 4 | [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) | Neutral | Recommended to inlay for units that stun enemies | 
+  | 5 | [Path of an Assassin](/Emblem/Path of an Assassin/) | Neutral | Recommended to inlay for units with DPS | 
   | 6 | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) | Neutral | Recommended to inlay for units that make enemies bleed | 
-  | 7 | [Aksoe Token](/Emblem/Aksoe Token/) | Neutral | Recommended to inlay in units that slow enemies | 
+  | 7 | [Core of the Global Network](/Emblem/Core of the Global Network/) | Neutral | Suitable for any units | 

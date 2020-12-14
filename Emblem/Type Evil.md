@@ -13,9 +13,9 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Forgotten Autonym](/Emblem/Forgotten Autonym/) | Evil | Suitable for any units | 
-  | 2 | [Dragon King's Breath](/Emblem/Dragon King's Breath/) | Evil | Recommended to inlay for Defensive units | 
-  | 3 | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/) | Evil | Recommended to inlay for 4/9/16-man units | 
-  | 4 | [King's Calamity](/Emblem/King's Calamity/) | Evil | Recommended to inlay in units that burn enemies | 
-  | 5 | [Broken Prophecy](/Emblem/Broken Prophecy/) | Evil | Recommended to inlay in 9-man units | 
-  | 6 | [Ominous Sign](/Emblem/Ominous Sign/) | Evil | Suitable for any units | 
+  | 1 | [Ominous Sign](/Emblem/Ominous Sign/) | Evil | Suitable for any units | 
+  | 2 | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/) | Evil | Recommended to inlay for 4/9/16-man units | 
+  | 3 | [Forgotten Autonym](/Emblem/Forgotten Autonym/) | Evil | Suitable for any units | 
+  | 4 | [Broken Prophecy](/Emblem/Broken Prophecy/) | Evil | Recommended to inlay in 9-man units | 
+  | 5 | [Dragon King's Breath](/Emblem/Dragon King's Breath/) | Evil | Recommended to inlay for Defensive units | 
+  | 6 | [King's Calamity](/Emblem/King's Calamity/) | Evil | Recommended to inlay in units that burn enemies | 
