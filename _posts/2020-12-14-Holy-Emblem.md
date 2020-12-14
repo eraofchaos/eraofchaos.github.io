@@ -12,7 +12,7 @@ tags:
 We are happy to provide Holy Emblem. It was requested by community as next expected feature.
 Thanks for your feedback and your vote!
 
-## Weekly Sign-in Rewards
+## Holy Emblem
  - English:  <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
  - French:   <i class="fas fa-atom"/>  [Emblème sacré](/fr/Emblem/)
  - German:   <i class="fas fa-atom"/>  [Heiliges Emblem](/de/Emblem/)
