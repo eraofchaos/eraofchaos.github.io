@@ -19,35 +19,35 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 0 | [Ominous Sign](//Emblem/Ominous Sign/) | Evil | Suitable for any units | 
-  | 1 | [Successors' Legal Principles](//Emblem/Successors' Legal Principles/) | Neutral | Recommended to inlay for Defensive units | 
-  | 2 | [Lust](//Emblem/Lust/) | Chaos | Recommended to inlay for Defensive units | 
-  | 3 | [Darkness Enlightenment](//Emblem/Darkness Enlightenment/) | Evil | Recommended to inlay for 4/9/16-man units | 
-  | 4 | [Aksoe Token](//Emblem/Aksoe Token/) | Neutral | Recommended to inlay in units that slow enemies | 
-  | 5 | [Arrogance](//Emblem/Arrogance/) | Chaos | Recommended to inlay for units with DPS | 
-  | 6 | [Sanctuary of Kosmos](//Emblem/Sanctuary of Kosmos/) | Order | Recommended to inlay for Defensive units | 
-  | 7 | [Forgotten Autonym](//Emblem/Forgotten Autonym/) | Evil | Suitable for any units | 
-  | 8 | [Tarnum's Culpability](//Emblem/Tarnum's Culpability/) | Neutral | Suitable for any units | 
-  | 9 | [Greed](//Emblem/Greed/) | Chaos | Recommended to inlay for Defensive units | 
-  | 10 | [Queen's Blessing](//Emblem/Queen's Blessing/) | Order | Recommended to inlay for Defensive units | 
-  | 11 | [Green Prophet](//Emblem/Green Prophet/) | Goodness | Suitable for any units | 
-  | 12 | [Broken Prophecy](//Emblem/Broken Prophecy/) | Evil | Recommended to inlay in 9-man units | 
-  | 13 | [Ironfist's Legacy](//Emblem/Ironfist's Legacy/) | Order | Recommended to inlay for units with DPS | 
-  | 14 | [Wall of Knowledge](//Emblem/Wall of Knowledge/) | Goodness | Suitable for any units | 
-  | 15 | [The Judgment of Fathers](//Emblem/The Judgment of Fathers/) | Neutral | Recommended to inlay for units that stun enemies | 
-  | 16 | [Ancient Fire](//Emblem/Ancient Fire/) | Order | Suitable for any units | 
-  | 17 | [Path of an Assassin](//Emblem/Path of an Assassin/) | Neutral | Recommended to inlay for units with DPS | 
-  | 18 | [Dragon King's Breath](//Emblem/Dragon King's Breath/) | Evil | Recommended to inlay for Defensive units | 
-  | 19 | [Gear of Time](//Emblem/Gear of Time/) | Goodness | Recommended to inlay for Defensive units | 
-  | 20 | [Stone Key to the Gates](//Emblem/Stone Key to the Gates/) | Neutral | Recommended to inlay for units that make enemies bleed | 
-  | 21 | [Jealousy](//Emblem/Jealousy/) | Chaos | Recommended to inlay for units with DPS | 
-  | 22 | [Everlasting Secret](//Emblem/Everlasting Secret/) | Order | Suitable for any units | 
-  | 23 | [Guardian Angel](//Emblem/Guardian Angel/) | Goodness | Recommended to inlay for units with DPS | 
-  | 24 | [King's Calamity](//Emblem/King's Calamity/) | Evil | Recommended to inlay in units that burn enemies | 
-  | 25 | [Core of the Global Network](//Emblem/Core of the Global Network/) | Neutral | Suitable for any units | 
-  | 26 | [Anger](//Emblem/Anger/) | Chaos | Suitable for any units | 
-  | 27 | [Griffin Wings](//Emblem/Griffin Wings/) | Order | Recommended to inlay for units with DPS | 
-  | 28 | [Witness](//Emblem/Witness/) | Goodness | Recommended to inlay for units with DPS | 
+  | 1 | [Ominous Sign](/Emblem/Ominous Sign/) | Evil | Suitable for any units | 
+  | 2 | [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) | Neutral | Recommended to inlay for Defensive units | 
+  | 3 | [Lust](/Emblem/Lust/) | Chaos | Recommended to inlay for Defensive units | 
+  | 4 | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/) | Evil | Recommended to inlay for 4/9/16-man units | 
+  | 5 | [Aksoe Token](/Emblem/Aksoe Token/) | Neutral | Recommended to inlay in units that slow enemies | 
+  | 6 | [Arrogance](/Emblem/Arrogance/) | Chaos | Recommended to inlay for units with DPS | 
+  | 7 | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/) | Order | Recommended to inlay for Defensive units | 
+  | 8 | [Forgotten Autonym](/Emblem/Forgotten Autonym/) | Evil | Suitable for any units | 
+  | 9 | [Tarnum's Culpability](/Emblem/Tarnum's Culpability/) | Neutral | Suitable for any units | 
+  | 10 | [Greed](/Emblem/Greed/) | Chaos | Recommended to inlay for Defensive units | 
+  | 11 | [Queen's Blessing](/Emblem/Queen's Blessing/) | Order | Recommended to inlay for Defensive units | 
+  | 12 | [Green Prophet](/Emblem/Green Prophet/) | Goodness | Suitable for any units | 
+  | 13 | [Broken Prophecy](/Emblem/Broken Prophecy/) | Evil | Recommended to inlay in 9-man units | 
+  | 14 | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) | Order | Recommended to inlay for units with DPS | 
+  | 15 | [Wall of Knowledge](/Emblem/Wall of Knowledge/) | Goodness | Suitable for any units | 
+  | 16 | [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) | Neutral | Recommended to inlay for units that stun enemies | 
+  | 17 | [Ancient Fire](/Emblem/Ancient Fire/) | Order | Suitable for any units | 
+  | 18 | [Path of an Assassin](/Emblem/Path of an Assassin/) | Neutral | Recommended to inlay for units with DPS | 
+  | 19 | [Dragon King's Breath](/Emblem/Dragon King's Breath/) | Evil | Recommended to inlay for Defensive units | 
+  | 20 | [Gear of Time](/Emblem/Gear of Time/) | Goodness | Recommended to inlay for Defensive units | 
+  | 21 | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) | Neutral | Recommended to inlay for units that make enemies bleed | 
+  | 22 | [Jealousy](/Emblem/Jealousy/) | Chaos | Recommended to inlay for units with DPS | 
+  | 23 | [Everlasting Secret](/Emblem/Everlasting Secret/) | Order | Suitable for any units | 
+  | 24 | [Guardian Angel](/Emblem/Guardian Angel/) | Goodness | Recommended to inlay for units with DPS | 
+  | 25 | [King's Calamity](/Emblem/King's Calamity/) | Evil | Recommended to inlay in units that burn enemies | 
+  | 26 | [Core of the Global Network](/Emblem/Core of the Global Network/) | Neutral | Suitable for any units | 
+  | 27 | [Anger](/Emblem/Anger/) | Chaos | Suitable for any units | 
+  | 28 | [Griffin Wings](/Emblem/Griffin Wings/) | Order | Recommended to inlay for units with DPS | 
+  | 29 | [Witness](/Emblem/Witness/) | Goodness | Recommended to inlay for units with DPS | 
 
 ## Rules
 

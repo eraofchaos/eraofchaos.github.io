@@ -19,35 +19,35 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 0 | [Ominöses Zeichen](//de/Emblem/Ominous Sign/) | Böse | Geeignet für alle Einheiten. | 
-  | 1 | [Rechtsprinzip der Erben](//de/Emblem/Successors' Legal Principles/) | Neutral | Empfohlen für Abwehr-Einheiten. | 
-  | 2 | [Wollust](//de/Emblem/Lust/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
-  | 3 | [Erleuchtung der Dunkelheit](//de/Emblem/Darkness Enlightenment/) | Böse | Empfohlen für 4-/9-/16-Mann-Einheiten. | 
-  | 4 | [Aksoe-Token](//de/Emblem/Aksoe Token/) | Neutral | Empfohlen für Einheiten, die Gegnern Verlangsamung zufügen. | 
-  | 5 | [Hochmut](//de/Emblem/Arrogance/) | Chaos | Empf. für Einh. mit hohem DPS. | 
-  | 6 | [Kosmos-Heiligtum](//de/Emblem/Sanctuary of Kosmos/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
-  | 7 | [Vergessenes Autonym](//de/Emblem/Forgotten Autonym/) | Böse | Geeignet für alle Einheiten. | 
-  | 8 | [Tarnums Schuld](//de/Emblem/Tarnum's Culpability/) | Neutral | Geeignet für alle Einheiten. | 
-  | 9 | [Habgier](//de/Emblem/Greed/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
-  | 10 | [Segen der Königin](//de/Emblem/Queen's Blessing/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
-  | 11 | [Grüner Prophet](//de/Emblem/Green Prophet/) | Gut | Geeignet für alle Einheiten. | 
-  | 12 | [Gebrochene Prophez.](//de/Emblem/Broken Prophecy/) | Böse | Empfohlen für 9-Mann-Einheiten. | 
-  | 13 | [Eisenfausts Vermächtnis](//de/Emblem/Ironfist's Legacy/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
-  | 14 | [Wall der Weisheit](//de/Emblem/Wall of Knowledge/) | Gut | Geeignet für alle Einheiten. | 
-  | 15 | [Das Urteil der Väter](//de/Emblem/The Judgment of Fathers/) | Neutral | Empfohlen für Einheiten, die Gegner betäuben. | 
-  | 16 | [Uraltes Feuer](//de/Emblem/Ancient Fire/) | Rechtschaffen | Geeignet für alle Einheiten. | 
-  | 17 | [Assassinenweg](//de/Emblem/Path of an Assassin/) | Neutral | Empf. für Einh. mit hohem DPS. | 
-  | 18 | [Odem des Drachenkönigs](//de/Emblem/Dragon King's Breath/) | Böse | Empfohlen für Abwehr-Einheiten. | 
-  | 19 | [Zahnrad der Zeit](//de/Emblem/Gear of Time/) | Gut | Empfohlen für Abwehr-Einheiten. | 
-  | 20 | [Steinschlüssel zu den Toren](//de/Emblem/Stone Key to the Gates/) | Neutral | Empfohlen für Einheiten, die Gegnern Blutung zufügen. | 
-  | 21 | [Neid](//de/Emblem/Jealousy/) | Chaos | Empf. für Einh. mit hohem DPS. | 
-  | 22 | [Immerwährendes Geheimnis](//de/Emblem/Everlasting Secret/) | Rechtschaffen | Geeignet für alle Einheiten. | 
-  | 23 | [Schutzengel](//de/Emblem/Guardian Angel/) | Gut | Empf. für Einh. mit hohem DPS. | 
-  | 24 | [Misere des Königs](//de/Emblem/King's Calamity/) | Böse | Empfohlen für Einheiten, die Gegnern Verbrennung zufügen. | 
-  | 25 | [Kern des weltweiten Netzwerks](//de/Emblem/Core of the Global Network/) | Neutral | Geeignet für alle Einheiten. | 
-  | 26 | [Zorn](//de/Emblem/Anger/) | Chaos | Geeignet für alle Einheiten. | 
-  | 27 | [Greifenflügel](//de/Emblem/Griffin Wings/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
-  | 28 | [Zeuge](//de/Emblem/Witness/) | Gut | Empf. für Einh. mit hohem DPS. | 
+  | 1 | [Ominöses Zeichen](/de/Emblem/Ominous Sign/) | Böse | Geeignet für alle Einheiten. | 
+  | 2 | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/) | Neutral | Empfohlen für Abwehr-Einheiten. | 
+  | 3 | [Wollust](/de/Emblem/Lust/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
+  | 4 | [Erleuchtung der Dunkelheit](/de/Emblem/Darkness Enlightenment/) | Böse | Empfohlen für 4-/9-/16-Mann-Einheiten. | 
+  | 5 | [Aksoe-Token](/de/Emblem/Aksoe Token/) | Neutral | Empfohlen für Einheiten, die Gegnern Verlangsamung zufügen. | 
+  | 6 | [Hochmut](/de/Emblem/Arrogance/) | Chaos | Empf. für Einh. mit hohem DPS. | 
+  | 7 | [Kosmos-Heiligtum](/de/Emblem/Sanctuary of Kosmos/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
+  | 8 | [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) | Böse | Geeignet für alle Einheiten. | 
+  | 9 | [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/) | Neutral | Geeignet für alle Einheiten. | 
+  | 10 | [Habgier](/de/Emblem/Greed/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
+  | 11 | [Segen der Königin](/de/Emblem/Queen's Blessing/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
+  | 12 | [Grüner Prophet](/de/Emblem/Green Prophet/) | Gut | Geeignet für alle Einheiten. | 
+  | 13 | [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) | Böse | Empfohlen für 9-Mann-Einheiten. | 
+  | 14 | [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
+  | 15 | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/) | Gut | Geeignet für alle Einheiten. | 
+  | 16 | [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) | Neutral | Empfohlen für Einheiten, die Gegner betäuben. | 
+  | 17 | [Uraltes Feuer](/de/Emblem/Ancient Fire/) | Rechtschaffen | Geeignet für alle Einheiten. | 
+  | 18 | [Assassinenweg](/de/Emblem/Path of an Assassin/) | Neutral | Empf. für Einh. mit hohem DPS. | 
+  | 19 | [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) | Böse | Empfohlen für Abwehr-Einheiten. | 
+  | 20 | [Zahnrad der Zeit](/de/Emblem/Gear of Time/) | Gut | Empfohlen für Abwehr-Einheiten. | 
+  | 21 | [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) | Neutral | Empfohlen für Einheiten, die Gegnern Blutung zufügen. | 
+  | 22 | [Neid](/de/Emblem/Jealousy/) | Chaos | Empf. für Einh. mit hohem DPS. | 
+  | 23 | [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) | Rechtschaffen | Geeignet für alle Einheiten. | 
+  | 24 | [Schutzengel](/de/Emblem/Guardian Angel/) | Gut | Empf. für Einh. mit hohem DPS. | 
+  | 25 | [Misere des Königs](/de/Emblem/King's Calamity/) | Böse | Empfohlen für Einheiten, die Gegnern Verbrennung zufügen. | 
+  | 26 | [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) | Neutral | Geeignet für alle Einheiten. | 
+  | 27 | [Zorn](/de/Emblem/Anger/) | Chaos | Geeignet für alle Einheiten. | 
+  | 28 | [Greifenflügel](/de/Emblem/Griffin Wings/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
+  | 29 | [Zeuge](/de/Emblem/Witness/) | Gut | Empf. für Einh. mit hohem DPS. | 
 
 ## Rules
 

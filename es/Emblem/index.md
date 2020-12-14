@@ -19,35 +19,35 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 0 | [Señal ominosa](//es/Emblem/Ominous Sign/) | Maligno | Adecuado para cualquier unidad | 
-  | 1 | [Principios legales del sucesor](//es/Emblem/Successors' Legal Principles/) | Neutral | Recomendado para unidades defensivas | 
-  | 2 | [Lujuria](//es/Emblem/Lust/) | Caos | Recomendado para unidades defensivas | 
-  | 3 | [Iluminación de oscuridad](//es/Emblem/Darkness Enlightenment/) | Maligno | Recomendado para unidades de 4/9/16 miembros | 
-  | 4 | [Ficha de Aksoe](//es/Emblem/Aksoe Token/) | Neutral | Recomendado para unidades que ralentizan a los enemigos | 
-  | 5 | [Arrogancia](//es/Emblem/Arrogance/) | Caos | Recomendado para unidades DPS | 
-  | 6 | [Santuario de Kosmos](//es/Emblem/Sanctuary of Kosmos/) | Orden | Recomendado para unidades defensivas | 
-  | 7 | [Autónimo olvidado](//es/Emblem/Forgotten Autonym/) | Maligno | Adecuado para cualquier unidad | 
-  | 8 | [Culpabilidad de Tarnum](//es/Emblem/Tarnum's Culpability/) | Neutral | Adecuado para cualquier unidad | 
-  | 9 | [Avaricia](//es/Emblem/Greed/) | Caos | Recomendado para unidades defensivas | 
-  | 10 | [Bendición de la Reina](//es/Emblem/Queen's Blessing/) | Orden | Recomendado para unidades defensivas | 
-  | 11 | [Profeta Verde](//es/Emblem/Green Prophet/) | Bien | Adecuado para cualquier unidad | 
-  | 12 | [Profecía rota](//es/Emblem/Broken Prophecy/) | Maligno | Recomendado para unidades de 9 miembros | 
-  | 13 | [Legado de Puño de Hierro](//es/Emblem/Ironfist's Legacy/) | Orden | Recomendado para unidades DPS | 
-  | 14 | [Muro de la Sabiduría](//es/Emblem/Wall of Knowledge/) | Bien | Adecuado para cualquier unidad | 
-  | 15 | [El juicio de los padres](//es/Emblem/The Judgment of Fathers/) | Neutral | Recomendado para unidades que aturden a los enemigos | 
-  | 16 | [Fuego antiguo](//es/Emblem/Ancient Fire/) | Orden | Adecuado para cualquier unidad | 
-  | 17 | [La senda del Asesino](//es/Emblem/Path of an Assassin/) | Neutral | Recomendado para unidades DPS | 
-  | 18 | [Aliento del Rey Dragón](//es/Emblem/Dragon King's Breath/) | Maligno | Recomendado para unidades defensivas | 
-  | 19 | [Engranaje del tiempo](//es/Emblem/Gear of Time/) | Bien | Recomendado para unidades defensivas | 
-  | 20 | [Llave de piedra a los Portales](//es/Emblem/Stone Key to the Gates/) | Neutral | Recomendado para unidades que hacen sangrar a los enemigos | 
-  | 21 | [Envidia](//es/Emblem/Jealousy/) | Caos | Recomendado para unidades DPS | 
-  | 22 | [Secreto interminable](//es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
-  | 23 | [Ángel Guardián](//es/Emblem/Guardian Angel/) | Bien | Recomendado para unidades DPS | 
-  | 24 | [Calamidad del Rey](//es/Emblem/King's Calamity/) | Maligno | Recomendado para unidades que queman a los enemigos | 
-  | 25 | [Núcleo de la red global](//es/Emblem/Core of the Global Network/) | Neutral | Adecuado para cualquier unidad | 
-  | 26 | [Enfado](//es/Emblem/Anger/) | Caos | Adecuado para cualquier unidad | 
-  | 27 | [Alas de Grifo](//es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 
-  | 28 | [Testigo](//es/Emblem/Witness/) | Bien | Recomendado para unidades DPS | 
+  | 1 | [Señal ominosa](/es/Emblem/Ominous Sign/) | Maligno | Adecuado para cualquier unidad | 
+  | 2 | [Principios legales del sucesor](/es/Emblem/Successors' Legal Principles/) | Neutral | Recomendado para unidades defensivas | 
+  | 3 | [Lujuria](/es/Emblem/Lust/) | Caos | Recomendado para unidades defensivas | 
+  | 4 | [Iluminación de oscuridad](/es/Emblem/Darkness Enlightenment/) | Maligno | Recomendado para unidades de 4/9/16 miembros | 
+  | 5 | [Ficha de Aksoe](/es/Emblem/Aksoe Token/) | Neutral | Recomendado para unidades que ralentizan a los enemigos | 
+  | 6 | [Arrogancia](/es/Emblem/Arrogance/) | Caos | Recomendado para unidades DPS | 
+  | 7 | [Santuario de Kosmos](/es/Emblem/Sanctuary of Kosmos/) | Orden | Recomendado para unidades defensivas | 
+  | 8 | [Autónimo olvidado](/es/Emblem/Forgotten Autonym/) | Maligno | Adecuado para cualquier unidad | 
+  | 9 | [Culpabilidad de Tarnum](/es/Emblem/Tarnum's Culpability/) | Neutral | Adecuado para cualquier unidad | 
+  | 10 | [Avaricia](/es/Emblem/Greed/) | Caos | Recomendado para unidades defensivas | 
+  | 11 | [Bendición de la Reina](/es/Emblem/Queen's Blessing/) | Orden | Recomendado para unidades defensivas | 
+  | 12 | [Profeta Verde](/es/Emblem/Green Prophet/) | Bien | Adecuado para cualquier unidad | 
+  | 13 | [Profecía rota](/es/Emblem/Broken Prophecy/) | Maligno | Recomendado para unidades de 9 miembros | 
+  | 14 | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) | Orden | Recomendado para unidades DPS | 
+  | 15 | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/) | Bien | Adecuado para cualquier unidad | 
+  | 16 | [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) | Neutral | Recomendado para unidades que aturden a los enemigos | 
+  | 17 | [Fuego antiguo](/es/Emblem/Ancient Fire/) | Orden | Adecuado para cualquier unidad | 
+  | 18 | [La senda del Asesino](/es/Emblem/Path of an Assassin/) | Neutral | Recomendado para unidades DPS | 
+  | 19 | [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) | Maligno | Recomendado para unidades defensivas | 
+  | 20 | [Engranaje del tiempo](/es/Emblem/Gear of Time/) | Bien | Recomendado para unidades defensivas | 
+  | 21 | [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) | Neutral | Recomendado para unidades que hacen sangrar a los enemigos | 
+  | 22 | [Envidia](/es/Emblem/Jealousy/) | Caos | Recomendado para unidades DPS | 
+  | 23 | [Secreto interminable](/es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
+  | 24 | [Ángel Guardián](/es/Emblem/Guardian Angel/) | Bien | Recomendado para unidades DPS | 
+  | 25 | [Calamidad del Rey](/es/Emblem/King's Calamity/) | Maligno | Recomendado para unidades que queman a los enemigos | 
+  | 26 | [Núcleo de la red global](/es/Emblem/Core of the Global Network/) | Neutral | Adecuado para cualquier unidad | 
+  | 27 | [Enfado](/es/Emblem/Anger/) | Caos | Adecuado para cualquier unidad | 
+  | 28 | [Alas de Grifo](/es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 
+  | 29 | [Testigo](/es/Emblem/Witness/) | Bien | Recomendado para unidades DPS | 
 
 ## Rules
 
