@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Grüner Prophet](/de/Emblem/Green Prophet/) | Gut | Geeignet für alle Einheiten. | 
-  | 2 | [Zahnrad der Zeit](/de/Emblem/Gear of Time/) | Gut | Empfohlen für Abwehr-Einheiten. | 
-  | 3 | [Schutzengel](/de/Emblem/Guardian Angel/) | Gut | Empf. für Einh. mit hohem DPS. | 
-  | 4 | [Zeuge](/de/Emblem/Witness/) | Gut | Empf. für Einh. mit hohem DPS. | 
-  | 5 | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/) | Gut | Geeignet für alle Einheiten. | 
+  | 2 | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/) | Gut | Geeignet für alle Einheiten. | 
+  | 3 | [Zahnrad der Zeit](/de/Emblem/Gear of Time/) | Gut | Empfohlen für Abwehr-Einheiten. | 
+  | 4 | [Schutzengel](/de/Emblem/Guardian Angel/) | Gut | Empf. für Einh. mit hohem DPS. | 
+  | 5 | [Zeuge](/de/Emblem/Witness/) | Gut | Empf. für Einh. mit hohem DPS. | 

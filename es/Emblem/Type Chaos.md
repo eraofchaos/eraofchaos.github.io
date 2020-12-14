@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Lujuria](/es/Emblem/Lust/) | Caos | Recomendado para unidades defensivas | 
-  | 2 | [Enfado](/es/Emblem/Anger/) | Caos | Adecuado para cualquier unidad | 
+  | 2 | [Arrogancia](/es/Emblem/Arrogance/) | Caos | Recomendado para unidades DPS | 
   | 3 | [Avaricia](/es/Emblem/Greed/) | Caos | Recomendado para unidades defensivas | 
   | 4 | [Envidia](/es/Emblem/Jealousy/) | Caos | Recomendado para unidades DPS | 
-  | 5 | [Arrogancia](/es/Emblem/Arrogance/) | Caos | Recomendado para unidades DPS | 
+  | 5 | [Enfado](/es/Emblem/Anger/) | Caos | Adecuado para cualquier unidad | 

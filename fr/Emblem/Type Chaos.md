@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Luxure](/fr/Emblem/Lust/) | Chaos | À incruster en priorité aux unités défensives | 
-  | 2 | [Colère](/fr/Emblem/Anger/) | Chaos | Convient à toutes les unités | 
+  | 2 | [Orgueil](/fr/Emblem/Arrogance/) | Chaos | À incruster en priorité aux unités DPS | 
   | 3 | [Avarice](/fr/Emblem/Greed/) | Chaos | À incruster en priorité aux unités défensives | 
   | 4 | [Envie](/fr/Emblem/Jealousy/) | Chaos | À incruster en priorité aux unités DPS | 
-  | 5 | [Orgueil](/fr/Emblem/Arrogance/) | Chaos | À incruster en priorité aux unités DPS | 
+  | 5 | [Colère](/fr/Emblem/Anger/) | Chaos | Convient à toutes les unités | 

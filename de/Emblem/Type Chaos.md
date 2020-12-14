@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Wollust](/de/Emblem/Lust/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
-  | 2 | [Zorn](/de/Emblem/Anger/) | Chaos | Geeignet für alle Einheiten. | 
+  | 2 | [Hochmut](/de/Emblem/Arrogance/) | Chaos | Empf. für Einh. mit hohem DPS. | 
   | 3 | [Habgier](/de/Emblem/Greed/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
   | 4 | [Neid](/de/Emblem/Jealousy/) | Chaos | Empf. für Einh. mit hohem DPS. | 
-  | 5 | [Hochmut](/de/Emblem/Arrogance/) | Chaos | Empf. für Einh. mit hohem DPS. | 
+  | 5 | [Zorn](/de/Emblem/Anger/) | Chaos | Geeignet für alle Einheiten. | 

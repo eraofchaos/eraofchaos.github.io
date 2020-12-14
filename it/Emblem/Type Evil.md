@@ -14,8 +14,8 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Segno infausto](/it/Emblem/Ominous Sign/) | Malvagio | Adatto a qualsiasi unità | 
-  | 2 | [Autonimo dimenticato](/it/Emblem/Forgotten Autonym/) | Malvagio | Adatto a qualsiasi unità | 
-  | 3 | [Profezia infranta](/it/Emblem/Broken Prophecy/) | Malvagio | Consigliato per le unità da 9 membri | 
-  | 4 | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) | Malvagio | Consigliato per le unità di difesa | 
-  | 5 | [Calamità del Re](/it/Emblem/King's Calamity/) | Malvagio | Consigliato per le unità che causano <Combustione> | 
-  | 6 | [Luce nell'oscurità](/it/Emblem/Darkness Enlightenment/) | Malvagio | Consigliato per le unità da 4, 9 o 16 membri | 
+  | 2 | [Luce nell'oscurità](/it/Emblem/Darkness Enlightenment/) | Malvagio | Consigliato per le unità da 4, 9 o 16 membri | 
+  | 3 | [Autonimo dimenticato](/it/Emblem/Forgotten Autonym/) | Malvagio | Adatto a qualsiasi unità | 
+  | 4 | [Profezia infranta](/it/Emblem/Broken Prophecy/) | Malvagio | Consigliato per le unità da 9 membri | 
+  | 5 | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) | Malvagio | Consigliato per le unità di difesa | 
+  | 6 | [Calamità del Re](/it/Emblem/King's Calamity/) | Malvagio | Consigliato per le unità che causano <Combustione> | 

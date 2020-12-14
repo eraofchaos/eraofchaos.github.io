@@ -13,10 +13,10 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) | Neutral | Geeignet für alle Einheiten. | 
-  | 2 | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/) | Neutral | Empfohlen für Abwehr-Einheiten. | 
-  | 3 | [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) | Neutral | Empfohlen für Einheiten, die Gegnern Blutung zufügen. | 
-  | 4 | [Aksoe-Token](/de/Emblem/Aksoe Token/) | Neutral | Empfohlen für Einheiten, die Gegnern Verlangsamung zufügen. | 
-  | 5 | [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/) | Neutral | Geeignet für alle Einheiten. | 
-  | 6 | [Assassinenweg](/de/Emblem/Path of an Assassin/) | Neutral | Empf. für Einh. mit hohem DPS. | 
-  | 7 | [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) | Neutral | Empfohlen für Einheiten, die Gegner betäuben. | 
+  | 1 | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/) | Neutral | Empfohlen für Abwehr-Einheiten. | 
+  | 2 | [Aksoe-Token](/de/Emblem/Aksoe Token/) | Neutral | Empfohlen für Einheiten, die Gegnern Verlangsamung zufügen. | 
+  | 3 | [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/) | Neutral | Geeignet für alle Einheiten. | 
+  | 4 | [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) | Neutral | Empfohlen für Einheiten, die Gegner betäuben. | 
+  | 5 | [Assassinenweg](/de/Emblem/Path of an Assassin/) | Neutral | Empf. für Einh. mit hohem DPS. | 
+  | 6 | [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) | Neutral | Empfohlen für Einheiten, die Gegnern Blutung zufügen. | 
+  | 7 | [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) | Neutral | Geeignet für alle Einheiten. | 

@@ -14,8 +14,8 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Зловещий знак](/ru/Emblem/Ominous Sign/) | Злой | Подходит для любых отрядов | 
-  | 2 | [Забытая фамилия](/ru/Emblem/Forgotten Autonym/) | Злой | Подходит для любых отрядов | 
-  | 3 | [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) | Злой | Больше всего подходит отрядам из 9 существ | 
-  | 4 | [Dragon King's Breath](/ru/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
-  | 5 | [Королевская беда](/ru/Emblem/King's Calamity/) | Злой | Подходит отрядам, заст. врагов гореть | 
-  | 6 | [Darkness Enlightenment](/ru/Emblem/Darkness Enlightenment/) | Злой | null | 
+  | 2 | [Darkness Enlightenment](/ru/Emblem/Darkness Enlightenment/) | Злой | null | 
+  | 3 | [Забытая фамилия](/ru/Emblem/Forgotten Autonym/) | Злой | Подходит для любых отрядов | 
+  | 4 | [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) | Злой | Больше всего подходит отрядам из 9 существ | 
+  | 5 | [Dragon King's Breath](/ru/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
+  | 6 | [Королевская беда](/ru/Emblem/King's Calamity/) | Злой | Подходит отрядам, заст. врагов гореть | 

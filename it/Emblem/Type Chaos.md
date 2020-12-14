@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Lussuria](/it/Emblem/Lust/) | Caos | Consigliato per le unità di difesa | 
-  | 2 | [Ira](/it/Emblem/Anger/) | Caos | Adatto a qualsiasi unità | 
+  | 2 | [Superbia](/it/Emblem/Arrogance/) | Caos | Consigliato per le unità DPS | 
   | 3 | [Avarizia](/it/Emblem/Greed/) | Caos | Consigliato per le unità di difesa | 
   | 4 | [Invidia](/it/Emblem/Jealousy/) | Caos | Consigliato per le unità DPS | 
-  | 5 | [Superbia](/it/Emblem/Arrogance/) | Caos | Consigliato per le unità DPS | 
+  | 5 | [Ira](/it/Emblem/Anger/) | Caos | Adatto a qualsiasi unità | 

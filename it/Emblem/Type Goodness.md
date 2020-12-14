@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Profeta verde](/it/Emblem/Green Prophet/) | Bontà | Adatto a qualsiasi unità | 
-  | 2 | [Meccanismo temporale](/it/Emblem/Gear of Time/) | Bontà | Consigliato per le unità di difesa | 
-  | 3 | [Angelo custode](/it/Emblem/Guardian Angel/) | Bontà | Consigliato per le unità DPS | 
-  | 4 | [Testimonianza](/it/Emblem/Witness/) | Bontà | Consigliato per le unità DPS | 
-  | 5 | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/) | Bontà | Adatto a qualsiasi unità | 
+  | 2 | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/) | Bontà | Adatto a qualsiasi unità | 
+  | 3 | [Meccanismo temporale](/it/Emblem/Gear of Time/) | Bontà | Consigliato per le unità di difesa | 
+  | 4 | [Angelo custode](/it/Emblem/Guardian Angel/) | Bontà | Consigliato per le unità DPS | 
+  | 5 | [Testimonianza](/it/Emblem/Witness/) | Bontà | Consigliato per le unità DPS | 

@@ -16,6 +16,6 @@ classes: wide
   | 1 | [Santuario de Kosmos](/es/Emblem/Sanctuary of Kosmos/) | Orden | Recomendado para unidades defensivas | 
   | 2 | [Bendición de la Reina](/es/Emblem/Queen's Blessing/) | Orden | Recomendado para unidades defensivas | 
   | 3 | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) | Orden | Recomendado para unidades DPS | 
-  | 4 | [Secreto interminable](/es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
-  | 5 | [Alas de Grifo](/es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 
-  | 6 | [Fuego antiguo](/es/Emblem/Ancient Fire/) | Orden | Adecuado para cualquier unidad | 
+  | 4 | [Fuego antiguo](/es/Emblem/Ancient Fire/) | Orden | Adecuado para cualquier unidad | 
+  | 5 | [Secreto interminable](/es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
+  | 6 | [Alas de Grifo](/es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 

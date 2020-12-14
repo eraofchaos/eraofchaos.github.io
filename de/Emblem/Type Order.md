@@ -16,6 +16,6 @@ classes: wide
   | 1 | [Kosmos-Heiligtum](/de/Emblem/Sanctuary of Kosmos/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
   | 2 | [Segen der Königin](/de/Emblem/Queen's Blessing/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
   | 3 | [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
-  | 4 | [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) | Rechtschaffen | Geeignet für alle Einheiten. | 
-  | 5 | [Greifenflügel](/de/Emblem/Griffin Wings/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
-  | 6 | [Uraltes Feuer](/de/Emblem/Ancient Fire/) | Rechtschaffen | Geeignet für alle Einheiten. | 
+  | 4 | [Uraltes Feuer](/de/Emblem/Ancient Fire/) | Rechtschaffen | Geeignet für alle Einheiten. | 
+  | 5 | [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) | Rechtschaffen | Geeignet für alle Einheiten. | 
+  | 6 | [Greifenflügel](/de/Emblem/Griffin Wings/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 

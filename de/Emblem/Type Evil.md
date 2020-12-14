@@ -14,8 +14,8 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Ominöses Zeichen](/de/Emblem/Ominous Sign/) | Böse | Geeignet für alle Einheiten. | 
-  | 2 | [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) | Böse | Geeignet für alle Einheiten. | 
-  | 3 | [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) | Böse | Empfohlen für 9-Mann-Einheiten. | 
-  | 4 | [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) | Böse | Empfohlen für Abwehr-Einheiten. | 
-  | 5 | [Misere des Königs](/de/Emblem/King's Calamity/) | Böse | Empfohlen für Einheiten, die Gegnern Verbrennung zufügen. | 
-  | 6 | [Erleuchtung der Dunkelheit](/de/Emblem/Darkness Enlightenment/) | Böse | Empfohlen für 4-/9-/16-Mann-Einheiten. | 
+  | 2 | [Erleuchtung der Dunkelheit](/de/Emblem/Darkness Enlightenment/) | Böse | Empfohlen für 4-/9-/16-Mann-Einheiten. | 
+  | 3 | [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) | Böse | Geeignet für alle Einheiten. | 
+  | 4 | [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) | Böse | Empfohlen für 9-Mann-Einheiten. | 
+  | 5 | [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) | Böse | Empfohlen für Abwehr-Einheiten. | 
+  | 6 | [Misere des Königs](/de/Emblem/King's Calamity/) | Böse | Empfohlen für Einheiten, die Gegnern Verbrennung zufügen. | 

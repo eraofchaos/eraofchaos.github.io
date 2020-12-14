@@ -16,6 +16,6 @@ classes: wide
   | 1 | [Santuario di Cosmos](/it/Emblem/Sanctuary of Kosmos/) | Ordine | Consigliato per le unità di difesa | 
   | 2 | [Bened. della Regina](/it/Emblem/Queen's Blessing/) | Ordine | Consigliato per le unità di difesa | 
   | 3 | [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) | Ordine | Consigliato per le unità DPS | 
-  | 4 | [Segreto eterno](/it/Emblem/Everlasting Secret/) | Ordine | Adatto a qualsiasi unità | 
-  | 5 | [Ali di Grifone](/it/Emblem/Griffin Wings/) | Ordine | Consigliato per le unità DPS | 
-  | 6 | [Fuoco antico](/it/Emblem/Ancient Fire/) | Ordine | Adatto a qualsiasi unità | 
+  | 4 | [Fuoco antico](/it/Emblem/Ancient Fire/) | Ordine | Adatto a qualsiasi unità | 
+  | 5 | [Segreto eterno](/it/Emblem/Everlasting Secret/) | Ordine | Adatto a qualsiasi unità | 
+  | 6 | [Ali di Grifone](/it/Emblem/Griffin Wings/) | Ordine | Consigliato per le unità DPS | 
