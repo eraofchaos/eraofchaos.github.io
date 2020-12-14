@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Black Knight"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spread of Darkness
- **Description:** <span style="color: #48b946;font-size:18px"><Critical Strike></span><span style="color: #645252;font-size:18px">The target is increased to 2 hostile units within a large range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Critical Strike&gt;</span><span style="color: #645252;font-size:18px">The target is increased to 2 hostile units within a large range</span>
 
 ### 2nd Skill (or 1st): Explosion of Fear
- **Description:** <span style="color: #48b946;font-size:18px"><Critical Strike></span><span style="color: #645252;font-size:18px">Damage dealt increased by 50%. The duration extends to 20s if in \"Low Morale\"</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Critical Strike&gt;</span><span style="color: #645252;font-size:18px">Damage dealt increased by 50%. The duration extends to 20s if in \"Low Morale\"</span>
 
 ### 3rd Skill (or 4th): Harvest of Life
- **Description:** <span style="color: #48b946;font-size:18px"><Death Charge></span><span style="color: #645252;font-size:18px">Restores HP by 30% of Max HP and becomes immune to spell damage for 7s when killing the target unit</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Death Charge&gt;</span><span style="color: #645252;font-size:18px">Restores HP by 30% of Max HP and becomes immune to spell damage for 7s when killing the target unit</span>
 
 ### 4th Skill (or 3rd): Ghostly Shield
- **Description:** <span style="color: #48b946;font-size:18px"><Death Charge></span><span style="color: #645252;font-size:18px"> Restores 80% unit's damage reduction and becomes immune to spell damage for 7s when killing a target unit</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Death Charge&gt;</span><span style="color: #645252;font-size:18px"> Restores 80% unit's damage reduction and becomes immune to spell damage for 7s when killing a target unit</span>
 
 ### 5th Skill (or 6th): Fear Absolute
- **Description:** <span style="color: #48b946;font-size:18px"><Terrifying Suppression></span><span style="color: #645252;font-size:18px">If the target unit is in \"Low Morale\", Crit DMG is increased by 50%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Terrifying Suppression&gt;</span><span style="color: #645252;font-size:18px">If the target unit is in \"Low Morale\", Crit DMG is increased by 50%</span>
 
 ### 6th Skill (or 5th): Bloody Crackdown
- **Description:** <span style="color: #48b946;font-size:18px"><Terrifying Suppression></span><span style="color: #645252;font-size:18px">If the target is in \"Low Morale\", a 20% extra life drain is given</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Terrifying Suppression&gt;</span><span style="color: #645252;font-size:18px">If the target is in \"Low Morale\", a 20% extra life drain is given</span>
 
 ## Technical info
  **runart:** 1

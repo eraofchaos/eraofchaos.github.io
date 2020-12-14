@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Magic resistance
 
-    - HP
-
-    - Attack Speed
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Static Chain
- **Description:** <span style="color: #48b946;font-size:18px"><Static Marker></span><span style="color: #645252;font-size:18px"> When battle starts, Storm Elemental applies Static to all enemy units.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Static Marker&gt;</span><span style="color: #645252;font-size:18px"> When battle starts, Storm Elemental applies Static to all enemy units.</span>
 
 ### 2nd Skill (or 1st): Lightning Veins
- **Description:** <span style="color: #48b946;font-size:18px"><Static Marker></span><span style="color: #645252;font-size:18px"> Storm Elemental casts <Static Marker> once every 30s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Static Marker&gt;</span><span style="color: #645252;font-size:18px"> Storm Elemental casts &lt;Static Marker&gt; once every 30s.</span>
 
 ### 3rd Skill (or 4th): Plasma Field
- **Description:** <span style="color: #48b946;font-size:18px"><Lightning Bounce></span><span style="color: #645252;font-size:18px"> Doubles skill's trigger chance.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lightning Bounce&gt;</span><span style="color: #645252;font-size:18px"> Doubles skill's trigger chance.</span>
 
 ### 4th Skill (or 3rd): Explosive Lightning
- **Description:** <span style="color: #48b946;font-size:18px"><Lightning Bounce></span><span style="color: #645252;font-size:18px"> Doubles skill damage.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lightning Bounce&gt;</span><span style="color: #645252;font-size:18px"> Doubles skill damage.</span>
 
 ### 5th Skill (or 6th): Conflux Aura
- **Description:** <span style="color: #48b946;font-size:18px"><Elemental Force></span><span style="color: #645252;font-size:18px">Increases two random back row units' Attack Speed by 25% for 10s when a hero casts an air-type spell.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Increases two random back row units' Attack Speed by 25% for 10s when a hero casts an air-type spell.</span>
 
 ### 6th Skill (or 5th): Conflux Explosion
- **Description:** <span style="color: #48b946;font-size:18px"><Elemental Force></span><span style="color: #645252;font-size:18px"> Storm Elemental is guaranteed to cast <Lightning Bounce> 1 time when a hero casts an air-type spell, dealing damage equal to 300% of own ATK to target units.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px"> Storm Elemental is guaranteed to cast &lt;Lightning Bounce&gt; 1 time when a hero casts an air-type spell, dealing damage equal to 300% of own ATK to target units.</span>
 
 ## Technical info
  **runart:** 0

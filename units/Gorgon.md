@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Units Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Gorgon"
 toc: true
@@ -49,20 +49,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Decreases Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">% of hostile units around Gorgon.</span><span style="color: black">
 
 ### 5 Skill: Plague Strike
- **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the <plague></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
 
 ### 6 Skill: Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Abyss' Glance
- **Description:** <span style="color: #48b946;font-size:18px"><Mighty Gorgon></span><span style="color: #645252;font-size:18px">Will be triggered once every 18 seconds. It has a 100% chance of petrifying the target for 3s and applies 1 random debuff on hostile units within a certain range. Meanwhile, it increases penetration by 200 for all friendly units over the next 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mighty Gorgon&gt;</span><span style="color: #645252;font-size:18px">Will be triggered once every 18 seconds. It has a 100% chance of petrifying the target for 3s and applies 1 random debuff on hostile units within a certain range. Meanwhile, it increases penetration by 200 for all friendly units over the next 10s</span>
 
 ### 2nd Skill (or 1st): Deathly Gaze
- **Description:** <span style="color: #48b946;font-size:18px"><Mighty Gorgon></span><span style="color: #645252;font-size:18px">Will be triggered once every 18s. It has a 100% chance to petrify the target unit for 3s and apply 2 random debuffs to hostile units within a certain range.This effect lasts for 10s </span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mighty Gorgon&gt;</span><span style="color: #645252;font-size:18px">Will be triggered once every 18s. It has a 100% chance to petrify the target unit for 3s and apply 2 random debuffs to hostile units within a certain range.This effect lasts for 10s </span>
 
 ### 3rd Skill (or 4th): Curse of Ageing
- **Description:** <span style="color: #48b946;font-size:18px"><Uncivilized Curse></span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of hostile units by 20%. When dying, petrifies surrounding units within a certain range for 8s and permanently decreases ATK speed of hostile non-Fortress units by 3%. Stacks up to 4 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Uncivilized Curse&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of hostile units by 20%. When dying, petrifies surrounding units within a certain range for 8s and permanently decreases ATK speed of hostile non-Fortress units by 3%. Stacks up to 4 times</span>
 
 ### 4th Skill (or 3rd): Fatal Horn
- **Description:** <span style="color: #48b946;font-size:18px"><Uncivilized Curse></span><span style="color: #645252;font-size:18px">Decreases hostile units' ATK speed by 20%. When dying, petrifies surrounding units within a certain range for 8s and permanently decreases ATK speed of hostile non-Fortress units by 3%. Stacks up to 4 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Uncivilized Curse&gt;</span><span style="color: #645252;font-size:18px">Decreases hostile units' ATK speed by 20%. When dying, petrifies surrounding units within a certain range for 8s and permanently decreases ATK speed of hostile non-Fortress units by 3%. Stacks up to 4 times</span>
 
 ### 5th Skill (or 6th): Marsh King
- **Description:** <span style="color: #48b946;font-size:18px"><Marsh Overlord></span><span style="color: #645252;font-size:18px">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Decreases non-Fortress hostile units' ATK speed by 10% and healing by 30% when the Gorgon is on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Decreases non-Fortress hostile units' ATK speed by 10% and healing by 30% when the Gorgon is on the battlefield</span>
 
 ### 6th Skill (or 5th): Marsh Lord
- **Description:** <span style="color: #48b946;font-size:18px"><Marsh Overlord></span><span style="color: #645252;font-size:18px">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Increases ATK speed of all friendly units by 20% when a Gorgon is on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Increases ATK speed of all friendly units by 20% when a Gorgon is on the battlefield</span>
 
 ## Technical info
  **runart:** 1

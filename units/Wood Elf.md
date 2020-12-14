@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -40,29 +40,27 @@ toc: true
  **Description:** 
 
 ### 2 Skill: Double Strike
- **Description:** <span style="color: #645252;font-size:20px">The Wood Elf has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Slow></span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of <Double Strike> is increased to 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Wood Elf has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
 
 ### 3 Skill: Elf Shelter
- **Description:** <span style="color: #645252;font-size:20px">Each Wood Elf gets 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Shield></span><span style="color: black"><span style="color: #645252;font-size:20px"> every time a hostile hero casts a spell, absorbing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for 5s. CD is 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Each Wood Elf gets 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time a hostile hero casts a spell, absorbing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for 5s. CD is 10s.</span><span style="color: black">
 
 ### 4 Skill: Concentrate fire on their leader
  **Description:** <span style="color: #645252;font-size:20px">Wood Elf's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants 40 extra Crit Hit for the Wood Elf for every friendly Ranged unit on the battlefield.</span><span style="color: black">
 
 ### 5 Skill: Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Magic resistance
 
-    - HP
-
-    - Attack Speed
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Phantom Concentration
- **Description:** <span style="color: #48b946;font-size:18px"><Rain of Arrows></span><span style="color: #645252;font-size:18px">When receiving the bonuses of <Frenzy>, increases unit's damage by 20% for 5s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rain of Arrows&gt;</span><span style="color: #645252;font-size:18px">When receiving the bonuses of &lt;Frenzy&gt;, increases unit's damage by 20% for 5s</span>
 
 ### 2nd Skill (or 1st): Downpour
- **Description:** <span style="color: #48b946;font-size:18px"><Rain of Arrows></span><span style="color: #645252;font-size:18px">Duration increased by 1.5s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rain of Arrows&gt;</span><span style="color: #645252;font-size:18px">Duration increased by 1.5s</span>
 
 ### 3rd Skill (or 4th): Watcher of Nature
- **Description:** <span style="color: #48b946;font-size:18px"><Elf Shelter></span><span style="color: #645252;font-size:18px"><Shield> effect increased to 300% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elf Shelter&gt;</span><span style="color: #645252;font-size:18px">&lt;Shield&gt; effect increased to 300% of the previous skill's effect</span>
 
 ### 4th Skill (or 3rd): Affinity for Nature
- **Description:** <span style="color: #48b946;font-size:18px"><Elf Shelter></span><span style="color: #645252;font-size:18px"><Shield> effect increased to 150% of the previous skill's effect. CD reduced to 0s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elf Shelter&gt;</span><span style="color: #645252;font-size:18px">&lt;Shield&gt; effect increased to 150% of the previous skill's effect. CD reduced to 0s</span>
 
 ### 5th Skill (or 6th): Release the Beast
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Caller></span><span style="color: #645252;font-size:18px">Increases Crit DMG by 15%. Wood Elf's Crit DMG will be increased by 3% further for every friendly Ranged unit on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Caller&gt;</span><span style="color: #645252;font-size:18px">Increases Crit DMG by 15%. Wood Elf's Crit DMG will be increased by 3% further for every friendly Ranged unit on the battlefield</span>
 
 ### 6th Skill (or 5th): Hunter Instinct
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Caller></span><span style="color: #645252;font-size:18px">Increases unit's damage by 10%. Wood Elf's Crit DMG will be increased by additional 2% for every friendly Ranged unit on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Caller&gt;</span><span style="color: #645252;font-size:18px">Increases unit's damage by 10%. Wood Elf's Crit DMG will be increased by additional 2% for every friendly Ranged unit on the battlefield</span>
 
 ## Technical info
  **runart:** 0

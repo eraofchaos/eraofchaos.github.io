@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Units Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Roc"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Unit Critical Hit
+* unit Damage
 
-    - HP
-
-    - Unit Critical Hit
-
-    - unit Damage
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Thunderstorm
- **Description:** <span style="color: #48b946;font-size:18px"><Thunder></span><span style="color: #645252;font-size:18px">Skill damage increased to 200% of the previous skill's damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Thunder&gt;</span><span style="color: #645252;font-size:18px">Skill damage increased to 200% of the previous skill's damage</span>
 
 ### 2nd Skill (or 1st): Electrocution
- **Description:** <span style="color: #48b946;font-size:18px"><Thunder> </span><span style="color: #645252;font-size:18px">Accuracy decreased by 2000</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Thunder&gt; </span><span style="color: #645252;font-size:18px">Accuracy decreased by 2000</span>
 
 ### 3rd Skill (or 4th): Hunting Instinct
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">Roc's unit DMG increased by 10% (doubled when rampaged)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Roc's unit DMG increased by 10% (doubled when rampaged)</span>
 
 ### 4th Skill (or 3rd): Nature's Swiftness
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px"> Roc's Crit DMG increased by 15% (doubled when rampaged)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Roc's Crit DMG increased by 15% (doubled when rampaged)</span>
 
 ### 5th Skill (or 6th): Implosion
- **Description:** <span style="color: #48b946;font-size:18px"><Hurricane Barrier></span><span style="color: #645252;font-size:18px"> Summons a streak of lightning every 10s, dealing damage equal to 8% of max HP to 1 random enemy unit.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurricane Barrier&gt;</span><span style="color: #645252;font-size:18px"> Summons a streak of lightning every 10s, dealing damage equal to 8% of max HP to 1 random enemy unit.</span>
 
 ### 6th Skill (or 5th): Electric Shock
- **Description:** <span style="color: #48b946;font-size:18px"><Hurricane Barrier></span><span style="color: #645252;font-size:18px"> Summons a streak of lightning every 10s, dealing damage equal to 15% of max HP to 1 member of random enemy unit.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurricane Barrier&gt;</span><span style="color: #645252;font-size:18px"> Summons a streak of lightning every 10s, dealing damage equal to 15% of max HP to 1 member of random enemy unit.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Units Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -49,20 +49,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When an Iron Golem unit is enhanced by a friendly hero's support spell, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. At the same time, increases unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the entire battle, up to 3 stacks.</span><span style="color: black">
 
 ### 5 Skill: Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of <silence> is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* unit DMG Reduction
+* Magic resistance
 
-    - HP
-
-    - unit DMG Reduction
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Same Kin Protection
- **Description:** <span style="color: #48b946;font-size:18px"><Metal Resonance></span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. Tower units receive an increase of 10% unit's damage reduction</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. Tower units receive an increase of 10% unit's damage reduction</span>
 
 ### 2nd Skill (or 1st): Warrior Protection
- **Description:** <span style="color: #48b946;font-size:18px"><Metal Resonance></span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. The effect also works on all friendly Offensive units</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. The effect also works on all friendly Offensive units</span>
 
 ### 3rd Skill (or 4th): Anti-magic Body
- **Description:** <span style="color: #48b946;font-size:18px"><Iron Body></span><span style="color: #645252;font-size:18px">When the Iron Golem takes spell damage from a hero, its DEF is increased by 30%.The effect lasts for 10s </span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Iron Body&gt;</span><span style="color: #645252;font-size:18px">When the Iron Golem takes spell damage from a hero, its DEF is increased by 30%.The effect lasts for 10s </span>
 
 ### 4th Skill (or 3rd): Steel-forged Body
- **Description:** <span style="color: #48b946;font-size:18px"><Iron Body></span><span style="color: #645252;font-size:18px">Iron Golem's DEF will be increased by 20%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Iron Body&gt;</span><span style="color: #645252;font-size:18px">Iron Golem's DEF will be increased by 20%</span>
 
 ### 5th Skill (or 6th): Potent Enforcement
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Regeneration caused by Magic Awakening increased by 30%, and stacked unit's damage reduction increased by 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Regeneration caused by Magic Awakening increased by 30%, and stacked unit's damage reduction increased by 30%</span>
 
 ### 6th Skill (or 5th): Same Kin Awakening
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Increases your Tower units' DEF by 5%. The effect can be stacked up to 3 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Increases your Tower units' DEF by 5%. The effect can be stacked up to 3 times</span>
 
 ## Technical info
  **runart:** 1

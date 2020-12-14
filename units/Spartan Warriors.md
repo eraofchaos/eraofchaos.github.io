@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -40,7 +40,7 @@ toc: true
  **Description:** 
 
 ### 2 Skill: Shield Bash
- **Description:** <span style="color: #645252;font-size:20px">Spartan Warriors slam their shield into their opponent, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stunning> </span><span style="color: black"><span style="color: #645252;font-size:20px">enemy units in a large range for 5s. They then increase their own unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the next 10s. CD is 20s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Spartan Warriors slam their shield into their opponent, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stunning&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">enemy units in a large range for 5s. They then increase their own unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the next 10s. CD is 20s.</span><span style="color: black">
 
 ### 3 Skill: Spartan Bloodline
  **Description:** <span style="color: #645252;font-size:20px">When a Spartan loses 5% of their HP, their own Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and their Attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is reduced to 50% for the first time, their Attack Speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and their Unit DMG is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the rest of the battle.</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* unit Damage
+* unit DMG Reduction
 
-    - HP
-
-    - unit Damage
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
 
 ### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
 ### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
 ### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
 
 ## Technical info
  **runart:** 1

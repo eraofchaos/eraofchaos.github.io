@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Unicorn"
 toc: true
@@ -40,29 +40,27 @@ toc: true
  **Description:** 
 
 ### 2 Skill: Flickering Figures
- **Description:** <span style="color: #645252;font-size:20px">Every time the Unicorn dodges, it has a great chance of creating a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><shield></span><span style="color: black"><span style="color: #645252;font-size:20px"> for itself that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Every time the Unicorn dodges, it has a great chance of creating a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for itself that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP.</span><span style="color: black">
 
 ### 3 Skill: Angelic Light
- **Description:** <span style="color: #645252;font-size:20px"><Blind> increases the unit's damage taken by the target by additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">&lt;Blind&gt; increases the unit's damage taken by the target by additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Bold Leader
  **Description:** <span style="color: #645252;font-size:20px">Unicorn's dodge increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants the Unicorn 40 extra dodge for every friendly Charging Unit on the battlefield.</span><span style="color: black">
 
 ### 5 Skill: Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Unit Dodge
+* unit DMG Reduction
 
-    - HP
-
-    - Unit Dodge
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Brilliance of Forest Spirit
- **Description:** <span style="color: #48b946;font-size:18px"><Blind></span><span style="color: #645252;font-size:18px">Decreases extra accuracy by 1000 when blinded</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blind&gt;</span><span style="color: #645252;font-size:18px">Decreases extra accuracy by 1000 when blinded</span>
 
 ### 2nd Skill (or 1st): Forest Spirit's Will
- **Description:** <span style="color: #48b946;font-size:18px"><Blind></span><span style="color: #645252;font-size:18px">Casts \"Blind\" immediately when engaged</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blind&gt;</span><span style="color: #645252;font-size:18px">Casts \"Blind\" immediately when engaged</span>
 
 ### 3rd Skill (or 4th): The Sixth Sense
- **Description:** <span style="color: #48b946;font-size:18px"><Aglimmer Silhouette></span><span style="color: #645252;font-size:18px"> Chance to trigger the Shield is increased to 200% of the previous one</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aglimmer Silhouette&gt;</span><span style="color: #645252;font-size:18px"> Chance to trigger the Shield is increased to 200% of the previous one</span>
 
 ### 4th Skill (or 3rd): Power of Coordination
- **Description:** <span style="color: #48b946;font-size:18px"><Aglimmer Silhouette></span><span style="color: #645252;font-size:18px">Shield effect increased to 200% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aglimmer Silhouette&gt;</span><span style="color: #645252;font-size:18px">Shield effect increased to 200% of the previous skill's effect</span>
 
 ### 5th Skill (or 6th): Forest Spirit's Guidance
- **Description:** <span style="color: #48b946;font-size:18px"><Bold Leader></span><span style="color: #645252;font-size:18px">Unicorn increases unit's damage by 10% for all friendly units over the next 20s when the target unit is killed. The effect can be stacked 3 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bold Leader&gt;</span><span style="color: #645252;font-size:18px">Unicorn increases unit's damage by 10% for all friendly units over the next 20s when the target unit is killed. The effect can be stacked 3 times</span>
 
 ### 6th Skill (or 5th): Forest Spirit's Shelter
- **Description:** <span style="color: #48b946;font-size:18px"><Bold Leader></span><span style="color: #645252;font-size:18px">Unicorn creates a shield for all friendly units to absorb damage equal to 6% of Max HP when the target unit is killed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bold Leader&gt;</span><span style="color: #645252;font-size:18px">Unicorn creates a shield for all friendly units to absorb damage equal to 6% of Max HP when the target unit is killed</span>
 
 ## Technical info
  **runart:** 1

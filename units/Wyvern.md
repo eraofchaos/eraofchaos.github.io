@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Units A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Wyvern"
 toc: true
@@ -46,23 +46,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">The Wyvern's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, which is increased by an extra 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
 ### 4 Skill: Wild Miasma
- **Description:** <span style="color: #645252;font-size:20px">Wyvern's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Every 20s, Wyvern makes all hostile units suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Plague></span><span style="color: black"><span style="color: #645252;font-size:20px"> and decreases their healing by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19}%</span><span style="color: black"><span style="color: #645252;font-size:20px">  over the next 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wyvern's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Every 20s, Wyvern makes all hostile units suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and decreases their healing by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19}%</span><span style="color: black"><span style="color: #645252;font-size:20px">  over the next 10s.</span><span style="color: black">
 
 ### 5 Skill: Plague Strike
- **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the <plague></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
 
 ### 6 Skill: Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* unit Damage
 
-    - HP
-
-    - Attack Speed
-
-    - unit Damage
 
 ## Awaking
 ### Awaking Details
@@ -90,16 +88,16 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">Venomous Spurt</span><span style="color: #645252;font-size:18px"> will be triggered once every 17s and deal additional damage equal to 10% of the target's Max HP.</span>
 
 ### 3rd Skill (or 4th): Touch of Venom
- **Description:** <span style="color: #48b946;font-size:18px"><Vicious Claw></span><span style="color: #645252;font-size:18px">decreases damage reduction of target units by 10%. Normal attack bleeds the target</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vicious Claw&gt;</span><span style="color: #645252;font-size:18px">decreases damage reduction of target units by 10%. Normal attack bleeds the target</span>
 
 ### 4th Skill (or 3rd): Envoy of Poison
- **Description:** <span style="color: #48b946;font-size:18px"><Vicious Claw></span><span style="color: #645252;font-size:18px">decreases target units' healing by 15%. Normal attack causes damage equal to 20% of ATK and bleeds the target</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vicious Claw&gt;</span><span style="color: #645252;font-size:18px">decreases target units' healing by 15%. Normal attack causes damage equal to 20% of ATK and bleeds the target</span>
 
 ### 5th Skill (or 6th): Wild Miasma
- **Description:** <span style="color: #48b946;font-size:18px"><Wild Miasma></span><span style="color: #645252;font-size:18px">Inflict plague on all hostile units every 20s. Doubles the effects of plague, lasting for 15s. The lowered healing effect is increased by 1.5 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Wild Miasma&gt;</span><span style="color: #645252;font-size:18px">Inflict plague on all hostile units every 20s. Doubles the effects of plague, lasting for 15s. The lowered healing effect is increased by 1.5 times</span>
 
 ### 6th Skill (or 5th): Pestilent Toxin
- **Description:** <span style="color: #48b946;font-size:18px"><Wild Miasma></span><span style="color: #645252;font-size:18px">Inflicts plague on all hostile units every 20s. Lasts for 22s, up to 2 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Wild Miasma&gt;</span><span style="color: #645252;font-size:18px">Inflicts plague on all hostile units every 20s. Lasts for 22s, up to 2 stacks</span>
 
 ## Technical info
  **runart:** 1

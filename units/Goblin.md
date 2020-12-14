@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Units Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Goblin"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Magic resistance
 
-    - HP
-
-    - Attack Speed
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fighter's Mentality
- **Description:** <span style="color: #48b946;font-size:18px"><War Storm> </span><span style="color: #645252;font-size:18px"><War Storm>'s trigger chance doubled</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;War Storm&gt; </span><span style="color: #645252;font-size:18px">&lt;War Storm&gt;'s trigger chance doubled</span>
 
 ### 2nd Skill (or 1st): Inertia
- **Description:** <span style="color: #48b946;font-size:18px"><War Storm> </span><span style="color: #645252;font-size:18px"><War Storm> grants a combo attack (trigger <War Storm> twice)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;War Storm&gt; </span><span style="color: #645252;font-size:18px">&lt;War Storm&gt; grants a combo attack (trigger &lt;War Storm&gt; twice)</span>
 
 ### 3rd Skill (or 4th): Wielding Skill
- **Description:** <span style="color: #48b946;font-size:18px"><Execution></span><span style="color: #645252;font-size:18px">Goblin receives an increase of additional 150% ATK when fighting against targets with HP lower than 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Execution&gt;</span><span style="color: #645252;font-size:18px">Goblin receives an increase of additional 150% ATK when fighting against targets with HP lower than 30%</span>
 
 ### 4th Skill (or 3rd): Unarmed Counter
- **Description:** <span style="color: #48b946;font-size:18px"><Execution></span><span style="color: #645252;font-size:20px">Goblin receives an increase of 30% unit's damage when against a target with less than 30% HP</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Execution&gt;</span><span style="color: #645252;font-size:20px">Goblin receives an increase of 30% unit's damage when against a target with less than 30% HP</span>
 
 ### 5th Skill (or 6th): Bloodlust Mastery
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">HP regeneration increases to 5% when a Crit Hit is landed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">HP regeneration increases to 5% when a Crit Hit is landed</span>
 
 ### 6th Skill (or 5th): Bloody Maul
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">Each Crit Hit will increase extra ATK speed by 2%, lasting for 10s, up to 10 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Each Crit Hit will increase extra ATK speed by 2%, lasting for 10s, up to 10 stacks</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Units Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Ogre"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Recovery Pond
- **Description:** <span style="color: #48b946;font-size:18px"><Blood Pool></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect. Duration increased by 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blood Pool&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect. Duration increased by 10s</span>
 
 ### 2nd Skill (or 1st): Spring of the Wilderness
- **Description:** <span style="color: #48b946;font-size:18px"><Blood Pool></span><span style="color: #645252;font-size:18px">Skill's effect is increased by 50% and its range is expanded</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blood Pool&gt;</span><span style="color: #645252;font-size:18px">Skill's effect is increased by 50% and its range is expanded</span>
 
 ### 3rd Skill (or 4th): Wild Heart
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">Ogre unit's damage reduction increased by 20%. The effect doubles when in <Rampage> state</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Ogre unit's damage reduction increased by 20%. The effect doubles when in &lt;Rampage&gt; state</span>
 
 ### 4th Skill (or 3rd): Heartening War Song
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in <Rampage> state</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in &lt;Rampage&gt; state</span>
 
 ### 5th Skill (or 6th): Ancient Surge
- **Description:** <span style="color: #48b946;font-size:18px"><Cure Poison></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
 
 ### 6th Skill (or 5th): Patriarch's Protection
- **Description:** <span style="color: #48b946;font-size:18px"><Cure Poison></span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Units The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Stone Elemental"
 toc: true
@@ -46,7 +46,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When Stone Elemental is on the battlefield, it increases magic resistance of earth spells for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces magic resistance of earth spells for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Stone Elemental unit is on the battlefield, reduces enemy hero's initial Mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Earth Echo
- **Description:** <span style="color: #645252;font-size:20px">When the Stone Elemental and smaller Stone Elementals are killed, they deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a large range and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stun></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Stone Elemental and smaller Stone Elementals are killed, they deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a large range and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stun&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### 5 Skill: Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
 
 ### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
 ### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
 ### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
 
 ## Technical info
  **runart:** 1

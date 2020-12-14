@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Mermaid"
 toc: true
@@ -46,23 +46,21 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Azure Song
- **Description:** <span style="color: #645252;font-size:20px">Mermaid's healing increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When the Mermaid is playing a <D Chord>, removes all debuffs from the friendly unit who has the lowest HP percentage</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mermaid's healing increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When the Mermaid is playing a &lt;D Chord&gt;, removes all debuffs from the friendly unit who has the lowest HP percentage</span><span style="color: black">
 
 ### 5 Skill: Calm Body
- **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to <stun> when equipped with a Holy Emblem</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
 ### 6 Skill: Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Healing
 
-    - HP
-
-    - Attack Speed
-
-    - Healing
 
 ## Awaking
 ### Awaking Details

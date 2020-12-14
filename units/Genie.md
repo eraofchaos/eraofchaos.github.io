@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Units Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Genie"
 toc: true
@@ -49,20 +49,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When a Genie unit is enhanced by a friendly hero's support spell, it restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for the unit with the lowest HP percentage.</span><span style="color: black">
 
 ### 5 Skill: Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of <silence> is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Healing
+* unit DMG Reduction
 
-    - HP
-
-    - Healing
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Energy Overload
- **Description:** <span style="color: #48b946;font-size:18px"><Energy Gift></span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. Increases unit's damage reduction by 20% and ATK speed by 10% for itself</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. Increases unit's damage reduction by 20% and ATK speed by 10% for itself</span>
 
 ### 2nd Skill (or 1st): Energy Protection
- **Description:** <span style="color: #48b946;font-size:18px"><Energy Gift></span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.</span>
 
 ### 3rd Skill (or 4th): As You Wish
- **Description:** <span style="color: #48b946;font-size:18px"><Three Wishes></span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%</span>
 
 ### 4th Skill (or 3rd): Multiple Blessings
- **Description:** <span style="color: #48b946;font-size:18px"><Three Wishes></span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and receives two bonuses among unit's damage reduction, unit's damage or ATK speed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and receives two bonuses among unit's damage reduction, unit's damage or ATK speed</span>
 
 ### 5th Skill (or 6th): Awakening Enforcement
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px"> Cannot be effected by control states. Increases DEF by 10% for units being healed. This effect lasts for 3s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px"> Cannot be effected by control states. Increases DEF by 10% for units being healed. This effect lasts for 3s</span>
 
 ### 6th Skill (or 5th): Transcendental Awakening
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Healing increased by 50%. Increases DEF by 20% for units being healed. This effect lasts for 3s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Healing increased by 50%. Increases DEF by 20% for units being healed. This effect lasts for 3s</span>
 
 ## Technical info
  **runart:** 0

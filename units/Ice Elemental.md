@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -37,10 +37,10 @@ toc: true
 
 ## Skills
 ### 1 Skill: Ice Wall
- **Description:** <span style="color: #645252;font-size:20px">The Ice Elemental unit builds an icy wall in front of the target, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><freezing></span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets along a horizontal row within a large range for <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Ice Elemental unit builds an icy wall in front of the target, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;freezing&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets along a horizontal row within a large range for <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### 2 Skill: Cold Grip
- **Description:** <span style="color: #645252;font-size:20px">Ice Elemental's normal attack has a chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><slow></span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 15s. In addition, decreases ATK speed of the target by <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s, up to 5 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Ice Elemental's normal attack has a chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 15s. In addition, decreases ATK speed of the target by <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s, up to 5 stacks.</span><span style="color: black">
 
 ### 3 Skill: Elemental Force
  **Description:** <span style="color: #645252;font-size:20px">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces water magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Magic resistance
 
-    - HP
-
-    - Attack Speed
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
 
 ### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
 ### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
 ### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
 
 ## Technical info
  **runart:** 0

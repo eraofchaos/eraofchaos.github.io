@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Mummy"
 toc: true
@@ -37,16 +37,16 @@ toc: true
 
 ## Skills
 ### 1 Skill: Decaying Curse
- **Description:** <span style="color: #645252;font-size:20px">Within a certain range, Mummy deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to surrounding hostile units every 20s, and makes them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Disease></span><span style="color: black"><span style="color: #645252;font-size:20px"> for 12s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Within a certain range, Mummy deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to surrounding hostile units every 20s, and makes them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 12s.</span><span style="color: black">
 
 ### 2 Skill: Shroud
- **Description:** <span style="color: #645252;font-size:20px">When <Decaying Curse> is cast, restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When &lt;Decaying Curse&gt; is cast, restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
 
 ### 3 Skill: Source of Disease
- **Description:** <span style="color: #645252;font-size:20px">Mummy is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Disease></span><span style="color: black"><span style="color: #645252;font-size:20px">. Mummy's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Mummy is on the battlefield, all healing effects received by enemy units are reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mummy is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Mummy's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Mummy is on the battlefield, all healing effects received by enemy units are reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: God of Plague
- **Description:** <span style="color: #645252;font-size:20px">Mummy's DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Mummy is suffering from </span><span style="color: black"><span style="color: #48b946;font-size:20px"><disease></span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mummy's DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Mummy is suffering from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
 
 ### 5 Skill: Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Curse of Decay
- **Description:** <span style="color: #48b946;font-size:18px"><Decaying Curse></span><span style="color: #645252;font-size:18px"> can be triggered 1 time every 18s. The damage it causes is increased to 150% of the previous skill's damage. \"Disease\" decreases 10% of hostile unit's damage reduction further. The additional effect doubles if the target is from Rampart Faction. Range of <Decaying Curse> expanded greatly</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Decaying Curse&gt;</span><span style="color: #645252;font-size:18px"> can be triggered 1 time every 18s. The damage it causes is increased to 150% of the previous skill's damage. \"Disease\" decreases 10% of hostile unit's damage reduction further. The additional effect doubles if the target is from Rampart Faction. Range of &lt;Decaying Curse&gt; expanded greatly</span>
 
 ### 2nd Skill (or 1st): Will of Death
- **Description:** <span style="color: #48b946;font-size:18px"><Decaying Curse></span><span style="color: #645252;font-size:18px"> can be triggered once every 18s. The damage it causes is increased to 150% of the previous skill's damage. \"Disease\" decreases hostile units' unit's damage by 10%. Disease cannot be dispelled. Range of <Decaying Curse> greatly expanded</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Decaying Curse&gt;</span><span style="color: #645252;font-size:18px"> can be triggered once every 18s. The damage it causes is increased to 150% of the previous skill's damage. \"Disease\" decreases hostile units' unit's damage by 10%. Disease cannot be dispelled. Range of &lt;Decaying Curse&gt; greatly expanded</span>
 
 ### 3rd Skill (or 4th): Armored Crusader
- **Description:** <span style="color: #48b946;font-size:18px"><Shroud></span><span style="color: #645252;font-size:18px">Mummy unit's damage reduction increased by 20%. <Shroud> Buff duration increases by 5s. Increases extra unit's damage reduction for friendly units within a certain range by 20% and restores their Max HP by 5%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Shroud&gt;</span><span style="color: #645252;font-size:18px">Mummy unit's damage reduction increased by 20%. &lt;Shroud&gt; Buff duration increases by 5s. Increases extra unit's damage reduction for friendly units within a certain range by 20% and restores their Max HP by 5%</span>
 
 ### 4th Skill (or 3rd): The Hardened Shroud
- **Description:** <span style="color: #48b946;font-size:18px"><Shroud></span><span style="color: #645252;font-size:18px">Mummy unit's damage reduction increased by 20%. <Shroud> Buff duration increases to 5s. Increases unit's damage reduction by an extra 20% for all Necropolis units and restores 5% of their Max HP</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Shroud&gt;</span><span style="color: #645252;font-size:18px">Mummy unit's damage reduction increased by 20%. &lt;Shroud&gt; Buff duration increases to 5s. Increases unit's damage reduction by an extra 20% for all Necropolis units and restores 5% of their Max HP</span>
 
 ### 5th Skill (or 6th): Disease Mutation
- **Description:** <span style="color: #48b946;font-size:18px"><Source of Disease></span><span style="color: #645252;font-size:18px">Source of Disease decreases healing of enemies by 20%. The effect works on all hostile units</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Source of Disease&gt;</span><span style="color: #645252;font-size:18px">Source of Disease decreases healing of enemies by 20%. The effect works on all hostile units</span>
 
 ### 6th Skill (or 5th): Disease Infection
- **Description:** <span style="color: #48b946;font-size:18px"><Source of Disease></span><span style="color: #645252;font-size:18px">Decreases all enemy unit's damage reduction by 10%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Source of Disease&gt;</span><span style="color: #645252;font-size:18px">Decreases all enemy unit's damage reduction by 10%</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Beholder"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* unit Damage
+* Magic resistance
 
-    - HP
-
-    - unit Damage
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Mana Strike
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">Beholder opens 4 more eyes. It closes 2 of them when killing 1 target unit. At most he will close 6 eyes</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">Beholder opens 4 more eyes. It closes 2 of them when killing 1 target unit. At most he will close 6 eyes</span>
 
 ### 2nd Skill (or 1st): Into the Abyss
- **Description:** <span style="color: #48b946;font-size:18px"><Spell penetration></span><span style="color: #645252;font-size:18px">Each eye of death grants 3% unit's damage and 3% unit's damage reduction for friendly Dungeon units. For Beholder, the effect doubles</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell penetration&gt;</span><span style="color: #645252;font-size:18px">Each eye of death grants 3% unit's damage and 3% unit's damage reduction for friendly Dungeon units. For Beholder, the effect doubles</span>
 
 ### 3rd Skill (or 4th): Sorcery Collapse
- **Description:** <span style="color: #48b946;font-size:18px"><Debility></span><span style="color: #645252;font-size:18px">Hostile heroes' mana regeneration speed is decreased by 1 for every hostile unit that dies. The effect can be triggered 2 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Debility&gt;</span><span style="color: #645252;font-size:18px">Hostile heroes' mana regeneration speed is decreased by 1 for every hostile unit that dies. The effect can be triggered 2 times</span>
 
 ### 4th Skill (or 3rd): Sorcery Plunder
- **Description:** <span style="color: #48b946;font-size:18px"><Debility></span><span style="color: #645252;font-size:18px">Hostile heroes' mana is decreased by 10 for every hostile unit's death</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Debility&gt;</span><span style="color: #645252;font-size:18px">Hostile heroes' mana is decreased by 10 for every hostile unit's death</span>
 
 ### 5th Skill (or 6th): Spell Breaker's Shield
- **Description:** <span style="color: #48b946;font-size:18px"><Gather Energy></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10%. Increases Magic resistance and unit's damage reduction for the Beholder by 10% when a hostile hero casts a spell</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gather Energy&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10%. Increases Magic resistance and unit's damage reduction for the Beholder by 10% when a hostile hero casts a spell</span>
 
 ### 6th Skill (or 5th): Exorcism Resonance
- **Description:** <span style="color: #48b946;font-size:18px"><Gather Energy></span><span style="color: #645252;font-size:18px">Skill effect increased to 150%. <Gather Energy> buff works on all friendly units. Increases Magic resistance and unit's damage reduction by 10% for the Beholder when a hostile hero casts a spell</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gather Energy&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150%. &lt;Gather Energy&gt; buff works on all friendly units. Increases Magic resistance and unit's damage reduction by 10% for the Beholder when a hostile hero casts a spell</span>
 
 ## Technical info
  **runart:** 0

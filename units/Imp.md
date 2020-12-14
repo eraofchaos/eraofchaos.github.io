@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Units Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Imp"
 toc: true
@@ -49,20 +49,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Imp's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Healing increased by 30%.</span><span style="color: black">
 
 ### 5 Skill: Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against <burned> units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
 ### 6 Skill: Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Unit Dodge
+* Magic resistance
 
-    - HP
-
-    - Unit Dodge
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Will of the Abyss
- **Description:** <span style="color: #48b946;font-size:18px"><Impulse></span><span style="color: #645252;font-size:18px">Each Imp has a 30% chance to summon a Devil when it dies</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulse&gt;</span><span style="color: #645252;font-size:18px">Each Imp has a 30% chance to summon a Devil when it dies</span>
 
 ### 2nd Skill (or 1st): Lingering Warmth
- **Description:** <span style="color: #48b946;font-size:18px"><Impulse></span><span style="color: #645252;font-size:18px">Resurrection chance of Imp increases to 200% of the previous skill. Restores 2 mana for friendly heroes when each Imp is killed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulse&gt;</span><span style="color: #645252;font-size:18px">Resurrection chance of Imp increases to 200% of the previous skill. Restores 2 mana for friendly heroes when each Imp is killed</span>
 
 ### 3rd Skill (or 4th): Evil Wisdom
- **Description:** <span style="color: #48b946;font-size:18px"><Agility></span> <span style="color: #645252;font-size:18px"> After entering the battlefield, Imp's Dodge is increased by 2000, lasting 20 seconds.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Agility&gt;</span> <span style="color: #645252;font-size:18px"> After entering the battlefield, Imp's Dodge is increased by 2000, lasting 20 seconds.</span>
 
 ### 4th Skill (or 3rd): Inferno Rules
- **Description:** <span style="color: #48b946;font-size:18px"><Agility></span><span style="color: #645252;font-size:18px">Imp increases dodge by 200 for friendly units within a certain range. For Inferno Faction units, the effect doubles</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Agility&gt;</span><span style="color: #645252;font-size:18px">Imp increases dodge by 200 for friendly units within a certain range. For Inferno Faction units, the effect doubles</span>
 
 ### 5th Skill (or 6th): The Deep Asylum
- **Description:** <span style="color: #48b946;font-size:18px"><Inferno Minion></span><span style="color: #645252;font-size:18px">Imp's unit defense increased by 15%, and by 4% further for every Inferno unit deployed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inferno Minion&gt;</span><span style="color: #645252;font-size:18px">Imp's unit defense increased by 15%, and by 4% further for every Inferno unit deployed</span>
 
 ### 6th Skill (or 5th): Inferno Agitation
- **Description:** <span style="color: #48b946;font-size:18px"><Inferno Minion></span><span style="color: #645252;font-size:18px">Increases Imps' DEF by 15% for each one that dies, lasting throughout the battle, up to 5 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inferno Minion&gt;</span><span style="color: #645252;font-size:18px">Increases Imps' DEF by 15% for each one that dies, lasting throughout the battle, up to 5 stacks</span>
 
 ## Technical info
  **runart:** 1

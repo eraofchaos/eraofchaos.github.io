@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Units Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Pegasus"
 toc: true
@@ -49,20 +49,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Pegasus and the summoned Pegasus' ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Forest Chronosphere
- **Description:** <span style="color: #48b946;font-size:18px"><Vitality Protection></span><span style="color: #645252;font-size:18px">Works on all friendly units in the back-row. Skill effect increases to 200% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vitality Protection&gt;</span><span style="color: #645252;font-size:18px">Works on all friendly units in the back-row. Skill effect increases to 200% of the previous skill's effect</span>
 
 ### 2nd Skill (or 1st): Blessing from the Forest
- **Description:** <span style="color: #48b946;font-size:18px"><Vitality Protection></span><span style="color: #645252;font-size:18px">Skill effect increases to 200% of the previous skill's effect. At the beginning of battle, the Pegasus unit casts <Vitality Protection></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vitality Protection&gt;</span><span style="color: #645252;font-size:18px">Skill effect increases to 200% of the previous skill's effect. At the beginning of battle, the Pegasus unit casts &lt;Vitality Protection&gt;</span>
 
 ### 3rd Skill (or 4th): Wild Blade
- **Description:** <span style="color: #48b946;font-size:18px"><Razor-sharp></span><span style="color: #645252;font-size:18px">Pegasus' ATK speed increased by 100% for 10s when she has a <shield></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Razor-sharp&gt;</span><span style="color: #645252;font-size:18px">Pegasus' ATK speed increased by 100% for 10s when she has a &lt;shield&gt;</span>
 
 ### 4th Skill (or 3rd): Thorn Sword
- **Description:** <span style="color: #48b946;font-size:18px"><Razor-sharp></span><span style="color: #645252;font-size:18px">Normal attacks decrease the target unit's damage reduction by 10%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Razor-sharp&gt;</span><span style="color: #645252;font-size:18px">Normal attacks decrease the target unit's damage reduction by 10%</span>
 
 ### 5th Skill (or 6th): Leadership Mind
- **Description:** <span style="color: #48b946;font-size:18px"><Calvary of Silver Wings></span><span style="color: #645252;font-size:18px">Pegasus unit's damage will be increased by 5% for every friendly Rampart unit on the battlefield.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Calvary of Silver Wings&gt;</span><span style="color: #645252;font-size:18px">Pegasus unit's damage will be increased by 5% for every friendly Rampart unit on the battlefield.</span>
 
 ### 6th Skill (or 5th): Wings of Inspiration
- **Description:** <span style="color: #48b946;font-size:18px"><Calvary of Silver Wings></span><span style="color: #645252;font-size:18px">Pegasus unit's damage will be increased by 5% for every friendly flying unit on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Calvary of Silver Wings&gt;</span><span style="color: #645252;font-size:18px">Pegasus unit's damage will be increased by 5% for every friendly flying unit on the battlefield</span>
 
 ## Technical info
  **runart:** 0

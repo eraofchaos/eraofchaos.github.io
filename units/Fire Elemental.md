@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Units An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Dodge
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Dodge
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Blazing Skyfire
- **Description:** <span style="color: #48b946;font-size:18px"><Heavenly Fire></span><span style="color: #645252;font-size:18px"> Skill damage increased to 200% of the previous skill's damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px"> Skill damage increased to 200% of the previous skill's damage</span>
 
 ### 2nd Skill (or 1st): Running Fire
- **Description:** <span style="color: #48b946;font-size:18px"><Heavenly Fire></span><span style="color: #645252;font-size:18px">Deals damage to two random hostile units</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px">Deals damage to two random hostile units</span>
 
 ### 3rd Skill (or 4th): Elemental Injection
- **Description:** <span style="color: #48b946;font-size:18px"><Elemental Force></span><span style="color: #645252;font-size:18px">Increases 50% ATK and 10% life drain for two random Offensive units for 10s when the friendly hero casts a fire spell</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Increases 50% ATK and 10% life drain for two random Offensive units for 10s when the friendly hero casts a fire spell</span>
 
 ### 4th Skill (or 3rd): Elemental Frenzy
- **Description:** <span style="color: #48b946;font-size:18px"><Elemental Force></span><span style="color: #645252;font-size:18px">Has a 30% chance to unleash <Heavenly Fire> on 1 random hostile unit when the friendly hero casts a fire spell</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Has a 30% chance to unleash &lt;Heavenly Fire&gt; on 1 random hostile unit when the friendly hero casts a fire spell</span>
 
 ### 5th Skill (or 6th): Curse of Raging Flame
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Energy Conductor></span><span style="color: #645252;font-size:18px">Bonuses double. Stacks remain the same</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Bonuses double. Stacks remain the same</span>
 
 ### 6th Skill (or 5th): Harmony of Flames
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Energy Conductor></span><span style="color: #645252;font-size:18px">Its effect works additionally on friendly units within a certain range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Its effect works additionally on friendly units within a certain range</span>
 
 ## Technical info
  **runart:** 1

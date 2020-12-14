@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Minotaur"
 toc: true
@@ -40,7 +40,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">The Minotaur unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> to 3 random hostile units within a large range and decreases their </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK speed for 6s.</span><span style="color: black">
 
 ### 2 Skill: Advanced Ferocity
- **Description:** <span style="color: #645252;font-size:20px">Minotaur's ATK increased by an extra </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target <span style="color: #48b946;font-size:20px"><bleeding></span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Minotaur's ATK increased by an extra </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
 ### 3 Skill: Spell Breaker's Physique
  **Description:** <span style="color: #645252;font-size:20px">Increases the Minotaur's magic resistance and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> over the next 10s. The effect doubles every time a hostile hero casts a spell.</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Hyperactive Slash
- **Description:** <span style="color: #48b946;font-size:18px"><Whirlwind></span><span style="color: #645252;font-size:18px">When the Minotaur is in High Morale effect, it's guaranteed to trigger <Whirlwind> once. Damage caused by <Whirlwind> doubles and decreases target unit's damage reduction by 10%. The effect lasts for 6s, up to 3 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Whirlwind&gt;</span><span style="color: #645252;font-size:18px">When the Minotaur is in High Morale effect, it's guaranteed to trigger &lt;Whirlwind&gt; once. Damage caused by &lt;Whirlwind&gt; doubles and decreases target unit's damage reduction by 10%. The effect lasts for 6s, up to 3 stacks</span>
 
 ### 2nd Skill (or 1st): Stimulated Slash
- **Description:** <span style="color: #48b946;font-size:18px"><Whirlwind></span><span style="color: #645252;font-size:18px">When a Minotaur is in High Morale effect, it is guaranteed to trigger <Whirlwind> once. Damage caused by Whirlwind is doubled and works on all hostile units in a large area</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Whirlwind&gt;</span><span style="color: #645252;font-size:18px">When a Minotaur is in High Morale effect, it is guaranteed to trigger &lt;Whirlwind&gt; once. Damage caused by Whirlwind is doubled and works on all hostile units in a large area</span>
 
 ### 3rd Skill (or 4th): Indomitable Soul
- **Description:** <span style="color: #48b946;font-size:18px"><Spell Breaker's Physique></span><span style="color: #645252;font-size:18px">When a hostile hero casts a spell, the Minotaur will be in <High Morale> state for 5s and restore 5% of its Max HP.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Physique&gt;</span><span style="color: #645252;font-size:18px">When a hostile hero casts a spell, the Minotaur will be in &lt;High Morale&gt; state for 5s and restore 5% of its Max HP.</span>
 
 ### 4th Skill (or 3rd): Magic Resistance
- **Description:** <span style="color: #48b946;font-size:18px"><Spell Breaker's Physique></span><span style="color: #645252;font-size:18px"> When a hostile hero casts a spell, the Minotaur will enter \"High Morale\" state for 5s and will increase its unit's damage reduction by 10%, can be stacked 3 times throughout the entire battle</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Physique&gt;</span><span style="color: #645252;font-size:18px"> When a hostile hero casts a spell, the Minotaur will enter \"High Morale\" state for 5s and will increase its unit's damage reduction by 10%, can be stacked 3 times throughout the entire battle</span>
 
 ### 5th Skill (or 6th): Ferocious Will
- **Description:** <span style="color: #48b946;font-size:18px"><Advanced Ferocity></span><span style="color: #645252;font-size:18px">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its attack speed will be increased by 20% for 6s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Advanced Ferocity&gt;</span><span style="color: #645252;font-size:18px">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its attack speed will be increased by 20% for 6s</span>
 
 ### 6th Skill (or 5th): Bloody Fierceness
- **Description:** <span style="color: #48b946;font-size:18px"><Advanced Ferocity></span><span style="color: #645252;font-size:18px">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its unit's damage reduction will be increased by 20% for 6s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Advanced Ferocity&gt;</span><span style="color: #645252;font-size:18px">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its unit's damage reduction will be increased by 20% for 6s</span>
 
 ## Technical info
  **runart:** 1

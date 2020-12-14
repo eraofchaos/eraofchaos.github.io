@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Units Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Lich"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Summon Skeleton
- **Description:** <span style="color: #48b946;font-size:18px"><Sacrifice></span><span style="color: #645252;font-size:18px">Summons 2 Skeletons at the same time</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrifice&gt;</span><span style="color: #645252;font-size:18px">Summons 2 Skeletons at the same time</span>
 
 ### 2nd Skill (or 1st): Undead Summon
- **Description:** <span style="color: #48b946;font-size:18px"><Sacrifice></span><span style="color: #645252;font-size:18px">The summoned Skeleton turns into an Armed Skeleton whose normal attack has an 8% chance to stun the target</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrifice&gt;</span><span style="color: #645252;font-size:18px">The summoned Skeleton turns into an Armed Skeleton whose normal attack has an 8% chance to stun the target</span>
 
 ### 3rd Skill (or 4th): Death Sacrifice
- **Description:** <span style="color: #48b946;font-size:18px"><Skeletal Sacrifice></span><span style="color: #645252;font-size:18px">Increases Lich's ATK speed by 20% and Crit Hit by 200. For every hostile unit's death, the bonus doubles. Lasts for 20s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Skeletal Sacrifice&gt;</span><span style="color: #645252;font-size:18px">Increases Lich's ATK speed by 20% and Crit Hit by 200. For every hostile unit's death, the bonus doubles. Lasts for 20s</span>
 
 ### 4th Skill (or 3rd): Death's Embrace
- **Description:** <span style="color: #48b946;font-size:18px"><Skeletal Sacrifice></span><span style="color: #645252;font-size:18px">Increases DEF and life drain by 20% for Necropolis units. For every hostile unit's death, the bonus doubles. Lasts for 20s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Skeletal Sacrifice&gt;</span><span style="color: #645252;font-size:18px">Increases DEF and life drain by 20% for Necropolis units. For every hostile unit's death, the bonus doubles. Lasts for 20s</span>
 
 ### 5th Skill (or 6th): Magic Contract
- **Description:** <span style="color: #48b946;font-size:18px"><Dark Boost></span><span style="color: #645252;font-size:18px">Lich unit's damage will be increased by an extra 5% for every Caster Unit on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dark Boost&gt;</span><span style="color: #645252;font-size:18px">Lich unit's damage will be increased by an extra 5% for every Caster Unit on the battlefield</span>
 
 ### 6th Skill (or 5th): Contract of the Dead
- **Description:** <span style="color: #48b946;font-size:18px"><Incineration></span><span style="color: #645252;font-size:18px">Lich unit's damage will be increased by 5% for every Necropolis unit on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incineration&gt;</span><span style="color: #645252;font-size:18px">Lich unit's damage will be increased by 5% for every Necropolis unit on the battlefield</span>
 
 ## Technical info
  **runart:** 0

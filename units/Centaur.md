@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Units Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Centaur"
 toc: true
@@ -37,32 +37,30 @@ toc: true
 
 ## Skills
 ### 1 Skill: Battle Stomp
- **Description:** <span style="color: #645252;font-size:20px">Centaur unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all surrounding hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><slows></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 15s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Centaur unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all surrounding hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slows&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 15s.</span><span style="color: black">
 
 ### 2 Skill: Strong
  **Description:** <span style="color: #645252;font-size:20px">Centaur's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Ferocity
- **Description:** <span style="color: #645252;font-size:20px">Centaur's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px"><bleed></span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Centaur's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
 ### 4 Skill: Fearless Leader
  **Description:** <span style="color: #645252;font-size:20px">The Centaur's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants the Centaur extra 2% of unit's damage reduction for every friendly Defensive unit on the battlefield.</span><span style="color: black">
 
 ### 5 Skill: Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Burst
- **Description:** <span style="color: #48b946;font-size:18px"><Battle Stomp></span><span style="color: #645252;font-size:18px">Decreases extra unit's damage reduction of hostile units by 20% for 15s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Battle Stomp&gt;</span><span style="color: #645252;font-size:18px">Decreases extra unit's damage reduction of hostile units by 20% for 15s</span>
 
 ### 2nd Skill (or 1st): Aftermath
- **Description:** <span style="color: #48b946;font-size:18px"><Battle Stomp></span><span style="color: #645252;font-size:18px">Skill damage increased to 150% of the previous skill and skill range increased by 20%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Battle Stomp&gt;</span><span style="color: #645252;font-size:18px">Skill damage increased to 150% of the previous skill and skill range increased by 20%</span>
 
 ### 3rd Skill (or 4th): Tireless March
- **Description:** <span style="color: #48b946;font-size:18px"><Strong></span><span style="color: #645252;font-size:18px">Centaur unit's damage reduction increased by 20%. The effect doubles when it is against slowed enemies</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Strong&gt;</span><span style="color: #645252;font-size:18px">Centaur unit's damage reduction increased by 20%. The effect doubles when it is against slowed enemies</span>
 
 ### 4th Skill (or 3rd): Psalm of Life
- **Description:** <span style="color: #48b946;font-size:18px"><Strength></span><span style="color: #645252;font-size:18px">The Centaur restores his own HP equal to 1% of his Max HP per second</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Strength&gt;</span><span style="color: #645252;font-size:18px">The Centaur restores his own HP equal to 1% of his Max HP per second</span>
 
 ### 5th Skill (or 6th): Guard Stance
- **Description:** <span style="color: #48b946;font-size:18px"><Fearless Leader></span><span style="color: #645252;font-size:18px">Centaur increases damage reduction of friendly units by 20% within a large area over the next 20s when engaged</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fearless Leader&gt;</span><span style="color: #645252;font-size:18px">Centaur increases damage reduction of friendly units by 20% within a large area over the next 20s when engaged</span>
 
 ### 6th Skill (or 5th): Unyielding Will
- **Description:** <span style="color: #48b946;font-size:18px"><Fearless Leader></span><span style="color: #645252;font-size:18px">Increases extra DEF by 30% for 10s when the Centaur has a shield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fearless Leader&gt;</span><span style="color: #645252;font-size:18px">Increases extra DEF by 30% for 10s when the Centaur has a shield</span>
 
 ## Technical info
  **runart:** 1

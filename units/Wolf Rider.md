@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Units Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Wolf Rider"
 toc: true
@@ -40,7 +40,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Wolf Rider summons 1 Warg to fight after it dies. Wargs have </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, and exist throughout the entire battle.</span><span style="color: black">
 
 ### 2 Skill: Double Strike
- **Description:** <span style="color: #645252;font-size:20px">The Wolf Rider has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to attack twice under normal attack. The 2nd attack causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Slow></span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of <Double Strike> is increased to 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Wolf Rider has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to attack twice under normal attack. The 2nd attack causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
 
 ### 3 Skill: Rampage
  **Description:** <span style="color: #645252;font-size:20px">Wolf Rider's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. When its HP is lower than 35%, the effect doubles. (It still works after HP is restored)</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* unit Damage
+* Magic resistance
 
-    - HP
-
-    - unit Damage
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Beast Lineage
- **Description:** <span style="color: #48b946;font-size:18px"><Beast Companion></span><span style="color: #645252;font-size:18px">Increases Crit Hit of summoned wargs by additional 400. The Wolf Rider summons another warg when its target is downed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Increases Crit Hit of summoned wargs by additional 400. The Wolf Rider summons another warg when its target is downed</span>
 
 ### 2nd Skill (or 1st): Living With Wolves
- **Description:** <span style="color: #48b946;font-size:18px"><Beast Companion></span><span style="color: #645252;font-size:18px">Summons a warg that increases unit's damage by 10%. At the beginning of battle, 9 wargs are summoned</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Summons a warg that increases unit's damage by 10%. At the beginning of battle, 9 wargs are summoned</span>
 
 ### 3rd Skill (or 4th): Enthusiasm
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">When <Rampage> is triggered, Wolf Rider's ATK speed increased by additional 30% for 20s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">When &lt;Rampage&gt; is triggered, Wolf Rider's ATK speed increased by additional 30% for 20s</span>
 
 ### 4th Skill (or 3rd): Bloodlust Rampage
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px"> When <Rampage> is triggered, Wolf Rider's Crit Hit is increased by additional 400 (Still active when HP is restored)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> When &lt;Rampage&gt; is triggered, Wolf Rider's Crit Hit is increased by additional 400 (Still active when HP is restored)</span>
 
 ### 5th Skill (or 6th): Beast Instinct
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">HP regeneration increases to 5% when a Crit Hit is landed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">HP regeneration increases to 5% when a Crit Hit is landed</span>
 
 ### 6th Skill (or 5th): Extend Lead
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">Each Crit Hit grants 30 extra Crit Hit</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Each Crit Hit grants 30 extra Crit Hit</span>
 
 ## Technical info
  **runart:** 1

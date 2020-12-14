@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Units These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Skeleton"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* Magic resistance
 
-    - HP
-
-    - Defense
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Enchanted Bones
- **Description:** <span style="color: #48b946;font-size:18px"><Rib Cage></span><span style="color: #645252;font-size:18px">Offers damage reduction that also works on Caster Units</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rib Cage&gt;</span><span style="color: #645252;font-size:18px">Offers damage reduction that also works on Caster Units</span>
 
 ### 2nd Skill (or 1st): Evil Skeleton
- **Description:** <span style="color: #48b946;font-size:18px"><Rib Cage><span style="color: #645252;font-size:18px">DEF increased by 30%. The effect doubles if the enemy unit attacking you is <Low Morale></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rib Cage&gt;<span style="color: #645252;font-size:18px">DEF increased by 30%. The effect doubles if the enemy unit attacking you is &lt;Low Morale&gt;</span>
 
 ### 3rd Skill (or 4th): Death Nourishment
- **Description:** <span style="color: #48b946;font-size:18px"><Turn to Stone></span><span style="color: #645252;font-size:18px">Increases DEF by 30% for every hostile unit's death throughout the entire battle, up to 3 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Increases DEF by 30% for every hostile unit's death throughout the entire battle, up to 3 stacks</span>
 
 ### 4th Skill (or 3rd): Mania of the Undead
- **Description:** <span style="color: #48b946;font-size:18px"><Turn to Stone></span><span style="color: #645252;font-size:18px">Increases Magic resistance and DEF by 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Increases Magic resistance and DEF by 30%</span>
 
 ### 5th Skill (or 6th): Armed to the Teeth
- **Description:** <span style="color: #48b946;font-size:18px"><Bone Shield></span><span style="color: #645252;font-size:18px">The effect lasts the whole battle</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bone Shield&gt;</span><span style="color: #645252;font-size:18px">The effect lasts the whole battle</span>
 
 ### 6th Skill (or 5th): Wait in the Wings
- **Description:** <span style="color: #48b946;font-size:18px"><Turn to Stone></span><span style="color: #645252;font-size:18px">Skill is triggered when entering battle. Duration increased to 30s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Skill is triggered when entering battle. Duration increased to 30s</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Units Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Arch Mage"
 toc: true
@@ -49,20 +49,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When battle starts, the Mage unit increases all friendly units damage  in its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For Caster Units, the effect doubles.</span><span style="color: black">
 
 ### 5 Skill: Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of <silence> is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Unit Critical Hit
+* unit Damage
 
-    - HP
-
-    - Unit Critical Hit
-
-    - unit Damage
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Magic Affinity
- **Description:** <span style="color: #48b946;font-size:18px"><Spell Penetration></span><span style="color: #645252;font-size:18px">ATK speed increased by 10%. The stacked effect will not be cleared even if <Spell Penetration> changes target</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Penetration&gt;</span><span style="color: #645252;font-size:18px">ATK speed increased by 10%. The stacked effect will not be cleared even if &lt;Spell Penetration&gt; changes target</span>
 
 ### 2nd Skill (or 1st): Magic Mastery
- **Description:** <span style="color: #48b946;font-size:18px"><Spell Penetration></span><span style="color: #645252;font-size:18px"> ATK speed increased by 10%. At the beginning of battle, receives a 10-stack <Spell Penetration> lasting throughout the entire battle</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Penetration&gt;</span><span style="color: #645252;font-size:18px"> ATK speed increased by 10%. At the beginning of battle, receives a 10-stack &lt;Spell Penetration&gt; lasting throughout the entire battle</span>
 
 ### 3rd Skill (or 4th): Arcane Node
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Field></span><span style="color: #645252;font-size:18px">Increases ATK speed by 15% for friendly units in its path</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Field&gt;</span><span style="color: #645252;font-size:18px">Increases ATK speed by 15% for friendly units in its path</span>
 
 ### 4th Skill (or 3rd): Arcane Mark
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Field></span><span style="color: #645252;font-size:18px">At the beginning of battle, creates another <Magic Field> for all friendly Tower units (The effect will not be doubled, but stacked with the previous skill's effect)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Field&gt;</span><span style="color: #645252;font-size:18px">At the beginning of battle, creates another &lt;Magic Field&gt; for all friendly Tower units (The effect will not be doubled, but stacked with the previous skill's effect)</span>
 
 ### 5th Skill (or 6th): Death Toll
- **Description:** <span style="color: #48b946;font-size:18px"><Energy Loss></span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
 
 ### 6th Skill (or 5th): Energy Suppression
- **Description:** <span style="color: #48b946;font-size:18px"><Energy Loss></span><span style="color: #645252;font-size:18px">Skill effect increased to 200% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 200% of the previous skill's effect</span>
 
 ## Technical info
  **runart:** 1

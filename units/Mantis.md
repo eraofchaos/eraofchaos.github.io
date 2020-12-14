@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Units  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force."
 unitID: 209
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Mantis"
 toc: true
@@ -52,23 +52,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"slowdown\" </span><span style="color: black"><span style="color: #645252;font-size:20px">status targets, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Chances are <span style="color: #48b946;font-size:20px">Stalking</span><span style="color: black"> effect lasts for 3 seconds and cools down for 6 seconds on 2 enemy corps within its small area. When a Barrier Corps gains </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"Shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, it will increase Mantis Corps damage by 0.5%, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack speed and</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value for 10 seconds, this effect can be stacked up to 50 layers </span><span style="color: black">
 
 ### 5 Skill: Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of <stun> and <petrification> they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against <Slow> and <Bleeding> targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ### 7 Skill:  Forest of Spirituality
  **Description:** <span style="color: #645252;font-size:20px">Increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 Barricade Corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*20+300}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value. At the 6th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Forest of Spiritual Source\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field The effect grows with skill level, lasts 15 seconds, and is triggered every 30 seconds thereafter</span><span style="color: black">.
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +88,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Brilliance of Forest Spirit
- **Description:** <span style="color: #48b946;font-size:18px"><Blind></span><span style="color: #645252;font-size:18px">Decreases extra accuracy by 1000 when blinded</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blind&gt;</span><span style="color: #645252;font-size:18px">Decreases extra accuracy by 1000 when blinded</span>
 
 ### 2nd Skill (or 1st): Forest Spirit's Will
- **Description:** <span style="color: #48b946;font-size:18px"><Blind></span><span style="color: #645252;font-size:18px">Casts \"Blind\" immediately when engaged</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blind&gt;</span><span style="color: #645252;font-size:18px">Casts \"Blind\" immediately when engaged</span>
 
 ### 3rd Skill (or 4th): The Sixth Sense
- **Description:** <span style="color: #48b946;font-size:18px"><Aglimmer Silhouette></span><span style="color: #645252;font-size:18px"> Chance to trigger the Shield is increased to 200% of the previous one</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aglimmer Silhouette&gt;</span><span style="color: #645252;font-size:18px"> Chance to trigger the Shield is increased to 200% of the previous one</span>
 
 ### 4th Skill (or 3rd): Power of Coordination
- **Description:** <span style="color: #48b946;font-size:18px"><Aglimmer Silhouette></span><span style="color: #645252;font-size:18px">Shield effect increased to 200% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aglimmer Silhouette&gt;</span><span style="color: #645252;font-size:18px">Shield effect increased to 200% of the previous skill's effect</span>
 
 ### 5th Skill (or 6th): Forest Spirit's Guidance
- **Description:** <span style="color: #48b946;font-size:18px"><Bold Leader></span><span style="color: #645252;font-size:18px">Unicorn increases unit's damage by 10% for all friendly units over the next 20s when the target unit is killed. The effect can be stacked 3 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bold Leader&gt;</span><span style="color: #645252;font-size:18px">Unicorn increases unit's damage by 10% for all friendly units over the next 20s when the target unit is killed. The effect can be stacked 3 times</span>
 
 ### 6th Skill (or 5th): Forest Spirit's Shelter
- **Description:** <span style="color: #48b946;font-size:18px"><Bold Leader></span><span style="color: #645252;font-size:18px">Unicorn creates a shield for all friendly units to absorb damage equal to 6% of Max HP when the target unit is killed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bold Leader&gt;</span><span style="color: #645252;font-size:18px">Unicorn creates a shield for all friendly units to absorb damage equal to 6% of Max HP when the target unit is killed</span>
 
 ## Technical info
  **runart:** 1

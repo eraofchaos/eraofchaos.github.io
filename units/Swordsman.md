@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Units The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Swordsman"
 toc: true
@@ -40,10 +40,10 @@ toc: true
  **Description:** 
 
 ### 2 Skill: Inspiring
- **Description:** <span style="color: #645252;font-size:20px">The Swordsmen's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: black"><span style="color: #48b946;font-size:20px"><High Morale></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Swordsmen's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Double Strike
- **Description:** <span style="color: #645252;font-size:20px">The Swordsmen has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to attack the target twice when using a normal attack. The 2nd attack causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Slow\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of <Double Strike> is increased to 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Swordsmen has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to attack the target twice when using a normal attack. The 2nd attack causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Slow\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
 
 ### 4 Skill: Salvation
  **Description:** <span style="color: #645252;font-size:20px">The Swordsmen's normal attack has a high chance of restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* Magic resistance
 
-    - HP
-
-    - Defense
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Anti-magic Shield
- **Description:** <span style="color: #48b946;font-size:18px"><Divine Protection></span><span style="color: #645252;font-size:18px"> provides additional immunity from magic damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px"> provides additional immunity from magic damage</span>
 
 ### 2nd Skill (or 1st): Sacred Protection
- **Description:** <span style="color: #48b946;font-size:18px"><Divine Protection></span><span style="color: #645252;font-size:18px">Effect duration increased by 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px">Effect duration increased by 10s</span>
 
 ### 3rd Skill (or 4th): Inspiration of the Valiant
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">Immune to \"Low Morale\". Skill effect increases to 150% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">Immune to \"Low Morale\". Skill effect increases to 150% of the previous skill's effect</span>
 
 ### 4th Skill (or 3rd): Raise Me Up
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">Increases unit's damage reduction for friendly units by 10% within a large area for 10s when becoming immune to <Low Morale]>and receiving \"High Morale\"</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">Increases unit's damage reduction for friendly units by 10% within a large area for 10s when becoming immune to &lt;Low Morale]&gt;and receiving \"High Morale\"</span>
 
 ### 5th Skill (or 6th): Light of Salvation
- **Description:** <span style="color: #48b946;font-size:18px"><Salvation></span><span style="color: #645252;font-size:18px">HP regeneration amount increased to 200% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">HP regeneration amount increased to 200% of the previous skill's effect</span>
 
 ### 6th Skill (or 5th): A Mighty Heart
- **Description:** <span style="color: #48b946;font-size:18px"><Salvation></span><span style="color: #645252;font-size:18px">Swordsman is immune to <silence>, <stun> and <petrification></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">Swordsman is immune to &lt;silence&gt;, &lt;stun&gt; and &lt;petrification&gt;</span>
 
 ## Technical info
  **runart:** 1

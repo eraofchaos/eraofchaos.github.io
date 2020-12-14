@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Dragon Golem"
 toc: true
@@ -46,29 +46,27 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Dragon Golem's HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, tenacity increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+150)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases unit's damage by 100% when fighting against Dungeon units. At the beginning of battle, the Dragon Golem generates an <span style="color: #F0F000;font-size:20px">[Iron Building]</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Magic Awakening
- **Description:** <span style="color: #645252;font-size:20px">When awakened by a friendly hero's support spell, it triggers <Magic Storm> to <silence> hostile units within range for 2s and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><paralyzes></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s. At the same time, it increases its own DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+14.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+9.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the battle, up to 3 stacks. The Dragon Golem awakens itself once every 25s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When awakened by a friendly hero's support spell, it triggers &lt;Magic Storm&gt; to &lt;silence&gt; hostile units within range for 2s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paralyzes&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s. At the same time, it increases its own DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+14.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+9.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the battle, up to 3 stacks. The Dragon Golem awakens itself once every 25s.</span><span style="color: black">
 
 ### 4 Skill: Magic Recast
  **Description:** <span style="color: #645252;font-size:20px">When 40% and 20% of its HP remains, the Dragon Golem will create a repair force battlefield lasting for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2.8)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. During the repair, damage taken by the Dragon Golem will be converted into HP regeneration. When the Dragon Golem is downed, the leaked time energy causes damage equal to 30% of Max HP to hostile units within a large range, and inflicts</span><span style="color: black"><span style="color: #48b946;font-size:20px">[Time Stop]</span><span style="color: black"><span style="color: #645252;font-size:20px"> on the targets for 5s.</span><span style="color: black">
 
 ### 5 Skill: Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of <silence> is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 7 Skill: Wheel of Time
- **Description:** <span style="color: #645252;font-size:20px">Dragon Golem's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Tenacity increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> when 3 Tower units are deployed. When Dragon Golem triggers <Magic Awakening>, it can reveal a </span><span style="color: black"><span style="color: #F0F000;font-size:20px"><Time Domain></span><span style="color: black"><span style="color: #645252;font-size:20px"> that expands as the skill levels up. The domain exists for 15s. CD is 30s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dragon Golem's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Tenacity increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> when 3 Tower units are deployed. When Dragon Golem triggers &lt;Magic Awakening&gt;, it can reveal a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Time Domain&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> that expands as the skill levels up. The domain exists for 15s. CD is 30s.</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* unit DMG Reduction
+* Magic resistance
 
-    - HP
-
-    - unit DMG Reduction
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +88,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fearless Execution
- **Description:** <span style="color: #48b946;font-size:18px"><Reinforcements of the Valiant></span><span style="color: #645252;font-size:18px">Sanctuary Retinue is promoted to Sanctuary Supervisor. For each Sanctuary Supervisor on the battlefield, the Sanctuary Supervisor increases the DEF of Supreme Paladin by 15%. Sanctuary will restore 10% HP during the first 3 summons</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Sanctuary Retinue is promoted to Sanctuary Supervisor. For each Sanctuary Supervisor on the battlefield, the Sanctuary Supervisor increases the DEF of Supreme Paladin by 15%. Sanctuary will restore 10% HP during the first 3 summons</span>
 
 ### 2nd Skill (or 1st): Sanctuary's Glory
- **Description:** <span style="color: #48b946;font-size:18px"><Reinforcements of the Valiant></span><span style="color: #645252;font-size:18px">Sanctuary Retinue gets promoted to Sanctuary Supervisor. For the first 3 summons, friendly units' damage and damage reduction will be increased by 10% for 30s. Supreme Paladin summons a Sanctuary Supervisor when entering the battlefield for the first time</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Sanctuary Retinue gets promoted to Sanctuary Supervisor. For the first 3 summons, friendly units' damage and damage reduction will be increased by 10% for 30s. Supreme Paladin summons a Sanctuary Supervisor when entering the battlefield for the first time</span>
 
 ### 3rd Skill (or 4th): Loyalty and Belief
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">Paladin's unit's damage reduction increased by 22%. This effect is not affected by \"High Morale\"</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">Paladin's unit's damage reduction increased by 22%. This effect is not affected by \"High Morale\"</span>
 
 ### 4th Skill (or 3rd): Unyielding Faith
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:20px">The Paladin's unit's damage reduction is increased by an extra 15%</span><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: #645252;font-size:20px"></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:20px">The Paladin's unit's damage reduction is increased by an extra 15%</span><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: #645252;font-size:20px"></span>
 
 ### 5th Skill (or 6th): Perseverance
- **Description:** <span style="color: #48b946;font-size:18px"><Incentive></span><span style="color: #645252;font-size:18px"> works on all friendly units. Increases Crit DMG by 50% and tenacity by 150. Duration of High Morale increased by 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px"> works on all friendly units. Increases Crit DMG by 50% and tenacity by 150. Duration of High Morale increased by 10s</span>
 
 ### 6th Skill (or 5th): Agile Riposte
- **Description:** <span style="color: #48b946;font-size:18px"><Incentive></span><span style="color: #645252;font-size:18px"> works on all friendly units. Increases unit's damage by 15% and tenacity by 150 for all units within range. Duration of High Morale increased by 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px"> works on all friendly units. Increases unit's damage by 15% and tenacity by 150 for all units within range. Duration of High Morale increased by 10s</span>
 
 ## Technical info
  **runart:** 0

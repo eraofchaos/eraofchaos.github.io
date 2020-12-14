@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Units Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Cyclops"
 toc: true
@@ -37,13 +37,13 @@ toc: true
 
 ## Skills
 ### 1 Skill: Flamestone
- **Description:** <span style="color: #645252;font-size:20px">Cyclops throws fire-stones within a large range in front of it, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><burning></span><span style="color: black"><span style="color: #645252;font-size:20px"> the hostile units there and causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 2s for 8s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cyclops throws fire-stones within a large range in front of it, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the hostile units there and causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 2s for 8s.</span><span style="color: black">
 
 ### 2 Skill: Siege Strike
  **Description:** <span style="color: #645252;font-size:20px">Cyclops increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed. When HP of Cyclops  lower than 35%, effect doubles (It still works after HP is restored). When the Cyclops is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 members of the hostile unit.</span><span style="color: black">
 
 ### 3 Skill: Earthshaker
- **Description:** <span style="color: #645252;font-size:20px">When under attack, the Cyclops has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage hostile units within a large range, and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stuns></span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When under attack, the Cyclops has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage hostile units within a large range, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### 4 Skill: Giant
  **Description:** <span style="color: #645252;font-size:20px">Cyclops' HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When facing a 9-man unit, unit's damage taken is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
 
 ### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
 ### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
 ### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
 
 ## Technical info
  **runart:** 0

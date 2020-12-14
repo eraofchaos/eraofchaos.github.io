@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /units/Wicked Lady/
 excerpt: "Units  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Wicked Lady"
 toc: true
@@ -62,13 +62,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* unit Damage
 
-    - HP
-
-    - Attack Speed
-
-    - unit Damage
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +88,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Formation Break
- **Description:** <span style="color: #48b946;font-size:18px"><Tactical Decision>:</span><span style="color: #645252;font-size:18px"> Trigger chance of a normal attack is increased by 50%, decreases melee units' tenacity by 60 and DEF by 2%. Lasts for 6s, up to 5 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Decision&gt;:</span><span style="color: #645252;font-size:18px"> Trigger chance of a normal attack is increased by 50%, decreases melee units' tenacity by 60 and DEF by 2%. Lasts for 6s, up to 5 stacks</span>
 
 ### 2nd Skill (or 1st): Raid Strategy
- **Description:** <span style="color: #48b946;font-size:18px"><Tactical Decision>:</span><span style="color: #645252;font-size:18px"> Trigger chance of a normal attack is increased by 50%. When fighting against Ranged/Caster units, increases its own Critical damage and unit's damage by an extra 4%. Lasts for 6s, up to 5 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Decision&gt;:</span><span style="color: #645252;font-size:18px"> Trigger chance of a normal attack is increased by 50%. When fighting against Ranged/Caster units, increases its own Critical damage and unit's damage by an extra 4%. Lasts for 6s, up to 5 stacks</span>
 
 ### 3rd Skill (or 4th): Rout Cry
- **Description:** <span style="color: #48b946;font-size:18px"><Spell Breaker's Howl></span><span style="color: #645252;font-size:18px">When your enemy casts an earth magic spell, hostile Defensive units' healing effect will be decreased by 20%; when your enemy casts a water magic spell, hostile Ranged units' ATK speed will be decreased by 20%; when your enemy casts a fire magic spell, hostile Offensive Units' DMG will be decreased by 20%; when your enemy casts an air magic spell, hostile Caster Units will be \"silenced\" for 1.5s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Howl&gt;</span><span style="color: #645252;font-size:18px">When your enemy casts an earth magic spell, hostile Defensive units' healing effect will be decreased by 20%; when your enemy casts a water magic spell, hostile Ranged units' ATK speed will be decreased by 20%; when your enemy casts a fire magic spell, hostile Offensive Units' DMG will be decreased by 20%; when your enemy casts an air magic spell, hostile Caster Units will be \"silenced\" for 1.5s</span>
 
 ### 4th Skill (or 3rd): Power of Spell Breaker
- **Description:** <span style="color: #48b946;font-size:18px"><Spell Breaker's Howl></span><span style="color: #645252;font-size:18px">When your enemy casts an earth magic spell, your and all friendly Defensive units' healing effect will be increased by 15%. When your enemy casts a water magic spell, your and all friendly Ranged units' ATK speed will be increased by 15%. When your enemy casts a fire magic spell, your and all friendly Offensive units' unit DMG will be increased by 15%. When your enemy casts an air magic spell, your and all friendly Caster units will become immune to \"silence\" for 2s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Howl&gt;</span><span style="color: #645252;font-size:18px">When your enemy casts an earth magic spell, your and all friendly Defensive units' healing effect will be increased by 15%. When your enemy casts a water magic spell, your and all friendly Ranged units' ATK speed will be increased by 15%. When your enemy casts a fire magic spell, your and all friendly Offensive units' unit DMG will be increased by 15%. When your enemy casts an air magic spell, your and all friendly Caster units will become immune to \"silence\" for 2s</span>
 
 ### 5th Skill (or 6th): Permeating Poisoned Blood
- **Description:** <span style="color: #48b946;font-size:18px"><Spattered Poisoned Blood></span><span style="color: #645252;font-size:18px"><Spattered Poisoned Blood> will be triggered when the target unit is downed. It can be triggered 3 times. Guaranteed to trigger the effect of Spattered Poisoned Blood once every 30 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spattered Poisoned Blood&gt;</span><span style="color: #645252;font-size:18px">&lt;Spattered Poisoned Blood&gt; will be triggered when the target unit is downed. It can be triggered 3 times. Guaranteed to trigger the effect of Spattered Poisoned Blood once every 30 seconds</span>
 
 ### 6th Skill (or 5th): Venomous Sputtering
- **Description:** <span style="color: #48b946;font-size:18px"><Spattered Poisoned Blood></span><span style="color: #645252;font-size:18px"><Spattered Poisoned Blood> increases the effect of DEF reduction by 50%, and can be triggered 3 times in maximun when a target unit is killed. Can be triggered one more time after 15s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spattered Poisoned Blood&gt;</span><span style="color: #645252;font-size:18px">&lt;Spattered Poisoned Blood&gt; increases the effect of DEF reduction by 50%, and can be triggered 3 times in maximun when a target unit is killed. Can be triggered one more time after 15s</span>
 
 ## Technical info
  **runart:** 1

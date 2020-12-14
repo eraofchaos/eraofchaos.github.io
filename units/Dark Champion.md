@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -58,17 +58,15 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ### 7 Skill: Silent Graveyard
- **Description:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px"><Silent Graveyard></span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* unit Damage
 
-    - HP
-
-    - Attack Speed
-
-    - unit Damage
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +88,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Fear></span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of the target unit by additional 20%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fear&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of the target unit by additional 20%</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px"><Fear></span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of hostile units by addtional 10% in a large area</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fear&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of hostile units by addtional 10% in a large area</span>
 
 ### 3rd Skill (or 4th): Debilitating Strike
- **Description:** <span style="color: #48b946;font-size:18px"><Crushing Roll></span><span style="color: #645252;font-size:18px">Decreases DEF by 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Crushing Roll&gt;</span><span style="color: #645252;font-size:18px">Decreases DEF by 30%</span>
 
 ### 4th Skill (or 3rd): Dark Prohibition
- **Description:** <span style="color: #48b946;font-size:18px"><Crushing Roll></span><span style="color: #645252;font-size:18px"><Silence> range expands to cover all hostile units within a certain range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Crushing Roll&gt;</span><span style="color: #645252;font-size:18px">&lt;Silence&gt; range expands to cover all hostile units within a certain range</span>
 
 ### 5th Skill (or 6th): Ghostly Embrace
- **Description:** <span style="color: #48b946;font-size:18px"><Ageing></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ageing&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
 
 ### 6th Skill (or 5th): Ageing Curse
- **Description:** <span style="color: #48b946;font-size:18px"><Ageing></span><span style="color: #645252;font-size:18px">Hostile units within a certain range around the Bone Dragon will take damage that is increased to 200% of the previous skill's damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ageing&gt;</span><span style="color: #645252;font-size:18px">Hostile units within a certain range around the Bone Dragon will take damage that is increased to 200% of the previous skill's damage</span>
 
 ## Technical info
  **runart:** 1

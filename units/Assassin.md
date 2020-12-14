@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Assassin"
 toc: true
@@ -40,10 +40,10 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Assassins enter </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> status at the beginning of battle, and they lose </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> once engaged. Whenever an Assassin loses </span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px">, their next attack will be a Broken Stealth attack, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Attack and reducing their healing received by 30%. This effect can trigger once every 10s.</span><span style="color: black">
 
 ### 2 Skill: Assassin Instinct
- **Description:** <span style="color: #645252;font-size:20px">Assassin increases </span><span style="color: black"><span style="color: #645252;font-size:20px">unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%.</span><span style="color: black"><span style="color: #645252;font-size:20px"> This bonus doubles when under the effect of </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Hawkeye></span><span style="color: black"><span style="color: #645252;font-size:20px">. Attacking</span><span style="color: black"><span style="color: #48b946;font-size:20px"> <blind> </span><span style="color: black"><span style="color: #645252;font-size:20px">enemies increases penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Assassin increases </span><span style="color: black"><span style="color: #645252;font-size:20px">unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%.</span><span style="color: black"><span style="color: #645252;font-size:20px"> This bonus doubles when under the effect of </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Hawkeye&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Attacking</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;blind&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">enemies increases penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}.</span><span style="color: black">
 
 ### 3 Skill: Smoke Bomb
- **Description:** <span style="color: #645252;font-size:20px">Assassins throw a smoke bomb at their feet and increase their own DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> while</span><span style="color: black"><span style="color: #48b946;font-size:20px"> <blinding></span><span style="color: black"><span style="color: #645252;font-size:20px"> all enemy units within a large range, reducing unit damage and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. CD is 18s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Assassins throw a smoke bomb at their feet and increase their own DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> while</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;blinding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all enemy units within a large range, reducing unit damage and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. CD is 18s.</span><span style="color: black">
 
 ### 4 Skill: Chain Attack
  **Description:** <span style="color: #645252;font-size:20px">Assassins increase their attack speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and their Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect triples for 20s after an Assassin kills a target unit and enters into </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> mode for 5s.</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* unit Damage
+* unit DMG Reduction
 
-    - HP
-
-    - unit Damage
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
 
 ### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Spear Array></span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
 ### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies <deterrence> on the target. <Deterrence>: Decreases the target's Crit Hit by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
 ### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
 
 ## Technical info
  **runart:** 1

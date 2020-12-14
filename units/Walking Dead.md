@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Units Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -40,10 +40,10 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px"> Within a certain range, Walking Dead units deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all surrounding hostile units every 2s. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
 ### 2 Skill: Infectious
- **Description:** <span style="color: #645252;font-size:20px">Walking Dead's <Poison Gas> decreases the target's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><slows></span><span style="color: black"><span style="color: #645252;font-size:20px"> the target over time.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Walking Dead's &lt;Poison Gas&gt; decreases the target's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slows&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target over time.</span><span style="color: black">
 
 ### 3 Skill: Explosive
- **Description:** <span style="color: #645252;font-size:20px">When the Walking Dead is downed, it deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a large range for 8s. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><bleeding></span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Walking Dead is downed, it deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a large range for 8s. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 30%.</span><span style="color: black">
 
 ### 4 Skill: Barricade of Corpses
  **Description:** <span style="color: #645252;font-size:20px">Walking Dead's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Walking Dead is in </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Low Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Disease Outbreak
- **Description:** <span style="color: #48b946;font-size:18px"><Poison Gas></span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
 
 ### 2nd Skill (or 1st): Infectious Disease
- **Description:** <span style="color: #48b946;font-size:18px"><Poison Gas></span><span style="color: #645252;font-size:18px">At the beginning of battle, applies <Poison Gas> to all friendly Necropolis melee units, lasting throughout the battle. Damage can be stacked up to 6 times</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">At the beginning of battle, applies &lt;Poison Gas&gt; to all friendly Necropolis melee units, lasting throughout the battle. Damage can be stacked up to 6 times</span>
 
 ### 3rd Skill (or 4th): Complication
- **Description:** <span style="color: #48b946;font-size:18px"><Infection></span><span style="color: #645252;font-size:18px">Decreases extra ATK and extra DEF by 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infection&gt;</span><span style="color: #645252;font-size:18px">Decreases extra ATK and extra DEF by 30%</span>
 
 ### 4th Skill (or 3rd): Superinfection
- **Description:** <span style="color: #48b946;font-size:18px"><Infection></span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction by an extra 10%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infection&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction by an extra 10%</span>
 
 ### 5th Skill (or 6th): Horrific Barrier
- **Description:** <span style="color: #48b946;font-size:18px"><Barricade of Corpses></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
 
 ### 6th Skill (or 5th): Macabre Feast
- **Description:** <span style="color: #48b946;font-size:18px"><Barricade of Corpses></span><span style="color: #645252;font-size:18px">Restores HP of Walking Dead equal to 10% of Max HP every time 1 hostile unit is downed</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">Restores HP of Walking Dead equal to 10% of Max HP every time 1 hostile unit is downed</span>
 
 ## Technical info
  **runart:** 1

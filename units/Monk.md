@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Monk"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Healing
+* Magic resistance
 
-    - HP
-
-    - Healing
-
-    - Magic resistance
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Inquisition of Holy Light
- **Description:** <span style="color: #48b946;font-size:18px"><Blessings of the Valiant></span><span style="color: #645252;font-size:18px"> Every 30s, grants all friendly units within a large range of the caster High Morale for 10s. At the beginning of the battle, Monk additionally increases all friendly units' Critical Hit DMG and healing received by 20% each for 60s. During the first 60s of battle, each Monk unit will deal damage equal to 10% of their ATK to enemy Inferno units once every 2s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blessings of the Valiant&gt;</span><span style="color: #645252;font-size:18px"> Every 30s, grants all friendly units within a large range of the caster High Morale for 10s. At the beginning of the battle, Monk additionally increases all friendly units' Critical Hit DMG and healing received by 20% each for 60s. During the first 60s of battle, each Monk unit will deal damage equal to 10% of their ATK to enemy Inferno units once every 2s.</span>
 
 ### 2nd Skill (or 1st): Blessing of Holy Light
- **Description:** <span style="color: #48b946;font-size:18px"><Blessings of the Valiant></span><span style="color: #645252;font-size:18px"> Every 30s, grants all friendly units within a large range of the caster High Morale for 10s. When Monk is present on the battlefield, increases all friendly units' Critical Hit DMG and healing received by 20% each for 120s. During the first 60s of battle, each Monk unit will heal friendly Castle units for HP equal to 10% of their ATK once every 2s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blessings of the Valiant&gt;</span><span style="color: #645252;font-size:18px"> Every 30s, grants all friendly units within a large range of the caster High Morale for 10s. When Monk is present on the battlefield, increases all friendly units' Critical Hit DMG and healing received by 20% each for 120s. During the first 60s of battle, each Monk unit will heal friendly Castle units for HP equal to 10% of their ATK once every 2s.</span>
 
 ### 3rd Skill (or 4th): Radiant Blessing
- **Description:** <span style="color: #48b946;font-size:18px"><Meditation></span><span style="color: #645252;font-size:18px"> When Monk gains High Morale, increases all friendly units' Critical Hit by 200 points. This effect lasts for the whole battle but cannot be stacked. Also increases heroes' Mana by 10. CD is 3s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> When Monk gains High Morale, increases all friendly units' Critical Hit by 200 points. This effect lasts for the whole battle but cannot be stacked. Also increases heroes' Mana by 10. CD is 3s.</span>
 
 ### 4th Skill (or 3rd): Magnificent Grace
- **Description:** <span style="color: #48b946;font-size:18px"><Meditation></span><span style="color: #645252;font-size:18px"> When Monk gains High Morale, increases all friendly units' Critical Hit by 200 points. This effect lasts for the whole battle but cannot be stacked. Also increases heroes' Mana Recovery by 0.5. CD is 3s. Mana Recovery buff can be triggered up to 4 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> When Monk gains High Morale, increases all friendly units' Critical Hit by 200 points. This effect lasts for the whole battle but cannot be stacked. Also increases heroes' Mana Recovery by 0.5. CD is 3s. Mana Recovery buff can be triggered up to 4 times.</span>
 
 ### 5th Skill (or 6th): Sagely Judgement
- **Description:** <span style="color: #48b946;font-size:18px"><Recovery></span><span style="color: #645252;font-size:18px"> When Monk is present on the battlefield, increases all friendly units' healing received by 20%. When Prayer is cast, also launches a 3-stage attack on the enemy unit with the lowest HP, dealing damage equal to 150% of own ATK.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Recovery&gt;</span><span style="color: #645252;font-size:18px"> When Monk is present on the battlefield, increases all friendly units' healing received by 20%. When Prayer is cast, also launches a 3-stage attack on the enemy unit with the lowest HP, dealing damage equal to 150% of own ATK.</span>
 
 ### 6th Skill (or 5th): Psalm of Mass
- **Description:** <span style="color: #48b946;font-size:18px"><Recovery></span><span style="color: #645252;font-size:18px"> When Monk is present on the battlefield, increases all friendly units' healing received by 20%. When Prayer is cast, also heals the friendly unit with the lowest HP over 3 stages for HP equal to 150% of own ATK.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Recovery&gt;</span><span style="color: #645252;font-size:18px"> When Monk is present on the battlefield, increases all friendly units' healing received by 20%. When Prayer is cast, also heals the friendly unit with the lowest HP over 3 stages for HP equal to 150% of own ATK.</span>
 
 ## Technical info
  **runart:** 0

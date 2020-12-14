@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Naga"
 toc: true
@@ -46,23 +46,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When a Naga unit is on the battlefield, it increases all friendly Offensive units' Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Naga's Crit DMG will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Magic Awakening
- **Description:** <span style="color: #645252;font-size:20px">When a Naga unit is enhanced by a friendly hero's support spell, it uses <Blade Dance> on the target unit, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and reducing their DEF by 10% for 10s. Stacks up to 4 times.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Naga unit is enhanced by a friendly hero's support spell, it uses &lt;Blade Dance&gt; on the target unit, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and reducing their DEF by 10% for 10s. Stacks up to 4 times.</span><span style="color: black">
 
 ### 5 Skill: Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of <silence> is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### 6 Skill: Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Bloodred Dance
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Dance></span><span style="color: #645252;font-size:18px">When actively cast, increases Naga's ATK speed and life drain by 30% over the next 20s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">When actively cast, increases Naga's ATK speed and life drain by 30% over the next 20s</span>
 
 ### 2nd Skill (or 1st): Sharp Blade Dance
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Dance></span><span style="color: #645252;font-size:18px">Skill damage increased to 200% of the previous skill's damage, causing damage to all units within range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Skill damage increased to 200% of the previous skill's damage, causing damage to all units within range</span>
 
 ### 3rd Skill (or 4th): Blade of Will
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Queen></span><span style="color: #645252;font-size:18px">Bonus effect increases to 150% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">Bonus effect increases to 150% of the previous skill's effect</span>
 
 ### 4th Skill (or 3rd): Crazy Blade
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Queen></span><span style="color: #645252;font-size:18px">Crit Hit and Crit DMG offer a bonus for Naga, increasing the effect to 200% of the previous skill</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">Crit Hit and Crit DMG offer a bonus for Naga, increasing the effect to 200% of the previous skill</span>
 
 ### 5th Skill (or 6th): Magical Skin
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Grants a 3s spell damage immunity</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants a 3s spell damage immunity</span>
 
 ### 6th Skill (or 5th): Magic-quenched Edge
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
 
 ## Technical info
  **runart:** 1

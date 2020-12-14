@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Units Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Fear></span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of the target unit by additional 20%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fear&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of the target unit by additional 20%</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px"><Fear></span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of hostile units by addtional 10% in a large area</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fear&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of hostile units by addtional 10% in a large area</span>
 
 ### 3rd Skill (or 4th): Debilitating Strike
- **Description:** <span style="color: #48b946;font-size:18px"><Crushing Roll></span><span style="color: #645252;font-size:18px">Decreases DEF by 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Crushing Roll&gt;</span><span style="color: #645252;font-size:18px">Decreases DEF by 30%</span>
 
 ### 4th Skill (or 3rd): Dark Prohibition
- **Description:** <span style="color: #48b946;font-size:18px"><Crushing Roll></span><span style="color: #645252;font-size:18px"><Silence> range expands to cover all hostile units within a certain range</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Crushing Roll&gt;</span><span style="color: #645252;font-size:18px">&lt;Silence&gt; range expands to cover all hostile units within a certain range</span>
 
 ### 5th Skill (or 6th): Ghostly Embrace
- **Description:** <span style="color: #48b946;font-size:18px"><Ageing></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ageing&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
 
 ### 6th Skill (or 5th): Ageing Curse
- **Description:** <span style="color: #48b946;font-size:18px"><Ageing></span><span style="color: #645252;font-size:18px">Hostile units within a certain range around the Bone Dragon will take damage that is increased to 200% of the previous skill's damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ageing&gt;</span><span style="color: #645252;font-size:18px">Hostile units within a certain range around the Bone Dragon will take damage that is increased to 200% of the previous skill's damage</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Units The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Firebird"
 toc: true
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Unit Critical Hit
+* unit Damage
 
-    - HP
-
-    - Unit Critical Hit
-
-    - unit Damage
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Eternal Flame
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">Reborn after death every time (Skill CD is 20s)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Reborn after death every time (Skill CD is 20s)</span>
 
 ### 2nd Skill (or 1st): Endless Storm
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">After resurrecting, deals damage equal to 8% of Max HP to all hostile units and <burns> them for 15s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">After resurrecting, deals damage equal to 8% of Max HP to all hostile units and &lt;burns&gt; them for 15s</span>
 
 ### 3rd Skill (or 4th): Blast of the Cross
- **Description:** <span style="color: #48b946;font-size:18px"><Flame Breath></span><span style="color: #645252;font-size:18px">Deals additional damage to enemies standing in the row where the target is (targets on a crossing take double damage)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flame Breath&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage to enemies standing in the row where the target is (targets on a crossing take double damage)</span>
 
 ### 4th Skill (or 3rd): Lava Breath
- **Description:** <span style="color: #48b946;font-size:18px"><Flame Breath></span><span style="color: #645252;font-size:18px">Damage increased to 200%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flame Breath&gt;</span><span style="color: #645252;font-size:18px">Damage increased to 200%</span>
 
 ### 5th Skill (or 6th): Endless Rage
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Boost></span><span style="color: #645252;font-size:18px">Extra 30% unit's damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Boost&gt;</span><span style="color: #645252;font-size:18px">Extra 30% unit's damage</span>
 
 ### 6th Skill (or 5th): Flame Intensifies
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Boost></span><span style="color: #645252;font-size:18px">Guaranteed to cause a Crit Hit on <burned> targets</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Boost&gt;</span><span style="color: #645252;font-size:18px">Guaranteed to cause a Crit Hit on &lt;burned&gt; targets</span>
 
 ## Technical info
  **runart:** 0

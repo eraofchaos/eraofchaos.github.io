@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Units A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Black Dragon"
 toc: true
@@ -40,13 +40,13 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">The Black Dragon deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all hostile units in a very large area every 15s, while causing additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to nearby units and <span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
 
 ### 2 Skill: Black Dragon Scale
- **Description:** <span style="color: #645252;font-size:20px">The Black Dragon is immune to <span style="color: #48b946;font-size:20px"><bleeding></span><span style="color: black"><span style="color: #645252;font-size:20px"> and <span style="color: #48b946;font-size:20px"><Burning></span><span style="color: black"><span style="color: #645252;font-size:20px">. When hit by a Crit Hit, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. CD is 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Black Dragon is immune to <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and <span style="color: #48b946;font-size:20px">&lt;Burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. When hit by a Crit Hit, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. CD is 6s.</span><span style="color: black">
 
 ### 3 Skill: Magic Immunity
- **Description:** <span style="color: #645252;font-size:20px">Immune to spell damage done by all heroes. Increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time <Dragon Breath> is cast throughout the entire battle, up to 4 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Immune to spell damage done by all heroes. Increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time &lt;Dragon Breath&gt; is cast throughout the entire battle, up to 4 stacks.</span><span style="color: black">
 
 ### 4 Skill: Heat Resistance
- **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px"><Burned></span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit's damage is increased by 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px">&lt;Burned&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit's damage is increased by 50%.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* unit Damage
+* unit DMG Reduction
 
-    - HP
-
-    - unit Damage
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Magnetic Scales
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Immunity></span><span style="color: #645252;font-size:18px">For each <Dragon Breath> cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
 
 ### 2nd Skill (or 1st): Molten Dragon Armor
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Immunity></span><span style="color: #645252;font-size:18px">For each <Dragon Breath> released, Black Dragon gets 2-stack buff, up to 4 stacks. The buff cannot be dispelled</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; released, Black Dragon gets 2-stack buff, up to 4 stacks. The buff cannot be dispelled</span>
 
 ### 3rd Skill (or 4th): Mantle-derived Nutrition
- **Description:** <span style="color: #48b946;font-size:18px"><Black Dragon Scale></span><span style="color: #645252;font-size:18px">Restores additional 2% HP when hit by a Crit Hit. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Restores additional 2% HP when hit by a Crit Hit. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
 
 ### 4th Skill (or 3rd): Volcanic Block
- **Description:** <span style="color: #48b946;font-size:18px"><Black Dragon Scale></span><span style="color: #645252;font-size:18px">Black Dragon's healing amount increased by 10%. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Black Dragon's healing amount increased by 10%. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Breath></span><span style="color: #645252;font-size:18px">The given damage dealt by <Dragon Breath> is increased to 200% of the previous skill's damage. When a hostile hero casts a spell, the Black Dragon uses <Dragon Breath> once (cannot trigger spell breaker skill effect because it's not a spell breaker skill). The skill CD is 15s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Breath&gt;</span><span style="color: #645252;font-size:18px">The given damage dealt by &lt;Dragon Breath&gt; is increased to 200% of the previous skill's damage. When a hostile hero casts a spell, the Black Dragon uses &lt;Dragon Breath&gt; once (cannot trigger spell breaker skill effect because it's not a spell breaker skill). The skill CD is 15s</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Breath></span><span style="color: #645252;font-size:18px">The percentage damage dealt by <Dragon Breath> is increased to 150% of the previous skill's damage. When a hostile hero casts a spell, the Black Dragon uses <Dragon Breath> once (cannot trigger spell breaker skill because it's not a spell breaker skill). The skill CD is 15s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Breath&gt;</span><span style="color: #645252;font-size:18px">The percentage damage dealt by &lt;Dragon Breath&gt; is increased to 150% of the previous skill's damage. When a hostile hero casts a spell, the Black Dragon uses &lt;Dragon Breath&gt; once (cannot trigger spell breaker skill because it's not a spell breaker skill). The skill CD is 15s</span>
 
 ## Technical info
  **runart:** 1

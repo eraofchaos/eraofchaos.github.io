@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Units Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Behemoth"
 toc: true
@@ -37,10 +37,10 @@ toc: true
 
 ## Skills
 ### 1 Skill: Wild Roar
- **Description:** <span style="color: #645252;font-size:20px">Behemoth deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Attack to surrounding enemy units within a large range, inflicting </span><span style="color: black"><span style="color: #48b946;font-size:20px"> <stun> </span><span style="color: black"><span style="color: #645252;font-size:20px"> on them for 6s, and reducing their attack by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">and damage reduction by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 20s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Behemoth deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Attack to surrounding enemy units within a large range, inflicting </span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;stun&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> on them for 6s, and reducing their attack by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">and damage reduction by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 20s.</span><span style="color: black">
 
 ### 2 Skill: Sharp-Claw Threshing
- **Description:** <span style="color: #645252;font-size:20px">Behemoth deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px">damage to its target every 20s, and makes them </span><span style="color: black"><span style="color: #48b946;font-size:20px"><bleed></span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Behemoth deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px">damage to its target every 20s, and makes them </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
 ### 3 Skill: Rampage
  **Description:** <span style="color: #645252;font-size:20px">Behemoth's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles when HP is below 35%. (It still works after HP is restored)</span><span style="color: black">
@@ -56,13 +56,11 @@ toc: true
 
 ## Talent
 
-    - Attack
+* Attack
+* HP
+* Defense
+* unit DMG Reduction
 
-    - HP
-
-    - Defense
-
-    - unit DMG Reduction
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +82,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ancient Roar
- **Description:**  <span style="color: #48b946;font-size:18px"><Wild Roar></span><span style="color: #645252;font-size:18px">After casting <Wild Roar>, all friendly Stronghold units' ATK and Magic resistance is increased by 30%, lasting for 10s</span>
+ **Description:**  <span style="color: #48b946;font-size:18px">&lt;Wild Roar&gt;</span><span style="color: #645252;font-size:18px">After casting &lt;Wild Roar&gt;, all friendly Stronghold units' ATK and Magic resistance is increased by 30%, lasting for 10s</span>
 
 ### 2nd Skill (or 1st): Violent Roar
- **Description:** <span style="color: #48b946;font-size:18px"><Wild Roar></span><span style="color: #645252;font-size:18px">Its stun range is expanded to all hostile melee units</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Wild Roar&gt;</span><span style="color: #645252;font-size:18px">Its stun range is expanded to all hostile melee units</span>
 
 ### 3rd Skill (or 4th): Rage of the Wilderness
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">effect increased by 50%. When Rampage is triggered, all friendly Stronghold man units' unit damage is increased by 10% for 20s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">effect increased by 50%. When Rampage is triggered, all friendly Stronghold man units' unit damage is increased by 10% for 20s</span>
 
 ### 4th Skill (or 3rd): Bloodlust Rampage
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">effect increased by 50%. When Rampage is triggered, all friendly Stronghold units' unit damage reduction is increased by 10% for 20s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">effect increased by 50%. When Rampage is triggered, all friendly Stronghold units' unit damage reduction is increased by 10% for 20s</span>
 
 ### 5th Skill (or 6th): Ancient Fury
- **Description:** <span style="color: #48b946;font-size:18px"><Infuriate></span><span style="color: #645252;font-size:18px">Healing effect increases by 50% and grants immunity to diseases</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infuriate&gt;</span><span style="color: #645252;font-size:18px">Healing effect increases by 50% and grants immunity to diseases</span>
 
 ### 6th Skill (or 5th): Unyielding Anger
- **Description:** <span style="color: #48b946;font-size:18px"><Infuriate></span><span style="color: #645252;font-size:18px">unit's damage reduction increased until the battle is over, up to 5 stacks</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infuriate&gt;</span><span style="color: #645252;font-size:18px">unit's damage reduction increased until the battle is over, up to 5 stacks</span>
 
 ## Technical info
  **runart:** 1
