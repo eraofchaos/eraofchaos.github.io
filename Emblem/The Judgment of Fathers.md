@@ -1,0 +1,25 @@
+---
+title: "Holy Emblem - The Judgment of Fathers"
+permalink: /Emblem/The Judgment of Fathers/
+excerpt: "Holy Emblem - Neutral - The Judgment of Fathers"
+last_modified_at: 2020-12-14
+lang: en
+ref: "The Judgment of Fathers.md"
+toc: true
+classes: wide
+---
+
+ **Name:** The Judgment of Fathers
+ **Type:** [Neutral](/Emblem/Type Neutral/)
+  [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
+
+  |  Nr  |             Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | Description |
+  |:-----|:----------------------------|:-------------------|:-----------------|----------------|-------------|
+  | 1 | The Judgment of Fathers{: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +20, HP +10%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 5%. When fighting against stunned targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +55, HP +20%</span> | When you have an Orange Holy Emblem, it's guaranteed to have 2 basic attributes and 3-4 additional attributes, which are generated randomly | 
+  | 2 | The Judgment of Fathers{: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +13, HP +5%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 3%. When fighting against stunned targets, unit's damage increases by additional 9%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +30, HP +15%</span> | When you have a Purple Holy Emblem, it's guaranteed to have 2 basic attributes and 2-3 additional attributes, which are generated randomly | 
+  | 3 | The Judgment of Fathers{: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +20, HP +10%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 5%. When fighting against stunned targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +55, HP +20%</span> | When you have an Orange Holy Emblem, it's guaranteed to have 2 basic attributes and 3-4 additional attributes, which are generated randomly | 
+  | 4 | The Judgment of Fathers{: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +20, HP +10%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 5%. When fighting against stunned targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +55, HP +20%</span> | When you have an Orange Holy Emblem, it's guaranteed to have 2 basic attributes and 3-4 additional attributes, which are generated randomly | 
+  | 5 | The Judgment of Fathers{: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +20, HP +10%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 5%. When fighting against stunned targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +55, HP +20%</span> | When you have an Orange Holy Emblem, it's guaranteed to have 2 basic attributes and 3-4 additional attributes, which are generated randomly | 
+  | 6 | The Judgment of Fathers{: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +2, HP +1%</span> | <span style="color: #645252;font-size:20px"><4> When fighting against stunned targets, unit's damage increases by 3%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +6, HP +2%</span> | When you get a Green Holy Emblem, it's guaranteed to have 2 basic attributes and 1 additional attribute, which are generated at random | 
+  | 7 | The Judgment of Fathers{: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +20, HP +10%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 5%. When fighting against stunned targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +55, HP +20%</span> | When you have an Orange Holy Emblem, it's guaranteed to have 2 basic attributes and 3-4 additional attributes, which are generated randomly | 
+  | 8 | The Judgment of Fathers{: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +6, HP +3%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 1.5%. When fighting against stunned targets, unit's damage increases by additional 4.5%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +16, HP +7%</span> | When you have a Blue Holy Emblem, it's guaranteed to have 2 basic attributes and 1-2 additional attribute(s), which are generated randomly | 

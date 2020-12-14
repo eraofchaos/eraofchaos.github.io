@@ -13,8 +13,8 @@ classes: wide
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Lust](/Emblem/Lust/) | Chaos | Recommended to inlay for Defensive units | 
-  | 2 | [Anger](/Emblem/Anger/) | Chaos | Suitable for any units | 
-  | 3 | [Greed](/Emblem/Greed/) | Chaos | Recommended to inlay for Defensive units | 
-  | 4 | [Jealousy](/Emblem/Jealousy/) | Chaos | Recommended to inlay for units with DPS | 
-  | 5 | [Arrogance](/Emblem/Arrogance/) | Chaos | Recommended to inlay for units with DPS | 
+  | 1 | [Anger](/Emblem/Anger/) | Chaos | Suitable for any units | 
+  | 2 | [Lust](/Emblem/Lust/) | Chaos | Recommended to inlay for Defensive units | 
+  | 3 | [Arrogance](/Emblem/Arrogance/) | Chaos | Recommended to inlay for units with DPS | 
+  | 4 | [Greed](/Emblem/Greed/) | Chaos | Recommended to inlay for Defensive units | 
+  | 5 | [Jealousy](/Emblem/Jealousy/) | Chaos | Recommended to inlay for units with DPS | 
