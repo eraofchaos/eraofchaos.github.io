@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: en
 ref: "Angel"
 toc: true
@@ -56,14 +56,10 @@ toc: true
 
 ## Talent
 
-    - Attack
-
-    - HP
-
-    - Attack Speed
-
-    - Unit Critical Hit
-
+* Attack
+* HP
+* Attack Speed
+* Unit Critical Hit
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
@@ -84,22 +80,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Trinity
- **Description:** <span style="color: #48b946;font-size:18px"><Condemnation></span><span style="color: #645252;font-size:18px">Causes a special increase of unit's damage reduction by 10% for 3 random friendly units, lasts throughout the battle</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Condemnation&gt;</span><span style="color: #645252;font-size:18px">Causes a special increase of unit's damage reduction by 10% for 3 random friendly units, lasts throughout the battle</span>
 
 ### 2nd Skill (or 1st): Come Again
- **Description:** <span style="color: #48b946;font-size:18px"><Condemnation></span><span style="color: #645252;font-size:18px">Restores HP equal to 15% of their Max HP for all friendly units  </span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Condemnation&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 15% of their Max HP for all friendly units  </span>
 
 ### 3rd Skill (or 4th): Salvation
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">Makes friendly units immune to all damage for 6s. Angel is immune to <silence></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Makes friendly units immune to all damage for 6s. Angel is immune to <silence></span>
 
 ### 4th Skill (or 3rd): Immersion
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">Restores Max HP by 10% for all friendly units. Angel is immune to <silence></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Restores Max HP by 10% for all friendly units. Angel is immune to <silence></span>
 
 ### 5th Skill (or 6th): Gospel Talk
- **Description:** <span style="color: #48b946;font-size:18px"><Radiance></span><span style="color: #645252;font-size:18px">Increases healing of all friendly units by 35% when Angel is on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Radiance&gt;</span><span style="color: #645252;font-size:18px">Increases healing of all friendly units by 35% when Angel is on the battlefield</span>
 
 ### 6th Skill (or 5th): Ordination
- **Description:** <span style="color: #48b946;font-size:18px"><Radiance></span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10% for all friendly units</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Radiance&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect. Increases unit's damage reduction by 10% for all friendly units</span>
 
 ## Technical info
  **runart:** 1
