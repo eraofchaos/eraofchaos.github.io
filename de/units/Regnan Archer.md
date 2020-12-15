@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /de/units/Regnan Archer/
 excerpt: "Einheiten Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Regnanbogensch."
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Kritischer Treffer und Durchdringung. Tödlicher Kämpfer.
+
+## Basic stats
  **Base HP:** 1245.0
 
  **Base ATK:** 235.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 117.75 | 5.0 | 933.75 |
+  | Blau | 235.5 | 10.0 | 1867.5 |
+  | Blau +1 | 353.25 | 15.0 | 2801.25 |
+  | Blau +2 | 494.55 | 21.0 | 3921.75 |
+  | Lila | 635.85 | 27.0 | 5042.25 |
+  | Lila +1 | 777.15 | 33.0 | 6162.75 |
+  | Lila +2 | 942.0 | 40.0 | 7470.0 |
+  | Lila +3 | 1106.85 | 47.0 | 8777.25 |
+  | Orange | 1271.7 | 54.0 | 10084.5 |
+  | Orange +1 | 1460.1 | 62.0 | 11578.5 |
+  | Orange +2 | 1648.5 | 70.0 | 13072.5 |
+  | Orange +3 | 1836.9 | 78.0 | 14566.5 |
+  | Orange +4 | 2025.3 | 86.0 | 16060.5 |
+  | Orange +5 | 2307.9 | 98.0 | 18301.5 |
+  | Rot | 2684.7 | 114.0 | 21289.5 |
 
- **Info1:** Kritischer Treffer und Durchdringung. Tödlicher Kämpfer.
-
- **Info2:** Kritischer Treffer und Durchdringung. Tödlicher Kämpfer.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 32.97 | 0.61 | 3.2 | 174.3 |
+  | **4x** <i class="fas fa-star"/> | 37.68 | 0.63 | 3.8 | 199.2 |
+  | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
+  | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
 ### 1 Skill: Tödlicher Pfeil
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Schaden (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details

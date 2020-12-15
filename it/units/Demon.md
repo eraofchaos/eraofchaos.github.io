@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /it/units/Demon/
 excerpt: "Unità I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Demone"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Attacco scottante: infligge danni devastanti alle unità nemiche.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Uno scudo umano, con Schivata elevata. Recupera PF con ogni schivata. Può essere migliorato dal Demone dell'abisso.
+
+## Basic stats
  **Base HP:** 2489.0
 
  **Base ATK:** 114.4
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 57.2 | 15.0 | 1866.75 |
+  | Blu | 114.4 | 30.0 | 3733.5 |
+  | Blu +1 | 171.6 | 45.0 | 5600.25 |
+  | Blu +2 | 240.24 | 63.0 | 7840.35 |
+  | Viola | 308.88 | 81.0 | 10080.45 |
+  | Viola +1 | 377.52 | 99.0 | 12320.55 |
+  | Viola +2 | 457.6 | 120.0 | 14934.0 |
+  | Viola +3 | 537.68 | 141.0 | 17547.45 |
+  | Arancione | 617.76 | 162.0 | 20160.9 |
+  | Arancione +1 | 709.28 | 186.0 | 23147.7 |
+  | Arancione +2 | 800.8 | 210.0 | 26134.5 |
+  | Arancione +3 | 892.32 | 234.0 | 29121.3 |
+  | Arancione +4 | 983.84 | 258.0 | 32108.1 |
+  | Arancione +5 | 1121.12 | 294.0 | 36588.3 |
+  | Rosso | 1304.16 | 342.0 | 42561.9 |
 
- **Info1:** Uno scudo umano, con Schivata elevata. Recupera PF con ogni schivata. Può essere migliorato dal Demone dell'abisso.
-
- **Info2:** Uno scudo umano, con Schivata elevata. Recupera PF con ogni schivata. Può essere migliorato dal Demone dell'abisso.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 13.728 | 0.34 | 6.8 | 298.68 |
+  | **3x** <i class="fas fa-star"/> | 16.016 | 0.35 | 7.6 | 348.46 |
+  | **4x** <i class="fas fa-star"/> | 18.304 | 0.37 | 8.4 | 398.24 |
+  | **5x** <i class="fas fa-star"/> | 20.592 | 0.38 | 9.2 | 448.02 |
+  | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
 ## Skills
 ### 1 Skill: Attacco scottante
@@ -49,20 +74,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Schivata del Demone aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Schivata del Demone aumenta di 40 per ogni unità Inferno schierata.</span><span style="color: black">
 
 ### 5 Skill: Attacco ustionante
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da <Combustione> godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Schivata unità
 
-    - PF
-
-    - Difesa
-
-    - Schivata unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

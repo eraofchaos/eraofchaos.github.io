@@ -3,7 +3,7 @@ title: "Teufel"
 permalink: /de/units/Devil/
 excerpt: "Einheiten Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
 unitID: 507
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Teufel"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Schmerzhafter Schnitter: Fügt Feinden katastrophalen Schaden zu und verursacht Betäubung.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Kann in jeder Position eingesetzt werden, bricht effektiv zu Einheiten in der hinteren Reihe durch, verfügt über Aura der LP-Reduzierung.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 396.0 | 4.75 | 4073.25 |
+  | Blau | 792.0 | 9.5 | 8146.5 |
+  | Blau +1 | 1188.0 | 14.25 | 12219.75 |
+  | Blau +2 | 1663.2 | 19.95 | 17107.65 |
+  | Lila | 2138.4 | 25.65 | 21995.55 |
+  | Lila +1 | 2613.6 | 31.35 | 26883.45 |
+  | Lila +2 | 3168.0 | 38.0 | 32586.0 |
+  | Lila +3 | 3722.4 | 44.65 | 38288.55 |
+  | Orange | 4276.8 | 51.3 | 43991.1 |
+  | Orange +1 | 4910.4 | 58.9 | 50508.3 |
+  | Orange +2 | 5544.0 | 66.5 | 57025.5 |
+  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Orange +4 | 6811.2 | 81.7 | 70059.9 |
+  | Orange +5 | 7761.6 | 93.1 | 79835.7 |
+  | Rot | 9028.8 | 108.3 | 92870.1 |
 
- **Info1:** Kann in jeder Position eingesetzt werden, bricht effektiv zu Einheiten in der hinteren Reihe durch, verfügt über Aura der LP-Reduzierung.
-
- **Info2:** Kann in jeder Position eingesetzt werden, bricht effektiv zu Einheiten in der hinteren Reihe durch, verfügt über Aura der LP-Reduzierung.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.57 | 3.09 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Schmerzhafter Schnitter
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Dunkle Autorität
- **Description:** <span style="color: #48b946;font-size:18px"><Schmerzhafter Schnitter></span><span style="color: #645252;font-size:18px">Der erste Schaden, den „Schmerzhafter Schnitter“ verursacht, wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht. Nach jedem Wirken wird 5 Sek. lang Unbesiegbarkeit gewährt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schmerzhafter Schnitter&gt;</span><span style="color: #645252;font-size:18px">Der erste Schaden, den „Schmerzhafter Schnitter“ verursacht, wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht. Nach jedem Wirken wird 5 Sek. lang Unbesiegbarkeit gewährt.</span>
 
 ### 2nd Skill (or 1st): Rächer
- **Description:** <span style="color: #48b946;font-size:18px"><Schmerzhafter Schnitter></span><span style="color: #645252;font-size:18px">Kritischer Schaden des Teufels wird um 100 % erhöht, wenn er Einheiten mit „Verbrennung“ angreift. Die Flammen des Abgrunds entfernen alle Buffs von Feinden in ihrem Wirkungsbereich.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schmerzhafter Schnitter&gt;</span><span style="color: #645252;font-size:18px">Kritischer Schaden des Teufels wird um 100 % erhöht, wenn er Einheiten mit „Verbrennung“ angreift. Die Flammen des Abgrunds entfernen alle Buffs von Feinden in ihrem Wirkungsbereich.</span>
 
 ### 3rd Skill (or 4th): Zeugnis der Gefallenen
- **Description:** <span style="color: #48b946;font-size:18px"><Grausame Folter></span><span style="color: #645252;font-size:18px">Erhöht den Fähigkeitenschaden auf 150 % des Grundschadens der Fähigkeit und reduziert 10 Sek. lang die ABW des Ziels um 50 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Grausame Folter&gt;</span><span style="color: #645252;font-size:18px">Erhöht den Fähigkeitenschaden auf 150 % des Grundschadens der Fähigkeit und reduziert 10 Sek. lang die ABW des Ziels um 50 %.</span>
 
 ### 4th Skill (or 3rd): Mal der Bestie
- **Description:** <span style="color: #48b946;font-size:18px"><Grausame Folter></span><span style="color: #645252;font-size:18px">Erhöht den Fähigkeitenschaden auf 150 % des Grundschadens der Fähigkeit. Kritischer Treffer aller verbündeten Inferno-Einheiten wird 10 Sek. lang um 1.000 erhöht, wenn diese Fähigkeit gewirkt wird.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Grausame Folter&gt;</span><span style="color: #645252;font-size:18px">Erhöht den Fähigkeitenschaden auf 150 % des Grundschadens der Fähigkeit. Kritischer Treffer aller verbündeten Inferno-Einheiten wird 10 Sek. lang um 1.000 erhöht, wenn diese Fähigkeit gewirkt wird.</span>
 
 ### 5th Skill (or 6th): Blasphemie
- **Description:** <span style="color: #48b946;font-size:18px"><Verdorren></span><span style="color: #645252;font-size:18px">Wenn der Teufel das Schlachtfeld betritt, wird die Heilung aller gegnerischen Einheiten um 35 % reduziert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verdorren&gt;</span><span style="color: #645252;font-size:18px">Wenn der Teufel das Schlachtfeld betritt, wird die Heilung aller gegnerischen Einheiten um 35 % reduziert.</span>
 
 ### 6th Skill (or 5th): Auslöschung
- **Description:** <span style="color: #48b946;font-size:18px"><Verdorren></span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des Schadens der vorherigen Fähigkeit erhöht. Reduziert die Schadensreduzierung aller gegnerischen Einheiten um 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verdorren&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des Schadens der vorherigen Fähigkeit erhöht. Reduziert die Schadensreduzierung aller gegnerischen Einheiten um 10 %.</span>
 
 ## Technical info
  **runart:** 1

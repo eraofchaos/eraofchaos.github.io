@@ -3,7 +3,7 @@ title: "Angelo"
 permalink: /it/units/Angel/
 excerpt: "Unità Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Angelo"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** Condanna: infligge danni ingenti e <stordisce> 3 unità.
 
+ **Recommend:** Porta le tue truppe ad avere il Morale alto per ottenere grandi benefici tattici per le unità, come mosse extra.
+
+ **Info:** Rianima le unità morte, ripristinandone i PF e infliggendo danni ingenti.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Porta le tue truppe ad avere il Morale alto per ottenere grandi benefici tattici per le unità, come mosse extra.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 396.0 | 4.75 | 4073.25 |
+  | Blu | 792.0 | 9.5 | 8146.5 |
+  | Blu +1 | 1188.0 | 14.25 | 12219.75 |
+  | Blu +2 | 1663.2 | 19.95 | 17107.65 |
+  | Viola | 2138.4 | 25.65 | 21995.55 |
+  | Viola +1 | 2613.6 | 31.35 | 26883.45 |
+  | Viola +2 | 3168.0 | 38.0 | 32586.0 |
+  | Viola +3 | 3722.4 | 44.65 | 38288.55 |
+  | Arancione | 4276.8 | 51.3 | 43991.1 |
+  | Arancione +1 | 4910.4 | 58.9 | 50508.3 |
+  | Arancione +2 | 5544.0 | 66.5 | 57025.5 |
+  | Arancione +3 | 6177.6 | 74.1 | 63542.7 |
+  | Arancione +4 | 6811.2 | 81.7 | 70059.9 |
+  | Arancione +5 | 7761.6 | 93.1 | 79835.7 |
+  | Rosso | 9028.8 | 108.3 | 92870.1 |
 
- **Info1:** Rianima le unità morte, ripristinandone i PF e infliggendo danni ingenti.
-
- **Info2:** Rianima le unità morte, ripristinandone i PF e infliggendo danni ingenti.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.57 | 3.09 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Condanna
- **Description:** <span style="color: #645252;font-size:20px">L'Angelo infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali e le </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordisce></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Angelo infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
 
 ### 2 Skill: Resurrezione
  **Description:** <span style="color: #645252;font-size:20px">L'Angelo rianima 1 delle tue unità, curando </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Colpo critico unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Colpo critico unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Trinità
- **Description:** <span style="color: #48b946;font-size:18px"><Condanna></span><span style="color: #645252;font-size:18px">: aumenta ulteriormente del 10% la Rid DAN di 3 unità alleate casuali fino al termine della battaglia</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Condanna&gt;</span><span style="color: #645252;font-size:18px">: aumenta ulteriormente del 10% la Rid DAN di 3 unità alleate casuali fino al termine della battaglia</span>
 
 ### 2nd Skill (or 1st): Ritorno
- **Description:** <span style="color: #48b946;font-size:18px"><Condanna></span><span style="color: #645252;font-size:18px">: ripristina il 15% dei PF massimi dell'unità con la percentuale di PF minore.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Condanna&gt;</span><span style="color: #645252;font-size:18px">: ripristina il 15% dei PF massimi dell'unità con la percentuale di PF minore.</span>
 
 ### 3rd Skill (or 4th): Salvezza
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrezione></span><span style="color: #645252;font-size:18px">: rende le unità alleate immuni a ogni danno per 6 secondi. L'Angelo è immune al <Silenzio>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: rende le unità alleate immuni a ogni danno per 6 secondi. L'Angelo è immune al &lt;Silenzio&gt;.</span>
 
 ### 4th Skill (or 3rd): Immersione
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrezione></span><span style="color: #645252;font-size:18px">: ripristina il 10% dei PF massimi di tutte le unità alleate. L'Angelo è immune al <Silenzio>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: ripristina il 10% dei PF massimi di tutte le unità alleate. L'Angelo è immune al &lt;Silenzio&gt;.</span>
 
 ### 5th Skill (or 6th): Vangelo
- **Description:** <span style="color: #48b946;font-size:18px"><Splendore></span><span style="color: #645252;font-size:18px">: se l'Angelo è sul campo di battaglia, aumenta del 35% la guarigione di tutte le unità alleate.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Splendore&gt;</span><span style="color: #645252;font-size:18px">: se l'Angelo è sul campo di battaglia, aumenta del 35% la guarigione di tutte le unità alleate.</span>
 
 ### 6th Skill (or 5th): Consacrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Splendore></span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta del 10% la Rid DAN di tutte le unità alleate.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Splendore&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta del 10% la Rid DAN di tutte le unità alleate.</span>
 
 ## Technical info
  **runart:** 1

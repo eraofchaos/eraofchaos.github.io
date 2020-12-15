@@ -3,7 +3,7 @@ title: "Pixie"
 permalink: /de/units/Sprite/
 excerpt: "Einheiten Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Pixie"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Explodiert beim Tod, lässt Ziel verstummen, erhöht Anfangsmana des Helden.
+
+## Basic stats
  **Base HP:** 993.0
 
  **Base ATK:** 69.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 34.75 | 3.75 | 744.75 |
+  | Blau | 69.5 | 7.5 | 1489.5 |
+  | Blau +1 | 104.25 | 11.25 | 2234.25 |
+  | Blau +2 | 145.95 | 15.75 | 3127.95 |
+  | Lila | 187.65 | 20.25 | 4021.65 |
+  | Lila +1 | 229.35 | 24.75 | 4915.35 |
+  | Lila +2 | 278.0 | 30.0 | 5958.0 |
+  | Lila +3 | 326.65 | 35.25 | 7000.65 |
+  | Orange | 375.3 | 40.5 | 8043.3 |
+  | Orange +1 | 430.9 | 46.5 | 9234.9 |
+  | Orange +2 | 486.5 | 52.5 | 10426.5 |
+  | Orange +3 | 542.1 | 58.5 | 11618.1 |
+  | Orange +4 | 597.7 | 64.5 | 12809.7 |
+  | Orange +5 | 681.1 | 73.5 | 14597.1 |
+  | Rot | 792.3 | 85.5 | 16980.3 |
 
- **Info1:** Explodiert beim Tod, lässt Ziel verstummen, erhöht Anfangsmana des Helden.
-
- **Info2:** Explodiert beim Tod, lässt Ziel verstummen, erhöht Anfangsmana des Helden.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 6.95 | 0.48 | 1.5 | 99.3 |
+  | **2x** <i class="fas fa-star"/> | 8.34 | 0.5 | 2.08 | 119.16 |
+  | **3x** <i class="fas fa-star"/> | 9.73 | 0.53 | 2.65 | 139.02 |
+  | **4x** <i class="fas fa-star"/> | 11.12 | 0.55 | 3.23 | 158.88 |
+  | **5x** <i class="fas fa-star"/> | 12.51 | 0.58 | 3.8 | 178.74 |
+  | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
 ### 1 Skill: Energiebruch
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Schaden (Einheit)
+* Magieresistenz
 
-    - LP
-
-    - Schaden (Einheit)
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 1

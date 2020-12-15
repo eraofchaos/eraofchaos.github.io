@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /de/units/Ice Demon/
 excerpt: "Einheiten  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
 unitID: 908
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: de
 ref: "Ice Demon"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5996.3
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 282.85 | 12.75 | 4497.225 |
+  | Blau | 565.7 | 25.5 | 8994.45 |
+  | Blau +1 | 848.55 | 38.25 | 13491.675 |
+  | Blau +2 | 1187.97 | 53.55 | 18888.345 |
+  | Lila | 1527.39 | 68.85 | 24285.015 |
+  | Lila +1 | 1866.81 | 84.15 | 29681.685 |
+  | Lila +2 | 2262.8 | 102.0 | 35977.8 |
+  | Lila +3 | 2658.79 | 119.85 | 42273.915 |
+  | Orange | 3054.78 | 137.7 | 48570.03 |
+  | Orange +1 | 3507.34 | 158.1 | 55765.59 |
+  | Orange +2 | 3959.9 | 178.5 | 62961.15 |
+  | Orange +3 | 4412.46 | 198.9 | 70156.71 |
+  | Orange +4 | 4865.02 | 219.3 | 77352.27 |
+  | Orange +5 | 5543.86 | 249.9 | 88145.61 |
+  | Rot | 6448.98 | 290.7 | 102536.73 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.5 | 6.61 | 839.482 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.52 | 7.37 | 959.408 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.54 | 8.12 | 1079.334 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.56 | 8.88 | 1199.26 |
 
 ## Skills
 ### 1 Skill:  Glacial Spur
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Schaden (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 0

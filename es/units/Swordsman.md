@@ -3,7 +3,7 @@ title: "Espadachín"
 permalink: /es/units/Swordsman/
 excerpt: "Unidades Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Espadachín"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Protección divina: reduce el daño recibido.
 
+ **Recommend:** Inflige daño adicional a los enemigos ralentizados.
+
+ **Info:** Inflige daño colosal al inicio de la partida. Tiene golpe doble y puede curarse a sí mismo.
+
+## Basic stats
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
 
- **Recommend:** Inflige daño adicional a los enemigos ralentizados.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 27.3 | 13.25 | 993.0 |
+  | Azul | 54.6 | 26.5 | 1986.0 |
+  | Azul +1 | 81.9 | 39.75 | 2979.0 |
+  | Azul +2 | 114.66 | 55.65 | 4170.6 |
+  | Violeta | 147.42 | 71.55 | 5362.2 |
+  | Violeta +1 | 180.18 | 87.45 | 6553.8 |
+  | Violeta +2 | 218.4 | 106.0 | 7944.0 |
+  | Violeta +3 | 256.62 | 124.55 | 9334.2 |
+  | Naranja | 294.84 | 143.1 | 10724.4 |
+  | Naranja +1 | 338.52 | 164.3 | 12313.2 |
+  | Naranja +2 | 382.2 | 185.5 | 13902.0 |
+  | Naranja +3 | 425.88 | 206.7 | 15490.8 |
+  | Naranja +4 | 469.56 | 227.9 | 17079.6 |
+  | Naranja +5 | 535.08 | 259.7 | 19462.8 |
+  | Rojo | 622.44 | 302.1 | 22640.4 |
 
- **Info1:** Inflige daño colosal al inicio de la partida. Tiene golpe doble y puede curarse a sí mismo.
-
- **Info2:** Inflige daño colosal al inicio de la partida. Tiene golpe doble y puede curarse a sí mismo.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 6.552 | 0.35 | 6.07 | 158.88 |
+  | **3x** <i class="fas fa-star"/> | 7.644 | 0.36 | 6.83 | 185.36 |
+  | **4x** <i class="fas fa-star"/> | 8.736 | 0.38 | 7.6 | 211.84 |
+  | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
+  | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** 
 
 ### 2 Skill: Inspiración
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Espadachines un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Moral alta></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Espadachines un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Golpe doble
- **Description:** <span style="color: #645252;font-size:20px">Los Espadachines tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar al objetivo dos veces cuando usan su ataque normal. El segundo ataque inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrentan a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Lentos»</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar <Golpe doble> aumenta al 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Los Espadachines tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar al objetivo dos veces cuando usan su ataque normal. El segundo ataque inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrentan a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Lentos»</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe doble&gt; aumenta al 100%.</span><span style="color: black">
 
 ### 4 Skill: Salvación
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de los Espadachines tienen una probabilidad alta de restablecer PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Defensa
+* Resistencia mágica
 
-    - PV
-
-    - Defensa
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Escudo antimagia
- **Description:** <span style="color: #48b946;font-size:18px"><Divine Protection></span><span style="color: #645252;font-size:18px">Otorga reducción de daño mágico</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px">Otorga reducción de daño mágico</span>
 
 ### 2nd Skill (or 1st): Protección sagrada
- **Description:** <span style="color: #48b946;font-size:18px"><Divine Protection></span><span style="color: #645252;font-size:18px">Duración de efecto aumentada en 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px">Duración de efecto aumentada en 10 s</span>
 
 ### 3rd Skill (or 4th): Inspiración del valiente
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Inmune a «Moral baja». El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Inmune a «Moral baja». El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 4th Skill (or 3rd): Elévame
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Al volverse inmune a «Moral baja» y recibir «Moral alta», aumenta la reducción de daño de las unidades para las unidades amistosas un 10% en una zona grande durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Al volverse inmune a «Moral baja» y recibir «Moral alta», aumenta la reducción de daño de las unidades para las unidades amistosas un 10% en una zona grande durante 10 s</span>
 
 ### 5th Skill (or 6th): Luz de salvación
- **Description:** <span style="color: #48b946;font-size:18px"><Salvation></span><span style="color: #645252;font-size:18px">Cantidad de regeneración de PV aumentada al 200% del efecto de la regeneración básica de la habilidad</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">Cantidad de regeneración de PV aumentada al 200% del efecto de la regeneración básica de la habilidad</span>
 
 ### 6th Skill (or 5th): Un corazón poderoso
- **Description:** <span style="color: #48b946;font-size:18px"><Salvation></span><span style="color: #645252;font-size:18px">El Espadachín es inmune a <silence>, <stun> y <petrification></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">El Espadachín es inmune a &lt;silence&gt;, &lt;stun&gt; y &lt;petrification&gt;</span>
 
 ## Technical info
  **runart:** 1

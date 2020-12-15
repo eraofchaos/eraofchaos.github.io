@@ -3,7 +3,7 @@ title: "Наездник на волке"
 permalink: /ru/units/Wolf Rider/
 excerpt: "Отряды Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов."
 unitID: 402
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Наездник на волке"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+
+ **Info:** Вызывает ручного зверя. Чем ниже здоровье, тем выше показатель атаки.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
 
- **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 36.4 | 5.5 | 645.0 |
+  | Синий | 72.8 | 11.0 | 1290.0 |
+  | Blue +1 | 109.2 | 16.5 | 1935.0 |
+  | Синий +2 | 152.88 | 23.1 | 2709.0 |
+  | Фиолетовый | 196.56 | 29.7 | 3483.0 |
+  | Фиолетовый +1 | 240.24 | 36.3 | 4257.0 |
+  | Фиолетовый +2 | 291.2 | 44.0 | 5160.0 |
+  | Фиолетовый +3 | 342.16 | 51.7 | 6063.0 |
+  | Оранжевый | 393.12 | 59.4 | 6966.0 |
+  | Оранжевый +1 | 451.36 | 68.2 | 7998.0 |
+  | Оранжевый +2 | 509.6 | 77.0 | 9030.0 |
+  | Orange +3 | 567.84 | 85.8 | 10062.0 |
+  | Оранжевый +4 | 626.08 | 94.6 | 11094.0 |
+  | Orange +5 | 713.44 | 107.8 | 12642.0 |
+  | Red | 829.92 | 125.4 | 14706.0 |
 
- **Info1:** Вызывает ручного зверя. Чем ниже здоровье, тем выше показатель атаки.
-
- **Info2:** Вызывает ручного зверя. Чем ниже здоровье, тем выше показатель атаки.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.28 | 0.48 | 2.2 | 86.0 |
+  | **2x** <i class="fas fa-star"/> | 8.736 | 0.5 | 2.81 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.192 | 0.53 | 3.42 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.648 | 0.55 | 4.03 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
 ### 1 Skill: Ручной зверь
  **Description:** <span style="color: #645252;font-size:20px">После своей смерти наездник на волке вызывает 1 варга. У варгов </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
 ### 2 Skill: Двойной удар
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у наездников на волке есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать 2 раза подряд. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать <Двойной удар> возрастает до 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у наездников на волке есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать 2 раза подряд. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### 3 Skill: Буйство
  **Description:** <span style="color: #645252;font-size:20px">Наездники на волке получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при менее 35% ОЗ и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* unit Damage
+* Magic resistance
 
-    - ОЗ
-
-    - ERROR!
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,19 +108,19 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Наследство зверя
- **Description:** <span style="color: #48b946;font-size:18px"><Ручной зверь></span><span style="color: #645252;font-size:18px">: повышает критический удар призванных варгов на 400. Наездник на волке призывает еще одного варга в случае уничтожения его цели</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ручной зверь&gt;</span><span style="color: #645252;font-size:18px">: повышает критический удар призванных варгов на 400. Наездник на волке призывает еще одного варга в случае уничтожения его цели</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px"><Ручной зверь></span><span style="color: #645252;font-size:18px">: призывает варга, который увеличивает урон отряда на 10%. В начале боя призывается 9 варгов</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ручной зверь&gt;</span><span style="color: #645252;font-size:18px">: призывает варга, который увеличивает урон отряда на 10%. В начале боя призывается 9 варгов</span>
 
 ### 3rd Skill (or 4th): Энтузиазм
- **Description:** <span style="color: #48b946;font-size:18px"><Буйство></span><span style="color: #645252;font-size:18px">: скорость атаки наездника на волке повышается на 30% на 20 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки наездника на волке повышается на 30% на 20 сек.</span>
 
 ### 4th Skill (or 3rd): Буйство жажды крови
- **Description:** <span style="color: #48b946;font-size:18px"><Буйство></span><span style="color: #645252;font-size:18px">: критический удар наездника на волке повышается на 400 (действует при восстановленных ОЗ)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: критический удар наездника на волке повышается на 400 (действует при восстановленных ОЗ)</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Жажда крови></span><span style="color: #645252;font-size:18px">: при критическом ударе восстановление ОЗ повышается на 5%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: при критическом ударе восстановление ОЗ повышается на 5%</span>
 
 ### 6th Skill (or 5th): Увеличение разрыва
  **Description:** 

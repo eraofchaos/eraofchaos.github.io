@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /it/units/Waspwort/
 excerpt: "Unità Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Erbavespa"
 toc: true
@@ -28,44 +28,66 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Unità DPS in grado di controllare i nemici. Evoca unità per fare strage di avversari.
+
+## Basic stats
  **Base HP:** 5543.0
 
  **Base ATK:** 950.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 475.15 | 9.5 | 4157.25 |
+  | Blu | 950.3 | 19.0 | 8314.5 |
+  | Blu +1 | 1425.45 | 28.5 | 12471.75 |
+  | Blu +2 | 1995.63 | 39.9 | 17460.45 |
+  | Viola | 2565.81 | 51.3 | 22449.15 |
+  | Viola +1 | 3135.99 | 62.7 | 27437.85 |
+  | Viola +2 | 3801.2 | 76.0 | 33258.0 |
+  | Viola +3 | 4466.41 | 89.3 | 39078.15 |
+  | Arancione | 5131.62 | 102.6 | 44898.3 |
+  | Arancione +1 | 5891.86 | 117.8 | 51549.9 |
+  | Arancione +2 | 6652.1 | 133.0 | 58201.5 |
+  | Arancione +3 | 7412.34 | 148.2 | 64853.1 |
+  | Arancione +4 | 8172.58 | 163.4 | 71504.7 |
+  | Arancione +5 | 9312.94 | 186.2 | 81482.1 |
+  | Rosso | 10833.42 | 216.6 | 94785.3 |
 
- **Info1:** Unità DPS in grado di controllare i nemici. Evoca unità per fare strage di avversari.
-
- **Info2:** Unità DPS in grado di controllare i nemici. Evoca unità per fare strage di avversari.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 133.042 | 0.55 | 5.18 | 776.02 |
+  | **4x** <i class="fas fa-star"/> | 152.048 | 0.58 | 5.87 | 886.88 |
+  | **5x** <i class="fas fa-star"/> | 171.054 | 0.6 | 6.56 | 997.74 |
+  | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
 ## Skills
 ### 1 Skill: Pungiglione pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">L'Erbavespa emette una scarica di pungiglioni velenosi ogni 12 secondi, che infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN al bersaglio e causano </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Pestilenza></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. I colpi critici inflitti con attacchi base aumentano la Vel ATT dell'Erbavespa del 5% per 10 secondi. Cumulabile fino a 20 volte.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Erbavespa emette una scarica di pungiglioni velenosi ogni 12 secondi, che infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN al bersaglio e causano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. I colpi critici inflitti con attacchi base aumentano la Vel ATT dell'Erbavespa del 5% per 10 secondi. Cumulabile fino a 20 volte.</span><span style="color: black">
 
 ### 2 Skill: Vespa pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Erbavespa ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di evocare 1 Vespa pestilenziale. Ogni evocazione fornisce un bonus del 2% al DAN di tutte le unità Fortezza alleate. Cumulabile fino a 8 volte. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quando attacca, l'Erbavespa ha una probabilità del 20% di evocare un'</span><span style="color: black"><span style="color: #48b946;font-size:20px"><Ape pestilenziale></span><span style="color: black"><span style="color: #645252;font-size:20px"> e una probabilità del 30% di rimuovere i buff del bersaglio. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black">[]L'</span><span style="color: black"><span style="color: #48b946;font-size:20px"><Ape pestilenziale></span><span style="color: black"><span style="color: #645252;font-size:20px"> infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Paralisi></span><span style="color: black"><span style="color: #645252;font-size:20px"> o </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> al bersaglio. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Le Vespe durano 40 secondi. Quando una Vespa muore, infligge danni pari al 4% dei PF massimi alle unità nemiche nell'area.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Erbavespa ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di evocare 1 Vespa pestilenziale. Ogni evocazione fornisce un bonus del 2% al DAN di tutte le unità Fortezza alleate. Cumulabile fino a 8 volte. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quando attacca, l'Erbavespa ha una probabilità del 20% di evocare un'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ape pestilenziale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e una probabilità del 30% di rimuovere i buff del bersaglio. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black">[]L'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ape pestilenziale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Paralisi&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> o </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al bersaglio. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Le Vespe durano 40 secondi. Quando una Vespa muore, infligge danni pari al 4% dei PF massimi alle unità nemiche nell'area.</span><span style="color: black">
 
 ### 3 Skill: Pestilenza aggravata
  **Description:** <span style="color: #645252;font-size:20px">CRIT dell'Erbavespa aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più 75 per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### 4 Skill: Incubatrice dello sciame
- **Description:** <span style="color: #645252;font-size:20px">L'Erbavespa è circondata da vespe che aumentano i suoi danni (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gli sciami di vespe infliggono danni pari al 0,2% dei PF massimi alle unità nemiche nell'area ogni 0,1 secondi e le </span><span style="color: black"><span style="color: #48b946;font-size:20px"><paralizzano></span><span style="color: black"><span style="color: #645252;font-size:20px">. Infliggendo danni, c'è una probabilità del 5% di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordire></span><span style="color: black"><span style="color: #645252;font-size:20px"> i nemici per 1 secondo. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gli sciami di vespe aumentano la riduzione del danno delle unità Fortezza amiche (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il loro assorbimento (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Erbavespa è circondata da vespe che aumentano i suoi danni (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gli sciami di vespe infliggono danni pari al 0,2% dei PF massimi alle unità nemiche nell'area ogni 0,1 secondi e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paralizzano&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Infliggendo danni, c'è una probabilità del 5% di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i nemici per 1 secondo. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gli sciami di vespe aumentano la riduzione del danno delle unità Fortezza amiche (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il loro assorbimento (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) </span><span style="color: black">
 
 ### 5 Skill: Attacco pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere <Pestilenza> e, quando affrontano unità affette da <Pestilenza>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Danno unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -87,22 +109,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 0

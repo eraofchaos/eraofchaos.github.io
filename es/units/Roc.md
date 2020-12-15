@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /es/units/Roc/
 excerpt: "Unidades El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Roc"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Trueno: inflige un daño catastrófico a las tropas enemigas a su paso.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Inflige mucho daño mágico para golpear a varios objetivos de forma efectiva.
+
+## Basic stats
  **Base HP:** 4978.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 396.0 | 3.0 | 3733.5 |
+  | Azul | 792.0 | 6.0 | 7467.0 |
+  | Azul +1 | 1188.0 | 9.0 | 11200.5 |
+  | Azul +2 | 1663.2 | 12.6 | 15680.7 |
+  | Violeta | 2138.4 | 16.2 | 20160.9 |
+  | Violeta +1 | 2613.6 | 19.8 | 24641.1 |
+  | Violeta +2 | 3168.0 | 24.0 | 29868.0 |
+  | Violeta +3 | 3722.4 | 28.2 | 35094.9 |
+  | Naranja | 4276.8 | 32.4 | 40321.8 |
+  | Naranja +1 | 4910.4 | 37.2 | 46295.4 |
+  | Naranja +2 | 5544.0 | 42.0 | 52269.0 |
+  | Naranja +3 | 6177.6 | 46.8 | 58242.6 |
+  | Naranja +4 | 6811.2 | 51.6 | 64216.2 |
+  | Naranja +5 | 7761.6 | 58.8 | 73176.6 |
+  | Rojo | 9028.8 | 68.4 | 85123.8 |
 
- **Info1:** Inflige mucho daño mágico para golpear a varios objetivos de forma efectiva.
-
- **Info2:** Inflige mucho daño mágico para golpear a varios objetivos de forma efectiva.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 95.04 | 0.47 | 1.76 | 597.36 |
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.5 | 2.32 | 696.92 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.52 | 2.88 | 796.48 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
 ## Skills
 ### 1 Skill: Trueno
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Golpe crítico de la unidad
+* Daño de la unidad
 
-    - PV
-
-    - Golpe crítico de la unidad
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Tempestad
- **Description:** <span style="color: #48b946;font-size:18px"><Trueno></span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Trueno&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior.</span>
 
 ### 2nd Skill (or 1st): Electrocución
- **Description:** <span style="color: #48b946;font-size:18px"><Trueno> </span><span style="color: #645252;font-size:18px">La precisión se reduce en 2000</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Trueno&gt; </span><span style="color: #645252;font-size:18px">La precisión se reduce en 2000</span>
 
 ### 3rd Skill (or 4th): Instinto cazador
- **Description:** <span style="color: #48b946;font-size:18px"><Destrozo></span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad Roc un 10% (se duplica con Destrozo activado).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad Roc un 10% (se duplica con Destrozo activado).</span>
 
 ### 4th Skill (or 3rd): Rapidez de la naturaleza
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">Aumenta el daño crítico de la unidad Roc un 15% (se duplica con Destrozo activado)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño crítico de la unidad Roc un 15% (se duplica con Destrozo activado)</span>
 
 ### 5th Skill (or 6th): Implosión
- **Description:** <span style="color: #48b946;font-size:18px"><Barrera de huracán></span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 8% de los PV máximos a 1 unidad enemiga aleatoria.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Barrera de huracán&gt;</span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 8% de los PV máximos a 1 unidad enemiga aleatoria.</span>
 
 ### 6th Skill (or 5th): Conmoción eléctrica
- **Description:** <span style="color: #48b946;font-size:18px"><Barrera de huracán></span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 15% de los PV máximos a 1 miembro de una unidad enemiga aleatoria.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Barrera de huracán&gt;</span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 15% de los PV máximos a 1 miembro de una unidad enemiga aleatoria.</span>
 
 ## Technical info
  **runart:** 0

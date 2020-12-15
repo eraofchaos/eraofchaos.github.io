@@ -3,7 +3,7 @@ title: "Drago nero"
 permalink: /it/units/Black Dragon/
 excerpt: "Unità Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Drago nero"
 toc: true
@@ -25,28 +25,52 @@ toc: true
 
  **Unit description:** Soffio del drago: attacca i nemici, causando <Combustione> in un'ampia area.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Siede all'apice della gerarchia delle unità. Gli incantesimi non possono danneggiarlo.
+
+## Basic stats
  **Base HP:** 8712.0
 
  **Base ATK:** 430.0
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 215.0 | 14.5 | 6534.0 |
+  | Blu | 430.0 | 29.0 | 13068.0 |
+  | Blu +1 | 645.0 | 43.5 | 19602.0 |
+  | Blu +2 | 903.0 | 60.9 | 27442.8 |
+  | Viola | 1161.0 | 78.3 | 35283.6 |
+  | Viola +1 | 1419.0 | 95.7 | 43124.4 |
+  | Viola +2 | 1720.0 | 116.0 | 52272.0 |
+  | Viola +3 | 2021.0 | 136.3 | 61419.6 |
+  | Arancione | 2322.0 | 156.6 | 70567.2 |
+  | Arancione +1 | 2666.0 | 179.8 | 81021.6 |
+  | Arancione +2 | 3010.0 | 203.0 | 91476.0 |
+  | Arancione +3 | 3354.0 | 226.2 | 101930.4 |
+  | Arancione +4 | 3698.0 | 249.4 | 112384.8 |
+  | Arancione +5 | 4214.0 | 284.2 | 128066.4 |
+  | Rosso | 4902.0 | 330.6 | 148975.2 |
 
- **Info1:** Siede all'apice della gerarchia delle unità. Gli incantesimi non possono danneggiarlo.
-
- **Info2:** Siede all'apice della gerarchia delle unità. Gli incantesimi non possono danneggiarlo.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 60.2 | 0.41 | 7.38 | 1219.68 |
+  | **4x** <i class="fas fa-star"/> | 68.8 | 0.43 | 8.17 | 1393.92 |
+  | **5x** <i class="fas fa-star"/> | 77.4 | 0.44 | 8.96 | 1568.16 |
+  | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
 ## Skills
 ### 1 Skill: Soffio del drago
- **Description:** <span style="color: #645252;font-size:20px">Il Drago nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 15 secondi a tutte le unità ostili in un'ampia area, provocando danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi alle unità circostanti e infliggendo loro <span style="color: #48b946;font-size:20px"><Combustione></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Drago nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 15 secondi a tutte le unità ostili in un'ampia area, provocando danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi alle unità circostanti e infliggendo loro <span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### 2 Skill: Squama di Drago nero
- **Description:** <span style="color: #645252;font-size:20px">Il Drago nero è immune a <span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> e <span style="color: #48b946;font-size:20px"><Combustione></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando subisce un colpo critico, recupera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi. Recupero: 6 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Drago nero è immune a <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e <span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando subisce un colpo critico, recupera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi. Recupero: 6 secondi.</span><span style="color: black">
 
 ### 3 Skill: Immunità alla magia
- **Description:** <span style="color: #645252;font-size:20px">Immune al danno magico degli eroi. Ogni volta che lancia <Soffio del drago>, aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia. Cumulabile fino a 4 volte.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Immune al danno magico degli eroi. Ogni volta che lancia &lt;Soffio del drago&gt;, aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia. Cumulabile fino a 4 volte.</span><span style="color: black">
 
 ### 4 Skill: Resistenza al calore
- **Description:** <span style="color: #645252;font-size:20px">Il Drago nero gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Rid DAN ulteriormente raddoppiata quando affronta unità affette da <span style="color: #48b946;font-size:20px"><Combustione></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando il Drago nero affronta unità Torre, il suo danno aumenta del 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Drago nero gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Rid DAN ulteriormente raddoppiata quando affronta unità affette da <span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando il Drago nero affronta unità Torre, il suo danno aumenta del 50%.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Danno unità
+* Riduzione danno unità
 
-    - PF
-
-    - Danno unità
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Squame magnetiche
- **Description:** <span style="color: #48b946;font-size:18px"><Immunità alla magia></span><span style="color: #645252;font-size:18px">: ogni <Soffio del Drago> fornisce 1 buff al Drago nero, fino a un massimo di 6 cariche. Questi buff non possono essere rimossi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunità alla magia&gt;</span><span style="color: #645252;font-size:18px">: ogni &lt;Soffio del Drago&gt; fornisce 1 buff al Drago nero, fino a un massimo di 6 cariche. Questi buff non possono essere rimossi.</span>
 
 ### 2nd Skill (or 1st): Armatura di magma incandescente
- **Description:** <span style="color: #48b946;font-size:18px"><Immunità alla magia></span><span style="color: #645252;font-size:18px">: ogni <Soffio del Drago> fornisce 2 buff al Drago nero, fino a un massimo di 4 cariche. Questi buff non possono essere rimossi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunità alla magia&gt;</span><span style="color: #645252;font-size:18px">: ogni &lt;Soffio del Drago&gt; fornisce 2 buff al Drago nero, fino a un massimo di 4 cariche. Questi buff non possono essere rimossi.</span>
 
 ### 3rd Skill (or 4th): Divoratore di magma
- **Description:** <span style="color: #48b946;font-size:18px"><Squama di Drago nero></span><span style="color: #645252;font-size:18px">: recupera il 2% di PF quando subisce un colpo critico. Il Drago nero non può subire danni singoli superiori al 10% dei propri PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Squama di Drago nero&gt;</span><span style="color: #645252;font-size:18px">: recupera il 2% di PF quando subisce un colpo critico. Il Drago nero non può subire danni singoli superiori al 10% dei propri PF massimi.</span>
 
 ### 4th Skill (or 3rd): Blocco vulcanico
- **Description:** <span style="color: #48b946;font-size:18px"><Squama di Drago nero></span><span style="color: #645252;font-size:18px">: guarigione del Drago nero aumentata del 10%. Il Drago nero non può subire danni singoli superiori al 10% dei propri PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Squama di Drago nero&gt;</span><span style="color: #645252;font-size:18px">: guarigione del Drago nero aumentata del 10%. Il Drago nero non può subire danni singoli superiori al 10% dei propri PF massimi.</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Soffio del Drago></span><span style="color: #645252;font-size:18px">: il danno inflitto da <Soffio del Drago> aumenta al 200% del valore della tecnica originale. Quando un eroe nemico lancia un incantesimo, il Drago nero usa <Soffio del Drago> 1 volta (non attiva Spezzaincantesimi perché non fa parte di quella categoria di tecniche). Recupero: 15 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Soffio del Drago&gt;</span><span style="color: #645252;font-size:18px">: il danno inflitto da &lt;Soffio del Drago&gt; aumenta al 200% del valore della tecnica originale. Quando un eroe nemico lancia un incantesimo, il Drago nero usa &lt;Soffio del Drago&gt; 1 volta (non attiva Spezzaincantesimi perché non fa parte di quella categoria di tecniche). Recupero: 15 secondi.</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Soffio del Drago></span><span style="color: #645252;font-size:18px">: il danno percentuale inflitto da <Soffio del Drago> aumenta al 150% del valore della tecnica originale. Quando un eroe nemico lancia un incantesimo, il Drago nero usa <Soffio del Drago> 1 volta (non attiva Spezzaincantesimi perché non fa parte di quella categoria di tecniche). Recupero: 15 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Soffio del Drago&gt;</span><span style="color: #645252;font-size:18px">: il danno percentuale inflitto da &lt;Soffio del Drago&gt; aumenta al 150% del valore della tecnica originale. Quando un eroe nemico lancia un incantesimo, il Drago nero usa &lt;Soffio del Drago&gt; 1 volta (non attiva Spezzaincantesimi perché non fa parte di quella categoria di tecniche). Recupero: 15 secondi.</span>
 
 ## Technical info
  **runart:** 1

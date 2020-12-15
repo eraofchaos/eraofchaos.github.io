@@ -3,7 +3,7 @@ title: "Hidra"
 permalink: /es/units/Hydra/
 excerpt: "Unidades Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Hidra"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Unidad DPS de primera categoría. Destruye enemigos con ataques ininterrumpidos.
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 769.3
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 384.65 | 6.5 | 4327.5 |
+  | Azul | 769.3 | 13.0 | 8655.0 |
+  | Azul +1 | 1153.95 | 19.5 | 12982.5 |
+  | Azul +2 | 1615.53 | 27.3 | 18175.5 |
+  | Violeta | 2077.11 | 35.1 | 23368.5 |
+  | Violeta +1 | 2538.69 | 42.9 | 28561.5 |
+  | Violeta +2 | 3077.2 | 52.0 | 34620.0 |
+  | Violeta +3 | 3615.71 | 61.1 | 40678.5 |
+  | Naranja | 4154.22 | 70.2 | 46737.0 |
+  | Naranja +1 | 4769.66 | 80.6 | 53661.0 |
+  | Naranja +2 | 5385.1 | 91.0 | 60585.0 |
+  | Naranja +3 | 6000.54 | 101.4 | 67509.0 |
+  | Naranja +4 | 6615.98 | 111.8 | 74433.0 |
+  | Naranja +5 | 7539.14 | 127.4 | 84819.0 |
+  | Rojo | 8770.02 | 148.2 | 98667.0 |
 
- **Info1:** Unidad DPS de primera categoría. Destruye enemigos con ataques ininterrumpidos.
-
- **Info2:** Unidad DPS de primera categoría. Destruye enemigos con ataques ininterrumpidos.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 107.702 | 0.53 | 3.86 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 4.49 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
 ## Skills
 ### 1 Skill: Niebla caótica
@@ -49,20 +73,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Si el ataque previo se esquiva, la Hidra ataca una vez más e inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño. Cuando se activa Mordisco cazador, la Hidra tiene asegurado impactar con un golpe crítico antes de que pasen 3 s.</span><span style="color: black">
 
 ### 5 Skill: Golpe de la plaga
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con <plaga></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
 ### 6 Skill: Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Daño de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">Aplica <deterrence> al objetivo al enfrentarse a unidades de 1 o 4 miembros. <Deterrence>: Reduce el golpe crítico del objetivo en 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px"><Matanza de Dragones></span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 1

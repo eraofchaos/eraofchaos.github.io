@@ -3,7 +3,7 @@ title: "Magisches Luftschiff"
 permalink: /de/units/Magic Airship/
 excerpt: "Einheiten Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Magisches Luftschiff"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Magierunterstützung. Erhöht Angriffstempo von Zauberer-Einheiten und lässt gegnerische Angreifer erstarren.
+
+## Basic stats
  **Base HP:** 1715.0
 
  **Base ATK:** 208.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 104.25 | 3.75 | 1286.25 |
+  | Blau | 208.5 | 7.5 | 2572.5 |
+  | Blau +1 | 312.75 | 11.25 | 3858.75 |
+  | Blau +2 | 437.85 | 15.75 | 5402.25 |
+  | Lila | 562.95 | 20.25 | 6945.75 |
+  | Lila +1 | 688.05 | 24.75 | 8489.25 |
+  | Lila +2 | 834.0 | 30.0 | 10290.0 |
+  | Lila +3 | 979.95 | 35.25 | 12090.75 |
+  | Orange | 1125.9 | 40.5 | 13891.5 |
+  | Orange +1 | 1292.7 | 46.5 | 15949.5 |
+  | Orange +2 | 1459.5 | 52.5 | 18007.5 |
+  | Orange +3 | 1626.3 | 58.5 | 20065.5 |
+  | Orange +4 | 1793.1 | 64.5 | 22123.5 |
+  | Orange +5 | 2043.3 | 73.5 | 25210.5 |
+  | Rot | 2376.9 | 85.5 | 29326.5 |
 
- **Info1:** Magierunterstützung. Erhöht Angriffstempo von Zauberer-Einheiten und lässt gegnerische Angreifer erstarren.
-
- **Info2:** Magierunterstützung. Erhöht Angriffstempo von Zauberer-Einheiten und lässt gegnerische Angreifer erstarren.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 29.19 | 0.46 | 2.65 | 240.1 |
+  | **4x** <i class="fas fa-star"/> | 33.36 | 0.48 | 3.23 | 274.4 |
+  | **5x** <i class="fas fa-star"/> | 37.53 | 0.5 | 3.8 | 308.7 |
+  | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
 ## Skills
 ### 1 Skill: Unterstützende Energie
@@ -43,7 +67,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff hat eine Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, dem gegnerischen Ziel und benachbarten gegnerischen Einheiten 2 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Erstarren“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zuzufügen.</span><span style="color: black">
 
 ### 3 Skill: Zauberfeld
- **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Magischen Luftschiffs steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn <Magisches Erwachen> eingesetzt wird, verlieren gegnerische Helden 2 Mana, während verbündete Helden 3 Mana regenerieren.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Magischen Luftschiffs steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn &lt;Magisches Erwachen&gt; eingesetzt wird, verlieren gegnerische Helden 2 Mana, während verbündete Helden 3 Mana regenerieren.</span><span style="color: black">
 
 ### 4 Skill: Magisches Erwachen
  **Description:** <span style="color: #645252;font-size:20px">Wenn das Magische Luftschiff durch einen Zauber eines verbündeten Helden verbessert wird, erhöht es 15 Sek. lang das ANG-Tempo aller Zauberer-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Das ANG-Tempo aller Zauberer-Einheiten wird für den Rest der Schlacht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht, bis 4 Stapel.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Magieresistenz
 
-    - LP
-
-    - Angriffstempo
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 0

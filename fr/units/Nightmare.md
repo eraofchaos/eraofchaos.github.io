@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /fr/units/Nightmare/
 excerpt: "Unités Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Cauchemar"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Soutient les unités de défense. Améliore la puissance des unités de l'Hadès.
+
+## Basic stats
  **Base HP:** 2691.0
 
  **Base ATK:** 84.1
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 42.05 | 12.5 | 2018.25 |
+  | Bleu | 84.1 | 25.0 | 4036.5 |
+  | Bleu +1 | 126.15 | 37.5 | 6054.75 |
+  | Bleu +2 | 176.61 | 52.5 | 8476.65 |
+  | Violet | 227.07 | 67.5 | 10898.55 |
+  | Violet +1 | 277.53 | 82.5 | 13320.45 |
+  | Violet +2 | 336.4 | 100.0 | 16146.0 |
+  | Violet +3 | 395.27 | 117.5 | 18971.55 |
+  | Orange | 454.14 | 135.0 | 21797.1 |
+  | Orange +1 | 521.42 | 155.0 | 25026.3 |
+  | Orange +2 | 588.7 | 175.0 | 28255.5 |
+  | Orange +3 | 655.98 | 195.0 | 31484.7 |
+  | Orange +4 | 723.26 | 215.0 | 34713.9 |
+  | Orange +5 | 824.18 | 245.0 | 39557.7 |
+  | Rouge | 958.74 | 285.0 | 46016.1 |
 
- **Info1:** Soutient les unités de défense. Améliore la puissance des unités de l'Hadès.
-
- **Info2:** Soutient les unités de défense. Améliore la puissance des unités de l'Hadès.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 11.774 | 0.55 | 6.5 | 376.74 |
+  | **4x** <i class="fas fa-star"/> | 13.456 | 0.58 | 7.25 | 430.56 |
+  | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
+  | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
 ## Skills
 ### 1 Skill: En plein cauchemar
@@ -49,20 +73,18 @@ toc: true
  **Description:** 
 
 ### 5 Skill: Frappe brûlante
- **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de <Brûlure>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
 ### 6 Skill: Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Défense
+* réduction des dégâts d'unité
 
-    - PV
-
-    - Défense
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details

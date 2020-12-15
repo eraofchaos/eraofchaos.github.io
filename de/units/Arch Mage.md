@@ -3,7 +3,7 @@ title: "Erzmagier"
 permalink: /de/units/Arch Mage/
 excerpt: "Einheiten Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Erzmagier"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Zauberdurchdringung: Der Schaden gegen Einzelziele steigt mit der Zeit.
 
+ **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+
+ **Info:** Massenkontrolle über hintere Reihe des Gegners, verbessert deine Heldenzauber und reduziert die gegnerische MP-Regeneration.
+
+## Basic stats
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
 
- **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 58.0 | 4.25 | 496.5 |
+  | Blau | 116.0 | 8.5 | 993.0 |
+  | Blau +1 | 174.0 | 12.75 | 1489.5 |
+  | Blau +2 | 243.6 | 17.85 | 2085.3 |
+  | Lila | 313.2 | 22.95 | 2681.1 |
+  | Lila +1 | 382.8 | 28.05 | 3276.9 |
+  | Lila +2 | 464.0 | 34.0 | 3972.0 |
+  | Lila +3 | 545.2 | 39.95 | 4667.1 |
+  | Orange | 626.4 | 45.9 | 5362.2 |
+  | Orange +1 | 719.2 | 52.7 | 6156.6 |
+  | Orange +2 | 812.0 | 59.5 | 6951.0 |
+  | Orange +3 | 904.8 | 66.3 | 7745.4 |
+  | Orange +4 | 997.6 | 73.1 | 8539.8 |
+  | Orange +5 | 1136.8 | 83.3 | 9731.4 |
+  | Rot | 1322.4 | 96.9 | 11320.2 |
 
- **Info1:** Massenkontrolle über hintere Reihe des Gegners, verbessert deine Heldenzauber und reduziert die gegnerische MP-Regeneration.
-
- **Info2:** Massenkontrolle über hintere Reihe des Gegners, verbessert deine Heldenzauber und reduziert die gegnerische MP-Regeneration.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 13.92 | 0.42 | 2.29 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 16.24 | 0.44 | 2.87 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 18.56 | 0.46 | 3.46 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 20.88 | 0.48 | 4.04 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
 ## Skills
 ### 1 Skill: Zauberdurchdringung
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Kritischer Treffer (Einheit)
+* Schaden (Einheit)
 
-    - LP
-
-    - Kritischer Treffer (Einheit)
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Magische Affinität
- **Description:** <span style="color: #48b946;font-size:18px"><Zauberdurchdringung></span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Der Effektstapel wird auch dann nicht gelöscht, wenn <Zauberdurchdringung> das Ziel wechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Der Effektstapel wird auch dann nicht gelöscht, wenn &lt;Zauberdurchdringung&gt; das Ziel wechselt.</span>
 
 ### 2nd Skill (or 1st): Meister der Magie
- **Description:** <span style="color: #48b946;font-size:18px"><Zauberdurchdringung></span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Zu Beginn der Schlacht erhält die Einheit 10 Stapel <Zauberdurchdringung>, die die gesamte Schlacht über aktiv bleiben.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Zu Beginn der Schlacht erhält die Einheit 10 Stapel &lt;Zauberdurchdringung&gt;, die die gesamte Schlacht über aktiv bleiben.</span>
 
 ### 3rd Skill (or 4th): Arkanknoten
- **Description:** <span style="color: #48b946;font-size:18px"><Magiefeld></span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo verbündeter Einheiten vor sich um 15 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magiefeld&gt;</span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo verbündeter Einheiten vor sich um 15 %.</span>
 
 ### 4th Skill (or 3rd): Arkanes Zeichen
- **Description:** <span style="color: #48b946;font-size:18px"><Magiefeld></span><span style="color: #645252;font-size:18px">Zu Beginn der Schlacht wird ein weiteres <Magiefeld> für alle verbündeten Turm-Einheiten erschaffen; der Effekt wird nicht verdoppelt, sondern stapelt sich mit dem Effekt der vorherigen Fähigkeit.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magiefeld&gt;</span><span style="color: #645252;font-size:18px">Zu Beginn der Schlacht wird ein weiteres &lt;Magiefeld&gt; für alle verbündeten Turm-Einheiten erschaffen; der Effekt wird nicht verdoppelt, sondern stapelt sich mit dem Effekt der vorherigen Fähigkeit.</span>
 
 ### 5th Skill (or 6th): Todeszoll
- **Description:** <span style="color: #48b946;font-size:18px"><Energieverlust></span><span style="color: #645252;font-size:18px">Bei jedem Tod des Ziels wird das Mana gegnerischer Helden um 2 reduziert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Bei jedem Tod des Ziels wird das Mana gegnerischer Helden um 2 reduziert.</span>
 
 ### 6th Skill (or 5th): Energie-Unterdrückung
- **Description:** <span style="color: #48b946;font-size:18px"><Energieverlust></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ## Technical info
  **runart:** 1

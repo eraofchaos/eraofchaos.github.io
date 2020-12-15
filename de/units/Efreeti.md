@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /de/units/Efreeti/
 excerpt: "Einheiten Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern."
 unitID: 506
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Efreet"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Feuerball: Fügt Feinden kolossalen Schaden zu und verursacht Verbrennung.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Verursacht Magieschaden, verfügt über Feuerschild. Der Standard für Schadensreflexion.
+
+## Basic stats
  **Base HP:** 1446.0
 
  **Base ATK:** 225.4
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 112.7 | 3.25 | 1084.5 |
+  | Blau | 225.4 | 6.5 | 2169.0 |
+  | Blau +1 | 338.1 | 9.75 | 3253.5 |
+  | Blau +2 | 473.34 | 13.65 | 4554.9 |
+  | Lila | 608.58 | 17.55 | 5856.3 |
+  | Lila +1 | 743.82 | 21.45 | 7157.7 |
+  | Lila +2 | 901.6 | 26.0 | 8676.0 |
+  | Lila +3 | 1059.38 | 30.55 | 10194.3 |
+  | Orange | 1217.16 | 35.1 | 11712.6 |
+  | Orange +1 | 1397.48 | 40.3 | 13447.8 |
+  | Orange +2 | 1577.8 | 45.5 | 15183.0 |
+  | Orange +3 | 1758.12 | 50.7 | 16918.2 |
+  | Orange +4 | 1938.44 | 55.9 | 18653.4 |
+  | Orange +5 | 2208.92 | 63.7 | 21256.2 |
+  | Rot | 2569.56 | 74.1 | 24726.6 |
 
- **Info1:** Verursacht Magieschaden, verfügt über Feuerschild. Der Standard für Schadensreflexion.
-
- **Info2:** Verursacht Magieschaden, verfügt über Feuerschild. Der Standard für Schadensreflexion.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 27.048 | 0.48 | 1.87 | 173.52 |
+  | **3x** <i class="fas fa-star"/> | 31.556 | 0.51 | 2.43 | 202.44 |
+  | **4x** <i class="fas fa-star"/> | 36.064 | 0.53 | 3.0 | 231.36 |
+  | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
+  | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
 ## Skills
 ### 1 Skill: Feuersturm
  **Description:** <span style="color: #645252;font-size:20px">Der Efreet wirkt einen Feuersturm auf einen Zielbereich, der allen gegnerischen Truppen dort </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt und 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> verursacht.</span><span style="color: black">
 
 ### 2 Skill: Flammenschild
- **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erschafft der Efreet einen <Feuerschild> für alle verbündeten Inferno-Einheiten, der </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang 15 % des erlittenen Schadens reflektiert.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erschafft der Efreet einen &lt;Feuerschild&gt; für alle verbündeten Inferno-Einheiten, der </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang 15 % des erlittenen Schadens reflektiert.</span><span style="color: black">
 
 ### 3 Skill: Glühend heiß
- **Description:** <span style="color: #645252;font-size:20px">Der <Feuerschild> des Efreet erhöht die Schadensreduzierung der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der &lt;Feuerschild&gt; des Efreet erhöht die Schadensreduzierung der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Feuergott
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Efreet steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Kritischer Treffer (Einheit)
+* Schaden (Einheit)
 
-    - LP
-
-    - Kritischer Treffer (Einheit)
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sengender Einschlag
- **Description:** <span style="color: #48b946;font-size:18px"><Feuersturm></span><span style="color: #645252;font-size:18px">Zu Beginn der Schlacht erleiden alle gegnerischen Einheiten 20 Sek. lang „Verbrennung“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuersturm&gt;</span><span style="color: #645252;font-size:18px">Zu Beginn der Schlacht erleiden alle gegnerischen Einheiten 20 Sek. lang „Verbrennung“.</span>
 
 ### 2nd Skill (or 1st): Flammenfest
- **Description:** <span style="color: #48b946;font-size:18px"><Feuersturm></span><span style="color: #645252;font-size:18px">Fügt den Zielen und Feinden in einem großen Bereich hinter dem Ziel Schaden zu.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuersturm&gt;</span><span style="color: #645252;font-size:18px">Fügt den Zielen und Feinden in einem großen Bereich hinter dem Ziel Schaden zu.</span>
 
 ### 3rd Skill (or 4th): Flammender Kampf
- **Description:** <span style="color: #48b946;font-size:18px"><Flammenschild></span><span style="color: #645252;font-size:18px">Erhöht den Schaden der Einheit um 15 %. Dauer erhöht um 30 Sek.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flammenschild&gt;</span><span style="color: #645252;font-size:18px">Erhöht den Schaden der Einheit um 15 %. Dauer erhöht um 30 Sek.</span>
 
 ### 4th Skill (or 3rd): Feuerfeste Haut
- **Description:** <span style="color: #48b946;font-size:18px"><Flammenschild></span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung der Einheit um 15 %. Dauer erhöht um 30 Sek.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flammenschild&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung der Einheit um 15 %. Dauer erhöht um 30 Sek.</span>
 
 ### 5th Skill (or 6th): Inferno-Vorhut
- **Description:** <span style="color: #48b946;font-size:18px"><Feuergott></span><span style="color: #645252;font-size:18px">Das Angriffstempo des Efreet wird erhöht um 5 % für jede Inferno-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuergott&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo des Efreet wird erhöht um 5 % für jede Inferno-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Zaubergeflecht
- **Description:** <span style="color: #48b946;font-size:18px"><Feuergott></span><span style="color: #645252;font-size:18px">Das Angriffstempo des Efreet wird erhöht um 5 % für jede Zauberer-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuergott&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo des Efreet wird erhöht um 5 % für jede Zauberer-Einheit auf dem Schlachtfeld.</span>
 
 ## Technical info
  **runart:** 0

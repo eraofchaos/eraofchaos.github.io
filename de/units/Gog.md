@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /de/units/Gog/
 excerpt: "Einheiten Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Gog"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Feuerwand: Fügt gegnerischen Einheiten vor sich Schaden zu.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Verursacht Magieschaden in einem großen Bereich, der durch Feuer verstärkt wird.
+
+## Basic stats
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 51.3 | 3.75 | 471.75 |
+  | Blau | 102.6 | 7.5 | 943.5 |
+  | Blau +1 | 153.9 | 11.25 | 1415.25 |
+  | Blau +2 | 215.46 | 15.75 | 1981.35 |
+  | Lila | 277.02 | 20.25 | 2547.45 |
+  | Lila +1 | 338.58 | 24.75 | 3113.55 |
+  | Lila +2 | 410.4 | 30.0 | 3774.0 |
+  | Lila +3 | 482.22 | 35.25 | 4434.45 |
+  | Orange | 554.04 | 40.5 | 5094.9 |
+  | Orange +1 | 636.12 | 46.5 | 5849.7 |
+  | Orange +2 | 718.2 | 52.5 | 6604.5 |
+  | Orange +3 | 800.28 | 58.5 | 7359.3 |
+  | Orange +4 | 882.36 | 64.5 | 8114.1 |
+  | Orange +5 | 1005.48 | 73.5 | 9246.3 |
+  | Rot | 1169.64 | 85.5 | 10755.9 |
 
- **Info1:** Verursacht Magieschaden in einem großen Bereich, der durch Feuer verstärkt wird.
-
- **Info2:** Verursacht Magieschaden in einem großen Bereich, der durch Feuer verstärkt wird.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 10.26 | 0.42 | 1.5 | 62.9 |
+  | **2x** <i class="fas fa-star"/> | 12.312 | 0.44 | 2.08 | 75.48 |
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.46 | 2.65 | 88.06 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 100.64 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
 ### 1 Skill: Feuerwand
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Kritischer Treffer (Einheit)
+* Magieresistenz
 
-    - LP
-
-    - Kritischer Treffer (Einheit)
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Brandsatz
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerwand></span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Dauer wird um 4 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerwand&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Dauer wird um 4 Sek. erhöht.</span>
 
 ### 2nd Skill (or 1st): Feuerflut
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerwand></span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Reichweite der Feuerwand steigt mit der Zeit.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerwand&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Reichweite der Feuerwand steigt mit der Zeit.</span>
 
 ### 3rd Skill (or 4th): Glüh. Geheimzauber
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerphantom></span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 10 % erhöht. Der Bonus wird verdoppelt gegen Einheiten mit <Verbrennung>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerphantom&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 10 % erhöht. Der Bonus wird verdoppelt gegen Einheiten mit &lt;Verbrennung&gt;.</span>
 
 ### 4th Skill (or 3rd): Glühender Einblick
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerphantom></span><span style="color: #645252;font-size:18px">Die Gog erzielt einen garantierten kritischen Treffer gegen Einheiten mit „Verbrennung“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerphantom&gt;</span><span style="color: #645252;font-size:18px">Die Gog erzielt einen garantierten kritischen Treffer gegen Einheiten mit „Verbrennung“.</span>
 
 ### 5th Skill (or 6th): Inferno-Vorhut
- **Description:** <span style="color: #48b946;font-size:18px"><Einäscherung></span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede Inferno-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Einäscherung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede Inferno-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Zaubergeflecht
- **Description:** <span style="color: #48b946;font-size:18px"><Einäscherung></span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede verbündete Zauberer-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Einäscherung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede verbündete Zauberer-Einheit auf dem Schlachtfeld.</span>
 
 ## Technical info
  **runart:** 0

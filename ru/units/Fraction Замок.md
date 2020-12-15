@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Замок -  Units"
 permalink: /ru/units/Fraction Замок/
 excerpt: "Fraction Замок - List of Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Fraction Замок"
 toc: false
@@ -19,6 +19,6 @@ classes: wide
   | 3 | [Грифон](/ru/units/Griffin/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  shijiu  |
   | 4 | [Мечник](/ru/units/Swordsman/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
   | 5 | [Монах](/ru/units/Monk/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  senglv  |
-  | 6 | [Всадники](/ru/units/Cavalier /) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 6 | [Всадники](/ru/units/Cavalier/) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 7 | [Паладин](/ru/units/Paladin/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
   | 8 | [Ангел](/ru/units/Angel/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /es/units/Naga/
 excerpt: "Unidades El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Naga"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Danza de hojas: Daño en área y reducción de la DEF de daño en área.
 
+ **Recommend:** Mejora la moral para obtener los beneficios de moral alta, como movimientos adicionales para las unidades afectadas.
+
+ **Info:** El mejor infligiendo daño de área. Los hechizos de Héroes activan su aumento de Ataque.
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Mejora la moral para obtener los beneficios de moral alta, como movimientos adicionales para las unidades afectadas.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 112.5 | 5.0 | 1351.5 |
+  | Azul | 225.0 | 10.0 | 2703.0 |
+  | Azul +1 | 337.5 | 15.0 | 4054.5 |
+  | Azul +2 | 472.5 | 21.0 | 5676.3 |
+  | Violeta | 607.5 | 27.0 | 7298.1 |
+  | Violeta +1 | 742.5 | 33.0 | 8919.9 |
+  | Violeta +2 | 900.0 | 40.0 | 10812.0 |
+  | Violeta +3 | 1057.5 | 47.0 | 12704.1 |
+  | Naranja | 1215.0 | 54.0 | 14596.2 |
+  | Naranja +1 | 1395.0 | 62.0 | 16758.6 |
+  | Naranja +2 | 1575.0 | 70.0 | 18921.0 |
+  | Naranja +3 | 1755.0 | 78.0 | 21083.4 |
+  | Naranja +4 | 1935.0 | 86.0 | 23245.8 |
+  | Naranja +5 | 2205.0 | 98.0 | 26489.4 |
+  | Rojo | 2565.0 | 114.0 | 30814.2 |
 
- **Info1:** El mejor infligiendo daño de área. Los hechizos de Héroes activan su aumento de Ataque.
-
- **Info2:** El mejor infligiendo daño de área. Los hechizos de Héroes activan su aumento de Ataque.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 31.5 | 0.51 | 3.2 | 252.28 |
+  | **4x** <i class="fas fa-star"/> | 36.0 | 0.53 | 3.8 | 288.32 |
+  | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
+  | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
 ### 1 Skill: Danza de hojas
@@ -46,23 +70,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Nagas en el campo de batalla, el golpe crítico de todas las unidades ofensivas amistosas aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Al mismo tiempo, el golpe crítico de la Naga aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Despertar mágico
- **Description:** <span style="color: #645252;font-size:20px">Cuando la unidad de Naga está amplificada por un hechizo de apoyo de un Héroe amistoso, usa <Danza de hojas> contra la unidad objetivo, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 veces.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cuando la unidad de Naga está amplificada por un hechizo de apoyo de un Héroe amistoso, usa &lt;Danza de hojas&gt; contra la unidad objetivo, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 veces.</span><span style="color: black">
 
 ### 5 Skill: Mente sobria
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de <silencio> se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Golpe crítico de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Golpe crítico de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Danza rojo sangre
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Dance></span><span style="color: #645252;font-size:18px">Al lanzarse activamente, la velocidad de ataque y la absorción de vida de la Naga aumentan un 30% en los próximos 20 s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Al lanzarse activamente, la velocidad de ataque y la absorción de vida de la Naga aumentan un 30% en los próximos 20 s.</span>
 
 ### 2nd Skill (or 1st): Danza de hojas afiladas
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Dance></span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior, inflige daño a todas las unidades dentro del alcance</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior, inflige daño a todas las unidades dentro del alcance</span>
 
 ### 3rd Skill (or 4th): Hoja de la voluntad
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Queen></span><span style="color: #645252;font-size:18px">El efecto de la bonificación aumenta al 150% del efecto de la habilidad anterior</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El efecto de la bonificación aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 4th Skill (or 3rd): Hoja loca
- **Description:** <span style="color: #48b946;font-size:18px"><Blade Queen></span><span style="color: #645252;font-size:18px">El golpe crítico y el daño crítico otorgan una bonificación para la Naga, aumentando el efecto al 200% de la habilidad anterior</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El golpe crítico y el daño crítico otorgan una bonificación para la Naga, aumentando el efecto al 200% de la habilidad anterior</span>
 
 ### 5th Skill (or 6th): Aspecto mágico
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
 
 ### 6th Skill (or 5th): Filo templado con magia
- **Description:** <span style="color: #48b946;font-size:18px"><Magic Awakening></span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
 
 ## Technical info
  **runart:** 1

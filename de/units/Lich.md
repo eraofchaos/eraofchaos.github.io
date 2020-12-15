@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /de/units/Lich/
 excerpt: "Einheiten Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Lich"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Opfer: Beschwört eine Skeletthorde.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Kann Skelette beschwören und verbessern. Der Grundpfeiler jeder Strategie, die auf dem Beschwören Untoter basiert.
+
+## Basic stats
  **Base HP:** 1581.0
 
  **Base ATK:** 228.7
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 114.35 | 4.0 | 1185.75 |
+  | Blau | 228.7 | 8.0 | 2371.5 |
+  | Blau +1 | 343.05 | 12.0 | 3557.25 |
+  | Blau +2 | 480.27 | 16.8 | 4980.15 |
+  | Lila | 617.49 | 21.6 | 6403.05 |
+  | Lila +1 | 754.71 | 26.4 | 7825.95 |
+  | Lila +2 | 914.8 | 32.0 | 9486.0 |
+  | Lila +3 | 1074.89 | 37.6 | 11146.05 |
+  | Orange | 1234.98 | 43.2 | 12806.1 |
+  | Orange +1 | 1417.94 | 49.6 | 14703.3 |
+  | Orange +2 | 1600.9 | 56.0 | 16600.5 |
+  | Orange +3 | 1783.86 | 62.4 | 18497.7 |
+  | Orange +4 | 1966.82 | 68.8 | 20394.9 |
+  | Orange +5 | 2241.26 | 78.4 | 23240.7 |
+  | Rot | 2607.18 | 91.2 | 27035.1 |
 
- **Info1:** Kann Skelette beschwören und verbessern. Der Grundpfeiler jeder Strategie, die auf dem Beschwören Untoter basiert.
-
- **Info2:** Kann Skelette beschwören und verbessern. Der Grundpfeiler jeder Strategie, die auf dem Beschwören Untoter basiert.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 32.018 | 0.44 | 2.76 | 221.34 |
+  | **4x** <i class="fas fa-star"/> | 36.592 | 0.46 | 3.34 | 252.96 |
+  | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
+  | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
 ## Skills
 ### 1 Skill: Opfer
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Skelett beschwören
- **Description:** <span style="color: #48b946;font-size:18px"><Opfer></span><span style="color: #645252;font-size:18px">Beschwört 2 Skelette gleichzeitig.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Opfer&gt;</span><span style="color: #645252;font-size:18px">Beschwört 2 Skelette gleichzeitig.</span>
 
 ### 2nd Skill (or 1st): Untotenbeschwörung
- **Description:** <span style="color: #48b946;font-size:18px"><Opfer></span><span style="color: #645252;font-size:18px">Das beschworene Skelett verwandelt sich in ein bewaffnetes Skelett, dessen Standardangriff sein Ziel mit einer Wahrscheinlichkeit von 8 % betäubt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Opfer&gt;</span><span style="color: #645252;font-size:18px">Das beschworene Skelett verwandelt sich in ein bewaffnetes Skelett, dessen Standardangriff sein Ziel mit einer Wahrscheinlichkeit von 8 % betäubt.</span>
 
 ### 3rd Skill (or 4th): Tödliches Opfer
- **Description:** <span style="color: #48b946;font-size:18px"><Skelettopfer></span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo des Lich um 20 % und Kritischer Treffer um 200. Für jede gegnerische Einheit, die stirbt, wird der Bonus verdoppelt. Wirkungsdauer 20 Sek.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Skelettopfer&gt;</span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo des Lich um 20 % und Kritischer Treffer um 200. Für jede gegnerische Einheit, die stirbt, wird der Bonus verdoppelt. Wirkungsdauer 20 Sek.</span>
 
 ### 4th Skill (or 3rd): Todesumarmung
- **Description:** <span style="color: #48b946;font-size:18px"><Skelettopfer></span><span style="color: #645252;font-size:18px">Erhöht ABW und Lebensentzug um 20 % für alle Nekropolis-Einheiten. Für jede gegnerische Einheit, die stirbt, wird der Bonus verdoppelt. Wirkungsdauer 20 Sek.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Skelettopfer&gt;</span><span style="color: #645252;font-size:18px">Erhöht ABW und Lebensentzug um 20 % für alle Nekropolis-Einheiten. Für jede gegnerische Einheit, die stirbt, wird der Bonus verdoppelt. Wirkungsdauer 20 Sek.</span>
 
 ### 5th Skill (or 6th): Magischer Vertrag
- **Description:** <span style="color: #48b946;font-size:18px"><Dunkelverstärkung></span><span style="color: #645252;font-size:18px">Der Schaden des Lich wird zusätzlich um 5 % erhöht für jede Zauberer-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dunkelverstärkung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Lich wird zusätzlich um 5 % erhöht für jede Zauberer-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Vertrag der Toten
- **Description:** <span style="color: #48b946;font-size:18px"><Einäscherung></span><span style="color: #645252;font-size:18px">Der Schaden des Lich wird um 5 % erhöht für jede Nekropolis-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Einäscherung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Lich wird um 5 % erhöht für jede Nekropolis-Einheit auf dem Schlachtfeld.</span>
 
 ## Technical info
  **runart:** 0

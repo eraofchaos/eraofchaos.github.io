@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /de/units/Goblin/
 excerpt: "Einheiten Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Goblin"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Kriegssturm: Fügt 3 gegnerischen Einheiten in der Nähe Schaden zu.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Häufige Gegenangriffe. Verursacht hohen Nahkampfschaden. Je niedriger die Gesundheit, desto höher der Angriff.
+
+## Basic stats
  **Base HP:** 761.0
 
  **Base ATK:** 82.7
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 41.35 | 4.25 | 570.75 |
+  | Blau | 82.7 | 8.5 | 1141.5 |
+  | Blau +1 | 124.05 | 12.75 | 1712.25 |
+  | Blau +2 | 173.67 | 17.85 | 2397.15 |
+  | Lila | 223.29 | 22.95 | 3082.05 |
+  | Lila +1 | 272.91 | 28.05 | 3766.95 |
+  | Lila +2 | 330.8 | 34.0 | 4566.0 |
+  | Lila +3 | 388.69 | 39.95 | 5365.05 |
+  | Orange | 446.58 | 45.9 | 6164.1 |
+  | Orange +1 | 512.74 | 52.7 | 7077.3 |
+  | Orange +2 | 578.9 | 59.5 | 7990.5 |
+  | Orange +3 | 645.06 | 66.3 | 8903.7 |
+  | Orange +4 | 711.22 | 73.1 | 9816.9 |
+  | Orange +5 | 810.46 | 83.3 | 11186.7 |
+  | Rot | 942.78 | 96.9 | 13013.1 |
 
- **Info1:** Häufige Gegenangriffe. Verursacht hohen Nahkampfschaden. Je niedriger die Gesundheit, desto höher der Angriff.
-
- **Info2:** Häufige Gegenangriffe. Verursacht hohen Nahkampfschaden. Je niedriger die Gesundheit, desto höher der Angriff.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.27 | 0.49 | 1.7 | 76.1 |
+  | **2x** <i class="fas fa-star"/> | 9.924 | 0.51 | 2.29 | 91.32 |
+  | **3x** <i class="fas fa-star"/> | 11.578 | 0.54 | 2.87 | 106.54 |
+  | **4x** <i class="fas fa-star"/> | 13.232 | 0.56 | 3.46 | 121.76 |
+  | **5x** <i class="fas fa-star"/> | 14.886 | 0.59 | 4.04 | 136.98 |
+  | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
 ## Skills
 ### 1 Skill: Kriegssturm
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Magieresistenz
 
-    - LP
-
-    - Angriffstempo
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Kampfgeist
- **Description:** <span style="color: #48b946;font-size:18px"><Kriegssturm> </span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit von <Kriegssturm> wird verdoppelt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kriegssturm&gt; </span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit von &lt;Kriegssturm&gt; wird verdoppelt.</span>
 
 ### 2nd Skill (or 1st): Trägheit
- **Description:** <span style="color: #48b946;font-size:18px"><Kriegssturm> </span><span style="color: #645252;font-size:18px"><Kriegssturm> gewährt einen Kombo-Angriff: <Kriegssturm> wird zweimal ausgelöst.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kriegssturm&gt; </span><span style="color: #645252;font-size:18px">&lt;Kriegssturm&gt; gewährt einen Kombo-Angriff: &lt;Kriegssturm&gt; wird zweimal ausgelöst.</span>
 
 ### 3rd Skill (or 4th): Waffengeschick
- **Description:** <span style="color: #48b946;font-size:18px"><Hinrichtung></span><span style="color: #645252;font-size:18px">Der ANG des Goblins wird um zusätzliche 150 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:18px">Der ANG des Goblins wird um zusätzliche 150 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
 
 ### 4th Skill (or 3rd): Waffenloser Konter
- **Description:** <span style="color: #48b946;font-size:18px"><Hinrichtung></span><span style="color: #645252;font-size:20px">Der Schaden des Goblins wird um 30 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:20px">Der Schaden des Goblins wird um 30 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
 
 ### 5th Skill (or 6th): Blutdurst-Spezialität
- **Description:** <span style="color: #48b946;font-size:18px"><Blutdurst></span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 5 % erhöht, wenn ein Kritischer Treffer verursacht wird.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 5 % erhöht, wenn ein Kritischer Treffer verursacht wird.</span>
 
 ### 6th Skill (or 5th): Blutiger Hammer
- **Description:** <span style="color: #48b946;font-size:18px"><Blutdurst></span><span style="color: #645252;font-size:18px">Jeder kritische Treffer erhöht Angriffstempo 10 Sek. lang um 2 %. Bis 10 Stapel.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Jeder kritische Treffer erhöht Angriffstempo 10 Sek. lang um 2 %. Bis 10 Stapel.</span>
 
 ## Technical info
  **runart:** 1

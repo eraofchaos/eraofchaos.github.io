@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /it/units/Ice Elemental/
 excerpt: "Unità Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -25,22 +25,47 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Mago con abilità di controllo. Ricopre tutto di ghiaccio. Erige mura difensive di ghiaccio.
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 111.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 55.5 | 2.5 | 558.0 |
+  | Blu | 111.0 | 5.0 | 1116.0 |
+  | Blu +1 | 166.5 | 7.5 | 1674.0 |
+  | Blu +2 | 233.1 | 10.5 | 2343.6 |
+  | Viola | 299.7 | 13.5 | 3013.2 |
+  | Viola +1 | 366.3 | 16.5 | 3682.8 |
+  | Viola +2 | 444.0 | 20.0 | 4464.0 |
+  | Viola +3 | 521.7 | 23.5 | 5245.2 |
+  | Arancione | 599.4 | 27.0 | 6026.4 |
+  | Arancione +1 | 688.2 | 31.0 | 6919.2 |
+  | Arancione +2 | 777.0 | 35.0 | 7812.0 |
+  | Arancione +3 | 865.8 | 39.0 | 8704.8 |
+  | Arancione +4 | 954.6 | 43.0 | 9597.6 |
+  | Arancione +5 | 1087.8 | 49.0 | 10936.8 |
+  | Rosso | 1265.4 | 57.0 | 12722.4 |
 
- **Info1:** Mago con abilità di controllo. Ricopre tutto di ghiaccio. Erige mura difensive di ghiaccio.
-
- **Info2:** Mago con abilità di controllo. Ricopre tutto di ghiaccio. Erige mura difensive di ghiaccio.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 13.32 | 0.44 | 1.55 | 89.28 |
+  | **3x** <i class="fas fa-star"/> | 15.54 | 0.46 | 2.1 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 17.76 | 0.48 | 2.65 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
 ### 1 Skill: Muro di ghiaccio
- **Description:** <span style="color: #645252;font-size:20px">L'Elementale del ghiaccio erige un muro ghiacciato di fronte al bersaglio, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><congelando></span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli lungo una fila orizzontale per <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Elementale del ghiaccio erige un muro ghiacciato di fronte al bersaglio, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelando&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli lungo una fila orizzontale per <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### 2 Skill: Morsa gelida
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale del ghiaccio ha una probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><rallentare></span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per 15 secondi. Inoltre, riduce la Vel ATT del bersaglio (<span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale del ghiaccio ha una probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentare&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per 15 secondi. Inoltre, riduce la Vel ATT del bersaglio (<span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### 3 Skill: Forza elementale
  **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e riduce la resistenza dei nemici agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la rigenerazione del mana dell'eroe alleato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Resistenza magica
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 0

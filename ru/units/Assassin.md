@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /ru/units/Assassin/
 excerpt: "Отряды Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Ассасин"
 toc: true
@@ -25,22 +25,46 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Смертельный урон, подавление регенерации, метание ножей и немота.
+
+## Basic stats
  **Base HP:** 2119.0
 
  **Base ATK:** 269.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 134.5 | 7.5 | 1589.25 |
+  | Синий | 269.0 | 15.0 | 3178.5 |
+  | Blue +1 | 403.5 | 22.5 | 4767.75 |
+  | Синий +2 | 564.9 | 31.5 | 6674.85 |
+  | Фиолетовый | 726.3 | 40.5 | 8581.95 |
+  | Фиолетовый +1 | 887.7 | 49.5 | 10489.05 |
+  | Фиолетовый +2 | 1076.0 | 60.0 | 12714.0 |
+  | Фиолетовый +3 | 1264.3 | 70.5 | 14938.95 |
+  | Оранжевый | 1452.6 | 81.0 | 17163.9 |
+  | Оранжевый +1 | 1667.8 | 93.0 | 19706.7 |
+  | Оранжевый +2 | 1883.0 | 105.0 | 22249.5 |
+  | Orange +3 | 2098.2 | 117.0 | 24792.3 |
+  | Оранжевый +4 | 2313.4 | 129.0 | 27335.1 |
+  | Orange +5 | 2636.2 | 147.0 | 31149.3 |
+  | Red | 3066.6 | 171.0 | 36234.9 |
 
- **Info1:** Смертельный урон, подавление регенерации, метание ножей и немота.
-
- **Info2:** Смертельный урон, подавление регенерации, метание ножей и немота.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 37.66 | 0.33 | 4.3 | 296.66 |
+  | **4x** <i class="fas fa-star"/> | 43.04 | 0.35 | 4.95 | 339.04 |
+  | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
+  | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
 ### 1 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">В начале боя ассасин входит в состояние </span><span style="color: black"><span style="color: #48b946;font-size:20px"><скрытности></span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект снимается при проведении атаки.</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> Первая атака ассасина после утраты </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытности</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит противнику урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и на 30% снижает эффективность лечения на 10 сек. Срабатывает только 1 раз.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">В начале боя ассасин входит в состояние </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;скрытности&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект снимается при проведении атаки.</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> Первая атака ассасина после утраты </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытности</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит противнику урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и на 30% снижает эффективность лечения на 10 сек. Срабатывает только 1 раз.</span><span style="color: black">
 
 ### 2 Skill: Инстинкт убийцы
- **Description:** <span style="color: #645252;font-size:20px">Ассасин повышает на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда и на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - КРИТ. УРН. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Орлиное зрение></span><span style="color: black"><span style="color: #645252;font-size:20px"> дает удвоенный урон, атака </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепленного</span><span style="color: black"><span style="color: #645252;font-size:20px"> противника получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> бонус к пробиванию. </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Ассасин повышает на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда и на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - КРИТ. УРН. </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Орлиное зрение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дает удвоенный урон, атака </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепленного</span><span style="color: black"><span style="color: #645252;font-size:20px"> противника получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> бонус к пробиванию. </span><span style="color: black">
 
 ### 3 Skill: Дымовая завеса
  **Description:** <span style="color: #645252;font-size:20px">Ассасин бросает себе под ноги дымовую гранату, повышая на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ЗЩТ. Враги в большом радиусе получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепление</span><span style="color: black"><span style="color: #645252;font-size:20px">, их урон и скорость атаки снижаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Восстановление - 18 сек. </span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* unit Damage
+* unit DMG Reduction
 
-    - ОЗ
-
-    - ERROR!
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,7 +106,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
  **Description:** 
@@ -99,7 +121,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

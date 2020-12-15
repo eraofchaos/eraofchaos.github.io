@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /es/units/Mermaid/
 excerpt: "Unidades El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Sirena"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Sanadora potente. Otorga grandes ventajas al inicio de la batalla.
+
+## Basic stats
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 92.5 | 3.5 | 1236.0 |
+  | Azul | 185.0 | 7.0 | 2472.0 |
+  | Azul +1 | 277.5 | 10.5 | 3708.0 |
+  | Azul +2 | 388.5 | 14.7 | 5191.2 |
+  | Violeta | 499.5 | 18.9 | 6674.4 |
+  | Violeta +1 | 610.5 | 23.1 | 8157.6 |
+  | Violeta +2 | 740.0 | 28.0 | 9888.0 |
+  | Violeta +3 | 869.5 | 32.9 | 11618.4 |
+  | Naranja | 999.0 | 37.8 | 13348.8 |
+  | Naranja +1 | 1147.0 | 43.4 | 15326.4 |
+  | Naranja +2 | 1295.0 | 49.0 | 17304.0 |
+  | Naranja +3 | 1443.0 | 54.6 | 19281.6 |
+  | Naranja +4 | 1591.0 | 60.2 | 21259.2 |
+  | Naranja +5 | 1813.0 | 68.6 | 24225.6 |
+  | Rojo | 2109.0 | 79.8 | 28180.8 |
 
- **Info1:** Sanadora potente. Otorga grandes ventajas al inicio de la batalla.
-
- **Info2:** Sanadora potente. Otorga grandes ventajas al inicio de la batalla.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 25.9 | 0.56 | 2.54 | 230.72 |
+  | **4x** <i class="fas fa-star"/> | 29.6 | 0.59 | 3.11 | 263.68 |
+  | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
+  | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
 ### 1 Skill: Nota Re
@@ -46,23 +70,21 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Canto Azur
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la curación de la Sirena un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando la Sirena toca <D Chord>, elimina todas las penalizaciones de la unidad amistosa con el porcentaje de PV más bajo.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Aumenta la curación de la Sirena un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando la Sirena toca &lt;D Chord&gt;, elimina todas las penalizaciones de la unidad amistosa con el porcentaje de PV más bajo.</span><span style="color: black">
 
 ### 5 Skill: Cuerpo calmado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a <stun> cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
 ### 6 Skill: Conflicto pirata
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Curación
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Curación
 
 ## Awaking
 ### Awaking Details

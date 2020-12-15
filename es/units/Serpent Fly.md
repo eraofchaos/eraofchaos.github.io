@@ -3,7 +3,7 @@ title: "Libélula Menor"
 permalink: /es/units/Serpent Fly/
 excerpt: "Unidades Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Libélula Menor"
 toc: true
@@ -25,19 +25,44 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Unidades lanzahechizos que dominan el control. Debilita los DPS enemigos.
+
+## Basic stats
  **Base HP:** 1615.0
 
  **Base ATK:** 178.3
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 89.15 | 4.0 | 1211.25 |
+  | Azul | 178.3 | 8.0 | 2422.5 |
+  | Azul +1 | 267.45 | 12.0 | 3633.75 |
+  | Azul +2 | 374.43 | 16.8 | 5087.25 |
+  | Violeta | 481.41 | 21.6 | 6540.75 |
+  | Violeta +1 | 588.39 | 26.4 | 7994.25 |
+  | Violeta +2 | 713.2 | 32.0 | 9690.0 |
+  | Violeta +3 | 838.01 | 37.6 | 11385.75 |
+  | Naranja | 962.82 | 43.2 | 13081.5 |
+  | Naranja +1 | 1105.46 | 49.6 | 15019.5 |
+  | Naranja +2 | 1248.1 | 56.0 | 16957.5 |
+  | Naranja +3 | 1390.74 | 62.4 | 18895.5 |
+  | Naranja +4 | 1533.38 | 68.8 | 20833.5 |
+  | Naranja +5 | 1747.34 | 78.4 | 23740.5 |
+  | Rojo | 2032.62 | 91.2 | 27616.5 |
 
- **Info1:** Unidades lanzahechizos que dominan el control. Debilita los DPS enemigos.
-
- **Info2:** Unidades lanzahechizos que dominan el control. Debilita los DPS enemigos.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 21.396 | 0.53 | 2.18 | 193.8 |
+  | **3x** <i class="fas fa-star"/> | 24.962 | 0.55 | 2.76 | 226.1 |
+  | **4x** <i class="fas fa-star"/> | 28.528 | 0.58 | 3.34 | 258.4 |
+  | **5x** <i class="fas fa-star"/> | 32.094 | 0.6 | 3.92 | 290.7 |
+  | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
 ## Skills
 ### 1 Skill: Plaga de la ciénaga
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Libélulas Menores inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a la unidad objetivo y causa <span style="color: #48b946;font-size:20px"><plaga></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La unidad de Libélulas Menores inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a la unidad objetivo y causa <span style="color: #48b946;font-size:20px">&lt;plaga&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
 ### 2 Skill: Libélulas en el aire
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la velocidad de ataque de la Libélula Menor un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -49,20 +74,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Cuando la Libélula Menor impacta con un golpe crítico, tiene un 8% de probabilidades de reducir el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de las unidades hostiles en un área determinada durante 10 s. Se acumula 3 veces.</span><span style="color: black">
 
 ### 5 Skill: Golpe de la plaga
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con <plaga></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
 ### 6 Skill: Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Golpe crítico de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Golpe crítico de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">Aplica <deterrence> al objetivo al enfrentarse a unidades de 1 o 4 miembros. <Deterrence>: Reduce el golpe crítico del objetivo en 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px"><Matanza de Dragones></span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 0

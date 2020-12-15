@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /it/units/Vampire/
 excerpt: "Unità I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Vampiro"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Assorbimento: ruba i PF di un'unità nemica.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Infligge danni notevoli quando ha più PF dei nemici.
+
+## Basic stats
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 37.2 | 6.25 | 682.5 |
+  | Blu | 74.4 | 12.5 | 1365.0 |
+  | Blu +1 | 111.6 | 18.75 | 2047.5 |
+  | Blu +2 | 156.24 | 26.25 | 2866.5 |
+  | Viola | 200.88 | 33.75 | 3685.5 |
+  | Viola +1 | 245.52 | 41.25 | 4504.5 |
+  | Viola +2 | 297.6 | 50.0 | 5460.0 |
+  | Viola +3 | 349.68 | 58.75 | 6415.5 |
+  | Arancione | 401.76 | 67.5 | 7371.0 |
+  | Arancione +1 | 461.28 | 77.5 | 8463.0 |
+  | Arancione +2 | 520.8 | 87.5 | 9555.0 |
+  | Arancione +3 | 580.32 | 97.5 | 10647.0 |
+  | Arancione +4 | 639.84 | 107.5 | 11739.0 |
+  | Arancione +5 | 729.12 | 122.5 | 13377.0 |
+  | Rosso | 848.16 | 142.5 | 15561.0 |
 
- **Info1:** Infligge danni notevoli quando ha più PF dei nemici.
-
- **Info2:** Infligge danni notevoli quando ha più PF dei nemici.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 8.928 | 0.53 | 3.13 | 109.2 |
+  | **3x** <i class="fas fa-star"/> | 10.416 | 0.55 | 3.75 | 127.4 |
+  | **4x** <i class="fas fa-star"/> | 11.904 | 0.58 | 4.38 | 145.6 |
+  | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
+  | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
 ### 1 Skill: Assorbimento
@@ -43,26 +68,24 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Assorbimento del Vampiro aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 3 Skill: Rigonfiamento
- **Description:** <span style="color: #645252;font-size:20px">Quando un Vampiro lancia <Assorbimento>, il suo assorbimento aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando un Vampiro lancia &lt;Assorbimento&gt;, il suo assorbimento aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### 4 Skill: Brama di sangue
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta un avversario la cui percentuale di PF è inferiore alla propria, il Vampiro gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 5 Skill: Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da <Morale basso>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Danno unità
+* Riduzione danno unità
 
-    - PF
-
-    - Danno unità
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Eco di sangue
- **Description:** <span style="color: #48b946;font-size:18px"><Assorbimento></span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%, cura le unità alleate in un'ampia area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Assorbimento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%, cura le unità alleate in un'ampia area.</span>
 
 ### 2nd Skill (or 1st): Vendetta atroce
- **Description:** <span style="color: #48b946;font-size:18px"><Assorbimento></span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%. La prima volta che i PF scendono sotto il 50%, usa <Assorbimento> una volta.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Assorbimento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%. La prima volta che i PF scendono sotto il 50%, usa &lt;Assorbimento&gt; una volta.</span>
 
 ### 3rd Skill (or 4th): Abbraccio dei morti
- **Description:** <span style="color: #48b946;font-size:18px"><Brama di sangue></span><span style="color: #645252;font-size:18px">: aumenta il danno del 10% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Brama di sangue&gt;</span><span style="color: #645252;font-size:18px">: aumenta il danno del 10% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
 
 ### 4th Skill (or 3rd): Protezione dei morti
- **Description:** <span style="color: #48b946;font-size:18px"><Brama di sangue></span><span style="color: #645252;font-size:18px">: aumenta la resistenza magica del 20% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Brama di sangue&gt;</span><span style="color: #645252;font-size:18px">: aumenta la resistenza magica del 20% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
 
 ### 5th Skill (or 6th): Desiderio scarlatto
- **Description:** <span style="color: #48b946;font-size:18px"><Sanguinario></span><span style="color: #645252;font-size:18px">: immune alle <Malattie>. Aumenta l'assorbimento del 50% quando i PF scendono sotto il 50%. L'effetto dura fino al termine della battaglia. (Rimane attivo quando i PF vengono ripristinati)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sanguinario&gt;</span><span style="color: #645252;font-size:18px">: immune alle &lt;Malattie&gt;. Aumenta l'assorbimento del 50% quando i PF scendono sotto il 50%. L'effetto dura fino al termine della battaglia. (Rimane attivo quando i PF vengono ripristinati)</span>
 
 ### 6th Skill (or 5th): Bacio immortale
- **Description:** <span style="color: #48b946;font-size:18px"><Sanguinario></span><span style="color: #645252;font-size:18px">: rende immune alle <Malattie> e aumenta la guarigione del 50%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sanguinario&gt;</span><span style="color: #645252;font-size:18px">: rende immune alle &lt;Malattie&gt; e aumenta la guarigione del 50%</span>
 
 ## Technical info
  **runart:** 1

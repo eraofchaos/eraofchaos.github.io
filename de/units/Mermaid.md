@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /de/units/Mermaid/
 excerpt: "Einheiten Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Meerjungfrau"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Starker Heiler. Bietet zu Beginn der Schlacht mächtige Buffs.
+
+## Basic stats
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 92.5 | 3.5 | 1236.0 |
+  | Blau | 185.0 | 7.0 | 2472.0 |
+  | Blau +1 | 277.5 | 10.5 | 3708.0 |
+  | Blau +2 | 388.5 | 14.7 | 5191.2 |
+  | Lila | 499.5 | 18.9 | 6674.4 |
+  | Lila +1 | 610.5 | 23.1 | 8157.6 |
+  | Lila +2 | 740.0 | 28.0 | 9888.0 |
+  | Lila +3 | 869.5 | 32.9 | 11618.4 |
+  | Orange | 999.0 | 37.8 | 13348.8 |
+  | Orange +1 | 1147.0 | 43.4 | 15326.4 |
+  | Orange +2 | 1295.0 | 49.0 | 17304.0 |
+  | Orange +3 | 1443.0 | 54.6 | 19281.6 |
+  | Orange +4 | 1591.0 | 60.2 | 21259.2 |
+  | Orange +5 | 1813.0 | 68.6 | 24225.6 |
+  | Rot | 2109.0 | 79.8 | 28180.8 |
 
- **Info1:** Starker Heiler. Bietet zu Beginn der Schlacht mächtige Buffs.
-
- **Info2:** Starker Heiler. Bietet zu Beginn der Schlacht mächtige Buffs.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 25.9 | 0.56 | 2.54 | 230.72 |
+  | **4x** <i class="fas fa-star"/> | 29.6 | 0.59 | 3.11 | 263.68 |
+  | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
+  | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
 ### 1 Skill: D-Akkord
@@ -46,7 +70,7 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Azurblaues Lied
- **Description:** <span style="color: #645252;font-size:20px">Die Heilung der Meerjungfrau wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die Meerjungfrau <D-Akkord> wird, entfernt sie alle Debuffs von der verbündeten Einheit mit den prozentual niedrigsten LP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Die Heilung der Meerjungfrau wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die Meerjungfrau &lt;D-Akkord&gt; wird, entfernt sie alle Debuffs von der verbündeten Einheit mit den prozentual niedrigsten LP.</span><span style="color: black">
 
 ### 5 Skill: Ruhiger Körper
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Heilung
 
-    - LP
-
-    - Angriffstempo
-
-    - Heilung
 
 ## Awaking
 ### Awaking Details

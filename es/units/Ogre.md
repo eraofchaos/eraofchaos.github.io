@@ -3,7 +3,7 @@ title: "Ogro"
 permalink: /es/units/Ogre/
 excerpt: "Unidades Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Ogro"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Charco sangriento: mejora la absorción de vida de las unidades cercanas.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Un poderoso escudo corporal que mejora el rendimiento de todas tus tropas cuerpo a cuerpo.
+
+## Basic stats
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 53.8 | 15.0 | 1892.25 |
+  | Azul | 107.6 | 30.0 | 3784.5 |
+  | Azul +1 | 161.4 | 45.0 | 5676.75 |
+  | Azul +2 | 225.96 | 63.0 | 7947.45 |
+  | Violeta | 290.52 | 81.0 | 10218.15 |
+  | Violeta +1 | 355.08 | 99.0 | 12488.85 |
+  | Violeta +2 | 430.4 | 120.0 | 15138.0 |
+  | Violeta +3 | 505.72 | 141.0 | 17787.15 |
+  | Naranja | 581.04 | 162.0 | 20436.3 |
+  | Naranja +1 | 667.12 | 186.0 | 23463.9 |
+  | Naranja +2 | 753.2 | 210.0 | 26491.5 |
+  | Naranja +3 | 839.28 | 234.0 | 29519.1 |
+  | Naranja +4 | 925.36 | 258.0 | 32546.7 |
+  | Naranja +5 | 1054.48 | 294.0 | 37088.1 |
+  | Rojo | 1226.64 | 342.0 | 43143.3 |
 
- **Info1:** Un poderoso escudo corporal que mejora el rendimiento de todas tus tropas cuerpo a cuerpo.
-
- **Info2:** Un poderoso escudo corporal que mejora el rendimiento de todas tus tropas cuerpo a cuerpo.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.912 | 0.36 | 6.8 | 302.76 |
+  | **3x** <i class="fas fa-star"/> | 15.064 | 0.37 | 7.6 | 353.22 |
+  | **4x** <i class="fas fa-star"/> | 17.216 | 0.39 | 8.4 | 403.68 |
+  | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
+  | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
 ### 1 Skill: Charco sangriento
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Defensa
+* Reducción de daño de la unidad
 
-    - PV
-
-    - Defensa
-
-    - Reducción de daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Estanque de recuperación
- **Description:** <span style="color: #48b946;font-size:18px"><Blood Pool></span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior. Duración aumentada en 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blood Pool&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior. Duración aumentada en 10 s</span>
 
 ### 2nd Skill (or 1st): Primavera salvaje
- **Description:** <span style="color: #48b946;font-size:18px"><Charco sangriento></span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta un 50% y se extiende su alcance</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charco sangriento&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta un 50% y se extiende su alcance</span>
 
 ### 3rd Skill (or 4th): Corazón salvaje
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Ogro un 20%. El efecto se duplica cuando se encuentra en estado <Rampage></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Ogro un 20%. El efecto se duplica cuando se encuentra en estado &lt;Rampage&gt;</span>
 
 ### 4th Skill (or 3rd): Canción de guerra reconfortante
- **Description:** <span style="color: #48b946;font-size:18px"><Rampage></span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Ogro un 20%. Daño aumentado al 200% del daño básico de la habilidad al encontrarse en estado de <Rampage></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Ogro un 20%. Daño aumentado al 200% del daño básico de la habilidad al encontrarse en estado de &lt;Rampage&gt;</span>
 
 ### 5th Skill (or 6th): Oleada antigua
- **Description:** <span style="color: #48b946;font-size:18px"><Cure Poison></span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 6th Skill (or 5th): Protección del patriarca
- **Description:** <span style="color: #48b946;font-size:18px"><Cure Poison></span><span style="color: #645252;font-size:18px">El efecto de la habilidad sigue teniendo efecto tras la muerte de la unidad de Ogro</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad sigue teniendo efecto tras la muerte de la unidad de Ogro</span>
 
 ## Technical info
  **runart:** 1

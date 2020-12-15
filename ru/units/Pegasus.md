@@ -3,7 +3,7 @@ title: "Пегас"
 permalink: /ru/units/Pegasus/
 excerpt: "Отряды null"
 unitID: 204
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Пегас"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Защита жизни: создает щит, укрывающий ближайшие отряды в вашей армии.
 
+ **Recommend:** Наносит дополнительный урон все замедленным врагам.
+
+ **Info:** Укрывает отряды щитом и вызывает Пегаса.
+
+## Basic stats
  **Base HP:** 1144.0
 
  **Base ATK:** 195.1
 
- **Recommend:** Наносит дополнительный урон все замедленным врагам.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 97.55 | 5.0 | 858.0 |
+  | Синий | 195.1 | 10.0 | 1716.0 |
+  | Blue +1 | 292.65 | 15.0 | 2574.0 |
+  | Синий +2 | 409.71 | 21.0 | 3603.6 |
+  | Фиолетовый | 526.77 | 27.0 | 4633.2 |
+  | Фиолетовый +1 | 643.83 | 33.0 | 5662.8 |
+  | Фиолетовый +2 | 780.4 | 40.0 | 6864.0 |
+  | Фиолетовый +3 | 916.97 | 47.0 | 8065.2 |
+  | Оранжевый | 1053.54 | 54.0 | 9266.4 |
+  | Оранжевый +1 | 1209.62 | 62.0 | 10639.2 |
+  | Оранжевый +2 | 1365.7 | 70.0 | 12012.0 |
+  | Orange +3 | 1521.78 | 78.0 | 13384.8 |
+  | Оранжевый +4 | 1677.86 | 86.0 | 14757.6 |
+  | Orange +5 | 1911.98 | 98.0 | 16816.8 |
+  | Red | 2224.14 | 114.0 | 19562.4 |
 
- **Info1:** Укрывает отряды щитом и вызывает Пегаса.
-
- **Info2:** Укрывает отряды щитом и вызывает Пегаса.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.412 | 0.6 | 2.6 | 137.28 |
+  | **3x** <i class="fas fa-star"/> | 27.314 | 0.63 | 3.2 | 160.16 |
+  | **4x** <i class="fas fa-star"/> | 31.216 | 0.66 | 3.8 | 183.04 |
+  | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
+  | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
 ### 1 Skill: null
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Критический удар отряда
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - Критический удар отряда
 
 ## Awaking
 ### Awaking Details
@@ -87,19 +110,19 @@ toc: true
  **Description:** 
 
 ### 2nd Skill (or 1st): Благословение леса
- **Description:** <span style="color: #48b946;font-size:18px"><Защита жизни></span><span style="color: #645252;font-size:18px">: эффект усиливается до 200% от эффекта предыдущего умения. В начале боя пегас применяет <Защиту жизни></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Защита жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается до 200% от эффекта предыдущего умения. В начале боя пегас применяет &lt;Защиту жизни&gt;</span>
 
 ### 3rd Skill (or 4th): Дикий клинок
- **Description:** <span style="color: #48b946;font-size:18px"><Острота бритвы></span><span style="color: #645252;font-size:18px">: скорость ATK пегаса увеличивается на 100% на 10 сек. при наличии щита</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Острота бритвы&gt;</span><span style="color: #645252;font-size:18px">: скорость ATK пегаса увеличивается на 100% на 10 сек. при наличии щита</span>
 
 ### 4th Skill (or 3rd): Терновый меч
- **Description:** <span style="color: #48b946;font-size:18px"><Острота бритвы></span><span style="color: #645252;font-size:18px">: обычные атаки уменьшают сопротивление цели урону на 10%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Острота бритвы&gt;</span><span style="color: #645252;font-size:18px">: обычные атаки уменьшают сопротивление цели урону на 10%</span>
 
 ### 5th Skill (or 6th): Мышление лидера
- **Description:** <span style="color: #48b946;font-size:18px"><Среброкрылая кавалерия></span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого отряда Бастиона на поле боя.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Среброкрылая кавалерия&gt;</span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого отряда Бастиона на поле боя.</span>
 
 ### 6th Skill (or 5th): Крылья вдохновения
- **Description:** <span style="color: #48b946;font-size:18px"><Среброкрылая кавалерия></span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого летающего отряда на поле боя.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Среброкрылая кавалерия&gt;</span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого летающего отряда на поле боя.</span>
 
 ## Technical info
  **runart:** 0

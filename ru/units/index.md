@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /ru/units/
 excerpt: "List of ALL Отряды in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "index.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
   | 18 | [Вампир](/ru/units/Vampire/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
   | 19 | [Василиск](/ru/units/Basilisk/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 2859 |  xiyi  |
   | 20 | [Виверна](/ru/units/Wyvern/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |
-  | 21 | [Всадники](/ru/units/Cavalier /) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
+  | 21 | [Всадники](/ru/units/Cavalier/) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  qishi  |
   | 22 | [Гарпия](/ru/units/Harpy/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |  yingshenren  |
   | 23 | [Гигант](/ru/units/Giant/) | Заклинатель | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  taitan  |
   | 24 | [Гидра](/ru/units/Hydra/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |

@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /fr/units/Red Dragon/
 excerpt: "Unités C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Dragon rouge"
 toc: true
@@ -28,28 +28,52 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Le Dragon rugit, ce qui l'immunise aux prises de contrôle. Le sang du dragon véritable résonne chez les autres membres de son espèce.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 769.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 384.65 | 8.0 | 4073.25 |
+  | Bleu | 769.3 | 16.0 | 8146.5 |
+  | Bleu +1 | 1153.95 | 24.0 | 12219.75 |
+  | Bleu +2 | 1615.53 | 33.6 | 17107.65 |
+  | Violet | 2077.11 | 43.2 | 21995.55 |
+  | Violet +1 | 2538.69 | 52.8 | 26883.45 |
+  | Violet +2 | 3077.2 | 64.0 | 32586.0 |
+  | Violet +3 | 3615.71 | 75.2 | 38288.55 |
+  | Orange | 4154.22 | 86.4 | 43991.1 |
+  | Orange +1 | 4769.66 | 99.2 | 50508.3 |
+  | Orange +2 | 5385.1 | 112.0 | 57025.5 |
+  | Orange +3 | 6000.54 | 124.8 | 63542.7 |
+  | Orange +4 | 6615.98 | 137.6 | 70059.9 |
+  | Orange +5 | 7539.14 | 156.8 | 79835.7 |
+  | Rouge | 8770.02 | 182.4 | 92870.1 |
 
- **Info1:** Le Dragon rugit, ce qui l'immunise aux prises de contrôle. Le sang du dragon véritable résonne chez les autres membres de son espèce.
-
- **Info2:** Le Dragon rugit, ce qui l'immunise aux prises de contrôle. Le sang du dragon véritable résonne chez les autres membres de son espèce.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 107.702 | 0.53 | 4.52 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 5.18 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.84 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Brasier rugissant
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon rouge rugit toutes les 15 secondes, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à tous les groupes de 2 unités ennemies à distance et aux Lanceurs de sorts, tout en infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts et une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à tous les groupes de 2 unités ennemies de mêlée. De plus, une marque haineuse sera infligée aux cibles pendant 17 secondes. Cet effet peut se cumuler jusqu'à 4 fois. Les dégâts infligés par Brasier rugissant augmenteront de 10 % par marque haineuse sur l'unité ennemie. Quand le Dragon rouge combat une unité de la Tour, ses dégâts augmentent de 50 %.</span><span style="color: black">
 
 ### 2 Skill: Souffle incandescent
- **Description:** <span style="color: #645252;font-size:20px">Les dégâts du Dragon rouge augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ses attaques normales infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts supplémentaires à 2 unités dans un certain rayon autour de la cible, et les </span><span style="color: black"><span style="color: #48b946;font-size:20px"><brûlent></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 8 secondes. Les dégâts du Dragon rouge augmentent de 50 % contre les unités de la Tour.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les dégâts du Dragon rouge augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ses attaques normales infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts supplémentaires à 2 unités dans un certain rayon autour de la cible, et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûlent&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 8 secondes. Les dégâts du Dragon rouge augmentent de 50 % contre les unités de la Tour.</span><span style="color: black">
 
 ### 3 Skill: Puissant briseur de sort
  **Description:** <span style="color: #645252;font-size:20px">Quand un Héros ennemi jette un sort, le Dragon rouge dévoile l'étendue de son pouvoir pour augmenter les dégâts des unités non défensives alliées du Donjon de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ainsi que leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il augmente également le bouclier de PV des unités défensives alliées du Donjon de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur renvoi des dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet dure 8 secondes, et peut se cumuler 2 fois.</span><span style="color: black">
 
 ### 4 Skill: Majesté du Dragon
- **Description:** <span style="color: #645252;font-size:20px">Le Dragon rouge est immunisé aux effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Brûlure></span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Saignement></span><span style="color: black"><span style="color: #645252;font-size:20px"> et </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Peste></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand le Dragon rouge se trouve sur le champ de bataille, il diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> la résistance magique des ennemis aux sorts de feu. L'effet est doublé contre les unités de la Tour. Lorsqu'il lance Brasier rugissant, le Dragon rouge a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance de déclencher Résonance draconique. Les unités Dragon lanceront une compétence d'éveil non spécifiée supplémentaire (Dragon vert/Dragon d'or - Renfort céleste ; Dragon squelette/Dragon fantôme - Effroi ; Hydre - Brume du chaos ; Dragon noir/Roi Dragon noir - Souffle du Dragon ; Wivern - Miasme sauvage ; Tortue dragon - Rempart des marées).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le Dragon rouge est immunisé aux effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand le Dragon rouge se trouve sur le champ de bataille, il diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> la résistance magique des ennemis aux sorts de feu. L'effet est doublé contre les unités de la Tour. Lorsqu'il lance Brasier rugissant, le Dragon rouge a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance de déclencher Résonance draconique. Les unités Dragon lanceront une compétence d'éveil non spécifiée supplémentaire (Dragon vert/Dragon d'or - Renfort céleste ; Dragon squelette/Dragon fantôme - Effroi ; Hydre - Brume du chaos ; Dragon noir/Roi Dragon noir - Souffle du Dragon ; Wivern - Miasme sauvage ; Tortue dragon - Rempart des marées).</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -59,13 +83,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* dégâts d'unité
+* Coup critique d'unité
 
-    - PV
-
-    - dégâts d'unité
-
-    - Coup critique d'unité
 
 ## Awaking
 ### Awaking Details
@@ -87,22 +109,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Écailles magnétiques
- **Description:** <span style="color: #48b946;font-size:18px"><Immunité à la magie> : </span><span style="color: #645252;font-size:18px">À chaque fois que <Souffle du Dragon> est lancé, le Dragon noir gagne un point de bonus. Ce bonus peut se cumuler jusqu'à 6 fois et ne peut pas être dissipé.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunité à la magie&gt; : </span><span style="color: #645252;font-size:18px">À chaque fois que &lt;Souffle du Dragon&gt; est lancé, le Dragon noir gagne un point de bonus. Ce bonus peut se cumuler jusqu'à 6 fois et ne peut pas être dissipé.</span>
 
 ### 2nd Skill (or 1st): Armure de dragon fondue
- **Description:** <span style="color: #48b946;font-size:18px"><Immunité à la magie> : </span><span style="color: #645252;font-size:18px">À chaque fois que <Souffle du Dragon> est lancé, le Dragon noir gagne 2 points de bonus. Ce bonus peut se cumuler jusqu'à 4 fois et ne peut pas être dissipé.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immunité à la magie&gt; : </span><span style="color: #645252;font-size:18px">À chaque fois que &lt;Souffle du Dragon&gt; est lancé, le Dragon noir gagne 2 points de bonus. Ce bonus peut se cumuler jusqu'à 4 fois et ne peut pas être dissipé.</span>
 
 ### 3rd Skill (or 4th): Nutrition mantellique
- **Description:** <span style="color: #48b946;font-size:18px"><Écaille de Dragon noir> : </span><span style="color: #645252;font-size:18px">Restaure 2 % des PV quand touché par un coup critique. Si le Dragon noir est touché par une attaque unique qui devrait lui faire perdre plus de 10 % de ses PV max, il est immunisé à tous les dégâts qui dépassent ces 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Écaille de Dragon noir&gt; : </span><span style="color: #645252;font-size:18px">Restaure 2 % des PV quand touché par un coup critique. Si le Dragon noir est touché par une attaque unique qui devrait lui faire perdre plus de 10 % de ses PV max, il est immunisé à tous les dégâts qui dépassent ces 10 %.</span>
 
 ### 4th Skill (or 3rd): Bloc volcanique
- **Description:** <span style="color: #48b946;font-size:18px"><Écaille de Dragon noir> : </span><span style="color: #645252;font-size:18px">Les soins du Dragon noir augmentent de 10 %. Si le Dragon noir est touché par une attaque unique qui devrait lui faire perdre plus de 10 % de ses PV max, il est immunisé à tous les dégâts qui dépassent ces 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Écaille de Dragon noir&gt; : </span><span style="color: #645252;font-size:18px">Les soins du Dragon noir augmentent de 10 %. Si le Dragon noir est touché par une attaque unique qui devrait lui faire perdre plus de 10 % de ses PV max, il est immunisé à tous les dégâts qui dépassent ces 10 %.</span>
 
 ### 5th Skill (or 6th): Nuée volcanique
- **Description:** <span style="color: #48b946;font-size:18px"><Souffle du Dragon> : </span><span style="color: #645252;font-size:18px">Les dégâts infligés par <Souffle du dragon> augmentent à 200 % de leur valeur précédente. Quand un Héros ennemi lance un sort, le Dragon noir utilise <Souffle du dragon> une fois (ne peut pas déclencher la compétence Briseur de sort). Le temps de recharge de la compétence est de 15 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Souffle du Dragon&gt; : </span><span style="color: #645252;font-size:18px">Les dégâts infligés par &lt;Souffle du dragon&gt; augmentent à 200 % de leur valeur précédente. Quand un Héros ennemi lance un sort, le Dragon noir utilise &lt;Souffle du dragon&gt; une fois (ne peut pas déclencher la compétence Briseur de sort). Le temps de recharge de la compétence est de 15 secondes.</span>
 
 ### 6th Skill (or 5th): Magma au cœur de la terre
- **Description:** <span style="color: #48b946;font-size:18px"><Souffle du Dragon> : </span><span style="color: #645252;font-size:18px">Le pourcentage de dégâts infligés par <Souffle du dragon> augmentent à 150 % de sa valeur précédente. Quand un Héros ennemi lance un sort, le Dragon noir utilise <Souffle du dragon> une fois (ne peut pas déclencher la compétence Briseur de sort). Le temps de recharge de la compétence est de 15 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Souffle du Dragon&gt; : </span><span style="color: #645252;font-size:18px">Le pourcentage de dégâts infligés par &lt;Souffle du dragon&gt; augmentent à 150 % de sa valeur précédente. Quand un Héros ennemi lance un sort, le Dragon noir utilise &lt;Souffle du dragon&gt; une fois (ne peut pas déclencher la compétence Briseur de sort). Le temps de recharge de la compétence est de 15 secondes.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /it/units/Hydra/
 excerpt: "Unità Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Idra"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Unità DPS eccezionale. Devasta i nemici con attacchi ininterrotti.
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 769.3
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 384.65 | 6.5 | 4327.5 |
+  | Blu | 769.3 | 13.0 | 8655.0 |
+  | Blu +1 | 1153.95 | 19.5 | 12982.5 |
+  | Blu +2 | 1615.53 | 27.3 | 18175.5 |
+  | Viola | 2077.11 | 35.1 | 23368.5 |
+  | Viola +1 | 2538.69 | 42.9 | 28561.5 |
+  | Viola +2 | 3077.2 | 52.0 | 34620.0 |
+  | Viola +3 | 3615.71 | 61.1 | 40678.5 |
+  | Arancione | 4154.22 | 70.2 | 46737.0 |
+  | Arancione +1 | 4769.66 | 80.6 | 53661.0 |
+  | Arancione +2 | 5385.1 | 91.0 | 60585.0 |
+  | Arancione +3 | 6000.54 | 101.4 | 67509.0 |
+  | Arancione +4 | 6615.98 | 111.8 | 74433.0 |
+  | Arancione +5 | 7539.14 | 127.4 | 84819.0 |
+  | Rosso | 8770.02 | 148.2 | 98667.0 |
 
- **Info1:** Unità DPS eccezionale. Devasta i nemici con attacchi ininterrotti.
-
- **Info2:** Unità DPS eccezionale. Devasta i nemici con attacchi ininterrotti.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 107.702 | 0.53 | 3.86 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 4.49 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
 ## Skills
 ### 1 Skill: Nebbia del Caos
@@ -46,23 +70,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Per ogni unità Fortezza schierata, l'Idra gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo CRIT aumenta di 100 per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### 4 Skill: Morso del cacciatore
- **Description:** <span style="color: #645252;font-size:20px">Se il suo attacco precedente è stato schivato, l'Idra attacca nuovamente infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danni. Una volta attivato <Morso del cacciatore>, l'Idra infligge un colpo critico garantito entro 3 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Se il suo attacco precedente è stato schivato, l'Idra attacca nuovamente infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danni. Una volta attivato &lt;Morso del cacciatore&gt;, l'Idra infligge un colpo critico garantito entro 3 secondi.</span><span style="color: black">
 
 ### 5 Skill: Attacco pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere <Pestilenza> e, quando affrontano unità affette da <Pestilenza>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Danno unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

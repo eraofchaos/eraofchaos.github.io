@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /fr/units/Regnan Pirates/
 excerpt: "Unités Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Pirates de Regna"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Attaque en plusieurs phases. Dégâts directs et DPS élevés.
+
+ **Info:** Fait un carnage en début de combat. DPS élevés. Réduit la DÉF des ennemis.
+
+## Basic stats
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
 
- **Recommend:** Attaque en plusieurs phases. Dégâts directs et DPS élevés.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 49.65 | 4.0 | 521.25 |
+  | Bleu | 99.3 | 8.0 | 1042.5 |
+  | Bleu +1 | 148.95 | 12.0 | 1563.75 |
+  | Bleu +2 | 208.53 | 16.8 | 2189.25 |
+  | Violet | 268.11 | 21.6 | 2814.75 |
+  | Violet +1 | 327.69 | 26.4 | 3440.25 |
+  | Violet +2 | 397.2 | 32.0 | 4170.0 |
+  | Violet +3 | 466.71 | 37.6 | 4899.75 |
+  | Orange | 536.22 | 43.2 | 5629.5 |
+  | Orange +1 | 615.66 | 49.6 | 6463.5 |
+  | Orange +2 | 695.1 | 56.0 | 7297.5 |
+  | Orange +3 | 774.54 | 62.4 | 8131.5 |
+  | Orange +4 | 853.98 | 68.8 | 8965.5 |
+  | Orange +5 | 973.14 | 78.4 | 10216.5 |
+  | Rouge | 1132.02 | 91.2 | 11884.5 |
 
- **Info1:** Fait un carnage en début de combat. DPS élevés. Réduit la DÉF des ennemis.
-
- **Info2:** Fait un carnage en début de combat. DPS élevés. Réduit la DÉF des ennemis.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.916 | 0.61 | 2.18 | 83.4 |
+  | **3x** <i class="fas fa-star"/> | 13.902 | 0.64 | 2.76 | 97.3 |
+  | **4x** <i class="fas fa-star"/> | 15.888 | 0.67 | 3.34 | 111.2 |
+  | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
+  | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
 ### 1 Skill: Pilleur des marées
@@ -49,20 +74,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Plus les Pirates de Regna perdent de PV, plus ils infligent de dégâts. Leur ATQ augmente lorsque les PV de la cible baissent. Leur ATQ peut augmenter jusqu'à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Zen
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'<Étourdissement> lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
 ### 6 Skill: Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Coup critique d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Coup critique d'unité
 
 ## Awaking
 ### Awaking Details

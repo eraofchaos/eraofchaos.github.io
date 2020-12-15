@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /it/units/Basilisk/
 excerpt: "Unità Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Basilisco"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Un tank in grado di controllare i nemici. Pietrifica tutte le unità circostanti quando muore.
+
+## Basic stats
  **Base HP:** 2859.0
 
  **Base ATK:** 121.1
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 60.55 | 14.0 | 2144.25 |
+  | Blu | 121.1 | 28.0 | 4288.5 |
+  | Blu +1 | 181.65 | 42.0 | 6432.75 |
+  | Blu +2 | 254.31 | 58.8 | 9005.85 |
+  | Viola | 326.97 | 75.6 | 11578.95 |
+  | Viola +1 | 399.63 | 92.4 | 14152.05 |
+  | Viola +2 | 484.4 | 112.0 | 17154.0 |
+  | Viola +3 | 569.17 | 131.6 | 20155.95 |
+  | Arancione | 653.94 | 151.2 | 23157.9 |
+  | Arancione +1 | 750.82 | 173.6 | 26588.7 |
+  | Arancione +2 | 847.7 | 196.0 | 30019.5 |
+  | Arancione +3 | 944.58 | 218.4 | 33450.3 |
+  | Arancione +4 | 1041.46 | 240.8 | 36881.1 |
+  | Arancione +5 | 1186.78 | 274.4 | 42027.3 |
+  | Rosso | 1380.54 | 319.2 | 48888.9 |
 
- **Info1:** Un tank in grado di controllare i nemici. Pietrifica tutte le unità circostanti quando muore.
-
- **Info2:** Un tank in grado di controllare i nemici. Pietrifica tutte le unità circostanti quando muore.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.954 | 0.33 | 7.16 | 400.26 |
+  | **4x** <i class="fas fa-star"/> | 19.376 | 0.35 | 7.94 | 457.44 |
+  | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 8.72 | 514.62 |
+  | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
 ### 1 Skill: Morso pietrificante
- **Description:** <span style="color: #645252;font-size:20px">Il Basilisco <span style="color: #48b946;font-size:20px"><pietrifica></span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Basilisco <span style="color: #48b946;font-size:20px">&lt;pietrifica&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### 2 Skill: Squama indistruttibile
  **Description:** <span style="color: #645252;font-size:20px">Il Basilisco gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -46,23 +70,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">La Rid DAN del Basilisco aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Rid DAN del Basilisco aumenta di un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### 4 Skill: Impatto pietrificante
- **Description:** <span style="color: #645252;font-size:20px">Quando muore, il Basilisco <span style="color: #48b946;font-size:20px"><pietrifica></span><span style="color: black"><span style="color: #645252;font-size:20px"> i nemici circostanti per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando muore, il Basilisco <span style="color: #48b946;font-size:20px">&lt;pietrifica&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i nemici circostanti per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### 5 Skill: Attacco pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere <Pestilenza> e, quando affrontano unità affette da <Pestilenza>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Riduzione danno unità
+* Resistenza magica
 
-    - PF
-
-    - Riduzione danno unità
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

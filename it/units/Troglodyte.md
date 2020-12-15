@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /it/units/Troglodyte/
 excerpt: "Unità Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Troglodita"
 toc: true
@@ -25,19 +25,45 @@ toc: true
 
  **Unit description:** Muro di lance: DAN e <Stordimento> ad area.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Unità offensiva e difensiva. Infligge danni extra ai nemici affetti da <Sanguinamento>.
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 43.0 | 4.25 | 558.0 |
+  | Blu | 86.0 | 8.5 | 1116.0 |
+  | Blu +1 | 129.0 | 12.75 | 1674.0 |
+  | Blu +2 | 180.6 | 17.85 | 2343.6 |
+  | Viola | 232.2 | 22.95 | 3013.2 |
+  | Viola +1 | 283.8 | 28.05 | 3682.8 |
+  | Viola +2 | 344.0 | 34.0 | 4464.0 |
+  | Viola +3 | 404.2 | 39.95 | 5245.2 |
+  | Arancione | 464.4 | 45.9 | 6026.4 |
+  | Arancione +1 | 533.2 | 52.7 | 6919.2 |
+  | Arancione +2 | 602.0 | 59.5 | 7812.0 |
+  | Arancione +3 | 670.8 | 66.3 | 8704.8 |
+  | Arancione +4 | 739.6 | 73.1 | 9597.6 |
+  | Arancione +5 | 842.8 | 83.3 | 10936.8 |
+  | Rosso | 980.4 | 96.9 | 12722.4 |
 
- **Info1:** Unità offensiva e difensiva. Infligge danni extra ai nemici affetti da <Sanguinamento>.
-
- **Info2:** Unità offensiva e difensiva. Infligge danni extra ai nemici affetti da <Sanguinamento>.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.6 | 0.49 | 1.7 | 74.4 |
+  | **2x** <i class="fas fa-star"/> | 10.32 | 0.51 | 2.29 | 89.28 |
+  | **3x** <i class="fas fa-star"/> | 12.04 | 0.54 | 2.87 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 13.76 | 0.56 | 3.46 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
 ### 1 Skill: Muro di lance
- **Description:** <span style="color: #645252;font-size:20px">I Trogloditi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni all'unità bersaglio e la </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordiscono></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">I Trogloditi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni all'unità bersaglio e la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
 
 ### 2 Skill: Acutezza
  **Description:** <span style="color: #645252;font-size:20px">I Trogloditi godono di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -46,7 +72,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">I Trogloditi godono di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
 
 ### 4 Skill: Lancia avvelenata
- **Description:** <span style="color: #645252;font-size:20px">DAN dell'attacco base dei Trogloditi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">DAN dell'attacco base dei Trogloditi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Colpo critico unità
+* Resistenza magica
 
-    - PF
-
-    - Colpo critico unità
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

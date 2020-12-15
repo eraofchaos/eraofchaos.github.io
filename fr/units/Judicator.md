@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /fr/units/Judicator/
 excerpt: "Unités Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Adjudicatrice"
 toc: true
@@ -28,25 +28,49 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Aura de groupe qui sert à restaurer les PV. L'aura protège contre les dégâts. Le sol sacré renforce vos alliés.
+
+## Basic stats
  **Base HP:** 6109.4
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 282.85 | 15.0 | 4582.05 |
+  | Bleu | 565.7 | 30.0 | 9164.1 |
+  | Bleu +1 | 848.55 | 45.0 | 13746.15 |
+  | Bleu +2 | 1187.97 | 63.0 | 19244.61 |
+  | Violet | 1527.39 | 81.0 | 24743.07 |
+  | Violet +1 | 1866.81 | 99.0 | 30241.53 |
+  | Violet +2 | 2262.8 | 120.0 | 36656.4 |
+  | Violet +3 | 2658.79 | 141.0 | 43071.27 |
+  | Orange | 3054.78 | 162.0 | 49486.14 |
+  | Orange +1 | 3507.34 | 186.0 | 56817.42 |
+  | Orange +2 | 3959.9 | 210.0 | 64148.7 |
+  | Orange +3 | 4412.46 | 234.0 | 71479.98 |
+  | Orange +4 | 4865.02 | 258.0 | 78811.26 |
+  | Orange +5 | 5543.86 | 294.0 | 89808.18 |
+  | Rouge | 6448.98 | 342.0 | 104470.74 |
 
- **Info1:** Aura de groupe qui sert à restaurer les PV. L'aura protège contre les dégâts. Le sol sacré renforce vos alliés.
-
- **Info2:** Aura de groupe qui sert à restaurer les PV. L'aura protège contre les dégâts. Le sol sacré renforce vos alliés.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.44 | 7.6 | 855.316 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.46 | 8.4 | 977.504 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
 ### 1 Skill: Rayon du jugement
- **Description:** <span style="color: #645252;font-size:20px">L'Adjudicatrice invoque deux Rayons du jugement toutes les 25 secondes. Quand les rayons apparaissent, ils <span style="color: #48b946;font-size:20px"><étourdissent></span><span style="color: black"> les ennemis à portée pendant 1 seconde, infligent une quantité de dégâts égale à <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)} %</span><span style="color: black"> des PV max de l'unité, et diminuent les soins des ennemis de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"> pendant 8 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Adjudicatrice invoque deux Rayons du jugement toutes les 25 secondes. Quand les rayons apparaissent, ils <span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"> les ennemis à portée pendant 1 seconde, infligent une quantité de dégâts égale à <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)} %</span><span style="color: black"> des PV max de l'unité, et diminuent les soins des ennemis de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"> pendant 8 secondes.</span><span style="color: black">
 
 ### 2 Skill: Bénédiction
- **Description:** <span style="color: #645252;font-size:20px">Au début d'un combat, l'Adjudicatrice confère <span style="color: #48b946;font-size:20px"><Exaltation></span><span style="color: black"> à tous les alliés pendant 10 secondes. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">L'Adjudicatrice confère </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Exaltation></span><span style="color: black"><span style="color: #645252;font-size:20px"> à tous les alliés sur son chemin toutes les <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> secondes. Cet effet dure 10 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Au début d'un combat, l'Adjudicatrice confère <span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"> à tous les alliés pendant 10 secondes. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">L'Adjudicatrice confère </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à tous les alliés sur son chemin toutes les <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> secondes. Cet effet dure 10 secondes.</span><span style="color: black">
 
 ### 3 Skill: Bénédiction de lumière
- **Description:** <span style="color: #645252;font-size:20px">Quand les PV d'une unité alliée sont réduits à moins de 25 % pour la première fois, l'Adjudicatrice lance <span style="color: #48b946;font-size:20px"><Abri de lumière></span><span style="color: black"> pour protéger ses compagnons pendant <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> secondes. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quand elle combat des unités de l'Hadès, les dégâts infligés par l'Adjudicatrice augmentent de 30 %, et sa résistance aux dégâts de 50 %.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand les PV d'une unité alliée sont réduits à moins de 25 % pour la première fois, l'Adjudicatrice lance <span style="color: #48b946;font-size:20px">&lt;Abri de lumière&gt;</span><span style="color: black"> pour protéger ses compagnons pendant <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> secondes. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quand elle combat des unités de l'Hadès, les dégâts infligés par l'Adjudicatrice augmentent de 30 %, et sa résistance aux dégâts de 50 %.</span><span style="color: black">
 
 ### 4 Skill: null
  **Description:** 
@@ -58,17 +82,15 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ### 7 Skill: Halo de théocratie
- **Description:** <span style="color: #645252;font-size:20px">Quand trois unités du Château sont déployées, les dégâts infligés par l'Adjudicatrice augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quand l'Adjudicatrice est en <span style="color: #48b946;font-size:20px"><Exaltation></span><span style="color: black">, elle peut révéler un <span style="color: #F0F000;font-size:20px"><Domaine théocratique></span><span style="color: black">, qui s'élargit au fur et à mesure que le niveau des compétences de l'unité augmente. Le domaine existe pendant 15 secondes, et a un temps de recharge de 30 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand trois unités du Château sont déployées, les dégâts infligés par l'Adjudicatrice augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quand l'Adjudicatrice est en <span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black">, elle peut révéler un <span style="color: #F0F000;font-size:20px">&lt;Domaine théocratique&gt;</span><span style="color: black">, qui s'élargit au fur et à mesure que le niveau des compétences de l'unité augmente. Le domaine existe pendant 15 secondes, et a un temps de recharge de 30 secondes.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Guérison
+* dégâts d'unité
 
-    - PV
-
-    - Guérison
-
-    - dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Exécution intrépide
- **Description:** <span style="color: #48b946;font-size:18px"><Renforts du courageux> : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Pour chaque Chef de sanctuaire sur le champ de bataille, la DÉF du Paladin suprême augmente de 15 %. Le sanctuaire restaure 10 % de PV lors des 3 premières invocations.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt; : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Pour chaque Chef de sanctuaire sur le champ de bataille, la DÉF du Paladin suprême augmente de 15 %. Le sanctuaire restaure 10 % de PV lors des 3 premières invocations.</span>
 
 ### 2nd Skill (or 1st): Gloire du sanctuaire
- **Description:** <span style="color: #48b946;font-size:18px"><Renforts du courageux> : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Les trois premières invocations augmentent les dégâts et la résistance aux dégâts de vos unités de 10 % pendant 30 secondes. Le Paladin suprême invoque un Chef du sanctuaire la première fois qu'il apparaît sur le champ de bataille.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Renforts du courageux&gt; : </span><span style="color: #645252;font-size:18px">Le Garde du sanctuaire est promu au rang de Chef du sanctuaire. Les trois premières invocations augmentent les dégâts et la résistance aux dégâts de vos unités de 10 % pendant 30 secondes. Le Paladin suprême invoque un Chef du sanctuaire la première fois qu'il apparaît sur le champ de bataille.</span>
 
 ### 3rd Skill (or 4th): Croyance et loyauté
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par \"Exaltation\".</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts du Paladin de 22 %. Cet effet n'est pas affecté par \"Exaltation\".</span>
 
 ### 4th Skill (or 3rd): Foi inébranlable
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:20px">La résistance aux dégâts du Paladin augmente de 15 % supplémentaires.</span><span style="color: #645252;font-size:20px"> Cet effet double en cas d'</span><span style="color: #48b946;font-size:20px"><Exaltation>.</span><span style="color: #645252;font-size:20px"></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:20px">La résistance aux dégâts du Paladin augmente de 15 % supplémentaires.</span><span style="color: #645252;font-size:20px"> Cet effet double en cas d'</span><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;.</span><span style="color: #645252;font-size:20px"></span>
 
 ### 5th Skill (or 6th): Persévérance
- **Description:** <span style="color: #48b946;font-size:18px"><Motivation> : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts critiques de 50 % et la ténacité de 150 points. Prolonge la durée d'Exaltation de 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts critiques de 50 % et la ténacité de 150 points. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
 ### 6th Skill (or 5th): Riposte agile
- **Description:** <span style="color: #48b946;font-size:18px"><Motivation> : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts de 15 % et la ténacité de 150 points pour toutes les unités à portée. Prolonge la durée d'Exaltation de 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Motivation&gt; : </span><span style="color: #645252;font-size:18px">Affecte toutes les unités alliées. Augmente les dégâts de 15 % et la ténacité de 150 points pour toutes les unités à portée. Prolonge la durée d'Exaltation de 10 secondes.</span>
 
 ## Technical info
  **runart:** 0

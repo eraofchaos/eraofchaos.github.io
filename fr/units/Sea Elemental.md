@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /fr/units/Sea Elemental/
 excerpt: "Unités Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Élémentaire de mer"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Excellentes capacités d'entrave et très bonne restauration.
+
+ **Info:** Puissant contrôle de combat. Affaiblit constamment les ennemis.
+
+## Basic stats
  **Base HP:** 1446.0
 
  **Base ATK:** 201.8
 
- **Recommend:** Excellentes capacités d'entrave et très bonne restauration.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 100.9 | 3.25 | 1084.5 |
+  | Bleu | 201.8 | 6.5 | 2169.0 |
+  | Bleu +1 | 302.7 | 9.75 | 3253.5 |
+  | Bleu +2 | 423.78 | 13.65 | 4554.9 |
+  | Violet | 544.86 | 17.55 | 5856.3 |
+  | Violet +1 | 665.94 | 21.45 | 7157.7 |
+  | Violet +2 | 807.2 | 26.0 | 8676.0 |
+  | Violet +3 | 948.46 | 30.55 | 10194.3 |
+  | Orange | 1089.72 | 35.1 | 11712.6 |
+  | Orange +1 | 1251.16 | 40.3 | 13447.8 |
+  | Orange +2 | 1412.6 | 45.5 | 15183.0 |
+  | Orange +3 | 1574.04 | 50.7 | 16918.2 |
+  | Orange +4 | 1735.48 | 55.9 | 18653.4 |
+  | Orange +5 | 1977.64 | 63.7 | 21256.2 |
+  | Rouge | 2300.52 | 74.1 | 24726.6 |
 
- **Info1:** Puissant contrôle de combat. Affaiblit constamment les ennemis.
-
- **Info2:** Puissant contrôle de combat. Affaiblit constamment les ennemis.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 20.18 | 0.4 | 1.3 | 144.6 |
+  | **2x** <i class="fas fa-star"/> | 24.216 | 0.42 | 1.87 | 173.52 |
+  | **3x** <i class="fas fa-star"/> | 28.252 | 0.44 | 2.43 | 202.44 |
+  | **4x** <i class="fas fa-star"/> | 32.288 | 0.46 | 3.0 | 231.36 |
+  | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
+  | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
 ### 1 Skill: Spirale temporelle
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de mer crée sur le sol un maelstrom de 10 secondes toutes les 30 secondes, diminuant la vitesse d'ATQ des ennemis à portée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par seconde. Le maelstrom inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts aux ennemis lorsqu'il se dissipe.</span><span style="color: black">
 
 ### 2 Skill: Présent des flots
- **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, l'Élémentaire de mer crée un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Bouclier de glace></span><span style="color: black"><span style="color: #645252;font-size:20px"> pour les unités alliées sur son chemin. L'Élémentaire de mer </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"ralentira\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis qui l'attaquent. Le bouclier dure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, l'Élémentaire de mer crée un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bouclier de glace&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour les unités alliées sur son chemin. L'Élémentaire de mer </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"ralentira\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis qui l'attaquent. Le bouclier dure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
 ### 3 Skill: Rite des marées
  **Description:** <span style="color: #645252;font-size:20px">Au début de la bataille, l'Élémentaire de mer génère un cercle qui augmente ses PV de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)} %</span><span style="color: black">. Diminue les soins des ennemis de 1 % toutes les 2 secondes pour toute la durée de la bataille.</span><span style="color: black">
@@ -49,20 +75,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de mer invoque un donjon aqueux toutes les 20 secondes, qui piège une unité aléatoire sur la ligne arrière ennemie, l'empêchant d'attaquer ou d'utiliser des compétences. Le donjon aqueux dure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
 ### 5 Skill: Zen
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'<Étourdissement> lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
 ### 6 Skill: Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Résistance magique
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Danse sanglante
- **Description:** <span style="color: #48b946;font-size:18px"><Danse tranchante> : </span><span style="color: #645252;font-size:18px">Au lancement, augmente la vitesse d'ATQ et le drain de vie des Nagas de 30 % pendant 20 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Danse tranchante&gt; : </span><span style="color: #645252;font-size:18px">Au lancement, augmente la vitesse d'ATQ et le drain de vie des Nagas de 30 % pendant 20 secondes.</span>
 
 ### 2nd Skill (or 1st): Danse tranchante
- **Description:** <span style="color: #48b946;font-size:18px"><Danse tranchante> : </span><span style="color: #645252;font-size:18px">Augmente les dégâts à 200 % de leur valeur précédente et les étend à l'ensemble des unités à portée.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Danse tranchante&gt; : </span><span style="color: #645252;font-size:18px">Augmente les dégâts à 200 % de leur valeur précédente et les étend à l'ensemble des unités à portée.</span>
 
 ### 3rd Skill (or 4th): Lame de volonté
- **Description:** <span style="color: #48b946;font-size:18px"><Reine des lames> : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Reine des lames&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente.</span>
 
 ### 4th Skill (or 3rd): Lame folle
- **Description:** <span style="color: #48b946;font-size:18px"><Reine des lames> : </span><span style="color: #645252;font-size:18px">Les coups et dégâts critiques confèrent un bonus à la Naga : l'effet augmente à 200 % de sa valeur précédente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Reine des lames&gt; : </span><span style="color: #645252;font-size:18px">Les coups et dégâts critiques confèrent un bonus à la Naga : l'effet augmente à 200 % de sa valeur précédente.</span>
 
 ### 5th Skill (or 6th): Peau magique
- **Description:** <span style="color: #48b946;font-size:18px"><Éveil magique> : </span><span style="color: #645252;font-size:18px">Immunise contre les dégâts de sorts pendant 3 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Immunise contre les dégâts de sorts pendant 3 secondes.</span>
 
 ### 6th Skill (or 5th): Lame enchantée
- **Description:** <span style="color: #48b946;font-size:18px"><Éveil magique> : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de l'unité de 30 % pendant 6 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Éveil magique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de l'unité de 30 % pendant 6 secondes.</span>
 
 ## Technical info
  **runart:** 0

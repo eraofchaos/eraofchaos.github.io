@@ -3,7 +3,7 @@ title: "Tartaruga draconica"
 permalink: /it/units/Dragon Turtle/
 excerpt: "Unità Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico."
 unitID: 9906
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Tartaruga draconica"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Tank, subisce i danni diretti alle unità alleate.
+
+ **Info:** Difensore eccezionale. Ripristina PF quando muore.
+
+## Basic stats
  **Base HP:** 12000.0
 
  **Base ATK:** 362.0
 
- **Recommend:** Tank, subisce i danni diretti alle unità alleate.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 181.0 | 17.0 | 7350.0 |
+  | Blu | 362.0 | 34.0 | 14700.0 |
+  | Blu +1 | 543.0 | 51.0 | 22050.0 |
+  | Blu +2 | 760.2 | 71.4 | 30870.0 |
+  | Viola | 977.4 | 91.8 | 39690.0 |
+  | Viola +1 | 1194.6 | 112.2 | 48510.0 |
+  | Viola +2 | 1448.0 | 136.0 | 58800.0 |
+  | Viola +3 | 1701.4 | 159.8 | 69090.0 |
+  | Arancione | 1954.8 | 183.6 | 79380.0 |
+  | Arancione +1 | 2244.4 | 210.8 | 91140.0 |
+  | Arancione +2 | 2534.0 | 238.0 | 102900.0 |
+  | Arancione +3 | 2823.6 | 265.2 | 114660.0 |
+  | Arancione +4 | 3113.2 | 292.4 | 126420.0 |
+  | Arancione +5 | 3547.6 | 333.2 | 144060.0 |
+  | Rosso | 4126.8 | 387.6 | 167580.0 |
 
- **Info1:** Difensore eccezionale. Ripristina PF quando muore.
-
- **Info2:** Difensore eccezionale. Ripristina PF quando muore.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 50.68 | 0.33 | 8.48 | 1372.0 |
+  | **4x** <i class="fas fa-star"/> | 57.92 | 0.35 | 9.32 | 1568.0 |
+  | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
+  | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
 ### 1 Skill: Rullo stritolante
@@ -43,26 +67,24 @@ toc: true
  **Description:** 
 
 ### 3 Skill: Baluardo delle maree
- **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, la Tartaruga draconica </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordisce></span><span style="color: black"><span style="color: #645252;font-size:20px"> le unità nemiche in un'ampia area per 2 secondi. Se <Scudo corazzato> è attivo da più di 20 secondi, la Tartaruga draconica recupera il 15% dei PF e gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, la Tartaruga draconica </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> le unità nemiche in un'ampia area per 2 secondi. Se &lt;Scudo corazzato&gt; è attivo da più di 20 secondi, la Tartaruga draconica recupera il 15% dei PF e gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
 
 ### 4 Skill: Rinforzo
  **Description:** <span style="color: #645252;font-size:20px">La Tartaruga draconica crea uno scudo rinforzato che aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e la resistenza magica (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per se stessa e per tutte le unità Baia alleate ogni 20 secondi. L'effetto dura 8 secondi e non può essere rimosso.</span><span style="color: black">
 
 ### 5 Skill: Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo <Stordimento>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### 6 Skill: Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Riduzione danno unità
 
-    - PF
-
-    - Difesa
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details

@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /fr/units/Wolf Rider/
 excerpt: "Unités Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Chevaucheur de loup"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Bête de compagnie : invoque des loups au combat lorsque l'unité meurt.
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** Invoque une bête de compagnie. Plus sa santé est basse, plus son attaque est puissante.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 36.4 | 5.5 | 645.0 |
+  | Bleu | 72.8 | 11.0 | 1290.0 |
+  | Bleu +1 | 109.2 | 16.5 | 1935.0 |
+  | Bleu +2 | 152.88 | 23.1 | 2709.0 |
+  | Violet | 196.56 | 29.7 | 3483.0 |
+  | Violet +1 | 240.24 | 36.3 | 4257.0 |
+  | Violet +2 | 291.2 | 44.0 | 5160.0 |
+  | Violet +3 | 342.16 | 51.7 | 6063.0 |
+  | Orange | 393.12 | 59.4 | 6966.0 |
+  | Orange +1 | 451.36 | 68.2 | 7998.0 |
+  | Orange +2 | 509.6 | 77.0 | 9030.0 |
+  | Orange +3 | 567.84 | 85.8 | 10062.0 |
+  | Orange +4 | 626.08 | 94.6 | 11094.0 |
+  | Orange +5 | 713.44 | 107.8 | 12642.0 |
+  | Rouge | 829.92 | 125.4 | 14706.0 |
 
- **Info1:** Invoque une bête de compagnie. Plus sa santé est basse, plus son attaque est puissante.
-
- **Info2:** Invoque une bête de compagnie. Plus sa santé est basse, plus son attaque est puissante.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.28 | 0.48 | 2.2 | 86.0 |
+  | **2x** <i class="fas fa-star"/> | 8.736 | 0.5 | 2.81 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.192 | 0.53 | 3.42 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.648 | 0.55 | 4.03 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
 ### 1 Skill: Bête de compagnie
  **Description:** <span style="color: #645252;font-size:20px">Quand il meurt, le Chevaucheur de loup invoque un Warg pour combattre à sa place. Le Warg a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV. Il demeure pendant toute la durée de la bataille.</span><span style="color: black">
 
 ### 2 Skill: Double frappe
- **Description:** <span style="color: #645252;font-size:20px">Les Chevaucheurs de loup ont </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'attaquer deux fois lors d'une attaque normale. La 2e attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible. Quand ils affrontent des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Lenteur></span><span style="color: black"><span style="color: #645252;font-size:20px">, les chances de déclencher <Double frappe> passent à 100 %.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les Chevaucheurs de loup ont </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'attaquer deux fois lors d'une attaque normale. La 2e attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible. Quand ils affrontent des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, les chances de déclencher &lt;Double frappe&gt; passent à 100 %.</span><span style="color: black">
 
 ### 3 Skill: Carnage
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques du Chevaucheur de loup augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* dégâts d'unité
+* Résistance magique
 
-    - PV
-
-    - dégâts d'unité
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Lignée de la bête
- **Description:** <span style="color: #48b946;font-size:18px"><Bête de compagnie> : </span><span style="color: #645252;font-size:18px">Augmente les coups critiques des Wargs invoqués de 400 points. Le Chevaucheur de loup invoque un autre Warg quand sa cible est abattue.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bête de compagnie&gt; : </span><span style="color: #645252;font-size:18px">Augmente les coups critiques des Wargs invoqués de 400 points. Le Chevaucheur de loup invoque un autre Warg quand sa cible est abattue.</span>
 
 ### 2nd Skill (or 1st): Ami des loups
- **Description:** <span style="color: #48b946;font-size:18px"><Bête de compagnie> : </span><span style="color: #645252;font-size:18px">Invoque un Warg qui augmente les dégâts de l'unité de 10 %. Au début de la bataille, 9 Wargs sont invoqués.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bête de compagnie&gt; : </span><span style="color: #645252;font-size:18px">Invoque un Warg qui augmente les dégâts de l'unité de 10 %. Au début de la bataille, 9 Wargs sont invoqués.</span>
 
 ### 3rd Skill (or 4th): Enthousiasme
- **Description:** <span style="color: #48b946;font-size:18px"><Carnage> : </span><span style="color: #645252;font-size:18px">La vitesse d'ATQ du Chevaucheur de loup augmente de 30 % pendant 20 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">La vitesse d'ATQ du Chevaucheur de loup augmente de 30 % pendant 20 secondes.</span>
 
 ### 4th Skill (or 3rd): Carnage sanguinaire
- **Description:** <span style="color: #48b946;font-size:18px"><Carnage> : </span><span style="color: #645252;font-size:18px">Les coups critiques du Chevaucheur de loup augmentent de 400 points. L'effet perdure même si l'unité regagne des PV.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">Les coups critiques du Chevaucheur de loup augmentent de 400 points. L'effet perdure même si l'unité regagne des PV.</span>
 
 ### 5th Skill (or 6th): Instinct de bête
- **Description:** <span style="color: #48b946;font-size:18px"><Furie sanguinaire> : </span><span style="color: #645252;font-size:18px">La régénération des PV augmente de 5 % quand un coup critique est porté.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furie sanguinaire&gt; : </span><span style="color: #645252;font-size:18px">La régénération des PV augmente de 5 % quand un coup critique est porté.</span>
 
 ### 6th Skill (or 5th): Prolongation
- **Description:** <span style="color: #48b946;font-size:18px"><Furie sanguinaire> : </span><span style="color: #645252;font-size:18px">Chaque coup critique augmente les coups critiques de 30 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furie sanguinaire&gt; : </span><span style="color: #645252;font-size:18px">Chaque coup critique augmente les coups critiques de 30 points.</span>
 
 ## Technical info
  **runart:** 1

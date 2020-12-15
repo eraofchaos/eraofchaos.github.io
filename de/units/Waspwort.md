@@ -3,7 +3,7 @@ title: "Wespenwurz"
 permalink: /de/units/Waspwort/
 excerpt: "Einheiten Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
 unitID: 808
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Wespenwurz"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** DPS-Einheit, die Kontrolle bietet. Beschwört Einheiten und hetzt sie auf den Feind.
+
+## Basic stats
  **Base HP:** 5543.0
 
  **Base ATK:** 950.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 475.15 | 9.5 | 4157.25 |
+  | Blau | 950.3 | 19.0 | 8314.5 |
+  | Blau +1 | 1425.45 | 28.5 | 12471.75 |
+  | Blau +2 | 1995.63 | 39.9 | 17460.45 |
+  | Lila | 2565.81 | 51.3 | 22449.15 |
+  | Lila +1 | 3135.99 | 62.7 | 27437.85 |
+  | Lila +2 | 3801.2 | 76.0 | 33258.0 |
+  | Lila +3 | 4466.41 | 89.3 | 39078.15 |
+  | Orange | 5131.62 | 102.6 | 44898.3 |
+  | Orange +1 | 5891.86 | 117.8 | 51549.9 |
+  | Orange +2 | 6652.1 | 133.0 | 58201.5 |
+  | Orange +3 | 7412.34 | 148.2 | 64853.1 |
+  | Orange +4 | 8172.58 | 163.4 | 71504.7 |
+  | Orange +5 | 9312.94 | 186.2 | 81482.1 |
+  | Rot | 10833.42 | 216.6 | 94785.3 |
 
- **Info1:** DPS-Einheit, die Kontrolle bietet. Beschwört Einheiten und hetzt sie auf den Feind.
-
- **Info2:** DPS-Einheit, die Kontrolle bietet. Beschwört Einheiten und hetzt sie auf den Feind.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 133.042 | 0.55 | 5.18 | 776.02 |
+  | **4x** <i class="fas fa-star"/> | 152.048 | 0.58 | 5.87 | 886.88 |
+  | **5x** <i class="fas fa-star"/> | 171.054 | 0.6 | 6.56 | 997.74 |
+  | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
 ## Skills
 ### 1 Skill: Seuchennadel
@@ -49,7 +73,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Wespenwurzes wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 75 für jeden Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
 ### 4 Skill: Schwarmstock
- **Description:** <span style="color: #645252;font-size:20px">Der Wespenwurz ist umgeben von Wespen, die seinen Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöhen. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wespenschwärme fügen gegnerischen Zeilen in Reichweite alle 0,1 Sek. Schaden in Höhe von 0,2 % der max. LP zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px"><lähmen></span><span style="color: black"><span style="color: #645252;font-size:20px"> sie. Ziele, denen sie Schaden zufügen, werden mit einer Wahrscheinlichkeit von 5 % 1 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px"><betäubt></span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wespenschwärme erhöhen die Schadensreduzierung verbündeter Festung-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Wespenwurz ist umgeben von Wespen, die seinen Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöhen. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wespenschwärme fügen gegnerischen Zeilen in Reichweite alle 0,1 Sek. Schaden in Höhe von 0,2 % der max. LP zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;lähmen&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie. Ziele, denen sie Schaden zufügen, werden mit einer Wahrscheinlichkeit von 5 % 1 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wespenschwärme erhöhen die Schadensreduzierung verbündeter Festung-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
@@ -59,13 +83,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Schaden (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -87,22 +109,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 0

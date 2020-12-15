@@ -3,7 +3,7 @@ title: "Zentaur"
 permalink: /de/units/Centaur/
 excerpt: "Einheiten Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Zentaur"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Kampfstampfer: Fügt den nächsten Einheiten Schaden zu und verlangsamt sie.
 
+ **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+
+ **Info:** Verursacht Verlangsamung bei Gegnern in Reichweite. Je mehr Abwehr-Einheiten in der Schlacht sind, desto stärker werden sie.
+
+## Basic stats
  **Base HP:** 2691.0
 
  **Base ATK:** 111.0
 
- **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 55.5 | 11.75 | 2018.25 |
+  | Blau | 111.0 | 23.5 | 4036.5 |
+  | Blau +1 | 166.5 | 35.25 | 6054.75 |
+  | Blau +2 | 233.1 | 49.35 | 8476.65 |
+  | Lila | 299.7 | 63.45 | 10898.55 |
+  | Lila +1 | 366.3 | 77.55 | 13320.45 |
+  | Lila +2 | 444.0 | 94.0 | 16146.0 |
+  | Lila +3 | 521.7 | 110.45 | 18971.55 |
+  | Orange | 599.4 | 126.9 | 21797.1 |
+  | Orange +1 | 688.2 | 145.7 | 25026.3 |
+  | Orange +2 | 777.0 | 164.5 | 28255.5 |
+  | Orange +3 | 865.8 | 183.3 | 31484.7 |
+  | Orange +4 | 954.6 | 202.1 | 34713.9 |
+  | Orange +5 | 1087.8 | 230.3 | 39557.7 |
+  | Rot | 1265.4 | 267.9 | 46016.1 |
 
- **Info1:** Verursacht Verlangsamung bei Gegnern in Reichweite. Je mehr Abwehr-Einheiten in der Schlacht sind, desto stärker werden sie.
-
- **Info2:** Verursacht Verlangsamung bei Gegnern in Reichweite. Je mehr Abwehr-Einheiten in der Schlacht sind, desto stärker werden sie.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 11.1 | 0.3 | 4.7 | 269.1 |
+  | **2x** <i class="fas fa-star"/> | 13.32 | 0.32 | 5.44 | 322.92 |
+  | **3x** <i class="fas fa-star"/> | 15.54 | 0.33 | 6.17 | 376.74 |
+  | **4x** <i class="fas fa-star"/> | 17.76 | 0.35 | 6.91 | 430.56 |
+  | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
+  | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
 ## Skills
 ### 1 Skill: Kampfstampfer
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Abwehr
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Zersplittern
- **Description:** <span style="color: #48b946;font-size:18px"><Kampfstampfer></span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten 15 Sek. lang zusätzlich um 20 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kampfstampfer&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten 15 Sek. lang zusätzlich um 20 %.</span>
 
 ### 2nd Skill (or 1st): Nachspiel
- **Description:** <span style="color: #48b946;font-size:18px"><Kampfstampfer></span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des Grundschadens der Fähigkeit erhöht, die Reichweite um 20 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kampfstampfer&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des Grundschadens der Fähigkeit erhöht, die Reichweite um 20 %.</span>
 
 ### 3rd Skill (or 4th): Unermüdlicher Marsch
- **Description:** <span style="color: #48b946;font-size:18px"><Stark></span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Zentauren wird erhöht um 20 %. Gegen Feinde mit „Verlangsamung“ wird der Effekt verdoppelt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Stark&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Zentauren wird erhöht um 20 %. Gegen Feinde mit „Verlangsamung“ wird der Effekt verdoppelt.</span>
 
 ### 4th Skill (or 3rd): Psalm des Lebens
- **Description:** <span style="color: #48b946;font-size:18px"><Stark></span><span style="color: #645252;font-size:18px">Der Zentaur regeneriert pro Sekunde 1 % seiner max. LP.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Stark&gt;</span><span style="color: #645252;font-size:18px">Der Zentaur regeneriert pro Sekunde 1 % seiner max. LP.</span>
 
 ### 5th Skill (or 6th): Wächterhaltung
- **Description:** <span style="color: #48b946;font-size:18px"><Furchtloser Anführer></span><span style="color: #645252;font-size:18px">Der Zentaur erhöht im Gefecht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich 20 Sek. lang um 20 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furchtloser Anführer&gt;</span><span style="color: #645252;font-size:18px">Der Zentaur erhöht im Gefecht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich 20 Sek. lang um 20 %.</span>
 
 ### 6th Skill (or 5th): Unbeugsamer Wille
- **Description:** <span style="color: #48b946;font-size:18px"><Furchtloser Anführer></span><span style="color: #645252;font-size:18px">Erhöht den ABW-Bonus 10 Sek. lang um 30 %, wenn der Zentaur einen Schild hat.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furchtloser Anführer&gt;</span><span style="color: #645252;font-size:18px">Erhöht den ABW-Bonus 10 Sek. lang um 30 %, wenn der Zentaur einen Schild hat.</span>
 
 ## Technical info
  **runart:** 1

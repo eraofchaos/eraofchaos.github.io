@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /es/units/Skeleton/
 excerpt: "Unidades Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Esqueleto"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Escudo óseo: aumenta la reducción de daño de la unidad cuando la vida se reduce por debajo del 50%.
 
+ **Recommend:** Las unidades con un Ataque elevado y poca vida son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Inmune a sangrado, refleja el daño y es resistente al daño a distancia.
+
+## Basic stats
  **Base HP:** 1158.0
 
  **Base ATK:** 57.9
 
- **Recommend:** Las unidades con un Ataque elevado y poca vida son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 28.95 | 8.75 | 868.5 |
+  | Azul | 57.9 | 17.5 | 1737.0 |
+  | Azul +1 | 86.85 | 26.25 | 2605.5 |
+  | Azul +2 | 121.59 | 36.75 | 3647.7 |
+  | Violeta | 156.33 | 47.25 | 4689.9 |
+  | Violeta +1 | 191.07 | 57.75 | 5732.1 |
+  | Violeta +2 | 231.6 | 70.0 | 6948.0 |
+  | Violeta +3 | 272.13 | 82.25 | 8163.9 |
+  | Naranja | 312.66 | 94.5 | 9379.8 |
+  | Naranja +1 | 358.98 | 108.5 | 10769.4 |
+  | Naranja +2 | 405.3 | 122.5 | 12159.0 |
+  | Naranja +3 | 451.62 | 136.5 | 13548.6 |
+  | Naranja +4 | 497.94 | 150.5 | 14938.2 |
+  | Naranja +5 | 567.42 | 171.5 | 17022.6 |
+  | Rojo | 660.06 | 199.5 | 19801.8 |
 
- **Info1:** Inmune a sangrado, refleja el daño y es resistente al daño a distancia.
-
- **Info2:** Inmune a sangrado, refleja el daño y es resistente al daño a distancia.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 5.79 | 0.36 | 3.5 | 115.8 |
+  | **2x** <i class="fas fa-star"/> | 6.948 | 0.38 | 4.18 | 138.96 |
+  | **3x** <i class="fas fa-star"/> | 8.106 | 0.4 | 4.85 | 162.12 |
+  | **4x** <i class="fas fa-star"/> | 9.264 | 0.41 | 5.53 | 185.28 |
+  | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
+  | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
 ### 1 Skill: Escudo óseo
@@ -49,20 +75,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Los Esqueletos son inmunes a </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño que reciben de las unidades a distancia se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con <Moral baja>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### 6 Skill: Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Defensa
+* Resistencia mágica
 
-    - PV
-
-    - Defensa
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Huesos encantados
- **Description:** <span style="color: #48b946;font-size:18px"><Rib Cage></span><span style="color: #645252;font-size:18px">Otorga una reducción de daño que también afecta a las unidades lanzahechizos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rib Cage&gt;</span><span style="color: #645252;font-size:18px">Otorga una reducción de daño que también afecta a las unidades lanzahechizos</span>
 
 ### 2nd Skill (or 1st): Esqueleto malvado
- **Description:** <span style="color: #48b946;font-size:18px"><Caja Torácica><span style="color: #645252;font-size:18px">Aumenta la DEF un 30%. El efecto se duplica si la unidad enemiga atacante está <desmoralizada></span>.
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caja Torácica&gt;<span style="color: #645252;font-size:18px">Aumenta la DEF un 30%. El efecto se duplica si la unidad enemiga atacante está &lt;desmoralizada&gt;</span>.
 
 ### 3rd Skill (or 4th): Nutrición mortal
- **Description:** <span style="color: #48b946;font-size:18px"><Turn to Stone></span><span style="color: #645252;font-size:18px">Aumenta la DEF un 30% por cada unidad hostil que muera durante la batalla; se acumula hasta 3 veces.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF un 30% por cada unidad hostil que muera durante la batalla; se acumula hasta 3 veces.</span>
 
 ### 4th Skill (or 3rd): Obsesión de los no muertos
- **Description:** <span style="color: #48b946;font-size:18px"><Convertir en Piedra></span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica y la DEF un 30%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Convertir en Piedra&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica y la DEF un 30%.</span>
 
 ### 5th Skill (or 6th): Armado hasta los dientes
- **Description:** <span style="color: #48b946;font-size:18px"><Bone Shield></span><span style="color: #645252;font-size:18px">El efecto dura toda la batalla</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bone Shield&gt;</span><span style="color: #645252;font-size:18px">El efecto dura toda la batalla</span>
 
 ### 6th Skill (or 5th): Potencial latente
- **Description:** <span style="color: #48b946;font-size:18px"><Convertir en Piedra></span><span style="color: #645252;font-size:18px">La habilidad se activa al entrar en la batalla. Duración aumentada a 30 s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Convertir en Piedra&gt;</span><span style="color: #645252;font-size:18px">La habilidad se activa al entrar en la batalla. Duración aumentada a 30 s.</span>
 
 ## Technical info
  **runart:** 1

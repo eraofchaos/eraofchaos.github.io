@@ -3,7 +3,7 @@ title: "Гог"
 permalink: /ru/units/Gog/
 excerpt: "Отряды Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Гог"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Стена Огня: наносит урон всем вражеским отрядам на своем пути.
 
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+
+ **Info:** Наносит высокий урон от магии Огня по области.
+
+## Basic stats
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 51.3 | 3.75 | 471.75 |
+  | Синий | 102.6 | 7.5 | 943.5 |
+  | Blue +1 | 153.9 | 11.25 | 1415.25 |
+  | Синий +2 | 215.46 | 15.75 | 1981.35 |
+  | Фиолетовый | 277.02 | 20.25 | 2547.45 |
+  | Фиолетовый +1 | 338.58 | 24.75 | 3113.55 |
+  | Фиолетовый +2 | 410.4 | 30.0 | 3774.0 |
+  | Фиолетовый +3 | 482.22 | 35.25 | 4434.45 |
+  | Оранжевый | 554.04 | 40.5 | 5094.9 |
+  | Оранжевый +1 | 636.12 | 46.5 | 5849.7 |
+  | Оранжевый +2 | 718.2 | 52.5 | 6604.5 |
+  | Orange +3 | 800.28 | 58.5 | 7359.3 |
+  | Оранжевый +4 | 882.36 | 64.5 | 8114.1 |
+  | Orange +5 | 1005.48 | 73.5 | 9246.3 |
+  | Red | 1169.64 | 85.5 | 10755.9 |
 
- **Info1:** Наносит высокий урон от магии Огня по области.
-
- **Info2:** Наносит высокий урон от магии Огня по области.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 10.26 | 0.42 | 1.5 | 62.9 |
+  | **2x** <i class="fas fa-star"/> | 12.312 | 0.44 | 2.08 | 75.48 |
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.46 | 2.65 | 88.06 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 100.64 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
 ### 1 Skill: null
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Критический удар отряда
+* Magic resistance
 
-    - ОЗ
-
-    - Критический удар отряда
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Запал
- **Description:** <span style="color: #48b946;font-size:18px"><Стена Огня></span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Длительность эффекта увеличена на 4 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена Огня&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Длительность эффекта увеличена на 4 сек.</span>
 
 ### 2nd Skill (or 1st): Поток огня
- **Description:** <span style="color: #48b946;font-size:18px"><Стена Огня></span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Стена огня расширяется со временем</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена Огня&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Стена огня расширяется со временем</span>
 
 ### 3rd Skill (or 4th): Раскаленное запрещенное заклинание
- **Description:** <span style="color: #48b946;font-size:18px"><Фантом огня></span><span style="color: #645252;font-size:18px">: урон, наносимый отрядом гогов, повышается на 10%. Бонус удваивается против горящих отрядов</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Фантом огня&gt;</span><span style="color: #645252;font-size:18px">: урон, наносимый отрядом гогов, повышается на 10%. Бонус удваивается против горящих отрядов</span>
 
 ### 4th Skill (or 3rd): Раскаленный глаз
- **Description:** <span style="color: #48b946;font-size:18px"><Фантом огня></span><span style="color: #645252;font-size:18px">: гог гарантированно наносит критический урон горящим отрядам</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Фантом огня&gt;</span><span style="color: #645252;font-size:18px">: гог гарантированно наносит критический урон горящим отрядам</span>
 
 ### 5th Skill (or 6th): Страж Инферно
- **Description:** <span style="color: #48b946;font-size:18px"><Воспламенение></span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд Инферно на поле боя</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд Инферно на поле боя</span>
 
 ### 6th Skill (or 5th): Волшебная ткань
- **Description:** <span style="color: #48b946;font-size:18px"><Воспламенение></span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд заклинателей на поле боя</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд заклинателей на поле боя</span>
 
 ## Technical info
  **runart:** 0

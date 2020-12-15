@@ -3,7 +3,7 @@ title: "Feuervogel"
 permalink: /de/units/Firebird/
 excerpt: "Einheiten Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht."
 unitID: 907
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Feuervogel"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Flammenodem: Fügt gegnerischen Einheiten vor sich Schaden zu.
 
+ **Recommend:** Hohe Schadensspitzen, hoher Angriffsschaden und Verbesserung von Feuerfähigkeiten.
+
+ **Info:** Kann wiederbeleben, fügt allen Zielen vor sich kolossalen Feuerschaden zu.
+
+## Basic stats
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
 
- **Recommend:** Hohe Schadensspitzen, hoher Angriffsschaden und Verbesserung von Feuerfähigkeiten.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 424.25 | 3.75 | 3393.75 |
+  | Blau | 848.5 | 7.5 | 6787.5 |
+  | Blau +1 | 1272.75 | 11.25 | 10181.25 |
+  | Blau +2 | 1781.85 | 15.75 | 14253.75 |
+  | Lila | 2290.95 | 20.25 | 18326.25 |
+  | Lila +1 | 2800.05 | 24.75 | 22398.75 |
+  | Lila +2 | 3394.0 | 30.0 | 27150.0 |
+  | Lila +3 | 3987.95 | 35.25 | 31901.25 |
+  | Orange | 4581.9 | 40.5 | 36652.5 |
+  | Orange +1 | 5260.7 | 46.5 | 42082.5 |
+  | Orange +2 | 5939.5 | 52.5 | 47512.5 |
+  | Orange +3 | 6618.3 | 58.5 | 52942.5 |
+  | Orange +4 | 7297.1 | 64.5 | 58372.5 |
+  | Orange +5 | 8315.3 | 73.5 | 66517.5 |
+  | Rot | 9672.9 | 85.5 | 77377.5 |
 
- **Info1:** Kann wiederbeleben, fügt allen Zielen vor sich kolossalen Feuerschaden zu.
-
- **Info2:** Kann wiederbeleben, fügt allen Zielen vor sich kolossalen Feuerschaden zu.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 118.79 | 0.44 | 2.65 | 633.5 |
+  | **4x** <i class="fas fa-star"/> | 135.76 | 0.46 | 3.23 | 724.0 |
+  | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
+  | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
 ### 1 Skill: Flammenodem
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Kritischer Treffer (Einheit)
+* Schaden (Einheit)
 
-    - LP
-
-    - Kritischer Treffer (Einheit)
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ewige Flamme
- **Description:** <span style="color: #48b946;font-size:18px"><Auferstehung></span><span style="color: #645252;font-size:18px">Wird nach jedem Tod wiedergeboren (AKZ der Fähigkeit 20 Sek.).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Wird nach jedem Tod wiedergeboren (AKZ der Fähigkeit 20 Sek.).</span>
 
 ### 2nd Skill (or 1st): Endloser Sturm
- **Description:** <span style="color: #48b946;font-size:18px"><Auferstehung></span><span style="color: #645252;font-size:18px">Nach der Auferstehung fügt die Einheit allen gegnerischen Einheiten Schaden in Höhe von 8 % der max. LP sowie 15 Sek. lang „Verbrennung“ zu.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Nach der Auferstehung fügt die Einheit allen gegnerischen Einheiten Schaden in Höhe von 8 % der max. LP sowie 15 Sek. lang „Verbrennung“ zu.</span>
 
 ### 3rd Skill (or 4th): Angriff des Kreuzes
- **Description:** <span style="color: #48b946;font-size:18px"><Flammenodem></span><span style="color: #645252;font-size:18px">Fügt Feinden in der Reihe des Ziels zusätzlichen Schaden zu (Ziele auf einer Kreuzung erleiden doppelten Schaden).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flammenodem&gt;</span><span style="color: #645252;font-size:18px">Fügt Feinden in der Reihe des Ziels zusätzlichen Schaden zu (Ziele auf einer Kreuzung erleiden doppelten Schaden).</span>
 
 ### 4th Skill (or 3rd): Lavaodem
- **Description:** <span style="color: #48b946;font-size:18px"><Flammenodem></span><span style="color: #645252;font-size:18px">Der Schaden wird auf 200 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flammenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden wird auf 200 % erhöht.</span>
 
 ### 5th Skill (or 6th): Endloser Zorn
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerverstärkung></span><span style="color: #645252;font-size:18px">Der Schaden der Einheit wird um weitere 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerverstärkung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Einheit wird um weitere 30 % erhöht.</span>
 
 ### 6th Skill (or 5th): Intensive Flammen
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerverstärkung></span><span style="color: #645252;font-size:18px">Gegen Ziele mit „Verbrennung“ wird ein garantierter kritischer Treffer erzielt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerverstärkung&gt;</span><span style="color: #645252;font-size:18px">Gegen Ziele mit „Verbrennung“ wird ein garantierter kritischer Treffer erzielt.</span>
 
 ## Technical info
  **runart:** 0

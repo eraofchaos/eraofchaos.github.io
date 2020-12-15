@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /es/units/Wicked Lady/
 excerpt: "Unidades  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Wicked Lady"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 633.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 316.8 | 12.0 | 4327.5 |
+  | Azul | 633.6 | 24.0 | 8655.0 |
+  | Azul +1 | 950.4 | 36.0 | 12982.5 |
+  | Azul +2 | 1330.56 | 50.4 | 18175.5 |
+  | Violeta | 1710.72 | 64.8 | 23368.5 |
+  | Violeta +1 | 2090.88 | 79.2 | 28561.5 |
+  | Violeta +2 | 2534.4 | 96.0 | 34620.0 |
+  | Violeta +3 | 2977.92 | 112.8 | 40678.5 |
+  | Naranja | 3421.44 | 129.6 | 46737.0 |
+  | Naranja +1 | 3928.32 | 148.8 | 53661.0 |
+  | Naranja +2 | 4435.2 | 168.0 | 60585.0 |
+  | Naranja +3 | 4942.08 | 187.2 | 67509.0 |
+  | Naranja +4 | 5448.96 | 206.4 | 74433.0 |
+  | Naranja +5 | 6209.28 | 235.2 | 84819.0 |
+  | Rojo | 7223.04 | 273.6 | 98667.0 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
 
 ## Skills
 ### 1 Skill:  Soul Burst
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Daño de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ruptura de formación
- **Description:** <span style="color: #48b946;font-size:18px"><Decisión táctica>:</span><span style="color: #645252;font-size:18px"> Aumenta la probabilidad de activación de un ataque normal un 50%, disminuye la tenacidad de las unidades cuerpo a cuerpo en 60 y la DEF un 2%. Dura 6 s, se acumula hasta 5 veces</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Decisión táctica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta la probabilidad de activación de un ataque normal un 50%, disminuye la tenacidad de las unidades cuerpo a cuerpo en 60 y la DEF un 2%. Dura 6 s, se acumula hasta 5 veces</span>
 
 ### 2nd Skill (or 1st): Estrategia de incursión
- **Description:** <span style="color: #48b946;font-size:18px"><Decisión táctica>:</span><span style="color: #645252;font-size:18px"> La probabilidad de activar un ataque normal aumenta en un 50%. Al luchar contra unidades a distancia/lanzadoras, aumenta el daño crítico y el daño de la unidad propios en un 4% adicional. Dura 6 s, se acumula hasta 5 veces</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Decisión táctica&gt;:</span><span style="color: #645252;font-size:18px"> La probabilidad de activar un ataque normal aumenta en un 50%. Al luchar contra unidades a distancia/lanzadoras, aumenta el daño crítico y el daño de la unidad propios en un 4% adicional. Dura 6 s, se acumula hasta 5 veces</span>
 
 ### 3rd Skill (or 4th): Grito de retirada
- **Description:** <span style="color: #48b946;font-size:18px"><Chillido de rompehechizos></span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, se reducirá un 20% el efecto de curación de las unidades defensivas hostiles. Cuando tu enemigo lance un hechizo de magia de agua, se reducirá la velocidad de ataque de las unidades ofensivas a distancia hostiles un 20%. Cuando tu enemigo lance un hechizo de magia de fuego, reducirá el daño de las unidades ofensivas hostiles un 20 %. Cuando tu enemigo lance un hechizo de magia de aire, las unidades lanzadoras hostiles quedarán silenciadas durante 1,5 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chillido de rompehechizos&gt;</span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, se reducirá un 20% el efecto de curación de las unidades defensivas hostiles. Cuando tu enemigo lance un hechizo de magia de agua, se reducirá la velocidad de ataque de las unidades ofensivas a distancia hostiles un 20%. Cuando tu enemigo lance un hechizo de magia de fuego, reducirá el daño de las unidades ofensivas hostiles un 20 %. Cuando tu enemigo lance un hechizo de magia de aire, las unidades lanzadoras hostiles quedarán silenciadas durante 1,5 s</span>
 
 ### 4th Skill (or 3rd): Poder de rompehechizos
- **Description:** <span style="color: #48b946;font-size:18px"><Chillido de rompehechizos></span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, aumentará un 15% el efecto de curación de tus unidades defensivas y las unidades defensivas amistosas. Cuando tu enemigo lance un hechizo de magia de agua, aumentará la velocidad de ataque de tus unidades a distancia y las unidades ofensivas a distancia amistosas un 15%. Cuando tu enemigo lance un hechizo de magia de fuego, aumentará el daño de tus unidades ofensivas y las unidades ofensivas amistosas un 15 %. Cuando tu enemigo lance un hechizo de magia de aire, tus unidades lanzadoras y las unidades lanzadoras amistosas se volverán inmunes a silencio durante 2 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chillido de rompehechizos&gt;</span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, aumentará un 15% el efecto de curación de tus unidades defensivas y las unidades defensivas amistosas. Cuando tu enemigo lance un hechizo de magia de agua, aumentará la velocidad de ataque de tus unidades a distancia y las unidades ofensivas a distancia amistosas un 15%. Cuando tu enemigo lance un hechizo de magia de fuego, aumentará el daño de tus unidades ofensivas y las unidades ofensivas amistosas un 15 %. Cuando tu enemigo lance un hechizo de magia de aire, tus unidades lanzadoras y las unidades lanzadoras amistosas se volverán inmunes a silencio durante 2 s</span>
 
 ### 5th Skill (or 6th): Sangre envenenada impregnada
- **Description:** <span style="color: #48b946;font-size:18px"><Spattered Poisoned Blood></span><span style="color: #645252;font-size:18px"><Spattered Poisoned Blood> se activará cuando la unidad objetivo caiga derrotada. Se puede activar 3 veces. Garantiza activar el efecto de la Sangre envenenada salpicada cada 30 segundos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spattered Poisoned Blood&gt;</span><span style="color: #645252;font-size:18px">&lt;Spattered Poisoned Blood&gt; se activará cuando la unidad objetivo caiga derrotada. Se puede activar 3 veces. Garantiza activar el efecto de la Sangre envenenada salpicada cada 30 segundos</span>
 
 ### 6th Skill (or 5th): Pulverización venenosa
- **Description:** <span style="color: #48b946;font-size:18px"><Sangre envenenada salpicada></span><span style="color: #645252;font-size:18px"><Sangre envenenada salpicada> aumenta el efecto de la reducción de DEF un 50% y puede activarse 3 veces como máximo cuando la unidad objetivo es asesinada. Puede activarse una vez más tras 15 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sangre envenenada salpicada&gt;</span><span style="color: #645252;font-size:18px">&lt;Sangre envenenada salpicada&gt; aumenta el efecto de la reducción de DEF un 50% y puede activarse 3 veces como máximo cuando la unidad objetivo es asesinada. Puede activarse una vez más tras 15 s</span>
 
 ## Technical info
  **runart:** 1

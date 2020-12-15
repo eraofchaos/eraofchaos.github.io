@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /de/units/Troglodyte/
 excerpt: "Einheiten Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Troglodyt"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Speerformation: Flächenschaden, Betäubung.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Abwehr und Angriff. Verursacht zusätzlichen Schaden bei blutenden Einheiten.
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 43.0 | 4.25 | 558.0 |
+  | Blau | 86.0 | 8.5 | 1116.0 |
+  | Blau +1 | 129.0 | 12.75 | 1674.0 |
+  | Blau +2 | 180.6 | 17.85 | 2343.6 |
+  | Lila | 232.2 | 22.95 | 3013.2 |
+  | Lila +1 | 283.8 | 28.05 | 3682.8 |
+  | Lila +2 | 344.0 | 34.0 | 4464.0 |
+  | Lila +3 | 404.2 | 39.95 | 5245.2 |
+  | Orange | 464.4 | 45.9 | 6026.4 |
+  | Orange +1 | 533.2 | 52.7 | 6919.2 |
+  | Orange +2 | 602.0 | 59.5 | 7812.0 |
+  | Orange +3 | 670.8 | 66.3 | 8704.8 |
+  | Orange +4 | 739.6 | 73.1 | 9597.6 |
+  | Orange +5 | 842.8 | 83.3 | 10936.8 |
+  | Rot | 980.4 | 96.9 | 12722.4 |
 
- **Info1:** Abwehr und Angriff. Verursacht zusätzlichen Schaden bei blutenden Einheiten.
-
- **Info2:** Abwehr und Angriff. Verursacht zusätzlichen Schaden bei blutenden Einheiten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.6 | 0.49 | 1.7 | 74.4 |
+  | **2x** <i class="fas fa-star"/> | 10.32 | 0.51 | 2.29 | 89.28 |
+  | **3x** <i class="fas fa-star"/> | 12.04 | 0.54 | 2.87 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 13.76 | 0.56 | 3.46 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
 ### 1 Skill: Speerformation
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Kritischer Treffer (Einheit)
+* Magieresistenz
 
-    - LP
-
-    - Kritischer Treffer (Einheit)
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 1

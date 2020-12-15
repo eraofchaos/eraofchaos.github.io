@@ -3,7 +3,7 @@ title: "Elementale della pietra"
 permalink: /it/units/Stone Elemental/
 excerpt: "Unità L'Elementale della pietra è il risultato della fusione di numerosi minerali attraverso l'intervento di processi geologici. È in grado di dividersi in Elementali più piccoli, che continuano imperterriti a combattere."
 unitID: 905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Elementale della pietra"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** <Stordisce> tutte le unità circostanti, <Scissione mortale>, resistenza elevata.
+
+## Basic stats
  **Base HP:** 2825.0
 
  **Base ATK:** 121.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 60.5 | 12.5 | 2118.75 |
+  | Blu | 121.0 | 25.0 | 4237.5 |
+  | Blu +1 | 181.5 | 37.5 | 6356.25 |
+  | Blu +2 | 254.1 | 52.5 | 8898.75 |
+  | Viola | 326.7 | 67.5 | 11441.25 |
+  | Viola +1 | 399.3 | 82.5 | 13983.75 |
+  | Viola +2 | 484.0 | 100.0 | 16950.0 |
+  | Viola +3 | 568.7 | 117.5 | 19916.25 |
+  | Arancione | 653.4 | 135.0 | 22882.5 |
+  | Arancione +1 | 750.2 | 155.0 | 26272.5 |
+  | Arancione +2 | 847.0 | 175.0 | 29662.5 |
+  | Arancione +3 | 943.8 | 195.0 | 33052.5 |
+  | Arancione +4 | 1040.6 | 215.0 | 36442.5 |
+  | Arancione +5 | 1185.8 | 245.0 | 41527.5 |
+  | Rosso | 1379.4 | 285.0 | 48307.5 |
 
- **Info1:** <Stordisce> tutte le unità circostanti, <Scissione mortale>, resistenza elevata.
-
- **Info2:** <Stordisce> tutte le unità circostanti, <Scissione mortale>, resistenza elevata.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.94 | 0.35 | 6.5 | 395.5 |
+  | **4x** <i class="fas fa-star"/> | 19.36 | 0.37 | 7.25 | 452.0 |
+  | **5x** <i class="fas fa-star"/> | 21.78 | 0.38 | 8.0 | 508.5 |
+  | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
 ### 1 Skill: Roccia frantumata
@@ -46,7 +70,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale della pietra è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Terra (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e riduce la resistenza dei nemici agli incantesimi di tipo Terra (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se l'Elementale della pietra è sul campo di battaglia, riduce il mana iniziale dell'eroe nemico di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Eco della Terra
- **Description:** <span style="color: #645252;font-size:20px">Quando l'Elementale della pietra e gli Elementali minori vengono sconfitti, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni alle unità nemiche in un'ampia area e le </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordiscono></span><span style="color: black"><span style="color: #645252;font-size:20px"> per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando l'Elementale della pietra e gli Elementali minori vengono sconfitti, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni alle unità nemiche in un'ampia area e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### 5 Skill: Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Riduzione danno unità
 
-    - PF
-
-    - Difesa
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

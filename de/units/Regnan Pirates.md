@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /de/units/Regnan Pirates/
 excerpt: "Einheiten Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Regnanpirat"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Mehrstufiger Angriff, hohe Schadensspitzen, hoher DPS.
+
+ **Info:** Läuft zu Beginn der Schlacht Amok. Starker DPS. Reduziert die gegnerische ABW.
+
+## Basic stats
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
 
- **Recommend:** Mehrstufiger Angriff, hohe Schadensspitzen, hoher DPS.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 49.65 | 4.0 | 521.25 |
+  | Blau | 99.3 | 8.0 | 1042.5 |
+  | Blau +1 | 148.95 | 12.0 | 1563.75 |
+  | Blau +2 | 208.53 | 16.8 | 2189.25 |
+  | Lila | 268.11 | 21.6 | 2814.75 |
+  | Lila +1 | 327.69 | 26.4 | 3440.25 |
+  | Lila +2 | 397.2 | 32.0 | 4170.0 |
+  | Lila +3 | 466.71 | 37.6 | 4899.75 |
+  | Orange | 536.22 | 43.2 | 5629.5 |
+  | Orange +1 | 615.66 | 49.6 | 6463.5 |
+  | Orange +2 | 695.1 | 56.0 | 7297.5 |
+  | Orange +3 | 774.54 | 62.4 | 8131.5 |
+  | Orange +4 | 853.98 | 68.8 | 8965.5 |
+  | Orange +5 | 973.14 | 78.4 | 10216.5 |
+  | Rot | 1132.02 | 91.2 | 11884.5 |
 
- **Info1:** Läuft zu Beginn der Schlacht Amok. Starker DPS. Reduziert die gegnerische ABW.
-
- **Info2:** Läuft zu Beginn der Schlacht Amok. Starker DPS. Reduziert die gegnerische ABW.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.916 | 0.61 | 2.18 | 83.4 |
+  | **3x** <i class="fas fa-star"/> | 13.902 | 0.64 | 2.76 | 97.3 |
+  | **4x** <i class="fas fa-star"/> | 15.888 | 0.67 | 3.34 | 111.2 |
+  | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
+  | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
 ### 1 Skill: Gezeitenbeute
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details

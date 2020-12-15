@@ -3,7 +3,7 @@ title: "Unknown_TEAM_9905"
 permalink: /ru/units/Mermaid/
 excerpt: "Отряды null"
 unitID: 9905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Unknown_TEAM_9905"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Сильный целитель. В начале боя дает значительное усиление.
+
+## Basic stats
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 92.5 | 3.5 | 1236.0 |
+  | Синий | 185.0 | 7.0 | 2472.0 |
+  | Blue +1 | 277.5 | 10.5 | 3708.0 |
+  | Синий +2 | 388.5 | 14.7 | 5191.2 |
+  | Фиолетовый | 499.5 | 18.9 | 6674.4 |
+  | Фиолетовый +1 | 610.5 | 23.1 | 8157.6 |
+  | Фиолетовый +2 | 740.0 | 28.0 | 9888.0 |
+  | Фиолетовый +3 | 869.5 | 32.9 | 11618.4 |
+  | Оранжевый | 999.0 | 37.8 | 13348.8 |
+  | Оранжевый +1 | 1147.0 | 43.4 | 15326.4 |
+  | Оранжевый +2 | 1295.0 | 49.0 | 17304.0 |
+  | Orange +3 | 1443.0 | 54.6 | 19281.6 |
+  | Оранжевый +4 | 1591.0 | 60.2 | 21259.2 |
+  | Orange +5 | 1813.0 | 68.6 | 24225.6 |
+  | Red | 2109.0 | 79.8 | 28180.8 |
 
- **Info1:** Сильный целитель. В начале боя дает значительное усиление.
-
- **Info2:** Сильный целитель. В начале боя дает значительное усиление.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 25.9 | 0.56 | 2.54 | 230.72 |
+  | **4x** <i class="fas fa-star"/> | 29.6 | 0.59 | 3.11 | 263.68 |
+  | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
+  | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
 ### 1 Skill: null
@@ -46,7 +70,7 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Лазурная песня
- **Description:** <span style="color: #645252;font-size:20px">Русалки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению. Когда русалки используют <Ре мажор>, снимаются все ослабления с союзного отряда с самым низким процентом ОЗ.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Русалки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению. Когда русалки используют &lt;Ре мажор&gt;, снимаются все ослабления с союзного отряда с самым низким процентом ОЗ.</span><span style="color: black">
 
 ### 5 Skill: Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Исцеление
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - Исцеление
 
 ## Awaking
 ### Awaking Details

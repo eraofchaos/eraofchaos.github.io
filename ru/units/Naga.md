@@ -3,7 +3,7 @@ title: "Нага"
 permalink: /ru/units/Naga/
 excerpt: "Отряды null"
 unitID: 606
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Нага"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Танец лезвия: наносит урон в области, снижает защиту от него
 
+ **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
+
+ **Info:** Наносит высочайший урон по области. Заклинания героев приводят к срабатыванию усиления атаки.
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 112.5 | 5.0 | 1351.5 |
+  | Синий | 225.0 | 10.0 | 2703.0 |
+  | Blue +1 | 337.5 | 15.0 | 4054.5 |
+  | Синий +2 | 472.5 | 21.0 | 5676.3 |
+  | Фиолетовый | 607.5 | 27.0 | 7298.1 |
+  | Фиолетовый +1 | 742.5 | 33.0 | 8919.9 |
+  | Фиолетовый +2 | 900.0 | 40.0 | 10812.0 |
+  | Фиолетовый +3 | 1057.5 | 47.0 | 12704.1 |
+  | Оранжевый | 1215.0 | 54.0 | 14596.2 |
+  | Оранжевый +1 | 1395.0 | 62.0 | 16758.6 |
+  | Оранжевый +2 | 1575.0 | 70.0 | 18921.0 |
+  | Orange +3 | 1755.0 | 78.0 | 21083.4 |
+  | Оранжевый +4 | 1935.0 | 86.0 | 23245.8 |
+  | Orange +5 | 2205.0 | 98.0 | 26489.4 |
+  | Red | 2565.0 | 114.0 | 30814.2 |
 
- **Info1:** Наносит высочайший урон по области. Заклинания героев приводят к срабатыванию усиления атаки.
-
- **Info2:** Наносит высочайший урон по области. Заклинания героев приводят к срабатыванию усиления атаки.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 31.5 | 0.51 | 3.2 | 252.28 |
+  | **4x** <i class="fas fa-star"/> | 36.0 | 0.53 | 3.8 | 288.32 |
+  | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
+  | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
 ### 1 Skill: Танец клинков
@@ -46,7 +70,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Когда нага на поле боя, все союзные атакующие отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. В то же самое время нага получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
 ### 4 Skill: Магическое пробуждение
- **Description:** <span style="color: #645252;font-size:20px">При усилении нага заклинанием поддержки союзного героя они применяют <Танец клинков> к выбранному отряду, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и снижая их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз. </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">При усилении нага заклинанием поддержки союзного героя они применяют &lt;Танец клинков&gt; к выбранному отряду, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и снижая их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз. </span><span style="color: black">
 
 ### 5 Skill: Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Критический удар отряда
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - Критический удар отряда
 
 ## Awaking
 ### Awaking Details
@@ -84,19 +106,19 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Кровавый танец
- **Description:** <span style="color: #48b946;font-size:18px"><Танец клинков></span><span style="color: #645252;font-size:18px">: при активном применении скорость атаки и высасывание жизни нага повышаются на 30% через следующие 20 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: при активном применении скорость атаки и высасывание жизни нага повышаются на 30% через следующие 20 сек.</span>
 
 ### 2nd Skill (or 1st): Танец острых клинков
- **Description:** <span style="color: #48b946;font-size:18px"><Танец клинков></span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения, нанося урон всем отрядам в зоне поражения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения, нанося урон всем отрядам в зоне поражения</span>
 
 ### 3rd Skill (or 4th): Клинок воли
- **Description:** <span style="color: #48b946;font-size:18px"><Королева клинков></span><span style="color: #645252;font-size:18px">: бонусный эффект усиливается до 150% от эффекта предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: бонусный эффект усиливается до 150% от эффекта предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Безумный клинок
- **Description:** <span style="color: #48b946;font-size:18px"><Королева клинков></span><span style="color: #645252;font-size:18px">: нага получает бонус к критическому попаданию и критическому урону. Эффект усиливается до 200% от предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: нага получает бонус к критическому попаданию и критическому урону. Эффект усиливается до 200% от предыдущего умения</span>
 
 ### 5th Skill (or 6th): Волшебная кожа
- **Description:** <span style="color: #48b946;font-size:18px"><Магическое пробуждение></span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
  **Description:** 

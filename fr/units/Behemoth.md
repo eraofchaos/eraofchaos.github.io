@@ -3,7 +3,7 @@ title: "Béhémoth"
 permalink: /fr/units/Behemoth/
 excerpt: "Unités Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis."
 unitID: 407
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Béhémoth"
 toc: true
@@ -25,22 +25,46 @@ toc: true
 
  **Unit description:** Rugissement : réduit considérablement l'attaque de l'ennemi et l'étourdit.
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** La meilleure unité défensive, experte en entrave et pour défendre les troupes plus vulnérables.
+
+## Basic stats
  **Base HP:** 10182.0
 
  **Base ATK:** 407.3
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 203.65 | 15.0 | 7636.5 |
+  | Bleu | 407.3 | 30.0 | 15273.0 |
+  | Bleu +1 | 610.95 | 45.0 | 22909.5 |
+  | Bleu +2 | 855.33 | 63.0 | 32073.3 |
+  | Violet | 1099.71 | 81.0 | 41237.1 |
+  | Violet +1 | 1344.09 | 99.0 | 50400.9 |
+  | Violet +2 | 1629.2 | 120.0 | 61092.0 |
+  | Violet +3 | 1914.31 | 141.0 | 71783.1 |
+  | Orange | 2199.42 | 162.0 | 82474.2 |
+  | Orange +1 | 2525.26 | 186.0 | 94692.6 |
+  | Orange +2 | 2851.1 | 210.0 | 106911.0 |
+  | Orange +3 | 3176.94 | 234.0 | 119129.4 |
+  | Orange +4 | 3502.78 | 258.0 | 131347.8 |
+  | Orange +5 | 3991.54 | 294.0 | 149675.4 |
+  | Rouge | 4643.22 | 342.0 | 174112.2 |
 
- **Info1:** La meilleure unité défensive, experte en entrave et pour défendre les troupes plus vulnérables.
-
- **Info2:** La meilleure unité défensive, experte en entrave et pour défendre les troupes plus vulnérables.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 57.022 | 0.35 | 7.6 | 1425.48 |
+  | **4x** <i class="fas fa-star"/> | 65.168 | 0.37 | 8.4 | 1629.12 |
+  | **5x** <i class="fas fa-star"/> | 73.314 | 0.38 | 9.2 | 1832.76 |
+  | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
 ### 1 Skill: Rugissement
- **Description:** <span style="color: #645252;font-size:20px">Le Béhémoth inflige une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à toutes les unités ennemies dans une large zone autour de lui, il les </span><span style="color: black"><span style="color: #48b946;font-size:20px"><étourdit></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes, et réduit leur attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ainsi que leur résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 20 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le Béhémoth inflige une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à toutes les unités ennemies dans une large zone autour de lui, il les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes, et réduit leur attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ainsi que leur résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 20 secondes.</span><span style="color: black">
 
 ### 2 Skill: Raclée de griffes tranchantes
- **Description:** <span style="color: #645252;font-size:20px">Le Béhémoth inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> point de dégâts à sa cible toutes les 20 secondes et lui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Saignement></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le Béhémoth inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> point de dégâts à sa cible toutes les 20 secondes et lui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
 ### 3 Skill: Carnage
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Béhémoth augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Défense
+* réduction des dégâts d'unité
 
-    - PV
-
-    - Défense
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Rugissement ancestral
- **Description:**  <span style="color: #48b946;font-size:18px"><Rugissement> : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ et la résistance magique de tous les alliés du Bastion de 30 % pendant 10 secondes.</span>
+ **Description:**  <span style="color: #48b946;font-size:18px">&lt;Rugissement&gt; : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ et la résistance magique de tous les alliés du Bastion de 30 % pendant 10 secondes.</span>
 
 ### 2nd Skill (or 1st): Rugissement violent
- **Description:**  <span style="color: #48b946;font-size:18px"><Rugissement> : </span><span style="color: #645252;font-size:18px">L'effet d'étourdissement s'applique à toutes les unités de mêlée ennemies.</span>
+ **Description:**  <span style="color: #48b946;font-size:18px">&lt;Rugissement&gt; : </span><span style="color: #645252;font-size:18px">L'effet d'étourdissement s'applique à toutes les unités de mêlée ennemies.</span>
 
 ### 3rd Skill (or 4th): Rage de la nature
- **Description:** <span style="color: #48b946;font-size:18px"><Carnage> : </span><span style="color: #645252;font-size:18px">Effet augmenté de 50 %. À l'activation, les dégâts de tous les alliés humains du Bastion augmentent de 10 % pendant 20 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">Effet augmenté de 50 %. À l'activation, les dégâts de tous les alliés humains du Bastion augmentent de 10 % pendant 20 secondes.</span>
 
 ### 4th Skill (or 3rd): Carnage sanguinaire
- **Description:** <span style="color: #48b946;font-size:18px"><Carnage> : </span><span style="color: #645252;font-size:18px">Effet augmenté de 50 %. À l'activation, la résistance aux dégâts de tous les alliés du Bastion augmente de 10 % pendant 20 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">Effet augmenté de 50 %. À l'activation, la résistance aux dégâts de tous les alliés du Bastion augmente de 10 % pendant 20 secondes.</span>
 
 ### 5th Skill (or 6th): Furie ancestrale
- **Description:** <span style="color: #48b946;font-size:18px"><Enragement> : </span><span style="color: #645252;font-size:18px">Immunise contre Maladie et augmente les soins de 50 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Enragement&gt; : </span><span style="color: #645252;font-size:18px">Immunise contre Maladie et augmente les soins de 50 %.</span>
 
 ### 6th Skill (or 5th): Rage inflexible
- **Description:** <span style="color: #48b946;font-size:18px"><Enragement> : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'unité jusqu'à la fin de la bataille ; peut se cumuler jusqu'à 5 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Enragement&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'unité jusqu'à la fin de la bataille ; peut se cumuler jusqu'à 5 fois.</span>
 
 ## Technical info
  **runart:** 1

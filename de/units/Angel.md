@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /de/units/Angel/
 excerpt: "Einheiten Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Engel"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** Verurteilung: Fügt 3 Einheiten brutalen Schaden zu und betäubt sie.
 
+ **Recommend:** Verbessere deine Moral; Hohe Moral bietet Boni wie zusätzliche Bewegung für betroffene Einheiten.
+
+ **Info:** Belebt tote Truppen wieder, stellt die Gesundheit der gesamten Einheit wieder her und verursacht kolossalen Schaden.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Verbessere deine Moral; Hohe Moral bietet Boni wie zusätzliche Bewegung für betroffene Einheiten.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 396.0 | 4.75 | 4073.25 |
+  | Blau | 792.0 | 9.5 | 8146.5 |
+  | Blau +1 | 1188.0 | 14.25 | 12219.75 |
+  | Blau +2 | 1663.2 | 19.95 | 17107.65 |
+  | Lila | 2138.4 | 25.65 | 21995.55 |
+  | Lila +1 | 2613.6 | 31.35 | 26883.45 |
+  | Lila +2 | 3168.0 | 38.0 | 32586.0 |
+  | Lila +3 | 3722.4 | 44.65 | 38288.55 |
+  | Orange | 4276.8 | 51.3 | 43991.1 |
+  | Orange +1 | 4910.4 | 58.9 | 50508.3 |
+  | Orange +2 | 5544.0 | 66.5 | 57025.5 |
+  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Orange +4 | 6811.2 | 81.7 | 70059.9 |
+  | Orange +5 | 7761.6 | 93.1 | 79835.7 |
+  | Rot | 9028.8 | 108.3 | 92870.1 |
 
- **Info1:** Belebt tote Truppen wieder, stellt die Gesundheit der gesamten Einheit wieder her und verursacht kolossalen Schaden.
-
- **Info2:** Belebt tote Truppen wieder, stellt die Gesundheit der gesamten Einheit wieder her und verursacht kolossalen Schaden.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.57 | 3.09 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Verurteilen
- **Description:** <span style="color: #645252;font-size:20px">Der Engel verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an 3 zufälligen gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px"><betäubt></span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Engel verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an 3 zufälligen gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang.</span><span style="color: black">
 
 ### 2 Skill: Auferstehung
  **Description:** <span style="color: #645252;font-size:20px">Der Engel erweckt 1 deiner Einheiten wieder und stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP dieser Einheit wieder her.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Dreifaltigkeit
- **Description:** <span style="color: #48b946;font-size:18px"><Verurteilung></span><span style="color: #645252;font-size:18px">Verursacht eine besondere Erhöhung der Schadensreduzierung für 3 zufällige verbündete Einheiten für die gesamte Schlacht um 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verurteilung&gt;</span><span style="color: #645252;font-size:18px">Verursacht eine besondere Erhöhung der Schadensreduzierung für 3 zufällige verbündete Einheiten für die gesamte Schlacht um 10 %.</span>
 
 ### 2nd Skill (or 1st): Zweite Chance
- **Description:** <span style="color: #48b946;font-size:18px"><Verurteilung></span><span style="color: #645252;font-size:18px">Stellt 15 % der max. LP bei der Einheit mit den prozentual niedrigsten LP wieder her.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verurteilung&gt;</span><span style="color: #645252;font-size:18px">Stellt 15 % der max. LP bei der Einheit mit den prozentual niedrigsten LP wieder her.</span>
 
 ### 3rd Skill (or 4th): Erlösung
- **Description:** <span style="color: #48b946;font-size:18px"><Auferstehung></span><span style="color: #645252;font-size:18px">Verleiht verbündeten Einheiten 6 Sek. lang Immunität gegen Schaden. Der Engel ist immun gegen <Stille>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Verleiht verbündeten Einheiten 6 Sek. lang Immunität gegen Schaden. Der Engel ist immun gegen &lt;Stille&gt;.</span>
 
 ### 4th Skill (or 3rd): Gemeinschaft
- **Description:** <span style="color: #48b946;font-size:18px"><Auferstehung></span><span style="color: #645252;font-size:18px">Stellt 10 % der max. LP bei allen verbündeten Einheiten wieder her. Der Engel ist immun gegen <Stille>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Stellt 10 % der max. LP bei allen verbündeten Einheiten wieder her. Der Engel ist immun gegen &lt;Stille&gt;.</span>
 
 ### 5th Skill (or 6th): Ermutigung
- **Description:** <span style="color: #48b946;font-size:18px"><Strahlkraft></span><span style="color: #645252;font-size:18px">Erhöht die Heilung aller verbündeten Einheiten um 35 %, solange sich der Engel auf dem Schlachtfeld befindet.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Strahlkraft&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Heilung aller verbündeten Einheiten um 35 %, solange sich der Engel auf dem Schlachtfeld befindet.</span>
 
 ### 6th Skill (or 5th): Weihe
- **Description:** <span style="color: #48b946;font-size:18px"><Strahlkraft></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Erhöht die Schadensreduzierung aller verbündeter Einheiten um 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Strahlkraft&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Erhöht die Schadensreduzierung aller verbündeter Einheiten um 10 %.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /it/units/Wyvern/
 excerpt: "Unità Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Viverna"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Unità DPS. Causa <Pestilenza> in molti modi.
+
+## Basic stats
  **Base HP:** 5544.0
 
  **Base ATK:** 500.0
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 250.0 | 7.5 | 4158.0 |
+  | Blu | 500.0 | 15.0 | 8316.0 |
+  | Blu +1 | 750.0 | 22.5 | 12474.0 |
+  | Blu +2 | 1050.0 | 31.5 | 17463.6 |
+  | Viola | 1350.0 | 40.5 | 22453.2 |
+  | Viola +1 | 1650.0 | 49.5 | 27442.8 |
+  | Viola +2 | 2000.0 | 60.0 | 33264.0 |
+  | Viola +3 | 2350.0 | 70.5 | 39085.2 |
+  | Arancione | 2700.0 | 81.0 | 44906.4 |
+  | Arancione +1 | 3100.0 | 93.0 | 51559.2 |
+  | Arancione +2 | 3500.0 | 105.0 | 58212.0 |
+  | Arancione +3 | 3900.0 | 117.0 | 64864.8 |
+  | Arancione +4 | 4300.0 | 129.0 | 71517.6 |
+  | Arancione +5 | 4900.0 | 147.0 | 81496.8 |
+  | Rosso | 5700.0 | 171.0 | 94802.4 |
 
- **Info1:** Unità DPS. Causa <Pestilenza> in molti modi.
-
- **Info2:** Unità DPS. Causa <Pestilenza> in molti modi.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 70.0 | 0.57 | 4.3 | 776.16 |
+  | **4x** <i class="fas fa-star"/> | 80.0 | 0.6 | 4.95 | 887.04 |
+  | **5x** <i class="fas fa-star"/> | 90.0 | 0.62 | 5.6 | 997.92 |
+  | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
 ### 1 Skill: Spruzzo velenoso
- **Description:** <span style="color: #645252;font-size:20px">Ogni 21 secondi, la Viverna spruzza veleno sul bersaglio, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*3+37))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche nell'area e causando <span style="color: #48b946;font-size:20px"><Pestilenza></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. (la </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Pestilenza</span><span style="color: black"><span style="color: #645252;font-size:20px"> inflitta dalla Viverna causa danni maggiori)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Ogni 21 secondi, la Viverna spruzza veleno sul bersaglio, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*3+37))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche nell'area e causando <span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. (la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Pestilenza</span><span style="color: black"><span style="color: #645252;font-size:20px"> inflitta dalla Viverna causa danni maggiori)</span><span style="color: black">
 
 ### 2 Skill: null
  **Description:** 
@@ -46,23 +70,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Danno della Viverna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### 4 Skill: Miasma selvaggio
- **Description:** <span style="color: #645252;font-size:20px">ATT della Viverna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Viverna infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Pestilenza></span><span style="color: black"><span style="color: #645252;font-size:20px"> e riduce l'efficacia degli effetti di cura (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) su tutte le creature nemiche ogni 20 secondi per 10 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">ATT della Viverna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Viverna infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e riduce l'efficacia degli effetti di cura (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) su tutte le creature nemiche ogni 20 secondi per 10 secondi.</span><span style="color: black">
 
 ### 5 Skill: Attacco pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere <Pestilenza> e, quando affrontano unità affette da <Pestilenza>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Danno unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Veleno caustico
- **Description:** <span style="color: #48b946;font-size:18px"><Spruzzo velenoso></span><span style="color: #645252;font-size:18px"> si attiva una volta ogni 13 secondi, infliggendo danni pari al 5% dei PF massimi del bersaglio.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo velenoso&gt;</span><span style="color: #645252;font-size:18px"> si attiva una volta ogni 13 secondi, infliggendo danni pari al 5% dei PF massimi del bersaglio.</span>
 
 ### 2nd Skill (or 1st): Veleno infallibile
- **Description:** <span style="color: #48b946;font-size:18px"><Spruzzo velenoso></span><span style="color: #645252;font-size:18px"> si attiva una volta ogni 17 secondi, infliggendo danni pari al 10% dei PF massimi del bersaglio.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo velenoso&gt;</span><span style="color: #645252;font-size:18px"> si attiva una volta ogni 17 secondi, infliggendo danni pari al 10% dei PF massimi del bersaglio.</span>
 
 ### 3rd Skill (or 4th): Tocco velenoso
- **Description:** <span style="color: #48b946;font-size:18px"><Artiglio feroce></span><span style="color: #645252;font-size:18px">: riduce del 10 la Rid DAN delle unità bersaglio. Gli attacchi base causano <Sanguinamento>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Artiglio feroce&gt;</span><span style="color: #645252;font-size:18px">: riduce del 10 la Rid DAN delle unità bersaglio. Gli attacchi base causano &lt;Sanguinamento&gt;.</span>
 
 ### 4th Skill (or 3rd): Portatrice di veleno
- **Description:** <span style="color: #48b946;font-size:18px"><Artiglio feroce></span><span style="color: #645252;font-size:18px">: riduce del 15% la guarigione delle unità bersaglio. Gli attacchi base infliggono danni pari al 20% dell'ATT e causano <Sanguinamento></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Artiglio feroce&gt;</span><span style="color: #645252;font-size:18px">: riduce del 15% la guarigione delle unità bersaglio. Gli attacchi base infliggono danni pari al 20% dell'ATT e causano &lt;Sanguinamento&gt;</span>
 
 ### 5th Skill (or 6th): Miasma selvaggio
- **Description:** <span style="color: #48b946;font-size:18px"><Miasma selvaggio></span><span style="color: #645252;font-size:18px">: causa <Pestilenza> a tutte le unità nemiche ogni 20 secondi. L'effetto di <Pestilenza> è raddoppiato, per una durata di 15 secondi. La riduzione della guarigione nemica è aumentata del 150%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Miasma selvaggio&gt;</span><span style="color: #645252;font-size:18px">: causa &lt;Pestilenza&gt; a tutte le unità nemiche ogni 20 secondi. L'effetto di &lt;Pestilenza&gt; è raddoppiato, per una durata di 15 secondi. La riduzione della guarigione nemica è aumentata del 150%.</span>
 
 ### 6th Skill (or 5th): Tossina pestilenziale
- **Description:** <span style="color: #48b946;font-size:18px"><Miasma selvaggio></span><span style="color: #645252;font-size:18px">: causa <Pestilenza> a tutte le unità nemiche ogni 20 secondi. L'effetto dura 22 secondi ed è cumulabile fino a 2 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Miasma selvaggio&gt;</span><span style="color: #645252;font-size:18px">: causa &lt;Pestilenza&gt; a tutte le unità nemiche ogni 20 secondi. L'effetto dura 22 secondi ed è cumulabile fino a 2 volte.</span>
 
 ## Technical info
  **runart:** 1

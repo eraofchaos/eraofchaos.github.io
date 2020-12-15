@@ -3,7 +3,7 @@ title: "Wandelnde Tote"
 permalink: /de/units/Walking Dead/
 excerpt: "Einheiten Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
 unitID: 302
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Wandelnde Tote"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Explosiv: Fügt gegnerischen Einheiten in der Nähe Schaden zu, wenn die Einheit stirbt.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Hohe Abwehr, verursacht Seuche bei Feinden um sich herum.
+
+## Basic stats
  **Base HP:** 2758.0
 
  **Base ATK:** 117.7
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 58.85 | 11.25 | 2068.5 |
+  | Blau | 117.7 | 22.5 | 4137.0 |
+  | Blau +1 | 176.55 | 33.75 | 6205.5 |
+  | Blau +2 | 247.17 | 47.25 | 8687.7 |
+  | Lila | 317.79 | 60.75 | 11169.9 |
+  | Lila +1 | 388.41 | 74.25 | 13652.1 |
+  | Lila +2 | 470.8 | 90.0 | 16548.0 |
+  | Lila +3 | 553.19 | 105.75 | 19443.9 |
+  | Orange | 635.58 | 121.5 | 22339.8 |
+  | Orange +1 | 729.74 | 139.5 | 25649.4 |
+  | Orange +2 | 823.9 | 157.5 | 28959.0 |
+  | Orange +3 | 918.06 | 175.5 | 32268.6 |
+  | Orange +4 | 1012.22 | 193.5 | 35578.2 |
+  | Orange +5 | 1153.46 | 220.5 | 40542.6 |
+  | Rot | 1341.78 | 256.5 | 47161.8 |
 
- **Info1:** Hohe Abwehr, verursacht Seuche bei Feinden um sich herum.
-
- **Info2:** Hohe Abwehr, verursacht Seuche bei Feinden um sich herum.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 11.77 | 0.29 | 4.5 | 275.8 |
+  | **2x** <i class="fas fa-star"/> | 14.124 | 0.3 | 5.23 | 330.96 |
+  | **3x** <i class="fas fa-star"/> | 16.478 | 0.32 | 5.95 | 386.12 |
+  | **4x** <i class="fas fa-star"/> | 18.832 | 0.33 | 6.68 | 441.28 |
+  | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
+  | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
 ### 1 Skill: Giftgas
  **Description:** <span style="color: #645252;font-size:20px">Der Wandelnde Tote fügt allen gegnerischen Zielen in einem bestimmten Radius alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Der Schaden gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
 
 ### 2 Skill: Ansteckend
- **Description:** <span style="color: #645252;font-size:20px">Das <Giftgas> des Wandelnden Toten senkt den ANG des Ziels um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es über Zeit.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Das &lt;Giftgas&gt; des Wandelnden Toten senkt den ANG des Ziels um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es über Zeit.</span><span style="color: black">
 
 ### 3 Skill: Explosiv
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Wandelnde Tote besiegt wird, fügt er gegnerischen Einheiten in hohem Radius 8 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Der Schaden gegen Einheiten mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Abwehr
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Epidemie
- **Description:** <span style="color: #48b946;font-size:18px"><Giftgas></span><span style="color: #645252;font-size:18px">Verursacht zusätzlich Schaden in Höhe von 2 % der max. LP.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftgas&gt;</span><span style="color: #645252;font-size:18px">Verursacht zusätzlich Schaden in Höhe von 2 % der max. LP.</span>
 
 ### 2nd Skill (or 1st): Ansteckende Krankheit
- **Description:** <span style="color: #48b946;font-size:18px"><Giftgas></span><span style="color: #645252;font-size:18px">Wirkt zu Beginn der Schlacht <Giftgas> auf alle verbündeten Nekropolis-Nahkampfeinheiten; bleibt bis zum Ende der Schlacht bestehen. Der Schaden ist 6 Mal stapelbar.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftgas&gt;</span><span style="color: #645252;font-size:18px">Wirkt zu Beginn der Schlacht &lt;Giftgas&gt; auf alle verbündeten Nekropolis-Nahkampfeinheiten; bleibt bis zum Ende der Schlacht bestehen. Der Schaden ist 6 Mal stapelbar.</span>
 
 ### 3rd Skill (or 4th): Komplikation
- **Description:** <span style="color: #48b946;font-size:18px"><Infektion></span><span style="color: #645252;font-size:18px">Reduziert ANG und ABW zusätzlich um 30 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infektion&gt;</span><span style="color: #645252;font-size:18px">Reduziert ANG und ABW zusätzlich um 30 %.</span>
 
 ### 4th Skill (or 3rd): Superinfektion
- **Description:** <span style="color: #48b946;font-size:18px"><Infektion></span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung zusätzlich um 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infektion&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung zusätzlich um 10 %.</span>
 
 ### 5th Skill (or 6th): Grauenhafte Barriere
- **Description:** <span style="color: #48b946;font-size:18px"><Leichenbarrikade></span><span style="color: #645252;font-size:18px">Der Effekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leichenbarrikade&gt;</span><span style="color: #645252;font-size:18px">Der Effekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 6th Skill (or 5th): Makabres Festmahl
- **Description:** <span style="color: #48b946;font-size:18px"><Leichenbarrikade></span><span style="color: #645252;font-size:18px">Stellt beim Wandelnden Toten jedes Mal, wenn eine gegnerische Einheit stirbt, LP wieder her in Höhe von 10 % der max. LP.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leichenbarrikade&gt;</span><span style="color: #645252;font-size:18px">Stellt beim Wandelnden Toten jedes Mal, wenn eine gegnerische Einheit stirbt, LP wieder her in Höhe von 10 % der max. LP.</span>
 
 ## Technical info
  **runart:** 1

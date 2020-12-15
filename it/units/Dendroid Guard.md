@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /it/units/Dendroid Guard/
 excerpt: "Unità Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
 unitID: 205
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Guardia Dendroide"
 toc: true
@@ -25,44 +25,67 @@ toc: true
 
  **Unit description:** Vincolo: <rallenta> un'unità nemica, riducendone la Vel ATT.
 
+ **Recommend:** Infligge danni extra ai nemici rallentati.
+
+ **Info:** Immune al <Sanguinamento>, riflette i danni ed è protetto da uno <scudo>.
+
+## Basic stats
  **Base HP:** 10182.0
 
  **Base ATK:** 396.0
 
- **Recommend:** Infligge danni extra ai nemici rallentati.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 198.0 | 13.25 | 7636.5 |
+  | Blu | 396.0 | 26.5 | 15273.0 |
+  | Blu +1 | 594.0 | 39.75 | 22909.5 |
+  | Blu +2 | 831.6 | 55.65 | 32073.3 |
+  | Viola | 1069.2 | 71.55 | 41237.1 |
+  | Viola +1 | 1306.8 | 87.45 | 50400.9 |
+  | Viola +2 | 1584.0 | 106.0 | 61092.0 |
+  | Viola +3 | 1861.2 | 124.55 | 71783.1 |
+  | Arancione | 2138.4 | 143.1 | 82474.2 |
+  | Arancione +1 | 2455.2 | 164.3 | 94692.6 |
+  | Arancione +2 | 2772.0 | 185.5 | 106911.0 |
+  | Arancione +3 | 3088.8 | 206.7 | 119129.4 |
+  | Arancione +4 | 3405.6 | 227.9 | 131347.8 |
+  | Arancione +5 | 3880.8 | 259.7 | 149675.4 |
+  | Rosso | 4514.4 | 302.1 | 174112.2 |
 
- **Info1:** Immune al <Sanguinamento>, riflette i danni ed è protetto da uno <scudo>.
-
- **Info2:** Immune al <Sanguinamento>, riflette i danni ed è protetto da uno <scudo>.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 47.52 | 0.32 | 6.07 | 1221.84 |
+  | **3x** <i class="fas fa-star"/> | 55.44 | 0.33 | 6.83 | 1425.48 |
+  | **4x** <i class="fas fa-star"/> | 63.36 | 0.35 | 7.6 | 1629.12 |
+  | **5x** <i class="fas fa-star"/> | 71.28 | 0.36 | 8.36 | 1832.76 |
+  | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
 ### 1 Skill: Ostacolo
- **Description:** <span style="color: #645252;font-size:20px">La Guardia Dendroide applica </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Rallentamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area, riducendone la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Guardia Dendroide applica </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Rallentamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area, riducendone la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
 
 ### 2 Skill: Rullo stritolante
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base della Guardia Dendroide ha una probabilità di creare uno </span><span style="color: black"><span style="color: #48b946;font-size:20px"><scudo></span><span style="color: black"><span style="color: #645252;font-size:20px"> che la protegge assorbendo danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attacco base della Guardia Dendroide ha una probabilità di creare uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> che la protegge assorbendo danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
 
 ### 3 Skill: Armatura di legno fossile
- **Description:** <span style="color: #645252;font-size:20px">La Guardia Dendroide è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> e gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Guardia Dendroide è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 4 Skill: Paletto di legno
- **Description:** <span style="color: #645252;font-size:20px">Quando una Guardia Dendroide subisce un attacco, riflette una quantità di danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT e infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità che l'ha attaccata per 6 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando una Guardia Dendroide subisce un attacco, riflette una quantità di danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT e infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità che l'ha attaccata per 6 secondi.</span><span style="color: black">
 
 ### 5 Skill: Proliferazione pacifica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di <Stordimento> e <Pietrificazione> inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Marchio dell'odio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da <Rallentamento> o <Sanguinamento>, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Riduzione danno unità
 
-    - PF
-
-    - Difesa
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Furia della foresta
- **Description:** <span style="color: #48b946;font-size:18px"><Ostacolo></span><span style="color: #645252;font-size:18px">: quando è attivo, aumenta del 20% la Vel ATT delle unità alleate in un'ampia area per 10 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ostacolo&gt;</span><span style="color: #645252;font-size:18px">: quando è attivo, aumenta del 20% la Vel ATT delle unità alleate in un'ampia area per 10 secondi.</span>
 
 ### 2nd Skill (or 1st): Difesa della foresta
- **Description:** <span style="color: #48b946;font-size:18px"><Ostacolo></span><span style="color: #645252;font-size:18px">: quando è attivo, crea uno <scudo> che protegge le unità alleate in un'ampia area in grado di assorbire danni pari al 6% dei PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ostacolo&gt;</span><span style="color: #645252;font-size:18px">: quando è attivo, crea uno &lt;scudo&gt; che protegge le unità alleate in un'ampia area in grado di assorbire danni pari al 6% dei PF massimi.</span>
 
 ### 3rd Skill (or 4th): Irrigidimento
- **Description:** <span style="color: #48b946;font-size:18px"><Armatura di legno fossile></span><span style="color: #645252;font-size:18px">: Rid DAN della Guardia Dendroide aumentata del 20%. Effetto raddoppiato contro unità nemiche affette da <Sanguinamento>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Armatura di legno fossile&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN della Guardia Dendroide aumentata del 20%. Effetto raddoppiato contro unità nemiche affette da &lt;Sanguinamento&gt;.</span>
 
 ### 4th Skill (or 3rd): Potere della giungla
- **Description:** <span style="color: #48b946;font-size:18px"><Armatura di legno fossile></span><span style="color: #645252;font-size:18px">: la Guardia Dendroide aumenta la Rid DAN del 10% e la DIF del 30% a tutte le unità alleate in un'ampia area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Armatura di legno fossile&gt;</span><span style="color: #645252;font-size:18px">: la Guardia Dendroide aumenta la Rid DAN del 10% e la DIF del 30% a tutte le unità alleate in un'ampia area.</span>
 
 ### 5th Skill (or 6th): Paletto corrosivo
- **Description:** <span style="color: #48b946;font-size:18px"><Paletto di legno></span><span style="color: #645252;font-size:18px">: riduce del 30% la DIF dell'unità attaccante e la <rallenta>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Paletto di legno&gt;</span><span style="color: #645252;font-size:18px">: riduce del 30% la DIF dell'unità attaccante e la &lt;rallenta&gt;.</span>
 
 ### 6th Skill (or 5th): Rito della debolezza
- **Description:** <span style="color: #48b946;font-size:18px"><Paletto di legno></span><span style="color: #645252;font-size:18px">: riduce del 10% il DAN dell'unità attaccante e la <rallenta></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Paletto di legno&gt;</span><span style="color: #645252;font-size:18px">: riduce del 10% il DAN dell'unità attaccante e la &lt;rallenta&gt;</span>
 
 ## Technical info
  **runart:** 1

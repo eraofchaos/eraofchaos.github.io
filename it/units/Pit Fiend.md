@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /it/units/Pit Fiend/
 excerpt: "Unità I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Demone dell'abisso"
 toc: true
@@ -25,44 +25,67 @@ toc: true
 
  **Unit description:** Sorgente di fuoco: cura ininterrottamente le unità alleate davanti a sé.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Dotato di un'aura che cura e applica buff. Unità Inferno di base.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 87.45 | 4.75 | 1387.5 |
+  | Blu | 174.9 | 9.5 | 2775.0 |
+  | Blu +1 | 262.35 | 14.25 | 4162.5 |
+  | Blu +2 | 367.29 | 19.95 | 5827.5 |
+  | Viola | 472.23 | 25.65 | 7492.5 |
+  | Viola +1 | 577.17 | 31.35 | 9157.5 |
+  | Viola +2 | 699.6 | 38.0 | 11100.0 |
+  | Viola +3 | 822.03 | 44.65 | 13042.5 |
+  | Arancione | 944.46 | 51.3 | 14985.0 |
+  | Arancione +1 | 1084.38 | 58.9 | 17205.0 |
+  | Arancione +2 | 1224.3 | 66.5 | 19425.0 |
+  | Arancione +3 | 1364.22 | 74.1 | 21645.0 |
+  | Arancione +4 | 1504.14 | 81.7 | 23865.0 |
+  | Arancione +5 | 1714.02 | 93.1 | 27195.0 |
+  | Rosso | 1993.86 | 108.3 | 31635.0 |
 
- **Info1:** Dotato di un'aura che cura e applica buff. Unità Inferno di base.
-
- **Info2:** Dotato di un'aura che cura e applica buff. Unità Inferno di base.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 20.988 | 0.53 | 2.5 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.55 | 3.09 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.58 | 3.69 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
 ### 1 Skill: Fontana di fuoco
- **Description:** <span style="color: #645252;font-size:20px">Il Demone dell'abisso evoca 1 <Sorgente di fuoco>, che ripristina </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi delle unità alleate in un'ampia area di fronte a sé ogni 2 secondi, per 8 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Demone dell'abisso evoca 1 &lt;Sorgente di fuoco&gt;, che ripristina </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi delle unità alleate in un'ampia area di fronte a sé ogni 2 secondi, per 8 secondi.</span><span style="color: black">
 
 ### 2 Skill: Evocazione del Signore
  **Description:** <span style="color: #645252;font-size:20px">Quando un Demone dell'abisso entra in battaglia, evoca 4 Demoni al proprio fianco. I Demoni evocati hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF, 700 DIF e 500 CRIT e durano fino al termine della battaglia.</span><span style="color: black">
 
 ### 3 Skill: Calore
- **Description:** <span style="color: #645252;font-size:20px">L'efficacia curativa della <Sorgente di fuoco> del Demone dell'abisso aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto curativo di <Sorgente di fuoco> aumenta ulteriormente del 5% per ogni unità Inferno schierata.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'efficacia curativa della &lt;Sorgente di fuoco&gt; del Demone dell'abisso aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto curativo di &lt;Sorgente di fuoco&gt; aumenta ulteriormente del 5% per ogni unità Inferno schierata.</span><span style="color: black">
 
 ### 4 Skill: Volontà del Signore
  **Description:** <span style="color: #645252;font-size:20px">Quando il Demone dell'abisso entra in battaglia, PF e ATT delle unità Folletto, Demone ed Elementale del fuoco alleate aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 5 Skill: Attacco ustionante
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da <Combustione> godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Guarigione
+* Danno unità
 
-    - PF
-
-    - Guarigione
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Bagno nel lago di fuoco
- **Description:** <span style="color: #48b946;font-size:18px"><Sorgente di fuoco></span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. La rigenerazione di PF ha effetto su tutte le unità Inferno.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sorgente di fuoco&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. La rigenerazione di PF ha effetto su tutte le unità Inferno.</span>
 
 ### 2nd Skill (or 1st): Battesimo del fuoco
- **Description:** <span style="color: #48b946;font-size:18px"><Sorgente di fuoco></span><span style="color: #645252;font-size:18px">: durata della tecnica aumentata a 12 secondi. La rigenerazione di PF ha effetto su tutte le unità Inferno.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sorgente di fuoco&gt;</span><span style="color: #645252;font-size:18px">: durata della tecnica aumentata a 12 secondi. La rigenerazione di PF ha effetto su tutte le unità Inferno.</span>
 
 ### 3rd Skill (or 4th): Servitore zelante
- **Description:** <span style="color: #48b946;font-size:18px"><Evocazione del Signore></span><span style="color: #645252;font-size:18px">: evoca un Demone che aumenta la Rid DAN del 40% e la Schivata di 800.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Evocazione del Signore&gt;</span><span style="color: #645252;font-size:18px">: evoca un Demone che aumenta la Rid DAN del 40% e la Schivata di 800.</span>
 
 ### 4th Skill (or 3rd): Dono d'amore
- **Description:** <span style="color: #48b946;font-size:18px"><Evocazione del Signore></span><span style="color: #645252;font-size:18px">: quando un'unità nemica viene sconfitta, il Demone dell'abisso evoca 4 Demoni.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Evocazione del Signore&gt;</span><span style="color: #645252;font-size:18px">: quando un'unità nemica viene sconfitta, il Demone dell'abisso evoca 4 Demoni.</span>
 
 ### 5th Skill (or 6th): Credente illuminato
- **Description:** <span style="color: #48b946;font-size:18px"><Volontà del Signore></span><span style="color: #645252;font-size:18px">: aumenta DAN e Rid DAN delle unità Inferno alleate del 6% ogni 10 secondi. Si attiva 1 volta per ogni unità nemica sconfitta. L'effetto è cumulabile un massimo di 5 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Volontà del Signore&gt;</span><span style="color: #645252;font-size:18px">: aumenta DAN e Rid DAN delle unità Inferno alleate del 6% ogni 10 secondi. Si attiva 1 volta per ogni unità nemica sconfitta. L'effetto è cumulabile un massimo di 5 volte.</span>
 
 ### 6th Skill (or 5th): Rituale di beatitudine
- **Description:** <span style="color: #48b946;font-size:18px"><Volontà del Signore></span><span style="color: #645252;font-size:18px">: quando un'unità nemica viene sconfitta, aumenta del 20% la Rid DAN delle unità Inferno alleate per 20 secondi e recupera il 10% dei PF.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Volontà del Signore&gt;</span><span style="color: #645252;font-size:18px">: quando un'unità nemica viene sconfitta, aumenta del 20% la Rid DAN delle unità Inferno alleate per 20 secondi e recupera il 10% dei PF.</span>
 
 ## Technical info
  **runart:** 1

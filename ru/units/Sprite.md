@@ -3,7 +3,7 @@ title: "Unknown_TEAM_901"
 permalink: /ru/units/Sprite/
 excerpt: "Отряды null"
 unitID: 901
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Unknown_TEAM_901"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** После гибели взрывается, вызывает немоту у цели, увеличивает начальную ману героя.
+
+## Basic stats
  **Base HP:** 993.0
 
  **Base ATK:** 69.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 34.75 | 3.75 | 744.75 |
+  | Синий | 69.5 | 7.5 | 1489.5 |
+  | Blue +1 | 104.25 | 11.25 | 2234.25 |
+  | Синий +2 | 145.95 | 15.75 | 3127.95 |
+  | Фиолетовый | 187.65 | 20.25 | 4021.65 |
+  | Фиолетовый +1 | 229.35 | 24.75 | 4915.35 |
+  | Фиолетовый +2 | 278.0 | 30.0 | 5958.0 |
+  | Фиолетовый +3 | 326.65 | 35.25 | 7000.65 |
+  | Оранжевый | 375.3 | 40.5 | 8043.3 |
+  | Оранжевый +1 | 430.9 | 46.5 | 9234.9 |
+  | Оранжевый +2 | 486.5 | 52.5 | 10426.5 |
+  | Orange +3 | 542.1 | 58.5 | 11618.1 |
+  | Оранжевый +4 | 597.7 | 64.5 | 12809.7 |
+  | Orange +5 | 681.1 | 73.5 | 14597.1 |
+  | Red | 792.3 | 85.5 | 16980.3 |
 
- **Info1:** После гибели взрывается, вызывает немоту у цели, увеличивает начальную ману героя.
-
- **Info2:** После гибели взрывается, вызывает немоту у цели, увеличивает начальную ману героя.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 6.95 | 0.48 | 1.5 | 99.3 |
+  | **2x** <i class="fas fa-star"/> | 8.34 | 0.5 | 2.08 | 119.16 |
+  | **3x** <i class="fas fa-star"/> | 9.73 | 0.53 | 2.65 | 139.02 |
+  | **4x** <i class="fas fa-star"/> | 11.12 | 0.55 | 3.23 | 158.88 |
+  | **5x** <i class="fas fa-star"/> | 12.51 | 0.58 | 3.8 | 178.74 |
+  | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
 ### 1 Skill: Энергетическое разбивание
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* unit Damage
+* Magic resistance
 
-    - ОЗ
-
-    - ERROR!
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,7 +108,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
  **Description:** 
@@ -99,7 +123,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

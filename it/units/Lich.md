@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /it/units/Lich/
 excerpt: "Unità I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
 unitID: 305
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Lich"
 toc: true
@@ -25,22 +25,46 @@ toc: true
 
  **Unit description:** Sacrificio: evoca un'orda di Scheletri.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Può evocare e potenziare Scheletri. Irrinunciabile per strategie basate sull'evocazione di Non morti.
+
+## Basic stats
  **Base HP:** 1581.0
 
  **Base ATK:** 228.7
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 114.35 | 4.0 | 1185.75 |
+  | Blu | 228.7 | 8.0 | 2371.5 |
+  | Blu +1 | 343.05 | 12.0 | 3557.25 |
+  | Blu +2 | 480.27 | 16.8 | 4980.15 |
+  | Viola | 617.49 | 21.6 | 6403.05 |
+  | Viola +1 | 754.71 | 26.4 | 7825.95 |
+  | Viola +2 | 914.8 | 32.0 | 9486.0 |
+  | Viola +3 | 1074.89 | 37.6 | 11146.05 |
+  | Arancione | 1234.98 | 43.2 | 12806.1 |
+  | Arancione +1 | 1417.94 | 49.6 | 14703.3 |
+  | Arancione +2 | 1600.9 | 56.0 | 16600.5 |
+  | Arancione +3 | 1783.86 | 62.4 | 18497.7 |
+  | Arancione +4 | 1966.82 | 68.8 | 20394.9 |
+  | Arancione +5 | 2241.26 | 78.4 | 23240.7 |
+  | Rosso | 2607.18 | 91.2 | 27035.1 |
 
- **Info1:** Può evocare e potenziare Scheletri. Irrinunciabile per strategie basate sull'evocazione di Non morti.
-
- **Info2:** Può evocare e potenziare Scheletri. Irrinunciabile per strategie basate sull'evocazione di Non morti.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 32.018 | 0.44 | 2.76 | 221.34 |
+  | **4x** <i class="fas fa-star"/> | 36.592 | 0.46 | 3.34 | 252.96 |
+  | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
+  | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
 ## Skills
 ### 1 Skill: Sacrificio
  **Description:** <span style="color: #645252;font-size:20px">Quando il suo bersaglio viene abbattuto, il Lich ha una probabilità di evocare 1 Scheletro con </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF che dura fino al termine della battaglia.</span><span style="color: black">
 
 ### 2 Skill: Nube velenosa
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Lich ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 bersagli. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Lich ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 bersagli. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
 ### 3 Skill: Potenziamento oscuro
  **Description:** <span style="color: #645252;font-size:20px">ATT del Lich aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La portata degli attacchi del Lich aumenta di 50 per ogni unità Necropoli sul campo di battaglia.</span><span style="color: black">
@@ -49,20 +73,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Se il Lich è sul campo di battaglia, PF e ATT di Scheletri e Draghi scheletrici aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 5 Skill: Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da <Morale basso>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Colpo critico unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Colpo critico unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Evoca Scheletro
- **Description:** <span style="color: #48b946;font-size:18px"><Sacrificio></span><span style="color: #645252;font-size:18px">: evoca 2 Scheletri contemporaneamente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrificio&gt;</span><span style="color: #645252;font-size:18px">: evoca 2 Scheletri contemporaneamente.</span>
 
 ### 2nd Skill (or 1st): Evoca Non morto
- **Description:** <span style="color: #48b946;font-size:18px"><Sacrificio></span><span style="color: #645252;font-size:18px">: lo Scheletro evocato diventa uno Scheletro armato, i cui attacchi base hanno una probabilità dell'8% di <stordire> il bersaglio.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrificio&gt;</span><span style="color: #645252;font-size:18px">: lo Scheletro evocato diventa uno Scheletro armato, i cui attacchi base hanno una probabilità dell'8% di &lt;stordire&gt; il bersaglio.</span>
 
 ### 3rd Skill (or 4th): Sacrificio mortale
- **Description:** <span style="color: #48b946;font-size:18px"><Sacrificio di ossa></span><span style="color: #645252;font-size:18px">: il Lich gode di Vel ATT aumentata del 20% e CRIT aumentato di 200. Effetto raddoppiato per ogni unità nemica sconfitta. Durata: 20 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrificio di ossa&gt;</span><span style="color: #645252;font-size:18px">: il Lich gode di Vel ATT aumentata del 20% e CRIT aumentato di 200. Effetto raddoppiato per ogni unità nemica sconfitta. Durata: 20 secondi.</span>
 
 ### 4th Skill (or 3rd): Abbraccio sacrilego
- **Description:** <span style="color: #48b946;font-size:18px"><Sacrificio di ossa></span><span style="color: #645252;font-size:18px">: DIF e assorbimento delle unità Necropoli aumentati del 20%. Effetto raddoppiato per ogni unità nemica sconfitta. Durata: 20 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrificio di ossa&gt;</span><span style="color: #645252;font-size:18px">: DIF e assorbimento delle unità Necropoli aumentati del 20%. Effetto raddoppiato per ogni unità nemica sconfitta. Durata: 20 secondi.</span>
 
 ### 5th Skill (or 6th): Contratto magico
- **Description:** <span style="color: #48b946;font-size:18px"><Potenziamento oscuro></span><span style="color: #645252;font-size:18px">: DAN del Lich aumentato del 5% per ogni incantatore presente sul campo di battaglia</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Potenziamento oscuro&gt;</span><span style="color: #645252;font-size:18px">: DAN del Lich aumentato del 5% per ogni incantatore presente sul campo di battaglia</span>
 
 ### 6th Skill (or 5th): Contratto con i morti
- **Description:** <span style="color: #48b946;font-size:18px"><Incenerimento></span><span style="color: #645252;font-size:18px">: DAN del Lich aumentato del 5% per ogni unità Necropoli presente sul campo di battaglia</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incenerimento&gt;</span><span style="color: #645252;font-size:18px">: DAN del Lich aumentato del 5% per ogni unità Necropoli presente sul campo di battaglia</span>
 
 ## Technical info
  **runart:** 0

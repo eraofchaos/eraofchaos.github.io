@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /de/units/Mantis/
 excerpt: "Einheiten  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force."
 unitID: 209
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Mantis"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 6336.0
 
  **Base ATK:** 1140.4
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 570.2 | 5.5 | 4752.0 |
+  | Blau | 1140.4 | 11.0 | 9504.0 |
+  | Blau +1 | 1710.6 | 16.5 | 14256.0 |
+  | Blau +2 | 2394.84 | 23.1 | 19958.4 |
+  | Lila | 3079.08 | 29.7 | 25660.8 |
+  | Lila +1 | 3763.32 | 36.3 | 31363.2 |
+  | Lila +2 | 4561.6 | 44.0 | 38016.0 |
+  | Lila +3 | 5359.88 | 51.7 | 44668.8 |
+  | Orange | 6158.16 | 59.4 | 51321.6 |
+  | Orange +1 | 7070.48 | 68.2 | 58924.8 |
+  | Orange +2 | 7982.8 | 77.0 | 66528.0 |
+  | Orange +3 | 8895.12 | 85.8 | 74131.2 |
+  | Orange +4 | 9807.44 | 94.6 | 81734.4 |
+  | Orange +5 | 11175.92 | 107.8 | 93139.2 |
+  | Rot | 13000.56 | 125.4 | 108345.6 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 159.656 | 0.85 | 3.42 | 887.04 |
+  | **4x** <i class="fas fa-star"/> | 182.464 | 0.89 | 4.03 | 1013.76 |
+  | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
+  | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
 
 ## Skills
 ### 1 Skill: sonic cutting
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Gleißen des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px"><Blenden></span><span style="color: #645252;font-size:18px">Reduziert die Präzision von Feinden mit „Blindheit“ zusätzlich um 1.000.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Präzision von Feinden mit „Blindheit“ zusätzlich um 1.000.</span>
 
 ### 2nd Skill (or 1st): Wille des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px"><Blenden></span><span style="color: #645252;font-size:18px">Wirkt im Gefecht „Blenden“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Wirkt im Gefecht „Blenden“.</span>
 
 ### 3rd Skill (or 4th): Sechster Sinn
- **Description:** <span style="color: #48b946;font-size:18px"><Schimmernde Silhouette></span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit des Schilds wird auf 200 % der Wahrscheinlichkeit der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit des Schilds wird auf 200 % der Wahrscheinlichkeit der vorherigen Fähigkeit erhöht.</span>
 
 ### 4th Skill (or 3rd): Macht der Koordination
- **Description:** <span style="color: #48b946;font-size:18px"><Schimmernde Silhouette></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 5th Skill (or 6th): Führung des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px"><Tapferer Anführer></span><span style="color: #645252;font-size:18px">Das Einhorn erhöht den Schaden aller verbündeter Einheiten 20 Sek. lang um 10 %, wenn die Zieleinheit getötet wird. Der Effekt ist 3 Mal stapelbar.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Das Einhorn erhöht den Schaden aller verbündeter Einheiten 20 Sek. lang um 10 %, wenn die Zieleinheit getötet wird. Der Effekt ist 3 Mal stapelbar.</span>
 
 ### 6th Skill (or 5th): Schutz des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px"><Tapferer Anführer></span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit getötet wird, verleiht das Einhorn allen verbündeten Einheiten einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit getötet wird, verleiht das Einhorn allen verbündeten Einheiten einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /de/units/Storm Elemental/
 excerpt: "Einheiten Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Sturmelementar"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Statische Markierung, zusätzlicher Schaden, mehrere Angriffe auf ein Ziel.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 49.6 | 3.0 | 496.5 |
+  | Blau | 99.2 | 6.0 | 993.0 |
+  | Blau +1 | 148.8 | 9.0 | 1489.5 |
+  | Blau +2 | 208.32 | 12.6 | 2085.3 |
+  | Lila | 267.84 | 16.2 | 2681.1 |
+  | Lila +1 | 327.36 | 19.8 | 3276.9 |
+  | Lila +2 | 396.8 | 24.0 | 3972.0 |
+  | Lila +3 | 466.24 | 28.2 | 4667.1 |
+  | Orange | 535.68 | 32.4 | 5362.2 |
+  | Orange +1 | 615.04 | 37.2 | 6156.6 |
+  | Orange +2 | 694.4 | 42.0 | 6951.0 |
+  | Orange +3 | 773.76 | 46.8 | 7745.4 |
+  | Orange +4 | 853.12 | 51.6 | 8539.8 |
+  | Orange +5 | 972.16 | 58.8 | 9731.4 |
+  | Rot | 1130.88 | 68.4 | 11320.2 |
 
- **Info1:** Statische Markierung, zusätzlicher Schaden, mehrere Angriffe auf ein Ziel.
-
- **Info2:** Statische Markierung, zusätzlicher Schaden, mehrere Angriffe auf ein Ziel.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.904 | 0.59 | 1.76 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 13.888 | 0.62 | 2.32 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 15.872 | 0.64 | 2.88 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
 ### 1 Skill: Statische Markierung
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Magieresistenz
 
-    - LP
-
-    - Angriffstempo
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Schockkette
- **Description:** <span style="color: #48b946;font-size:18px"><Statische Markierung></span><span style="color: #645252;font-size:18px"> Zu Beginn der Schlacht wendet der Sturmelementar bei allen gegnerischen Einheiten Schock an.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Statische Markierung&gt;</span><span style="color: #645252;font-size:18px"> Zu Beginn der Schlacht wendet der Sturmelementar bei allen gegnerischen Einheiten Schock an.</span>
 
 ### 2nd Skill (or 1st): Blitzimpulse
- **Description:** <span style="color: #48b946;font-size:18px"><Statische Markierung></span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt alle 30 Sekunden <Statische Markierung>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Statische Markierung&gt;</span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt alle 30 Sekunden &lt;Statische Markierung&gt;.</span>
 
 ### 3rd Skill (or 4th): Plasmafeld
- **Description:** <span style="color: #48b946;font-size:18px"><Entfesselter Blitz></span><span style="color: #645252;font-size:18px"> Verdoppelt die Auslösewahrscheinlichkeit der Fähigkeit.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Entfesselter Blitz&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt die Auslösewahrscheinlichkeit der Fähigkeit.</span>
 
 ### 4th Skill (or 3rd): Explosiver Blitz
- **Description:** <span style="color: #48b946;font-size:18px"><Entfesselter Blitz></span><span style="color: #645252;font-size:18px"> Verdoppelt den Fähigkeitenschaden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Entfesselter Blitz&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt den Fähigkeitenschaden.</span>
 
 ### 5th Skill (or 6th): Konflux-Aura
- **Description:** <span style="color: #48b946;font-size:18px"><Kraft der Elemente></span><span style="color: #645252;font-size:18px"> Erhöht 10 Sekunden lang das Angriffstempo bei zwei zufälligen Einheiten der hinteren Reihe um 25 %, wenn ein Held einen Luftzauber wirkt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 10 Sekunden lang das Angriffstempo bei zwei zufälligen Einheiten der hinteren Reihe um 25 %, wenn ein Held einen Luftzauber wirkt.</span>
 
 ### 6th Skill (or 5th): Konflux-Explosion
- **Description:** <span style="color: #48b946;font-size:18px"><Kraft der Elemente></span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt garantiert 1 Mal <Entfesselter Blitz>, wenn ein Held einen Luftzauber wirkt, was Zieleinheiten Schaden in Höhe von 300 % des eigenen ANG zufügt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt garantiert 1 Mal &lt;Entfesselter Blitz&gt;, wenn ein Held einen Luftzauber wirkt, was Zieleinheiten Schaden in Höhe von 300 % des eigenen ANG zufügt.</span>
 
 ## Technical info
  **runart:** 0

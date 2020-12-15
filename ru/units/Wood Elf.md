@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /ru/units/Wood Elf/
 excerpt: "Отряды Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Лесной эльф"
 toc: true
@@ -25,22 +25,47 @@ toc: true
 
  **Unit description:** Туча стрел: ненадолго увеличивает скорость атаки на 500%.
 
+ **Recommend:** Наносит дополнительный урон все замедленным врагам.
+
+ **Info:** Наносит огромный взрывной урон, двойной удар. Эффективнее всего против маленьких отрядов.
+
+## Basic stats
  **Base HP:** 438.4
 
  **Base ATK:** 92.4
 
- **Recommend:** Наносит дополнительный урон все замедленным врагам.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 46.2 | 6.25 | 328.8 |
+  | Синий | 92.4 | 12.5 | 657.6 |
+  | Blue +1 | 138.6 | 18.75 | 986.4 |
+  | Синий +2 | 194.04 | 26.25 | 1380.96 |
+  | Фиолетовый | 249.48 | 33.75 | 1775.52 |
+  | Фиолетовый +1 | 304.92 | 41.25 | 2170.08 |
+  | Фиолетовый +2 | 369.6 | 50.0 | 2630.4 |
+  | Фиолетовый +3 | 434.28 | 58.75 | 3090.72 |
+  | Оранжевый | 498.96 | 67.5 | 3551.04 |
+  | Оранжевый +1 | 572.88 | 77.5 | 4077.12 |
+  | Оранжевый +2 | 646.8 | 87.5 | 4603.2 |
+  | Orange +3 | 720.72 | 97.5 | 5129.28 |
+  | Оранжевый +4 | 794.64 | 107.5 | 5655.36 |
+  | Orange +5 | 905.52 | 122.5 | 6444.48 |
+  | Red | 1053.36 | 142.5 | 7496.64 |
 
- **Info1:** Наносит огромный взрывной урон, двойной удар. Эффективнее всего против маленьких отрядов.
-
- **Info2:** Наносит огромный взрывной урон, двойной удар. Эффективнее всего против маленьких отрядов.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.088 | 0.68 | 3.13 | 52.608 |
+  | **3x** <i class="fas fa-star"/> | 12.936 | 0.72 | 3.75 | 61.376 |
+  | **4x** <i class="fas fa-star"/> | 14.784 | 0.75 | 4.38 | 70.144 |
+  | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
+  | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** 
 
 ### 2 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у лесных эльфов есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать <Двойной удар> возрастает до 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у лесных эльфов есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### 3 Skill: Убежище эльфа
  **Description:** <span style="color: #645252;font-size:20px">Каждый лесной эльф получает 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждый раз, как вражеский герой применяет заклинание, и поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в течение 5 сек. Перезарядка - 10 сек.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Magic resistance
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Град стрел></span><span style="color: #645252;font-size:18px">: при получении бонусов <Бешенства> урон отряда увеличивается на 20% на 5 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Град стрел&gt;</span><span style="color: #645252;font-size:18px">: при получении бонусов &lt;Бешенства&gt; урон отряда увеличивается на 20% на 5 сек.</span>
 
 ### 2nd Skill (or 1st): Ливень
- **Description:** <span style="color: #48b946;font-size:18px"><Град стрел></span><span style="color: #645252;font-size:18px">: длительность увеличивается на 1,5 секунды</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Град стрел&gt;</span><span style="color: #645252;font-size:18px">: длительность увеличивается на 1,5 секунды</span>
 
 ### 3rd Skill (or 4th): Соглядатай природы
- **Description:** <span style="color: #48b946;font-size:18px"><Убежище эльфа></span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 300% от эффекта предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убежище эльфа&gt;</span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 300% от эффекта предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Склонность к природе
- **Description:** <span style="color: #48b946;font-size:18px"><Убежище эльфа></span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 150% от эффекта предыдущего умения <Восстановление> сокращается до 0 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убежище эльфа&gt;</span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 150% от эффекта предыдущего умения &lt;Восстановление&gt; сокращается до 0 сек.</span>
 
 ### 5th Skill (or 6th): Выпустить зверя
- **Description:** <span style="color: #48b946;font-size:18px"><Призыв огня></span><span style="color: #645252;font-size:18px">: КРИТ. УРН повышается на 15%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 3% для каждого стрелкового отряда на поле боя.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Призыв огня&gt;</span><span style="color: #645252;font-size:18px">: КРИТ. УРН повышается на 15%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 3% для каждого стрелкового отряда на поле боя.</span>
 
 ### 6th Skill (or 5th): Охотничий инстинкт
- **Description:** <span style="color: #48b946;font-size:18px"><Призыв огня></span><span style="color: #645252;font-size:18px">: урон отряда повышается на 10%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 2% для каждого стрелкового отряда на поле боя</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Призыв огня&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается на 10%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 2% для каждого стрелкового отряда на поле боя</span>
 
 ## Technical info
  **runart:** 0

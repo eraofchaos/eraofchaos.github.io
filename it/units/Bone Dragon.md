@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /it/units/Bone Dragon/
 excerpt: "Unità I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Drago scheletrico"
 toc: true
@@ -25,44 +25,66 @@ toc: true
 
  **Unit description:** Paura: riduce notevolmente la DIF nemica e causa <Morale basso>.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Riduce la difesa di tutti i nemici sul campo di battaglia. Efficace nel fare breccia nelle difese nemiche.
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 758.0
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 379.0 | 4.5 | 4327.5 |
+  | Blu | 758.0 | 9.0 | 8655.0 |
+  | Blu +1 | 1137.0 | 13.5 | 12982.5 |
+  | Blu +2 | 1591.8 | 18.9 | 18175.5 |
+  | Viola | 2046.6 | 24.3 | 23368.5 |
+  | Viola +1 | 2501.4 | 29.7 | 28561.5 |
+  | Viola +2 | 3032.0 | 36.0 | 34620.0 |
+  | Viola +3 | 3562.6 | 42.3 | 40678.5 |
+  | Arancione | 4093.2 | 48.6 | 46737.0 |
+  | Arancione +1 | 4699.6 | 55.8 | 53661.0 |
+  | Arancione +2 | 5306.0 | 63.0 | 60585.0 |
+  | Arancione +3 | 5912.4 | 70.2 | 67509.0 |
+  | Arancione +4 | 6518.8 | 77.4 | 74433.0 |
+  | Arancione +5 | 7428.4 | 88.2 | 84819.0 |
+  | Rosso | 8641.2 | 102.6 | 98667.0 |
 
- **Info1:** Riduce la difesa di tutti i nemici sul campo di battaglia. Efficace nel fare breccia nelle difese nemiche.
-
- **Info2:** Riduce la difesa di tutti i nemici sul campo di battaglia. Efficace nel fare breccia nelle difese nemiche.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 106.12 | 0.56 | 2.98 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 121.28 | 0.59 | 3.57 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
 ### 1 Skill: Paura
- **Description:** <span style="color: #645252;font-size:20px">Il Drago scheletrico causa </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale basso> </span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area ogni </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec, e ne riduce la Rid DAN del 20% per 10 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Drago scheletrico causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area ogni </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec, e ne riduce la Rid DAN del 20% per 10 secondi.</span><span style="color: black">
 
 ### 2 Skill: Rullo stritolante
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Drago scheletrico ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e causare </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Silenzio></span><span style="color: black"><span style="color: #645252;font-size:20px"> ai bersagli per 10 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Drago scheletrico ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e causare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ai bersagli per 10 secondi.</span><span style="color: black">
 
 ### 3 Skill: Perforazione
- **Description:** <span style="color: #645252;font-size:20px">La Perforazione del Drago scheletrico aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è raddoppiato quando attacca unità con </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale basso></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Perforazione del Drago scheletrico aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è raddoppiato quando attacca unità con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Invecchiamento
  **Description:** <span style="color: #645252;font-size:20px">Se il Drago scheletrico è sul campo di battaglia, riduce la Rid DAN di tutte le unità nemiche (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 5 Skill: Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da <Morale basso>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Colpo critico unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Colpo critico unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Paura></span><span style="color: #645252;font-size:18px">Riduce di un ulteriore 20% la Rid DAN dell'unità.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">Riduce di un ulteriore 20% la Rid DAN dell'unità.</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px"><Paura></span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 10% la Rid DAN delle unità nemiche in un'ampia area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 10% la Rid DAN delle unità nemiche in un'ampia area.</span>
 
 ### 3rd Skill (or 4th): Attacco debilitante
- **Description:** <span style="color: #48b946;font-size:18px"><Rullo stritolante></span><span style="color: #645252;font-size:18px">Riduce la DIF del 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Riduce la DIF del 30%</span>
 
 ### 4th Skill (or 3rd): Divieto oscuro
- **Description:** <span style="color: #48b946;font-size:18px"><Rullo stritolante></span><span style="color: #645252;font-size:18px">Aumenta la portata di <Silenzio> fino a coprire tutte le unità nemiche in un'area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Aumenta la portata di &lt;Silenzio&gt; fino a coprire tutte le unità nemiche in un'area.</span>
 
 ### 5th Skill (or 6th): Abbraccio spettrale
- **Description:** <span style="color: #48b946;font-size:18px"><Invecchiamento></span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
 
 ### 6th Skill (or 5th): Maledizione dell'età
- **Description:** <span style="color: #48b946;font-size:18px"><Invecchiamento></span><span style="color: #645252;font-size:18px">: le unità nemiche in un'area attorno al Drago scheletrico subiscono danni pari al 200% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: le unità nemiche in un'area attorno al Drago scheletrico subiscono danni pari al 200% del valore della tecnica originale.</span>
 
 ## Technical info
  **runart:** 1

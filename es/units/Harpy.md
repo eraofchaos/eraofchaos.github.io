@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /es/units/Harpy/
 excerpt: "Unidades Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Arpía"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Garra afilada de la Hechicera: Tiene una probabilidad de infligir daño a varios enemigos.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Potente DPS. Suprime las unidades de tierra y crea oportunidades para que los aliados ataquen.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 37.0 | 6.75 | 645.0 |
+  | Azul | 74.0 | 13.5 | 1290.0 |
+  | Azul +1 | 111.0 | 20.25 | 1935.0 |
+  | Azul +2 | 155.4 | 28.35 | 2709.0 |
+  | Violeta | 199.8 | 36.45 | 3483.0 |
+  | Violeta +1 | 244.2 | 44.55 | 4257.0 |
+  | Violeta +2 | 296.0 | 54.0 | 5160.0 |
+  | Violeta +3 | 347.8 | 63.45 | 6063.0 |
+  | Naranja | 399.6 | 72.9 | 6966.0 |
+  | Naranja +1 | 458.8 | 83.7 | 7998.0 |
+  | Naranja +2 | 518.0 | 94.5 | 9030.0 |
+  | Naranja +3 | 577.2 | 105.3 | 10062.0 |
+  | Naranja +4 | 636.4 | 116.1 | 11094.0 |
+  | Naranja +5 | 725.2 | 132.3 | 12642.0 |
+  | Rojo | 843.6 | 153.9 | 14706.0 |
 
- **Info1:** Potente DPS. Suprime las unidades de tierra y crea oportunidades para que los aliados ataquen.
-
- **Info2:** Potente DPS. Suprime las unidades de tierra y crea oportunidades para que los aliados ataquen.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 8.88 | 0.53 | 3.34 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.36 | 0.55 | 3.97 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.84 | 0.58 | 4.61 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
 ### 1 Skill: Garra afilada de Arpía
@@ -46,7 +71,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Cuando un Héroe hostil lanza un hechizo, la Arpía reduce la reducción de daño de unidad de las unidades en el mismo camino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. Se acumula hasta 3 veces.</span><span style="color: black">
 
 ### 4 Skill: Apuntar en el aire
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño crítico de la Arpía un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La Arpía siempre impacta con un golpe crítico contra objetivos <span style="color: #48b946;font-size:20px"><aturdidos></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño crítico de la Arpía un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La Arpía siempre impacta con un golpe crítico contra objetivos <span style="color: #48b946;font-size:20px">&lt;aturdidos&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Resistencia mágica
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">Aplica <deterrence> al objetivo al enfrentarse a unidades de 1 o 4 miembros. <Deterrence>: Reduce el golpe crítico del objetivo en 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px"><Matanza de Dragones></span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 1

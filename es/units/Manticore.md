@@ -3,7 +3,7 @@ title: "Mantícora"
 permalink: /es/units/Manticore/
 excerpt: "Unidades Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Mantícora"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Apoyo de Asalto. Aumenta el DPS de los aliados y debilita la Defensa enemiga.
+
+## Basic stats
  **Base HP:** 1917.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 87.45 | 5.75 | 1437.75 |
+  | Azul | 174.9 | 11.5 | 2875.5 |
+  | Azul +1 | 262.35 | 17.25 | 4313.25 |
+  | Azul +2 | 367.29 | 24.15 | 6038.55 |
+  | Violeta | 472.23 | 31.05 | 7763.85 |
+  | Violeta +1 | 577.17 | 37.95 | 9489.15 |
+  | Violeta +2 | 699.6 | 46.0 | 11502.0 |
+  | Violeta +3 | 822.03 | 54.05 | 13514.85 |
+  | Naranja | 944.46 | 62.1 | 15527.7 |
+  | Naranja +1 | 1084.38 | 71.3 | 17828.1 |
+  | Naranja +2 | 1224.3 | 80.5 | 20128.5 |
+  | Naranja +3 | 1364.22 | 89.7 | 22428.9 |
+  | Naranja +4 | 1504.14 | 98.9 | 24729.3 |
+  | Naranja +5 | 1714.02 | 112.7 | 28179.9 |
+  | Rojo | 1993.86 | 131.1 | 32780.7 |
 
- **Info1:** Apoyo de Asalto. Aumenta el DPS de los aliados y debilita la Defensa enemiga.
-
- **Info2:** Apoyo de Asalto. Aumenta el DPS de los aliados y debilita la Defensa enemiga.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.51 | 3.53 | 268.38 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.53 | 4.15 | 306.72 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.55 | 4.76 | 345.06 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
 ### 1 Skill: Veneno paralizante
@@ -46,7 +70,7 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Sangre envenenada salpicada
- **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota al objetivo, la DEF de todas las unidades hostiles se reduce un 30% y quedan <span style="color: #48b946;font-size:20px"><silenciadas></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Solo se activa una vez por batalla.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota al objetivo, la DEF de todas las unidades hostiles se reduce un 30% y quedan <span style="color: #48b946;font-size:20px">&lt;silenciadas&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Solo se activa una vez por batalla.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Daño de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ruptura de formación
- **Description:** <span style="color: #48b946;font-size:18px"><Decisión táctica>:</span><span style="color: #645252;font-size:18px"> Aumenta la probabilidad de activación de un ataque normal un 50%, disminuye la tenacidad de las unidades cuerpo a cuerpo en 60 y la DEF un 2%. Dura 6 s, se acumula hasta 5 veces</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Decisión táctica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta la probabilidad de activación de un ataque normal un 50%, disminuye la tenacidad de las unidades cuerpo a cuerpo en 60 y la DEF un 2%. Dura 6 s, se acumula hasta 5 veces</span>
 
 ### 2nd Skill (or 1st): Estrategia de incursión
- **Description:** <span style="color: #48b946;font-size:18px"><Decisión táctica>:</span><span style="color: #645252;font-size:18px"> La probabilidad de activar un ataque normal aumenta en un 50%. Al luchar contra unidades a distancia/lanzadoras, aumenta el daño crítico y el daño de la unidad propios en un 4% adicional. Dura 6 s, se acumula hasta 5 veces</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Decisión táctica&gt;:</span><span style="color: #645252;font-size:18px"> La probabilidad de activar un ataque normal aumenta en un 50%. Al luchar contra unidades a distancia/lanzadoras, aumenta el daño crítico y el daño de la unidad propios en un 4% adicional. Dura 6 s, se acumula hasta 5 veces</span>
 
 ### 3rd Skill (or 4th): Grito de retirada
- **Description:** <span style="color: #48b946;font-size:18px"><Chillido de rompehechizos></span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, se reducirá un 20% el efecto de curación de las unidades defensivas hostiles. Cuando tu enemigo lance un hechizo de magia de agua, se reducirá la velocidad de ataque de las unidades ofensivas a distancia hostiles un 20%. Cuando tu enemigo lance un hechizo de magia de fuego, reducirá el daño de las unidades ofensivas hostiles un 20 %. Cuando tu enemigo lance un hechizo de magia de aire, las unidades lanzadoras hostiles quedarán silenciadas durante 1,5 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chillido de rompehechizos&gt;</span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, se reducirá un 20% el efecto de curación de las unidades defensivas hostiles. Cuando tu enemigo lance un hechizo de magia de agua, se reducirá la velocidad de ataque de las unidades ofensivas a distancia hostiles un 20%. Cuando tu enemigo lance un hechizo de magia de fuego, reducirá el daño de las unidades ofensivas hostiles un 20 %. Cuando tu enemigo lance un hechizo de magia de aire, las unidades lanzadoras hostiles quedarán silenciadas durante 1,5 s</span>
 
 ### 4th Skill (or 3rd): Poder de rompehechizos
- **Description:** <span style="color: #48b946;font-size:18px"><Chillido de rompehechizos></span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, aumentará un 15% el efecto de curación de tus unidades defensivas y las unidades defensivas amistosas. Cuando tu enemigo lance un hechizo de magia de agua, aumentará la velocidad de ataque de tus unidades a distancia y las unidades ofensivas a distancia amistosas un 15%. Cuando tu enemigo lance un hechizo de magia de fuego, aumentará el daño de tus unidades ofensivas y las unidades ofensivas amistosas un 15 %. Cuando tu enemigo lance un hechizo de magia de aire, tus unidades lanzadoras y las unidades lanzadoras amistosas se volverán inmunes a silencio durante 2 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chillido de rompehechizos&gt;</span><span style="color: #645252;font-size:18px">: Cuando tus enemigos lancen un hechizo de magia de tierra, aumentará un 15% el efecto de curación de tus unidades defensivas y las unidades defensivas amistosas. Cuando tu enemigo lance un hechizo de magia de agua, aumentará la velocidad de ataque de tus unidades a distancia y las unidades ofensivas a distancia amistosas un 15%. Cuando tu enemigo lance un hechizo de magia de fuego, aumentará el daño de tus unidades ofensivas y las unidades ofensivas amistosas un 15 %. Cuando tu enemigo lance un hechizo de magia de aire, tus unidades lanzadoras y las unidades lanzadoras amistosas se volverán inmunes a silencio durante 2 s</span>
 
 ### 5th Skill (or 6th): Sangre envenenada impregnada
- **Description:** <span style="color: #48b946;font-size:18px"><Spattered Poisoned Blood></span><span style="color: #645252;font-size:18px"><Spattered Poisoned Blood> se activará cuando la unidad objetivo caiga derrotada. Se puede activar 3 veces. Garantiza activar el efecto de la Sangre envenenada salpicada cada 30 segundos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spattered Poisoned Blood&gt;</span><span style="color: #645252;font-size:18px">&lt;Spattered Poisoned Blood&gt; se activará cuando la unidad objetivo caiga derrotada. Se puede activar 3 veces. Garantiza activar el efecto de la Sangre envenenada salpicada cada 30 segundos</span>
 
 ### 6th Skill (or 5th): Pulverización venenosa
- **Description:** <span style="color: #48b946;font-size:18px"><Sangre envenenada salpicada></span><span style="color: #645252;font-size:18px"><Sangre envenenada salpicada> aumenta el efecto de la reducción de DEF un 50% y puede activarse 3 veces como máximo cuando la unidad objetivo es asesinada. Puede activarse una vez más tras 15 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sangre envenenada salpicada&gt;</span><span style="color: #645252;font-size:18px">&lt;Sangre envenenada salpicada&gt; aumenta el efecto de la reducción de DEF un 50% y puede activarse 3 veces como máximo cuando la unidad objetivo es asesinada. Puede activarse una vez más tras 15 s</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Demonio del Abismo"
 permalink: /es/units/Pit Fiend/
 excerpt: "Unidades Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Demonio del Abismo"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Manantial de fuego: Cura a las unidades amistosas a su paso constantemente.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Tiene aura de ventajas y curación. La unidad básica del Infierno.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 87.45 | 4.75 | 1387.5 |
+  | Azul | 174.9 | 9.5 | 2775.0 |
+  | Azul +1 | 262.35 | 14.25 | 4162.5 |
+  | Azul +2 | 367.29 | 19.95 | 5827.5 |
+  | Violeta | 472.23 | 25.65 | 7492.5 |
+  | Violeta +1 | 577.17 | 31.35 | 9157.5 |
+  | Violeta +2 | 699.6 | 38.0 | 11100.0 |
+  | Violeta +3 | 822.03 | 44.65 | 13042.5 |
+  | Naranja | 944.46 | 51.3 | 14985.0 |
+  | Naranja +1 | 1084.38 | 58.9 | 17205.0 |
+  | Naranja +2 | 1224.3 | 66.5 | 19425.0 |
+  | Naranja +3 | 1364.22 | 74.1 | 21645.0 |
+  | Naranja +4 | 1504.14 | 81.7 | 23865.0 |
+  | Naranja +5 | 1714.02 | 93.1 | 27195.0 |
+  | Rojo | 1993.86 | 108.3 | 31635.0 |
 
- **Info1:** Tiene aura de ventajas y curación. La unidad básica del Infierno.
-
- **Info2:** Tiene aura de ventajas y curación. La unidad básica del Infierno.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 20.988 | 0.53 | 2.5 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.55 | 3.09 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.58 | 3.69 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
 ### 1 Skill: Fuente ígnea
@@ -43,26 +68,24 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Demonios del Abismo en el campo de batalla, esta invoca 4 Demonios para que luchen. Los Demonios tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, 700 de DEF y 500 de índice de golpe crítico, y duran toda la batalla.</span><span style="color: black">
 
 ### 3 Skill: Calor
- **Description:** <span style="color: #645252;font-size:20px">La <Fuente Ígnea> de la Demonio del Abismo aumenta la curación un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La curación de <Fuente Ígnea> aumenta un 5% por cada unidad del Infierno desplegada.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La &lt;Fuente Ígnea&gt; de la Demonio del Abismo aumenta la curación un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La curación de &lt;Fuente Ígnea&gt; aumenta un 5% por cada unidad del Infierno desplegada.</span><span style="color: black">
 
 ### 4 Skill: Voluntad del Señor
  **Description:** <span style="color: #645252;font-size:20px">Si hay Demonios del Abismo en la batalla, los PV y el ATQ de los Diablillos, Demonios y Elementales de Fuego aliados aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Golpe asador
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con <quemado>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
 ### 6 Skill: Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Curación
+* Daño de la unidad
 
-    - PV
-
-    - Curación
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Baño en un Lago ardiente
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Spring></span><span style="color: #645252;font-size:18px">Efecto de habilidad aumentado al 150% de la habilidad anterior. La regeneración de PV afecta a todas las unidades de la facción de Infierno</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Spring&gt;</span><span style="color: #645252;font-size:18px">Efecto de habilidad aumentado al 150% de la habilidad anterior. La regeneración de PV afecta a todas las unidades de la facción de Infierno</span>
 
 ### 2nd Skill (or 1st): Bautismo de fuego
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Spring></span><span style="color: #645252;font-size:18px">La duración de la habilidad aumenta a 12 s. La regeneración de PV afecta a todas las unidades del Infierno</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Spring&gt;</span><span style="color: #645252;font-size:18px">La duración de la habilidad aumenta a 12 s. La regeneración de PV afecta a todas las unidades del Infierno</span>
 
 ### 3rd Skill (or 4th): Esbirro ferviente
- **Description:** <span style="color: #48b946;font-size:18px"><Lord's Summon></span><span style="color: #645252;font-size:18px">Invoca un Demonio que aumenta la reducción de daño de la unidad un 40% y la esquiva en 800</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lord's Summon&gt;</span><span style="color: #645252;font-size:18px">Invoca un Demonio que aumenta la reducción de daño de la unidad un 40% y la esquiva en 800</span>
 
 ### 4th Skill (or 3rd): Regalo de amor
- **Description:** <span style="color: #48b946;font-size:18px"><Lord's Summon></span><span style="color: #645252;font-size:18px">Cuando una unidad hostil caiga derrotada, la Demonio del Abismo invocará 4 Demonios</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lord's Summon&gt;</span><span style="color: #645252;font-size:18px">Cuando una unidad hostil caiga derrotada, la Demonio del Abismo invocará 4 Demonios</span>
 
 ### 5th Skill (or 6th): Creyente encantado
- **Description:** <span style="color: #48b946;font-size:18px"><Lord's Will></span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad y la reducción de daño de la unidad para las unidades amistosas del Infierno un 6% cada 10 s. Por cada unidad hostil derrotada, se activa 1 vez. Este efecto se puede acumular un máximo de 5 veces</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lord's Will&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad y la reducción de daño de la unidad para las unidades amistosas del Infierno un 6% cada 10 s. Por cada unidad hostil derrotada, se activa 1 vez. Este efecto se puede acumular un máximo de 5 veces</span>
 
 ### 6th Skill (or 5th): Rito privado dichoso
- **Description:** <span style="color: #48b946;font-size:18px"><Lord's Will></span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de las unidades amistosas del Infierno un 20% durante 20 s y recupera un 10% de PV siempre que se derrote a 1 unidad hostil</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lord's Will&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de las unidades amistosas del Infierno un 20% durante 20 s y recupera un 10% de PV siempre que se derrote a 1 unidad hostil</span>
 
 ## Technical info
  **runart:** 1

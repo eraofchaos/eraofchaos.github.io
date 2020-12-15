@@ -3,7 +3,7 @@ title: "Jinete Lupino"
 permalink: /es/units/Wolf Rider/
 excerpt: "Unidades Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Jinete Lupino"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Bestia compañera: invoca lobos a la batalla al morir.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Invoca un acompañante bestia. Cuanto menor es su vida, mayor es su Ataque.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 36.4 | 5.5 | 645.0 |
+  | Azul | 72.8 | 11.0 | 1290.0 |
+  | Azul +1 | 109.2 | 16.5 | 1935.0 |
+  | Azul +2 | 152.88 | 23.1 | 2709.0 |
+  | Violeta | 196.56 | 29.7 | 3483.0 |
+  | Violeta +1 | 240.24 | 36.3 | 4257.0 |
+  | Violeta +2 | 291.2 | 44.0 | 5160.0 |
+  | Violeta +3 | 342.16 | 51.7 | 6063.0 |
+  | Naranja | 393.12 | 59.4 | 6966.0 |
+  | Naranja +1 | 451.36 | 68.2 | 7998.0 |
+  | Naranja +2 | 509.6 | 77.0 | 9030.0 |
+  | Naranja +3 | 567.84 | 85.8 | 10062.0 |
+  | Naranja +4 | 626.08 | 94.6 | 11094.0 |
+  | Naranja +5 | 713.44 | 107.8 | 12642.0 |
+  | Rojo | 829.92 | 125.4 | 14706.0 |
 
- **Info1:** Invoca un acompañante bestia. Cuanto menor es su vida, mayor es su Ataque.
-
- **Info2:** Invoca un acompañante bestia. Cuanto menor es su vida, mayor es su Ataque.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.28 | 0.48 | 2.2 | 86.0 |
+  | **2x** <i class="fas fa-star"/> | 8.736 | 0.5 | 2.81 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.192 | 0.53 | 3.42 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.648 | 0.55 | 4.03 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
 ### 1 Skill: Bestia compañera
  **Description:** <span style="color: #645252;font-size:20px">El Jinete Lupino invoca un Huargo al morir. Los Huargos tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV y duran toda la batalla.</span><span style="color: black">
 
 ### 2 Skill: Golpe doble
- **Description:** <span style="color: #645252;font-size:20px">El Jinete Lupino tiene un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar dos veces cuando usa su ataque normal. El segundo ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrenta a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px"><ralentizados></span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar <Golpe Doble> aumenta al 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">El Jinete Lupino tiene un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar dos veces cuando usa su ataque normal. El segundo ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrenta a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizados&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe Doble&gt; aumenta al 100%.</span><span style="color: black">
 
 ### 3 Skill: Destrozo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Jinete Lupino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando sus PV están por debajo del 35%, el efecto se duplica. (Sigue teniendo efecto aunque se recuperen PV).</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Daño de la unidad
+* Resistencia mágica
 
-    - PV
-
-    - Daño de la unidad
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Linaje de la bestia
- **Description:** <span style="color: #48b946;font-size:18px"><Beast Companion></span><span style="color: #645252;font-size:18px">Aumenta el golpe crítico de los Huargos invocados en 400. El Jinete Lupino invoca otro Huargo cuando su objetivo cae derrotado</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Aumenta el golpe crítico de los Huargos invocados en 400. El Jinete Lupino invoca otro Huargo cuando su objetivo cae derrotado</span>
 
 ### 2nd Skill (or 1st): Viviendo con lobos
- **Description:** <span style="color: #48b946;font-size:18px"><Beast Companion></span><span style="color: #645252;font-size:18px">Invoca un Huargo que aumenta el daño de la unidad un 10%. Al principio de la batalla, se invocan 9 Huargos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Invoca un Huargo que aumenta el daño de la unidad un 10%. Al principio de la batalla, se invocan 9 Huargos</span>
 
 ### 3rd Skill (or 4th): Entusiasmo
- **Description:** <span style="color: #48b946;font-size:18px"><Destrozo></span><span style="color: #645252;font-size:18px">Al activar <Destrozo>, aumenta la velocidad de ataque del Jinete Lupino un 30% durante 20 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px">Al activar &lt;Destrozo&gt;, aumenta la velocidad de ataque del Jinete Lupino un 30% durante 20 s</span>
 
 ### 4th Skill (or 3rd): Destrozo de ansia de sangre
- **Description:** <span style="color: #48b946;font-size:18px"><Destrozo></span><span style="color: #645252;font-size:18px"> Al activar <Destrozo>, aumenta el golpe crítico del Jinete Lupino en 400 (seguirá activo cuando recupere PV)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px"> Al activar &lt;Destrozo&gt;, aumenta el golpe crítico del Jinete Lupino en 400 (seguirá activo cuando recupere PV)</span>
 
 ### 5th Skill (or 6th): Instinto bestial
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">Aumenta la regeneración de PV al 5% al infligir un golpe crítico</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Aumenta la regeneración de PV al 5% al infligir un golpe crítico</span>
 
 ### 6th Skill (or 5th): Aumentar la ventaja
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">Cada golpe crítico otorga 30 más de golpe crítico</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Cada golpe crítico otorga 30 más de golpe crítico</span>
 
 ## Technical info
  **runart:** 1

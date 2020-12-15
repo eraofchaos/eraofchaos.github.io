@@ -3,7 +3,7 @@ title: "Eisengolem"
 permalink: /de/units/Iron Golem/
 excerpt: "Einheiten Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Eisengolem"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Metallresonanz: Aktiviert einen Schutzschild, der verbündete Einheiten beschützt.
 
+ **Recommend:** Wenn du das Bewegungstempo erhöhst, werden deine Armeen deutlich effektiver.
+
+ **Info:** Immun gegen Heldenzauber. Heldenzauber lösen Gesundheitswiederherstellung aus.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** Wenn du das Bewegungstempo erhöhst, werden deine Armeen deutlich effektiver.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 67.5 | 12.5 | 1917.0 |
+  | Blau | 135.0 | 25.0 | 3834.0 |
+  | Blau +1 | 202.5 | 37.5 | 5751.0 |
+  | Blau +2 | 283.5 | 52.5 | 8051.4 |
+  | Lila | 364.5 | 67.5 | 10351.8 |
+  | Lila +1 | 445.5 | 82.5 | 12652.2 |
+  | Lila +2 | 540.0 | 100.0 | 15336.0 |
+  | Lila +3 | 634.5 | 117.5 | 18019.8 |
+  | Orange | 729.0 | 135.0 | 20703.6 |
+  | Orange +1 | 837.0 | 155.0 | 23770.8 |
+  | Orange +2 | 945.0 | 175.0 | 26838.0 |
+  | Orange +3 | 1053.0 | 195.0 | 29905.2 |
+  | Orange +4 | 1161.0 | 215.0 | 32972.4 |
+  | Orange +5 | 1323.0 | 245.0 | 37573.2 |
+  | Rot | 1539.0 | 285.0 | 43707.6 |
 
- **Info1:** Immun gegen Heldenzauber. Heldenzauber lösen Gesundheitswiederherstellung aus.
-
- **Info2:** Immun gegen Heldenzauber. Heldenzauber lösen Gesundheitswiederherstellung aus.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 16.2 | 0.3 | 5.75 | 306.72 |
+  | **3x** <i class="fas fa-star"/> | 18.9 | 0.32 | 6.5 | 357.84 |
+  | **4x** <i class="fas fa-star"/> | 21.6 | 0.33 | 7.25 | 408.96 |
+  | **5x** <i class="fas fa-star"/> | 24.3 | 0.35 | 8.0 | 460.08 |
+  | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
 ## Skills
 ### 1 Skill: Metallresonanz
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* SCHD-Reduzierung (Einheit)
+* Magieresistenz
 
-    - LP
-
-    - SCHD-Reduzierung (Einheit)
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sippenschutz
- **Description:** <span style="color: #48b946;font-size:18px"><Metallresonanz></span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Die Schadensreduzierung von Turm-Einheiten wird um 10 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Metallresonanz&gt;</span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Die Schadensreduzierung von Turm-Einheiten wird um 10 % erhöht.</span>
 
 ### 2nd Skill (or 1st): Kriegerschutz
- **Description:** <span style="color: #48b946;font-size:18px"><Metallresonanz></span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Der Effekt wirkt auch auf verbündete Offensiv-Einheiten.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Metallresonanz&gt;</span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Der Effekt wirkt auch auf verbündete Offensiv-Einheiten.</span>
 
 ### 3rd Skill (or 4th): Antimagischer Körper
- **Description:** <span style="color: #48b946;font-size:18px"><Eisenkörper></span><span style="color: #645252;font-size:18px">Wenn der Eisengolem Schaden durch einen Heldenzauber erleidet, wird seine ABW 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Eisenkörper&gt;</span><span style="color: #645252;font-size:18px">Wenn der Eisengolem Schaden durch einen Heldenzauber erleidet, wird seine ABW 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Stahlgeschmiedeter Körper
- **Description:** <span style="color: #48b946;font-size:18px"><Eisenkörper></span><span style="color: #645252;font-size:18px">Die ABW des Eisengolems wird um 20 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Eisenkörper&gt;</span><span style="color: #645252;font-size:18px">Die ABW des Eisengolems wird um 20 % erhöht.</span>
 
 ### 5th Skill (or 6th): Mächtige Verstärkung
- **Description:** <span style="color: #48b946;font-size:18px"><Magisches Erwachen></span><span style="color: #645252;font-size:18px">Die Regeneration von <Magisches Erwachen> wird um 30 % erhöht, die gestapelte Schadensreduzierung der Einheit um 30 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Die Regeneration von &lt;Magisches Erwachen&gt; wird um 30 % erhöht, die gestapelte Schadensreduzierung der Einheit um 30 %.</span>
 
 ### 6th Skill (or 5th): Sippenerwachen
- **Description:** <span style="color: #48b946;font-size:18px"><Magisches Erwachen></span><span style="color: #645252;font-size:18px">Die ABW deiner Turm-Einheiten wird um 5 % erhöht. Der Effekt kann 3 Mal gestapelt werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Die ABW deiner Turm-Einheiten wird um 5 % erhöht. Der Effekt kann 3 Mal gestapelt werden.</span>
 
 ## Technical info
  **runart:** 1

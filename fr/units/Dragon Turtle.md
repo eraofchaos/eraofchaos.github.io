@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /fr/units/Dragon Turtle/
 excerpt: "Unités Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Tortue dragon"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Un puissant tank qui encaisse les dégâts à la place de ses alliés.
+
+ **Info:** Puissant défenseur. Restaure des PV à sa mort.
+
+## Basic stats
  **Base HP:** 12000.0
 
  **Base ATK:** 362.0
 
- **Recommend:** Un puissant tank qui encaisse les dégâts à la place de ses alliés.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 181.0 | 17.0 | 7350.0 |
+  | Bleu | 362.0 | 34.0 | 14700.0 |
+  | Bleu +1 | 543.0 | 51.0 | 22050.0 |
+  | Bleu +2 | 760.2 | 71.4 | 30870.0 |
+  | Violet | 977.4 | 91.8 | 39690.0 |
+  | Violet +1 | 1194.6 | 112.2 | 48510.0 |
+  | Violet +2 | 1448.0 | 136.0 | 58800.0 |
+  | Violet +3 | 1701.4 | 159.8 | 69090.0 |
+  | Orange | 1954.8 | 183.6 | 79380.0 |
+  | Orange +1 | 2244.4 | 210.8 | 91140.0 |
+  | Orange +2 | 2534.0 | 238.0 | 102900.0 |
+  | Orange +3 | 2823.6 | 265.2 | 114660.0 |
+  | Orange +4 | 3113.2 | 292.4 | 126420.0 |
+  | Orange +5 | 3547.6 | 333.2 | 144060.0 |
+  | Rouge | 4126.8 | 387.6 | 167580.0 |
 
- **Info1:** Puissant défenseur. Restaure des PV à sa mort.
-
- **Info2:** Puissant défenseur. Restaure des PV à sa mort.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 50.68 | 0.33 | 8.48 | 1372.0 |
+  | **4x** <i class="fas fa-star"/> | 57.92 | 0.35 | 9.32 | 1568.0 |
+  | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
+  | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
 ### 1 Skill: Roulade écrasante
@@ -43,26 +67,24 @@ toc: true
  **Description:** 
 
 ### 3 Skill: Rempart des marées
- **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, la Tortue dragon </span><span style="color: black"><span style="color: #48b946;font-size:20px"><étourdit></span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies dans une large zone pendant 2 secondes. Si <Bouclier impénétrable> reste actif pendant 20 secondes, la Tortue dragon regagne 15 % de ses PV, et sa DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour toute la durée de la bataille.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, la Tortue dragon </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies dans une large zone pendant 2 secondes. Si &lt;Bouclier impénétrable&gt; reste actif pendant 20 secondes, la Tortue dragon regagne 15 % de ses PV, et sa DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour toute la durée de la bataille.</span><span style="color: black">
 
 ### 4 Skill: Renforcement
  **Description:** <span style="color: #645252;font-size:20px">La Tortue dragon génère un bouclier de renforcement qui augmente sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ainsi que celles des unités de la Crique alliées toutes les 20 secondes. Cet effet dure 8 secondes et ne peut pas être dissipé.</span><span style="color: black">
 
 ### 5 Skill: Zen
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'<Étourdissement> lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
 ### 6 Skill: Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Défense
+* réduction des dégâts d'unité
 
-    - PV
-
-    - Défense
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details

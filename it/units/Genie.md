@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /it/units/Genie/
 excerpt: "Unità Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Genio"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Dono di Energia: converte l'ATT in cura
 
+ **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+
+ **Info:** Eccellente guaritore. Applica buff. Gli incantesimi degli eroi attivano il suo buff.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 90.8 | 7.5 | 1261.5 |
+  | Blu | 181.6 | 15.0 | 2523.0 |
+  | Blu +1 | 272.4 | 22.5 | 3784.5 |
+  | Blu +2 | 381.36 | 31.5 | 5298.3 |
+  | Viola | 490.32 | 40.5 | 6812.1 |
+  | Viola +1 | 599.28 | 49.5 | 8325.9 |
+  | Viola +2 | 726.4 | 60.0 | 10092.0 |
+  | Viola +3 | 853.52 | 70.5 | 11858.1 |
+  | Arancione | 980.64 | 81.0 | 13624.2 |
+  | Arancione +1 | 1125.92 | 93.0 | 15642.6 |
+  | Arancione +2 | 1271.2 | 105.0 | 17661.0 |
+  | Arancione +3 | 1416.48 | 117.0 | 19679.4 |
+  | Arancione +4 | 1561.76 | 129.0 | 21697.8 |
+  | Arancione +5 | 1779.68 | 147.0 | 24725.4 |
+  | Rosso | 2070.24 | 171.0 | 28762.2 |
 
- **Info1:** Eccellente guaritore. Applica buff. Gli incantesimi degli eroi attivano il suo buff.
-
- **Info2:** Eccellente guaritore. Applica buff. Gli incantesimi degli eroi attivano il suo buff.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 25.424 | 0.33 | 4.3 | 235.48 |
+  | **4x** <i class="fas fa-star"/> | 29.056 | 0.35 | 4.95 | 269.12 |
+  | **5x** <i class="fas fa-star"/> | 32.688 | 0.36 | 5.6 | 302.76 |
+  | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
 ## Skills
 ### 1 Skill: Dono magico
@@ -49,20 +73,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Se il Genio è potenziato dall'incantesimo di supporto di un eroe alleato, ripristina </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi all'unità con la minore percentuale di PF.</span><span style="color: black">
 
 ### 5 Skill: Mente lucida
- **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al <Silenzio>. La durata del <Silenzio> inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Guarigione
+* Riduzione danno unità
 
-    - PF
-
-    - Guarigione
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sovraccarico
- **Description:** <span style="color: #48b946;font-size:18px"><Dono di energia></span><span style="color: #645252;font-size:18px">: gli attacchi base ripristinano PF pari al 25% dell'ATT. L'unità gode di Rid DAN aumentata del 20% e Vel ATT aumentata del 10%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dono di energia&gt;</span><span style="color: #645252;font-size:18px">: gli attacchi base ripristinano PF pari al 25% dell'ATT. L'unità gode di Rid DAN aumentata del 20% e Vel ATT aumentata del 10%.</span>
 
 ### 2nd Skill (or 1st): Protezione energetica
- **Description:** <span style="color: #48b946;font-size:18px"><Dono di energia></span><span style="color: #645252;font-size:18px">: gli attacchi base ripristinano PF pari al 25% dell'ATT. Ignora tutti i danni singoli superiori al 30% dei propri PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dono di energia&gt;</span><span style="color: #645252;font-size:18px">: gli attacchi base ripristinano PF pari al 25% dell'ATT. Ignora tutti i danni singoli superiori al 30% dei propri PF massimi.</span>
 
 ### 3rd Skill (or 4th): Desiderio avverato
- **Description:** <span style="color: #48b946;font-size:18px"><Tre desideri></span><span style="color: #645252;font-size:18px">: benedice 6 unità alleate casuali con un bonus scelto casualmente tra Rid DAN, DAN o Vel ATT. La benedizione aumenta l'attributo scelto del 50%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tre desideri&gt;</span><span style="color: #645252;font-size:18px">: benedice 6 unità alleate casuali con un bonus scelto casualmente tra Rid DAN, DAN o Vel ATT. La benedizione aumenta l'attributo scelto del 50%.</span>
 
 ### 4th Skill (or 3rd): Benedizioni multiple
- **Description:** <span style="color: #48b946;font-size:18px"><Tre desideri></span><span style="color: #645252;font-size:18px">: benedice 6 unità alleate casuali con due bonus scelti casualmente tra Rid DAN, DAN o Vel ATT.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tre desideri&gt;</span><span style="color: #645252;font-size:18px">: benedice 6 unità alleate casuali con due bonus scelti casualmente tra Rid DAN, DAN o Vel ATT.</span>
 
 ### 5th Skill (or 6th): Risveglio potenziato
- **Description:** <span style="color: #48b946;font-size:18px"><Risveglio magico></span><span style="color: #645252;font-size:18px">: gli effetti di controllo non influenzano il <Risveglio magico>. Aumenta del 10% la DIF delle unità curate. L'effetto dura 3 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: gli effetti di controllo non influenzano il &lt;Risveglio magico&gt;. Aumenta del 10% la DIF delle unità curate. L'effetto dura 3 secondi.</span>
 
 ### 6th Skill (or 5th): Risveglio trascendente
- **Description:** <span style="color: #48b946;font-size:18px"><Risveglio magico></span><span style="color: #645252;font-size:18px">: guarigione aumentata del 50%. Aumenta del 20% la DIF delle unità curate. L'effetto dura 3 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: guarigione aumentata del 50%. Aumenta del 20% la DIF delle unità curate. L'effetto dura 3 secondi.</span>
 
 ## Technical info
  **runart:** 0

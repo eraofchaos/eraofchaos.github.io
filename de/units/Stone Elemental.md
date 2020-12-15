@@ -3,7 +3,7 @@ title: "Steinelementar"
 permalink: /de/units/Stone Elemental/
 excerpt: "Einheiten Der Steinelementar ist das Ergebnis geologischer Verschmelzung mehrerer Mineralien. Teilt sich in kleinere Steinelementare auf, die weiterkämpfen."
 unitID: 905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Steinelementar"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Betäubt alle Feinde in Reichweite, tödliche Spucke, sehr robust.
+
+## Basic stats
  **Base HP:** 2825.0
 
  **Base ATK:** 121.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 60.5 | 12.5 | 2118.75 |
+  | Blau | 121.0 | 25.0 | 4237.5 |
+  | Blau +1 | 181.5 | 37.5 | 6356.25 |
+  | Blau +2 | 254.1 | 52.5 | 8898.75 |
+  | Lila | 326.7 | 67.5 | 11441.25 |
+  | Lila +1 | 399.3 | 82.5 | 13983.75 |
+  | Lila +2 | 484.0 | 100.0 | 16950.0 |
+  | Lila +3 | 568.7 | 117.5 | 19916.25 |
+  | Orange | 653.4 | 135.0 | 22882.5 |
+  | Orange +1 | 750.2 | 155.0 | 26272.5 |
+  | Orange +2 | 847.0 | 175.0 | 29662.5 |
+  | Orange +3 | 943.8 | 195.0 | 33052.5 |
+  | Orange +4 | 1040.6 | 215.0 | 36442.5 |
+  | Orange +5 | 1185.8 | 245.0 | 41527.5 |
+  | Rot | 1379.4 | 285.0 | 48307.5 |
 
- **Info1:** Betäubt alle Feinde in Reichweite, tödliche Spucke, sehr robust.
-
- **Info2:** Betäubt alle Feinde in Reichweite, tödliche Spucke, sehr robust.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.94 | 0.35 | 6.5 | 395.5 |
+  | **4x** <i class="fas fa-star"/> | 19.36 | 0.37 | 7.25 | 452.0 |
+  | **5x** <i class="fas fa-star"/> | 21.78 | 0.38 | 8.0 | 508.5 |
+  | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
 ### 1 Skill: Schmetterfelsen
@@ -46,7 +70,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Solange der Steinelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Magieresistenz gegen Erdzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Magieresistenz gegen Erdzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### 4 Skill: Echo der Erde
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Steinelementar und die kleineren Steinelementare sterben, fügen sie allen gegnerischen Einheiten in großem Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Diese Einheiten sind </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px"><betäubt></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn der Steinelementar und die kleineren Steinelementare sterben, fügen sie allen gegnerischen Einheiten in großem Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Diese Einheiten sind </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Abwehr
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 1

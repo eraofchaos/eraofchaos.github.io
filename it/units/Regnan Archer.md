@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /it/units/Regnan Archer/
 excerpt: "Unità Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Arciere di Regna"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Colpi critici e Perforazione. Fa strage di nemici.
+
+## Basic stats
  **Base HP:** 1245.0
 
  **Base ATK:** 235.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 117.75 | 5.0 | 933.75 |
+  | Blu | 235.5 | 10.0 | 1867.5 |
+  | Blu +1 | 353.25 | 15.0 | 2801.25 |
+  | Blu +2 | 494.55 | 21.0 | 3921.75 |
+  | Viola | 635.85 | 27.0 | 5042.25 |
+  | Viola +1 | 777.15 | 33.0 | 6162.75 |
+  | Viola +2 | 942.0 | 40.0 | 7470.0 |
+  | Viola +3 | 1106.85 | 47.0 | 8777.25 |
+  | Arancione | 1271.7 | 54.0 | 10084.5 |
+  | Arancione +1 | 1460.1 | 62.0 | 11578.5 |
+  | Arancione +2 | 1648.5 | 70.0 | 13072.5 |
+  | Arancione +3 | 1836.9 | 78.0 | 14566.5 |
+  | Arancione +4 | 2025.3 | 86.0 | 16060.5 |
+  | Arancione +5 | 2307.9 | 98.0 | 18301.5 |
+  | Rosso | 2684.7 | 114.0 | 21289.5 |
 
- **Info1:** Colpi critici e Perforazione. Fa strage di nemici.
-
- **Info2:** Colpi critici e Perforazione. Fa strage di nemici.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 32.97 | 0.61 | 3.2 | 174.3 |
+  | **4x** <i class="fas fa-star"/> | 37.68 | 0.63 | 3.8 | 199.2 |
+  | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
+  | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
 ### 1 Skill: Freccia letale
@@ -43,26 +67,24 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Aumenta Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> quando un'unità sul campo viene abbattuta. L'effetto è cumulabile fino a 4 volte. Gode di Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e infligge un colpo critico garantito quando i PF scendono sotto il 30%. L'effetto dura 7 secondi e può essere attivato una sola volta.</span><span style="color: black">
 
 ### 3 Skill: Balestra gigante delle maree
- **Description:** <span style="color: #645252;font-size:20px">Danno dell'Arciere di Regna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). All'inizio della battaglia, infligge DAN pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT, più DAN aggiuntivi pari a 25% dei PF massimi a 2 unità casuali, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><rallentandole></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 8 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Danno dell'Arciere di Regna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). All'inizio della battaglia, infligge DAN pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT, più DAN aggiuntivi pari a 25% dei PF massimi a 2 unità casuali, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentandole&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 8 secondi.</span><span style="color: black">
 
 ### 4 Skill: Supporto a distanza
  **Description:** <span style="color: #645252;font-size:20px">Attacca l'unità nemica con la percentuale più bassa di PF, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN e riducendone la DIF del 30%.</span><span style="color: black">
 
 ### 5 Skill: Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo <Stordimento>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### 6 Skill: Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Danno unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details

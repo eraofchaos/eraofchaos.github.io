@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /it/units/Ice Demon/
 excerpt: "Unità  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
 unitID: 908
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: it
 ref: "Ice Demon"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5996.3
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 282.85 | 12.75 | 4497.225 |
+  | Blu | 565.7 | 25.5 | 8994.45 |
+  | Blu +1 | 848.55 | 38.25 | 13491.675 |
+  | Blu +2 | 1187.97 | 53.55 | 18888.345 |
+  | Viola | 1527.39 | 68.85 | 24285.015 |
+  | Viola +1 | 1866.81 | 84.15 | 29681.685 |
+  | Viola +2 | 2262.8 | 102.0 | 35977.8 |
+  | Viola +3 | 2658.79 | 119.85 | 42273.915 |
+  | Arancione | 3054.78 | 137.7 | 48570.03 |
+  | Arancione +1 | 3507.34 | 158.1 | 55765.59 |
+  | Arancione +2 | 3959.9 | 178.5 | 62961.15 |
+  | Arancione +3 | 4412.46 | 198.9 | 70156.71 |
+  | Arancione +4 | 4865.02 | 219.3 | 77352.27 |
+  | Arancione +5 | 5543.86 | 249.9 | 88145.61 |
+  | Rosso | 6448.98 | 290.7 | 102536.73 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.5 | 6.61 | 839.482 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.52 | 7.37 | 959.408 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.54 | 8.12 | 1079.334 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.56 | 8.88 | 1199.26 |
 
 ## Skills
 ### 1 Skill:  Glacial Spur
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Danno unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /de/units/Leprechaun/
 excerpt: "Einheiten Die in jadegrüne Mäntel gekleideten Leprechauns waren einst Kinder des Waldes, die frei und ohne Sorgen unter dem Schutz des Weltenbaumes lebten. Doch die Kriegsfanfaren Erathias haben ihren Mut erweckt, den Weltenbaum zu beschützen."
 unitID: 909
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Leprechaun"
 toc: true
@@ -25,28 +25,52 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** 
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 3162.0
 
  **Base ATK:** 134.5
 
- **Recommend:** 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 67.25 | 15.0 | 2371.5 |
+  | Blau | 134.5 | 30.0 | 4743.0 |
+  | Blau +1 | 201.75 | 45.0 | 7114.5 |
+  | Blau +2 | 282.45 | 63.0 | 9960.3 |
+  | Lila | 363.15 | 81.0 | 12806.1 |
+  | Lila +1 | 443.85 | 99.0 | 15651.9 |
+  | Lila +2 | 538.0 | 120.0 | 18972.0 |
+  | Lila +3 | 632.15 | 141.0 | 22292.1 |
+  | Orange | 726.3 | 162.0 | 25612.2 |
+  | Orange +1 | 833.9 | 186.0 | 29406.6 |
+  | Orange +2 | 941.5 | 210.0 | 33201.0 |
+  | Orange +3 | 1049.1 | 234.0 | 36995.4 |
+  | Orange +4 | 1156.7 | 258.0 | 40789.8 |
+  | Orange +5 | 1318.1 | 294.0 | 46481.4 |
+  | Rot | 1533.3 | 342.0 | 54070.2 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 18.83 | 0.36 | 7.6 | 442.68 |
+  | **4x** <i class="fas fa-star"/> | 21.52 | 0.38 | 8.4 | 505.92 |
+  | **5x** <i class="fas fa-star"/> | 24.21 | 0.4 | 9.2 | 569.16 |
+  | **6x** <i class="fas fa-star"/> | 26.9 | 0.41 | 10.0 | 632.4 |
 
 ## Skills
 ### 1 Skill: Direkter Schlag
  **Description:** <span style="color: #645252;font-size:20px">Der Leprechaun fügt der aktuellen Zieleinheit alle 5 Sekunden Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des eigenen ANG zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">betäubt</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie für 2 Sekunden. Verringert zudem die Durchdringung von 1 zufälligen Nahkampfeinheit und Fernkampf-/Zauberer-Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und fügt zusätzlich Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des eigenen ANG zu. Dieser Effekt hält 6 Sekunden lang an und ist bis zu 3 Mal stapelbar.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Sobald die Fähigkeit ausgelöst wurde, werden SCHD (Einheit) und Angriffstempo der Leprechaun-Einheit um weitere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Dieser Effekt hält 15 Sekunden lang an und ist bis zu 40 Mal stapelbar.</span><span style="color: black">
 
 ### 2 Skill: Fortuna
- **Description:** <span style="color: #645252;font-size:20px">Der Leprechaun wirkt alle 10 Sekunden bei allen verbündeten Einheiten „Fortuna“ und erhöht bei allen verbündeten Einheiten 5 Sekunden lang Ausweichen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Fähigkeitseffekt wird für 4-Mann-Einheiten verdoppelt und für 9- und 16-Mann-Einheiten vervierfacht. Der Leprechaun erhält den 3- bis 10-fachen Fähigkeitseffekt. Wenn er einen Fähigkeitseffekt-Multiplikator von 8 oder mehr erhält, wird <Direkter Schlag> 1 zusätzliches Mal ausgelöst.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Leprechaun wirkt alle 10 Sekunden bei allen verbündeten Einheiten „Fortuna“ und erhöht bei allen verbündeten Einheiten 5 Sekunden lang Ausweichen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Fähigkeitseffekt wird für 4-Mann-Einheiten verdoppelt und für 9- und 16-Mann-Einheiten vervierfacht. Der Leprechaun erhält den 3- bis 10-fachen Fähigkeitseffekt. Wenn er einen Fähigkeitseffekt-Multiplikator von 8 oder mehr erhält, wird &lt;Direkter Schlag&gt; 1 zusätzliches Mal ausgelöst.</span><span style="color: black">
 
 ### 3 Skill: Kraft der Elemente
  **Description:** <span style="color: #645252;font-size:20px">Erhöht die SCHD-Reduzierung (Einheit) des Leprechauns um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, Ausweichen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Schildwert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Ist der Leprechaun auf dem Schlachtfeld anwesend, werden der Schildwert aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Krit. Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Während einer einzelnen Schadensinstanz des Leprechauns wird ein Teil des Schadens, der 20 % der maximalen LP des Leprechauns übersteigt, vermieden.</span><span style="color: black">
 
 ### 4 Skill: Taktische Blockade
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Leprechaun von einem Krit. Treffer getroffen wird, erhöht sich sein Schildwert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ein <Direkter Schlag> wird ausgelöst. Dieser Effekt hält 10 Sekunden lang an und hat eine AKZ von 5 Sekunden.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn das Ausweichen des Leprechauns ausgelöst wird, stellt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner maximalen LP wieder her. Die AKZ beträgt 5 Sekunden.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn das Blocken des Leprechauns ausgelöst wird, wird sofort ein <Direkter Schlag> ausgelöst. Die AKZ beträgt 2 Sekunden.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn der Leprechaun von einem Krit. Treffer getroffen wird, erhöht sich sein Schildwert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ein &lt;Direkter Schlag&gt; wird ausgelöst. Dieser Effekt hält 10 Sekunden lang an und hat eine AKZ von 5 Sekunden.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn das Ausweichen des Leprechauns ausgelöst wird, stellt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner maximalen LP wieder her. Die AKZ beträgt 5 Sekunden.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn das Blocken des Leprechauns ausgelöst wird, wird sofort ein &lt;Direkter Schlag&gt; ausgelöst. Die AKZ beträgt 2 Sekunden.</span><span style="color: black">
 
 ### 5 Skill: Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Abwehr
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details

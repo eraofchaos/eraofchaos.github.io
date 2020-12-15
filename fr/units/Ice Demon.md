@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /fr/units/Ice Demon/
 excerpt: "Unités  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
 unitID: 908
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Ice Demon"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5996.3
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 282.85 | 12.75 | 4497.225 |
+  | Bleu | 565.7 | 25.5 | 8994.45 |
+  | Bleu +1 | 848.55 | 38.25 | 13491.675 |
+  | Bleu +2 | 1187.97 | 53.55 | 18888.345 |
+  | Violet | 1527.39 | 68.85 | 24285.015 |
+  | Violet +1 | 1866.81 | 84.15 | 29681.685 |
+  | Violet +2 | 2262.8 | 102.0 | 35977.8 |
+  | Violet +3 | 2658.79 | 119.85 | 42273.915 |
+  | Orange | 3054.78 | 137.7 | 48570.03 |
+  | Orange +1 | 3507.34 | 158.1 | 55765.59 |
+  | Orange +2 | 3959.9 | 178.5 | 62961.15 |
+  | Orange +3 | 4412.46 | 198.9 | 70156.71 |
+  | Orange +4 | 4865.02 | 219.3 | 77352.27 |
+  | Orange +5 | 5543.86 | 249.9 | 88145.61 |
+  | Rouge | 6448.98 | 290.7 | 102536.73 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.5 | 6.61 | 839.482 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.52 | 7.37 | 959.408 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.54 | 8.12 | 1079.334 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.56 | 8.88 | 1199.26 |
 
 ## Skills
 ### 1 Skill:  Glacial Spur
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* dégâts d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 0

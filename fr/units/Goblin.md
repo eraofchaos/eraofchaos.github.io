@@ -3,7 +3,7 @@ title: "Gobelin"
 permalink: /fr/units/Goblin/
 excerpt: "Unités Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
 unitID: 401
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Gobelin"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Tempête guerrière : inflige des dégâts à 3 unités ennemies à proximité.
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** Riposte fréquemment. Inflige des dégâts de mêlée importants. Plus sa santé est basse, plus son attaque est puissante.
+
+## Basic stats
  **Base HP:** 761.0
 
  **Base ATK:** 82.7
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 41.35 | 4.25 | 570.75 |
+  | Bleu | 82.7 | 8.5 | 1141.5 |
+  | Bleu +1 | 124.05 | 12.75 | 1712.25 |
+  | Bleu +2 | 173.67 | 17.85 | 2397.15 |
+  | Violet | 223.29 | 22.95 | 3082.05 |
+  | Violet +1 | 272.91 | 28.05 | 3766.95 |
+  | Violet +2 | 330.8 | 34.0 | 4566.0 |
+  | Violet +3 | 388.69 | 39.95 | 5365.05 |
+  | Orange | 446.58 | 45.9 | 6164.1 |
+  | Orange +1 | 512.74 | 52.7 | 7077.3 |
+  | Orange +2 | 578.9 | 59.5 | 7990.5 |
+  | Orange +3 | 645.06 | 66.3 | 8903.7 |
+  | Orange +4 | 711.22 | 73.1 | 9816.9 |
+  | Orange +5 | 810.46 | 83.3 | 11186.7 |
+  | Rouge | 942.78 | 96.9 | 13013.1 |
 
- **Info1:** Riposte fréquemment. Inflige des dégâts de mêlée importants. Plus sa santé est basse, plus son attaque est puissante.
-
- **Info2:** Riposte fréquemment. Inflige des dégâts de mêlée importants. Plus sa santé est basse, plus son attaque est puissante.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.27 | 0.49 | 1.7 | 76.1 |
+  | **2x** <i class="fas fa-star"/> | 9.924 | 0.51 | 2.29 | 91.32 |
+  | **3x** <i class="fas fa-star"/> | 11.578 | 0.54 | 2.87 | 106.54 |
+  | **4x** <i class="fas fa-star"/> | 13.232 | 0.56 | 3.46 | 121.76 |
+  | **5x** <i class="fas fa-star"/> | 14.886 | 0.59 | 4.04 | 136.98 |
+  | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
 ## Skills
 ### 1 Skill: Tempête guerrière
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Résistance magique
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Esprit guerrier
- **Description:** <span style="color: #48b946;font-size:18px"><Tempête guerrière> : </span><span style="color: #645252;font-size:18px">Ses chances d'activation sont doublées.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tempête guerrière&gt; : </span><span style="color: #645252;font-size:18px">Ses chances d'activation sont doublées.</span>
 
 ### 2nd Skill (or 1st): Inertie
- **Description:** <span style="color: #48b946;font-size:18px"><Tempête guerrière> : </span><span style="color: #645252;font-size:18px">Octroie un combo (<Tempête guerrière> s'active 2 fois).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tempête guerrière&gt; : </span><span style="color: #645252;font-size:18px">Octroie un combo (&lt;Tempête guerrière&gt; s'active 2 fois).</span>
 
 ### 3rd Skill (or 4th): Virtuosité
- **Description:** <span style="color: #48b946;font-size:18px"><Exécution> : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ du Gobelin de 150 % supplémentaires quand il affronte des cibles ayant moins de 30 % de leurs PV.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Exécution&gt; : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ du Gobelin de 150 % supplémentaires quand il affronte des cibles ayant moins de 30 % de leurs PV.</span>
 
 ### 4th Skill (or 3rd): Contre-attaque à mains nues
- **Description:** <span style="color: #48b946;font-size:18px"><Exécution> : </span><span style="color: #645252;font-size:20px">Augmente les dégâts du Gobelin de 30 % quand il affronte une cible ayant moins de 30 % de PV.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Exécution&gt; : </span><span style="color: #645252;font-size:20px">Augmente les dégâts du Gobelin de 30 % quand il affronte une cible ayant moins de 30 % de PV.</span>
 
 ### 5th Skill (or 6th): Spécialité sanguine
- **Description:** <span style="color: #48b946;font-size:18px"><Furie sanguinaire> : </span><span style="color: #645252;font-size:18px">La régénération des PV augmente de 5 % quand un coup critique est porté.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furie sanguinaire&gt; : </span><span style="color: #645252;font-size:18px">La régénération des PV augmente de 5 % quand un coup critique est porté.</span>
 
 ### 6th Skill (or 5th): Mutilation sanglante
- **Description:** <span style="color: #48b946;font-size:18px"><Furie sanguinaire> : </span><span style="color: #645252;font-size:18px">Chaque coup critique augmente la vitesse d'ATQ de 2 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 10 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furie sanguinaire&gt; : </span><span style="color: #645252;font-size:18px">Chaque coup critique augmente la vitesse d'ATQ de 2 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 10 fois.</span>
 
 ## Technical info
  **runart:** 1

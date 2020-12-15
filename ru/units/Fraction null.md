@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction null -  Units"
 permalink: /ru/units/Fraction null/
 excerpt: "Fraction null - List of Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Fraction null"
 toc: false

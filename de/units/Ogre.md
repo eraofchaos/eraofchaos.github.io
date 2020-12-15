@@ -3,7 +3,7 @@ title: "Oger"
 permalink: /de/units/Ogre/
 excerpt: "Einheiten Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Oger"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Blutbecken: Verbessert den Lebensentzug von Einheiten in der Nähe.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Ein mächtiger Tank, der die Leistung deiner Nahkampftruppen erhöht.
+
+## Basic stats
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 53.8 | 15.0 | 1892.25 |
+  | Blau | 107.6 | 30.0 | 3784.5 |
+  | Blau +1 | 161.4 | 45.0 | 5676.75 |
+  | Blau +2 | 225.96 | 63.0 | 7947.45 |
+  | Lila | 290.52 | 81.0 | 10218.15 |
+  | Lila +1 | 355.08 | 99.0 | 12488.85 |
+  | Lila +2 | 430.4 | 120.0 | 15138.0 |
+  | Lila +3 | 505.72 | 141.0 | 17787.15 |
+  | Orange | 581.04 | 162.0 | 20436.3 |
+  | Orange +1 | 667.12 | 186.0 | 23463.9 |
+  | Orange +2 | 753.2 | 210.0 | 26491.5 |
+  | Orange +3 | 839.28 | 234.0 | 29519.1 |
+  | Orange +4 | 925.36 | 258.0 | 32546.7 |
+  | Orange +5 | 1054.48 | 294.0 | 37088.1 |
+  | Rot | 1226.64 | 342.0 | 43143.3 |
 
- **Info1:** Ein mächtiger Tank, der die Leistung deiner Nahkampftruppen erhöht.
-
- **Info2:** Ein mächtiger Tank, der die Leistung deiner Nahkampftruppen erhöht.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.912 | 0.36 | 6.8 | 302.76 |
+  | **3x** <i class="fas fa-star"/> | 15.064 | 0.37 | 7.6 | 353.22 |
+  | **4x** <i class="fas fa-star"/> | 17.216 | 0.39 | 8.4 | 403.68 |
+  | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
+  | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
 ### 1 Skill: Blutbecken
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Abwehr
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Heilungsteich
- **Description:** <span style="color: #48b946;font-size:18px"><Blutbecken></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Die Dauer wird um 10 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutbecken&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Die Dauer wird um 10 Sek. erhöht.</span>
 
 ### 2nd Skill (or 1st): Quell der Wildnis
- **Description:** <span style="color: #48b946;font-size:18px"><Blutbecken></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird um 50 % erhöht und seine Reichweite erweitert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutbecken&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird um 50 % erhöht und seine Reichweite erweitert.</span>
 
 ### 3rd Skill (or 4th): Wildes Herz
- **Description:** <span style="color: #48b946;font-size:18px"><Amoklauf></span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Effekt wird verdoppelt, solange <Amoklauf> aktiv ist.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Effekt wird verdoppelt, solange &lt;Amoklauf&gt; aktiv ist.</span>
 
 ### 4th Skill (or 3rd): Aufrüttelndes Kriegslied
- **Description:** <span style="color: #48b946;font-size:18px"><Amoklauf></span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Schaden wird auf 200 % des Grundschadens der Fähigkeit erhöht, solange <Amoklauf> aktiv ist.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Schaden wird auf 200 % des Grundschadens der Fähigkeit erhöht, solange &lt;Amoklauf&gt; aktiv ist.</span>
 
 ### 5th Skill (or 6th): Uralte Woge
- **Description:** <span style="color: #48b946;font-size:18px"><Giftheilung></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 6th Skill (or 5th): Schutz des Patriarchen
- **Description:** <span style="color: #48b946;font-size:18px"><Giftheilung></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt bleibt auch nach dem Tod des Ogers aktiv.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt bleibt auch nach dem Tod des Ogers aktiv.</span>
 
 ## Technical info
  **runart:** 1

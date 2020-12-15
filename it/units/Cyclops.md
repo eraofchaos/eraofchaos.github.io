@@ -3,7 +3,7 @@ title: "Ciclope"
 permalink: /it/units/Cyclops/
 excerpt: "Unità I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Ciclope"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Macigno infuocato: infligge danni catastrofici alle unità nemiche sul suo percorso.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Infligge danni ad area elevati e protegge le unità più vulnerabili.
+
+## Basic stats
  **Base HP:** 5091.0
 
  **Base ATK:** 678.8
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 339.4 | 6.25 | 3818.25 |
+  | Blu | 678.8 | 12.5 | 7636.5 |
+  | Blu +1 | 1018.2 | 18.75 | 11454.75 |
+  | Blu +2 | 1425.48 | 26.25 | 16036.65 |
+  | Viola | 1832.76 | 33.75 | 20618.55 |
+  | Viola +1 | 2240.04 | 41.25 | 25200.45 |
+  | Viola +2 | 2715.2 | 50.0 | 30546.0 |
+  | Viola +3 | 3190.36 | 58.75 | 35891.55 |
+  | Arancione | 3665.52 | 67.5 | 41237.1 |
+  | Arancione +1 | 4208.56 | 77.5 | 47346.3 |
+  | Arancione +2 | 4751.6 | 87.5 | 53455.5 |
+  | Arancione +3 | 5294.64 | 97.5 | 59564.7 |
+  | Arancione +4 | 5837.68 | 107.5 | 65673.9 |
+  | Arancione +5 | 6652.24 | 122.5 | 74837.7 |
+  | Rosso | 7738.32 | 142.5 | 87056.1 |
 
- **Info1:** Infligge danni ad area elevati e protegge le unità più vulnerabili.
-
- **Info2:** Infligge danni ad area elevati e protegge le unità più vulnerabili.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 81.456 | 0.53 | 3.13 | 610.92 |
+  | **3x** <i class="fas fa-star"/> | 95.032 | 0.55 | 3.75 | 712.74 |
+  | **4x** <i class="fas fa-star"/> | 108.608 | 0.58 | 4.38 | 814.56 |
+  | **5x** <i class="fas fa-star"/> | 122.184 | 0.6 | 5.0 | 916.38 |
+  | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
 ### 1 Skill: Pietra focaia
- **Description:** <span style="color: #645252;font-size:20px">Il Ciclope scaglia pietre infuocate che applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Combustione></span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche in un'ampia area, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 2 secondi per 8 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Ciclope scaglia pietre infuocate che applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche in un'ampia area, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 2 secondi per 8 secondi.</span><span style="color: black">
 
 ### 2 Skill: Attacco da assedio
  **Description:** <span style="color: #645252;font-size:20px">Il Ciclope gode di danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35% (rimane attivo anche se i PF vengono ripristinati). Quando affronta unità da 9 membri, gli attacchi base del Ciclope infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danno ad area a 3 unità nemiche.</span><span style="color: black">
 
 ### 3 Skill: Scossa tellurica
- **Description:** <span style="color: #645252;font-size:20px">Quando viene attaccato, il Ciclope ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area e </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordirle></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando viene attaccato, il Ciclope ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordirle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
 
 ### 4 Skill: Gigante
  **Description:** <span style="color: #645252;font-size:20px">PF del Ciclope aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità da 9 membri, subisce danni ridotti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Colpo critico unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Colpo critico unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 0

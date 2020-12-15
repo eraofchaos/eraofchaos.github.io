@@ -3,7 +3,7 @@ title: "Drachengolem"
 permalink: /de/units/Dragon Golem/
 excerpt: "Einheiten Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Drachengolem"
 toc: true
@@ -28,28 +28,52 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Gruppenschutz bei Kampfbeginn verringert den erlittenen Schaden. Ultimative und unschlagbare Verteidigung für die hintere Reihe. Kontrolle über Entfernung, schüchtert alle Einheiten auf dem Schlachtfeld ein.
+
+## Basic stats
  **Base HP:** 9616.7
 
  **Base ATK:** 396.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 198.0 | 16.5 | 7212.525 |
+  | Blau | 396.0 | 33.0 | 14425.05 |
+  | Blau +1 | 594.0 | 49.5 | 21637.575 |
+  | Blau +2 | 831.6 | 69.3 | 30292.605 |
+  | Lila | 1069.2 | 89.1 | 38947.635 |
+  | Lila +1 | 1306.8 | 108.9 | 47602.665 |
+  | Lila +2 | 1584.0 | 132.0 | 57700.2 |
+  | Lila +3 | 1861.2 | 155.1 | 67797.735 |
+  | Orange | 2138.4 | 178.2 | 77895.27 |
+  | Orange +1 | 2455.2 | 204.6 | 89435.31 |
+  | Orange +2 | 2772.0 | 231.0 | 100975.35 |
+  | Orange +3 | 3088.8 | 257.4 | 112515.39 |
+  | Orange +4 | 3405.6 | 283.8 | 124055.43 |
+  | Orange +5 | 3880.8 | 323.4 | 141365.49 |
+  | Rot | 4514.4 | 376.2 | 164445.57 |
 
- **Info1:** Gruppenschutz bei Kampfbeginn verringert den erlittenen Schaden. Ultimative und unschlagbare Verteidigung für die hintere Reihe. Kontrolle über Entfernung, schüchtert alle Einheiten auf dem Schlachtfeld ein.
-
- **Info2:** Gruppenschutz bei Kampfbeginn verringert den erlittenen Schaden. Ultimative und unschlagbare Verteidigung für die hintere Reihe. Kontrolle über Entfernung, schüchtert alle Einheiten auf dem Schlachtfeld ein.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 55.44 | 0.44 | 8.26 | 1346.338 |
+  | **4x** <i class="fas fa-star"/> | 63.36 | 0.46 | 9.09 | 1538.672 |
+  | **5x** <i class="fas fa-star"/> | 71.28 | 0.48 | 9.92 | 1731.006 |
+  | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
 ## Skills
 ### 1 Skill: Puls-Vertigo
  **Description:** <span style="color: #645252;font-size:20px">Der Drachengolem wirkt alle 15 Sek einen Puls-Vertigo, der allen gegnerischen Nahkampfeinheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt und sie 2 Sek. lang <span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"> sowie 5 Sek. lang <span style="color: #48b946;font-size:20px">„lähmt“</span><span style="color: black">.</span><span style="color: black">
 
 ### 2 Skill: Eisernes Bauwerk
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Drachengolems steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+150)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Dungeon-Einheiten wird um 100 % erhöht. Zu Beginn der Schlacht erzeugt der Drachengolem ein <span style="color: #F0F000;font-size:20px"><Eisernes Bauwerk></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Die LP des Drachengolems steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+150)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Dungeon-Einheiten wird um 100 % erhöht. Zu Beginn der Schlacht erzeugt der Drachengolem ein <span style="color: #F0F000;font-size:20px">&lt;Eisernes Bauwerk&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Magisches Erwachen
- **Description:** <span style="color: #645252;font-size:20px">Wenn er vom Hilfszauber eines verbündeten Helden erweckt wird, wird ein <Magiesturm> ausgelöst, der alle gegnerischen Einheiten innerhalb der Reichweite 2 Sek. lang <verstummen> lässt und sie 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px"><lähmt></span><span style="color: black"><span style="color: #645252;font-size:20px">. Außerdem steigt die ABW des Drachengolems um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+14.9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+9.9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht über an, bis zu 3 Stapel. Der Drachengolem erweckt sich alle 25 Sek. selbst.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn er vom Hilfszauber eines verbündeten Helden erweckt wird, wird ein &lt;Magiesturm&gt; ausgelöst, der alle gegnerischen Einheiten innerhalb der Reichweite 2 Sek. lang &lt;verstummen&gt; lässt und sie 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;lähmt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Außerdem steigt die ABW des Drachengolems um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+14.9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+9.9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht über an, bis zu 3 Stapel. Der Drachengolem erweckt sich alle 25 Sek. selbst.</span><span style="color: black">
 
 ### 4 Skill: Magische Reparatur
- **Description:** <span style="color: #645252;font-size:20px">Bei 40 % und 20 % seiner LP erzeugt der Drachengolem eine Schlachtfeldreparatur, die </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2.8)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang anhält. Während der Reparatur wird Schaden, den der Drachengolem erleidet, in LP-Regeneration umgewandelt. Wenn der Drachengolem getötet wird, fügt die entweichende Energie gegnerische Einheiten in einem hohen Radius 30 % der max. LP als Schaden zu; außerdem verursacht sie bei den Zielen 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Zeitstopp></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Bei 40 % und 20 % seiner LP erzeugt der Drachengolem eine Schlachtfeldreparatur, die </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2.8)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang anhält. Während der Reparatur wird Schaden, den der Drachengolem erleidet, in LP-Regeneration umgewandelt. Wenn der Drachengolem getötet wird, fügt die entweichende Energie gegnerische Einheiten in einem hohen Radius 30 % der max. LP als Schaden zu; außerdem verursacht sie bei den Zielen 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Zeitstopp&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
@@ -58,17 +82,15 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 7 Skill: Rad der Zeit
- **Description:** <span style="color: #645252;font-size:20px">Wenn 3 Turm-Einheiten eingesetzt werden, wird die Schadensreduzierung des Drachengolems erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Drachengolem <Magisches Erwachen> auslöst, kann er eine </span><span style="color: black"><span style="color: #F0F000;font-size:20px"><Domäne der Zeit></span><span style="color: black"><span style="color: #645252;font-size:20px"> wirken, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne bleibt 15 Sek. lang bestehen, AKZ 30 Sek.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn 3 Turm-Einheiten eingesetzt werden, wird die Schadensreduzierung des Drachengolems erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Drachengolem &lt;Magisches Erwachen&gt; auslöst, kann er eine </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Domäne der Zeit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> wirken, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne bleibt 15 Sek. lang bestehen, AKZ 30 Sek.</span><span style="color: black">
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* SCHD-Reduzierung (Einheit)
+* Magieresistenz
 
-    - LP
-
-    - SCHD-Reduzierung (Einheit)
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Furchtlose Hinrichtung
- **Description:** <span style="color: #48b946;font-size:18px"><Verstärkung der Tapferen></span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Für jeden Heiligtumaufseher auf dem Schlachtfeld wird die ABW des Obersten Paladins um 15 % erhöht. Bei den ersten drei Beschwörungen werden 10 % LP wiederhergestellt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung der Tapferen&gt;</span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Für jeden Heiligtumaufseher auf dem Schlachtfeld wird die ABW des Obersten Paladins um 15 % erhöht. Bei den ersten drei Beschwörungen werden 10 % LP wiederhergestellt.</span>
 
 ### 2nd Skill (or 1st): Ruhm des Heiligtums
- **Description:** <span style="color: #48b946;font-size:18px"><Verstärkung der Tapferen></span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Bei den ersten drei Beschwörungen werden Schaden und Schadensreduzierung deiner Einheiten 30 Sek. lang um 10 % erhöht. Der Oberste Paladin beschwört einen Heiligtumaufseher, wenn er das Schlachtfeld betritt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung der Tapferen&gt;</span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Bei den ersten drei Beschwörungen werden Schaden und Schadensreduzierung deiner Einheiten 30 Sek. lang um 10 % erhöht. Der Oberste Paladin beschwört einen Heiligtumaufseher, wenn er das Schlachtfeld betritt.</span>
 
 ### 3rd Skill (or 4th): Treue und Glaube
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Paladins wird um 22 % erhöht. Dieser Effekt wird von „Hohe Moral“ nicht beeinflusst.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Paladins wird um 22 % erhöht. Dieser Effekt wird von „Hohe Moral“ nicht beeinflusst.</span>
 
 ### 4th Skill (or 3rd): Unbeugsamer Wille
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:20px">Die Schadensreduzierung des Paladins wird zusätzlich um 15 % erhöht</span><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit </span><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: #645252;font-size:20px"> hat.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:20px">Die Schadensreduzierung des Paladins wird zusätzlich um 15 % erhöht</span><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit </span><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: #645252;font-size:20px"> hat.</span>
 
 ### 5th Skill (or 6th): Hartnäckigkeit
- **Description:** <span style="color: #48b946;font-size:18px"><Ansporn></span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht Kritischer Schaden um 50 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ansporn&gt;</span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht Kritischer Schaden um 50 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
 
 ### 6th Skill (or 5th): Behände Riposte
- **Description:** <span style="color: #48b946;font-size:18px"><Ansporn></span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht für alle Einheiten in Reichweite Schaden um 15 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ansporn&gt;</span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht für alle Einheiten in Reichweite Schaden um 15 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
 
 ## Technical info
  **runart:** 0

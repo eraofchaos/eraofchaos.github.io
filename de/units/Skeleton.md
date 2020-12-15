@@ -3,7 +3,7 @@ title: "Skelett"
 permalink: /de/units/Skeleton/
 excerpt: "Einheiten Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde."
 unitID: 301
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Skelett"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Knochenschild: Erhöht die Schadensreduzierung der Einheit, wenn ihre Gesundheit unter 50 % sinkt.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Immun gegen Blutung, reflektiert Schaden, resistent gegen Fernkampfschaden.
+
+## Basic stats
  **Base HP:** 1158.0
 
  **Base ATK:** 57.9
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 28.95 | 8.75 | 868.5 |
+  | Blau | 57.9 | 17.5 | 1737.0 |
+  | Blau +1 | 86.85 | 26.25 | 2605.5 |
+  | Blau +2 | 121.59 | 36.75 | 3647.7 |
+  | Lila | 156.33 | 47.25 | 4689.9 |
+  | Lila +1 | 191.07 | 57.75 | 5732.1 |
+  | Lila +2 | 231.6 | 70.0 | 6948.0 |
+  | Lila +3 | 272.13 | 82.25 | 8163.9 |
+  | Orange | 312.66 | 94.5 | 9379.8 |
+  | Orange +1 | 358.98 | 108.5 | 10769.4 |
+  | Orange +2 | 405.3 | 122.5 | 12159.0 |
+  | Orange +3 | 451.62 | 136.5 | 13548.6 |
+  | Orange +4 | 497.94 | 150.5 | 14938.2 |
+  | Orange +5 | 567.42 | 171.5 | 17022.6 |
+  | Rot | 660.06 | 199.5 | 19801.8 |
 
- **Info1:** Immun gegen Blutung, reflektiert Schaden, resistent gegen Fernkampfschaden.
-
- **Info2:** Immun gegen Blutung, reflektiert Schaden, resistent gegen Fernkampfschaden.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 5.79 | 0.36 | 3.5 | 115.8 |
+  | **2x** <i class="fas fa-star"/> | 6.948 | 0.38 | 4.18 | 138.96 |
+  | **3x** <i class="fas fa-star"/> | 8.106 | 0.4 | 4.85 | 162.12 |
+  | **4x** <i class="fas fa-star"/> | 9.264 | 0.41 | 5.53 | 185.28 |
+  | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
+  | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
 ### 1 Skill: Knochenschild
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* Magieresistenz
 
-    - LP
-
-    - Abwehr
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Verzauberte Knochen
- **Description:** <span style="color: #48b946;font-size:18px"><Brustkorb></span><span style="color: #645252;font-size:18px">Bietet Schadensreduzierung, die auch auf Zauberer-Einheiten wirkt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Brustkorb&gt;</span><span style="color: #645252;font-size:18px">Bietet Schadensreduzierung, die auch auf Zauberer-Einheiten wirkt.</span>
 
 ### 2nd Skill (or 1st): Böses Skelett
- **Description:** <span style="color: #48b946;font-size:18px"><Brustkorb><span style="color: #645252;font-size:18px">ABW wird erhöht um 30 %. Der Effekt wird verdoppelt, wenn die angreifende Einheit „Niedrige Moral“ hat.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Brustkorb&gt;<span style="color: #645252;font-size:18px">ABW wird erhöht um 30 %. Der Effekt wird verdoppelt, wenn die angreifende Einheit „Niedrige Moral“ hat.</span>
 
 ### 3rd Skill (or 4th): Labender Tod
- **Description:** <span style="color: #48b946;font-size:18px"><Versteinern></span><span style="color: #645252;font-size:18px">Erhöht ABW um 30 % für jede gegnerische Einheit, die während der Schlacht stirbt, bis 3 Stapel.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Versteinern&gt;</span><span style="color: #645252;font-size:18px">Erhöht ABW um 30 % für jede gegnerische Einheit, die während der Schlacht stirbt, bis 3 Stapel.</span>
 
 ### 4th Skill (or 3rd): Wahn der Untoten
- **Description:** <span style="color: #48b946;font-size:18px"><Versteinern></span><span style="color: #645252;font-size:18px">Erhöht Magieresistenz und ABW um 30 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Versteinern&gt;</span><span style="color: #645252;font-size:18px">Erhöht Magieresistenz und ABW um 30 %.</span>
 
 ### 5th Skill (or 6th): Schwerst bewaffnet
- **Description:** <span style="color: #48b946;font-size:18px"><Knochenschild></span><span style="color: #645252;font-size:18px">Der Effekt dauert die gesamte Schlacht über an.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Knochenschild&gt;</span><span style="color: #645252;font-size:18px">Der Effekt dauert die gesamte Schlacht über an.</span>
 
 ### 6th Skill (or 5th): Bereitschaft
- **Description:** <span style="color: #48b946;font-size:18px"><Versteinern></span><span style="color: #645252;font-size:18px">Die Fähigkeit wird beim Betreten der Schlacht ausgelöst. Die Dauer wird auf 30 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Versteinern&gt;</span><span style="color: #645252;font-size:18px">Die Fähigkeit wird beim Betreten der Schlacht ausgelöst. Die Dauer wird auf 30 Sek. erhöht.</span>
 
 ## Technical info
  **runart:** 1

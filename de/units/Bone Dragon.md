@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /de/units/Bone Dragon/
 excerpt: "Einheiten Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Knochendrache"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Angst: Reduziert die gegnerische Abwehr enorm und verursacht Niedrige Moral.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Reduziert die Abwehr aller Feinde auf dem Schlachtfeld. Kann die gegnerische Abwehrreihe effektiv durchbrechen.
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 758.0
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 379.0 | 4.5 | 4327.5 |
+  | Blau | 758.0 | 9.0 | 8655.0 |
+  | Blau +1 | 1137.0 | 13.5 | 12982.5 |
+  | Blau +2 | 1591.8 | 18.9 | 18175.5 |
+  | Lila | 2046.6 | 24.3 | 23368.5 |
+  | Lila +1 | 2501.4 | 29.7 | 28561.5 |
+  | Lila +2 | 3032.0 | 36.0 | 34620.0 |
+  | Lila +3 | 3562.6 | 42.3 | 40678.5 |
+  | Orange | 4093.2 | 48.6 | 46737.0 |
+  | Orange +1 | 4699.6 | 55.8 | 53661.0 |
+  | Orange +2 | 5306.0 | 63.0 | 60585.0 |
+  | Orange +3 | 5912.4 | 70.2 | 67509.0 |
+  | Orange +4 | 6518.8 | 77.4 | 74433.0 |
+  | Orange +5 | 7428.4 | 88.2 | 84819.0 |
+  | Rot | 8641.2 | 102.6 | 98667.0 |
 
- **Info1:** Reduziert die Abwehr aller Feinde auf dem Schlachtfeld. Kann die gegnerische Abwehrreihe effektiv durchbrechen.
-
- **Info2:** Reduziert die Abwehr aller Feinde auf dem Schlachtfeld. Kann die gegnerische Abwehrreihe effektiv durchbrechen.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 106.12 | 0.56 | 2.98 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 121.28 | 0.59 | 3.57 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
 ### 1 Skill: Angst
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Angst></span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung der Zieleinheit um zusätzliche 20 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Angst&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung der Zieleinheit um zusätzliche 20 %.</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px"><Angst></span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten in einem großen Bereich zusätzlich um 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Angst&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten in einem großen Bereich zusätzlich um 10 %.</span>
 
 ### 3rd Skill (or 4th): Verkrüppelnder Schlag
- **Description:** <span style="color: #48b946;font-size:18px"><Schmetterrolle></span><span style="color: #645252;font-size:18px">Reduziert die ABW um 30 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schmetterrolle&gt;</span><span style="color: #645252;font-size:18px">Reduziert die ABW um 30 %.</span>
 
 ### 4th Skill (or 3rd): Dunkles Verbot
- **Description:** <span style="color: #48b946;font-size:18px"><Schmetterrolle></span><span style="color: #645252;font-size:18px">Die Reichweite von <Stille> wird ausgeweitet auf alle gegnerischen Einheiten in einem bestimmten Bereich.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schmetterrolle&gt;</span><span style="color: #645252;font-size:18px">Die Reichweite von &lt;Stille&gt; wird ausgeweitet auf alle gegnerischen Einheiten in einem bestimmten Bereich.</span>
 
 ### 5th Skill (or 6th): Geisterhafte Umarmung
- **Description:** <span style="color: #48b946;font-size:18px"><Altern></span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Altern&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 6th Skill (or 5th): Fluch des Alterns
- **Description:** <span style="color: #48b946;font-size:18px"><Altern></span><span style="color: #645252;font-size:18px">Gegnerische Einheiten in einem bestimmten Radius um den Knochendrachen erleiden Schaden in Höhe von 200 % des Schadens der vorherigen Fähigkeit.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Altern&gt;</span><span style="color: #645252;font-size:18px">Gegnerische Einheiten in einem bestimmten Radius um den Knochendrachen erleiden Schaden in Höhe von 200 % des Schadens der vorherigen Fähigkeit.</span>
 
 ## Technical info
  **runart:** 1

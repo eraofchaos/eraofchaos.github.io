@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /es/units/Firebird/
 excerpt: "Unidades El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Pájaro Ígneo"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Aliento de llamas: inflige daño a las tropas enemigas a su paso.
 
+ **Recommend:** Mucho daño rápido daño, ataques con daño elevado y mejora de las habilidades de fuego.
+
+ **Info:** Puede revivir, inflige daño colosal de fuego a todos los objetivos en su camino.
+
+## Basic stats
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
 
- **Recommend:** Mucho daño rápido daño, ataques con daño elevado y mejora de las habilidades de fuego.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 424.25 | 3.75 | 3393.75 |
+  | Azul | 848.5 | 7.5 | 6787.5 |
+  | Azul +1 | 1272.75 | 11.25 | 10181.25 |
+  | Azul +2 | 1781.85 | 15.75 | 14253.75 |
+  | Violeta | 2290.95 | 20.25 | 18326.25 |
+  | Violeta +1 | 2800.05 | 24.75 | 22398.75 |
+  | Violeta +2 | 3394.0 | 30.0 | 27150.0 |
+  | Violeta +3 | 3987.95 | 35.25 | 31901.25 |
+  | Naranja | 4581.9 | 40.5 | 36652.5 |
+  | Naranja +1 | 5260.7 | 46.5 | 42082.5 |
+  | Naranja +2 | 5939.5 | 52.5 | 47512.5 |
+  | Naranja +3 | 6618.3 | 58.5 | 52942.5 |
+  | Naranja +4 | 7297.1 | 64.5 | 58372.5 |
+  | Naranja +5 | 8315.3 | 73.5 | 66517.5 |
+  | Rojo | 9672.9 | 85.5 | 77377.5 |
 
- **Info1:** Puede revivir, inflige daño colosal de fuego a todos los objetivos en su camino.
-
- **Info2:** Puede revivir, inflige daño colosal de fuego a todos los objetivos en su camino.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 118.79 | 0.44 | 2.65 | 633.5 |
+  | **4x** <i class="fas fa-star"/> | 135.76 | 0.46 | 3.23 | 724.0 |
+  | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
+  | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
 ### 1 Skill: Aliento de llamas
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Golpe crítico de la unidad
+* Daño de la unidad
 
-    - PV
-
-    - Golpe crítico de la unidad
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Llama eterna
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrection></span><span style="color: #645252;font-size:18px">Renace tras su muerte cada vez (recarga de habilidad: 20 s)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Renace tras su muerte cada vez (recarga de habilidad: 20 s)</span>
 
 ### 2nd Skill (or 1st):  Tormenta infinita
- **Description:** <span style="color: #48b946;font-size:18px"><Resurrección></span><span style="color: #645252;font-size:18px">Tras revivir, inflige un 8% de los PV máximos en forma de daño a todas las unidades hostiles y las <quema> durante 15 s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrección&gt;</span><span style="color: #645252;font-size:18px">Tras revivir, inflige un 8% de los PV máximos en forma de daño a todas las unidades hostiles y las &lt;quema&gt; durante 15 s.</span>
 
 ### 3rd Skill (or 4th): Descarga de la cruz
- **Description:** <span style="color: #48b946;font-size:18px"><Flame Breath></span><span style="color: #645252;font-size:18px">Inflige daño adicional a los enemigos de la fila en la que esté el objetivo (los objetivos en el cruce reciben el doble de daño).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flame Breath&gt;</span><span style="color: #645252;font-size:18px">Inflige daño adicional a los enemigos de la fila en la que esté el objetivo (los objetivos en el cruce reciben el doble de daño).</span>
 
 ### 4th Skill (or 3rd): Aliento de lava
- **Description:** <span style="color: #48b946;font-size:18px"><Aliento de Llamas></span><span style="color: #645252;font-size:18px">Daño aumentado al 200%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aliento de Llamas&gt;</span><span style="color: #645252;font-size:18px">Daño aumentado al 200%.</span>
 
 ### 5th Skill (or 6th): Rabia infinita
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Boost></span><span style="color: #645252;font-size:18px">Daño de la unidad: 30% adicional</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Boost&gt;</span><span style="color: #645252;font-size:18px">Daño de la unidad: 30% adicional</span>
 
 ### 6th Skill (or 5th): Llama intensificada
- **Description:** <span style="color: #48b946;font-size:18px"><Impulso Ígneo></span><span style="color: #645252;font-size:18px">Golpe crítico garantizado a los objetivos <quemados>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulso Ígneo&gt;</span><span style="color: #645252;font-size:18px">Golpe crítico garantizado a los objetivos &lt;quemados&gt;.</span>
 
 ## Technical info
  **runart:** 0

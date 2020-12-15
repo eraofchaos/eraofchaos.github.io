@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /fr/units/Druid/
 excerpt: "Unités Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Druidesse"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Chromosphère sylvestre : immunise les unités situées dans son cercle magique contre les dégâts magiques.
 
+ **Recommend:** null
+
+ **Info:** Soutient les troupes de la ligne arrière, améliore les DPS des unités alliées et immunise contre les dégâts magiques.
+
+## Basic stats
  **Base HP:** 844.0
 
  **Base ATK:** 102.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 51.3 | 3.75 | 633.0 |
+  | Bleu | 102.6 | 7.5 | 1266.0 |
+  | Bleu +1 | 153.9 | 11.25 | 1899.0 |
+  | Bleu +2 | 215.46 | 15.75 | 2658.6 |
+  | Violet | 277.02 | 20.25 | 3418.2 |
+  | Violet +1 | 338.58 | 24.75 | 4177.8 |
+  | Violet +2 | 410.4 | 30.0 | 5064.0 |
+  | Violet +3 | 482.22 | 35.25 | 5950.2 |
+  | Orange | 554.04 | 40.5 | 6836.4 |
+  | Orange +1 | 636.12 | 46.5 | 7849.2 |
+  | Orange +2 | 718.2 | 52.5 | 8862.0 |
+  | Orange +3 | 800.28 | 58.5 | 9874.8 |
+  | Orange +4 | 882.36 | 64.5 | 10887.6 |
+  | Orange +5 | 1005.48 | 73.5 | 12406.8 |
+  | Rouge | 1169.64 | 85.5 | 14432.4 |
 
- **Info1:** Soutient les troupes de la ligne arrière, améliore les DPS des unités alliées et immunise contre les dégâts magiques.
-
- **Info2:** Soutient les troupes de la ligne arrière, améliore les DPS des unités alliées et immunise contre les dégâts magiques.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.46 | 2.65 | 118.16 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 135.04 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
 ### 1 Skill: Appel de la forêt
@@ -49,20 +73,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 25 secondes, la Druidesse bénit ses alliés dans une vaste zone, augmentant leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes. Ce bonus est doublé quand la Druidesse le lance pour la première fois.</span><span style="color: black">
 
 ### 5 Skill: Prolifération paisible
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'<Étourdissement> et de la <Pétrification> dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Marque de haine
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de <Lenteur> ou de <Saignement>. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Résistance magique
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Protection de la forêt
- **Description:** <span style="color: #48b946;font-size:18px"><Appel de la forêt></span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Après une première utilisation au début du combat (la durée n'est pas réduite), vous pouvez l'utiliser à nouveau toutes les 35 secondes. Sa durée est alors réduite de moitié. Les unités alliées à portée voient leur résistance aux dégâts augmentée de 20 %. Ce bonus augmente de 6 % supplémentaires pour la Druidesse. La zone d'effet se déplace avec la Druidesse.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Appel de la forêt&gt;</span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Après une première utilisation au début du combat (la durée n'est pas réduite), vous pouvez l'utiliser à nouveau toutes les 35 secondes. Sa durée est alors réduite de moitié. Les unités alliées à portée voient leur résistance aux dégâts augmentée de 20 %. Ce bonus augmente de 6 % supplémentaires pour la Druidesse. La zone d'effet se déplace avec la Druidesse.</span>
 
 ### 2nd Skill (or 1st): Bénédiction de la forêt
- **Description:** <span style="color: #48b946;font-size:18px"><Appel de la forêt></span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Après une première utilisation au début du combat (la durée n'est pas réduite), vous pouvez l'utiliser à nouveau toutes les 35 secondes. Sa durée est alors réduite de moitié. Les unités alliées à portée voient leurs dégâts augmentés de 20 %. Ce bonus augmente de 6 % supplémentaires pour la Druidesse. La zone d'effet se déplace avec la Druidesse.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Appel de la forêt&gt;</span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Après une première utilisation au début du combat (la durée n'est pas réduite), vous pouvez l'utiliser à nouveau toutes les 35 secondes. Sa durée est alors réduite de moitié. Les unités alliées à portée voient leurs dégâts augmentés de 20 %. Ce bonus augmente de 6 % supplémentaires pour la Druidesse. La zone d'effet se déplace avec la Druidesse.</span>
 
 ### 3rd Skill (or 4th): Bénédiction des créatures
- **Description:** <span style="color: #48b946;font-size:18px"><Bénédiction de la vie></span><span style="color: #645252;font-size:18px"> voit son effet initial augmenté de 150 % et agit sur 2 unités supplémentaires de la ligne arrière. Les dégâts subis au cours d'une utilisation ne peuvent pas excéder 25 % des PV max.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bénédiction de la vie&gt;</span><span style="color: #645252;font-size:18px"> voit son effet initial augmenté de 150 % et agit sur 2 unités supplémentaires de la ligne arrière. Les dégâts subis au cours d'une utilisation ne peuvent pas excéder 25 % des PV max.</span>
 
 ### 4th Skill (or 3rd): Bénédiction de vitalité
- **Description:** <span style="color: #48b946;font-size:18px"><Bénédiction de la vie></span><span style="color: #645252;font-size:18px"> voit son temps de recharge réduit de 10 secondes et agit sur 2 unités alliées supplémentaires de la ligne arrière. Les dégâts subis au cours d'une utilisation ne peuvent pas excéder 25 % des PV max.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bénédiction de la vie&gt;</span><span style="color: #645252;font-size:18px"> voit son temps de recharge réduit de 10 secondes et agit sur 2 unités alliées supplémentaires de la ligne arrière. Les dégâts subis au cours d'une utilisation ne peuvent pas excéder 25 % des PV max.</span>
 
 ### 5th Skill (or 6th): Ire de la nature
- **Description:** <span style="color: #48b946;font-size:18px"><Cœur de la nature></span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Son effet est triplé lors de la première utilisation. Le bonus de compétence de <Cœur de la nature> ne peut pas être dissipé.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cœur de la nature&gt;</span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Son effet est triplé lors de la première utilisation. Le bonus de compétence de &lt;Cœur de la nature&gt; ne peut pas être dissipé.</span>
 
 ### 6th Skill (or 5th): Force de la nature
- **Description:** <span style="color: #48b946;font-size:18px"><Cœur de la nature></span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Son effet est multiplié par 1,5 à chaque utilisation. Le bonus de compétence de <Cœur de la nature> ne peut pas être dissipé.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cœur de la nature&gt;</span><span style="color: #645252;font-size:18px"> augmente légèrement la portée de la compétence. Son effet est multiplié par 1,5 à chaque utilisation. Le bonus de compétence de &lt;Cœur de la nature&gt; ne peut pas être dissipé.</span>
 
 ## Technical info
  **runart:** 0

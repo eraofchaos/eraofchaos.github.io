@@ -3,7 +3,7 @@ title: "Жар-птица"
 permalink: /ru/units/Firebird/
 excerpt: "Отряды Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Жар-птица"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Огненное дыхание: наносит урон всем вражеским отрядам на своем пути.
 
+ **Recommend:** null
+
+ **Info:** Обладает способностью оживлять, наносит огромный урон огнем всем врагам на своем пути.
+
+## Basic stats
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 424.25 | 3.75 | 3393.75 |
+  | Синий | 848.5 | 7.5 | 6787.5 |
+  | Blue +1 | 1272.75 | 11.25 | 10181.25 |
+  | Синий +2 | 1781.85 | 15.75 | 14253.75 |
+  | Фиолетовый | 2290.95 | 20.25 | 18326.25 |
+  | Фиолетовый +1 | 2800.05 | 24.75 | 22398.75 |
+  | Фиолетовый +2 | 3394.0 | 30.0 | 27150.0 |
+  | Фиолетовый +3 | 3987.95 | 35.25 | 31901.25 |
+  | Оранжевый | 4581.9 | 40.5 | 36652.5 |
+  | Оранжевый +1 | 5260.7 | 46.5 | 42082.5 |
+  | Оранжевый +2 | 5939.5 | 52.5 | 47512.5 |
+  | Orange +3 | 6618.3 | 58.5 | 52942.5 |
+  | Оранжевый +4 | 7297.1 | 64.5 | 58372.5 |
+  | Orange +5 | 8315.3 | 73.5 | 66517.5 |
+  | Red | 9672.9 | 85.5 | 77377.5 |
 
- **Info1:** Обладает способностью оживлять, наносит огромный урон огнем всем врагам на своем пути.
-
- **Info2:** Обладает способностью оживлять, наносит огромный урон огнем всем врагам на своем пути.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 118.79 | 0.44 | 2.65 | 633.5 |
+  | **4x** <i class="fas fa-star"/> | 135.76 | 0.46 | 3.23 | 724.0 |
+  | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
+  | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
 ### 1 Skill: Огненное дыхание
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Критический удар отряда
+* unit Damage
 
-    - ОЗ
-
-    - Критический удар отряда
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Вечный огонь
- **Description:** <span style="color: #48b946;font-size:18px"><Воскрешение></span><span style="color: #645252;font-size:18px">: возрождается каждый раз после смерти (восстановление - 20 сек.)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: возрождается каждый раз после смерти (восстановление - 20 сек.)</span>
 
 ### 2nd Skill (or 1st): Бескрайняя буря
- **Description:** <span style="color: #48b946;font-size:18px"><Воскрешение></span><span style="color: #645252;font-size:18px">: после воскрешения все вражеские отряды получают урон, равный 8% от максимума здоровья, и получают горение на 15 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: после воскрешения все вражеские отряды получают урон, равный 8% от максимума здоровья, и получают горение на 15 сек.</span>
 
 ### 3rd Skill (or 4th): Взрывной крест
- **Description:** <span style="color: #48b946;font-size:18px"><Огненное дыхание></span><span style="color: #645252;font-size:18px">: врагам, стоящим в одном ряду с целью, наносится дополнительный урон (целям на пересечении - двойной урон)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: врагам, стоящим в одном ряду с целью, наносится дополнительный урон (целям на пересечении - двойной урон)</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Огненное дыхание></span><span style="color: #645252;font-size:18px">: урон повышается до 200%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 200%</span>
 
 ### 5th Skill (or 6th): Бескрайняя ярость
- **Description:** <span style="color: #48b946;font-size:18px"><Огненное усиление></span><span style="color: #645252;font-size:18px">: урон отряда увеличивается на 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное усиление&gt;</span><span style="color: #645252;font-size:18px">: урон отряда увеличивается на 30%</span>
 
 ### 6th Skill (or 5th): Растущее пламя
- **Description:** <span style="color: #48b946;font-size:18px"><Огненное усиление></span><span style="color: #645252;font-size:18px">: горящим целям гарантированно наносится КРИТ. УРН</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное усиление&gt;</span><span style="color: #645252;font-size:18px">: горящим целям гарантированно наносится КРИТ. УРН</span>
 
 ## Technical info
  **runart:** 0

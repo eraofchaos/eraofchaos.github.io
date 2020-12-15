@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /it/units/Beholder/
 excerpt: "Unità Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Osservatore"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** Controllo mentale: immobilizza i nemici, che perdono PF col tempo.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Eccellente a inizio battaglia. Indebolisce i nemici per facilitare la tua vittoria.
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 57.9 | 3.75 | 558.0 |
+  | Blu | 115.8 | 7.5 | 1116.0 |
+  | Blu +1 | 173.7 | 11.25 | 1674.0 |
+  | Blu +2 | 243.18 | 15.75 | 2343.6 |
+  | Viola | 312.66 | 20.25 | 3013.2 |
+  | Viola +1 | 382.14 | 24.75 | 3682.8 |
+  | Viola +2 | 463.2 | 30.0 | 4464.0 |
+  | Viola +3 | 544.26 | 35.25 | 5245.2 |
+  | Arancione | 625.32 | 40.5 | 6026.4 |
+  | Arancione +1 | 717.96 | 46.5 | 6919.2 |
+  | Arancione +2 | 810.6 | 52.5 | 7812.0 |
+  | Arancione +3 | 903.24 | 58.5 | 8704.8 |
+  | Arancione +4 | 995.88 | 64.5 | 9597.6 |
+  | Arancione +5 | 1134.84 | 73.5 | 10936.8 |
+  | Rosso | 1320.12 | 85.5 | 12722.4 |
 
- **Info1:** Eccellente a inizio battaglia. Indebolisce i nemici per facilitare la tua vittoria.
-
- **Info2:** Eccellente a inizio battaglia. Indebolisce i nemici per facilitare la tua vittoria.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.212 | 0.45 | 2.65 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 18.528 | 0.47 | 3.23 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
 ### 1 Skill: Controllo mentale
- **Description:** <span style="color: #645252;font-size:20px">L'Osservatore prende il controllo di 1 unità nemica casuale. Il bersaglio subisce danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi al secondo per 8 secondi. Finché dura <Controllo mentale>, il bersaglio non può attaccare, muoversi o usare tecniche.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Osservatore prende il controllo di 1 unità nemica casuale. Il bersaglio subisce danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi al secondo per 8 secondi. Finché dura &lt;Controllo mentale&gt;, il bersaglio non può attaccare, muoversi o usare tecniche.</span><span style="color: black">
 
 ### 2 Skill: Incantesimo perforante
  **Description:** <span style="color: #645252;font-size:20px">Quando l'Osservatore entra in battaglia, apre i propri 4 Occhi della morte. Ogni Occhio ne aumenta il danno (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Per ogni bersaglio ucciso, l'Osservatore chiude 1 Occhio. L'Osservatore può chiudere un massimo di 3 Occhi.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Danno unità
+* Resistenza magica
 
-    - PF
-
-    - Danno unità
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Colpo del mana
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: l'Osservatore apre 4 Occhi aggiuntivi. Quando uccide 1 unità bersaglio, ne chiude 2. Può chiudere un massimo di 6 Occhi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: l'Osservatore apre 4 Occhi aggiuntivi. Quando uccide 1 unità bersaglio, ne chiude 2. Può chiudere un massimo di 6 Occhi.</span>
 
 ### 2nd Skill (or 1st): Nell'abisso
- **Description:** <span style="color: #48b946;font-size:18px"><Incantesimo perforante></span><span style="color: #645252;font-size:18px">: ciascun Occhio aumenta del 3% il DAN e la Rid DAN delle unità Dungeon alleate. Effetto raddoppiato per l'Osservatore.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incantesimo perforante&gt;</span><span style="color: #645252;font-size:18px">: ciascun Occhio aumenta del 3% il DAN e la Rid DAN delle unità Dungeon alleate. Effetto raddoppiato per l'Osservatore.</span>
 
 ### 3rd Skill (or 4th): Implosione magica
- **Description:** <span style="color: #48b946;font-size:18px"><Debilitazione></span><span style="color: #645252;font-size:18px">: la rigenerazione del mana degli eroi nemici è ridotta di 1 per ciascuna unità nemica che viene sconfitta. L'effetto può essere attivato 2 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Debilitazione&gt;</span><span style="color: #645252;font-size:18px">: la rigenerazione del mana degli eroi nemici è ridotta di 1 per ciascuna unità nemica che viene sconfitta. L'effetto può essere attivato 2 volte.</span>
 
 ### 4th Skill (or 3rd): Saccheggio magico
- **Description:** <span style="color: #48b946;font-size:18px"><Debilitazione></span><span style="color: #645252;font-size:18px">: il mana degli eroi nemici è ridotto di 10 per ciascuna unità nemica che viene sconfitta.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Debilitazione&gt;</span><span style="color: #645252;font-size:18px">: il mana degli eroi nemici è ridotto di 10 per ciascuna unità nemica che viene sconfitta.</span>
 
 ### 5th Skill (or 6th): Scudo dello Spezzaincantesimi
- **Description:** <span style="color: #48b946;font-size:18px"><Raccolta di energia></span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta la Rid DAN del 10%. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raccolta di energia&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta la Rid DAN del 10%. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore.</span>
 
 ### 6th Skill (or 5th): Esorcismo echeggiante
- **Description:** <span style="color: #48b946;font-size:18px"><Raccolta di energia></span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato a 150%. Il buff di <Raccolta di energia> si applica a tutte le unità alleate. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raccolta di energia&gt;</span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato a 150%. Il buff di &lt;Raccolta di energia&gt; si applica a tutte le unità alleate. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore</span>
 
 ## Technical info
  **runart:** 0

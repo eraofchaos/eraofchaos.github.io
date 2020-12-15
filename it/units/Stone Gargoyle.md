@@ -3,7 +3,7 @@ title: "Gargolla di pietra"
 permalink: /it/units/Stone Gargoyle/
 excerpt: "Unità Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Gargolla di pietra"
 toc: true
@@ -25,19 +25,44 @@ toc: true
 
  **Unit description:** Forma di pietra: aumenta ATT e Vel ATT.
 
+ **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+
+ **Info:** Può trasformarsi in pietra per migliorare i propri attributi. Efficace nel fare breccia nelle difese nemiche.
+
+## Basic stats
  **Base HP:** 300.0
 
  **Base ATK:** 48.0
 
- **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 50.5 | 5.25 | 570.75 |
+  | Blu | 101.0 | 10.5 | 1141.5 |
+  | Blu +1 | 151.5 | 15.75 | 1712.25 |
+  | Blu +2 | 212.1 | 22.05 | 2397.15 |
+  | Viola | 272.7 | 28.35 | 3082.05 |
+  | Viola +1 | 333.3 | 34.65 | 3766.95 |
+  | Viola +2 | 404.0 | 42.0 | 4566.0 |
+  | Viola +3 | 474.7 | 49.35 | 5365.05 |
+  | Arancione | 545.4 | 56.7 | 6164.1 |
+  | Arancione +1 | 626.2 | 65.1 | 7077.3 |
+  | Arancione +2 | 707.0 | 73.5 | 7990.5 |
+  | Arancione +3 | 787.8 | 81.9 | 8903.7 |
+  | Arancione +4 | 868.6 | 90.3 | 9816.9 |
+  | Arancione +5 | 989.8 | 102.9 | 11186.7 |
+  | Rosso | 1151.4 | 119.7 | 13013.1 |
 
- **Info1:** Può trasformarsi in pietra per migliorare i propri attributi. Efficace nel fare breccia nelle difese nemiche.
-
- **Info2:** Può trasformarsi in pietra per migliorare i propri attributi. Efficace nel fare breccia nelle difese nemiche.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.12 | 0.47 | 2.71 | 91.32 |
+  | **3x** <i class="fas fa-star"/> | 14.14 | 0.5 | 3.31 | 106.54 |
+  | **4x** <i class="fas fa-star"/> | 16.16 | 0.52 | 3.92 | 121.76 |
+  | **5x** <i class="fas fa-star"/> | 18.18 | 0.54 | 4.52 | 136.98 |
+  | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
 ### 1 Skill: Forma di pietra
- **Description:** <span style="color: #645252;font-size:20px">La Gargolla di pietra entra in <Forma di pietra> per 10 secondi ogni 20 secondi. Durante questo periodo gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Gargolla di pietra entra in &lt;Forma di pietra&gt; per 10 secondi ogni 20 secondi. Durante questo periodo gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 2 Skill: Repressione superiore
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità non volanti, la Gargolla di pietra gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -46,23 +71,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Perforazione della Gargolla di pietra aumentata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effetto raddoppiato per le unità difensive.</span><span style="color: black">
 
 ### 4 Skill: Protezione di pietra
- **Description:** <span style="color: #645252;font-size:20px">Quando la Gargolla di pietra è in <Forma di pietra>, gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e resistenza magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando la Gargolla di pietra è in &lt;Forma di pietra&gt;, gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e resistenza magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 5 Skill: Mente lucida
- **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al <Silenzio>. La durata del <Silenzio> inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Schivata unità
+* Resistenza magica
 
-    - PF
-
-    - Schivata unità
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 0

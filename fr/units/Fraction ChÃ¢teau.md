@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Château -  Units"
 permalink: /fr/units/Fraction Château/
 excerpt: "Fraction Château - List of Units in Era of Chaos"
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Fraction Château"
 toc: false

@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /fr/units/Wicked Lady/
 excerpt: "Unités  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Wicked Lady"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 633.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 316.8 | 12.0 | 4327.5 |
+  | Bleu | 633.6 | 24.0 | 8655.0 |
+  | Bleu +1 | 950.4 | 36.0 | 12982.5 |
+  | Bleu +2 | 1330.56 | 50.4 | 18175.5 |
+  | Violet | 1710.72 | 64.8 | 23368.5 |
+  | Violet +1 | 2090.88 | 79.2 | 28561.5 |
+  | Violet +2 | 2534.4 | 96.0 | 34620.0 |
+  | Violet +3 | 2977.92 | 112.8 | 40678.5 |
+  | Orange | 3421.44 | 129.6 | 46737.0 |
+  | Orange +1 | 3928.32 | 148.8 | 53661.0 |
+  | Orange +2 | 4435.2 | 168.0 | 60585.0 |
+  | Orange +3 | 4942.08 | 187.2 | 67509.0 |
+  | Orange +4 | 5448.96 | 206.4 | 74433.0 |
+  | Orange +5 | 6209.28 | 235.2 | 84819.0 |
+  | Rouge | 7223.04 | 273.6 | 98667.0 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
 
 ## Skills
 ### 1 Skill:  Soul Burst
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* dégâts d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Rupture de formation
- **Description:** <span style="color: #48b946;font-size:18px"><Choix tactique> : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %, réduit la ténacité des unités de mêlée de 60 et leur DÉF de 2 %. Cet effet dure 6 secondes et peut se cumuler jusqu'à 5 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Choix tactique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %, réduit la ténacité des unités de mêlée de 60 et leur DÉF de 2 %. Cet effet dure 6 secondes et peut se cumuler jusqu'à 5 fois.</span>
 
 ### 2nd Skill (or 1st): Stratégie d'assaut
- **Description:** <span style="color: #48b946;font-size:18px"><Choix tactique> : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %. De plus, les dégâts et dégâts critiques augmentent de 4 % supplémentaires face à des unités à distance/Lanceurs de sorts. Cet effet dure 6 secondes, et peut se cumuler jusqu'à 5 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Choix tactique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %. De plus, les dégâts et dégâts critiques augmentent de 4 % supplémentaires face à des unités à distance/Lanceurs de sorts. Cet effet dure 6 secondes, et peut se cumuler jusqu'à 5 fois.</span>
 
 ### 3rd Skill (or 4th): Cri de déroute
- **Description:** <span style="color: #48b946;font-size:18px"><Hurlement du briseur de sort> : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, les soins des unités défensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'eau, la vitesse d'ATQ des unités à distance ennemies diminue de 20 %. Lorsqu'un ennemi lance un sort de feu, les dégâts infligés par les unités offensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'air, les Lanceurs de sorts ennemis subissent <Silence> pendant 1,5 seconde.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurlement du briseur de sort&gt; : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, les soins des unités défensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'eau, la vitesse d'ATQ des unités à distance ennemies diminue de 20 %. Lorsqu'un ennemi lance un sort de feu, les dégâts infligés par les unités offensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'air, les Lanceurs de sorts ennemis subissent &lt;Silence&gt; pendant 1,5 seconde.</span>
 
 ### 4th Skill (or 3rd): Puissance du briseur de sort
- **Description:** <span style="color: #48b946;font-size:18px"><Hurlement du briseur de sort> : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, vos soins et ceux des unités défensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'eau, votre vitesse d'ATQ et celle des unités à distance alliées augmente de 15 %. Lorsqu'un ennemi lance un sort de feu, vos dégâts et ceux des unités offensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'air, vous et tous les lanceurs de sorts alliés êtes immunisés contre <Silence> pendant 2 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurlement du briseur de sort&gt; : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, vos soins et ceux des unités défensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'eau, votre vitesse d'ATQ et celle des unités à distance alliées augmente de 15 %. Lorsqu'un ennemi lance un sort de feu, vos dégâts et ceux des unités offensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'air, vous et tous les lanceurs de sorts alliés êtes immunisés contre &lt;Silence&gt; pendant 2 secondes.</span>
 
 ### 5th Skill (or 6th): Sang empoisonné pénétrant
- **Description:** <span style="color: #48b946;font-size:18px"><Giclée de sang empoisonnée> : </span><span style="color: #645252;font-size:18px">S'active quand la cible est tuée, et peut être déclenchée jusqu'à 3 fois. Son effet est garanti toutes les 30 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giclée de sang empoisonnée&gt; : </span><span style="color: #645252;font-size:18px">S'active quand la cible est tuée, et peut être déclenchée jusqu'à 3 fois. Son effet est garanti toutes les 30 secondes.</span>
 
 ### 6th Skill (or 5th): Salive venimeuse
- **Description:** <span style="color: #48b946;font-size:18px"><Giclée de sang empoisonnée> : </span><span style="color: #645252;font-size:18px">Réduit la DÉF de 50 %, et peut être déclenché jusqu'à 3 fois lorsqu'une unité est éliminée. Peut être déclenché une fois supplémentaire après 15 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giclée de sang empoisonnée&gt; : </span><span style="color: #645252;font-size:18px">Réduit la DÉF de 50 %, et peut être déclenché jusqu'à 3 fois lorsqu'une unité est éliminée. Peut être déclenché une fois supplémentaire après 15 secondes.</span>
 
 ## Technical info
  **runart:** 1

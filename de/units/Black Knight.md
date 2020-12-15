@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /de/units/Black Knight/
 excerpt: "Einheiten Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Schwarzer Ritter"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Kritischer Angriff: Verursacht gewaltigen Schaden sowie Niedrige Moral.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Die beste Ansturm-Einheit. Gute Schadensspitzen, wird in der Schlacht zunehmend mächtiger.
+
+## Basic stats
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 57.9 | 6.25 | 682.5 |
+  | Blau | 115.8 | 12.5 | 1365.0 |
+  | Blau +1 | 173.7 | 18.75 | 2047.5 |
+  | Blau +2 | 243.18 | 26.25 | 2866.5 |
+  | Lila | 312.66 | 33.75 | 3685.5 |
+  | Lila +1 | 382.14 | 41.25 | 4504.5 |
+  | Lila +2 | 463.2 | 50.0 | 5460.0 |
+  | Lila +3 | 544.26 | 58.75 | 6415.5 |
+  | Orange | 625.32 | 67.5 | 7371.0 |
+  | Orange +1 | 717.96 | 77.5 | 8463.0 |
+  | Orange +2 | 810.6 | 87.5 | 9555.0 |
+  | Orange +3 | 903.24 | 97.5 | 10647.0 |
+  | Orange +4 | 995.88 | 107.5 | 11739.0 |
+  | Orange +5 | 1134.84 | 122.5 | 13377.0 |
+  | Rot | 1320.12 | 142.5 | 15561.0 |
 
- **Info1:** Die beste Ansturm-Einheit. Gute Schadensspitzen, wird in der Schlacht zunehmend mächtiger.
-
- **Info2:** Die beste Ansturm-Einheit. Gute Schadensspitzen, wird in der Schlacht zunehmend mächtiger.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.212 | 0.44 | 3.75 | 127.4 |
+  | **4x** <i class="fas fa-star"/> | 18.528 | 0.46 | 4.38 | 145.6 |
+  | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
+  | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
 ### 1 Skill: Kritischer Angriff
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Dunkler Übergriff
- **Description:** <span style="color: #48b946;font-size:18px"><Kritischer Angriff></span><span style="color: #645252;font-size:18px">Das Ziel sind jetzt 2 gegnerische Einheiten, hohe Reichweite.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kritischer Angriff&gt;</span><span style="color: #645252;font-size:18px">Das Ziel sind jetzt 2 gegnerische Einheiten, hohe Reichweite.</span>
 
 ### 2nd Skill (or 1st): Explosion der Angst
- **Description:** <span style="color: #48b946;font-size:18px"><Kritischer Angriff></span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird um 50 % erhöht. Die Dauer steigt auf 20 Sek., wenn die Einheit „Niedrige Moral“ hat.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kritischer Angriff&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird um 50 % erhöht. Die Dauer steigt auf 20 Sek., wenn die Einheit „Niedrige Moral“ hat.</span>
 
 ### 3rd Skill (or 4th): Lebensernte
- **Description:** <span style="color: #48b946;font-size:18px"><Todesansturm></span><span style="color: #645252;font-size:18px">Stellt 30 % der max. LP wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Todesansturm&gt;</span><span style="color: #645252;font-size:18px">Stellt 30 % der max. LP wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
 
 ### 4th Skill (or 3rd): Geisterhafter Schild
- **Description:** <span style="color: #48b946;font-size:18px"><Todesansturm></span><span style="color: #645252;font-size:18px">Stellt 80 % der Schadensreduzierung der Einheit wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Todesansturm&gt;</span><span style="color: #645252;font-size:18px">Stellt 80 % der Schadensreduzierung der Einheit wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
 
 ### 5th Skill (or 6th): Absolute Angst
- **Description:** <span style="color: #48b946;font-size:18px"><Furcht einflößende Unterdrückung></span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit „Niedrige Moral“ hat, wird Krit. SCHD um 50 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furcht einflößende Unterdrückung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit „Niedrige Moral“ hat, wird Krit. SCHD um 50 % erhöht.</span>
 
 ### 6th Skill (or 5th): Blutiges Nachsetzen
- **Description:** <span style="color: #48b946;font-size:18px"><Furcht einflößende Unterdrückung></span><span style="color: #645252;font-size:18px">Wenn das Ziel „Niedrige Moral“ hat, wird der Lebensentzug um zusätzliche 20 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Furcht einflößende Unterdrückung&gt;</span><span style="color: #645252;font-size:18px">Wenn das Ziel „Niedrige Moral“ hat, wird der Lebensentzug um zusätzliche 20 % erhöht.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /fr/units/Griffin/
 excerpt: "Unités Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Griffon"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Plongeon : inflige des dégâts à 3 unités ennemies.
 
+ **Recommend:** En augmentant votre vitesse de déplacement, vous renforcez grandement l'efficacité de votre armée.
+
+ **Info:** Inflige des dégâts directs en début de combat. Contre-attaque souvent et inflige des dégâts de zone.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** En augmentant votre vitesse de déplacement, vous renforcez grandement l'efficacité de votre armée.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 75.7 | 6.25 | 1387.5 |
+  | Bleu | 151.4 | 12.5 | 2775.0 |
+  | Bleu +1 | 227.1 | 18.75 | 4162.5 |
+  | Bleu +2 | 317.94 | 26.25 | 5827.5 |
+  | Violet | 408.78 | 33.75 | 7492.5 |
+  | Violet +1 | 499.62 | 41.25 | 9157.5 |
+  | Violet +2 | 605.6 | 50.0 | 11100.0 |
+  | Violet +3 | 711.58 | 58.75 | 13042.5 |
+  | Orange | 817.56 | 67.5 | 14985.0 |
+  | Orange +1 | 938.68 | 77.5 | 17205.0 |
+  | Orange +2 | 1059.8 | 87.5 | 19425.0 |
+  | Orange +3 | 1180.92 | 97.5 | 21645.0 |
+  | Orange +4 | 1302.04 | 107.5 | 23865.0 |
+  | Orange +5 | 1483.72 | 122.5 | 27195.0 |
+  | Rouge | 1725.96 | 142.5 | 31635.0 |
 
- **Info1:** Inflige des dégâts directs en début de combat. Contre-attaque souvent et inflige des dégâts de zone.
-
- **Info2:** Inflige des dégâts directs en début de combat. Contre-attaque souvent et inflige des dégâts de zone.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.5 | 3.13 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.53 | 3.75 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.55 | 4.38 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
 ### 1 Skill: Contre-attaque en piqué
@@ -43,7 +68,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Quand les Griffons sont sur le champ de bataille, l'ATQ de toutes vos autres unités volantes augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Charge glorieuse
- **Description:** <span style="color: #645252;font-size:20px">Quand les Griffons sont en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Exaltation></span><span style="color: black"><span style="color: #645252;font-size:20px">, ils gagnent 30 en vitesse de déplacement. Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand les Griffons sont en </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ils gagnent 30 en vitesse de déplacement. Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
 ### 4 Skill: Archange
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Griffon augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Octroie au Griffon 10 % de PV supplémentaires pour chaque unité alliée volante sur le champ de bataille.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* dégâts d'unité
+* réduction des dégâts d'unité
 
-    - PV
-
-    - dégâts d'unité
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 1

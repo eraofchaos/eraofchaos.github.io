@@ -3,7 +3,7 @@ title: "Geist"
 permalink: /de/units/Wight/
 excerpt: "Einheiten Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Geist"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Grauenhaftes Kreischen: Lässt die gegnerischen Truppen vor sich verstummen.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Lässt den Feind direkt vor sich verstummen, verursacht beim Tod Stille bei allen Feinden.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 107.5
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 53.75 | 4.5 | 496.5 |
+  | Blau | 107.5 | 9.0 | 993.0 |
+  | Blau +1 | 161.25 | 13.5 | 1489.5 |
+  | Blau +2 | 225.75 | 18.9 | 2085.3 |
+  | Lila | 290.25 | 24.3 | 2681.1 |
+  | Lila +1 | 354.75 | 29.7 | 3276.9 |
+  | Lila +2 | 430.0 | 36.0 | 3972.0 |
+  | Lila +3 | 505.25 | 42.3 | 4667.1 |
+  | Orange | 580.5 | 48.6 | 5362.2 |
+  | Orange +1 | 666.5 | 55.8 | 6156.6 |
+  | Orange +2 | 752.5 | 63.0 | 6951.0 |
+  | Orange +3 | 838.5 | 70.2 | 7745.4 |
+  | Orange +4 | 924.5 | 77.4 | 8539.8 |
+  | Orange +5 | 1053.5 | 88.2 | 9731.4 |
+  | Rot | 1225.5 | 102.6 | 11320.2 |
 
- **Info1:** Lässt den Feind direkt vor sich verstummen, verursacht beim Tod Stille bei allen Feinden.
-
- **Info2:** Lässt den Feind direkt vor sich verstummen, verursacht beim Tod Stille bei allen Feinden.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.9 | 0.45 | 2.39 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 15.05 | 0.47 | 2.98 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 17.2 | 0.49 | 3.57 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 19.35 | 0.52 | 4.16 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
 ### 1 Skill: Grauenhaftes Kreischen
@@ -43,7 +68,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Erhöht den ANG um 8 % für jede verbündete Einheit, die auf dem Schlachtfeld stirbt. Wirkt die ganze Schlacht über, maximal 10 Stapel.</span><span style="color: black">
 
 ### 3 Skill: Fluch des Missgeschicks
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Geist besiegt wird, wirkt er </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Stille></span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle gegnerischen Einheiten. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn ein Geist besiegt wird, wirkt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stille&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle gegnerischen Einheiten. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
 ### 4 Skill: Unsichtbarkeit
  **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn er Schaden durch einen gegnerischen Zauber erleidet, erhält der Held 10 Mana zurück.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Magieresistenz
 
-    - LP
-
-    - Angriffstempo
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fluch der Untoten
- **Description:** <span style="color: #48b946;font-size:18px"><Unsichtbarkeit></span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er eine tödliche Schallwelle, die gegnerischen Einheiten in seiner Reihe, außer Nekropolis-Einheiten, Schaden in Höhe von 5 % der max. LP zufügt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Unsichtbarkeit&gt;</span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er eine tödliche Schallwelle, die gegnerischen Einheiten in seiner Reihe, außer Nekropolis-Einheiten, Schaden in Höhe von 5 % der max. LP zufügt.</span>
 
 ### 2nd Skill (or 1st): Tödlicher Segen
- **Description:** <span style="color: #48b946;font-size:18px"><Unsichtbarkeit></span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er einen fatalen Segen, der die Schadensreduzierung verbündeter Nekropolis-Einheiten bis zum Ende der Schlacht um 10 % erhöht, bis 3 Stapel.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Unsichtbarkeit&gt;</span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er einen fatalen Segen, der die Schadensreduzierung verbündeter Nekropolis-Einheiten bis zum Ende der Schlacht um 10 % erhöht, bis 3 Stapel.</span>
 
 ### 3rd Skill (or 4th): Panikattacke
- **Description:** <span style="color: #48b946;font-size:18px"><Grauenhaftes Kreischen></span><span style="color: #645252;font-size:18px">Einheiten, die von Grauenhaftes Kreischen mit Stille belegt werden, erhalten für die Dauer der Stille einen Malus von 50 % auf ihre Magieresistenz.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Einheiten, die von Grauenhaftes Kreischen mit Stille belegt werden, erhalten für die Dauer der Stille einen Malus von 50 % auf ihre Magieresistenz.</span>
 
 ### 4th Skill (or 3rd): Meisterhaftes Kreischen
- **Description:** <span style="color: #48b946;font-size:18px"><Grauenhaftes Kreischen></span><span style="color: #645252;font-size:18px">Der Bonus auf Magieresistenz für verbündete Nekropolis-Einheiten in derselben Reihe wird 25 Sek. lang um 50 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Der Bonus auf Magieresistenz für verbündete Nekropolis-Einheiten in derselben Reihe wird 25 Sek. lang um 50 % erhöht.</span>
 
 ### 5th Skill (or 6th): Erschütterte Seele
- **Description:** <span style="color: #48b946;font-size:18px"><Inkarnation des Schreckens></span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 8 % reduziert, bis 20 Stapel. Der Effekt kann nicht gebannt werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 8 % reduziert, bis 20 Stapel. Der Effekt kann nicht gebannt werden.</span>
 
 ### 6th Skill (or 5th): Grauenhaftes Schauspiel
- **Description:** <span style="color: #48b946;font-size:18px"><Inkarnation des Schreckens></span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 16 % reduziert, bis 6 Stapel. Der Effekt kann nicht gebannt werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 16 % reduziert, bis 6 Stapel. Der Effekt kann nicht gebannt werden.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Ящер"
 permalink: /ru/units/Lizardman/
 excerpt: "Отряды null"
 unitID: 802
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Ящер"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** null
+
+ **Info:** Высокий УВС. В бою с большими отрядами наносит больше урона.
+
+## Basic stats
  **Base HP:** 1144.0
 
  **Base ATK:** 174.9
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 87.45 | 4.5 | 858.0 |
+  | Синий | 174.9 | 9.0 | 1716.0 |
+  | Blue +1 | 262.35 | 13.5 | 2574.0 |
+  | Синий +2 | 367.29 | 18.9 | 3603.6 |
+  | Фиолетовый | 472.23 | 24.3 | 4633.2 |
+  | Фиолетовый +1 | 577.17 | 29.7 | 5662.8 |
+  | Фиолетовый +2 | 699.6 | 36.0 | 6864.0 |
+  | Фиолетовый +3 | 822.03 | 42.3 | 8065.2 |
+  | Оранжевый | 944.46 | 48.6 | 9266.4 |
+  | Оранжевый +1 | 1084.38 | 55.8 | 10639.2 |
+  | Оранжевый +2 | 1224.3 | 63.0 | 12012.0 |
+  | Orange +3 | 1364.22 | 70.2 | 13384.8 |
+  | Оранжевый +4 | 1504.14 | 77.4 | 14757.6 |
+  | Orange +5 | 1714.02 | 88.2 | 16816.8 |
+  | Red | 1993.86 | 102.6 | 19562.4 |
 
- **Info1:** Высокий УВС. В бою с большими отрядами наносит больше урона.
-
- **Info2:** Высокий УВС. В бою с большими отрядами наносит больше урона.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 20.988 | 0.74 | 2.39 | 137.28 |
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.77 | 2.98 | 160.16 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.81 | 3.57 | 183.04 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.84 | 4.16 | 205.92 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
 ### 1 Skill: null
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Magic resistance
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,7 +107,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
  **Description:** 
@@ -99,7 +122,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /fr/units/Leprechaun/
 excerpt: "Unités Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
 unitID: 909
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Farfadet"
 toc: true
@@ -25,28 +25,52 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** 
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 3162.0
 
  **Base ATK:** 134.5
 
- **Recommend:** 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 67.25 | 15.0 | 2371.5 |
+  | Bleu | 134.5 | 30.0 | 4743.0 |
+  | Bleu +1 | 201.75 | 45.0 | 7114.5 |
+  | Bleu +2 | 282.45 | 63.0 | 9960.3 |
+  | Violet | 363.15 | 81.0 | 12806.1 |
+  | Violet +1 | 443.85 | 99.0 | 15651.9 |
+  | Violet +2 | 538.0 | 120.0 | 18972.0 |
+  | Violet +3 | 632.15 | 141.0 | 22292.1 |
+  | Orange | 726.3 | 162.0 | 25612.2 |
+  | Orange +1 | 833.9 | 186.0 | 29406.6 |
+  | Orange +2 | 941.5 | 210.0 | 33201.0 |
+  | Orange +3 | 1049.1 | 234.0 | 36995.4 |
+  | Orange +4 | 1156.7 | 258.0 | 40789.8 |
+  | Orange +5 | 1318.1 | 294.0 | 46481.4 |
+  | Rouge | 1533.3 | 342.0 | 54070.2 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 18.83 | 0.36 | 7.6 | 442.68 |
+  | **4x** <i class="fas fa-star"/> | 21.52 | 0.38 | 8.4 | 505.92 |
+  | **5x** <i class="fas fa-star"/> | 24.21 | 0.4 | 9.2 | 569.16 |
+  | **6x** <i class="fas fa-star"/> | 26.9 | 0.41 | 10.0 | 632.4 |
 
 ## Skills
 ### 1 Skill: Coup de poing immédiat
  **Description:** <span style="color: #645252;font-size:20px">Le Farfadet inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à l'unité cible toutes les 5 secondes et l'</span><span style="color: black"><span style="color: #48b946;font-size:20px">étourdit</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes. Réduit également la pénétration d'une unité de mêlée et d'une unité à distance/de Lanceurs de sorts aléatoires de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> tout en infligeant des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ. Cet effet dure 6 secondes et peut être cumulé jusqu'à 3 fois.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Lorsque cette compétence est déclenchée, les dégâts et la vitesse d'attaque du Farfadet augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet dure 15 secondes et peut être cumulé jusqu'à 40 fois.</span><span style="color: black">
 
 ### 2 Skill: Fortune
- **Description:** <span style="color: #645252;font-size:20px">Le Farfadet lance le sort Bonne fortune sur toutes les unités alliées toutes les 10 secondes, augmentant ainsi l'esquive de toutes ces unités de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, leur ténacité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 5 secondes. L'effet est doublé pour les unités de 4 combattants et quadruplé pour les unités de 9 ou 16 combattants. L'effet sera multiplié par entre 3 et 10 pour le Farfadet. Si l'effet est multiplié par 8 ou plus, l'effet <Coup de poing immédiat> se déclenchera 1 fois de plus.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le Farfadet lance le sort Bonne fortune sur toutes les unités alliées toutes les 10 secondes, augmentant ainsi l'esquive de toutes ces unités de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, leur ténacité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 5 secondes. L'effet est doublé pour les unités de 4 combattants et quadruplé pour les unités de 9 ou 16 combattants. L'effet sera multiplié par entre 3 et 10 pour le Farfadet. Si l'effet est multiplié par 8 ou plus, l'effet &lt;Coup de poing immédiat&gt; se déclenchera 1 fois de plus.</span><span style="color: black">
 
 ### 3 Skill: Force élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Augmente la résistance aux dégâts du Farfadet de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sa DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, son esquive de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la valeur du bouclier </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le Farfadet est présent sur le champ de bataille, la valeur du bouclier des unités alliées augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le Farfadet subit des dégâts en une fois, il est immunisé contre une portion des dégâts supérieure à 20 % de ses PV.</span><span style="color: black">
 
 ### 4 Skill: Blocage tactique
- **Description:** <span style="color: #645252;font-size:20px">Lorsque le Farfadet est atteint par un coup critique, la valeur de son bouclier augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px">, et un <Coup de poing immédiat> se déclenche. Cet effet dure pendant 10 secondes et a un temps de recharge de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque son esquive se déclenche, le Farfadet récupère </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max. Le temps de recharge est de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le blocage du Farfadet est activé, un <Coup de poing immédiat> se déclenche immédiatement. Le temps de recharge est de 2 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Lorsque le Farfadet est atteint par un coup critique, la valeur de son bouclier augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px">, et un &lt;Coup de poing immédiat&gt; se déclenche. Cet effet dure pendant 10 secondes et a un temps de recharge de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque son esquive se déclenche, le Farfadet récupère </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max. Le temps de recharge est de 5 secondes.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Lorsque le blocage du Farfadet est activé, un &lt;Coup de poing immédiat&gt; se déclenche immédiatement. Le temps de recharge est de 2 secondes.</span><span style="color: black">
 
 ### 5 Skill: Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Défense
+* réduction des dégâts d'unité
 
-    - PV
-
-    - Défense
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details

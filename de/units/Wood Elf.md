@@ -3,7 +3,7 @@ title: "Waldelfe"
 permalink: /de/units/Wood Elf/
 excerpt: "Einheiten Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
 unitID: 203
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Waldelfe"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Pfeilhagel: Erhöht das Angriffstempo kurze Zeit um 500 %.
 
+ **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+
+ **Info:** Verursacht kolossale Schadensspitzen und verfügt über Doppelschlag. Besonders effektiv gegen kleine Einheiten.
+
+## Basic stats
  **Base HP:** 438.4
 
  **Base ATK:** 92.4
 
- **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 46.2 | 6.25 | 328.8 |
+  | Blau | 92.4 | 12.5 | 657.6 |
+  | Blau +1 | 138.6 | 18.75 | 986.4 |
+  | Blau +2 | 194.04 | 26.25 | 1380.96 |
+  | Lila | 249.48 | 33.75 | 1775.52 |
+  | Lila +1 | 304.92 | 41.25 | 2170.08 |
+  | Lila +2 | 369.6 | 50.0 | 2630.4 |
+  | Lila +3 | 434.28 | 58.75 | 3090.72 |
+  | Orange | 498.96 | 67.5 | 3551.04 |
+  | Orange +1 | 572.88 | 77.5 | 4077.12 |
+  | Orange +2 | 646.8 | 87.5 | 4603.2 |
+  | Orange +3 | 720.72 | 97.5 | 5129.28 |
+  | Orange +4 | 794.64 | 107.5 | 5655.36 |
+  | Orange +5 | 905.52 | 122.5 | 6444.48 |
+  | Rot | 1053.36 | 142.5 | 7496.64 |
 
- **Info1:** Verursacht kolossale Schadensspitzen und verfügt über Doppelschlag. Besonders effektiv gegen kleine Einheiten.
-
- **Info2:** Verursacht kolossale Schadensspitzen und verfügt über Doppelschlag. Besonders effektiv gegen kleine Einheiten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.088 | 0.68 | 3.13 | 52.608 |
+  | **3x** <i class="fas fa-star"/> | 12.936 | 0.72 | 3.75 | 61.376 |
+  | **4x** <i class="fas fa-star"/> | 14.784 | 0.75 | 4.38 | 70.144 |
+  | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
+  | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** 
 
 ### 2 Skill: Doppelschlag
- **Description:** <span style="color: #645252;font-size:20px">Die Waldelfe schießt bei Standardangriffen mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> 2 Pfeile. Der zweite Pfeil verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><verlangsamte></span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit für <Doppelschlag> auf 100 %.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Die Waldelfe schießt bei Standardangriffen mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> 2 Pfeile. Der zweite Pfeil verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;verlangsamte&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit für &lt;Doppelschlag&gt; auf 100 %.</span><span style="color: black">
 
 ### 3 Skill: Elfenschutz
- **Description:** <span style="color: #645252;font-size:20px">Jede Waldelfe erhält jedes Mal, wenn ein gegnerischer Held einen Zauber wirkt, den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Schild></span><span style="color: black"><span style="color: #645252;font-size:20px">, der 5 Sek. lang Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der LP absorbiert. Die Abklingzeit beträgt 10 Sek.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Jede Waldelfe erhält jedes Mal, wenn ein gegnerischer Held einen Zauber wirkt, den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Schild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, der 5 Sek. lang Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der LP absorbiert. Die Abklingzeit beträgt 10 Sek.</span><span style="color: black">
 
 ### 4 Skill: Feuer auf Anführer konzentrieren
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Waldelfe steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Waldelfe erhält zusätzlich 40 Kritischer Treffer für jede verbündete Fernkampf-Einheit auf dem Schlachtfeld.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Magieresistenz
 
-    - LP
-
-    - Angriffstempo
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Phantomkonzentration
- **Description:** <span style="color: #48b946;font-size:18px"><Pfeilhagel></span><span style="color: #645252;font-size:18px">Solange die Boni von <Wahnsinn> aktiv sind, wird der Schaden der Einheit 5 Sek. lang um 20 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pfeilhagel&gt;</span><span style="color: #645252;font-size:18px">Solange die Boni von &lt;Wahnsinn&gt; aktiv sind, wird der Schaden der Einheit 5 Sek. lang um 20 % erhöht.</span>
 
 ### 2nd Skill (or 1st): Dauerregen
- **Description:** <span style="color: #48b946;font-size:18px"><Pfeilhagel></span><span style="color: #645252;font-size:18px">Die Dauer wird um 1,5 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pfeilhagel&gt;</span><span style="color: #645252;font-size:18px">Die Dauer wird um 1,5 Sek. erhöht.</span>
 
 ### 3rd Skill (or 4th): Hüter der Natur
- **Description:** <span style="color: #48b946;font-size:18px"><Elfenschutz></span><span style="color: #645252;font-size:18px">Der „Schild“-Effekt wird auf 300 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elfenschutz&gt;</span><span style="color: #645252;font-size:18px">Der „Schild“-Effekt wird auf 300 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 4th Skill (or 3rd): Naturverbundenheit
- **Description:** <span style="color: #48b946;font-size:18px"><Elfenschutz></span><span style="color: #645252;font-size:18px">Der „Schild“-Effekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht, AKZ wird auf 0 reduziert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elfenschutz&gt;</span><span style="color: #645252;font-size:18px">Der „Schild“-Effekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht, AKZ wird auf 0 reduziert.</span>
 
 ### 5th Skill (or 6th): Entf. die Bestie
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerrufer></span><span style="color: #645252;font-size:18px">Erhöht Krit. SCHD um 15 % und zusätzlich um 3 % für jede weitere verbündete Fernkampf-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerrufer&gt;</span><span style="color: #645252;font-size:18px">Erhöht Krit. SCHD um 15 % und zusätzlich um 3 % für jede weitere verbündete Fernkampf-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Instinkt des Jägers
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerrufer></span><span style="color: #645252;font-size:18px">Erhöht Einheitenschaden um 10 %. Krit. SCHD der Waldelfe wird für jede verbündete Fernkampf-Einheit auf dem Schlachtfeld zusätzlich um 2 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerrufer&gt;</span><span style="color: #645252;font-size:18px">Erhöht Einheitenschaden um 10 %. Krit. SCHD der Waldelfe wird für jede verbündete Fernkampf-Einheit auf dem Schlachtfeld zusätzlich um 2 % erhöht.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /it/units/Walking Dead/
 excerpt: "Unità Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Morto vivente"
 toc: true
@@ -25,44 +25,68 @@ toc: true
 
  **Unit description:** Esplosivo: infligge danni alle unità circostanti quando l'unità viene sconfitta.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** DIF elevata, infligge <Pestilenza> ai nemici circostanti.
+
+## Basic stats
  **Base HP:** 2758.0
 
  **Base ATK:** 117.7
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 58.85 | 11.25 | 2068.5 |
+  | Blu | 117.7 | 22.5 | 4137.0 |
+  | Blu +1 | 176.55 | 33.75 | 6205.5 |
+  | Blu +2 | 247.17 | 47.25 | 8687.7 |
+  | Viola | 317.79 | 60.75 | 11169.9 |
+  | Viola +1 | 388.41 | 74.25 | 13652.1 |
+  | Viola +2 | 470.8 | 90.0 | 16548.0 |
+  | Viola +3 | 553.19 | 105.75 | 19443.9 |
+  | Arancione | 635.58 | 121.5 | 22339.8 |
+  | Arancione +1 | 729.74 | 139.5 | 25649.4 |
+  | Arancione +2 | 823.9 | 157.5 | 28959.0 |
+  | Arancione +3 | 918.06 | 175.5 | 32268.6 |
+  | Arancione +4 | 1012.22 | 193.5 | 35578.2 |
+  | Arancione +5 | 1153.46 | 220.5 | 40542.6 |
+  | Rosso | 1341.78 | 256.5 | 47161.8 |
 
- **Info1:** DIF elevata, infligge <Pestilenza> ai nemici circostanti.
-
- **Info2:** DIF elevata, infligge <Pestilenza> ai nemici circostanti.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 11.77 | 0.29 | 4.5 | 275.8 |
+  | **2x** <i class="fas fa-star"/> | 14.124 | 0.3 | 5.23 | 330.96 |
+  | **3x** <i class="fas fa-star"/> | 16.478 | 0.32 | 5.95 | 386.12 |
+  | **4x** <i class="fas fa-star"/> | 18.832 | 0.33 | 6.68 | 441.28 |
+  | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
+  | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
 ### 1 Skill: Gas velenoso
- **Description:** <span style="color: #645252;font-size:20px">I Morti viventi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 2 secondi a tutte le unità nemiche circostanti. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">I Morti viventi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 2 secondi a tutte le unità nemiche circostanti. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
 ### 2 Skill: Contagio
- **Description:** <span style="color: #645252;font-size:20px">Il <Gas velenoso> dei Morti viventi riduce l'ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) del bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px"><rallenta></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il &lt;Gas velenoso&gt; dei Morti viventi riduce l'ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) del bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallenta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Esplosivo
- **Description:** <span style="color: #645252;font-size:20px">Quando i Morti viventi vengono sconfitti, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area per 8 secondi. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando i Morti viventi vengono sconfitti, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area per 8 secondi. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
 ### 4 Skill: Barricata di cadaveri
- **Description:** <span style="color: #645252;font-size:20px">La Rid DAN dei Morti viventi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante ha </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale basso></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Rid DAN dei Morti viventi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da <Morale basso>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Riduzione danno unità
 
-    - PF
-
-    - Difesa
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Epidemia
- **Description:** <span style="color: #48b946;font-size:18px"><Gas velenoso></span><span style="color: #645252;font-size:18px">: infligge danni aggiuntivi pari al 2% dei PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gas velenoso&gt;</span><span style="color: #645252;font-size:18px">: infligge danni aggiuntivi pari al 2% dei PF massimi.</span>
 
 ### 2nd Skill (or 1st): Malattia infettiva
- **Description:** <span style="color: #48b946;font-size:18px"><Gas velenoso></span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, applica <Gas velenoso> a tutte le unità da mischia Necropoli alleate fino al termine della battaglia. Il danno è cumulabile fino a 6 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gas velenoso&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, applica &lt;Gas velenoso&gt; a tutte le unità da mischia Necropoli alleate fino al termine della battaglia. Il danno è cumulabile fino a 6 volte.</span>
 
 ### 3rd Skill (or 4th): Complicazione
- **Description:** <span style="color: #48b946;font-size:18px"><Infezione></span><span style="color: #645252;font-size:18px">: riduce ATT e DIF di un ulteriore 30%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infezione&gt;</span><span style="color: #645252;font-size:18px">: riduce ATT e DIF di un ulteriore 30%.</span>
 
 ### 4th Skill (or 3rd): Infezione incurabile
- **Description:** <span style="color: #48b946;font-size:18px"><Infezione></span><span style="color: #645252;font-size:18px">: riduce la Rid DAN di un ulteriore 10%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Infezione&gt;</span><span style="color: #645252;font-size:18px">: riduce la Rid DAN di un ulteriore 10%.</span>
 
 ### 5th Skill (or 6th): Barriera orripilante
- **Description:** <span style="color: #48b946;font-size:18px"><Barricata di cadaveri></span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Barricata di cadaveri&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
 
 ### 6th Skill (or 5th): Festino macabro
- **Description:** <span style="color: #48b946;font-size:18px"><Barricata di cadaveri></span><span style="color: #645252;font-size:18px">: recupera PF pari al 10% dei PF massimi del Morto vivente ogni volta che un'unità nemica viene sconfitta.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Barricata di cadaveri&gt;</span><span style="color: #645252;font-size:18px">: recupera PF pari al 10% dei PF massimi del Morto vivente ogni volta che un'unità nemica viene sconfitta.</span>
 
 ## Technical info
  **runart:** 1

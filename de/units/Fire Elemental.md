@@ -3,7 +3,7 @@ title: "Feuerelementar"
 permalink: /de/units/Fire Elemental/
 excerpt: "Einheiten Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Feuerelementar"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Verursacht Verbrennung, lässt das gesamte Schlachtfeld explodieren, wird stärker, wenn Feinde fallen.
+
+## Basic stats
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 97.5 | 4.5 | 1261.5 |
+  | Blau | 195.0 | 9.0 | 2523.0 |
+  | Blau +1 | 292.5 | 13.5 | 3784.5 |
+  | Blau +2 | 409.5 | 18.9 | 5298.3 |
+  | Lila | 526.5 | 24.3 | 6812.1 |
+  | Lila +1 | 643.5 | 29.7 | 8325.9 |
+  | Lila +2 | 780.0 | 36.0 | 10092.0 |
+  | Lila +3 | 916.5 | 42.3 | 11858.1 |
+  | Orange | 1053.0 | 48.6 | 13624.2 |
+  | Orange +1 | 1209.0 | 55.8 | 15642.6 |
+  | Orange +2 | 1365.0 | 63.0 | 17661.0 |
+  | Orange +3 | 1521.0 | 70.2 | 19679.4 |
+  | Orange +4 | 1677.0 | 77.4 | 21697.8 |
+  | Orange +5 | 1911.0 | 88.2 | 24725.4 |
+  | Rot | 2223.0 | 102.6 | 28762.2 |
 
- **Info1:** Verursacht Verbrennung, lässt das gesamte Schlachtfeld explodieren, wird stärker, wenn Feinde fallen.
-
- **Info2:** Verursacht Verbrennung, lässt das gesamte Schlachtfeld explodieren, wird stärker, wenn Feinde fallen.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.4 | 0.53 | 2.39 | 201.84 |
+  | **3x** <i class="fas fa-star"/> | 27.3 | 0.55 | 2.98 | 235.48 |
+  | **4x** <i class="fas fa-star"/> | 31.2 | 0.58 | 3.57 | 269.12 |
+  | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
+  | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
 ### 1 Skill: Himmelsfeuer
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Ausweichen (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Ausweichen (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sengendes Wolkenfeuer
- **Description:** <span style="color: #48b946;font-size:18px"><Himmelsfeuer></span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Himmelsfeuer&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
 
 ### 2nd Skill (or 1st): Lauffeuer
- **Description:** <span style="color: #48b946;font-size:18px"><Himmelsfeuer></span><span style="color: #645252;font-size:18px">Fügt zwei zufälligen gegnerischen Einheiten Schaden zu.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Himmelsfeuer&gt;</span><span style="color: #645252;font-size:18px">Fügt zwei zufälligen gegnerischen Einheiten Schaden zu.</span>
 
 ### 3rd Skill (or 4th): Elementares Entfachen
- **Description:** <span style="color: #48b946;font-size:18px"><Kraft der Elemente></span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird der ANG zweier zufälliger Offensiv-Einheiten 10 Sek. lang um 50 % erhöht, ihr Lebensentzug um 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird der ANG zweier zufälliger Offensiv-Einheiten 10 Sek. lang um 50 % erhöht, ihr Lebensentzug um 10 %.</span>
 
 ### 4th Skill (or 3rd): Elementare Raserei
- **Description:** <span style="color: #48b946;font-size:18px"><Kraft der Elemente></span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird mit einer Wahrscheinlichkeit von 30 % <Himmelsfeuer> auf eine zufällige gegnerische Einheit gewirkt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird mit einer Wahrscheinlichkeit von 30 % &lt;Himmelsfeuer&gt; auf eine zufällige gegnerische Einheit gewirkt.</span>
 
 ### 5th Skill (or 6th): Fluch der tosenden Flamme
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerenergie-Übertragung></span><span style="color: #645252;font-size:18px">Die Boni werden verdoppelt, die Stapel bleiben wie gehabt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerenergie-Übertragung&gt;</span><span style="color: #645252;font-size:18px">Die Boni werden verdoppelt, die Stapel bleiben wie gehabt.</span>
 
 ### 6th Skill (or 5th): Harmonie der Flammen
- **Description:** <span style="color: #48b946;font-size:18px"><Feuerenergie-Übertragung></span><span style="color: #645252;font-size:18px">Der zusätzliche Effekt betrifft verbündete Einheiten in einem bestimmten Bereich.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerenergie-Übertragung&gt;</span><span style="color: #645252;font-size:18px">Der zusätzliche Effekt betrifft verbündete Einheiten in einem bestimmten Bereich.</span>
 
 ## Technical info
  **runart:** 1

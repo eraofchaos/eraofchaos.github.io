@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /ru/units/Angel/
 excerpt: "Отряды Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Ангел"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Порицание: наносит огромный урон 3 отрядам и оглушает их.
 
+ **Recommend:** null
+
+ **Info:** null
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 396.0 | 4.75 | 4073.25 |
+  | Синий | 792.0 | 9.5 | 8146.5 |
+  | Blue +1 | 1188.0 | 14.25 | 12219.75 |
+  | Синий +2 | 1663.2 | 19.95 | 17107.65 |
+  | Фиолетовый | 2138.4 | 25.65 | 21995.55 |
+  | Фиолетовый +1 | 2613.6 | 31.35 | 26883.45 |
+  | Фиолетовый +2 | 3168.0 | 38.0 | 32586.0 |
+  | Фиолетовый +3 | 3722.4 | 44.65 | 38288.55 |
+  | Оранжевый | 4276.8 | 51.3 | 43991.1 |
+  | Оранжевый +1 | 4910.4 | 58.9 | 50508.3 |
+  | Оранжевый +2 | 5544.0 | 66.5 | 57025.5 |
+  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Оранжевый +4 | 6811.2 | 81.7 | 70059.9 |
+  | Orange +5 | 7761.6 | 93.1 | 79835.7 |
+  | Red | 9028.8 | 108.3 | 92870.1 |
 
- **Info1:** null
-
- **Info2:** null
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.57 | 3.09 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Осуждение
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Критический удар отряда
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - Критический удар отряда
 
 ## Awaking
 ### Awaking Details
@@ -87,19 +109,19 @@ toc: true
  **Description:** 
 
 ### 2nd Skill (or 1st): Возвращайся
- **Description:** <span style="color: #48b946;font-size:18px"><Порицание></span><span style="color: #645252;font-size:18px">: ОЗ отряда, у которого их осталось меньше всего, восстанавливаются на 15% от максимума</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Порицание&gt;</span><span style="color: #645252;font-size:18px">: ОЗ отряда, у которого их осталось меньше всего, восстанавливаются на 15% от максимума</span>
 
 ### 3rd Skill (or 4th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Воскрешение></span><span style="color: #645252;font-size:18px">: все союзные отряды получают иммунитет к урону на 6 сек. Ангел неуязвим к немоте</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: все союзные отряды получают иммунитет к урону на 6 сек. Ангел неуязвим к немоте</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Воскрешение></span><span style="color: #645252;font-size:18px">: здоровье всех союзных отрядов восстанавливается на 10% от максимума. Ангел неуязвим к немоте</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: здоровье всех союзных отрядов восстанавливается на 10% от максимума. Ангел неуязвим к немоте</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Сияние></span><span style="color: #645252;font-size:18px">: когда ангел находится на поле боя, все союзные отряды получают +35% к исцелению</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Сияние&gt;</span><span style="color: #645252;font-size:18px">: когда ангел находится на поле боя, все союзные отряды получают +35% к исцелению</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Сияние></span><span style="color: #645252;font-size:18px">: эффект усиливается на 150% от эффекта предыдущего умения. Сопротивление урону повышается на 10% для всех союзных отрядов.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Сияние&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается на 150% от эффекта предыдущего умения. Сопротивление урону повышается на 10% для всех союзных отрядов.</span>
 
 ## Technical info
  **runart:** 1

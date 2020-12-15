@@ -3,7 +3,7 @@ title: "Schwertkämpfer"
 permalink: /de/units/Swordsman/
 excerpt: "Einheiten Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Schwertkämpfer"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Göttlicher Schutz: Reduziert erlittenen Schaden.
 
+ **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+
+ **Info:** Verursacht früh im Spiel kolossalen Schaden. Verfügt über Doppelschlag und heilt sich.
+
+## Basic stats
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
 
- **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 27.3 | 13.25 | 993.0 |
+  | Blau | 54.6 | 26.5 | 1986.0 |
+  | Blau +1 | 81.9 | 39.75 | 2979.0 |
+  | Blau +2 | 114.66 | 55.65 | 4170.6 |
+  | Lila | 147.42 | 71.55 | 5362.2 |
+  | Lila +1 | 180.18 | 87.45 | 6553.8 |
+  | Lila +2 | 218.4 | 106.0 | 7944.0 |
+  | Lila +3 | 256.62 | 124.55 | 9334.2 |
+  | Orange | 294.84 | 143.1 | 10724.4 |
+  | Orange +1 | 338.52 | 164.3 | 12313.2 |
+  | Orange +2 | 382.2 | 185.5 | 13902.0 |
+  | Orange +3 | 425.88 | 206.7 | 15490.8 |
+  | Orange +4 | 469.56 | 227.9 | 17079.6 |
+  | Orange +5 | 535.08 | 259.7 | 19462.8 |
+  | Rot | 622.44 | 302.1 | 22640.4 |
 
- **Info1:** Verursacht früh im Spiel kolossalen Schaden. Verfügt über Doppelschlag und heilt sich.
-
- **Info2:** Verursacht früh im Spiel kolossalen Schaden. Verfügt über Doppelschlag und heilt sich.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 6.552 | 0.35 | 6.07 | 158.88 |
+  | **3x** <i class="fas fa-star"/> | 7.644 | 0.36 | 6.83 | 185.36 |
+  | **4x** <i class="fas fa-star"/> | 8.736 | 0.38 | 7.6 | 211.84 |
+  | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
+  | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
 ### 1 Skill: null
@@ -43,7 +68,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Schwertkämpfers steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> genießt.</span><span style="color: black">
 
 ### 3 Skill: Doppelschlag
- **Description:** <span style="color: #645252;font-size:20px">Der Schwertkämpfer hat bei Standardangriffen eine Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, das Ziel zweimal anzugreifen. Der zweite Angriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Beim Angriff auf </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit auf einen <Doppelschlag> auf 100 %.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Schwertkämpfer hat bei Standardangriffen eine Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, das Ziel zweimal anzugreifen. Der zweite Angriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Beim Angriff auf </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit auf einen &lt;Doppelschlag&gt; auf 100 %.</span><span style="color: black">
 
 ### 4 Skill: Erlösung
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Schwertkämpfers hat eine hohe Wahrscheinlichkeit, LP in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wiederherzustellen.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* Magieresistenz
 
-    - LP
-
-    - Abwehr
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Antimagischer Schild
- **Description:** <span style="color: #48b946;font-size:18px"><Göttlicher Schutz></span><span style="color: #645252;font-size:18px">Gewährt Schadensreduzierung gegen Magie.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Göttlicher Schutz&gt;</span><span style="color: #645252;font-size:18px">Gewährt Schadensreduzierung gegen Magie.</span>
 
 ### 2nd Skill (or 1st): Gesegneter Schutz
- **Description:** <span style="color: #48b946;font-size:18px"><Göttlicher Schutz></span><span style="color: #645252;font-size:18px">Die Effektdauer wird um 10 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Göttlicher Schutz&gt;</span><span style="color: #645252;font-size:18px">Die Effektdauer wird um 10 Sek. erhöht.</span>
 
 ### 3rd Skill (or 4th): Inspiration der Tapferen
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Immun gegen „Niedrige Moral“. Der Fähigkeiteneffekt erhöht sich auf 150 % des Effekts der vorherigen Fähigkeit.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Immun gegen „Niedrige Moral“. Der Fähigkeiteneffekt erhöht sich auf 150 % des Effekts der vorherigen Fähigkeit.</span>
 
 ### 4th Skill (or 3rd): Aufrüttelnde Rede
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich 10 Sek. lang um 10 %. Die Einheiten werden immun gegen „Niedrige Moral“ und erhalten „Hohe Moral“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich 10 Sek. lang um 10 %. Die Einheiten werden immun gegen „Niedrige Moral“ und erhalten „Hohe Moral“.</span>
 
 ### 5th Skill (or 6th): Licht der Erlösung
- **Description:** <span style="color: #48b946;font-size:18px"><Erlösung></span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 200 % der Grundregeneration der Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Erlösung&gt;</span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 200 % der Grundregeneration der Fähigkeit erhöht.</span>
 
 ### 6th Skill (or 5th): Ein mächtiges Herz
- **Description:** <span style="color: #48b946;font-size:18px"><Erlösung></span><span style="color: #645252;font-size:18px">Der Schwertkämpfer ist immun gegen „Stille“, „Betäubung“ und „Versteinerung“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Erlösung&gt;</span><span style="color: #645252;font-size:18px">Der Schwertkämpfer ist immun gegen „Stille“, „Betäubung“ und „Versteinerung“.</span>
 
 ## Technical info
  **runart:** 1

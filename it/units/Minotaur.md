@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /it/units/Minotaur/
 excerpt: "Unità Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Minotauro"
 toc: true
@@ -25,22 +25,47 @@ toc: true
 
  **Unit description:** Turbine: attacco ad area che riduce la Vel ATT.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Tank di supporto. La combinazione perfetta di attacco e difesa. Il <Sanguinamento> aumenta i DPS degli alleati.
+
+## Basic stats
  **Base HP:** 2725.0
 
  **Base ATK:** 108.0
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 54.0 | 13.75 | 2043.75 |
+  | Blu | 108.0 | 27.5 | 4087.5 |
+  | Blu +1 | 162.0 | 41.25 | 6131.25 |
+  | Blu +2 | 226.8 | 57.75 | 8583.75 |
+  | Viola | 291.6 | 74.25 | 11036.25 |
+  | Viola +1 | 356.4 | 90.75 | 13488.75 |
+  | Viola +2 | 432.0 | 110.0 | 16350.0 |
+  | Viola +3 | 507.6 | 129.25 | 19211.25 |
+  | Arancione | 583.2 | 148.5 | 22072.5 |
+  | Arancione +1 | 669.6 | 170.5 | 25342.5 |
+  | Arancione +2 | 756.0 | 192.5 | 28612.5 |
+  | Arancione +3 | 842.4 | 214.5 | 31882.5 |
+  | Arancione +4 | 928.8 | 236.5 | 35152.5 |
+  | Arancione +5 | 1058.4 | 269.5 | 40057.5 |
+  | Rosso | 1231.2 | 313.5 | 46597.5 |
 
- **Info1:** Tank di supporto. La combinazione perfetta di attacco e difesa. Il <Sanguinamento> aumenta i DPS degli alleati.
-
- **Info2:** Tank di supporto. La combinazione perfetta di attacco e difesa. Il <Sanguinamento> aumenta i DPS degli alleati.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.96 | 0.35 | 6.28 | 327.0 |
+  | **3x** <i class="fas fa-star"/> | 15.12 | 0.36 | 7.05 | 381.5 |
+  | **4x** <i class="fas fa-star"/> | 17.28 | 0.38 | 7.83 | 436.0 |
+  | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
+  | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
 ### 1 Skill: Turbine
  **Description:** <span style="color: #645252;font-size:20px">Il Minotauro infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali in un'ampia area e ne riduce la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi.</span><span style="color: black">
 
 ### 2 Skill: Ferocia avanzata
- **Description:** <span style="color: #645252;font-size:20px">ATT del Minotauro aumentato ulteriormente di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gli attacchi base infliggono <span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">ATT del Minotauro aumentato ulteriormente di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gli attacchi base infliggono <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### 3 Skill: Costituzione dello Spezzaincantesimi
  **Description:** <span style="color: #645252;font-size:20px">Il Minotauro gode di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Riduzione danno unità
 
-    - PF
-
-    - Difesa
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fendente iperattivo
- **Description:** <span style="color: #48b946;font-size:18px"><Turbine></span><span style="color: #645252;font-size:18px">: se il Minotauro gode di <Morale alto>, usa <Turbine> almeno una volta. <Turbine> infligge danni doppi e riduce la Rid DAN dell'unità del 10%. L'effetto dura 6 secondi ed è cumulabile fino a 3 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Turbine&gt;</span><span style="color: #645252;font-size:18px">: se il Minotauro gode di &lt;Morale alto&gt;, usa &lt;Turbine&gt; almeno una volta. &lt;Turbine&gt; infligge danni doppi e riduce la Rid DAN dell'unità del 10%. L'effetto dura 6 secondi ed è cumulabile fino a 3 volte.</span>
 
 ### 2nd Skill (or 1st): Fendente irrequieto
- **Description:** <span style="color: #48b946;font-size:18px"><Turbine></span><span style="color: #645252;font-size:18px">: se il Minotauro gode di <Morale alto>, usa <Turbine> almeno una volta. <Turbine> infligge danni doppi e colpisce tutte le unità nemiche in un'ampia area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Turbine&gt;</span><span style="color: #645252;font-size:18px">: se il Minotauro gode di &lt;Morale alto&gt;, usa &lt;Turbine&gt; almeno una volta. &lt;Turbine&gt; infligge danni doppi e colpisce tutte le unità nemiche in un'ampia area.</span>
 
 ### 3rd Skill (or 4th): Anima indomabile
- **Description:** <span style="color: #48b946;font-size:18px"><Costituzione dello Spezzaincantesimi></span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene <Morale alto> per 5 secondi e ripristina il 5% dei propri PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Costituzione dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene &lt;Morale alto&gt; per 5 secondi e ripristina il 5% dei propri PF massimi.</span>
 
 ### 4th Skill (or 3rd): Resistenza magica
- **Description:** <span style="color: #48b946;font-size:18px"><Costituzione dello Spezzaincantesimi></span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene <Morale alto> per 5 secondi e la sua Rid DAN aumenta del 10% fino al termine della battaglia. Cumulabile fino a 3 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Costituzione dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene &lt;Morale alto&gt; per 5 secondi e la sua Rid DAN aumenta del 10% fino al termine della battaglia. Cumulabile fino a 3 volte.</span>
 
 ### 5th Skill (or 6th): Volontà feroce
- **Description:** <span style="color: #48b946;font-size:18px"><Ferocia avanzata></span><span style="color: #645252;font-size:18px">: quando affronta unità affette da <Sanguinamento>, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da <Sanguinamento>, la sua Vel ATT aumenta del 20% per 6 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ferocia avanzata&gt;</span><span style="color: #645252;font-size:18px">: quando affronta unità affette da &lt;Sanguinamento&gt;, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da &lt;Sanguinamento&gt;, la sua Vel ATT aumenta del 20% per 6 secondi.</span>
 
 ### 6th Skill (or 5th): Ferocia sanguinaria
- **Description:** <span style="color: #48b946;font-size:18px"><Ferocia avanzata></span><span style="color: #645252;font-size:18px">: quando affronta unità affette da <Sanguinamento>, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da <Sanguinamento>, la sua Rid DAN aumenta del 20% per 6 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ferocia avanzata&gt;</span><span style="color: #645252;font-size:18px">: quando affronta unità affette da &lt;Sanguinamento&gt;, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da &lt;Sanguinamento&gt;, la sua Rid DAN aumenta del 20% per 6 secondi.</span>
 
 ## Technical info
  **runart:** 1

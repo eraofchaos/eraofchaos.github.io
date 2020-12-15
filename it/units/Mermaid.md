@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /it/units/Mermaid/
 excerpt: "Unità Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Sirena"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Guaritore eccezionale. Applica potenti buff a inizio battaglia.
+
+## Basic stats
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 92.5 | 3.5 | 1236.0 |
+  | Blu | 185.0 | 7.0 | 2472.0 |
+  | Blu +1 | 277.5 | 10.5 | 3708.0 |
+  | Blu +2 | 388.5 | 14.7 | 5191.2 |
+  | Viola | 499.5 | 18.9 | 6674.4 |
+  | Viola +1 | 610.5 | 23.1 | 8157.6 |
+  | Viola +2 | 740.0 | 28.0 | 9888.0 |
+  | Viola +3 | 869.5 | 32.9 | 11618.4 |
+  | Arancione | 999.0 | 37.8 | 13348.8 |
+  | Arancione +1 | 1147.0 | 43.4 | 15326.4 |
+  | Arancione +2 | 1295.0 | 49.0 | 17304.0 |
+  | Arancione +3 | 1443.0 | 54.6 | 19281.6 |
+  | Arancione +4 | 1591.0 | 60.2 | 21259.2 |
+  | Arancione +5 | 1813.0 | 68.6 | 24225.6 |
+  | Rosso | 2109.0 | 79.8 | 28180.8 |
 
- **Info1:** Guaritore eccezionale. Applica potenti buff a inizio battaglia.
-
- **Info2:** Guaritore eccezionale. Applica potenti buff a inizio battaglia.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 25.9 | 0.56 | 2.54 | 230.72 |
+  | **4x** <i class="fas fa-star"/> | 29.6 | 0.59 | 3.11 | 263.68 |
+  | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
+  | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
 ### 1 Skill: Accordo di Re
@@ -46,23 +70,21 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Canto ceruleo
- **Description:** <span style="color: #645252;font-size:20px">Guarigione della Sirena aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando la Sirena emette un <Accordo di Re>, rimuove tutti i debuff dall'unità alleata con la percentuale di PF minore.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Guarigione della Sirena aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando la Sirena emette un &lt;Accordo di Re&gt;, rimuove tutti i debuff dall'unità alleata con la percentuale di PF minore.</span><span style="color: black">
 
 ### 5 Skill: Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo <Stordimento>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### 6 Skill: Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Guarigione
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Guarigione
 
 ## Awaking
 ### Awaking Details

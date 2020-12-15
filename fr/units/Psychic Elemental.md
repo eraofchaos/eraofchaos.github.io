@@ -3,7 +3,7 @@ title: "Élémentaire de l'esprit"
 permalink: /fr/units/Psychic Elemental/
 excerpt: "Unités Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Élémentaire de l'esprit"
 toc: true
@@ -25,25 +25,49 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Dégâts à distance. Réduit le mana ennemi en mourant. Attaquant de base.
+
+## Basic stats
  **Base HP:** 1749.0
 
  **Base ATK:** 212.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 106.0 | 5.0 | 1311.75 |
+  | Bleu | 212.0 | 10.0 | 2623.5 |
+  | Bleu +1 | 318.0 | 15.0 | 3935.25 |
+  | Bleu +2 | 445.2 | 21.0 | 5509.35 |
+  | Violet | 572.4 | 27.0 | 7083.45 |
+  | Violet +1 | 699.6 | 33.0 | 8657.55 |
+  | Violet +2 | 848.0 | 40.0 | 10494.0 |
+  | Violet +3 | 996.4 | 47.0 | 12330.45 |
+  | Orange | 1144.8 | 54.0 | 14166.9 |
+  | Orange +1 | 1314.4 | 62.0 | 16265.7 |
+  | Orange +2 | 1484.0 | 70.0 | 18364.5 |
+  | Orange +3 | 1653.6 | 78.0 | 20463.3 |
+  | Orange +4 | 1823.2 | 86.0 | 22562.1 |
+  | Orange +5 | 2077.6 | 98.0 | 25710.3 |
+  | Rouge | 2416.8 | 114.0 | 29907.9 |
 
- **Info1:** Dégâts à distance. Réduit le mana ennemi en mourant. Attaquant de base.
-
- **Info2:** Dégâts à distance. Réduit le mana ennemi en mourant. Attaquant de base.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 29.68 | 0.55 | 3.2 | 244.86 |
+  | **4x** <i class="fas fa-star"/> | 33.92 | 0.58 | 3.8 | 279.84 |
+  | **5x** <i class="fas fa-star"/> | 38.16 | 0.6 | 4.4 | 314.82 |
+  | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
 ### 1 Skill: Décharge d'énergie
- **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de l'esprit est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Silence></span><span style="color: black"><span style="color: #645252;font-size:20px">. Chaque Élémentaire de l'esprit attaque 3 unités ennemies proches de la cible toutes les 4 secondes, infligeant une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de l'esprit est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Chaque Élémentaire de l'esprit attaque 3 unités ennemies proches de la cible toutes les 4 secondes, infligeant une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ.</span><span style="color: black">
 
 ### 2 Skill: Terre
- **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'Élémentaire de l'esprit augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La <Décharge d'énergie> de l'Élémentaire de l'esprit a 30 % de chance d'</span><span style="color: black"><span style="color: #48b946;font-size:20px"><étourdir></span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant 3 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'Élémentaire de l'esprit augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La &lt;Décharge d'énergie&gt; de l'Élémentaire de l'esprit a 30 % de chance d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant 3 secondes.</span><span style="color: black">
 
 ### 3 Skill: Feu
- **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de l'Élémentaire de l'esprit augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La <Décharge d'énergie> de l'Élémentaire de l'esprit a 30 % de chance de </span><span style="color: black"><span style="color: #48b946;font-size:20px"><brûler></span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant 6 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de l'Élémentaire de l'esprit augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La &lt;Décharge d'énergie&gt; de l'Élémentaire de l'esprit a 30 % de chance de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûler&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant 6 secondes.</span><span style="color: black">
 
 ### 4 Skill: Seigneur élémentaire
  **Description:** <span style="color: #645252;font-size:20px">La résistance magique de l'Élémentaire de l'esprit augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Élémentaire de l'esprit meurt, les points de mana des Héros ennemis sont réduits de 20.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* dégâts d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Concentration
- **Description:** <span style="color: #48b946;font-size:18px"><Décharge d'énergie> : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de 200 % par rapport à leur valeur de base.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Décharge d'énergie&gt; : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de 200 % par rapport à leur valeur de base.</span>
 
 ### 2nd Skill (or 1st): Divergence
- **Description:** <span style="color: #48b946;font-size:18px"><Décharge d'énergie> : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de 150 % par rapport à leur valeur de base. Portée étendue à l'ensemble des unités ennemies.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Décharge d'énergie&gt; : </span><span style="color: #645252;font-size:18px">Augmente les dégâts de 150 % par rapport à leur valeur de base. Portée étendue à l'ensemble des unités ennemies.</span>
 
 ### 3rd Skill (or 4th): Réaction de stress
- **Description:** <span style="color: #48b946;font-size:18px"><Terre> : </span><span style="color: #645252;font-size:18px">Inflige un <étourdissement> de zone.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Terre&gt; : </span><span style="color: #645252;font-size:18px">Inflige un &lt;étourdissement&gt; de zone.</span>
 
 ### 4th Skill (or 3rd): Traumatisme
- **Description:** <span style="color: #48b946;font-size:18px"><Danse tranchante> : </span><span style="color: #645252;font-size:18px">Double les dégâts de l'unité et prolonge la durée d'étourdissement à 4 secondes. Chance d'activation augmentée de 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Danse tranchante&gt; : </span><span style="color: #645252;font-size:18px">Double les dégâts de l'unité et prolonge la durée d'étourdissement à 4 secondes. Chance d'activation augmentée de 10 %.</span>
 
 ### 5th Skill (or 6th): Éclairs de réflexion
- **Description:** <span style="color: #48b946;font-size:18px"><Feu> : </span><span style="color: #645252;font-size:18px">Triple la résistance aux dégâts de l'unité et brûle tout un groupe d'ennemis. Chance d'activation augmentée de 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu&gt; : </span><span style="color: #645252;font-size:18px">Triple la résistance aux dégâts de l'unité et brûle tout un groupe d'ennemis. Chance d'activation augmentée de 10 %.</span>
 
 ### 6th Skill (or 5th): Embrasement
- **Description:** <span style="color: #48b946;font-size:18px"><Feu> : </span><span style="color: #645252;font-size:18px">Triple la résistance aux dégâts de l'unité et prolonge la durée de Brûlure à 12 secondes. Chance d'activation augmentée de 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu&gt; : </span><span style="color: #645252;font-size:18px">Triple la résistance aux dégâts de l'unité et prolonge la durée de Brûlure à 12 secondes. Chance d'activation augmentée de 10 %.</span>
 
 ## Technical info
  **runart:** 1

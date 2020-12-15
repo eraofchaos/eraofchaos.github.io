@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /it/units/Goblin/
 excerpt: "Unità I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Goblin"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Tempesta di guerra: infligge danni a 3 unità nemiche vicine.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Contrattacca di frequente. Infligge danni da mischia elevati. L'ATT cresce al diminuire dei PF.
+
+## Basic stats
  **Base HP:** 761.0
 
  **Base ATK:** 82.7
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 41.35 | 4.25 | 570.75 |
+  | Blu | 82.7 | 8.5 | 1141.5 |
+  | Blu +1 | 124.05 | 12.75 | 1712.25 |
+  | Blu +2 | 173.67 | 17.85 | 2397.15 |
+  | Viola | 223.29 | 22.95 | 3082.05 |
+  | Viola +1 | 272.91 | 28.05 | 3766.95 |
+  | Viola +2 | 330.8 | 34.0 | 4566.0 |
+  | Viola +3 | 388.69 | 39.95 | 5365.05 |
+  | Arancione | 446.58 | 45.9 | 6164.1 |
+  | Arancione +1 | 512.74 | 52.7 | 7077.3 |
+  | Arancione +2 | 578.9 | 59.5 | 7990.5 |
+  | Arancione +3 | 645.06 | 66.3 | 8903.7 |
+  | Arancione +4 | 711.22 | 73.1 | 9816.9 |
+  | Arancione +5 | 810.46 | 83.3 | 11186.7 |
+  | Rosso | 942.78 | 96.9 | 13013.1 |
 
- **Info1:** Contrattacca di frequente. Infligge danni da mischia elevati. L'ATT cresce al diminuire dei PF.
-
- **Info2:** Contrattacca di frequente. Infligge danni da mischia elevati. L'ATT cresce al diminuire dei PF.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.27 | 0.49 | 1.7 | 76.1 |
+  | **2x** <i class="fas fa-star"/> | 9.924 | 0.51 | 2.29 | 91.32 |
+  | **3x** <i class="fas fa-star"/> | 11.578 | 0.54 | 2.87 | 106.54 |
+  | **4x** <i class="fas fa-star"/> | 13.232 | 0.56 | 3.46 | 121.76 |
+  | **5x** <i class="fas fa-star"/> | 14.886 | 0.59 | 4.04 | 136.98 |
+  | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
 ## Skills
 ### 1 Skill: Tempesta di guerra
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Resistenza magica
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Mentalità del guerriero
- **Description:** <span style="color: #48b946;font-size:18px"><Tempesta di guerra> </span><span style="color: #645252;font-size:18px">: probabilità di attivare <Tempesta di guerra> raddoppiata.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tempesta di guerra&gt; </span><span style="color: #645252;font-size:18px">: probabilità di attivare &lt;Tempesta di guerra&gt; raddoppiata.</span>
 
 ### 2nd Skill (or 1st): Inerzia
- **Description:** <span style="color: #48b946;font-size:18px"><Tempesta di guerra></span><span style="color: #645252;font-size:18px">: <Tempesta di guerra> attiva una combo di attacchi (attiva <Tempesta di guerra> 2 volte).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tempesta di guerra&gt;</span><span style="color: #645252;font-size:18px">: &lt;Tempesta di guerra&gt; attiva una combo di attacchi (attiva &lt;Tempesta di guerra&gt; 2 volte).</span>
 
 ### 3rd Skill (or 4th): Tecnica impeccabile
- **Description:** <span style="color: #48b946;font-size:18px"><Colpo di grazia></span><span style="color: #645252;font-size:18px">: l'ATT dei Goblin aumenta di un ulteriore 150% quando affrontano bersagli con PF inferiori al 30%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Colpo di grazia&gt;</span><span style="color: #645252;font-size:18px">: l'ATT dei Goblin aumenta di un ulteriore 150% quando affrontano bersagli con PF inferiori al 30%.</span>
 
 ### 4th Skill (or 3rd): Contrattacco a mani nude
- **Description:** <span style="color: #48b946;font-size:18px"><Colpo di grazia></span><span style="color: #645252;font-size:20px">: il DAN dei Goblin aumenta del 30% quando affrontano bersagli con PF inferiori al 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Colpo di grazia&gt;</span><span style="color: #645252;font-size:20px">: il DAN dei Goblin aumenta del 30% quando affrontano bersagli con PF inferiori al 30%</span>
 
 ### 5th Skill (or 6th): Intensa sete di sangue
- **Description:** <span style="color: #48b946;font-size:18px"><Sete di sangue></span><span style="color: #645252;font-size:18px">: la rigenerazione dei PF aumenta del 5% quando infligge un colpo critico.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: la rigenerazione dei PF aumenta del 5% quando infligge un colpo critico.</span>
 
 ### 6th Skill (or 5th): Maglio insanguinato
- **Description:** <span style="color: #48b946;font-size:18px"><Sete di sangue></span><span style="color: #645252;font-size:18px">: ogni colpo critico aumenta la Vel ATT del 2% per 10 secondi. Cumulabile fino a 10 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: ogni colpo critico aumenta la Vel ATT del 2% per 10 secondi. Cumulabile fino a 10 volte.</span>
 
 ## Technical info
  **runart:** 1

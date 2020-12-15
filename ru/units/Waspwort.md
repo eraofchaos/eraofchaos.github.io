@@ -3,7 +3,7 @@ title: "Unknown_TEAM_808"
 permalink: /ru/units/Waspwort/
 excerpt: "Отряды Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ."
 unitID: 808
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Unknown_TEAM_808"
 toc: true
@@ -28,22 +28,46 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Высокий УВС и эффекты контроля. Вызывает монстров для уничтожения врага.
+
+## Basic stats
  **Base HP:** 5543.0
 
  **Base ATK:** 950.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 475.15 | 9.5 | 4157.25 |
+  | Синий | 950.3 | 19.0 | 8314.5 |
+  | Blue +1 | 1425.45 | 28.5 | 12471.75 |
+  | Синий +2 | 1995.63 | 39.9 | 17460.45 |
+  | Фиолетовый | 2565.81 | 51.3 | 22449.15 |
+  | Фиолетовый +1 | 3135.99 | 62.7 | 27437.85 |
+  | Фиолетовый +2 | 3801.2 | 76.0 | 33258.0 |
+  | Фиолетовый +3 | 4466.41 | 89.3 | 39078.15 |
+  | Оранжевый | 5131.62 | 102.6 | 44898.3 |
+  | Оранжевый +1 | 5891.86 | 117.8 | 51549.9 |
+  | Оранжевый +2 | 6652.1 | 133.0 | 58201.5 |
+  | Orange +3 | 7412.34 | 148.2 | 64853.1 |
+  | Оранжевый +4 | 8172.58 | 163.4 | 71504.7 |
+  | Orange +5 | 9312.94 | 186.2 | 81482.1 |
+  | Red | 10833.42 | 216.6 | 94785.3 |
 
- **Info1:** Высокий УВС и эффекты контроля. Вызывает монстров для уничтожения врага.
-
- **Info2:** Высокий УВС и эффекты контроля. Вызывает монстров для уничтожения врага.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 133.042 | 0.55 | 5.18 | 776.02 |
+  | **4x** <i class="fas fa-star"/> | 152.048 | 0.58 | 5.87 | 886.88 |
+  | **5x** <i class="fas fa-star"/> | 171.054 | 0.6 | 6.56 | 997.74 |
+  | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
 ## Skills
 ### 1 Skill: Чумная игла
  **Description:** 
 
 ### 2 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у росянок есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> призвать 1 моровую осу. Каждый призыв дает дополнительно 2% урона всем союзным отрядам Крепости. Эффект суммируется до 8 раз. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Во время атаки у росянок есть шанс 20% произвести </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Чумную осу></span><span style="color: black"><span style="color: #645252;font-size:20px"> и шанс 30% снять усиления цели. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #48b946;font-size:20px"><Чумная пчела></span><span style="color: black"><span style="color: #645252;font-size:20px"> вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">паралич</span><span style="color: black"><span style="color: #645252;font-size:20px"> или </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение цели</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Осы живут 40 сек. В случае гибели осы она наносит урон в размере 4% от максимума ОЗ вражеским отрядам в радиусе действия.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у росянок есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> призвать 1 моровую осу. Каждый призыв дает дополнительно 2% урона всем союзным отрядам Крепости. Эффект суммируется до 8 раз. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Во время атаки у росянок есть шанс 20% произвести </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Чумную осу&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и шанс 30% снять усиления цели. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">&lt;Чумная пчела&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">паралич</span><span style="color: black"><span style="color: #645252;font-size:20px"> или </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение цели</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Осы живут 40 сек. В случае гибели осы она наносит урон в размере 4% от максимума ОЗ вражеским отрядам в радиусе действия.</span><span style="color: black">
 
 ### 3 Skill: Усугубление чумы
  **Description:** 
@@ -59,13 +83,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* unit Damage
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -87,7 +109,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
  **Description:** 
@@ -102,7 +124,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 0

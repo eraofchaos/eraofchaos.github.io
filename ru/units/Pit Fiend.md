@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /ru/units/Pit Fiend/
 excerpt: "Отряды null"
 unitID: 505
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Порождение зла"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Огненный источник: постоянно излечивает союзные отряды на своем пути.
 
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+
+ **Info:** Обладает аурой, усиливающей исцеление. Основной отряд в Инферно.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 87.45 | 4.75 | 1387.5 |
+  | Синий | 174.9 | 9.5 | 2775.0 |
+  | Blue +1 | 262.35 | 14.25 | 4162.5 |
+  | Синий +2 | 367.29 | 19.95 | 5827.5 |
+  | Фиолетовый | 472.23 | 25.65 | 7492.5 |
+  | Фиолетовый +1 | 577.17 | 31.35 | 9157.5 |
+  | Фиолетовый +2 | 699.6 | 38.0 | 11100.0 |
+  | Фиолетовый +3 | 822.03 | 44.65 | 13042.5 |
+  | Оранжевый | 944.46 | 51.3 | 14985.0 |
+  | Оранжевый +1 | 1084.38 | 58.9 | 17205.0 |
+  | Оранжевый +2 | 1224.3 | 66.5 | 19425.0 |
+  | Orange +3 | 1364.22 | 74.1 | 21645.0 |
+  | Оранжевый +4 | 1504.14 | 81.7 | 23865.0 |
+  | Orange +5 | 1714.02 | 93.1 | 27195.0 |
+  | Red | 1993.86 | 108.3 | 31635.0 |
 
- **Info1:** Обладает аурой, усиливающей исцеление. Основной отряд в Инферно.
-
- **Info2:** Обладает аурой, усиливающей исцеление. Основной отряд в Инферно.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 20.988 | 0.53 | 2.5 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.55 | 3.09 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.58 | 3.69 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
 ### 1 Skill: Огненный источник
@@ -43,7 +68,7 @@ toc: true
  **Description:** 
 
 ### 3 Skill: Жар
- **Description:** <span style="color: #645252;font-size:20px"><Огненный источник> порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от <Огненного источника> повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">&lt;Огненный источник&gt; порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от &lt;Огненного источника&gt; повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">
 
 ### 4 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Когда порождения зла участвуют в бою, ваши бесы, демоны и элементали Огня получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+13)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к здоровью и атаке.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Исцеление
+* unit Damage
 
-    - ОЗ
-
-    - Исцеление
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Огненное купание
- **Description:** <span style="color: #48b946;font-size:18px"><Огненный источник></span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. ОЗ восстанавливаются для всех отрядов Инферно</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненный источник&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. ОЗ восстанавливаются для всех отрядов Инферно</span>
 
 ### 2nd Skill (or 1st): Крещение огнем
- **Description:** <span style="color: #48b946;font-size:18px"><Огненный источник></span><span style="color: #645252;font-size:18px">: длительность умения повышается до 12 сек. ОЗ восстанавливаются для всех отрядов Инферно</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненный источник&gt;</span><span style="color: #645252;font-size:18px">: длительность умения повышается до 12 сек. ОЗ восстанавливаются для всех отрядов Инферно</span>
 
 ### 3rd Skill (or 4th): Фанатичный слуга
- **Description:** <span style="color: #48b946;font-size:18px"><Призыв лорда></span><span style="color: #645252;font-size:18px">: призывает демона, увеличивая сопротивление отряда урону на 40%, а уклонение - на 800</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Призыв лорда&gt;</span><span style="color: #645252;font-size:18px">: призывает демона, увеличивая сопротивление отряда урону на 40%, а уклонение - на 800</span>
 
 ### 4th Skill (or 3rd): Дар любви
- **Description:** <span style="color: #48b946;font-size:18px"><Призыв лорда></span><span style="color: #645252;font-size:18px">: при поражении вражеского отряда порождение зла вызывает 4 демонов</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Призыв лорда&gt;</span><span style="color: #645252;font-size:18px">: при поражении вражеского отряда порождение зла вызывает 4 демонов</span>
 
 ### 5th Skill (or 6th): Восхищенный верующий
- **Description:** <span style="color: #48b946;font-size:18px"><Воля лорда></span><span style="color: #645252;font-size:18px">: сопротивление урону отряда и всех союзных отрядов Инферно повышается на 6% каждые 10 сек. После каждого поражения вражеского отряда эффект срабатывает 1 раз. Складывается до 5 раз</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воля лорда&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону отряда и всех союзных отрядов Инферно повышается на 6% каждые 10 сек. После каждого поражения вражеского отряда эффект срабатывает 1 раз. Складывается до 5 раз</span>
 
 ### 6th Skill (or 5th): Частный ритуал благословения
- **Description:** <span style="color: #48b946;font-size:18px"><Воля лорда></span><span style="color: #645252;font-size:18px">: сопротивление урону у союзных отрядов Инферно повышается на 20% на 20 секунд, а также они восстанавливают 10% ОЗ после поражения каждого вражеского отряда.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Воля лорда&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону у союзных отрядов Инферно повышается на 20% на 20 секунд, а также они восстанавливают 10% ОЗ после поражения каждого вражеского отряда.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Grifone"
 permalink: /it/units/Griffin/
 excerpt: "Unità I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Grifone"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Picchiata: infligge danni a 3 unità nemiche.
 
+ **Recommend:** Aumenta la velocità di movimento per rendere più efficiente il tuo esercito.
+
+ **Info:** Infligge danni istantanei a inizio battaglia. Contrattacca di frequente, infliggendo danni ad area.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** Aumenta la velocità di movimento per rendere più efficiente il tuo esercito.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 75.7 | 6.25 | 1387.5 |
+  | Blu | 151.4 | 12.5 | 2775.0 |
+  | Blu +1 | 227.1 | 18.75 | 4162.5 |
+  | Blu +2 | 317.94 | 26.25 | 5827.5 |
+  | Viola | 408.78 | 33.75 | 7492.5 |
+  | Viola +1 | 499.62 | 41.25 | 9157.5 |
+  | Viola +2 | 605.6 | 50.0 | 11100.0 |
+  | Viola +3 | 711.58 | 58.75 | 13042.5 |
+  | Arancione | 817.56 | 67.5 | 14985.0 |
+  | Arancione +1 | 938.68 | 77.5 | 17205.0 |
+  | Arancione +2 | 1059.8 | 87.5 | 19425.0 |
+  | Arancione +3 | 1180.92 | 97.5 | 21645.0 |
+  | Arancione +4 | 1302.04 | 107.5 | 23865.0 |
+  | Arancione +5 | 1483.72 | 122.5 | 27195.0 |
+  | Rosso | 1725.96 | 142.5 | 31635.0 |
 
- **Info1:** Infligge danni istantanei a inizio battaglia. Contrattacca di frequente, infliggendo danni ad area.
-
- **Info2:** Infligge danni istantanei a inizio battaglia. Contrattacca di frequente, infliggendo danni ad area.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.5 | 3.13 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.53 | 3.75 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.55 | 4.38 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
 ### 1 Skill: Contrattacco in picchiata
@@ -43,7 +68,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Se i Grifoni sono sul campo di battaglia, aumenta ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità volanti.</span><span style="color: black">
 
 ### 3 Skill: Carica gloriosa
- **Description:** <span style="color: #645252;font-size:20px">Quando i Grifoni hanno il </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale alto></span><span style="color: black"><span style="color: #645252;font-size:20px">, ottengono 30 Vel MOV extra, danni aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> CRIT per 15 sec.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando i Grifoni hanno il </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ottengono 30 Vel MOV extra, danni aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> CRIT per 15 sec.</span><span style="color: black">
 
 ### 4 Skill: Arcangelo
  **Description:** <span style="color: #645252;font-size:20px">PF del Grifone aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta i PF del Grifone del 10% per ogni unità volante alleata sul campo di battaglia.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Danno unità
+* Riduzione danno unità
 
-    - PF
-
-    - Danno unità
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

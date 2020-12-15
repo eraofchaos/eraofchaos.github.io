@@ -3,7 +3,7 @@ title: "Zyklop"
 permalink: /de/units/Cyclops/
 excerpt: "Einheiten Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Zyklop"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Flammenstein: Fügt allen gegnerischen Einheiten vor sich katastrophalen Schaden zu.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Verfügt über starken Flächenschaden. Gut für die Verteidigung kleinerer Einheiten.
+
+## Basic stats
  **Base HP:** 5091.0
 
  **Base ATK:** 678.8
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 339.4 | 6.25 | 3818.25 |
+  | Blau | 678.8 | 12.5 | 7636.5 |
+  | Blau +1 | 1018.2 | 18.75 | 11454.75 |
+  | Blau +2 | 1425.48 | 26.25 | 16036.65 |
+  | Lila | 1832.76 | 33.75 | 20618.55 |
+  | Lila +1 | 2240.04 | 41.25 | 25200.45 |
+  | Lila +2 | 2715.2 | 50.0 | 30546.0 |
+  | Lila +3 | 3190.36 | 58.75 | 35891.55 |
+  | Orange | 3665.52 | 67.5 | 41237.1 |
+  | Orange +1 | 4208.56 | 77.5 | 47346.3 |
+  | Orange +2 | 4751.6 | 87.5 | 53455.5 |
+  | Orange +3 | 5294.64 | 97.5 | 59564.7 |
+  | Orange +4 | 5837.68 | 107.5 | 65673.9 |
+  | Orange +5 | 6652.24 | 122.5 | 74837.7 |
+  | Rot | 7738.32 | 142.5 | 87056.1 |
 
- **Info1:** Verfügt über starken Flächenschaden. Gut für die Verteidigung kleinerer Einheiten.
-
- **Info2:** Verfügt über starken Flächenschaden. Gut für die Verteidigung kleinerer Einheiten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 81.456 | 0.53 | 3.13 | 610.92 |
+  | **3x** <i class="fas fa-star"/> | 95.032 | 0.55 | 3.75 | 712.74 |
+  | **4x** <i class="fas fa-star"/> | 108.608 | 0.58 | 4.38 | 814.56 |
+  | **5x** <i class="fas fa-star"/> | 122.184 | 0.6 | 5.0 | 916.38 |
+  | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
 ### 1 Skill: Flammenstein
@@ -43,7 +68,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Der Zyklop erhält einen Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf Schaden und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf Angriffstempo; wenn seine LP unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden. Wenn der Zyklop eine 9-Mann-Einheit angreift, fügt sein Standardangriff 3 gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden zu.</span><span style="color: black">
 
 ### 3 Skill: Erderschütterer
- **Description:** <span style="color: #645252;font-size:20px">Der Zyklop fügt mit einer gewissen Wahrscheinlichkeit gegnerischen Einheiten in großem Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px"><betäubt></span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang, wenn er angegriffen wird.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Zyklop fügt mit einer gewissen Wahrscheinlichkeit gegnerischen Einheiten in großem Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang, wenn er angegriffen wird.</span><span style="color: black">
 
 ### 4 Skill: Gigant
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Zyklopen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Schaden, der ihm durch 9-Mann-Einheiten zugefügt wird, wird reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 0

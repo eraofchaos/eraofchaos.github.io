@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /it/units/Revyaratan/
 excerpt: "Unità Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Leviatano"
 toc: true
@@ -25,44 +25,66 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Attacco a più fasi, danno istantaneo elevato, DPS elevati.
+
+ **Info:** Infligge danni ingenti costantemente, applica <Impedimento> e si nutre di cadaveri per recuperare PF.
+
+## Basic stats
  **Base HP:** 7128.0
 
  **Base ATK:** 1267.1
 
- **Recommend:** Attacco a più fasi, danno istantaneo elevato, DPS elevati.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 633.55 | 12.375 | 5346.0 |
+  | Blu | 1267.1 | 24.75 | 10692.0 |
+  | Blu +1 | 1900.65 | 37.125 | 16038.0 |
+  | Blu +2 | 2660.91 | 51.975 | 22453.2 |
+  | Viola | 3421.17 | 66.825 | 28868.4 |
+  | Viola +1 | 4181.43 | 81.675 | 35283.6 |
+  | Viola +2 | 5068.4 | 99.0 | 42768.0 |
+  | Viola +3 | 5955.37 | 116.325 | 50252.4 |
+  | Arancione | 6842.34 | 133.65 | 57736.8 |
+  | Arancione +1 | 7856.02 | 153.45 | 66290.4 |
+  | Arancione +2 | 8869.7 | 173.25 | 74844.0 |
+  | Arancione +3 | 9883.38 | 193.05 | 83397.6 |
+  | Arancione +4 | 10897.06 | 212.85 | 91951.2 |
+  | Arancione +5 | 12417.58 | 242.55 | 104781.6 |
+  | Rosso | 14444.94 | 282.15 | 121888.8 |
 
- **Info1:** Infligge danni ingenti costantemente, applica <Impedimento> e si nutre di cadaveri per recuperare PF.
-
- **Info2:** Infligge danni ingenti costantemente, applica <Impedimento> e si nutre di cadaveri per recuperare PF.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 177.394 | 0.36 | 6.45 | 997.92 |
+  | **4x** <i class="fas fa-star"/> | 202.736 | 0.38 | 7.19 | 1140.48 |
+  | **5x** <i class="fas fa-star"/> | 228.078 | 0.4 | 7.94 | 1283.04 |
+  | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
 
 ## Skills
 ### 1 Skill: Mandibola feroce
- **Description:** <span style="color: #645252;font-size:20px">Infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ogni 10 secondi, e causa <Impedimento> alle unità nemiche nella stessa fila per 4 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ogni 10 secondi, e causa &lt;Impedimento&gt; alle unità nemiche nella stessa fila per 4 secondi.</span><span style="color: black">
 
 ### 2 Skill: Pinna congelata
- **Description:** <span style="color: #645252;font-size:20px">Immune a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Congelamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Blocco temporale></span><span style="color: black"><span style="color: #645252;font-size:20px"> e ai danni degli incantesimi di tipo Acqua. Per ogni unità Baia schierata, aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando il Leviatano scende in campo, tutte le unità alleate godono di DAN, Vel ATT e DAN CRIT aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto aumenta di un ulteriore 2,5% per le unità Baia.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Immune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Congelamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e ai danni degli incantesimi di tipo Acqua. Per ogni unità Baia schierata, aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando il Leviatano scende in campo, tutte le unità alleate godono di DAN, Vel ATT e DAN CRIT aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto aumenta di un ulteriore 2,5% per le unità Baia.</span><span style="color: black">
 
 ### 3 Skill: Brama d'ossa
- **Description:** <span style="color: #645252;font-size:20px">Aumenta il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Marchia 2 unità nemiche all'inizio della battaglia. Le unità marchiate hanno Vel ATT, DAN CRIT e Rid DAN ridotte (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Inoltre, queste unità non possono essere rianimate dalle tecniche dell'Angelo dopo la prima morte. <Mandibola feroce> ha una probabilità del 30% di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi dell'unità.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Aumenta il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Marchia 2 unità nemiche all'inizio della battaglia. Le unità marchiate hanno Vel ATT, DAN CRIT e Rid DAN ridotte (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Inoltre, queste unità non possono essere rianimate dalle tecniche dell'Angelo dopo la prima morte. &lt;Mandibola feroce&gt; ha una probabilità del 30% di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi dell'unità.</span><span style="color: black">
 
 ### 4 Skill: Correnti inalterabili
  **Description:** <span style="color: #645252;font-size:20px">Quando un'unità Baia alleata subisce danni superiori al 20% dei propri PF massimi, scatena la furia di un Mostro marino, che aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità Baia alleate per 25 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### 5 Skill: Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo <Stordimento>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### 6 Skill: Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Colpo critico unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Colpo critico unità
 
 ## Awaking
 ### Awaking Details

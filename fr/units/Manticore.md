@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /fr/units/Manticore/
 excerpt: "Unités Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Manticore"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** Soutien d'assaut. Augmente les DPS alliés et affaiblit les défenses ennemies.
+
+## Basic stats
  **Base HP:** 1917.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 87.45 | 5.75 | 1437.75 |
+  | Bleu | 174.9 | 11.5 | 2875.5 |
+  | Bleu +1 | 262.35 | 17.25 | 4313.25 |
+  | Bleu +2 | 367.29 | 24.15 | 6038.55 |
+  | Violet | 472.23 | 31.05 | 7763.85 |
+  | Violet +1 | 577.17 | 37.95 | 9489.15 |
+  | Violet +2 | 699.6 | 46.0 | 11502.0 |
+  | Violet +3 | 822.03 | 54.05 | 13514.85 |
+  | Orange | 944.46 | 62.1 | 15527.7 |
+  | Orange +1 | 1084.38 | 71.3 | 17828.1 |
+  | Orange +2 | 1224.3 | 80.5 | 20128.5 |
+  | Orange +3 | 1364.22 | 89.7 | 22428.9 |
+  | Orange +4 | 1504.14 | 98.9 | 24729.3 |
+  | Orange +5 | 1714.02 | 112.7 | 28179.9 |
+  | Rouge | 1993.86 | 131.1 | 32780.7 |
 
- **Info1:** Soutien d'assaut. Augmente les DPS alliés et affaiblit les défenses ennemies.
-
- **Info2:** Soutien d'assaut. Augmente les DPS alliés et affaiblit les défenses ennemies.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.51 | 3.53 | 268.38 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.53 | 4.15 | 306.72 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.55 | 4.76 | 345.06 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
 ### 1 Skill: Venin paralysant
@@ -46,7 +70,7 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Giclée de sang empoisonnée
- **Description:** <span style="color: #645252;font-size:20px">Quand une cible meurt, la DÉF de toutes les unités ennemies diminue de 30 % et elles souffrent de <span style="color: #48b946;font-size:20px"><Silence></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. Ne peut se déclencher qu'une seule fois par bataille.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand une cible meurt, la DÉF de toutes les unités ennemies diminue de 30 % et elles souffrent de <span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. Ne peut se déclencher qu'une seule fois par bataille.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* dégâts d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Rupture de formation
- **Description:** <span style="color: #48b946;font-size:18px"><Choix tactique> : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %, réduit la ténacité des unités de mêlée de 60 et leur DÉF de 2 %. Cet effet dure 6 secondes et peut se cumuler jusqu'à 5 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Choix tactique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %, réduit la ténacité des unités de mêlée de 60 et leur DÉF de 2 %. Cet effet dure 6 secondes et peut se cumuler jusqu'à 5 fois.</span>
 
 ### 2nd Skill (or 1st): Stratégie d'assaut
- **Description:** <span style="color: #48b946;font-size:18px"><Choix tactique> : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %. De plus, les dégâts et dégâts critiques augmentent de 4 % supplémentaires face à des unités à distance/Lanceurs de sorts. Cet effet dure 6 secondes, et peut se cumuler jusqu'à 5 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Choix tactique&gt; : </span><span style="color: #645252;font-size:18px">Augmente les chances de déclencher une attaque normale de 50 %. De plus, les dégâts et dégâts critiques augmentent de 4 % supplémentaires face à des unités à distance/Lanceurs de sorts. Cet effet dure 6 secondes, et peut se cumuler jusqu'à 5 fois.</span>
 
 ### 3rd Skill (or 4th): Cri de déroute
- **Description:** <span style="color: #48b946;font-size:18px"><Hurlement du briseur de sort> : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, les soins des unités défensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'eau, la vitesse d'ATQ des unités à distance ennemies diminue de 20 %. Lorsqu'un ennemi lance un sort de feu, les dégâts infligés par les unités offensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'air, les Lanceurs de sorts ennemis subissent <Silence> pendant 1,5 seconde.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurlement du briseur de sort&gt; : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, les soins des unités défensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'eau, la vitesse d'ATQ des unités à distance ennemies diminue de 20 %. Lorsqu'un ennemi lance un sort de feu, les dégâts infligés par les unités offensives ennemies diminuent de 20 %. Lorsqu'un ennemi lance un sort d'air, les Lanceurs de sorts ennemis subissent &lt;Silence&gt; pendant 1,5 seconde.</span>
 
 ### 4th Skill (or 3rd): Puissance du briseur de sort
- **Description:** <span style="color: #48b946;font-size:18px"><Hurlement du briseur de sort> : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, vos soins et ceux des unités défensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'eau, votre vitesse d'ATQ et celle des unités à distance alliées augmente de 15 %. Lorsqu'un ennemi lance un sort de feu, vos dégâts et ceux des unités offensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'air, vous et tous les lanceurs de sorts alliés êtes immunisés contre <Silence> pendant 2 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Hurlement du briseur de sort&gt; : </span><span style="color: #645252;font-size:18px">Lorsqu'un ennemi lance un sort de terre, vos soins et ceux des unités défensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'eau, votre vitesse d'ATQ et celle des unités à distance alliées augmente de 15 %. Lorsqu'un ennemi lance un sort de feu, vos dégâts et ceux des unités offensives alliées augmentent de 15 %. Lorsqu'un ennemi lance un sort d'air, vous et tous les lanceurs de sorts alliés êtes immunisés contre &lt;Silence&gt; pendant 2 secondes.</span>
 
 ### 5th Skill (or 6th): Sang empoisonné pénétrant
- **Description:** <span style="color: #48b946;font-size:18px"><Giclée de sang empoisonnée> : </span><span style="color: #645252;font-size:18px">S'active quand la cible est tuée, et peut être déclenchée jusqu'à 3 fois. Son effet est garanti toutes les 30 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giclée de sang empoisonnée&gt; : </span><span style="color: #645252;font-size:18px">S'active quand la cible est tuée, et peut être déclenchée jusqu'à 3 fois. Son effet est garanti toutes les 30 secondes.</span>
 
 ### 6th Skill (or 5th): Salive venimeuse
- **Description:** <span style="color: #48b946;font-size:18px"><Giclée de sang empoisonnée> : </span><span style="color: #645252;font-size:18px">Réduit la DÉF de 50 %, et peut être déclenché jusqu'à 3 fois lorsqu'une unité est éliminée. Peut être déclenché une fois supplémentaire après 15 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giclée de sang empoisonnée&gt; : </span><span style="color: #645252;font-size:18px">Réduit la DÉF de 50 %, et peut être déclenché jusqu'à 3 fois lorsqu'une unité est éliminée. Peut être déclenché une fois supplémentaire après 15 secondes.</span>
 
 ## Technical info
  **runart:** 1

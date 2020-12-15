@@ -3,7 +3,7 @@ title: "Richterin"
 permalink: /de/units/Judicator/
 excerpt: "Einheiten Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Richterin"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Gruppenaura, die LP wiederherstellt und gegen Schaden schützt. Heiliger Boden verstärkt deine Verbündeten.
+
+## Basic stats
  **Base HP:** 6109.4
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 282.85 | 15.0 | 4582.05 |
+  | Blau | 565.7 | 30.0 | 9164.1 |
+  | Blau +1 | 848.55 | 45.0 | 13746.15 |
+  | Blau +2 | 1187.97 | 63.0 | 19244.61 |
+  | Lila | 1527.39 | 81.0 | 24743.07 |
+  | Lila +1 | 1866.81 | 99.0 | 30241.53 |
+  | Lila +2 | 2262.8 | 120.0 | 36656.4 |
+  | Lila +3 | 2658.79 | 141.0 | 43071.27 |
+  | Orange | 3054.78 | 162.0 | 49486.14 |
+  | Orange +1 | 3507.34 | 186.0 | 56817.42 |
+  | Orange +2 | 3959.9 | 210.0 | 64148.7 |
+  | Orange +3 | 4412.46 | 234.0 | 71479.98 |
+  | Orange +4 | 4865.02 | 258.0 | 78811.26 |
+  | Orange +5 | 5543.86 | 294.0 | 89808.18 |
+  | Rot | 6448.98 | 342.0 | 104470.74 |
 
- **Info1:** Gruppenaura, die LP wiederherstellt und gegen Schaden schützt. Heiliger Boden verstärkt deine Verbündeten.
-
- **Info2:** Gruppenaura, die LP wiederherstellt und gegen Schaden schützt. Heiliger Boden verstärkt deine Verbündeten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.44 | 7.6 | 855.316 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.46 | 8.4 | 977.504 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
 ### 1 Skill: Strahl des Gerichts
@@ -46,7 +70,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Sobald sie das Schlachtfeld betritt, wirkt die Richterin 10 Sek. lang <span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"> auf alle verbündeten Einheiten. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Die Richterin wirkt alle <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> Sek. für 10 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle Verbündeten in ihrem Weg.</span><span style="color: black">
 
 ### 3 Skill: Segen des Lichts
- **Description:** <span style="color: #645252;font-size:20px">Wenn die LP einer verbündeten Einheit zum ersten Mal unter 25 % fallen, wirkt die Richterin <span style="color: #48b946;font-size:20px"><Schutz des Lichts></span><span style="color: black">, um ihre Gefährten <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> Sek. lang zu beschützen. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gegen Inferno-Einheiten erhält die Richterin zusätzliche 30 % SCHD (Einheit) und 50 % SCHD-Reduzierung (Einheit).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn die LP einer verbündeten Einheit zum ersten Mal unter 25 % fallen, wirkt die Richterin <span style="color: #48b946;font-size:20px">&lt;Schutz des Lichts&gt;</span><span style="color: black">, um ihre Gefährten <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> Sek. lang zu beschützen. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gegen Inferno-Einheiten erhält die Richterin zusätzliche 30 % SCHD (Einheit) und 50 % SCHD-Reduzierung (Einheit).</span><span style="color: black">
 
 ### 4 Skill: null
  **Description:** 
@@ -58,17 +82,15 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 7 Skill: Schein der Theokratie
- **Description:** <span style="color: #645252;font-size:20px">Wenn sich 3 Schloss-Einheiten auf dem Schlachtfeld befinden, erhöht die Richterin ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren eigenen Wert für Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn die Richterin den Status <span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"> hat, kann sie eine <span style="color: #F0F000;font-size:20px"><Theokratische Domäne></span><span style="color: black"> enthüllen, deren Wirkungsbereich mit der Einheitenstufe steigt. Die Domäne besteht 15 Sek, lang. AKZ: 30 Sek.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn sich 3 Schloss-Einheiten auf dem Schlachtfeld befinden, erhöht die Richterin ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren eigenen Wert für Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn die Richterin den Status <span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"> hat, kann sie eine <span style="color: #F0F000;font-size:20px">&lt;Theokratische Domäne&gt;</span><span style="color: black"> enthüllen, deren Wirkungsbereich mit der Einheitenstufe steigt. Die Domäne besteht 15 Sek, lang. AKZ: 30 Sek.</span><span style="color: black">
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Heilung
+* Schaden (Einheit)
 
-    - LP
-
-    - Heilung
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Furchtlose Hinrichtung
- **Description:** <span style="color: #48b946;font-size:18px"><Verstärkung der Tapferen></span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Für jeden Heiligtumaufseher auf dem Schlachtfeld wird die ABW des Obersten Paladins um 15 % erhöht. Bei den ersten drei Beschwörungen werden 10 % LP wiederhergestellt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung der Tapferen&gt;</span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Für jeden Heiligtumaufseher auf dem Schlachtfeld wird die ABW des Obersten Paladins um 15 % erhöht. Bei den ersten drei Beschwörungen werden 10 % LP wiederhergestellt.</span>
 
 ### 2nd Skill (or 1st): Ruhm des Heiligtums
- **Description:** <span style="color: #48b946;font-size:18px"><Verstärkung der Tapferen></span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Bei den ersten drei Beschwörungen werden Schaden und Schadensreduzierung deiner Einheiten 30 Sek. lang um 10 % erhöht. Der Oberste Paladin beschwört einen Heiligtumaufseher, wenn er das Schlachtfeld betritt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung der Tapferen&gt;</span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Bei den ersten drei Beschwörungen werden Schaden und Schadensreduzierung deiner Einheiten 30 Sek. lang um 10 % erhöht. Der Oberste Paladin beschwört einen Heiligtumaufseher, wenn er das Schlachtfeld betritt.</span>
 
 ### 3rd Skill (or 4th): Treue und Glaube
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Paladins wird um 22 % erhöht. Dieser Effekt wird von „Hohe Moral“ nicht beeinflusst.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Paladins wird um 22 % erhöht. Dieser Effekt wird von „Hohe Moral“ nicht beeinflusst.</span>
 
 ### 4th Skill (or 3rd): Unbeugsamer Wille
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:20px">Die Schadensreduzierung des Paladins wird zusätzlich um 15 % erhöht</span><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit </span><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: #645252;font-size:20px"> hat.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:20px">Die Schadensreduzierung des Paladins wird zusätzlich um 15 % erhöht</span><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit </span><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: #645252;font-size:20px"> hat.</span>
 
 ### 5th Skill (or 6th): Hartnäckigkeit
- **Description:** <span style="color: #48b946;font-size:18px"><Ansporn></span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht Kritischer Schaden um 50 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ansporn&gt;</span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht Kritischer Schaden um 50 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
 
 ### 6th Skill (or 5th): Behände Riposte
- **Description:** <span style="color: #48b946;font-size:18px"><Ansporn></span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht für alle Einheiten in Reichweite Schaden um 15 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ansporn&gt;</span><span style="color: #645252;font-size:18px"> wirkt auf alle verbündeten Einheiten. Erhöht für alle Einheiten in Reichweite Schaden um 15 % und Zähigkeit um 150. Die Dauer von „Hohe Moral“ wird um 10 Sek. erhöht.</span>
 
 ## Technical info
  **runart:** 0

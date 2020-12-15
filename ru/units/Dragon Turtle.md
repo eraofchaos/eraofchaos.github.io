@@ -3,7 +3,7 @@ title: "Панцирный дракон"
 permalink: /ru/units/Dragon Turtle/
 excerpt: "Отряды У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Панцирный дракон"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Сильный танк, прикрывает от урона союзные отряды.
+
+ **Info:** Могущественный защитник. После смерти восстанавливает ОЗ.
+
+## Basic stats
  **Base HP:** 12000.0
 
  **Base ATK:** 362.0
 
- **Recommend:** Сильный танк, прикрывает от урона союзные отряды.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 181.0 | 17.0 | 7350.0 |
+  | Синий | 362.0 | 34.0 | 14700.0 |
+  | Blue +1 | 543.0 | 51.0 | 22050.0 |
+  | Синий +2 | 760.2 | 71.4 | 30870.0 |
+  | Фиолетовый | 977.4 | 91.8 | 39690.0 |
+  | Фиолетовый +1 | 1194.6 | 112.2 | 48510.0 |
+  | Фиолетовый +2 | 1448.0 | 136.0 | 58800.0 |
+  | Фиолетовый +3 | 1701.4 | 159.8 | 69090.0 |
+  | Оранжевый | 1954.8 | 183.6 | 79380.0 |
+  | Оранжевый +1 | 2244.4 | 210.8 | 91140.0 |
+  | Оранжевый +2 | 2534.0 | 238.0 | 102900.0 |
+  | Orange +3 | 2823.6 | 265.2 | 114660.0 |
+  | Оранжевый +4 | 3113.2 | 292.4 | 126420.0 |
+  | Orange +5 | 3547.6 | 333.2 | 144060.0 |
+  | Red | 4126.8 | 387.6 | 167580.0 |
 
- **Info1:** Могущественный защитник. После смерти восстанавливает ОЗ.
-
- **Info2:** Могущественный защитник. После смерти восстанавливает ОЗ.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 50.68 | 0.33 | 8.48 | 1372.0 |
+  | **4x** <i class="fas fa-star"/> | 57.92 | 0.35 | 9.32 | 1568.0 |
+  | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
+  | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
 ### 1 Skill: Стремительный перекат
@@ -43,7 +67,7 @@ toc: true
  **Description:** 
 
 ### 3 Skill: Оплот прилива
- **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования <Бронированного щита> в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования &lt;Бронированного щита&gt; в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
 
 ### 4 Skill: Подкрепление
  **Description:** <span style="color: #645252;font-size:20px">Панцирные драконы создают щит подкрепления, повышая сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> для себя и всех союзных отрядов Убежища каждые 20 сек. Эффект длится 8 сек. и не может быть рассеян.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Защита
+* unit DMG Reduction
 
-    - ОЗ
-
-    - Защита
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details

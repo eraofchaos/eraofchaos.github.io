@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /es/units/Beholder/
 excerpt: "Unidades Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Observador"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Control mental: Inmoviliza a enemigos y hace que pierdan PV de forma prolongada.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Capacidad de apertura increíble. Debilita a los enemigos al principio para alcanzar la victoria con mayor facilidad.
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 57.9 | 3.75 | 558.0 |
+  | Azul | 115.8 | 7.5 | 1116.0 |
+  | Azul +1 | 173.7 | 11.25 | 1674.0 |
+  | Azul +2 | 243.18 | 15.75 | 2343.6 |
+  | Violeta | 312.66 | 20.25 | 3013.2 |
+  | Violeta +1 | 382.14 | 24.75 | 3682.8 |
+  | Violeta +2 | 463.2 | 30.0 | 4464.0 |
+  | Violeta +3 | 544.26 | 35.25 | 5245.2 |
+  | Naranja | 625.32 | 40.5 | 6026.4 |
+  | Naranja +1 | 717.96 | 46.5 | 6919.2 |
+  | Naranja +2 | 810.6 | 52.5 | 7812.0 |
+  | Naranja +3 | 903.24 | 58.5 | 8704.8 |
+  | Naranja +4 | 995.88 | 64.5 | 9597.6 |
+  | Naranja +5 | 1134.84 | 73.5 | 10936.8 |
+  | Rojo | 1320.12 | 85.5 | 12722.4 |
 
- **Info1:** Capacidad de apertura increíble. Debilita a los enemigos al principio para alcanzar la victoria con mayor facilidad.
-
- **Info2:** Capacidad de apertura increíble. Debilita a los enemigos al principio para alcanzar la victoria con mayor facilidad.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.212 | 0.45 | 2.65 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 18.528 | 0.47 | 3.23 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
 ### 1 Skill: Control mental
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Daño de la unidad
+* Resistencia mágica
 
-    - PV
-
-    - Daño de la unidad
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Golpe de maná
- **Description:** <span style="color: #48b946;font-size:18px"><Leadership></span><span style="color: #645252;font-size:18px">El Observador abre 4 ojos más. Cierra 2 de ellos al matar a 1 unidad objetivo. Como máximo, cerrará 6 ojos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">El Observador abre 4 ojos más. Cierra 2 de ellos al matar a 1 unidad objetivo. Como máximo, cerrará 6 ojos</span>
 
 ### 2nd Skill (or 1st): Dentro del abismo
- **Description:** <span style="color: #48b946;font-size:18px"><Spell penetration></span><span style="color: #645252;font-size:18px">Cada ojo de la muerte otorga un 3% de daño de unidad y un 3% de reducción de daño de la unidad para las unidades amistosas de Mazmorra. El efecto se duplica para el Observador</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell penetration&gt;</span><span style="color: #645252;font-size:18px">Cada ojo de la muerte otorga un 3% de daño de unidad y un 3% de reducción de daño de la unidad para las unidades amistosas de Mazmorra. El efecto se duplica para el Observador</span>
 
 ### 3rd Skill (or 4th): Fracaso de hechicería
- **Description:** <span style="color: #48b946;font-size:18px"><Debility></span><span style="color: #645252;font-size:18px">La velocidad de regeneración de maná de los Héroes hostiles se reduce en 1 por cada unidad hostil que muera. El efecto se puede activar 2 veces</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Debility&gt;</span><span style="color: #645252;font-size:18px">La velocidad de regeneración de maná de los Héroes hostiles se reduce en 1 por cada unidad hostil que muera. El efecto se puede activar 2 veces</span>
 
 ### 4th Skill (or 3rd): Saqueo de hechicería
- **Description:** <span style="color: #48b946;font-size:18px"><Debility></span><span style="color: #645252;font-size:18px">El maná de los Héroes hostiles se reduce en 10 por cada unidad hostil que muera</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Debility&gt;</span><span style="color: #645252;font-size:18px">El maná de los Héroes hostiles se reduce en 10 por cada unidad hostil que muera</span>
 
 ### 5th Skill (or 6th): Escudo de rompehechizos
- **Description:** <span style="color: #48b946;font-size:18px"><Gather Energy></span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior. Aumenta la reducción de daño de la unidad un 10%. Aumenta la resistencia mágica y la reducción de daño de la unidad para el Observador un 10% cuando un Héroe hostil lance un hechizo</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gather Energy&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior. Aumenta la reducción de daño de la unidad un 10%. Aumenta la resistencia mágica y la reducción de daño de la unidad para el Observador un 10% cuando un Héroe hostil lance un hechizo</span>
 
 ### 6th Skill (or 5th): Resonancia de exorcismo
- **Description:** <span style="color: #48b946;font-size:18px"><Reunir energía></span><span style="color: #645252;font-size:18px">El efecto de habilidad aumenta al 150%. La ventaja de <Reunir energía> afecta a todas las unidades amistosas. Aumenta la resistencia mágica y la reducción de daño de la unidad un 10% para el Observador cuando un Héroe hostil lance un hechizo</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Reunir energía&gt;</span><span style="color: #645252;font-size:18px">El efecto de habilidad aumenta al 150%. La ventaja de &lt;Reunir energía&gt; afecta a todas las unidades amistosas. Aumenta la resistencia mágica y la reducción de daño de la unidad un 10% para el Observador cuando un Héroe hostil lance un hechizo</span>
 
 ## Technical info
  **runart:** 0

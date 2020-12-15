@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /es/units/Bone Dragon/
 excerpt: "Unidades Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Dragón de Hueso"
 toc: true
@@ -25,44 +25,66 @@ toc: true
 
  **Unit description:** Miedo: reduce la defensa de los enemigos mucho y causa moral baja.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Reduce la Defensa de todos los enemigos en el campo de batalla. Puede romper la línea de defensa del enemigo de forma efectiva.
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 758.0
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 379.0 | 4.5 | 4327.5 |
+  | Azul | 758.0 | 9.0 | 8655.0 |
+  | Azul +1 | 1137.0 | 13.5 | 12982.5 |
+  | Azul +2 | 1591.8 | 18.9 | 18175.5 |
+  | Violeta | 2046.6 | 24.3 | 23368.5 |
+  | Violeta +1 | 2501.4 | 29.7 | 28561.5 |
+  | Violeta +2 | 3032.0 | 36.0 | 34620.0 |
+  | Violeta +3 | 3562.6 | 42.3 | 40678.5 |
+  | Naranja | 4093.2 | 48.6 | 46737.0 |
+  | Naranja +1 | 4699.6 | 55.8 | 53661.0 |
+  | Naranja +2 | 5306.0 | 63.0 | 60585.0 |
+  | Naranja +3 | 5912.4 | 70.2 | 67509.0 |
+  | Naranja +4 | 6518.8 | 77.4 | 74433.0 |
+  | Naranja +5 | 7428.4 | 88.2 | 84819.0 |
+  | Rojo | 8641.2 | 102.6 | 98667.0 |
 
- **Info1:** Reduce la Defensa de todos los enemigos en el campo de batalla. Puede romper la línea de defensa del enemigo de forma efectiva.
-
- **Info2:** Reduce la Defensa de todos los enemigos en el campo de batalla. Puede romper la línea de defensa del enemigo de forma efectiva.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 106.12 | 0.56 | 2.98 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 121.28 | 0.59 | 3.57 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
 ### 1 Skill: Miedo
  **Description:** <span style="color: #645252;font-size:20px">El Dragón de Hueso inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral baja» </span><span style="color: black"><span style="color: #645252;font-size:20px">a las unidades hostiles en una zona grande cada </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s y disminuye la reducción de daño de las unidades un 20% durante 10 s.</span><span style="color: black">
 
 ### 2 Skill: Giro aplastante
- **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Dragón de Hueso tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo, y lo </span><span style="color: black"><span style="color: #48b946;font-size:20px"><silencian></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Dragón de Hueso tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo, y lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencian&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
 ### 3 Skill: Penetración
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la penetración de defensa del Dragón de Hueso en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a unidades hostiles con </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Moral baja></span><span style="color: black"><span style="color: #645252;font-size:20px">, la bonificación se duplica.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Aumenta la penetración de defensa del Dragón de Hueso en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a unidades hostiles con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, la bonificación se duplica.</span><span style="color: black">
 
 ### 4 Skill: Envejecimiento
  **Description:** <span style="color: #645252;font-size:20px">Si hay un Dragón de Hueso en el campo de batalla, la reducción de daño de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con <Moral baja>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### 6 Skill: Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Golpe crítico de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Golpe crítico de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Miedo></span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de la unidad objetivo un 20% adicional</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Miedo&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de la unidad objetivo un 20% adicional</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px"><Fear></span><span style="color: #645252;font-size:18px">Disminuye un 10% más la reducción de daño de las unidades hostiles en una zona grande</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fear&gt;</span><span style="color: #645252;font-size:18px">Disminuye un 10% más la reducción de daño de las unidades hostiles en una zona grande</span>
 
 ### 3rd Skill (or 4th): Golpe debilitante
- **Description:** <span style="color: #48b946;font-size:18px"><Giro aplastante></span><span style="color: #645252;font-size:18px">Disminuye la DEF un 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giro aplastante&gt;</span><span style="color: #645252;font-size:18px">Disminuye la DEF un 30%</span>
 
 ### 4th Skill (or 3rd): Prohibición oscura
- **Description:** <span style="color: #48b946;font-size:18px"><Giro aplastante></span><span style="color: #645252;font-size:18px">El alcance de <Silence> se amplia para cubrir a todas las unidades hostiles a cierta distancia</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giro aplastante&gt;</span><span style="color: #645252;font-size:18px">El alcance de &lt;Silence&gt; se amplia para cubrir a todas las unidades hostiles a cierta distancia</span>
 
 ### 5th Skill (or 6th): Abrazo fantasmal
- **Description:** <span style="color: #48b946;font-size:18px"><Ageing></span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ageing&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 6th Skill (or 5th): Maldición de envejecimiento
- **Description:** <span style="color: #48b946;font-size:18px"><Ageing></span><span style="color: #645252;font-size:18px">Las unidades hostiles a cierta distancia y alrededor del Dragón de Hueso recibirán daño que aumenta hasta el 200% del daño de la habilidad anterior</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ageing&gt;</span><span style="color: #645252;font-size:18px">Las unidades hostiles a cierta distancia y alrededor del Dragón de Hueso recibirán daño que aumenta hasta el 200% del daño de la habilidad anterior</span>
 
 ## Technical info
  **runart:** 1

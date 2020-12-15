@@ -3,7 +3,7 @@ title: "Drago verde"
 permalink: /it/units/Green Dragon/
 excerpt: "Unità I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili."
 unitID: 207
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Drago verde"
 toc: true
@@ -25,44 +25,66 @@ toc: true
 
  **Unit description:** Rinforzi dal cielo: infligge danni ingenti a 3 unità nelle retrovie nemiche.
 
+ **Recommend:** La magia dell'Acqua applica <Sanguinamento> ai nemici, infliggendo danni extra.
+
+ **Info:** Attacca le retrovie, infliggendo danni di tipo Acqua in un'ampia area.
+
+## Basic stats
  **Base HP:** 4525.0
 
  **Base ATK:** 1018.2
 
- **Recommend:** La magia dell'Acqua applica <Sanguinamento> ai nemici, infliggendo danni extra.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 509.1 | 4.5 | 3393.75 |
+  | Blu | 1018.2 | 9.0 | 6787.5 |
+  | Blu +1 | 1527.3 | 13.5 | 10181.25 |
+  | Blu +2 | 2138.22 | 18.9 | 14253.75 |
+  | Viola | 2749.14 | 24.3 | 18326.25 |
+  | Viola +1 | 3360.06 | 29.7 | 22398.75 |
+  | Viola +2 | 4072.8 | 36.0 | 27150.0 |
+  | Viola +3 | 4785.54 | 42.3 | 31901.25 |
+  | Arancione | 5498.28 | 48.6 | 36652.5 |
+  | Arancione +1 | 6312.84 | 55.8 | 42082.5 |
+  | Arancione +2 | 7127.4 | 63.0 | 47512.5 |
+  | Arancione +3 | 7941.96 | 70.2 | 52942.5 |
+  | Arancione +4 | 8756.52 | 77.4 | 58372.5 |
+  | Arancione +5 | 9978.36 | 88.2 | 66517.5 |
+  | Rosso | 11607.48 | 102.6 | 77377.5 |
 
- **Info1:** Attacca le retrovie, infliggendo danni di tipo Acqua in un'ampia area.
-
- **Info2:** Attacca le retrovie, infliggendo danni di tipo Acqua in un'ampia area.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 142.548 | 0.44 | 2.98 | 633.5 |
+  | **4x** <i class="fas fa-star"/> | 162.912 | 0.46 | 3.57 | 724.0 |
+  | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
+  | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
 ## Skills
 ### 1 Skill: Torrente di veleno
- **Description:** <span style="color: #645252;font-size:20px">Il Drago verde soffia veleno in un'ampia area di fronte a sé ogni 30 secondi, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche non volanti. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Drago verde soffia veleno in un'ampia area di fronte a sé ogni 30 secondi, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche non volanti. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 50%.</span><span style="color: black">
 
 ### 2 Skill: Soffio velenoso
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danno ad area a 3 bersagli.</span><span style="color: black">
 
 ### 3 Skill: Squama di Drago verde
- **Description:** <span style="color: #645252;font-size:20px">Il Drago verde è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> e aumenta la Rid DAN degli incantesimi dell'Acqua di tutte le unità alleate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se un Drago verde ottiene uno <scudo>, la sua Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 15 secondi. Il DAN del Drago verde aumenta del 3% per ogni unità volante in campo.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Drago verde è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e aumenta la Rid DAN degli incantesimi dell'Acqua di tutte le unità alleate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se un Drago verde ottiene uno &lt;scudo&gt;, la sua Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 15 secondi. Il DAN del Drago verde aumenta del 3% per ogni unità volante in campo.</span><span style="color: black">
 
 ### 4 Skill: Rinforzi volanti
- **Description:** <span style="color: #645252;font-size:20px">Il Drago verde infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nelle retrovie nemiche. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Drago verde infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nelle retrovie nemiche. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
 ### 5 Skill: Proliferazione pacifica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di <Stordimento> e <Pietrificazione> inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Marchio dell'odio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da <Rallentamento> o <Sanguinamento>, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Colpo critico unità
+* Danno unità
 
-    - PF
-
-    - Colpo critico unità
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Veleno spettrale
- **Description:** <span style="color: #48b946;font-size:18px"><Torrente di veleno></span><span style="color: #645252;font-size:18px">: viene lanciato ogni 20 secondi. Riduce del 30% la guarigione delle unità nemiche colpite da <Torrente di veleno>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Torrente di veleno&gt;</span><span style="color: #645252;font-size:18px">: viene lanciato ogni 20 secondi. Riduce del 30% la guarigione delle unità nemiche colpite da &lt;Torrente di veleno&gt;.</span>
 
 ### 2nd Skill (or 1st): Epidemia di malaria
- **Description:** <span style="color: #48b946;font-size:18px"><Torrente di veleno></span><span style="color: #645252;font-size:18px">: danno aumentato al 200% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Torrente di veleno&gt;</span><span style="color: #645252;font-size:18px">: danno aumentato al 200% del valore della tecnica originale.</span>
 
 ### 3rd Skill (or 4th): Squama anti-magia
- **Description:** <span style="color: #48b946;font-size:18px"><Squama di Drago verde></span><span style="color: #645252;font-size:18px">: aumenta la resistenza magica anziché la resistenza al danno da Acqua. Per i primi 30 secondi dallo schieramento del Drago d'oro, le unità Baluardo e Dungeon alleate godono di Rid DAN aumentata del 20% e sono immuni al <Sanguinamento>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Squama di Drago verde&gt;</span><span style="color: #645252;font-size:18px">: aumenta la resistenza magica anziché la resistenza al danno da Acqua. Per i primi 30 secondi dallo schieramento del Drago d'oro, le unità Baluardo e Dungeon alleate godono di Rid DAN aumentata del 20% e sono immuni al &lt;Sanguinamento&gt;.</span>
 
 ### 4th Skill (or 3rd): Vento naturale
- **Description:** <span style="color: #48b946;font-size:18px"><Squama di Drago verde></span><span style="color: #645252;font-size:18px">: la riduzione del danno da Acqua viene convertita in resistenza magica. Inoltre, la Vel ATT aumenta del 50% rispetto al valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Squama di Drago verde&gt;</span><span style="color: #645252;font-size:18px">: la riduzione del danno da Acqua viene convertita in resistenza magica. Inoltre, la Vel ATT aumenta del 50% rispetto al valore della tecnica originale.</span>
 
 ### 5th Skill (or 6th): Furia del cielo
- **Description:** <span style="color: #48b946;font-size:18px"><Rinforzi volanti></span><span style="color: #645252;font-size:18px">: lancia <Rinforzi volanti>, infliggendo danni ai nemici e riducendone del 30% la guarigione per 30 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi volanti&gt;</span><span style="color: #645252;font-size:18px">: lancia &lt;Rinforzi volanti&gt;, infliggendo danni ai nemici e riducendone del 30% la guarigione per 30 secondi.</span>
 
 ### 6th Skill (or 5th): Cure della Ninfa
- **Description:** <span style="color: #48b946;font-size:18px"><Rinforzi volanti></span><span style="color: #645252;font-size:18px">: genera uno <scudo> che protegge tutte le unità alleate, assorbendo danni pari al 10% dei PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi volanti&gt;</span><span style="color: #645252;font-size:18px">: genera uno &lt;scudo&gt; che protegge tutte le unità alleate, assorbendo danni pari al 10% dei PF massimi.</span>
 
 ## Technical info
  **runart:** 0

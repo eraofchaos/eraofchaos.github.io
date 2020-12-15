@@ -3,7 +3,7 @@ title: "Ange"
 permalink: /fr/units/Angel/
 excerpt: "Unités Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Ange"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** Condamnation : inflige des dégâts colossaux à 3 unités ennemies et les étourdit.
 
+ **Recommend:** Augmentez votre moral pour profiter des avantages de l'exaltation, dont des points de déplacement supplémentaires pour les unités concernées.
+
+ **Info:** Ranime des troupes abattues, restaure entièrement la santé d'une unité et inflige de lourds dégâts.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Augmentez votre moral pour profiter des avantages de l'exaltation, dont des points de déplacement supplémentaires pour les unités concernées.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 396.0 | 4.75 | 4073.25 |
+  | Bleu | 792.0 | 9.5 | 8146.5 |
+  | Bleu +1 | 1188.0 | 14.25 | 12219.75 |
+  | Bleu +2 | 1663.2 | 19.95 | 17107.65 |
+  | Violet | 2138.4 | 25.65 | 21995.55 |
+  | Violet +1 | 2613.6 | 31.35 | 26883.45 |
+  | Violet +2 | 3168.0 | 38.0 | 32586.0 |
+  | Violet +3 | 3722.4 | 44.65 | 38288.55 |
+  | Orange | 4276.8 | 51.3 | 43991.1 |
+  | Orange +1 | 4910.4 | 58.9 | 50508.3 |
+  | Orange +2 | 5544.0 | 66.5 | 57025.5 |
+  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Orange +4 | 6811.2 | 81.7 | 70059.9 |
+  | Orange +5 | 7761.6 | 93.1 | 79835.7 |
+  | Rouge | 9028.8 | 108.3 | 92870.1 |
 
- **Info1:** Ranime des troupes abattues, restaure entièrement la santé d'une unité et inflige de lourds dégâts.
-
- **Info2:** Ranime des troupes abattues, restaure entièrement la santé d'une unité et inflige de lourds dégâts.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.57 | 3.09 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Condamnation
- **Description:** <span style="color: #645252;font-size:20px">Les Anges infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies au hasard et les </span><span style="color: black"><span style="color: #48b946;font-size:20px"><étourdit></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les Anges infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies au hasard et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
 ### 2 Skill: Résurrection
  **Description:** <span style="color: #645252;font-size:20px">L'Ange ressuscite une de vos unités et lui rend </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Coup critique d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Coup critique d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Trinité
- **Description:** <span style="color: #48b946;font-size:18px"><Condamnation> : </span><span style="color: #645252;font-size:18px">Augmente de 10 % la résistance aux dégâts de 3 unités alliées aléatoires, pour toute la bataille.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Condamnation&gt; : </span><span style="color: #645252;font-size:18px">Augmente de 10 % la résistance aux dégâts de 3 unités alliées aléatoires, pour toute la bataille.</span>
 
 ### 2nd Skill (or 1st): Répétition
- **Description:** <span style="color: #48b946;font-size:18px"><Condamnation> : </span><span style="color: #645252;font-size:18px">Restaure 15 % des PV max de l'unité ayant le pourcentage de PV le plus bas.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Condamnation&gt; : </span><span style="color: #645252;font-size:18px">Restaure 15 % des PV max de l'unité ayant le pourcentage de PV le plus bas.</span>
 
 ### 3rd Skill (or 4th): Salut
- **Description:** <span style="color: #48b946;font-size:18px"><Résurrection> : </span><span style="color: #645252;font-size:18px">Immunise les unités alliées contre tous les dégâts pendant 6 secondes. Les Anges sont immunisés contre le <Silence>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Résurrection&gt; : </span><span style="color: #645252;font-size:18px">Immunise les unités alliées contre tous les dégâts pendant 6 secondes. Les Anges sont immunisés contre le &lt;Silence&gt;.</span>
 
 ### 4th Skill (or 3rd): Immersion
- **Description:** <span style="color: #48b946;font-size:18px"><Résurrection> : </span><span style="color: #645252;font-size:18px">Restaure 10 % des PV max de toutes les unités alliées. Les Anges sont immunisés contre <Silence>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Résurrection&gt; : </span><span style="color: #645252;font-size:18px">Restaure 10 % des PV max de toutes les unités alliées. Les Anges sont immunisés contre &lt;Silence&gt;.</span>
 
 ### 5th Skill (or 6th): Parole d'évangile
- **Description:** <span style="color: #48b946;font-size:18px"><Radiance> : </span><span style="color: #645252;font-size:18px">Augmente les soins de 35 % pour toutes les unités alliées quand l'Ange est sur le champ de bataille.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Radiance&gt; : </span><span style="color: #645252;font-size:18px">Augmente les soins de 35 % pour toutes les unités alliées quand l'Ange est sur le champ de bataille.</span>
 
 ### 6th Skill (or 5th): Ordination
- **Description:** <span style="color: #48b946;font-size:18px"><Radiance> : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente. Augmente la résistance aux dégâts de 10 % pour toutes les unités alliées.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Radiance&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente. Augmente la résistance aux dégâts de 10 % pour toutes les unités alliées.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Мумия"
 permalink: /ru/units/Mummy/
 excerpt: "Отряды Нежить, что спит в своем древнем мавзолее. Любой, кто потревожит их покой, будет проклят."
 unitID: 308
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Мумия"
 toc: true
@@ -25,22 +25,46 @@ toc: true
 
  **Unit description:** Гнилостное проклятие: сильно затрудняет лечение противника.
 
+ **Recommend:** null
+
+ **Info:** Носитель болезней. Снижает эффективность исцеления отрядов врага.
+
+## Basic stats
  **Base HP:** 2691.0
 
  **Base ATK:** 141.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 70.5 | 12.5 | 2018.25 |
+  | Синий | 141.0 | 25.0 | 4036.5 |
+  | Blue +1 | 211.5 | 37.5 | 6054.75 |
+  | Синий +2 | 296.1 | 52.5 | 8476.65 |
+  | Фиолетовый | 380.7 | 67.5 | 10898.55 |
+  | Фиолетовый +1 | 465.3 | 82.5 | 13320.45 |
+  | Фиолетовый +2 | 564.0 | 100.0 | 16146.0 |
+  | Фиолетовый +3 | 662.7 | 117.5 | 18971.55 |
+  | Оранжевый | 761.4 | 135.0 | 21797.1 |
+  | Оранжевый +1 | 874.2 | 155.0 | 25026.3 |
+  | Оранжевый +2 | 987.0 | 175.0 | 28255.5 |
+  | Orange +3 | 1099.8 | 195.0 | 31484.7 |
+  | Оранжевый +4 | 1212.6 | 215.0 | 34713.9 |
+  | Orange +5 | 1381.8 | 245.0 | 39557.7 |
+  | Red | 1607.4 | 285.0 | 46016.1 |
 
- **Info1:** Носитель болезней. Снижает эффективность исцеления отрядов врага.
-
- **Info2:** Носитель болезней. Снижает эффективность исцеления отрядов врага.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 19.74 | 0.33 | 6.5 | 376.74 |
+  | **4x** <i class="fas fa-star"/> | 22.56 | 0.35 | 7.25 | 430.56 |
+  | **5x** <i class="fas fa-star"/> | 25.38 | 0.36 | 8.0 | 484.38 |
+  | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
 ## Skills
 ### 1 Skill: Гнилостное проклятие
  **Description:** <span style="color: #645252;font-size:20px">Мумии наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона окружающим вражеским отрядам в определенном радиусе каждые 20 сек. и поражают их </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезнью</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 12 сек.</span><span style="color: black">
 
 ### 2 Skill: Покров
- **Description:** <span style="color: #645252;font-size:20px"><Гнилостное проклятие> восстанавливает ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума, и повышает сопротивление отряда урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">&lt;Гнилостное проклятие&gt; восстанавливает ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума, и повышает сопротивление отряда урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
 ### 3 Skill: Источник болезни
  **Description:** <span style="color: #645252;font-size:20px">У мумий иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">. Мумии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Когда мумии на поле боя, все эффекты исцеления, полученные врагами, снижаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Защита
+* unit DMG Reduction
 
-    - ОЗ
-
-    - Защита
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Проклятие распада
- **Description:** <span style="color: #48b946;font-size:18px"><Гнилостное проклятие></span><span style="color: #645252;font-size:18px">: может срабатывать раз в 18 сек. Урон умения повышается до 150% от урона предыдущего умения. Болезнь снижает дальнейшее сопротивление всех вражеских отрядов урону на 10%. Добавочный эффект удваивается, если цель из Бастиона. Зона действия <Гнилостного проклятья> значительно расширяется</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Гнилостное проклятие&gt;</span><span style="color: #645252;font-size:18px">: может срабатывать раз в 18 сек. Урон умения повышается до 150% от урона предыдущего умения. Болезнь снижает дальнейшее сопротивление всех вражеских отрядов урону на 10%. Добавочный эффект удваивается, если цель из Бастиона. Зона действия &lt;Гнилостного проклятья&gt; значительно расширяется</span>
 
 ### 2nd Skill (or 1st): Воля смерти
- **Description:** <span style="color: #48b946;font-size:18px"><Гнилостное проклятие></span><span style="color: #645252;font-size:18px">: может срабатывать раз в 18 сек. Урон умения повышается до 150% от урона предыдущего умения. Болезнь снижает урон вражеских отрядов на 10%. Этот эффект не может быть рассеян. Зона действия <Гнилостного проклятья> значительно расширяется</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Гнилостное проклятие&gt;</span><span style="color: #645252;font-size:18px">: может срабатывать раз в 18 сек. Урон умения повышается до 150% от урона предыдущего умения. Болезнь снижает урон вражеских отрядов на 10%. Этот эффект не может быть рассеян. Зона действия &lt;Гнилостного проклятья&gt; значительно расширяется</span>
 
 ### 3rd Skill (or 4th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Покров></span><span style="color: #645252;font-size:18px">: мумия получает +20% к сопротивлению урону. Эффект длится 5 сек. Сопротивление еще одного союзного отряда в определенной области повышается на 20%, а его ОЗ восстанавливаются на 5% от максимума</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Покров&gt;</span><span style="color: #645252;font-size:18px">: мумия получает +20% к сопротивлению урону. Эффект длится 5 сек. Сопротивление еще одного союзного отряда в определенной области повышается на 20%, а его ОЗ восстанавливаются на 5% от максимума</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Покров></span><span style="color: #645252;font-size:18px">: мумия получает +20% к сопротивлению урону. Эффект <Покрова> длится 5 сек. Все союзные отряды Некрополя получают +20% к сопротивлению урону и восстанавливают 5% от своего максимума ОЗ</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Покров&gt;</span><span style="color: #645252;font-size:18px">: мумия получает +20% к сопротивлению урону. Эффект &lt;Покрова&gt; длится 5 сек. Все союзные отряды Некрополя получают +20% к сопротивлению урону и восстанавливают 5% от своего максимума ОЗ</span>
 
 ### 5th Skill (or 6th): Болезнь: мутация
- **Description:** <span style="color: #48b946;font-size:18px"><Источник болезни></span><span style="color: #645252;font-size:18px">: враги получают -20% к исцелению. Эффект действует на все вражеские отряды</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Источник болезни&gt;</span><span style="color: #645252;font-size:18px">: враги получают -20% к исцелению. Эффект действует на все вражеские отряды</span>
 
 ### 6th Skill (or 5th): Болезнь: инфекция
- **Description:** <span style="color: #48b946;font-size:18px"><Источник болезни></span><span style="color: #645252;font-size:18px">: все враги получают -10% к сопротивлению урону</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Источник болезни&gt;</span><span style="color: #645252;font-size:18px">: все враги получают -10% к сопротивлению урону</span>
 
 ## Technical info
  **runart:** 1

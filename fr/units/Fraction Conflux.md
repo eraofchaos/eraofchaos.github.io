@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Conflux -  Units"
 permalink: /fr/units/Fraction Conflux/
 excerpt: "Fraction Conflux - List of Units in Era of Chaos"
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Fraction Conflux"
 toc: false

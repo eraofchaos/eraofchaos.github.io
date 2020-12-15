@@ -3,7 +3,7 @@ title: "Harpyie"
 permalink: /de/units/Harpy/
 excerpt: "Einheiten Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Harpyie"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Scharfe Kralle der Verzauberin: Fügt mit gewisser Wahrscheinlichkeit mehreren Gegnern Schaden zu.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Mächtiger DPS. Setzt Bodeneinheiten unter Druck und bietet Verbündeten Angriffsmöglichkeiten.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 37.0 | 6.75 | 645.0 |
+  | Blau | 74.0 | 13.5 | 1290.0 |
+  | Blau +1 | 111.0 | 20.25 | 1935.0 |
+  | Blau +2 | 155.4 | 28.35 | 2709.0 |
+  | Lila | 199.8 | 36.45 | 3483.0 |
+  | Lila +1 | 244.2 | 44.55 | 4257.0 |
+  | Lila +2 | 296.0 | 54.0 | 5160.0 |
+  | Lila +3 | 347.8 | 63.45 | 6063.0 |
+  | Orange | 399.6 | 72.9 | 6966.0 |
+  | Orange +1 | 458.8 | 83.7 | 7998.0 |
+  | Orange +2 | 518.0 | 94.5 | 9030.0 |
+  | Orange +3 | 577.2 | 105.3 | 10062.0 |
+  | Orange +4 | 636.4 | 116.1 | 11094.0 |
+  | Orange +5 | 725.2 | 132.3 | 12642.0 |
+  | Rot | 843.6 | 153.9 | 14706.0 |
 
- **Info1:** Mächtiger DPS. Setzt Bodeneinheiten unter Druck und bietet Verbündeten Angriffsmöglichkeiten.
-
- **Info2:** Mächtiger DPS. Setzt Bodeneinheiten unter Druck und bietet Verbündeten Angriffsmöglichkeiten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 8.88 | 0.53 | 3.34 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.36 | 0.55 | 3.97 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.84 | 0.58 | 4.61 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
 ### 1 Skill: Scharfe Harpyienkralle
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Magieresistenz
 
-    - LP
-
-    - Angriffstempo
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 1

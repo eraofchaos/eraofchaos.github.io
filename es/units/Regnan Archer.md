@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /es/units/Regnan Archer/
 excerpt: "Unidades Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Arquera Regnan"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Golpe crítico y penetración. Segador de batalla
+
+## Basic stats
  **Base HP:** 1245.0
 
  **Base ATK:** 235.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 117.75 | 5.0 | 933.75 |
+  | Azul | 235.5 | 10.0 | 1867.5 |
+  | Azul +1 | 353.25 | 15.0 | 2801.25 |
+  | Azul +2 | 494.55 | 21.0 | 3921.75 |
+  | Violeta | 635.85 | 27.0 | 5042.25 |
+  | Violeta +1 | 777.15 | 33.0 | 6162.75 |
+  | Violeta +2 | 942.0 | 40.0 | 7470.0 |
+  | Violeta +3 | 1106.85 | 47.0 | 8777.25 |
+  | Naranja | 1271.7 | 54.0 | 10084.5 |
+  | Naranja +1 | 1460.1 | 62.0 | 11578.5 |
+  | Naranja +2 | 1648.5 | 70.0 | 13072.5 |
+  | Naranja +3 | 1836.9 | 78.0 | 14566.5 |
+  | Naranja +4 | 2025.3 | 86.0 | 16060.5 |
+  | Naranja +5 | 2307.9 | 98.0 | 18301.5 |
+  | Rojo | 2684.7 | 114.0 | 21289.5 |
 
- **Info1:** Golpe crítico y penetración. Segador de batalla
-
- **Info2:** Golpe crítico y penetración. Segador de batalla
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 32.97 | 0.61 | 3.2 | 174.3 |
+  | **4x** <i class="fas fa-star"/> | 37.68 | 0.63 | 3.8 | 199.2 |
+  | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
+  | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
 ### 1 Skill: Flecha letal
@@ -43,26 +67,24 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se derrota a una unidad en el campo de batalla. El efecto se acumula 4 veces. Aumenta la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y asegura impactar con un golpe crítico cuando los PV están por debajo del 30%. El efecto dura 7 s y solo se puede activar una vez.</span><span style="color: black">
 
 ### 3 Skill: Ballesta gigante de la marea
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Arqueras Regnan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Al principio de la batalla, inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ y daño adicional igual al 25% de los PV máximos a 2 unidades aleatorias y las </span><span style="color: black"><span style="color: #48b946;font-size:20px"><slowing></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 8 s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Arqueras Regnan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Al principio de la batalla, inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ y daño adicional igual al 25% de los PV máximos a 2 unidades aleatorias y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slowing&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 8 s.</span><span style="color: black">
 
 ### 4 Skill: Apoyo de tiradores
  **Description:** <span style="color: #645252;font-size:20px">Ataca a la unidad hostil con el porcentaje de PV más bajo e inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño y reduce la DEF del objetivo un 30%.</span><span style="color: black">
 
 ### 5 Skill: Cuerpo calmado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a <stun> cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
 ### 6 Skill: Conflicto pirata
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Daño de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details

@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /it/units/Behemoth/
 excerpt: "Unità I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Behemoth"
 toc: true
@@ -25,22 +25,46 @@ toc: true
 
  **Unit description:** Ruggito selvaggio: riduce notevolmente l'ATT del nemico e causa <Stordimento>.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** L'unità di difesa definitiva. Ideale per proteggere le unità più vulnerabili e controllare i gruppi di unità.
+
+## Basic stats
  **Base HP:** 10182.0
 
  **Base ATK:** 407.3
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 203.65 | 15.0 | 7636.5 |
+  | Blu | 407.3 | 30.0 | 15273.0 |
+  | Blu +1 | 610.95 | 45.0 | 22909.5 |
+  | Blu +2 | 855.33 | 63.0 | 32073.3 |
+  | Viola | 1099.71 | 81.0 | 41237.1 |
+  | Viola +1 | 1344.09 | 99.0 | 50400.9 |
+  | Viola +2 | 1629.2 | 120.0 | 61092.0 |
+  | Viola +3 | 1914.31 | 141.0 | 71783.1 |
+  | Arancione | 2199.42 | 162.0 | 82474.2 |
+  | Arancione +1 | 2525.26 | 186.0 | 94692.6 |
+  | Arancione +2 | 2851.1 | 210.0 | 106911.0 |
+  | Arancione +3 | 3176.94 | 234.0 | 119129.4 |
+  | Arancione +4 | 3502.78 | 258.0 | 131347.8 |
+  | Arancione +5 | 3991.54 | 294.0 | 149675.4 |
+  | Rosso | 4643.22 | 342.0 | 174112.2 |
 
- **Info1:** L'unità di difesa definitiva. Ideale per proteggere le unità più vulnerabili e controllare i gruppi di unità.
-
- **Info2:** L'unità di difesa definitiva. Ideale per proteggere le unità più vulnerabili e controllare i gruppi di unità.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 57.022 | 0.35 | 7.6 | 1425.48 |
+  | **4x** <i class="fas fa-star"/> | 65.168 | 0.37 | 8.4 | 1629.12 |
+  | **5x** <i class="fas fa-star"/> | 73.314 | 0.38 | 9.2 | 1832.76 |
+  | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
 ### 1 Skill: Ruggito selvaggio
- **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT alle unità nemiche circostanti in un'ampia area, infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Stordimento></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi e riducendone ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 20 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT alle unità nemiche circostanti in un'ampia area, infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stordimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi e riducendone ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 20 secondi.</span><span style="color: black">
 
 ### 2 Skill: Artigli del mietitore
- **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi al proprio bersaglio, infliggendogli inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi al proprio bersaglio, infliggendogli inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### 3 Skill: Raptus
  **Description:** <span style="color: #645252;font-size:20px">Res DAN del Behemoth aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Riduzione danno unità
 
-    - PF
-
-    - Difesa
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ruggito antico
- **Description:**  <span style="color: #48b946;font-size:18px"><Ruggito selvaggio></span><span style="color: #645252;font-size:18px">: quando usa <Ruggito selvaggio>, tutte le unità Roccaforte alleate godono di ATT e resistenza magica aumentati del 30% per 10 secondi.</span>
+ **Description:**  <span style="color: #48b946;font-size:18px">&lt;Ruggito selvaggio&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Ruggito selvaggio&gt;, tutte le unità Roccaforte alleate godono di ATT e resistenza magica aumentati del 30% per 10 secondi.</span>
 
 ### 2nd Skill (or 1st): Ruggito violento
- **Description:** <span style="color: #48b946;font-size:18px"><Ruggito selvaggio></span><span style="color: #645252;font-size:18px">: l'effetto di <Stordimento> colpisce tutte le unità da mischia nemiche.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ruggito selvaggio&gt;</span><span style="color: #645252;font-size:18px">: l'effetto di &lt;Stordimento&gt; colpisce tutte le unità da mischia nemiche.</span>
 
 ### 3rd Skill (or 4th): Collera della natura
- **Description:** <span style="color: #48b946;font-size:18px"><Raptus></span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa <Raptus>, il danno di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa &lt;Raptus&gt;, il danno di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi.</span>
 
 ### 4th Skill (or 3rd): Raptus sanguinario
- **Description:** <span style="color: #48b946;font-size:18px"><Raptus></span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa <Raptus>, la Rid DAN di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa &lt;Raptus&gt;, la Rid DAN di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi</span>
 
 ### 5th Skill (or 6th): Furia antica
- **Description:** <span style="color: #48b946;font-size:18px"><Collera></span><span style="color: #645252;font-size:18px">: guarigione aumentata del 50%, rende immune alle <Malattie></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Collera&gt;</span><span style="color: #645252;font-size:18px">: guarigione aumentata del 50%, rende immune alle &lt;Malattie&gt;</span>
 
 ### 6th Skill (or 5th): Rabbia eterna
- **Description:** <span style="color: #48b946;font-size:18px"><Collera></span><span style="color: #645252;font-size:18px">: Rid DAN aumentata fino al termine della battaglia. Cumulabile fino a 5 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Collera&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN aumentata fino al termine della battaglia. Cumulabile fino a 5 volte.</span>
 
 ## Technical info
  **runart:** 1

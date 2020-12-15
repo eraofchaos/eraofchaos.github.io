@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /es/units/Fire Elemental/
 excerpt: "Unidades Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Elemental de Fuego"
 toc: true
@@ -25,19 +25,44 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Otorga quemaduras, vuela por los aires todo el campo de batalla, se amplifica al matar enemigos.
+
+## Basic stats
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 97.5 | 4.5 | 1261.5 |
+  | Azul | 195.0 | 9.0 | 2523.0 |
+  | Azul +1 | 292.5 | 13.5 | 3784.5 |
+  | Azul +2 | 409.5 | 18.9 | 5298.3 |
+  | Violeta | 526.5 | 24.3 | 6812.1 |
+  | Violeta +1 | 643.5 | 29.7 | 8325.9 |
+  | Violeta +2 | 780.0 | 36.0 | 10092.0 |
+  | Violeta +3 | 916.5 | 42.3 | 11858.1 |
+  | Naranja | 1053.0 | 48.6 | 13624.2 |
+  | Naranja +1 | 1209.0 | 55.8 | 15642.6 |
+  | Naranja +2 | 1365.0 | 63.0 | 17661.0 |
+  | Naranja +3 | 1521.0 | 70.2 | 19679.4 |
+  | Naranja +4 | 1677.0 | 77.4 | 21697.8 |
+  | Naranja +5 | 1911.0 | 88.2 | 24725.4 |
+  | Rojo | 2223.0 | 102.6 | 28762.2 |
 
- **Info1:** Otorga quemaduras, vuela por los aires todo el campo de batalla, se amplifica al matar enemigos.
-
- **Info2:** Otorga quemaduras, vuela por los aires todo el campo de batalla, se amplifica al matar enemigos.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.4 | 0.53 | 2.39 | 201.84 |
+  | **3x** <i class="fas fa-star"/> | 27.3 | 0.55 | 2.98 | 235.48 |
+  | **4x** <i class="fas fa-star"/> | 31.2 | 0.58 | 3.57 | 269.12 |
+  | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
+  | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
 ### 1 Skill: Fuego divino
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Elementales de Fuego inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a una unidad hostil y la </span><span style="color: black"><span style="color: #48b946;font-size:20px"><quema></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La unidad de Elementales de Fuego inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a una unidad hostil y la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quema&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
 ### 2 Skill: null
  **Description:** 
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Evasión de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Evasión de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fuego celestial ardiente
- **Description:** <span style="color: #48b946;font-size:18px"><Heavenly Fire></span><span style="color: #645252;font-size:18px">Aumenta el daño de habilidad al 200% del daño de la habilidad anterior</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de habilidad al 200% del daño de la habilidad anterior</span>
 
 ### 2nd Skill (or 1st): Fuego rápido
- **Description:** <span style="color: #48b946;font-size:18px"><Heavenly Fire></span><span style="color: #645252;font-size:18px">Inflige daño a dos unidades hostiles aleatorias</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px">Inflige daño a dos unidades hostiles aleatorias</span>
 
 ### 3rd Skill (or 4th): Inyección elemental
- **Description:** <span style="color: #48b946;font-size:18px"><Fuerza elemental></span><span style="color: #645252;font-size:18px">Aumenta el ATQ un 50% y la absorción de vida un 10% para dos unidades ofensivas aleatorias durante 10 s cuando un Héroe lance un hechizo de fuego</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ un 50% y la absorción de vida un 10% para dos unidades ofensivas aleatorias durante 10 s cuando un Héroe lance un hechizo de fuego</span>
 
 ### 4th Skill (or 3rd): Frenesí elemental
- **Description:** <span style="color: #48b946;font-size:18px"><Fuerza elemental></span><span style="color: #645252;font-size:18px">Tiene una probabilidad del 30% de activar <Fuego Divino> sobre 1 unidad hostil aleatoria cuando un Héroe amistoso lance un hechizo de fuego</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Tiene una probabilidad del 30% de activar &lt;Fuego Divino&gt; sobre 1 unidad hostil aleatoria cuando un Héroe amistoso lance un hechizo de fuego</span>
 
 ### 5th Skill (or 6th): Maldición de la llama furiosa
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Energy Conductor></span><span style="color: #645252;font-size:18px">Duplica las bonificaciones. Las acumulaciones se mantienen</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Duplica las bonificaciones. Las acumulaciones se mantienen</span>
 
 ### 6th Skill (or 5th): Armonía de las llamas
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Energy Conductor></span><span style="color: #645252;font-size:18px">Su efecto adicional afecta a las unidades amistosas en un área determinada</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Su efecto adicional afecta a las unidades amistosas en un área determinada</span>
 
 ## Technical info
  **runart:** 1

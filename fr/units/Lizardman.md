@@ -3,7 +3,7 @@ title: "Homme-lézard"
 permalink: /fr/units/Lizardman/
 excerpt: "Unités Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Homme-lézard"
 toc: true
@@ -25,22 +25,47 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** DPS puissants. Inflige plus de dégâts face aux grandes unités.
+
+## Basic stats
  **Base HP:** 1144.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 87.45 | 4.5 | 858.0 |
+  | Bleu | 174.9 | 9.0 | 1716.0 |
+  | Bleu +1 | 262.35 | 13.5 | 2574.0 |
+  | Bleu +2 | 367.29 | 18.9 | 3603.6 |
+  | Violet | 472.23 | 24.3 | 4633.2 |
+  | Violet +1 | 577.17 | 29.7 | 5662.8 |
+  | Violet +2 | 699.6 | 36.0 | 6864.0 |
+  | Violet +3 | 822.03 | 42.3 | 8065.2 |
+  | Orange | 944.46 | 48.6 | 9266.4 |
+  | Orange +1 | 1084.38 | 55.8 | 10639.2 |
+  | Orange +2 | 1224.3 | 63.0 | 12012.0 |
+  | Orange +3 | 1364.22 | 70.2 | 13384.8 |
+  | Orange +4 | 1504.14 | 77.4 | 14757.6 |
+  | Orange +5 | 1714.02 | 88.2 | 16816.8 |
+  | Rouge | 1993.86 | 102.6 | 19562.4 |
 
- **Info1:** DPS puissants. Inflige plus de dégâts face aux grandes unités.
-
- **Info2:** DPS puissants. Inflige plus de dégâts face aux grandes unités.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 20.988 | 0.74 | 2.39 | 137.28 |
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.77 | 2.98 | 160.16 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.81 | 3.57 | 183.04 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.84 | 4.16 | 205.92 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
 ### 1 Skill: Fléchette empoisonnée
- **Description:** <span style="color: #645252;font-size:20px">L'Homme-lézard inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible, et lui inflige <span style="color: #48b946;font-size:20px"><Peste></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Homme-lézard inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible, et lui inflige <span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
 ### 2 Skill: Charpie
- **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts de l'attaque normale de l'Homme-lézard de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les dégâts infligés aux cibles victimes de <span style="color: #48b946;font-size:20px"><Saignement></span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts de l'attaque normale de l'Homme-lézard de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les dégâts infligés aux cibles victimes de <span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
 ### 3 Skill: Grande peste
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts infligés par l'Homme-lézard augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
@@ -49,20 +74,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Quand il fait face à des unités de 1 ou de 4 combattants, les dégâts infligés par l'Homme-lézard augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Frappe pestilentielle
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la <Peste>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
 ### 6 Skill: Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Résistance magique
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 0

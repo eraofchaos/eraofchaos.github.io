@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /it/units/Gremlin/
 excerpt: "Unità I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Gremlin"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Palla di ferro incantata: aumenta notevolmente ATT e Vel ATT.
 
+ **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+
+ **Info:** Stordisce i nemici a distanza. Infligge danno istantaneo. Gli incantesimi degli eroi ne aumentano l'ATT.
+
+## Basic stats
  **Base HP:** 645.0
 
  **Base ATK:** 84.4
 
- **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 40.5 | 7.5 | 350.7 |
+  | Blu | 81.0 | 15.0 | 701.4 |
+  | Blu +1 | 121.5 | 22.5 | 1052.1 |
+  | Blu +2 | 170.1 | 31.5 | 1472.94 |
+  | Viola | 218.7 | 40.5 | 1893.78 |
+  | Viola +1 | 267.3 | 49.5 | 2314.62 |
+  | Viola +2 | 324.0 | 60.0 | 2805.6 |
+  | Viola +3 | 380.7 | 70.5 | 3296.58 |
+  | Arancione | 437.4 | 81.0 | 3787.56 |
+  | Arancione +1 | 502.2 | 93.0 | 4348.68 |
+  | Arancione +2 | 567.0 | 105.0 | 4909.8 |
+  | Arancione +3 | 631.8 | 117.0 | 5470.92 |
+  | Arancione +4 | 696.6 | 129.0 | 6032.04 |
+  | Arancione +5 | 793.8 | 147.0 | 6873.72 |
+  | Rosso | 923.4 | 171.0 | 7995.96 |
 
- **Info1:** Stordisce i nemici a distanza. Infligge danno istantaneo. Gli incantesimi degli eroi ne aumentano l'ATT.
-
- **Info2:** Stordisce i nemici a distanza. Infligge danno istantaneo. Gli incantesimi degli eroi ne aumentano l'ATT.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.1 | 0.54 | 3.0 | 46.76 |
+  | **2x** <i class="fas fa-star"/> | 9.72 | 0.57 | 3.65 | 56.112 |
+  | **3x** <i class="fas fa-star"/> | 11.34 | 0.59 | 4.3 | 65.464 |
+  | **4x** <i class="fas fa-star"/> | 12.96 | 0.62 | 4.95 | 74.816 |
+  | **5x** <i class="fas fa-star"/> | 14.58 | 0.65 | 5.6 | 84.168 |
+  | **6x** <i class="fas fa-star"/> | 16.2 | 0.68 | 6.25 | 93.52 |
 
 ## Skills
 ### 1 Skill: Mazzafrusto incantato
  **Description:** <span style="color: #645252;font-size:20px">La Vel ATT dei Gremlin aumenta del 100% per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### 2 Skill: Cacciatore di Draghi
- **Description:** <span style="color: #645252;font-size:20px">Se affronta unità da 1 o 4 membri, l'attacco base dei Gremlin ha una probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordire></span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Se affronta unità da 1 o 4 membri, l'attacco base dei Gremlin ha una probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### 3 Skill: Volontà magica
  **Description:** <span style="color: #645252;font-size:20px">I Gremlin godono di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e resistenza magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -49,20 +75,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Se i Gremlin sono potenziati dall'incantesimo di supporto di un eroe alleato, il loro ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 10 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### 5 Skill: Mente lucida
- **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al <Silenzio>. La durata del <Silenzio> inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Resistenza magica
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /ru/units/Marksman/
 excerpt: "Отряды Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Лучник"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Взрывная стрела: наносит значительный урон вражеским отрядам.
 
+ **Recommend:** Воин, маг и священник хорошо работают в команде.
+
+ **Info:** null
+
+## Basic stats
  **Base HP:** 438.4
 
  **Base ATK:** 85.3
 
- **Recommend:** Воин, маг и священник хорошо работают в команде.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 42.65 | 7.5 | 328.8 |
+  | Синий | 85.3 | 15.0 | 657.6 |
+  | Blue +1 | 127.95 | 22.5 | 986.4 |
+  | Синий +2 | 179.13 | 31.5 | 1380.96 |
+  | Фиолетовый | 230.31 | 40.5 | 1775.52 |
+  | Фиолетовый +1 | 281.49 | 49.5 | 2170.08 |
+  | Фиолетовый +2 | 341.2 | 60.0 | 2630.4 |
+  | Фиолетовый +3 | 400.91 | 70.5 | 3090.72 |
+  | Оранжевый | 460.62 | 81.0 | 3551.04 |
+  | Оранжевый +1 | 528.86 | 93.0 | 4077.12 |
+  | Оранжевый +2 | 597.1 | 105.0 | 4603.2 |
+  | Orange +3 | 665.34 | 117.0 | 5129.28 |
+  | Оранжевый +4 | 733.58 | 129.0 | 5655.36 |
+  | Orange +5 | 835.94 | 147.0 | 6444.48 |
+  | Red | 972.42 | 171.0 | 7496.64 |
 
- **Info1:** null
-
- **Info2:** null
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.53 | 0.55 | 3.0 | 43.84 |
+  | **2x** <i class="fas fa-star"/> | 10.236 | 0.58 | 3.65 | 52.608 |
+  | **3x** <i class="fas fa-star"/> | 11.942 | 0.61 | 4.3 | 61.376 |
+  | **4x** <i class="fas fa-star"/> | 13.648 | 0.63 | 4.95 | 70.144 |
+  | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
+  | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
 ## Skills
 ### 1 Skill: Разрывная стрела
@@ -43,7 +69,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Двойной удар
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у лучников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать <Двойной удар> возрастает до 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у лучников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### 4 Skill: Драконоубийца
  **Description:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Критический удар отряда
+* Magic resistance
 
-    - ОЗ
-
-    - Критический удар отряда
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details

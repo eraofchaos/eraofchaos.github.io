@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /de/units/Beholder/
 excerpt: "Einheiten Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Betrachter"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Gedankenkontrolle: Macht Gegner bewegungsunfähig und fügt ihnen Schaden über Zeit zu.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Unglaubliche Eröffnung. Schwächt Feinde zu Beginn, um den Sieg zu erleichtern.
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 57.9 | 3.75 | 558.0 |
+  | Blau | 115.8 | 7.5 | 1116.0 |
+  | Blau +1 | 173.7 | 11.25 | 1674.0 |
+  | Blau +2 | 243.18 | 15.75 | 2343.6 |
+  | Lila | 312.66 | 20.25 | 3013.2 |
+  | Lila +1 | 382.14 | 24.75 | 3682.8 |
+  | Lila +2 | 463.2 | 30.0 | 4464.0 |
+  | Lila +3 | 544.26 | 35.25 | 5245.2 |
+  | Orange | 625.32 | 40.5 | 6026.4 |
+  | Orange +1 | 717.96 | 46.5 | 6919.2 |
+  | Orange +2 | 810.6 | 52.5 | 7812.0 |
+  | Orange +3 | 903.24 | 58.5 | 8704.8 |
+  | Orange +4 | 995.88 | 64.5 | 9597.6 |
+  | Orange +5 | 1134.84 | 73.5 | 10936.8 |
+  | Rot | 1320.12 | 85.5 | 12722.4 |
 
- **Info1:** Unglaubliche Eröffnung. Schwächt Feinde zu Beginn, um den Sieg zu erleichtern.
-
- **Info2:** Unglaubliche Eröffnung. Schwächt Feinde zu Beginn, um den Sieg zu erleichtern.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.212 | 0.45 | 2.65 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 18.528 | 0.47 | 3.23 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
 ### 1 Skill: Gedankenkontrolle
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Schaden (Einheit)
+* Magieresistenz
 
-    - LP
-
-    - Schaden (Einheit)
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Mana-Schlag
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Der Betrachter öffnet 4 weitere Augen. Wenn er eine Zieleinheit tötet, schließt er 2 Augen. Er schließt höchstens 6 Augen.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Der Betrachter öffnet 4 weitere Augen. Wenn er eine Zieleinheit tötet, schließt er 2 Augen. Er schließt höchstens 6 Augen.</span>
 
 ### 2nd Skill (or 1st): In den Abgrund
- **Description:** <span style="color: #48b946;font-size:18px"><Zauberdurchdringung></span><span style="color: #645252;font-size:18px">Jedes Auge des Todes erhöht Schaden und Schadensreduzierung verbündeter Dungeon-Einheiten um 3 %. Für den Betrachter wird der Effekt verdoppelt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Jedes Auge des Todes erhöht Schaden und Schadensreduzierung verbündeter Dungeon-Einheiten um 3 %. Für den Betrachter wird der Effekt verdoppelt.</span>
 
 ### 3rd Skill (or 4th): Dezimierte Zauberei
- **Description:** <span style="color: #48b946;font-size:18px"><Kraftlosigkeit></span><span style="color: #645252;font-size:18px">Die Mana-Regeneration gegnerischer Helden wird um 1 reduziert für jede gegnerische Einheit, die stirbt. Der Effekt kann zweimal ausgelöst werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraftlosigkeit&gt;</span><span style="color: #645252;font-size:18px">Die Mana-Regeneration gegnerischer Helden wird um 1 reduziert für jede gegnerische Einheit, die stirbt. Der Effekt kann zweimal ausgelöst werden.</span>
 
 ### 4th Skill (or 3rd): Geplünderte Zauberei
- **Description:** <span style="color: #48b946;font-size:18px"><Kraftlosigkeit></span><span style="color: #645252;font-size:18px">Das Mana gegnerischer Helden wird reduziert um 10 für jede gegnerische Einheit, die stirbt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraftlosigkeit&gt;</span><span style="color: #645252;font-size:18px">Das Mana gegnerischer Helden wird reduziert um 10 für jede gegnerische Einheit, die stirbt.</span>
 
 ### 5th Skill (or 6th): Schild des Zauberbrechers
- **Description:** <span style="color: #48b946;font-size:18px"><Energie sammeln></span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird erhöht auf 150 % des Effekts der vorherigen Fähigkeit. Erhöht die Schadensreduzierung der Einheit um 10 %. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energie sammeln&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird erhöht auf 150 % des Effekts der vorherigen Fähigkeit. Erhöht die Schadensreduzierung der Einheit um 10 %. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
 
 ### 6th Skill (or 5th): Widerhall des Exorzismus
- **Description:** <span style="color: #48b946;font-size:18px"><Energie sammeln></span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 150 % erhöht. Der Buff von <Energie sammeln> wirkt auf alle verbündeten Einheiten. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energie sammeln&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 150 % erhöht. Der Buff von &lt;Energie sammeln&gt; wirkt auf alle verbündeten Einheiten. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
 
 ## Technical info
  **runart:** 0

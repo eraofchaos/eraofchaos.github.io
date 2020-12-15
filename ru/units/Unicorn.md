@@ -3,7 +3,7 @@ title: "Единорог"
 permalink: /ru/units/Unicorn/
 excerpt: "Отряды Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами."
 unitID: 206
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Единорог"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
+
+ **Info:** Снижает шанс попадания врага, обладает высоким показателем уклонения.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 75.7 | 6.5 | 1387.5 |
+  | Синий | 151.4 | 13.0 | 2775.0 |
+  | Blue +1 | 227.1 | 19.5 | 4162.5 |
+  | Синий +2 | 317.94 | 27.3 | 5827.5 |
+  | Фиолетовый | 408.78 | 35.1 | 7492.5 |
+  | Фиолетовый +1 | 499.62 | 42.9 | 9157.5 |
+  | Фиолетовый +2 | 605.6 | 52.0 | 11100.0 |
+  | Фиолетовый +3 | 711.58 | 61.1 | 13042.5 |
+  | Оранжевый | 817.56 | 70.2 | 14985.0 |
+  | Оранжевый +1 | 938.68 | 80.6 | 17205.0 |
+  | Оранжевый +2 | 1059.8 | 91.0 | 19425.0 |
+  | Orange +3 | 1180.92 | 101.4 | 21645.0 |
+  | Оранжевый +4 | 1302.04 | 111.8 | 23865.0 |
+  | Orange +5 | 1483.72 | 127.4 | 27195.0 |
+  | Red | 1725.96 | 148.2 | 31635.0 |
 
- **Info1:** Снижает шанс попадания врага, обладает высоким показателем уклонения.
-
- **Info2:** Снижает шанс попадания врага, обладает высоким показателем уклонения.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.53 | 3.23 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.55 | 3.86 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.58 | 4.49 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
 ## Skills
 ### 1 Skill: null
@@ -43,7 +68,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">При каждом уклонении у единорогов есть большой шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
 ### 3 Skill: Ангельский свет
- **Description:** <span style="color: #645252;font-size:20px">Умение <Ослепление> повышает урон отряда по цели еще на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Умение &lt;Ослепление&gt; повышает урон отряда по цели еще на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Смелый лидер
  **Description:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Уклонение отряда
+* unit DMG Reduction
 
-    - ОЗ
-
-    - Уклонение отряда
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Сияние святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Ослепление></span><span style="color: #645252;font-size:18px">: при ослеплении попадание снижается на 1000</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при ослеплении попадание снижается на 1000</span>
 
 ### 2nd Skill (or 1st): Воля святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Ослепление></span><span style="color: #645252;font-size:18px">: при запуске срабатывает ослепление</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при запуске срабатывает ослепление</span>
 
 ### 3rd Skill (or 4th): Шестое чувство
- **Description:** <span style="color: #48b946;font-size:18px"><Мерцающий силуэт></span><span style="color: #645252;font-size:18px">: шанс срабатывания щита увеличен до 200% от шанса предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания щита увеличен до 200% от шанса предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Сила координации
- **Description:** <span style="color: #48b946;font-size:18px"><Мерцающий силуэт></span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 200% от эффекта предыдущего умения.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 200% от эффекта предыдущего умения.</span>
 
 ### 5th Skill (or 6th): Навигация святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Смелый лидер></span><span style="color: #645252;font-size:18px">: если на поле боя есть единорог, урон всех союзных отрядов повышается на 10% на следующие 20 сек. после гибели цели. Эффект складывается до 3 раз</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть единорог, урон всех союзных отрядов повышается на 10% на следующие 20 сек. после гибели цели. Эффект складывается до 3 раз</span>
 
 ### 6th Skill (or 5th): Убежище святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Смелый лидер></span><span style="color: #645252;font-size:18px">: единорог создает для всех союзных отрядов щит, поглощающий урон в размере 6% от макс. ОЗ при гибели цели</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: единорог создает для всех союзных отрядов щит, поглощающий урон в размере 6% от макс. ОЗ при гибели цели</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /it/units/Wicked Lady/
 excerpt: "Unità  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Wicked Lady"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 633.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 316.8 | 12.0 | 4327.5 |
+  | Blu | 633.6 | 24.0 | 8655.0 |
+  | Blu +1 | 950.4 | 36.0 | 12982.5 |
+  | Blu +2 | 1330.56 | 50.4 | 18175.5 |
+  | Viola | 1710.72 | 64.8 | 23368.5 |
+  | Viola +1 | 2090.88 | 79.2 | 28561.5 |
+  | Viola +2 | 2534.4 | 96.0 | 34620.0 |
+  | Viola +3 | 2977.92 | 112.8 | 40678.5 |
+  | Arancione | 3421.44 | 129.6 | 46737.0 |
+  | Arancione +1 | 3928.32 | 148.8 | 53661.0 |
+  | Arancione +2 | 4435.2 | 168.0 | 60585.0 |
+  | Arancione +3 | 4942.08 | 187.2 | 67509.0 |
+  | Arancione +4 | 5448.96 | 206.4 | 74433.0 |
+  | Arancione +5 | 6209.28 | 235.2 | 84819.0 |
+  | Rosso | 7223.04 | 273.6 | 98667.0 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
 
 ## Skills
 ### 1 Skill:  Soul Burst
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Danno unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Formazione infranta
- **Description:** <span style="color: #48b946;font-size:18px"><Scelta tattica>:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Riduce di 60 la Tenacia e del 2% la DIF delle unità da mischia. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Scelta tattica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Riduce di 60 la Tenacia e del 2% la DIF delle unità da mischia. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
 
 ### 2nd Skill (or 1st): Assalto strategico
- **Description:** <span style="color: #48b946;font-size:18px"><Scelta tattica>:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Quando affronta unità a distanza o incantatori, aumenta il proprio DAN CRIT e il DAN alle unità di un ulteriore 4%. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Scelta tattica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Quando affronta unità a distanza o incantatori, aumenta il proprio DAN CRIT e il DAN alle unità di un ulteriore 4%. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
 
 ### 3rd Skill (or 4th): Urlo della disfatta
- **Description:** <span style="color: #48b946;font-size:18px"><Ululato dello Spezzaincantesimi></span><span style="color: #645252;font-size:18px">: riduce del 20% la guarigione delle unità di difesa nemiche se il nemico lancia un incantesimo di tipo Terra; riduce del 20% la Vel ATT delle unità a distanza nemiche se il nemico lancia un incantesimo di tipo Acqua; riduce del 20% il DAN delle unità d'attacco nemiche se il nemico lancia un incantesimo di tipo Fuoco; gli incantatori nemici subiscono <Silenzio> per 1,5 secondi se il nemico lancia un incantesimo di tipo Aria</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ululato dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la guarigione delle unità di difesa nemiche se il nemico lancia un incantesimo di tipo Terra; riduce del 20% la Vel ATT delle unità a distanza nemiche se il nemico lancia un incantesimo di tipo Acqua; riduce del 20% il DAN delle unità d'attacco nemiche se il nemico lancia un incantesimo di tipo Fuoco; gli incantatori nemici subiscono &lt;Silenzio&gt; per 1,5 secondi se il nemico lancia un incantesimo di tipo Aria</span>
 
 ### 4th Skill (or 3rd): Potere dello Spezzaincantesimi
- **Description:** <span style="color: #48b946;font-size:18px"><Ululato dello Spezzaincantesimi></span><span style="color: #645252;font-size:18px">: aumenta del 15% la guarigione tua e di tutte le unità di difesa alleate se il nemico lancia un incantesimo di tipo Terra. Aumenta del 15% la Vel ATT tua e di tutte le unità a distanza alleate se il nemico lancia un incantesimo di tipo Acqua. Aumenta del 15% il DAN tuo e di tutte le unità d'attacco alleate se il nemico lancia un incantesimo di tipo Fuoco. Tu e tutti gli incantatori alleati diventate immuni al <Silenzio> per 2 secondi se il nemico lancia un incantesimo di tipo Aria.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ululato dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: aumenta del 15% la guarigione tua e di tutte le unità di difesa alleate se il nemico lancia un incantesimo di tipo Terra. Aumenta del 15% la Vel ATT tua e di tutte le unità a distanza alleate se il nemico lancia un incantesimo di tipo Acqua. Aumenta del 15% il DAN tuo e di tutte le unità d'attacco alleate se il nemico lancia un incantesimo di tipo Fuoco. Tu e tutti gli incantatori alleati diventate immuni al &lt;Silenzio&gt; per 2 secondi se il nemico lancia un incantesimo di tipo Aria.</span>
 
 ### 5th Skill (or 6th): Patina di sangue avvelenato
- **Description:** <span style="color: #48b946;font-size:18px"><Spruzzo di sangue avvelenato></span><span style="color: #645252;font-size:18px">: si attiva quando l'unità bersaglio viene sconfitta. L'effetto può attivarsi 3 volte. Attiva l'effetto di <Spruzzo di sangue avvelenato> ogni 30 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo di sangue avvelenato&gt;</span><span style="color: #645252;font-size:18px">: si attiva quando l'unità bersaglio viene sconfitta. L'effetto può attivarsi 3 volte. Attiva l'effetto di &lt;Spruzzo di sangue avvelenato&gt; ogni 30 secondi.</span>
 
 ### 6th Skill (or 5th): Rigurgito velenoso
- **Description:** <span style="color: #48b946;font-size:18px"><Spruzzo di sangue avvelenato></span><span style="color: #645252;font-size:18px">: si attiva un massimo di 3 volte quando l'unità bersaglio viene sconfitta e aumenta l'effetto di riduzione della DIF del 50%. Può attivarsi un'altra volta dopo 15 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo di sangue avvelenato&gt;</span><span style="color: #645252;font-size:18px">: si attiva un massimo di 3 volte quando l'unità bersaglio viene sconfitta e aumenta l'effetto di riduzione della DIF del 50%. Può attivarsi un'altra volta dopo 15 secondi.</span>
 
 ## Technical info
  **runart:** 1

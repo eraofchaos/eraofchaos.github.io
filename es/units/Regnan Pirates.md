@@ -3,7 +3,7 @@ title: "Piratas Regnan"
 permalink: /es/units/Regnan Pirates/
 excerpt: "Unidades Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Piratas Regnan"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Ataque multifase, mucho daño rápido, DPS elevado.
+
+ **Info:** Usa Destrozo al inicio. DPS potente. Reduce la DEF de los enemigos.
+
+## Basic stats
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
 
- **Recommend:** Ataque multifase, mucho daño rápido, DPS elevado.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 49.65 | 4.0 | 521.25 |
+  | Azul | 99.3 | 8.0 | 1042.5 |
+  | Azul +1 | 148.95 | 12.0 | 1563.75 |
+  | Azul +2 | 208.53 | 16.8 | 2189.25 |
+  | Violeta | 268.11 | 21.6 | 2814.75 |
+  | Violeta +1 | 327.69 | 26.4 | 3440.25 |
+  | Violeta +2 | 397.2 | 32.0 | 4170.0 |
+  | Violeta +3 | 466.71 | 37.6 | 4899.75 |
+  | Naranja | 536.22 | 43.2 | 5629.5 |
+  | Naranja +1 | 615.66 | 49.6 | 6463.5 |
+  | Naranja +2 | 695.1 | 56.0 | 7297.5 |
+  | Naranja +3 | 774.54 | 62.4 | 8131.5 |
+  | Naranja +4 | 853.98 | 68.8 | 8965.5 |
+  | Naranja +5 | 973.14 | 78.4 | 10216.5 |
+  | Rojo | 1132.02 | 91.2 | 11884.5 |
 
- **Info1:** Usa Destrozo al inicio. DPS potente. Reduce la DEF de los enemigos.
-
- **Info2:** Usa Destrozo al inicio. DPS potente. Reduce la DEF de los enemigos.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.916 | 0.61 | 2.18 | 83.4 |
+  | **3x** <i class="fas fa-star"/> | 13.902 | 0.64 | 2.76 | 97.3 |
+  | **4x** <i class="fas fa-star"/> | 15.888 | 0.67 | 3.34 | 111.2 |
+  | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
+  | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
 ### 1 Skill: Saqueo de la marea
@@ -49,20 +74,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">El daño de los Piratas Regnan aumenta a medida que los PV disminuyen. El ATQ de los Piratas Regnan aumenta a medida que los PV del objetivo disminuyen. El ATQ aumenta hasta un máximo de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: Cuerpo calmado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a <stun> cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
 ### 6 Skill: Conflicto pirata
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Golpe crítico de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Golpe crítico de la unidad
 
 ## Awaking
 ### Awaking Details

@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /es/units/Gog/
 excerpt: "Unidades Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Gog"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Muro de fuego: inflige daño a las tropas enemigas a su paso.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Inflige mucho daño mágico en un gran área que aumenta de potencia con el fuego.
+
+## Basic stats
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 51.3 | 3.75 | 471.75 |
+  | Azul | 102.6 | 7.5 | 943.5 |
+  | Azul +1 | 153.9 | 11.25 | 1415.25 |
+  | Azul +2 | 215.46 | 15.75 | 1981.35 |
+  | Violeta | 277.02 | 20.25 | 2547.45 |
+  | Violeta +1 | 338.58 | 24.75 | 3113.55 |
+  | Violeta +2 | 410.4 | 30.0 | 3774.0 |
+  | Violeta +3 | 482.22 | 35.25 | 4434.45 |
+  | Naranja | 554.04 | 40.5 | 5094.9 |
+  | Naranja +1 | 636.12 | 46.5 | 5849.7 |
+  | Naranja +2 | 718.2 | 52.5 | 6604.5 |
+  | Naranja +3 | 800.28 | 58.5 | 7359.3 |
+  | Naranja +4 | 882.36 | 64.5 | 8114.1 |
+  | Naranja +5 | 1005.48 | 73.5 | 9246.3 |
+  | Rojo | 1169.64 | 85.5 | 10755.9 |
 
- **Info1:** Inflige mucho daño mágico en un gran área que aumenta de potencia con el fuego.
-
- **Info2:** Inflige mucho daño mágico en un gran área que aumenta de potencia con el fuego.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 10.26 | 0.42 | 1.5 | 62.9 |
+  | **2x** <i class="fas fa-star"/> | 12.312 | 0.44 | 2.08 | 75.48 |
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.46 | 2.65 | 88.06 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 100.64 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
 ### 1 Skill: Muro de fuego
@@ -49,20 +75,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV de las Gog un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de los hechizos de fuego un 40%.</span><span style="color: black">
 
 ### 5 Skill: Golpe asador
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con <quemado>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
 ### 6 Skill: Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Golpe crítico de la unidad
+* Resistencia mágica
 
-    - PV
-
-    - Golpe crítico de la unidad
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Cebador ígneo
- **Description:** <span style="color: #48b946;font-size:18px"><Fire Wall></span><span style="color: #645252;font-size:18px">Aumenta el daño causado al 150%. Duración aumentada en 4 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Wall&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño causado al 150%. Duración aumentada en 4 s</span>
 
 ### 2nd Skill (or 1st): Riada de fuego
- **Description:** <span style="color: #48b946;font-size:18px"><Muro de Fuego></span><span style="color: #645252;font-size:18px">Aumenta el daño causado al 150%. El alcance del Muro de fuego se extiende de forma prolongada.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro de Fuego&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño causado al 150%. El alcance del Muro de fuego se extiende de forma prolongada.</span>
 
 ### 3rd Skill (or 4th): Hechizo ardiente prohibido
- **Description:** <span style="color: #48b946;font-size:18px"><Fantasma de fuego></span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad de Gog un 10%. La bonificación se dobla al luchar contra unidades <quemadas></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fantasma de fuego&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad de Gog un 10%. La bonificación se dobla al luchar contra unidades &lt;quemadas&gt;</span>
 
 ### 4th Skill (or 3rd): Perspicacia ardiente
- **Description:** <span style="color: #48b946;font-size:18px"><Fantasma de Fuego></span><span style="color: #645252;font-size:18px">Las Gog tienen garantizado infligir un golpe crítico al luchar contra unidades <quemado>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fantasma de Fuego&gt;</span><span style="color: #645252;font-size:18px">Las Gog tienen garantizado infligir un golpe crítico al luchar contra unidades &lt;quemado&gt;.</span>
 
 ### 5th Skill (or 6th): Vanguardia del Infierno
- **Description:** <span style="color: #48b946;font-size:18px"><Incineración></span><span style="color: #645252;font-size:18px">El daño de la unidad de Gog aumenta un 5% por cada unidad del Infierno en el campo de batalla</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incineración&gt;</span><span style="color: #645252;font-size:18px">El daño de la unidad de Gog aumenta un 5% por cada unidad del Infierno en el campo de batalla</span>
 
 ### 6th Skill (or 5th): Tejido mágico
- **Description:** <span style="color: #48b946;font-size:18px"><Incineración></span><span style="color: #645252;font-size:18px">El daño de la unidad de Gog aumenta un 5% por cada unidad lanzadora amistosa en el campo de batalla</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incineración&gt;</span><span style="color: #645252;font-size:18px">El daño de la unidad de Gog aumenta un 5% por cada unidad lanzadora amistosa en el campo de batalla</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Cavaliere nero"
 permalink: /it/units/Black Knight/
 excerpt: "Unità I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Cavaliere nero"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** Attacco critico: infligge danni devastanti e causa <Morale basso>.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** L'unità da incursione più potente. Danni istantanei elevati. Il suo potere aumenta con il proseguire della battaglia.
+
+## Basic stats
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 57.9 | 6.25 | 682.5 |
+  | Blu | 115.8 | 12.5 | 1365.0 |
+  | Blu +1 | 173.7 | 18.75 | 2047.5 |
+  | Blu +2 | 243.18 | 26.25 | 2866.5 |
+  | Viola | 312.66 | 33.75 | 3685.5 |
+  | Viola +1 | 382.14 | 41.25 | 4504.5 |
+  | Viola +2 | 463.2 | 50.0 | 5460.0 |
+  | Viola +3 | 544.26 | 58.75 | 6415.5 |
+  | Arancione | 625.32 | 67.5 | 7371.0 |
+  | Arancione +1 | 717.96 | 77.5 | 8463.0 |
+  | Arancione +2 | 810.6 | 87.5 | 9555.0 |
+  | Arancione +3 | 903.24 | 97.5 | 10647.0 |
+  | Arancione +4 | 995.88 | 107.5 | 11739.0 |
+  | Arancione +5 | 1134.84 | 122.5 | 13377.0 |
+  | Rosso | 1320.12 | 142.5 | 15561.0 |
 
- **Info1:** L'unità da incursione più potente. Danni istantanei elevati. Il suo potere aumenta con il proseguire della battaglia.
-
- **Info2:** L'unità da incursione più potente. Danni istantanei elevati. Il suo potere aumenta con il proseguire della battaglia.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.212 | 0.44 | 3.75 | 127.4 |
+  | **4x** <i class="fas fa-star"/> | 18.528 | 0.46 | 4.38 | 145.6 |
+  | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
+  | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
 ### 1 Skill: Attacco critico
- **Description:** <span style="color: #645252;font-size:20px">Il Cavaliere nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio, applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale basso></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 10 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Cavaliere nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio, applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 10 secondi.</span><span style="color: black">
 
 ### 2 Skill: Carica mortale
  **Description:** <span style="color: #645252;font-size:20px">Quando il bersaglio del Cavaliere nero viene sconfitto, aumenta ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 5 volte e dura fino al termine della battaglia.</span><span style="color: black">
@@ -49,20 +73,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Il Cavaliere nero gode di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo DAN CRIT aumenta del 50%.</span><span style="color: black">
 
 ### 5 Skill: Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da <Morale basso>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Colpo critico unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Colpo critico unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Marcia oscura
- **Description:** <span style="color: #48b946;font-size:18px"><Attacco critico></span><span style="color: #645252;font-size:18px">: vengono colpite 2 unità nemiche in un'ampia area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Attacco critico&gt;</span><span style="color: #645252;font-size:18px">: vengono colpite 2 unità nemiche in un'ampia area.</span>
 
 ### 2nd Skill (or 1st): Esplosione di paura
- **Description:** <span style="color: #48b946;font-size:18px"><Attacco critico></span><span style="color: #645252;font-size:18px">: danni inflitti aumentati del 50%. Durata estesa a 20 secondi con <Morale basso>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Attacco critico&gt;</span><span style="color: #645252;font-size:18px">: danni inflitti aumentati del 50%. Durata estesa a 20 secondi con &lt;Morale basso&gt;.</span>
 
 ### 3rd Skill (or 4th): Prosciugamento
- **Description:** <span style="color: #48b946;font-size:18px"><Carica mortale></span><span style="color: #645252;font-size:18px">: ripristina PF pari al 30% dei PF massimi e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carica mortale&gt;</span><span style="color: #645252;font-size:18px">: ripristina PF pari al 30% dei PF massimi e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
 
 ### 4th Skill (or 3rd): Scudo spettrale
- **Description:** <span style="color: #48b946;font-size:18px"><Carica mortale></span><span style="color: #645252;font-size:18px">: ripristina l'80% della Rid DAN e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carica mortale&gt;</span><span style="color: #645252;font-size:18px">: ripristina l'80% della Rid DAN e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
 
 ### 5th Skill (or 6th): Terrore assoluto
- **Description:** <span style="color: #48b946;font-size:18px"><Repressione terrificante></span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da <Morale basso>, il DAN CRIT aumenta del 50%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Repressione terrificante&gt;</span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da &lt;Morale basso&gt;, il DAN CRIT aumenta del 50%.</span>
 
 ### 6th Skill (or 5th): Pugno di ferro
- **Description:** <span style="color: #48b946;font-size:18px"><Repressione terrificante></span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da <Morale basso>, l'assorbimento aumenta del 20%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Repressione terrificante&gt;</span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da &lt;Morale basso&gt;, l'assorbimento aumenta del 20%.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Spadaccino"
 permalink: /it/units/Swordsman/
 excerpt: "Unità I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Spadaccino"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Protezione divina: riduce i danni subiti.
 
+ **Recommend:** Infligge danni extra ai nemici rallentati.
+
+ **Info:** Infligge danni ingenti a inizio battaglia. Può colpire due volte e recuperare PF.
+
+## Basic stats
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
 
- **Recommend:** Infligge danni extra ai nemici rallentati.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 27.3 | 13.25 | 993.0 |
+  | Blu | 54.6 | 26.5 | 1986.0 |
+  | Blu +1 | 81.9 | 39.75 | 2979.0 |
+  | Blu +2 | 114.66 | 55.65 | 4170.6 |
+  | Viola | 147.42 | 71.55 | 5362.2 |
+  | Viola +1 | 180.18 | 87.45 | 6553.8 |
+  | Viola +2 | 218.4 | 106.0 | 7944.0 |
+  | Viola +3 | 256.62 | 124.55 | 9334.2 |
+  | Arancione | 294.84 | 143.1 | 10724.4 |
+  | Arancione +1 | 338.52 | 164.3 | 12313.2 |
+  | Arancione +2 | 382.2 | 185.5 | 13902.0 |
+  | Arancione +3 | 425.88 | 206.7 | 15490.8 |
+  | Arancione +4 | 469.56 | 227.9 | 17079.6 |
+  | Arancione +5 | 535.08 | 259.7 | 19462.8 |
+  | Rosso | 622.44 | 302.1 | 22640.4 |
 
- **Info1:** Infligge danni ingenti a inizio battaglia. Può colpire due volte e recuperare PF.
-
- **Info2:** Infligge danni ingenti a inizio battaglia. Può colpire due volte e recuperare PF.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 6.552 | 0.35 | 6.07 | 158.88 |
+  | **3x** <i class="fas fa-star"/> | 7.644 | 0.36 | 6.83 | 185.36 |
+  | **4x** <i class="fas fa-star"/> | 8.736 | 0.38 | 7.6 | 211.84 |
+  | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
+  | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** 
 
 ### 2 Skill: Motivazione
- **Description:** <span style="color: #645252;font-size:20px">La Rid DAN degli Spadaccini aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale alto></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La Rid DAN degli Spadaccini aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Colpo doppio
- **Description:** <span style="color: #645252;font-size:20px">Gli Spadaccini hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare <Colpo doppio> aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px"><rallentati></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Gli Spadaccini hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Salvezza
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base degli Spadaccini ha una probabilità elevata di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Resistenza magica
 
-    - PF
-
-    - Difesa
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Scudo anti-magia
- **Description:** <span style="color: #48b946;font-size:18px"><Protezione divina></span><span style="color: #645252;font-size:18px">: fornisce riduzione dei danni magici.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Protezione divina&gt;</span><span style="color: #645252;font-size:18px">: fornisce riduzione dei danni magici.</span>
 
 ### 2nd Skill (or 1st): Protezione sacra
- **Description:** <span style="color: #48b946;font-size:18px"><Protezione divina></span><span style="color: #645252;font-size:18px">: durata aumentata di 10 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Protezione divina&gt;</span><span style="color: #645252;font-size:18px">: durata aumentata di 10 secondi.</span>
 
 ### 3rd Skill (or 4th): Ispirazione al valore
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: immune al <Morale basso>. Effetto aumentato a 150% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: immune al &lt;Morale basso&gt;. Effetto aumentato a 150% del valore della tecnica originale.</span>
 
 ### 4th Skill (or 3rd): Innalzami
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: diventa immune al <Morale basso>. Quando riceve <Morale alto>, aumenta per 10 secondi la Rid DAN delle unità alleate del 10% in un'ampia area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: diventa immune al &lt;Morale basso&gt;. Quando riceve &lt;Morale alto&gt;, aumenta per 10 secondi la Rid DAN delle unità alleate del 10% in un'ampia area.</span>
 
 ### 5th Skill (or 6th): Luce salvifica
- **Description:** <span style="color: #48b946;font-size:18px"><Salvezza></span><span style="color: #645252;font-size:18px">: rigenerazione dei PF aumentata a 200% del valore base.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvezza&gt;</span><span style="color: #645252;font-size:18px">: rigenerazione dei PF aumentata a 200% del valore base.</span>
 
 ### 6th Skill (or 5th): Un cuore possente
- **Description:** <span style="color: #48b946;font-size:18px"><Salvezza></span><span style="color: #645252;font-size:18px">: lo Spadaccino è immune a <Silenzio>, <Stordimento> e <Pietrificazione>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvezza&gt;</span><span style="color: #645252;font-size:18px">: lo Spadaccino è immune a &lt;Silenzio&gt;, &lt;Stordimento&gt; e &lt;Pietrificazione&gt;.</span>
 
 ## Technical info
  **runart:** 1

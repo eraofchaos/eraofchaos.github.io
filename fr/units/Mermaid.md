@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /fr/units/Mermaid/
 excerpt: "Unités Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Sirène"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Puissant guérisseur. Donne d'excellents bonus en début de combat.
+
+## Basic stats
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 92.5 | 3.5 | 1236.0 |
+  | Bleu | 185.0 | 7.0 | 2472.0 |
+  | Bleu +1 | 277.5 | 10.5 | 3708.0 |
+  | Bleu +2 | 388.5 | 14.7 | 5191.2 |
+  | Violet | 499.5 | 18.9 | 6674.4 |
+  | Violet +1 | 610.5 | 23.1 | 8157.6 |
+  | Violet +2 | 740.0 | 28.0 | 9888.0 |
+  | Violet +3 | 869.5 | 32.9 | 11618.4 |
+  | Orange | 999.0 | 37.8 | 13348.8 |
+  | Orange +1 | 1147.0 | 43.4 | 15326.4 |
+  | Orange +2 | 1295.0 | 49.0 | 17304.0 |
+  | Orange +3 | 1443.0 | 54.6 | 19281.6 |
+  | Orange +4 | 1591.0 | 60.2 | 21259.2 |
+  | Orange +5 | 1813.0 | 68.6 | 24225.6 |
+  | Rouge | 2109.0 | 79.8 | 28180.8 |
 
- **Info1:** Puissant guérisseur. Donne d'excellents bonus en début de combat.
-
- **Info2:** Puissant guérisseur. Donne d'excellents bonus en début de combat.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 25.9 | 0.56 | 2.54 | 230.72 |
+  | **4x** <i class="fas fa-star"/> | 29.6 | 0.59 | 3.11 | 263.68 |
+  | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
+  | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
 ### 1 Skill: Accord de sol
@@ -46,23 +70,21 @@ toc: true
  **Description:** 
 
 ### 4 Skill: Chant d'azur
- **Description:** <span style="color: #645252;font-size:20px">Les soins de la Sirène augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsque la Sirène joue un <Accord de sol>, elle dissipe tous les affaiblissements dont est victime l'unité alliée qui a le pourcentage de PV le plus bas.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les soins de la Sirène augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsque la Sirène joue un &lt;Accord de sol&gt;, elle dissipe tous les affaiblissements dont est victime l'unité alliée qui a le pourcentage de PV le plus bas.</span><span style="color: black">
 
 ### 5 Skill: Zen
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'<Étourdissement> lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
 ### 6 Skill: Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Guérison
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Guérison
 
 ## Awaking
 ### Awaking Details

@@ -3,7 +3,7 @@ title: "Грифон"
 permalink: /ru/units/Griffin/
 excerpt: "Отряды null"
 unitID: 103
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Грифон"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Пикирование: во время атаки наносит урон 3 противника.
 
+ **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
+
+ **Info:** null
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 75.7 | 6.25 | 1387.5 |
+  | Синий | 151.4 | 12.5 | 2775.0 |
+  | Blue +1 | 227.1 | 18.75 | 4162.5 |
+  | Синий +2 | 317.94 | 26.25 | 5827.5 |
+  | Фиолетовый | 408.78 | 33.75 | 7492.5 |
+  | Фиолетовый +1 | 499.62 | 41.25 | 9157.5 |
+  | Фиолетовый +2 | 605.6 | 50.0 | 11100.0 |
+  | Фиолетовый +3 | 711.58 | 58.75 | 13042.5 |
+  | Оранжевый | 817.56 | 67.5 | 14985.0 |
+  | Оранжевый +1 | 938.68 | 77.5 | 17205.0 |
+  | Оранжевый +2 | 1059.8 | 87.5 | 19425.0 |
+  | Orange +3 | 1180.92 | 97.5 | 21645.0 |
+  | Оранжевый +4 | 1302.04 | 107.5 | 23865.0 |
+  | Orange +5 | 1483.72 | 122.5 | 27195.0 |
+  | Red | 1725.96 | 142.5 | 31635.0 |
 
- **Info1:** null
-
- **Info2:** null
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.5 | 3.13 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.53 | 3.75 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.55 | 4.38 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
 ### 1 Skill: null
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* unit Damage
+* unit DMG Reduction
 
-    - ОЗ
-
-    - ERROR!
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,7 +107,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
  **Description:** 
@@ -99,7 +122,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

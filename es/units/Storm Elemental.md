@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /es/units/Storm Elemental/
 excerpt: "Unidades Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -25,19 +25,44 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Marcador de estática, daño adicional, ataques múltiples contra un solo objetivo.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 49.6 | 3.0 | 496.5 |
+  | Azul | 99.2 | 6.0 | 993.0 |
+  | Azul +1 | 148.8 | 9.0 | 1489.5 |
+  | Azul +2 | 208.32 | 12.6 | 2085.3 |
+  | Violeta | 267.84 | 16.2 | 2681.1 |
+  | Violeta +1 | 327.36 | 19.8 | 3276.9 |
+  | Violeta +2 | 396.8 | 24.0 | 3972.0 |
+  | Violeta +3 | 466.24 | 28.2 | 4667.1 |
+  | Naranja | 535.68 | 32.4 | 5362.2 |
+  | Naranja +1 | 615.04 | 37.2 | 6156.6 |
+  | Naranja +2 | 694.4 | 42.0 | 6951.0 |
+  | Naranja +3 | 773.76 | 46.8 | 7745.4 |
+  | Naranja +4 | 853.12 | 51.6 | 8539.8 |
+  | Naranja +5 | 972.16 | 58.8 | 9731.4 |
+  | Rojo | 1130.88 | 68.4 | 11320.2 |
 
- **Info1:** Marcador de estática, daño adicional, ataques múltiples contra un solo objetivo.
-
- **Info2:** Marcador de estática, daño adicional, ataques múltiples contra un solo objetivo.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.904 | 0.59 | 1.76 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 13.888 | 0.62 | 2.32 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 15.872 | 0.64 | 2.88 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
 ### 1 Skill: Marcador de estática
- **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, las unidades de Elementales de Tormenta causan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><estática></span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades enemigas a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, las unidades de Elementales de Tormenta causan </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;estática&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades enemigas a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### 2 Skill: Rebote de relámpagos
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Elemental de Tormenta tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de lanzar relámpagos al objetivo, lo que inflige 300% del daño.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Resistencia mágica
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Cadena de estática
- **Description:** <span style="color: #48b946;font-size:18px"><Marcador de estática></span><span style="color: #645252;font-size:18px"> Al principio de la batalla, el Elemental de Tormenta causa estática en todas las unidades enemigas.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marcador de estática&gt;</span><span style="color: #645252;font-size:18px"> Al principio de la batalla, el Elemental de Tormenta causa estática en todas las unidades enemigas.</span>
 
 ### 2nd Skill (or 1st): Venas de rayo
- **Description:** <span style="color: #48b946;font-size:18px"><Marcador de estática></span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanza <Marcador de estática> una vez cada 30 s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marcador de estática&gt;</span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanza &lt;Marcador de estática&gt; una vez cada 30 s.</span>
 
 ### 3rd Skill (or 4th): Campo de plasma
- **Description:** <span style="color: #48b946;font-size:18px"><Rebote de relámpagos></span><span style="color: #645252;font-size:18px"> Duplica la probabilidad de activar la habilidad.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rebote de relámpagos&gt;</span><span style="color: #645252;font-size:18px"> Duplica la probabilidad de activar la habilidad.</span>
 
 ### 4th Skill (or 3rd): Relámpago explosivo
- **Description:** <span style="color: #48b946;font-size:18px"><Rebote de relámpagos></span><span style="color: #645252;font-size:18px"> Duplica el daño de habilidad.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rebote de relámpagos&gt;</span><span style="color: #645252;font-size:18px"> Duplica el daño de habilidad.</span>
 
 ### 5th Skill (or 6th): Aura del Conflujo
- **Description:** <span style="color: #48b946;font-size:18px"><Fuerza Elemental></span><span style="color: #645252;font-size:18px"> Aumenta la velocidad de ataque de dos unidades de retaguardia aleatorias en un 25% durante 10 s cuando un Héroe lanza un hechizo de aire.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la velocidad de ataque de dos unidades de retaguardia aleatorias en un 25% durante 10 s cuando un Héroe lanza un hechizo de aire.</span>
 
 ### 6th Skill (or 5th): Explosión del Conflujo
- **Description:** <span style="color: #48b946;font-size:18px"><Fuerza elemental></span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanzará <Rebote de relámpagos> 1 vez cuando un Héroe lance un hechizo de tipo aire, infligiendo daño equivalente al 300% del ATQ propio a las unidades objetivo.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanzará &lt;Rebote de relámpagos&gt; 1 vez cuando un Héroe lance un hechizo de tipo aire, infligiendo daño equivalente al 300% del ATQ propio a las unidades objetivo.</span>
 
 ## Technical info
  **runart:** 0

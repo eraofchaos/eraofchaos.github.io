@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /it/units/Unicorn/
 excerpt: "Unità L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Unicorno"
 toc: true
@@ -25,44 +25,67 @@ toc: true
 
  **Unit description:** Cecità: Riduce la MIRA di una fila di unità nemiche.
 
+ **Recommend:** Aumenta la velocità di movimento per rendere più efficiente il tuo esercito.
+
+ **Info:** Riduce la MIRA dei nemici. Schivata elevata.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** Aumenta la velocità di movimento per rendere più efficiente il tuo esercito.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 75.7 | 6.5 | 1387.5 |
+  | Blu | 151.4 | 13.0 | 2775.0 |
+  | Blu +1 | 227.1 | 19.5 | 4162.5 |
+  | Blu +2 | 317.94 | 27.3 | 5827.5 |
+  | Viola | 408.78 | 35.1 | 7492.5 |
+  | Viola +1 | 499.62 | 42.9 | 9157.5 |
+  | Viola +2 | 605.6 | 52.0 | 11100.0 |
+  | Viola +3 | 711.58 | 61.1 | 13042.5 |
+  | Arancione | 817.56 | 70.2 | 14985.0 |
+  | Arancione +1 | 938.68 | 80.6 | 17205.0 |
+  | Arancione +2 | 1059.8 | 91.0 | 19425.0 |
+  | Arancione +3 | 1180.92 | 101.4 | 21645.0 |
+  | Arancione +4 | 1302.04 | 111.8 | 23865.0 |
+  | Arancione +5 | 1483.72 | 127.4 | 27195.0 |
+  | Rosso | 1725.96 | 148.2 | 31635.0 |
 
- **Info1:** Riduce la MIRA dei nemici. Schivata elevata.
-
- **Info2:** Riduce la MIRA dei nemici. Schivata elevata.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.53 | 3.23 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.55 | 3.86 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.58 | 4.49 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** 
 
 ### 2 Skill: Figure evanescenti
- **Description:** <span style="color: #645252;font-size:20px">Ogni volta che l'Unicorno schiva un attacco, ha un'alta probabilità di creare uno </span><span style="color: black"><span style="color: #48b946;font-size:20px"><scudo></span><span style="color: black"><span style="color: #645252;font-size:20px"> attorno a sé che assorbe danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Ogni volta che l'Unicorno schiva un attacco, ha un'alta probabilità di creare uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> attorno a sé che assorbe danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi.</span><span style="color: black">
 
 ### 3 Skill: Luce angelica
- **Description:** <span style="color: #645252;font-size:20px">La <Cecità> aumenta i danni subiti dall'unità bersaglio (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">La &lt;Cecità&gt; aumenta i danni subiti dall'unità bersaglio (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 4 Skill: Capo audace
  **Description:** <span style="color: #645252;font-size:20px">Schivata dell'Unicorno aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta la Schivata dell'Unicorno di 40 per ogni unità d'incursione alleata presente sul campo di battaglia.</span><span style="color: black">
 
 ### 5 Skill: Proliferazione pacifica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di <Stordimento> e <Pietrificazione> inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Marchio dell'odio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da <Rallentamento> o <Sanguinamento>, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Schivata unità
+* Riduzione danno unità
 
-    - PF
-
-    - Schivata unità
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Splendore del Sacro Spirito
- **Description:** <span style="color: #48b946;font-size:18px"><Cecità></span><span style="color: #645252;font-size:18px">: riduce ulteriormente la MIRA di 1000.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cecità&gt;</span><span style="color: #645252;font-size:18px">: riduce ulteriormente la MIRA di 1000.</span>
 
 ### 2nd Skill (or 1st): Volontà del Sacro Spirito
- **Description:** <span style="color: #48b946;font-size:18px"><Cecità></span><span style="color: #645252;font-size:18px">: lancia <Cecità> all'inizio del combattimento</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cecità&gt;</span><span style="color: #645252;font-size:18px">: lancia &lt;Cecità&gt; all'inizio del combattimento</span>
 
 ### 3rd Skill (or 4th): Sesto senso
- **Description:** <span style="color: #48b946;font-size:18px"><Silhouette luccicante></span><span style="color: #645252;font-size:18px">: probabilità di attivazione dello <scudo> aumentata a 200% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Silhouette luccicante&gt;</span><span style="color: #645252;font-size:18px">: probabilità di attivazione dello &lt;scudo&gt; aumentata a 200% del valore della tecnica originale.</span>
 
 ### 4th Skill (or 3rd): Potere della coordinazione
- **Description:** <span style="color: #48b946;font-size:18px"><Silhouette luccicante></span><span style="color: #645252;font-size:18px">: effetto aumentato a 200% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Silhouette luccicante&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 200% del valore della tecnica originale.</span>
 
 ### 5th Skill (or 6th): Guida del Sacro Spirito
- **Description:** <span style="color: #48b946;font-size:18px"><Capo intrepido></span><span style="color: #645252;font-size:18px">: quando il bersaglio viene sconfitto, l'Unicorno aumenta del 10% il DAN di tutte le unità alleate per 20 secondi. L'effetto è cumulabile fino a 3 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Capo intrepido&gt;</span><span style="color: #645252;font-size:18px">: quando il bersaglio viene sconfitto, l'Unicorno aumenta del 10% il DAN di tutte le unità alleate per 20 secondi. L'effetto è cumulabile fino a 3 volte.</span>
 
 ### 6th Skill (or 5th): Rifugio del Sacro Spirito
- **Description:** <span style="color: #48b946;font-size:18px"><Capo intrepido></span><span style="color: #645252;font-size:18px">: quando il bersaglio viene sconfitto, l'Unicorno genera uno <scudo> che protegge tutte le unità alleate, assorbendo danni pari al 6% dei PF massimi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Capo intrepido&gt;</span><span style="color: #645252;font-size:18px">: quando il bersaglio viene sconfitto, l'Unicorno genera uno &lt;scudo&gt; che protegge tutte le unità alleate, assorbendo danni pari al 6% dei PF massimi.</span>
 
 ## Technical info
  **runart:** 1

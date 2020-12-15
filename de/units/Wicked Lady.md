@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /de/units/Wicked Lady/
 excerpt: "Einheiten  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Wicked Lady"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 633.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 316.8 | 12.0 | 4327.5 |
+  | Blau | 633.6 | 24.0 | 8655.0 |
+  | Blau +1 | 950.4 | 36.0 | 12982.5 |
+  | Blau +2 | 1330.56 | 50.4 | 18175.5 |
+  | Lila | 1710.72 | 64.8 | 23368.5 |
+  | Lila +1 | 2090.88 | 79.2 | 28561.5 |
+  | Lila +2 | 2534.4 | 96.0 | 34620.0 |
+  | Lila +3 | 2977.92 | 112.8 | 40678.5 |
+  | Orange | 3421.44 | 129.6 | 46737.0 |
+  | Orange +1 | 3928.32 | 148.8 | 53661.0 |
+  | Orange +2 | 4435.2 | 168.0 | 60585.0 |
+  | Orange +3 | 4942.08 | 187.2 | 67509.0 |
+  | Orange +4 | 5448.96 | 206.4 | 74433.0 |
+  | Orange +5 | 6209.28 | 235.2 | 84819.0 |
+  | Rot | 7223.04 | 273.6 | 98667.0 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
 
 ## Skills
 ### 1 Skill:  Soul Burst
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Schaden (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Formationsbruch
- **Description:** <span style="color: #48b946;font-size:18px"><Taktische Entscheidung>:</span><span style="color: #645252;font-size:18px"> Erhöht die Auslösewahrscheinlichkeit des Standardangriffs um 50 %, reduziert die Zähigkeit von Nahkampfeinheiten um 60 und ihre ABW um 2 %. Wirkungsdauer 6 Sek., bis 5 Stapel.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Taktische Entscheidung&gt;:</span><span style="color: #645252;font-size:18px"> Erhöht die Auslösewahrscheinlichkeit des Standardangriffs um 50 %, reduziert die Zähigkeit von Nahkampfeinheiten um 60 und ihre ABW um 2 %. Wirkungsdauer 6 Sek., bis 5 Stapel.</span>
 
 ### 2nd Skill (or 1st): Durchmarsch-Strategie
- **Description:** <span style="color: #48b946;font-size:18px"><Taktische Entscheidung>: </span><span style="color: #645252;font-size:18px">Erhöht die Auslösewahrscheinlichkeit des Standardangriffs um 50 %. Im Kampf gegen Ranger-/Zauberer-Einheiten wird der eigene Krit. Schaden und der Schaden der Einheit zusätzlich um 4 % erhöht. Wirkungsdauer 6 Sek., bis 5 Stapel.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Taktische Entscheidung&gt;: </span><span style="color: #645252;font-size:18px">Erhöht die Auslösewahrscheinlichkeit des Standardangriffs um 50 %. Im Kampf gegen Ranger-/Zauberer-Einheiten wird der eigene Krit. Schaden und der Schaden der Einheit zusätzlich um 4 % erhöht. Wirkungsdauer 6 Sek., bis 5 Stapel.</span>
 
 ### 3rd Skill (or 4th): Fluchtschrei
- **Description:** <span style="color: #48b946;font-size:18px"><Heulen des Zauberbrechers></span><span style="color: #645252;font-size:18px">Wenn dein Feind einen Erdzauber wirkt, wird die Heilung gegnerischer Abwehr-Einheiten um 20 % reduziert; wenn dein Feind einen Wasserzauber wirkt, wird das Angriffstempo gegnerischer Fernkampf-Einheiten um 20 % reduziert; wenn dein Feind einen Feuerzauber wirkt, wird der Schaden gegnerischer Offensiv-Einheiten um 20 % reduziert; wenn dein Feind einen Luftzauber wirkt, werden gegnerische Zauberer-Einheiten 1,5 Sek. lang „verstummt“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Heulen des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px">Wenn dein Feind einen Erdzauber wirkt, wird die Heilung gegnerischer Abwehr-Einheiten um 20 % reduziert; wenn dein Feind einen Wasserzauber wirkt, wird das Angriffstempo gegnerischer Fernkampf-Einheiten um 20 % reduziert; wenn dein Feind einen Feuerzauber wirkt, wird der Schaden gegnerischer Offensiv-Einheiten um 20 % reduziert; wenn dein Feind einen Luftzauber wirkt, werden gegnerische Zauberer-Einheiten 1,5 Sek. lang „verstummt“.</span>
 
 ### 4th Skill (or 3rd): Macht des Zauberbrechers
- **Description:** <span style="color: #48b946;font-size:18px"><Heulen des Zauberbrechers></span><span style="color: #645252;font-size:18px">Wenn dein Feind einen Erdzauber wirkt, wird deine Heilung und die aller verbündeten Abwehr-Einheiten um 15 % erhöht; wenn dein Feind einen Wasserzauber wirkt, wird dein Angriffstempo und das aller verbündeten Fernkampf-Einheiten um 15 % erhöht; wenn dein Feind einen Feuerzauber wirkt, wird dein Schaden und der aller verbündeten Offensiv-Einheiten um 15 % erhöht; wenn dein Feind einen Luftzauber wirkt, werden du und alle verbündeten Zauberer-Einheiten 2 Sek. lang immun gegen „Stille“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Heulen des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px">Wenn dein Feind einen Erdzauber wirkt, wird deine Heilung und die aller verbündeten Abwehr-Einheiten um 15 % erhöht; wenn dein Feind einen Wasserzauber wirkt, wird dein Angriffstempo und das aller verbündeten Fernkampf-Einheiten um 15 % erhöht; wenn dein Feind einen Feuerzauber wirkt, wird dein Schaden und der aller verbündeten Offensiv-Einheiten um 15 % erhöht; wenn dein Feind einen Luftzauber wirkt, werden du und alle verbündeten Zauberer-Einheiten 2 Sek. lang immun gegen „Stille“.</span>
 
 ### 5th Skill (or 6th): Durchdringendes giftiges Blut
- **Description:** <span style="color: #48b946;font-size:18px"><Vergossenes giftiges Blut></span><span style="color: #645252;font-size:18px"><Vergossenes giftiges Blut> wird ausgelöst, wenn die Zieleinheit stirbt; die Fähigkeit kann dreimal ausgelöst werden. Vergossenes giftiges Blut wird garantiert einmal alle 30 Sek. ausgelöst.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vergossenes giftiges Blut&gt;</span><span style="color: #645252;font-size:18px">&lt;Vergossenes giftiges Blut&gt; wird ausgelöst, wenn die Zieleinheit stirbt; die Fähigkeit kann dreimal ausgelöst werden. Vergossenes giftiges Blut wird garantiert einmal alle 30 Sek. ausgelöst.</span>
 
 ### 6th Skill (or 5th): Spritzendes Blut
- **Description:** <span style="color: #48b946;font-size:18px"><Vergossenes giftiges Blut></span><span style="color: #645252;font-size:18px"><Vergossenes giftiges Blut> erhöht den Effekt der ABW-Reduzierung um 50 % und kann maximal 3 Mal ausgelöst werden, wenn eine Zieleinheit getötet wird. Kann nach 15 Sek. ein weiteres Mal ausgelöst werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vergossenes giftiges Blut&gt;</span><span style="color: #645252;font-size:18px">&lt;Vergossenes giftiges Blut&gt; erhöht den Effekt der ABW-Reduzierung um 50 % und kann maximal 3 Mal ausgelöst werden, wenn eine Zieleinheit getötet wird. Kann nach 15 Sek. ein weiteres Mal ausgelöst werden.</span>
 
 ## Technical info
  **runart:** 1

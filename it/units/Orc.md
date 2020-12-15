@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /it/units/Orc/
 excerpt: "Unità Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
 unitID: 403
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Orco"
 toc: true
@@ -25,22 +25,47 @@ toc: true
 
  **Unit description:** Colpo di grazia: infligge danni aggiuntivi ai nemici con PF inferiori al 30%.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** I suoi attacchi causano <Sanguinamento>. Infligge danni da mischia elevati. L'ATT cresce al diminuire dei PF.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 82.7
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 41.35 | 5.0 | 496.5 |
+  | Blu | 82.7 | 10.0 | 993.0 |
+  | Blu +1 | 124.05 | 15.0 | 1489.5 |
+  | Blu +2 | 173.67 | 21.0 | 2085.3 |
+  | Viola | 223.29 | 27.0 | 2681.1 |
+  | Viola +1 | 272.91 | 33.0 | 3276.9 |
+  | Viola +2 | 330.8 | 40.0 | 3972.0 |
+  | Viola +3 | 388.69 | 47.0 | 4667.1 |
+  | Arancione | 446.58 | 54.0 | 5362.2 |
+  | Arancione +1 | 512.74 | 62.0 | 6156.6 |
+  | Arancione +2 | 578.9 | 70.0 | 6951.0 |
+  | Arancione +3 | 645.06 | 78.0 | 7745.4 |
+  | Arancione +4 | 711.22 | 86.0 | 8539.8 |
+  | Arancione +5 | 810.46 | 98.0 | 9731.4 |
+  | Rosso | 942.78 | 114.0 | 11320.2 |
 
- **Info1:** I suoi attacchi causano <Sanguinamento>. Infligge danni da mischia elevati. L'ATT cresce al diminuire dei PF.
-
- **Info2:** I suoi attacchi causano <Sanguinamento>. Infligge danni da mischia elevati. L'ATT cresce al diminuire dei PF.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 9.924 | 0.64 | 2.6 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 11.578 | 0.67 | 3.2 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 13.232 | 0.7 | 3.8 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 14.886 | 0.73 | 4.4 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
 ## Skills
 ### 1 Skill: Eliminazione abile
  **Description:** <span style="color: #645252;font-size:20px">Quando affrontano un'unità con PF inferiori al 30%, aumenta ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) degli Orchi.</span><span style="color: black">
 
 ### 2 Skill: Affilato
- **Description:** <span style="color: #645252;font-size:20px">Gli Orchi godono di attacco aggiuntivo aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*60+240}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Gli Orchi godono di attacco aggiuntivo aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*60+240}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### 3 Skill: Raptus
  **Description:** <span style="color: #645252;font-size:20px">CRIT degli Orchi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Resistenza magica
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 0

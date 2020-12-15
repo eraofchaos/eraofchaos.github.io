@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /fr/units/Harpy/
 excerpt: "Unités Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Harpie"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Griffe tranchante de la Harpie : peut infliger des dégâts à plusieurs ennemis.
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** DPS élevés. Contient les unités au sol et permet à ses alliés d'attaquer.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 37.0 | 6.75 | 645.0 |
+  | Bleu | 74.0 | 13.5 | 1290.0 |
+  | Bleu +1 | 111.0 | 20.25 | 1935.0 |
+  | Bleu +2 | 155.4 | 28.35 | 2709.0 |
+  | Violet | 199.8 | 36.45 | 3483.0 |
+  | Violet +1 | 244.2 | 44.55 | 4257.0 |
+  | Violet +2 | 296.0 | 54.0 | 5160.0 |
+  | Violet +3 | 347.8 | 63.45 | 6063.0 |
+  | Orange | 399.6 | 72.9 | 6966.0 |
+  | Orange +1 | 458.8 | 83.7 | 7998.0 |
+  | Orange +2 | 518.0 | 94.5 | 9030.0 |
+  | Orange +3 | 577.2 | 105.3 | 10062.0 |
+  | Orange +4 | 636.4 | 116.1 | 11094.0 |
+  | Orange +5 | 725.2 | 132.3 | 12642.0 |
+  | Rouge | 843.6 | 153.9 | 14706.0 |
 
- **Info1:** DPS élevés. Contient les unités au sol et permet à ses alliés d'attaquer.
-
- **Info2:** DPS élevés. Contient les unités au sol et permet à ses alliés d'attaquer.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 8.88 | 0.53 | 3.34 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.36 | 0.55 | 3.97 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.84 | 0.58 | 4.61 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
 ### 1 Skill: Griffe tranchante de la Harpie
@@ -46,7 +71,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Quand un Héros ennemi lance un sort, la Harpie diminue la résistance aux dégâts de l'unité placé dans l'alignement de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. L'effet peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
 
 ### 4 Skill: Visée aérienne
- **Description:** <span style="color: #645252;font-size:20px">Les dégâts critiques de la Harpie augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Elle est assurée d'infliger des coups critiques aux cibles victimes d'<span style="color: #48b946;font-size:20px"><Étourdissement></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les dégâts critiques de la Harpie augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Elle est assurée d'infliger des coups critiques aux cibles victimes d'<span style="color: #48b946;font-size:20px">&lt;Étourdissement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Résistance magique
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 1

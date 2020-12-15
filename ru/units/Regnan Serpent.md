@@ -3,7 +3,7 @@ title: "Регнанский змей"
 permalink: /ru/units/Regnan Serpent/
 excerpt: "Отряды null"
 unitID: 9904
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Регнанский змей"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Топот глубин: наносит урон в области, отбрасывает врага и предотвращает критические удары
 
+ **Recommend:** Сильный танк, сдерживает врага.
+
+ **Info:** Сильный защитник. Хорошо сдерживает многочисленных врагов и снижает вероятность критического удара.
+
+## Basic stats
  **Base HP:** 3027.0
 
  **Base ATK:** 100.9
 
- **Recommend:** Сильный танк, сдерживает врага.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 50.45 | 15.0 | 2270.25 |
+  | Синий | 100.9 | 30.0 | 4540.5 |
+  | Blue +1 | 151.35 | 45.0 | 6810.75 |
+  | Синий +2 | 211.89 | 63.0 | 9535.05 |
+  | Фиолетовый | 272.43 | 81.0 | 12259.35 |
+  | Фиолетовый +1 | 332.97 | 99.0 | 14983.65 |
+  | Фиолетовый +2 | 403.6 | 120.0 | 18162.0 |
+  | Фиолетовый +3 | 474.23 | 141.0 | 21340.35 |
+  | Оранжевый | 544.86 | 162.0 | 24518.7 |
+  | Оранжевый +1 | 625.58 | 186.0 | 28151.1 |
+  | Оранжевый +2 | 706.3 | 210.0 | 31783.5 |
+  | Orange +3 | 787.02 | 234.0 | 35415.9 |
+  | Оранжевый +4 | 867.74 | 258.0 | 39048.3 |
+  | Orange +5 | 988.82 | 294.0 | 44496.9 |
+  | Red | 1150.26 | 342.0 | 51761.7 |
 
- **Info1:** Сильный защитник. Хорошо сдерживает многочисленных врагов и снижает вероятность критического удара.
-
- **Info2:** Сильный защитник. Хорошо сдерживает многочисленных врагов и снижает вероятность критического удара.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 14.126 | 0.39 | 7.6 | 423.78 |
+  | **4x** <i class="fas fa-star"/> | 16.144 | 0.4 | 8.4 | 484.32 |
+  | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
+  | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
 ## Skills
 ### 1 Skill: null
@@ -46,7 +70,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">В начале боя выбирается одно из 3 усилений: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Эффект длится в течение всего боя. Регнанские змеи получают одно случайное усиление при нанесении критического удара. Эффект может суммироваться до 3 раз.</span><span style="color: black">
 
 ### 4 Skill: Боевой рог
- **Description:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют <Топот глубин> при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется <Глубоководный топот>, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют &lt;Топот глубин&gt; при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется &lt;Глубоководный топот&gt;, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
 
 ### 5 Skill: Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Защита
+* unit DMG Reduction
 
-    - ОЗ
-
-    - Защита
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details

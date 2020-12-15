@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /it/units/Monk/
 excerpt: "Unità I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Monaco"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Preghiera: cura l'unità con la percentuale di PF minore.
 
+ **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+
+ **Info:** Fornisce <Morale alto>. Eccellente guaritore.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Guerrieri, Maghi e Sacerdoti sono molto efficaci insieme.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 51.3 | 4.25 | 496.5 |
+  | Blu | 102.6 | 8.5 | 993.0 |
+  | Blu +1 | 153.9 | 12.75 | 1489.5 |
+  | Blu +2 | 215.46 | 17.85 | 2085.3 |
+  | Viola | 277.02 | 22.95 | 2681.1 |
+  | Viola +1 | 338.58 | 28.05 | 3276.9 |
+  | Viola +2 | 410.4 | 34.0 | 3972.0 |
+  | Viola +3 | 482.22 | 39.95 | 4667.1 |
+  | Arancione | 554.04 | 45.9 | 5362.2 |
+  | Arancione +1 | 636.12 | 52.7 | 6156.6 |
+  | Arancione +2 | 718.2 | 59.5 | 6951.0 |
+  | Arancione +3 | 800.28 | 66.3 | 7745.4 |
+  | Arancione +4 | 882.36 | 73.1 | 8539.8 |
+  | Arancione +5 | 1005.48 | 83.3 | 9731.4 |
+  | Rosso | 1169.64 | 96.9 | 11320.2 |
 
- **Info1:** Fornisce <Morale alto>. Eccellente guaritore.
-
- **Info2:** Fornisce <Morale alto>. Eccellente guaritore.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 10.26 | 0.45 | 1.7 | 66.2 |
+  | **2x** <i class="fas fa-star"/> | 12.312 | 0.47 | 2.29 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.5 | 2.87 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.52 | 3.46 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.54 | 4.04 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
 ## Skills
 ### 1 Skill: Preghiera
  **Description:** <span style="color: #645252;font-size:20px">I Monaci curano di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF l'unità alleata con la percentuale di PF minore ogni 17 secondi.</span><span style="color: black">
 
 ### 2 Skill: Benedizione del valoroso
- **Description:** <span style="color: #645252;font-size:20px">All'inizio del combattimento, i Monaci applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale alto></span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate sul proprio percorso per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">All'inizio del combattimento, i Monaci applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate sul proprio percorso per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### 3 Skill: Meditazione
  **Description:** <span style="color: #645252;font-size:20px">Se i Monaci sono sul campo di battaglia, il tasso di recupero degli incantesimi degli eroi aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Guarigione
+* Resistenza magica
 
-    - PF
-
-    - Guarigione
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Inquisizione della Sacra Luce
- **Description:** <span style="color: #48b946;font-size:18px"><Benedizione del valoroso></span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa <Morale alto> per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. All'inizio della battaglia, il Monaco aumenta inoltre del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 60 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco infligge danni pari al 10% del proprio ATT alle unità Inferno nemiche ogni 2 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. All'inizio della battaglia, il Monaco aumenta inoltre del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 60 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco infligge danni pari al 10% del proprio ATT alle unità Inferno nemiche ogni 2 secondi.</span>
 
 ### 2nd Skill (or 1st): Benedizione della Sacra Luce
- **Description:** <span style="color: #48b946;font-size:18px"><Benedizione del valoroso></span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa <Morale alto> per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 120 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco cura le unità Castello alleate di una quantità di PF pari al 10% del loro ATT ogni 2 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 120 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco cura le unità Castello alleate di una quantità di PF pari al 10% del loro ATT ogni 2 secondi.</span>
 
 ### 3rd Skill (or 4th): Benedizione splendente
- **Description:** <span style="color: #48b946;font-size:18px"><Meditazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di <Morale alto>, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 10 il mana degli eroi. Recupero: 3 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 10 il mana degli eroi. Recupero: 3 secondi.</span>
 
 ### 4th Skill (or 3rd): Magnifica grazia
- **Description:** <span style="color: #48b946;font-size:18px"><Meditazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di <Morale alto>, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 0,5 la rigenerazione del mana degli eroi. Recupero: 3 secondi. Il buff alla rigenerazione del mana può essere applicato fino a 4 volte.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 0,5 la rigenerazione del mana degli eroi. Recupero: 3 secondi. Il buff alla rigenerazione del mana può essere applicato fino a 4 volte.</span>
 
 ### 5th Skill (or 6th): Giudizio dei Savi
- **Description:** <span style="color: #48b946;font-size:18px"><Rigenerazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia <Preghiera>, avvia un attacco in 3 fasi contro l'unità nemica con i PF più bassi, infliggendo danni pari al 150% del proprio ATT.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, avvia un attacco in 3 fasi contro l'unità nemica con i PF più bassi, infliggendo danni pari al 150% del proprio ATT.</span>
 
 ### 6th Skill (or 5th): Salmo rituale
- **Description:** <span style="color: #48b946;font-size:18px"><Rigenerazione></span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia <Preghiera>, cura in 3 fasi distinte l'unità alleata con i PF più bassi di una quantità di PF pari al 150% del proprio ATT.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, cura in 3 fasi distinte l'unità alleata con i PF più bassi di una quantità di PF pari al 150% del proprio ATT.</span>
 
 ## Technical info
  **runart:** 0

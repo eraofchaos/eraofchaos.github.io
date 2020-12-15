@@ -3,7 +3,7 @@ title: "Guerrieri spartani"
 permalink: /it/units/Spartan Warriors/
 excerpt: "Unità Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Guerrieri spartani"
 toc: true
@@ -25,22 +25,46 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Gli attacchi con lo scudo <stordiscono> i nemici. La morte di un'unità potenzia i suoi alleati.
+
+## Basic stats
  **Base HP:** 2825.0
 
  **Base ATK:** 216.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 108.0 | 12.5 | 2118.75 |
+  | Blu | 216.0 | 25.0 | 4237.5 |
+  | Blu +1 | 324.0 | 37.5 | 6356.25 |
+  | Blu +2 | 453.6 | 52.5 | 8898.75 |
+  | Viola | 583.2 | 67.5 | 11441.25 |
+  | Viola +1 | 712.8 | 82.5 | 13983.75 |
+  | Viola +2 | 864.0 | 100.0 | 16950.0 |
+  | Viola +3 | 1015.2 | 117.5 | 19916.25 |
+  | Arancione | 1166.4 | 135.0 | 22882.5 |
+  | Arancione +1 | 1339.2 | 155.0 | 26272.5 |
+  | Arancione +2 | 1512.0 | 175.0 | 29662.5 |
+  | Arancione +3 | 1684.8 | 195.0 | 33052.5 |
+  | Arancione +4 | 1857.6 | 215.0 | 36442.5 |
+  | Arancione +5 | 2116.8 | 245.0 | 41527.5 |
+  | Rosso | 2462.4 | 285.0 | 48307.5 |
 
- **Info1:** Gli attacchi con lo scudo <stordiscono> i nemici. La morte di un'unità potenzia i suoi alleati.
-
- **Info2:** Gli attacchi con lo scudo <stordiscono> i nemici. La morte di un'unità potenzia i suoi alleati.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 30.24 | 0.33 | 6.5 | 395.5 |
+  | **4x** <i class="fas fa-star"/> | 34.56 | 0.35 | 7.25 | 452.0 |
+  | **5x** <i class="fas fa-star"/> | 38.88 | 0.36 | 8.0 | 508.5 |
+  | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** 
 
 ### 2 Skill: Attacco con scudo
- **Description:** <span style="color: #645252;font-size:20px">I Guerrieri spartani attaccano con i propri scudi, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordendo> </span><span style="color: black"><span style="color: #645252;font-size:20px">le unità nemiche in un'ampia area per 5 secondi. Dopo l'attacco, godono di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%) per i 10 secondi successivi. </span><span style="color: black"><span style="color: #645252;font-size:20px">Recupero: 20 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">I Guerrieri spartani attaccano con i propri scudi, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordendo&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">le unità nemiche in un'ampia area per 5 secondi. Dopo l'attacco, godono di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%) per i 10 secondi successivi. </span><span style="color: black"><span style="color: #645252;font-size:20px">Recupero: 20 secondi.</span><span style="color: black">
 
 ### 3 Skill: Stirpe spartana
  **Description:** <span style="color: #645252;font-size:20px">Quando i Guerrieri spartani perdono il 5% dei propri PF, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il loro ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La prima volta che i loro PF scendono a 50%, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il loro DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Danno unità
+* Riduzione danno unità
 
-    - PF
-
-    - Danno unità
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px"><Muro di lance></span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata <Stordimento> aumentata a 4,5 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px"><Comando></span><span style="color: #645252;font-size:18px">: con <Morale alto>, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa <Impedimento> al bersaglio. <Impedimento>: riduce il CRIT del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px"><Caccia al Drago></span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

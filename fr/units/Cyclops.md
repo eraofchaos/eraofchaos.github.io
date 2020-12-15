@@ -3,7 +3,7 @@ title: "Cyclope"
 permalink: /fr/units/Cyclops/
 excerpt: "Unités Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Cyclope"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Pierre de feu : inflige de très lourds dégâts à toutes les troupes ennemies sur son chemin.
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** Dispose d'une puissante attaque de zone, efficace pour défendre les unités plus petites.
+
+## Basic stats
  **Base HP:** 5091.0
 
  **Base ATK:** 678.8
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 339.4 | 6.25 | 3818.25 |
+  | Bleu | 678.8 | 12.5 | 7636.5 |
+  | Bleu +1 | 1018.2 | 18.75 | 11454.75 |
+  | Bleu +2 | 1425.48 | 26.25 | 16036.65 |
+  | Violet | 1832.76 | 33.75 | 20618.55 |
+  | Violet +1 | 2240.04 | 41.25 | 25200.45 |
+  | Violet +2 | 2715.2 | 50.0 | 30546.0 |
+  | Violet +3 | 3190.36 | 58.75 | 35891.55 |
+  | Orange | 3665.52 | 67.5 | 41237.1 |
+  | Orange +1 | 4208.56 | 77.5 | 47346.3 |
+  | Orange +2 | 4751.6 | 87.5 | 53455.5 |
+  | Orange +3 | 5294.64 | 97.5 | 59564.7 |
+  | Orange +4 | 5837.68 | 107.5 | 65673.9 |
+  | Orange +5 | 6652.24 | 122.5 | 74837.7 |
+  | Rouge | 7738.32 | 142.5 | 87056.1 |
 
- **Info1:** Dispose d'une puissante attaque de zone, efficace pour défendre les unités plus petites.
-
- **Info2:** Dispose d'une puissante attaque de zone, efficace pour défendre les unités plus petites.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 81.456 | 0.53 | 3.13 | 610.92 |
+  | **3x** <i class="fas fa-star"/> | 95.032 | 0.55 | 3.75 | 712.74 |
+  | **4x** <i class="fas fa-star"/> | 108.608 | 0.58 | 4.38 | 814.56 |
+  | **5x** <i class="fas fa-star"/> | 122.184 | 0.6 | 5.0 | 916.38 |
+  | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
 ### 1 Skill: Pierre de feu
- **Description:** <span style="color: #645252;font-size:20px">Les Cyclopes lancent des explosifs dans une large zone devant eux, ce qui </span><span style="color: black"><span style="color: #48b946;font-size:20px"><brûle></span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies touchées et leur inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts toutes les 2 secondes pendant 8 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les Cyclopes lancent des explosifs dans une large zone devant eux, ce qui </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies touchées et leur inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts toutes les 2 secondes pendant 8 secondes.</span><span style="color: black">
 
 ### 2 Skill: Frappe de siège
  **Description:** <span style="color: #645252;font-size:20px">Le Cyclope augmente les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV. Quand un Cyclope fait face à une unité de 9 combattants, son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts de zone à 3 unités ennemies.</span><span style="color: black">
 
 ### 3 Skill: Trembleterre
- **Description:** <span style="color: #645252;font-size:20px">Quand on l'attaque, le Cyclope a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies dans une large zone et de les </span><span style="color: black"><span style="color: #48b946;font-size:20px"><étourdir></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand on l'attaque, le Cyclope a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies dans une large zone et de les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
 ### 4 Skill: Géant
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Cyclope augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il fait face à une unité de 9 combattants, les dégâts subis par l'unité sont diminués de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Coup critique d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Coup critique d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 0

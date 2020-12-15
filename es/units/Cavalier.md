@@ -3,7 +3,7 @@ title: "Catafracto"
 permalink: /es/units/Cavalier/
 excerpt: "Unidades Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: es
 ref: "Catafracto"
 toc: true
@@ -25,19 +25,45 @@ toc: true
 
  **Unit description:** Justa: inflige daño considerable y aturde con el primer ataque.
 
+ **Recommend:** Mejora la moral para obtener los beneficios de moral alta, como movimientos adicionales para las unidades afectadas.
+
+ **Info:** Carga contra tus enemigos al inicio de la batalla, dándote una ventaja.
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Mejora la moral para obtener los beneficios de moral alta, como movimientos adicionales para las unidades afectadas.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 39.7 | 8.75 | 608.25 |
+  | Azul | 79.4 | 17.5 | 1216.5 |
+  | Azul +1 | 119.1 | 26.25 | 1824.75 |
+  | Azul +2 | 166.74 | 36.75 | 2554.65 |
+  | Violeta | 214.38 | 47.25 | 3284.55 |
+  | Violeta +1 | 262.02 | 57.75 | 4014.45 |
+  | Violeta +2 | 317.6 | 70.0 | 4866.0 |
+  | Violeta +3 | 373.18 | 82.25 | 5717.55 |
+  | Naranja | 428.76 | 94.5 | 6569.1 |
+  | Naranja +1 | 492.28 | 108.5 | 7542.3 |
+  | Naranja +2 | 555.8 | 122.5 | 8515.5 |
+  | Naranja +3 | 619.32 | 136.5 | 9488.7 |
+  | Naranja +4 | 682.84 | 150.5 | 10461.9 |
+  | Naranja +5 | 778.12 | 171.5 | 11921.7 |
+  | Rojo | 905.16 | 199.5 | 13868.1 |
 
- **Info1:** Carga contra tus enemigos al inicio de la batalla, dándote una ventaja.
-
- **Info2:** Carga contra tus enemigos al inicio de la batalla, dándote una ventaja.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.94 | 0.46 | 3.5 | 81.1 |
+  | **2x** <i class="fas fa-star"/> | 9.528 | 0.48 | 4.18 | 97.32 |
+  | **3x** <i class="fas fa-star"/> | 11.116 | 0.51 | 4.85 | 113.54 |
+  | **4x** <i class="fas fa-star"/> | 12.704 | 0.53 | 5.53 | 129.76 |
+  | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
+  | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
 ### 1 Skill: Justa
- **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Catafractos en el campo de batalla, su primer ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo, y los </span><span style="color: black"><span style="color: #48b946;font-size:20px"><aturde></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Catafractos en el campo de batalla, su primer ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo, y los </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
 
 ### 2 Skill: Carga gloriosa
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la unidad de Catafractos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Daño de la unidad
+* Reducción de daño de la unidad
 
-    - PV
-
-    - Daño de la unidad
-
-    - Reducción de daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Habilidades de supervivencia
- **Description:** <span style="color: #48b946;font-size:18px"><Knight Abilities></span><span style="color: #645252;font-size:18px">Aumenta los PV y la resistencia mágica un 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta los PV y la resistencia mágica un 30%</span>
 
 ### 2nd Skill (or 1st): Habilidades de guerra
- **Description:** <span style="color: #48b946;font-size:18px"><Knight Abilities></span><span style="color: #645252;font-size:18px">Aumenta el ATQ y la resistencia mágica un 30% más</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ y la resistencia mágica un 30% más</span>
 
 ### 3rd Skill (or 4th): Acometida de caballero con armadura ligera
- **Description:** <span style="color: #48b946;font-size:18px"><Aniquilación rápida></span><span style="color: #645252;font-size:18px">Activa Aniquilación rápida cuando muere una unidad objetivo (excluyendo los monstruos invocados)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aniquilación rápida&gt;</span><span style="color: #645252;font-size:18px">Activa Aniquilación rápida cuando muere una unidad objetivo (excluyendo los monstruos invocados)</span>
 
 ### 4th Skill (or 3rd): Carga con armadura pesada
- **Description:** <span style="color: #48b946;font-size:18px"><Fast Breaching></span><span style="color: #645252;font-size:18px">Aumenta el daño al 150%, tras otro asalto, y <stuns> a los enemigos durante 5 s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fast Breaching&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño al 150%, tras otro asalto, y &lt;stuns&gt; a los enemigos durante 5 s.</span>
 
 ### 5th Skill (or 6th): Fanatismo
- **Description:** <span style="color: #48b946;font-size:18px"><Pica de caballero></span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 20% adicional. El efecto se duplica si tiene «Moral alta»</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 20% adicional. El efecto se duplica si tiene «Moral alta»</span>
 
 ### 6th Skill (or 5th): Pensamiento apacible
- **Description:** <span style="color: #48b946;font-size:18px"><Pica de caballero></span><span style="color: #645252;font-size:18px">: Al combatir, entra en estado de «Moral alta». Golpe crítico garantizado. El efecto dura 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Al combatir, entra en estado de «Moral alta». Golpe crítico garantizado. El efecto dura 10 s</span>
 
 ## Technical info
  **runart:** 1

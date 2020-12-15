@@ -3,7 +3,7 @@ title: "Vampir"
 permalink: /de/units/Vampire/
 excerpt: "Einheiten Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Vampir"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Lebensentzug: Entzieht gegnerischen Einheiten Gesundheit und stellt die eigene wieder her.
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Verursacht erheblichen Schaden, wenn die Gesundheit höher ist als die des Gegners.
+
+## Basic stats
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 37.2 | 6.25 | 682.5 |
+  | Blau | 74.4 | 12.5 | 1365.0 |
+  | Blau +1 | 111.6 | 18.75 | 2047.5 |
+  | Blau +2 | 156.24 | 26.25 | 2866.5 |
+  | Lila | 200.88 | 33.75 | 3685.5 |
+  | Lila +1 | 245.52 | 41.25 | 4504.5 |
+  | Lila +2 | 297.6 | 50.0 | 5460.0 |
+  | Lila +3 | 349.68 | 58.75 | 6415.5 |
+  | Orange | 401.76 | 67.5 | 7371.0 |
+  | Orange +1 | 461.28 | 77.5 | 8463.0 |
+  | Orange +2 | 520.8 | 87.5 | 9555.0 |
+  | Orange +3 | 580.32 | 97.5 | 10647.0 |
+  | Orange +4 | 639.84 | 107.5 | 11739.0 |
+  | Orange +5 | 729.12 | 122.5 | 13377.0 |
+  | Rot | 848.16 | 142.5 | 15561.0 |
 
- **Info1:** Verursacht erheblichen Schaden, wenn die Gesundheit höher ist als die des Gegners.
-
- **Info2:** Verursacht erheblichen Schaden, wenn die Gesundheit höher ist als die des Gegners.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 8.928 | 0.53 | 3.13 | 109.2 |
+  | **3x** <i class="fas fa-star"/> | 10.416 | 0.55 | 3.75 | 127.4 |
+  | **4x** <i class="fas fa-star"/> | 11.904 | 0.58 | 4.38 | 145.6 |
+  | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
+  | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
 ### 1 Skill: Lebensentzug
@@ -43,7 +68,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Der Lebensentzug des Vampirs wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> stärker.</span><span style="color: black">
 
 ### 3 Skill: Anschwellen
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Vampir <Lebensentzug> wirkt, wird der Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verstärkt. Wirkt bis zum Ende der Schlacht, max. 3 Stapel.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wenn ein Vampir &lt;Lebensentzug&gt; wirkt, wird der Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verstärkt. Wirkt bis zum Ende der Schlacht, max. 3 Stapel.</span><span style="color: black">
 
 ### 4 Skill: Blutjagd
  **Description:** <span style="color: #645252;font-size:20px">Wenn er ein Ziel angreift, dessen LP-Prozentsatz niedriger als deiner ist, steigen der ANG des Vampirs um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Schaden (Einheit)
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Schaden (Einheit)
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ausged. Blutdurst
- **Description:** <span style="color: #48b946;font-size:18px"><Lebensentzug></span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %, und die Heilung wirkt auf befreundete Einheiten in hohem Radius.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensentzug&gt;</span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %, und die Heilung wirkt auf befreundete Einheiten in hohem Radius.</span>
 
 ### 2nd Skill (or 1st): Blutrünstige Rache
- **Description:** <span style="color: #48b946;font-size:18px"><Lebensentzug></span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %. Wenn die LP das erste Mal unter 50 % sinken, wird <Lebensentzug> einmal gewirkt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensentzug&gt;</span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %. Wenn die LP das erste Mal unter 50 % sinken, wird &lt;Lebensentzug&gt; einmal gewirkt.</span>
 
 ### 3rd Skill (or 4th): Umarmung der Toten
- **Description:** <span style="color: #48b946;font-size:18px"><Blutjagd></span><span style="color: #645252;font-size:18px">Erhöht den Schaden der Einheit um 10 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutjagd&gt;</span><span style="color: #645252;font-size:18px">Erhöht den Schaden der Einheit um 10 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
 
 ### 4th Skill (or 3rd): Schutz der Toten
- **Description:** <span style="color: #48b946;font-size:18px"><Blutjagd></span><span style="color: #645252;font-size:18px">Erhöht die Magieresistenz um 20 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutjagd&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Magieresistenz um 20 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
 
 ### 5th Skill (or 6th): Rote Begierde
- **Description:** <span style="color: #48b946;font-size:18px"><Blutdurstig></span><span style="color: #645252;font-size:18px">Immun gegen Krankheit. Lebensentzug wird um 50 % erhöht, wenn die LP unter 50 % sinken. Dauert die gesamte Schlacht über an, auch dann noch, wenn die LP wieder geheilt werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurstig&gt;</span><span style="color: #645252;font-size:18px">Immun gegen Krankheit. Lebensentzug wird um 50 % erhöht, wenn die LP unter 50 % sinken. Dauert die gesamte Schlacht über an, auch dann noch, wenn die LP wieder geheilt werden.</span>
 
 ### 6th Skill (or 5th): Blutiger Kuss
- **Description:** <span style="color: #48b946;font-size:18px"><Blutdurstig></span><span style="color: #645252;font-size:18px">Gewährt Immunität gegen Krankheit und verbessert die Heilung um 50 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurstig&gt;</span><span style="color: #645252;font-size:18px">Gewährt Immunität gegen Krankheit und verbessert die Heilung um 50 %.</span>
 
 ## Technical info
  **runart:** 1

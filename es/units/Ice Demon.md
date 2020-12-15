@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /es/units/Ice Demon/
 excerpt: "Unidades  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
 unitID: 908
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: es
 ref: "Ice Demon"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5996.3
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 282.85 | 12.75 | 4497.225 |
+  | Azul | 565.7 | 25.5 | 8994.45 |
+  | Azul +1 | 848.55 | 38.25 | 13491.675 |
+  | Azul +2 | 1187.97 | 53.55 | 18888.345 |
+  | Violeta | 1527.39 | 68.85 | 24285.015 |
+  | Violeta +1 | 1866.81 | 84.15 | 29681.685 |
+  | Violeta +2 | 2262.8 | 102.0 | 35977.8 |
+  | Violeta +3 | 2658.79 | 119.85 | 42273.915 |
+  | Naranja | 3054.78 | 137.7 | 48570.03 |
+  | Naranja +1 | 3507.34 | 158.1 | 55765.59 |
+  | Naranja +2 | 3959.9 | 178.5 | 62961.15 |
+  | Naranja +3 | 4412.46 | 198.9 | 70156.71 |
+  | Naranja +4 | 4865.02 | 219.3 | 77352.27 |
+  | Naranja +5 | 5543.86 | 249.9 | 88145.61 |
+  | Rojo | 6448.98 | 290.7 | 102536.73 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.5 | 6.61 | 839.482 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.52 | 7.37 | 959.408 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.54 | 8.12 | 1079.334 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.56 | 8.88 | 1199.26 |
 
 ## Skills
 ### 1 Skill:  Glacial Spur
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Daño de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">Aplica <deterrence> al objetivo al enfrentarse a unidades de 1 o 4 miembros. <Deterrence>: Reduce el golpe crítico del objetivo en 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px"><Matanza de Dragones></span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 0

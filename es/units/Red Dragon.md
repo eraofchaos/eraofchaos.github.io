@@ -3,7 +3,7 @@ title: "Dragón Rojo"
 permalink: /es/units/Red Dragon/
 excerpt: "Unidades Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones."
 unitID: 708
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Dragón Rojo"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** El Dragón ruge, volviéndose inmune a los controles de estado. La verdadera sangre del Dragón resuena con el resto de su raza.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 769.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 384.65 | 8.0 | 4073.25 |
+  | Azul | 769.3 | 16.0 | 8146.5 |
+  | Azul +1 | 1153.95 | 24.0 | 12219.75 |
+  | Azul +2 | 1615.53 | 33.6 | 17107.65 |
+  | Violeta | 2077.11 | 43.2 | 21995.55 |
+  | Violeta +1 | 2538.69 | 52.8 | 26883.45 |
+  | Violeta +2 | 3077.2 | 64.0 | 32586.0 |
+  | Violeta +3 | 3615.71 | 75.2 | 38288.55 |
+  | Naranja | 4154.22 | 86.4 | 43991.1 |
+  | Naranja +1 | 4769.66 | 99.2 | 50508.3 |
+  | Naranja +2 | 5385.1 | 112.0 | 57025.5 |
+  | Naranja +3 | 6000.54 | 124.8 | 63542.7 |
+  | Naranja +4 | 6615.98 | 137.6 | 70059.9 |
+  | Naranja +5 | 7539.14 | 156.8 | 79835.7 |
+  | Rojo | 8770.02 | 182.4 | 92870.1 |
 
- **Info1:** El Dragón ruge, volviéndose inmune a los controles de estado. La verdadera sangre del Dragón resuena con el resto de su raza.
-
- **Info2:** El Dragón ruge, volviéndose inmune a los controles de estado. La verdadera sangre del Dragón resuena con el resto de su raza.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 107.702 | 0.53 | 4.52 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 5.18 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.84 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Llamarada ardiente
@@ -59,13 +83,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Daño de la unidad
+* Golpe crítico de la unidad
 
-    - PV
-
-    - Daño de la unidad
-
-    - Golpe crítico de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -87,22 +109,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Escamas magnéticas
- **Description:** <span style="color: #48b946;font-size:18px"><Inmunidad mágica></span><span style="color: #645252;font-size:18px">Por cada <Dragon Breath> lanzado, el Dragón Negro recibe 1 acumulación de ventaja, hasta un máximo de 6. La ventaja no se puede disipar</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inmunidad mágica&gt;</span><span style="color: #645252;font-size:18px">Por cada &lt;Dragon Breath&gt; lanzado, el Dragón Negro recibe 1 acumulación de ventaja, hasta un máximo de 6. La ventaja no se puede disipar</span>
 
 ### 2nd Skill (or 1st): Armadura de Dragón ígnea
- **Description:** <span style="color: #48b946;font-size:18px"><Inmunidad mágica></span><span style="color: #645252;font-size:18px">Por cada <Dragon Breath> lanzado, el Dragón Negro recibe 2 acumulaciones de ventaja, hasta un máximo de 4. La ventaja no se puede disipar</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inmunidad mágica&gt;</span><span style="color: #645252;font-size:18px">Por cada &lt;Dragon Breath&gt; lanzado, el Dragón Negro recibe 2 acumulaciones de ventaja, hasta un máximo de 4. La ventaja no se puede disipar</span>
 
 ### 3rd Skill (or 4th): Nutrición de manto
- **Description:** <span style="color: #48b946;font-size:18px"><Black Dragon Scale></span><span style="color: #645252;font-size:18px">Recupera un 2% de los PV al recibir un golpe crítico. Al recibir daño único, el Dragón Negro será inmune al daño que supere el 10% de sus PV máximos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Recupera un 2% de los PV al recibir un golpe crítico. Al recibir daño único, el Dragón Negro será inmune al daño que supere el 10% de sus PV máximos</span>
 
 ### 4th Skill (or 3rd): Bloqueo volcánico
- **Description:** <span style="color: #48b946;font-size:18px"><Black Dragon Scale></span><span style="color: #645252;font-size:18px">La cantidad de curación del Dragón Negro aumenta un 10%. Al recibir daño único, el Dragón Negro será inmune al daño que supere el 10% de sus PV máximos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">La cantidad de curación del Dragón Negro aumenta un 10%. Al recibir daño único, el Dragón Negro será inmune al daño que supere el 10% de sus PV máximos</span>
 
 ### 5th Skill (or 6th): Vapor de lava
- **Description:** <span style="color: #48b946;font-size:18px"><Aliento de dragón></span><span style="color: #645252;font-size:18px">El daño causado por <Aliento de dragón> aumenta al 200% del daño de la habilidad anterior. Cuando un Héroe hostil lance un hechizo, el Dragón Negro usa <Aliento de dragón> 1 vez (no puede activar la habilidad rompehechizos porque no es una habilidad rompehechizos). La recarga de habilidad es de 15 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aliento de dragón&gt;</span><span style="color: #645252;font-size:18px">El daño causado por &lt;Aliento de dragón&gt; aumenta al 200% del daño de la habilidad anterior. Cuando un Héroe hostil lance un hechizo, el Dragón Negro usa &lt;Aliento de dragón&gt; 1 vez (no puede activar la habilidad rompehechizos porque no es una habilidad rompehechizos). La recarga de habilidad es de 15 s</span>
 
 ### 6th Skill (or 5th): Magma subterráneo
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Breath></span><span style="color: #645252;font-size:18px">El porcentaje de daño causado por <Dragon Breath> aumenta al 150% del daño de la habilidad anterior. Cuando un Héroe hostil lance un hechizo, el Dragón Negro usa <Dragon Breath> 1 vez (no puede activar la habilidad rompehechizos porque no es una habilidad rompehechizos). La recarga de habilidad es de 15 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Breath&gt;</span><span style="color: #645252;font-size:18px">El porcentaje de daño causado por &lt;Dragon Breath&gt; aumenta al 150% del daño de la habilidad anterior. Cuando un Héroe hostil lance un hechizo, el Dragón Negro usa &lt;Dragon Breath&gt; 1 vez (no puede activar la habilidad rompehechizos porque no es una habilidad rompehechizos). La recarga de habilidad es de 15 s</span>
 
 ## Technical info
  **runart:** 1

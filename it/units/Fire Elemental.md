@@ -3,7 +3,7 @@ title: "Elementale del fuoco"
 permalink: /it/units/Fire Elemental/
 excerpt: "Unità Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Elementale del fuoco"
 toc: true
@@ -25,19 +25,44 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Infligge <Combustione>, causa esplosioni sul campo di battaglia, sconfiggere i nemici aumenta la sua forza.
+
+## Basic stats
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 97.5 | 4.5 | 1261.5 |
+  | Blu | 195.0 | 9.0 | 2523.0 |
+  | Blu +1 | 292.5 | 13.5 | 3784.5 |
+  | Blu +2 | 409.5 | 18.9 | 5298.3 |
+  | Viola | 526.5 | 24.3 | 6812.1 |
+  | Viola +1 | 643.5 | 29.7 | 8325.9 |
+  | Viola +2 | 780.0 | 36.0 | 10092.0 |
+  | Viola +3 | 916.5 | 42.3 | 11858.1 |
+  | Arancione | 1053.0 | 48.6 | 13624.2 |
+  | Arancione +1 | 1209.0 | 55.8 | 15642.6 |
+  | Arancione +2 | 1365.0 | 63.0 | 17661.0 |
+  | Arancione +3 | 1521.0 | 70.2 | 19679.4 |
+  | Arancione +4 | 1677.0 | 77.4 | 21697.8 |
+  | Arancione +5 | 1911.0 | 88.2 | 24725.4 |
+  | Rosso | 2223.0 | 102.6 | 28762.2 |
 
- **Info1:** Infligge <Combustione>, causa esplosioni sul campo di battaglia, sconfiggere i nemici aumenta la sua forza.
-
- **Info2:** Infligge <Combustione>, causa esplosioni sul campo di battaglia, sconfiggere i nemici aumenta la sua forza.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.4 | 0.53 | 2.39 | 201.84 |
+  | **3x** <i class="fas fa-star"/> | 27.3 | 0.55 | 2.98 | 235.48 |
+  | **4x** <i class="fas fa-star"/> | 31.2 | 0.58 | 3.57 | 269.12 |
+  | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
+  | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
 ### 1 Skill: Fuoco celeste
- **Description:** <span style="color: #645252;font-size:20px">L'Elementale del fuoco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 1 unità nemica, causandole </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Combustione></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Elementale del fuoco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 1 unità nemica, causandole </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi.</span><span style="color: black">
 
 ### 2 Skill: null
  **Description:** 
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Schivata unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Schivata unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Vampa celeste
- **Description:** <span style="color: #48b946;font-size:18px"><Fuoco celeste></span><span style="color: #645252;font-size:18px">: DAN aumentato a 200% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuoco celeste&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato a 200% del valore della tecnica originale.</span>
 
 ### 2nd Skill (or 1st): Fuoco inarrestabile
- **Description:** <span style="color: #48b946;font-size:18px"><Fuoco celeste></span><span style="color: #645252;font-size:18px">: infligge danni a due unità ostili casuali.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuoco celeste&gt;</span><span style="color: #645252;font-size:18px">: infligge danni a due unità ostili casuali.</span>
 
 ### 3rd Skill (or 4th): Potenza elementale
- **Description:** <span style="color: #48b946;font-size:18px"><Forza elementale></span><span style="color: #645252;font-size:18px">Quando un eroe alleato lancia un incantesimo di tipo Fuoco, aumenta l'ATT del 50% e l'assorbimento del 10% di due unità offensive casuali per 10 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe alleato lancia un incantesimo di tipo Fuoco, aumenta l'ATT del 50% e l'assorbimento del 10% di due unità offensive casuali per 10 secondi.</span>
 
 ### 4th Skill (or 3rd): Frenesia elementale
- **Description:** <span style="color: #48b946;font-size:18px"><Forza elementale></span><span style="color: #645252;font-size:18px">Quando un eroe alleato lancia un incantesimo di tipo Fuoco, ha il 30% di probabilità di lanciare <Fuoco Celeste> su 1 unità nemica casuale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe alleato lancia un incantesimo di tipo Fuoco, ha il 30% di probabilità di lanciare &lt;Fuoco Celeste&gt; su 1 unità nemica casuale.</span>
 
 ### 5th Skill (or 6th): Maledizione  furente
- **Description:** <span style="color: #48b946;font-size:18px"><Ricettacolo di energia del Fuoco></span><span style="color: #645252;font-size:18px">: bonus raddoppiati. Le cariche accumulate non cambiano.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ricettacolo di energia del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: bonus raddoppiati. Le cariche accumulate non cambiano.</span>
 
 ### 6th Skill (or 5th): Armonia delle fiamme
- **Description:** <span style="color: #48b946;font-size:18px"><Ricettacolo di energia del Fuoco></span><span style="color: #645252;font-size:18px">: l'effetto aggiuntivo si applica alle unità alleate in un'area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ricettacolo di energia del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: l'effetto aggiuntivo si applica alle unità alleate in un'area.</span>
 
 ## Technical info
  **runart:** 1

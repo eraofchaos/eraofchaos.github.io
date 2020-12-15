@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /fr/units/Ogre/
 excerpt: "Unités Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Ogre"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Mare de sang : améliore le drain de vie de vos unités à proximité.
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** Un puissant bouclier corporel qui améliore l'efficacité de toutes vos troupes de mêlée.
+
+## Basic stats
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 53.8 | 15.0 | 1892.25 |
+  | Bleu | 107.6 | 30.0 | 3784.5 |
+  | Bleu +1 | 161.4 | 45.0 | 5676.75 |
+  | Bleu +2 | 225.96 | 63.0 | 7947.45 |
+  | Violet | 290.52 | 81.0 | 10218.15 |
+  | Violet +1 | 355.08 | 99.0 | 12488.85 |
+  | Violet +2 | 430.4 | 120.0 | 15138.0 |
+  | Violet +3 | 505.72 | 141.0 | 17787.15 |
+  | Orange | 581.04 | 162.0 | 20436.3 |
+  | Orange +1 | 667.12 | 186.0 | 23463.9 |
+  | Orange +2 | 753.2 | 210.0 | 26491.5 |
+  | Orange +3 | 839.28 | 234.0 | 29519.1 |
+  | Orange +4 | 925.36 | 258.0 | 32546.7 |
+  | Orange +5 | 1054.48 | 294.0 | 37088.1 |
+  | Rouge | 1226.64 | 342.0 | 43143.3 |
 
- **Info1:** Un puissant bouclier corporel qui améliore l'efficacité de toutes vos troupes de mêlée.
-
- **Info2:** Un puissant bouclier corporel qui améliore l'efficacité de toutes vos troupes de mêlée.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.912 | 0.36 | 6.8 | 302.76 |
+  | **3x** <i class="fas fa-star"/> | 15.064 | 0.37 | 7.6 | 353.22 |
+  | **4x** <i class="fas fa-star"/> | 17.216 | 0.39 | 8.4 | 403.68 |
+  | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
+  | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
 ### 1 Skill: Mare de sang
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Défense
+* réduction des dégâts d'unité
 
-    - PV
-
-    - Défense
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fontaine de Jouvence
- **Description:** <span style="color: #48b946;font-size:18px"><Mare de sang> : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente. La durée est prolongée de 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mare de sang&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente. La durée est prolongée de 10 secondes.</span>
 
 ### 2nd Skill (or 1st): Source sauvage
- **Description:** <span style="color: #48b946;font-size:18px"><Mare de sang> : </span><span style="color: #645252;font-size:18px">L'effet augmente de 50 % et sa portée est accrue.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mare de sang&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente de 50 % et sa portée est accrue.</span>
 
 ### 3rd Skill (or 4th): Cœur sauvage
- **Description:** <span style="color: #48b946;font-size:18px"><Carnage> : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'Ogre de 20 %. L'effet double quand l'unité est déchaînée.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'Ogre de 20 %. L'effet double quand l'unité est déchaînée.</span>
 
 ### 4th Skill (or 3rd): Chant de guerre exaltant
- **Description:** <span style="color: #48b946;font-size:18px"><Carnage> : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'Ogre de 20 %. Augmente les dégâts à 200 % de leur valeur de base quand l'unité est déchaînée.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Carnage&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'Ogre de 20 %. Augmente les dégâts à 200 % de leur valeur de base quand l'unité est déchaînée.</span>
 
 ### 5th Skill (or 6th): Afflux ancestral
- **Description:** <span style="color: #48b946;font-size:18px"><Détox> : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Détox&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 150 % de sa valeur précédente.</span>
 
 ### 6th Skill (or 5th): Protection du patriarche
- **Description:** <span style="color: #48b946;font-size:18px"><Détox> : </span><span style="color: #645252;font-size:18px">L'effet est maintenu même après la mort de l'Ogre.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Détox&gt; : </span><span style="color: #645252;font-size:18px">L'effet est maintenu même après la mort de l'Ogre.</span>
 
 ## Technical info
  **runart:** 1

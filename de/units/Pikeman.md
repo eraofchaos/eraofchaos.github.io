@@ -3,7 +3,7 @@ title: "Pikenier"
 permalink: /de/units/Pikeman/
 excerpt: "Einheiten Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie."
 unitID: 101
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Pikenier"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Speerformation: Fügt gegnerischen Einheiten Schaden zu, betäubt sie.
 
+ **Recommend:** Krieger, Magier und Priester ergänzen sich gut.
+
+ **Info:** Betäubt Feinde. Besonders effektiv gegen große Einheiten.
+
+## Basic stats
  **Base HP:** 645.0
 
  **Base ATK:** 84.4
 
- **Recommend:** Krieger, Magier und Priester ergänzen sich gut.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 42.2 | 8.75 | 483.75 |
+  | Blau | 84.4 | 17.5 | 967.5 |
+  | Blau +1 | 126.6 | 26.25 | 1451.25 |
+  | Blau +2 | 177.24 | 36.75 | 2031.75 |
+  | Lila | 227.88 | 47.25 | 2612.25 |
+  | Lila +1 | 278.52 | 57.75 | 3192.75 |
+  | Lila +2 | 337.6 | 70.0 | 3870.0 |
+  | Lila +3 | 396.68 | 82.25 | 4547.25 |
+  | Orange | 455.76 | 94.5 | 5224.5 |
+  | Orange +1 | 523.28 | 108.5 | 5998.5 |
+  | Orange +2 | 590.8 | 122.5 | 6772.5 |
+  | Orange +3 | 658.32 | 136.5 | 7546.5 |
+  | Orange +4 | 725.84 | 150.5 | 8320.5 |
+  | Orange +5 | 827.12 | 171.5 | 9481.5 |
+  | Rot | 962.16 | 199.5 | 11029.5 |
 
- **Info1:** Betäubt Feinde. Besonders effektiv gegen große Einheiten.
-
- **Info2:** Betäubt Feinde. Besonders effektiv gegen große Einheiten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.44 | 0.44 | 3.5 | 64.5 |
+  | **2x** <i class="fas fa-star"/> | 10.128 | 0.46 | 4.18 | 77.4 |
+  | **3x** <i class="fas fa-star"/> | 11.816 | 0.48 | 4.85 | 90.3 |
+  | **4x** <i class="fas fa-star"/> | 13.504 | 0.51 | 5.53 | 103.2 |
+  | **5x** <i class="fas fa-star"/> | 15.192 | 0.53 | 6.2 | 116.1 |
+  | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
 ## Skills
 ### 1 Skill: Speerformation
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Kritischer Treffer (Einheit)
+* Magieresistenz
 
-    - LP
-
-    - Kritischer Treffer (Einheit)
-
-    - Magieresistenz
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px"><Speerformation></span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px"><Führung></span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px"><Drachentöter></span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 1

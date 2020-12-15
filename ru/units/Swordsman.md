@@ -3,7 +3,7 @@ title: "Мечник"
 permalink: /ru/units/Swordsman/
 excerpt: "Отряды В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Мечник"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Божественная защита снижает получаемый урон.
 
+ **Recommend:** null
+
+ **Info:** В начале игры наносит огромный урон. Наносит двойной удар и может исцеляться.
+
+## Basic stats
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 27.3 | 13.25 | 993.0 |
+  | Синий | 54.6 | 26.5 | 1986.0 |
+  | Blue +1 | 81.9 | 39.75 | 2979.0 |
+  | Синий +2 | 114.66 | 55.65 | 4170.6 |
+  | Фиолетовый | 147.42 | 71.55 | 5362.2 |
+  | Фиолетовый +1 | 180.18 | 87.45 | 6553.8 |
+  | Фиолетовый +2 | 218.4 | 106.0 | 7944.0 |
+  | Фиолетовый +3 | 256.62 | 124.55 | 9334.2 |
+  | Оранжевый | 294.84 | 143.1 | 10724.4 |
+  | Оранжевый +1 | 338.52 | 164.3 | 12313.2 |
+  | Оранжевый +2 | 382.2 | 185.5 | 13902.0 |
+  | Orange +3 | 425.88 | 206.7 | 15490.8 |
+  | Оранжевый +4 | 469.56 | 227.9 | 17079.6 |
+  | Orange +5 | 535.08 | 259.7 | 19462.8 |
+  | Red | 622.44 | 302.1 | 22640.4 |
 
- **Info1:** В начале игры наносит огромный урон. Наносит двойной удар и может исцеляться.
-
- **Info2:** В начале игры наносит огромный урон. Наносит двойной удар и может исцеляться.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 6.552 | 0.35 | 6.07 | 158.88 |
+  | **3x** <i class="fas fa-star"/> | 7.644 | 0.36 | 6.83 | 185.36 |
+  | **4x** <i class="fas fa-star"/> | 8.736 | 0.38 | 7.6 | 211.84 |
+  | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
+  | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
 ### 1 Skill: null
@@ -43,7 +68,7 @@ toc: true
  **Description:** 
 
 ### 3 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать цель 2 раза. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать <Двойной удар> возрастает до 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать цель 2 раза. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### 4 Skill: null
  **Description:** 
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Защита
+* Magic resistance
 
-    - ОЗ
-
-    - Защита
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Щит антимагии
- **Description:** <span style="color: #48b946;font-size:18px"><Божественная защита></span><span style="color: #645252;font-size:18px">: отряд получает сопротивление магическому урону</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Божественная защита&gt;</span><span style="color: #645252;font-size:18px">: отряд получает сопротивление магическому урону</span>
 
 ### 2nd Skill (or 1st): Святая защита
- **Description:** <span style="color: #48b946;font-size:18px"><Божественная защита></span><span style="color: #645252;font-size:18px">: длительность эффекта увеличена на 10 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Божественная защита&gt;</span><span style="color: #645252;font-size:18px">: длительность эффекта увеличена на 10 сек.</span>
 
 ### 3rd Skill (or 4th): Вдохновение отважного
- **Description:** <span style="color: #48b946;font-size:18px"><Лидерство></span><span style="color: #645252;font-size:18px">: иммунитет к состоянию низкого боевого духа. Эффект усиливается до 150% от эффекта предыдущего умения.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: иммунитет к состоянию низкого боевого духа. Эффект усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Лидерство></span><span style="color: #645252;font-size:18px">: союзные отряды в большой области получают иммунитет к снижению боевого духа и получают высокий боевой дух, а их сопротивление урону повышается на 10%. Эффект длится 10 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: союзные отряды в большой области получают иммунитет к снижению боевого духа и получают высокий боевой дух, а их сопротивление урону повышается на 10%. Эффект длится 10 сек.</span>
 
 ### 5th Skill (or 6th): Свет спасения
- **Description:** <span style="color: #48b946;font-size:18px"><Спасение></span><span style="color: #645252;font-size:18px">: ОЗ восстанавливаются в размере 200% от базового значения умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: ОЗ восстанавливаются в размере 200% от базового значения умения</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Спасение></span><span style="color: #645252;font-size:18px">: мечник получает иммунитет к немоте, оглушению и окаменению</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: мечник получает иммунитет к немоте, оглушению и окаменению</span>
 
 ## Technical info
  **runart:** 1

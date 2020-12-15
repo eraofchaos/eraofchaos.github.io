@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /fr/units/Cavalier/
 excerpt: "Unités Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Cavalier"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Joute : inflige des dégâts conséquents et étourdit l'ennemi si elle est utilisée comme première attaque.
 
+ **Recommend:** Augmentez votre moral pour profiter des avantages de l'exaltation, dont des points de déplacement supplémentaires pour les unités concernées.
+
+ **Info:** Charge vos ennemis en début de combat, vous donnant l'avantage.
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Augmentez votre moral pour profiter des avantages de l'exaltation, dont des points de déplacement supplémentaires pour les unités concernées.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 39.7 | 8.75 | 608.25 |
+  | Bleu | 79.4 | 17.5 | 1216.5 |
+  | Bleu +1 | 119.1 | 26.25 | 1824.75 |
+  | Bleu +2 | 166.74 | 36.75 | 2554.65 |
+  | Violet | 214.38 | 47.25 | 3284.55 |
+  | Violet +1 | 262.02 | 57.75 | 4014.45 |
+  | Violet +2 | 317.6 | 70.0 | 4866.0 |
+  | Violet +3 | 373.18 | 82.25 | 5717.55 |
+  | Orange | 428.76 | 94.5 | 6569.1 |
+  | Orange +1 | 492.28 | 108.5 | 7542.3 |
+  | Orange +2 | 555.8 | 122.5 | 8515.5 |
+  | Orange +3 | 619.32 | 136.5 | 9488.7 |
+  | Orange +4 | 682.84 | 150.5 | 10461.9 |
+  | Orange +5 | 778.12 | 171.5 | 11921.7 |
+  | Rouge | 905.16 | 199.5 | 13868.1 |
 
- **Info1:** Charge vos ennemis en début de combat, vous donnant l'avantage.
-
- **Info2:** Charge vos ennemis en début de combat, vous donnant l'avantage.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.94 | 0.46 | 3.5 | 81.1 |
+  | **2x** <i class="fas fa-star"/> | 9.528 | 0.48 | 4.18 | 97.32 |
+  | **3x** <i class="fas fa-star"/> | 11.116 | 0.51 | 4.85 | 113.54 |
+  | **4x** <i class="fas fa-star"/> | 12.704 | 0.53 | 5.53 | 129.76 |
+  | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
+  | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
 ### 1 Skill: Joute
- **Description:** <span style="color: #645252;font-size:20px">Quand un Cavalier se trouve sur le champ de bataille, sa 1re attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et </span><span style="color: black"><span style="color: #48b946;font-size:20px"><étourdit></span><span style="color: black"><span style="color: #645252;font-size:20px"> sa cible pendant 5 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quand un Cavalier se trouve sur le champ de bataille, sa 1re attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sa cible pendant 5 secondes.</span><span style="color: black">
 
 ### 2 Skill: Charge glorieuse
- **Description:** <span style="color: #645252;font-size:20px">Augmente les coups critiques des Cavaliers de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double en cas d'</span><span style="color: black"><span style="color: #48b946;font-size:20px"><Exaltation></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Augmente les coups critiques des Cavaliers de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double en cas d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Percée rapide
  **Description:** <span style="color: #645252;font-size:20px">Quand un Cavalier tue une cible pour la première fois, il inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à la prochaine unité qu'il cible.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* dégâts d'unité
+* réduction des dégâts d'unité
 
-    - PV
-
-    - dégâts d'unité
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Compétences de survie
- **Description:** <span style="color: #48b946;font-size:18px"><Capacités de Chevalier> : </span><span style="color: #645252;font-size:18px">Augmente les PV et la résistance magique de 30 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Capacités de Chevalier&gt; : </span><span style="color: #645252;font-size:18px">Augmente les PV et la résistance magique de 30 %.</span>
 
 ### 2nd Skill (or 1st): Compétences de guerre
- **Description:** <span style="color: #48b946;font-size:18px"><Capacités de Chevalier> : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ et la résistance magique de 30 % supplémentaires.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Capacités de Chevalier&gt; : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ et la résistance magique de 30 % supplémentaires.</span>
 
 ### 3rd Skill (or 4th): Ruée légère
- **Description:** <span style="color: #48b946;font-size:18px"><Percée rapide> : </span><span style="color: #645252;font-size:18px">S'active chaque fois qu'une cible est abattue (à l'exception des monstres invoqués).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Percée rapide&gt; : </span><span style="color: #645252;font-size:18px">S'active chaque fois qu'une cible est abattue (à l'exception des monstres invoqués).</span>
 
 ### 4th Skill (or 3rd): Charge lourde
- **Description:** <span style="color: #48b946;font-size:18px"><Percée rapide> : </span><span style="color: #645252;font-size:18px">S'active chaque fois qu'une cible est abattue (à l'exception des monstres invoqués).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Percée rapide&gt; : </span><span style="color: #645252;font-size:18px">S'active chaque fois qu'une cible est abattue (à l'exception des monstres invoqués).</span>
 
 ### 5th Skill (or 6th): Fanatisme
- **Description:** <span style="color: #48b946;font-size:18px"><Lance de chevalier> : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'unité de 20 % supplémentaires. L'effet double en cas d'<Exaltation>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance de chevalier&gt; : </span><span style="color: #645252;font-size:18px">Augmente la résistance aux dégâts de l'unité de 20 % supplémentaires. L'effet double en cas d'&lt;Exaltation&gt;.</span>
 
 ### 6th Skill (or 5th): Nerfs d'acier
- **Description:** <span style="color: #48b946;font-size:18px"><Lance de chevalier> : </span><span style="color: #645252;font-size:18px">Active <Exaltation> au combat, et garantit un coup critique. L'effet dure 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance de chevalier&gt; : </span><span style="color: #645252;font-size:18px">Active &lt;Exaltation&gt; au combat, et garantit un coup critique. L'effet dure 10 secondes.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /ru/units/Mantis/
 excerpt: "Отряды null"
 unitID: 209
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Mantis"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** null
+
+## Basic stats
  **Base HP:** 6336.0
 
  **Base ATK:** 1140.4
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 570.2 | 5.5 | 4752.0 |
+  | Синий | 1140.4 | 11.0 | 9504.0 |
+  | Blue +1 | 1710.6 | 16.5 | 14256.0 |
+  | Синий +2 | 2394.84 | 23.1 | 19958.4 |
+  | Фиолетовый | 3079.08 | 29.7 | 25660.8 |
+  | Фиолетовый +1 | 3763.32 | 36.3 | 31363.2 |
+  | Фиолетовый +2 | 4561.6 | 44.0 | 38016.0 |
+  | Фиолетовый +3 | 5359.88 | 51.7 | 44668.8 |
+  | Оранжевый | 6158.16 | 59.4 | 51321.6 |
+  | Оранжевый +1 | 7070.48 | 68.2 | 58924.8 |
+  | Оранжевый +2 | 7982.8 | 77.0 | 66528.0 |
+  | Orange +3 | 8895.12 | 85.8 | 74131.2 |
+  | Оранжевый +4 | 9807.44 | 94.6 | 81734.4 |
+  | Orange +5 | 11175.92 | 107.8 | 93139.2 |
+  | Red | 13000.56 | 125.4 | 108345.6 |
 
- **Info1:** null
-
- **Info2:** null
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 159.656 | 0.85 | 3.42 | 887.04 |
+  | **4x** <i class="fas fa-star"/> | 182.464 | 0.89 | 4.03 | 1013.76 |
+  | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
+  | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
 
 ## Skills
 ### 1 Skill: null
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Критический удар отряда
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - Критический удар отряда
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Сияние святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Ослепление></span><span style="color: #645252;font-size:18px">: при ослеплении попадание снижается на 1000</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при ослеплении попадание снижается на 1000</span>
 
 ### 2nd Skill (or 1st): Воля святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Ослепление></span><span style="color: #645252;font-size:18px">: при запуске срабатывает ослепление</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при запуске срабатывает ослепление</span>
 
 ### 3rd Skill (or 4th): Шестое чувство
- **Description:** <span style="color: #48b946;font-size:18px"><Мерцающий силуэт></span><span style="color: #645252;font-size:18px">: шанс срабатывания щита увеличен до 200% от шанса предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания щита увеличен до 200% от шанса предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Сила координации
- **Description:** <span style="color: #48b946;font-size:18px"><Мерцающий силуэт></span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 200% от эффекта предыдущего умения.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 200% от эффекта предыдущего умения.</span>
 
 ### 5th Skill (or 6th): Навигация святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Смелый лидер></span><span style="color: #645252;font-size:18px">: если на поле боя есть единорог, урон всех союзных отрядов повышается на 10% на следующие 20 сек. после гибели цели. Эффект складывается до 3 раз</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть единорог, урон всех союзных отрядов повышается на 10% на следующие 20 сек. после гибели цели. Эффект складывается до 3 раз</span>
 
 ### 6th Skill (or 5th): Убежище святого духа
- **Description:** <span style="color: #48b946;font-size:18px"><Смелый лидер></span><span style="color: #645252;font-size:18px">: единорог создает для всех союзных отрядов щит, поглощающий урон в размере 6% от макс. ОЗ при гибели цели</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: единорог создает для всех союзных отрядов щит, поглощающий урон в размере 6% от макс. ОЗ при гибели цели</span>
 
 ## Technical info
  **runart:** 1

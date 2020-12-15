@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /fr/units/Fire Elemental/
 excerpt: "Unités Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -25,19 +25,44 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Inflige Brûlure. Explose le champ de bataille entier. Se renforce en tuant des ennemis.
+
+## Basic stats
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 97.5 | 4.5 | 1261.5 |
+  | Bleu | 195.0 | 9.0 | 2523.0 |
+  | Bleu +1 | 292.5 | 13.5 | 3784.5 |
+  | Bleu +2 | 409.5 | 18.9 | 5298.3 |
+  | Violet | 526.5 | 24.3 | 6812.1 |
+  | Violet +1 | 643.5 | 29.7 | 8325.9 |
+  | Violet +2 | 780.0 | 36.0 | 10092.0 |
+  | Violet +3 | 916.5 | 42.3 | 11858.1 |
+  | Orange | 1053.0 | 48.6 | 13624.2 |
+  | Orange +1 | 1209.0 | 55.8 | 15642.6 |
+  | Orange +2 | 1365.0 | 63.0 | 17661.0 |
+  | Orange +3 | 1521.0 | 70.2 | 19679.4 |
+  | Orange +4 | 1677.0 | 77.4 | 21697.8 |
+  | Orange +5 | 1911.0 | 88.2 | 24725.4 |
+  | Rouge | 2223.0 | 102.6 | 28762.2 |
 
- **Info1:** Inflige Brûlure. Explose le champ de bataille entier. Se renforce en tuant des ennemis.
-
- **Info2:** Inflige Brûlure. Explose le champ de bataille entier. Se renforce en tuant des ennemis.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.4 | 0.53 | 2.39 | 201.84 |
+  | **3x** <i class="fas fa-star"/> | 27.3 | 0.55 | 2.98 | 235.48 |
+  | **4x** <i class="fas fa-star"/> | 31.2 | 0.58 | 3.57 | 269.12 |
+  | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
+  | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
 ### 1 Skill: Feu céleste
- **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de feu inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie, et la </span><span style="color: black"><span style="color: #48b946;font-size:20px"><brûle></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de feu inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie, et la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
 ### 2 Skill: null
  **Description:** 
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Esquive d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Esquive d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Embrasement céleste
- **Description:** <span style="color: #48b946;font-size:18px"><Feu céleste> : </span><span style="color: #645252;font-size:18px">L'effet augmente à 200 % de sa valeur précédente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu céleste&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 200 % de sa valeur précédente.</span>
 
 ### 2nd Skill (or 1st): Feu incontrôlable
- **Description:** <span style="color: #48b946;font-size:18px"><Feu céleste> : </span><span style="color: #645252;font-size:18px">Inflige des dégâts à deux unités ennemies aléatoires.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Feu céleste&gt; : </span><span style="color: #645252;font-size:18px">Inflige des dégâts à deux unités ennemies aléatoires.</span>
 
 ### 3rd Skill (or 4th): Injection élémentaire
- **Description:** <span style="color: #48b946;font-size:18px"><Force élémentaire> : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ de 50 % et le drain de vie de 10 % pour deux unités offensives aléatoires pendant 10 secondes quand le Héros allié lance un sort de feu.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Force élémentaire&gt; : </span><span style="color: #645252;font-size:18px">Augmente l'ATQ de 50 % et le drain de vie de 10 % pour deux unités offensives aléatoires pendant 10 secondes quand le Héros allié lance un sort de feu.</span>
 
 ### 4th Skill (or 3rd): Foudre de guerre élémentaire
- **Description:** <span style="color: #48b946;font-size:18px"><Force élémentaire> : </span><span style="color: #645252;font-size:18px">A 30 % de chance d'infliger <Feu céleste> à une unité ennemie aléatoire quand le Héros allié lance un sort de feu.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Force élémentaire&gt; : </span><span style="color: #645252;font-size:18px">A 30 % de chance d'infliger &lt;Feu céleste&gt; à une unité ennemie aléatoire quand le Héros allié lance un sort de feu.</span>
 
 ### 5th Skill (or 6th): Malédiction des flammes furieuses
- **Description:** <span style="color: #48b946;font-size:18px"><Conducteur d'énergie ardente> : </span><span style="color: #645252;font-size:18px">Double les bonus, mais peut se cumuler toujours autant de fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Conducteur d'énergie ardente&gt; : </span><span style="color: #645252;font-size:18px">Double les bonus, mais peut se cumuler toujours autant de fois.</span>
 
 ### 6th Skill (or 5th): Harmonie des flammes
- **Description:** <span style="color: #48b946;font-size:18px"><Conducteur d'énergie ardente> : </span><span style="color: #645252;font-size:18px">L'effet bonus s'applique à toutes les unités alliées dans une certaine zone.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Conducteur d'énergie ardente&gt; : </span><span style="color: #645252;font-size:18px">L'effet bonus s'applique à toutes les unités alliées dans une certaine zone.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /it/units/Ogre/
 excerpt: "Unità Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Ogre"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Pozza di sangue: potenzia l'assorbimento delle unità vicine.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Fa scudo con il proprio corpo e rende più letali le tue unità da mischia.
+
+## Basic stats
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 53.8 | 15.0 | 1892.25 |
+  | Blu | 107.6 | 30.0 | 3784.5 |
+  | Blu +1 | 161.4 | 45.0 | 5676.75 |
+  | Blu +2 | 225.96 | 63.0 | 7947.45 |
+  | Viola | 290.52 | 81.0 | 10218.15 |
+  | Viola +1 | 355.08 | 99.0 | 12488.85 |
+  | Viola +2 | 430.4 | 120.0 | 15138.0 |
+  | Viola +3 | 505.72 | 141.0 | 17787.15 |
+  | Arancione | 581.04 | 162.0 | 20436.3 |
+  | Arancione +1 | 667.12 | 186.0 | 23463.9 |
+  | Arancione +2 | 753.2 | 210.0 | 26491.5 |
+  | Arancione +3 | 839.28 | 234.0 | 29519.1 |
+  | Arancione +4 | 925.36 | 258.0 | 32546.7 |
+  | Arancione +5 | 1054.48 | 294.0 | 37088.1 |
+  | Rosso | 1226.64 | 342.0 | 43143.3 |
 
- **Info1:** Fa scudo con il proprio corpo e rende più letali le tue unità da mischia.
-
- **Info2:** Fa scudo con il proprio corpo e rende più letali le tue unità da mischia.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.912 | 0.36 | 6.8 | 302.76 |
+  | **3x** <i class="fas fa-star"/> | 15.064 | 0.37 | 7.6 | 353.22 |
+  | **4x** <i class="fas fa-star"/> | 17.216 | 0.39 | 8.4 | 403.68 |
+  | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
+  | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
 ### 1 Skill: Pozza di sangue
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Difesa
+* Riduzione danno unità
 
-    - PF
-
-    - Difesa
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Pozza curativa
- **Description:** <span style="color: #48b946;font-size:18px"><Pozza di sangue></span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Durata aumentata di 10 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pozza di sangue&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Durata aumentata di 10 secondi.</span>
 
 ### 2nd Skill (or 1st): Sorgente naturale
- **Description:** <span style="color: #48b946;font-size:18px"><Pozza di sangue></span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato del 50%, portata aumentata</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pozza di sangue&gt;</span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato del 50%, portata aumentata</span>
 
 ### 3rd Skill (or 4th): Cuore selvaggio
- **Description:** <span style="color: #48b946;font-size:18px"><Raptus></span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. Effetto raddoppiato dopo l'attivazione di <Raptus>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. Effetto raddoppiato dopo l'attivazione di &lt;Raptus&gt;.</span>
 
 ### 4th Skill (or 3rd): Canto incoraggiante
- **Description:** <span style="color: #48b946;font-size:18px"><Raptus></span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. DAN aumentato a 200% del valore base della tecnica dopo l'attivazione di <Raptus>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. DAN aumentato a 200% del valore base della tecnica dopo l'attivazione di &lt;Raptus&gt;.</span>
 
 ### 5th Skill (or 6th): Ondata antica
- **Description:** <span style="color: #48b946;font-size:18px"><Cura veleno></span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale.</span>
 
 ### 6th Skill (or 5th): Difesa del Patriarca
- **Description:** <span style="color: #48b946;font-size:18px"><Cura veleno></span><span style="color: #645252;font-size:18px">: la tecnica rimane attiva anche dopo la morte dell'Ogre.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: la tecnica rimane attiva anche dopo la morte dell'Ogre.</span>
 
 ## Technical info
  **runart:** 1

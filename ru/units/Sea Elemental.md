@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /ru/units/Sea Elemental/
 excerpt: "Отряды null"
 unitID: 9903
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Элементаль Моря"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Эффективное сдерживание толпы, мощное восстановление.
+
+ **Info:** Хорошо контролирует ход боя. Постоянно ослабляет врагов.
+
+## Basic stats
  **Base HP:** 1446.0
 
  **Base ATK:** 201.8
 
- **Recommend:** Эффективное сдерживание толпы, мощное восстановление.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 100.9 | 3.25 | 1084.5 |
+  | Синий | 201.8 | 6.5 | 2169.0 |
+  | Blue +1 | 302.7 | 9.75 | 3253.5 |
+  | Синий +2 | 423.78 | 13.65 | 4554.9 |
+  | Фиолетовый | 544.86 | 17.55 | 5856.3 |
+  | Фиолетовый +1 | 665.94 | 21.45 | 7157.7 |
+  | Фиолетовый +2 | 807.2 | 26.0 | 8676.0 |
+  | Фиолетовый +3 | 948.46 | 30.55 | 10194.3 |
+  | Оранжевый | 1089.72 | 35.1 | 11712.6 |
+  | Оранжевый +1 | 1251.16 | 40.3 | 13447.8 |
+  | Оранжевый +2 | 1412.6 | 45.5 | 15183.0 |
+  | Orange +3 | 1574.04 | 50.7 | 16918.2 |
+  | Оранжевый +4 | 1735.48 | 55.9 | 18653.4 |
+  | Orange +5 | 1977.64 | 63.7 | 21256.2 |
+  | Red | 2300.52 | 74.1 | 24726.6 |
 
- **Info1:** Хорошо контролирует ход боя. Постоянно ослабляет врагов.
-
- **Info2:** Хорошо контролирует ход боя. Постоянно ослабляет врагов.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 20.18 | 0.4 | 1.3 | 144.6 |
+  | **2x** <i class="fas fa-star"/> | 24.216 | 0.42 | 1.87 | 173.52 |
+  | **3x** <i class="fas fa-star"/> | 28.252 | 0.44 | 2.43 | 202.44 |
+  | **4x** <i class="fas fa-star"/> | 32.288 | 0.46 | 3.0 | 231.36 |
+  | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
+  | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
 ### 1 Skill: Спираль времени
  **Description:** <span style="color: #645252;font-size:20px">Элементаль Моря создает на земле 10-секундный водоворот каждые 30 сек., снижая скорость атаки у всех вражеских отрядов в радиусе действия на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждую секунду. Когда водоворот исчезает, он наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в радиусе действия.</span><span style="color: black">
 
 ### 2 Skill: Дар полного прилива
- **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Щит Льда></span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### 3 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Magic resistance
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,19 +108,19 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Кровавый танец
- **Description:** <span style="color: #48b946;font-size:18px"><Танец клинков></span><span style="color: #645252;font-size:18px">: при активном применении скорость атаки и высасывание жизни нага повышаются на 30% через следующие 20 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: при активном применении скорость атаки и высасывание жизни нага повышаются на 30% через следующие 20 сек.</span>
 
 ### 2nd Skill (or 1st): Танец острых клинков
- **Description:** <span style="color: #48b946;font-size:18px"><Танец клинков></span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения, нанося урон всем отрядам в зоне поражения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения, нанося урон всем отрядам в зоне поражения</span>
 
 ### 3rd Skill (or 4th): Клинок воли
- **Description:** <span style="color: #48b946;font-size:18px"><Королева клинков></span><span style="color: #645252;font-size:18px">: бонусный эффект усиливается до 150% от эффекта предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: бонусный эффект усиливается до 150% от эффекта предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Безумный клинок
- **Description:** <span style="color: #48b946;font-size:18px"><Королева клинков></span><span style="color: #645252;font-size:18px">: нага получает бонус к критическому попаданию и критическому урону. Эффект усиливается до 200% от предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: нага получает бонус к критическому попаданию и критическому урону. Эффект усиливается до 200% от предыдущего умения</span>
 
 ### 5th Skill (or 6th): Волшебная кожа
- **Description:** <span style="color: #48b946;font-size:18px"><Магическое пробуждение></span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
  **Description:** 

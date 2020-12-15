@@ -3,7 +3,7 @@ title: "Dendroidenwache"
 permalink: /de/units/Dendroid Guard/
 excerpt: "Einheiten Dendroidenwachen sind die Verkörperung ihrer bewaldeten Heimat. Sie sind nicht sonderlich geschickt, aber extrem hart im Nehmen. Mit den Ranken des Waldes erwürgen sie arglose Gegner."
 unitID: 205
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Dendroidenwache"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Fessel: Reduziert das Angriffstempo einer gegnerischen Einheit und verlangsamt sie.
 
+ **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+
+ **Info:** Immun gegen Blutung, reflektiert Schaden und verbessert seine Abwehr mit Schild.
+
+## Basic stats
  **Base HP:** 10182.0
 
  **Base ATK:** 396.0
 
- **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 198.0 | 13.25 | 7636.5 |
+  | Blau | 396.0 | 26.5 | 15273.0 |
+  | Blau +1 | 594.0 | 39.75 | 22909.5 |
+  | Blau +2 | 831.6 | 55.65 | 32073.3 |
+  | Lila | 1069.2 | 71.55 | 41237.1 |
+  | Lila +1 | 1306.8 | 87.45 | 50400.9 |
+  | Lila +2 | 1584.0 | 106.0 | 61092.0 |
+  | Lila +3 | 1861.2 | 124.55 | 71783.1 |
+  | Orange | 2138.4 | 143.1 | 82474.2 |
+  | Orange +1 | 2455.2 | 164.3 | 94692.6 |
+  | Orange +2 | 2772.0 | 185.5 | 106911.0 |
+  | Orange +3 | 3088.8 | 206.7 | 119129.4 |
+  | Orange +4 | 3405.6 | 227.9 | 131347.8 |
+  | Orange +5 | 3880.8 | 259.7 | 149675.4 |
+  | Rot | 4514.4 | 302.1 | 174112.2 |
 
- **Info1:** Immun gegen Blutung, reflektiert Schaden und verbessert seine Abwehr mit Schild.
-
- **Info2:** Immun gegen Blutung, reflektiert Schaden und verbessert seine Abwehr mit Schild.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 47.52 | 0.32 | 6.07 | 1221.84 |
+  | **3x** <i class="fas fa-star"/> | 55.44 | 0.33 | 6.83 | 1425.48 |
+  | **4x** <i class="fas fa-star"/> | 63.36 | 0.35 | 7.6 | 1629.12 |
+  | **5x** <i class="fas fa-star"/> | 71.28 | 0.36 | 8.36 | 1832.76 |
+  | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
 ### 1 Skill: Fessel
  **Description:** <span style="color: #645252;font-size:20px">Die Dendroidenwache fügt Gegnern in hohem Radius den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verlangsamung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu und reduziert ihr Angriffstempo 10 Sek lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 2 Skill: Schmetterrolle
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Dendroidenwache erzeugt mit einer gewissen Wahrscheinlichkeit einen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Schild></span><span style="color: black"><span style="color: #645252;font-size:20px"> für sich selbst, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Dendroidenwache erzeugt mit einer gewissen Wahrscheinlichkeit einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Schild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> für sich selbst, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
 
 ### 3 Skill: Steinwaldrüstung
- **Description:** <span style="color: #645252;font-size:20px">Die Dendroidenwache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Blutung></span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre LP steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Die Dendroidenwache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre LP steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 4 Skill: Holzpflock
  **Description:** <span style="color: #645252;font-size:20px">Wenn eine Dendroidenwache angegriffen wird, reflektiert sie Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ihres Angriffs, und der Angreifer erleidet 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Abwehr
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Wildheit des Waldes
- **Description:** <span style="color: #48b946;font-size:18px"><Fessel></span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo von verbündeten Einheiten in einem großen Bereich 10 Sek. lang um 20 %, wenn „Fessel“ gewirkt wird.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fessel&gt;</span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo von verbündeten Einheiten in einem großen Bereich 10 Sek. lang um 20 %, wenn „Fessel“ gewirkt wird.</span>
 
 ### 2nd Skill (or 1st): Schutz des Waldes
- **Description:** <span style="color: #48b946;font-size:18px"><Fessel></span><span style="color: #645252;font-size:18px">Verleiht beim Wirken von Fessel verbündeten Einheiten in einem großen Bereich einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fessel&gt;</span><span style="color: #645252;font-size:18px">Verleiht beim Wirken von Fessel verbündeten Einheiten in einem großen Bereich einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
 
 ### 3rd Skill (or 4th): Versteifung
- **Description:** <span style="color: #48b946;font-size:18px"><Steinwaldrüstung></span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Dendroidenwache wird um 20 % erhöht. Der Effekt wird gegen gegnerische Einheiten mit „Blutung“ verdoppelt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Steinwaldrüstung&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Dendroidenwache wird um 20 % erhöht. Der Effekt wird gegen gegnerische Einheiten mit „Blutung“ verdoppelt.</span>
 
 ### 4th Skill (or 3rd): Macht des Dschungel
- **Description:** <span style="color: #48b946;font-size:18px"><Steinwaldrüstung></span><span style="color: #645252;font-size:18px">Die Dendroidenwache erhöht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich um 10 % und ihre ABW um 30 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Steinwaldrüstung&gt;</span><span style="color: #645252;font-size:18px">Die Dendroidenwache erhöht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich um 10 % und ihre ABW um 30 %.</span>
 
 ### 5th Skill (or 6th): Ätzender Pflock
- **Description:** <span style="color: #48b946;font-size:18px"><Holzpflock></span><span style="color: #645252;font-size:18px">Reduziert die ABW des Angreifers um 30 % und verursacht „Verlangsamung“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Holzpflock&gt;</span><span style="color: #645252;font-size:18px">Reduziert die ABW des Angreifers um 30 % und verursacht „Verlangsamung“.</span>
 
 ### 6th Skill (or 5th): Schwächender Pflock
- **Description:** <span style="color: #48b946;font-size:18px"><Holzpflock></span><span style="color: #645252;font-size:18px">Reduziert den Schaden des Angreifers um 10 % und verursacht „Verlangsamung“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Holzpflock&gt;</span><span style="color: #645252;font-size:18px">Reduziert den Schaden des Angreifers um 10 % und verursacht „Verlangsamung“.</span>
 
 ## Technical info
  **runart:** 1

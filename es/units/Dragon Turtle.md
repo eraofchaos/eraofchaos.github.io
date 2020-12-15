@@ -3,7 +3,7 @@ title: "Tortuga Dragón"
 permalink: /es/units/Dragon Turtle/
 excerpt: "Unidades Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Tortuga Dragón"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Potente función de tanque, absorbe daño en favor de las unidades aliadas.
+
+ **Info:** Defensor potente. Recupera PV al morir.
+
+## Basic stats
  **Base HP:** 12000.0
 
  **Base ATK:** 362.0
 
- **Recommend:** Potente función de tanque, absorbe daño en favor de las unidades aliadas.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 181.0 | 17.0 | 7350.0 |
+  | Azul | 362.0 | 34.0 | 14700.0 |
+  | Azul +1 | 543.0 | 51.0 | 22050.0 |
+  | Azul +2 | 760.2 | 71.4 | 30870.0 |
+  | Violeta | 977.4 | 91.8 | 39690.0 |
+  | Violeta +1 | 1194.6 | 112.2 | 48510.0 |
+  | Violeta +2 | 1448.0 | 136.0 | 58800.0 |
+  | Violeta +3 | 1701.4 | 159.8 | 69090.0 |
+  | Naranja | 1954.8 | 183.6 | 79380.0 |
+  | Naranja +1 | 2244.4 | 210.8 | 91140.0 |
+  | Naranja +2 | 2534.0 | 238.0 | 102900.0 |
+  | Naranja +3 | 2823.6 | 265.2 | 114660.0 |
+  | Naranja +4 | 3113.2 | 292.4 | 126420.0 |
+  | Naranja +5 | 3547.6 | 333.2 | 144060.0 |
+  | Rojo | 4126.8 | 387.6 | 167580.0 |
 
- **Info1:** Defensor potente. Recupera PV al morir.
-
- **Info2:** Defensor potente. Recupera PV al morir.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 50.68 | 0.33 | 8.48 | 1372.0 |
+  | **4x** <i class="fas fa-star"/> | 57.92 | 0.35 | 9.32 | 1568.0 |
+  | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
+  | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
 ### 1 Skill: Giro aplastante
@@ -43,26 +67,24 @@ toc: true
  **Description:** 
 
 ### 3 Skill: Muralla de marea
- **Description:** <span style="color: #645252;font-size:20px">Cuando entra al campo de batalla, la Tortuga Dragón </span><span style="color: black"><span style="color: #48b946;font-size:20px">«aturde»</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles en una zona grande durante 2 s. Si el <Armoured Shield> lleva activo más de 20 s, la Tortuga Dragón restaura 15% de los PV y la DEF aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante toda la batalla.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cuando entra al campo de batalla, la Tortuga Dragón </span><span style="color: black"><span style="color: #48b946;font-size:20px">«aturde»</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles en una zona grande durante 2 s. Si el &lt;Armoured Shield&gt; lleva activo más de 20 s, la Tortuga Dragón restaura 15% de los PV y la DEF aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante toda la batalla.</span><span style="color: black">
 
 ### 4 Skill: Refuerzos
  **Description:** <span style="color: #645252;font-size:20px">La Tortuga Dragón crea un escudo de refuerzo, lo que aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> para las unidades amistosas de Cala y para sí misma cada 20 s. Este efecto dura 8 s (no se puede disipar).</span><span style="color: black">
 
 ### 5 Skill: Cuerpo calmado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a <stun> cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
 ### 6 Skill: Conflicto pirata
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Defensa
+* Reducción de daño de la unidad
 
-    - PV
-
-    - Defensa
-
-    - Reducción de daño de la unidad
 
 ## Awaking
 ### Awaking Details

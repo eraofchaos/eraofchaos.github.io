@@ -3,7 +3,7 @@ title: "Basilic"
 permalink: /fr/units/Basilisk/
 excerpt: "Unités Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Basilic"
 toc: true
@@ -25,19 +25,43 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** Tank efficace pour contrôler. Pétrifie toutes les unités à proximité en mourant.
+
+## Basic stats
  **Base HP:** 2859.0
 
  **Base ATK:** 121.1
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 60.55 | 14.0 | 2144.25 |
+  | Bleu | 121.1 | 28.0 | 4288.5 |
+  | Bleu +1 | 181.65 | 42.0 | 6432.75 |
+  | Bleu +2 | 254.31 | 58.8 | 9005.85 |
+  | Violet | 326.97 | 75.6 | 11578.95 |
+  | Violet +1 | 399.63 | 92.4 | 14152.05 |
+  | Violet +2 | 484.4 | 112.0 | 17154.0 |
+  | Violet +3 | 569.17 | 131.6 | 20155.95 |
+  | Orange | 653.94 | 151.2 | 23157.9 |
+  | Orange +1 | 750.82 | 173.6 | 26588.7 |
+  | Orange +2 | 847.7 | 196.0 | 30019.5 |
+  | Orange +3 | 944.58 | 218.4 | 33450.3 |
+  | Orange +4 | 1041.46 | 240.8 | 36881.1 |
+  | Orange +5 | 1186.78 | 274.4 | 42027.3 |
+  | Rouge | 1380.54 | 319.2 | 48888.9 |
 
- **Info1:** Tank efficace pour contrôler. Pétrifie toutes les unités à proximité en mourant.
-
- **Info2:** Tank efficace pour contrôler. Pétrifie toutes les unités à proximité en mourant.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.954 | 0.33 | 7.16 | 400.26 |
+  | **4x** <i class="fas fa-star"/> | 19.376 | 0.35 | 7.94 | 457.44 |
+  | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 8.72 | 514.62 |
+  | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
 ### 1 Skill: Morsure pétrifiante
- **Description:** <span style="color: #645252;font-size:20px">Le Basilic <span style="color: #48b946;font-size:20px"><pétrifie></span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le Basilic <span style="color: #48b946;font-size:20px">&lt;pétrifie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
 ### 2 Skill: Écaille en adamantine
  **Description:** <span style="color: #645252;font-size:20px">Augmente la DÉF du Basilic de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -46,23 +70,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Basilic est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### 4 Skill: Impact pétrifiant
- **Description:** <span style="color: #645252;font-size:20px">À sa mort, le Basilic <span style="color: #48b946;font-size:20px"><pétrifie></span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis proches pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">À sa mort, le Basilic <span style="color: #48b946;font-size:20px">&lt;pétrifie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis proches pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
 ### 5 Skill: Frappe pestilentielle
- **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la <Peste>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
 ### 6 Skill: Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* réduction des dégâts d'unité
+* Résistance magique
 
-    - PV
-
-    - réduction des dégâts d'unité
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 1

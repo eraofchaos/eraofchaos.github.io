@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /de/units/Red Dragon/
 excerpt: "Einheiten Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Roter Drache"
 toc: true
@@ -28,19 +28,43 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Der Drache brüllt, was immun gegen Statuskontrolle macht. Das Blut des wahren Drachen wirkt auf seine Brüder.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 769.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 384.65 | 8.0 | 4073.25 |
+  | Blau | 769.3 | 16.0 | 8146.5 |
+  | Blau +1 | 1153.95 | 24.0 | 12219.75 |
+  | Blau +2 | 1615.53 | 33.6 | 17107.65 |
+  | Lila | 2077.11 | 43.2 | 21995.55 |
+  | Lila +1 | 2538.69 | 52.8 | 26883.45 |
+  | Lila +2 | 3077.2 | 64.0 | 32586.0 |
+  | Lila +3 | 3615.71 | 75.2 | 38288.55 |
+  | Orange | 4154.22 | 86.4 | 43991.1 |
+  | Orange +1 | 4769.66 | 99.2 | 50508.3 |
+  | Orange +2 | 5385.1 | 112.0 | 57025.5 |
+  | Orange +3 | 6000.54 | 124.8 | 63542.7 |
+  | Orange +4 | 6615.98 | 137.6 | 70059.9 |
+  | Orange +5 | 7539.14 | 156.8 | 79835.7 |
+  | Rot | 8770.02 | 182.4 | 92870.1 |
 
- **Info1:** Der Drache brüllt, was immun gegen Statuskontrolle macht. Das Blut des wahren Drachen wirkt auf seine Brüder.
-
- **Info2:** Der Drache brüllt, was immun gegen Statuskontrolle macht. Das Blut des wahren Drachen wirkt auf seine Brüder.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 107.702 | 0.53 | 4.52 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 5.18 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.84 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Tosende Feuersbrunst
- **Description:** <span style="color: #645252;font-size:20px">Der Rote Drache brüllt alle 15 Sek. und fügt allen Einheiten von 2 gegnerischen Fernkampfeinheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu; außerdem fügt er allen Einheiten von 2 gegnerischen Fernkampf-/Zauberer-Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden und zusätzlich Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP zu. Außerdem erhalten alle Ziele 17 Sek. lang ein Hasszeichen, bis zu 4 Stapel. Jedes Hasszeichen, den das Ziel hat, erhöht den durch <Tosende Feuersbrunst> erlittenen Schaden um 10 %. Gegen Turm-Einheiten wird der Schaden des Roten Drachen um 50 % erhöht.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Rote Drache brüllt alle 15 Sek. und fügt allen Einheiten von 2 gegnerischen Fernkampfeinheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu; außerdem fügt er allen Einheiten von 2 gegnerischen Fernkampf-/Zauberer-Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden und zusätzlich Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP zu. Außerdem erhalten alle Ziele 17 Sek. lang ein Hasszeichen, bis zu 4 Stapel. Jedes Hasszeichen, den das Ziel hat, erhöht den durch &lt;Tosende Feuersbrunst&gt; erlittenen Schaden um 10 %. Gegen Turm-Einheiten wird der Schaden des Roten Drachen um 50 % erhöht.</span><span style="color: black">
 
 ### 2 Skill: Brandodem
  **Description:** <span style="color: #645252;font-size:20px">Der Schaden des Roten Drachen wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Standardangriff fügt zusätzlich 2 Einheiten in einem gewissen Radius um das Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu; außerdem erleiden diese Einheiten 8 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Turm-Einheiten wird der Schaden um 50 % erhöht.</span><span style="color: black">
@@ -49,7 +73,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein gegnerischer Held einen Zauber wirkt, zeigt der Rote Drache seine Macht: Alle verbündeten Dungeon-Einheiten erhalten einen Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf Schaden, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf Angriffstempo und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf Kritischer Treffer. Außerdem wird für verbündeten Dungeon-Einheiten der LP-Schild erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, während die Schadensreflexion um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> steigt. Wirkungsdauer 8 Sek., bis 2 Stapel.</span><span style="color: black">
 
 ### 4 Skill: Majestät des Drachen
- **Description:** <span style="color: #645252;font-size:20px">Der Rote Drache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Seuche“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Solange sich der Rote Drache auf dem Schlachtfeld befindet, wird die gegnerische Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert; für Turm-Einheiten wird der Effekt verdoppelt. Wenn der Rote Drache <Tosende Feuersbrunst> wirkt, wird mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> <Resonanz des Drachen> gewirkt. Dracheneinheiten aktiveren eine weitere alternative Erwachen-Fähigkeit: Grüner Drache/Goldener Drache: Verstärkung aus der Luft, Knochendrache/Geisterdrache: Angst, Hydra: Chaosnebel, Schwarzer Drache/Schwarzer Drachenkönig: Drachenodem, Wyvern: Wildes Miasma, Drachenschildkröte: Schutzwall der Wellen.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Der Rote Drache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Seuche“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Solange sich der Rote Drache auf dem Schlachtfeld befindet, wird die gegnerische Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert; für Turm-Einheiten wird der Effekt verdoppelt. Wenn der Rote Drache &lt;Tosende Feuersbrunst&gt; wirkt, wird mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> &lt;Resonanz des Drachen&gt; gewirkt. Dracheneinheiten aktiveren eine weitere alternative Erwachen-Fähigkeit: Grüner Drache/Goldener Drache: Verstärkung aus der Luft, Knochendrache/Geisterdrache: Angst, Hydra: Chaosnebel, Schwarzer Drache/Schwarzer Drachenkönig: Drachenodem, Wyvern: Wildes Miasma, Drachenschildkröte: Schutzwall der Wellen.</span><span style="color: black">
 
 ### 5 Skill: null
  **Description:** 
@@ -59,13 +83,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Schaden (Einheit)
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Schaden (Einheit)
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -87,22 +109,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Magnetschuppen
- **Description:** <span style="color: #48b946;font-size:18px"><Magieimmunität></span><span style="color: #645252;font-size:18px">Für jeden gewirkten <Drachenodem> erhält der schwarze Drache 1 Stapel eines Buffs, bis 6 Stapel. Der Buff kann nicht gebannt werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der schwarze Drache 1 Stapel eines Buffs, bis 6 Stapel. Der Buff kann nicht gebannt werden.</span>
 
 ### 2nd Skill (or 1st): Geschmolzene Drachenrüstung
- **Description:** <span style="color: #48b946;font-size:18px"><Magieimmunität></span><span style="color: #645252;font-size:18px">Für jeden gewirkten <Drachenodem> erhält der Schwarze Drache 2 Stapel eines Buffs, bis 4 Stapel. Der Buff kann nicht gebannt werden.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der Schwarze Drache 2 Stapel eines Buffs, bis 4 Stapel. Der Buff kann nicht gebannt werden.</span>
 
 ### 3rd Skill (or 4th): Nährstoffe
- **Description:** <span style="color: #48b946;font-size:18px"><Schwarze Drachenschuppe></span><span style="color: #645252;font-size:18px">Stellt 2 % der max. LP wieder her, wenn ein kritischer Treffer erlitten wird. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schwarze Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Stellt 2 % der max. LP wieder her, wenn ein kritischer Treffer erlitten wird. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
 
 ### 4th Skill (or 3rd): Vulkanblock
- **Description:** <span style="color: #48b946;font-size:18px"><Schwarze Drachenschuppe></span><span style="color: #645252;font-size:18px">Die Heilung des Schwarzen Drachen wird um 10 % erhöht. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Schwarze Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Die Heilung des Schwarzen Drachen wird um 10 % erhöht. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
 
 ### 5th Skill (or 6th): Lavastrom
- **Description:** <span style="color: #48b946;font-size:18px"><Drachenodem></span><span style="color: #645252;font-size:18px">Der zugefügte Schaden von <Drachenodem> wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache <Drachenodem> 1 Mal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachenodem&gt;</span><span style="color: #645252;font-size:18px">Der zugefügte Schaden von &lt;Drachenodem&gt; wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache &lt;Drachenodem&gt; 1 Mal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
 
 ### 6th Skill (or 5th): Magma in der Erde
- **Description:** <span style="color: #48b946;font-size:18px"><Drachenodem></span><span style="color: #645252;font-size:18px">Der Schaden von <Drachenodem> wird auf 150 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache <Drachenodem> einmal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden von &lt;Drachenodem&gt; wird auf 150 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache &lt;Drachenodem&gt; einmal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
 
 ## Technical info
  **runart:** 1

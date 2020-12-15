@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /ru/units/Psychic Elemental/
 excerpt: "Отряды Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -25,25 +25,49 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Наносит урон от атак дальнего боя, при гибели уменьшает ману врага, основной атакующий отряд.
+
+## Basic stats
  **Base HP:** 1749.0
 
  **Base ATK:** 212.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 106.0 | 5.0 | 1311.75 |
+  | Синий | 212.0 | 10.0 | 2623.5 |
+  | Blue +1 | 318.0 | 15.0 | 3935.25 |
+  | Синий +2 | 445.2 | 21.0 | 5509.35 |
+  | Фиолетовый | 572.4 | 27.0 | 7083.45 |
+  | Фиолетовый +1 | 699.6 | 33.0 | 8657.55 |
+  | Фиолетовый +2 | 848.0 | 40.0 | 10494.0 |
+  | Фиолетовый +3 | 996.4 | 47.0 | 12330.45 |
+  | Оранжевый | 1144.8 | 54.0 | 14166.9 |
+  | Оранжевый +1 | 1314.4 | 62.0 | 16265.7 |
+  | Оранжевый +2 | 1484.0 | 70.0 | 18364.5 |
+  | Orange +3 | 1653.6 | 78.0 | 20463.3 |
+  | Оранжевый +4 | 1823.2 | 86.0 | 22562.1 |
+  | Orange +5 | 2077.6 | 98.0 | 25710.3 |
+  | Red | 2416.8 | 114.0 | 29907.9 |
 
- **Info1:** Наносит урон от атак дальнего боя, при гибели уменьшает ману врага, основной атакующий отряд.
-
- **Info2:** Наносит урон от атак дальнего боя, при гибели уменьшает ману врага, основной атакующий отряд.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 29.68 | 0.55 | 3.2 | 244.86 |
+  | **4x** <i class="fas fa-star"/> | 33.92 | 0.58 | 3.8 | 279.84 |
+  | **5x** <i class="fas fa-star"/> | 38.16 | 0.6 | 4.4 | 314.82 |
+  | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">У элементалей Мысли иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый элементаль Мысли атакует 3 вражеских существ из выбранного отряда каждые 4 сек., нанося урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от его АТК.</span><span style="color: black">
 
 ### 2 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. <Энергетический взрыв> элементаля Мысли имеет шанс 30% </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 3 сек.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 3 сек.</span><span style="color: black">
 
 ### 3 Skill: Огонь
- **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. <Энергетический взрыв> элементаля Мысли имеет шанс 30% вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 6 сек.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 6 сек.</span><span style="color: black">
 
 ### 4 Skill: Владыка стихии
  **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Когда погибает элементаль Мысли, мана вражеских героев снижается на 20.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* unit Damage
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,19 +106,19 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Концентрация
- **Description:** <span style="color: #48b946;font-size:18px"><Энергетический взрыв></span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Энергетический взрыв&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
 
 ### 2nd Skill (or 1st): Расхождение
- **Description:** <span style="color: #48b946;font-size:18px"><Энергетический взрыв></span><span style="color: #645252;font-size:18px">: урон умения повышается до 150% от урона предыдущего умения. Действие распространяется на все отряды врага</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Энергетический взрыв&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 150% от урона предыдущего умения. Действие распространяется на все отряды врага</span>
 
 ### 3rd Skill (or 4th): Стресс-реакция
- **Description:** <span style="color: #48b946;font-size:18px"><Земля></span><span style="color: #645252;font-size:18px">: оглушается множество врагов.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Земля&gt;</span><span style="color: #645252;font-size:18px">: оглушается множество врагов.</span>
 
 ### 4th Skill (or 3rd): Травма
- **Description:** <span style="color: #48b946;font-size:18px"><Танец клинков></span><span style="color: #645252;font-size:18px">: урон отряда удваивается. Шанс срабатывания повышается на 10%, длительность оглушения - до 4 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: урон отряда удваивается. Шанс срабатывания повышается на 10%, длительность оглушения - до 4 сек.</span>
 
 ### 5th Skill (or 6th): Проблески мыслей
- **Description:** <span style="color: #48b946;font-size:18px"><Огонь></span><span style="color: #645252;font-size:18px">: урон отряда утраивается. Шанс срабатывания повышается на 10%. Множество врагов поджигается.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Огонь&gt;</span><span style="color: #645252;font-size:18px">: урон отряда утраивается. Шанс срабатывания повышается на 10%. Множество врагов поджигается.</span>
 
 ### 6th Skill (or 5th): Зажжено!
  **Description:** 

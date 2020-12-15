@@ -3,7 +3,7 @@ title: "Domatore di lupi"
 permalink: /it/units/Wolf Rider/
 excerpt: "Unità I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Domatore di lupi"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Compagno animale: evoca Lupi per combattere quando l'unità viene sconfitta.
 
+ **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+
+ **Info:** Evoca un compagno animale. L'ATT cresce al diminuire dei PF.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
 
- **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 36.4 | 5.5 | 645.0 |
+  | Blu | 72.8 | 11.0 | 1290.0 |
+  | Blu +1 | 109.2 | 16.5 | 1935.0 |
+  | Blu +2 | 152.88 | 23.1 | 2709.0 |
+  | Viola | 196.56 | 29.7 | 3483.0 |
+  | Viola +1 | 240.24 | 36.3 | 4257.0 |
+  | Viola +2 | 291.2 | 44.0 | 5160.0 |
+  | Viola +3 | 342.16 | 51.7 | 6063.0 |
+  | Arancione | 393.12 | 59.4 | 6966.0 |
+  | Arancione +1 | 451.36 | 68.2 | 7998.0 |
+  | Arancione +2 | 509.6 | 77.0 | 9030.0 |
+  | Arancione +3 | 567.84 | 85.8 | 10062.0 |
+  | Arancione +4 | 626.08 | 94.6 | 11094.0 |
+  | Arancione +5 | 713.44 | 107.8 | 12642.0 |
+  | Rosso | 829.92 | 125.4 | 14706.0 |
 
- **Info1:** Evoca un compagno animale. L'ATT cresce al diminuire dei PF.
-
- **Info2:** Evoca un compagno animale. L'ATT cresce al diminuire dei PF.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.28 | 0.48 | 2.2 | 86.0 |
+  | **2x** <i class="fas fa-star"/> | 8.736 | 0.5 | 2.81 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.192 | 0.53 | 3.42 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.648 | 0.55 | 4.03 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
 ### 1 Skill: Compagno animale
  **Description:** <span style="color: #645252;font-size:20px">Quando viene sconfitto, un Domatore di lupi richiama 1 Warg sul campo di battaglia. Il Warg evocato ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### 2 Skill: Colpo doppio
- **Description:** <span style="color: #645252;font-size:20px">Il Domatore di lupi ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare <Colpo doppio> aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px"><rallentati></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il Domatore di lupi ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Raptus
  **Description:** <span style="color: #645252;font-size:20px">CRIT del Domatore di lupi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Danno unità
+* Resistenza magica
 
-    - PF
-
-    - Danno unità
-
-    - Resistenza magica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Stirpe bestiale
- **Description:** <span style="color: #48b946;font-size:18px"><Compagno animale></span><span style="color: #645252;font-size:18px">: aumenta il CRIT degli Warg evocati di 400. Quando il bersaglio viene sconfitto, il Domatore di Lupi evoca un altro Warg.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Compagno animale&gt;</span><span style="color: #645252;font-size:18px">: aumenta il CRIT degli Warg evocati di 400. Quando il bersaglio viene sconfitto, il Domatore di Lupi evoca un altro Warg.</span>
 
 ### 2nd Skill (or 1st): Vita di branco
- **Description:** <span style="color: #48b946;font-size:18px"><Compagno animale></span><span style="color: #645252;font-size:18px">: evoca uno Warg che aumenta il danno del 10%. All'inizio della battaglia, evoca 9 Warg.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Compagno animale&gt;</span><span style="color: #645252;font-size:18px">: evoca uno Warg che aumenta il danno del 10%. All'inizio della battaglia, evoca 9 Warg.</span>
 
 ### 3rd Skill (or 4th): Entusiasmo
- **Description:** <span style="color: #48b946;font-size:18px"><Raptus></span><span style="color: #645252;font-size:18px">: quando usa <Raptus>, la Vel ATT del Domatore di lupi aumenta del 30% per 20 secondi</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Raptus&gt;, la Vel ATT del Domatore di lupi aumenta del 30% per 20 secondi</span>
 
 ### 4th Skill (or 3rd): Raptus sanguinario
- **Description:** <span style="color: #48b946;font-size:18px"><Raptus></span><span style="color: #645252;font-size:18px">: quando usa <Raptus>, il CRIT del Domatore di Lupi aumenta di 400 (rimane attivo quando i PF vengono ripristinati)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Raptus&gt;, il CRIT del Domatore di Lupi aumenta di 400 (rimane attivo quando i PF vengono ripristinati)</span>
 
 ### 5th Skill (or 6th): Istinto bestiale
- **Description:** <span style="color: #48b946;font-size:18px"><Sete di sangue></span><span style="color: #645252;font-size:18px">: la rigenerazione dei PF aumenta del 5% quando infligge un colpo critico.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: la rigenerazione dei PF aumenta del 5% quando infligge un colpo critico.</span>
 
 ### 6th Skill (or 5th): Sempre al comando
- **Description:** <span style="color: #48b946;font-size:18px"><Sete di sangue></span><span style="color: #645252;font-size:18px">: ogni colpo critico aumenta il CRIT di 30.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: ogni colpo critico aumenta il CRIT di 30.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /fr/units/Imp/
 excerpt: "Unités Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Diablotin"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Impulsion : donne une chance à l'unité de ressusciter avec tous ses PV.
 
+ **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+
+ **Info:** Peut être ranimé sans cesse. Étourdit les cibles. Peut être amélioré par la Servante des Abîmes.
+
+## Basic stats
  **Base HP:** 1224.0
 
  **Base ATK:** 51.3
 
- **Recommend:** Ces créatures ont peu de santé, mais elles frappent fort. Elles seront très puissantes si vous pensez à les soigner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 25.65 | 11.0 | 918.0 |
+  | Bleu | 51.3 | 22.0 | 1836.0 |
+  | Bleu +1 | 76.95 | 33.0 | 2754.0 |
+  | Bleu +2 | 107.73 | 46.2 | 3855.6 |
+  | Violet | 138.51 | 59.4 | 4957.2 |
+  | Violet +1 | 169.29 | 72.6 | 6058.8 |
+  | Violet +2 | 205.2 | 88.0 | 7344.0 |
+  | Violet +3 | 241.11 | 103.4 | 8629.2 |
+  | Orange | 277.02 | 118.8 | 9914.4 |
+  | Orange +1 | 318.06 | 136.4 | 11383.2 |
+  | Orange +2 | 359.1 | 154.0 | 12852.0 |
+  | Orange +3 | 400.14 | 171.6 | 14320.8 |
+  | Orange +4 | 441.18 | 189.2 | 15789.6 |
+  | Orange +5 | 502.74 | 215.6 | 17992.8 |
+  | Rouge | 584.82 | 250.8 | 20930.4 |
 
- **Info1:** Peut être ranimé sans cesse. Étourdit les cibles. Peut être amélioré par la Servante des Abîmes.
-
- **Info2:** Peut être ranimé sans cesse. Étourdit les cibles. Peut être amélioré par la Servante des Abîmes.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 5.13 | 0.35 | 4.4 | 122.4 |
+  | **2x** <i class="fas fa-star"/> | 6.156 | 0.37 | 5.12 | 146.88 |
+  | **3x** <i class="fas fa-star"/> | 7.182 | 0.39 | 5.84 | 171.36 |
+  | **4x** <i class="fas fa-star"/> | 8.208 | 0.4 | 6.56 | 195.84 |
+  | **5x** <i class="fas fa-star"/> | 9.234 | 0.42 | 7.28 | 220.32 |
+  | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
 ### 1 Skill: Impulsion
  **Description:** <span style="color: #645252;font-size:20px">Quand un Diablotin meurt, il a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chances de ressusciter avec tous ses PV.</span><span style="color: black">
 
 ### 2 Skill: Martelage
- **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Diablotins a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible et peut l'</span><span style="color: black"><span style="color: #e07c44;font-size:20px"><étourdir></span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Diablotins a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible et peut l'</span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes.</span><span style="color: black">
 
 ### 3 Skill: Agilité
  **Description:** <span style="color: #645252;font-size:20px">L'esquive du Diablotin augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il esquive une attaque ennemie, le Diablotin a 20 % de chance de réduire le mana du Héros de 5. Cette compétence a un temps de recharge de 5 secondes.</span><span style="color: black">
@@ -49,20 +75,18 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Diablotin augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les soins augmentent de 30 %.</span><span style="color: black">
 
 ### 5 Skill: Frappe brûlante
- **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de <Brûlure>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
 ### 6 Skill: Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Esquive d'unité
+* Résistance magique
 
-    - PV
-
-    - Esquive d'unité
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Volonté de l'Abîme
- **Description:** <span style="color: #48b946;font-size:18px"><Impulsion> : </span><span style="color: #645252;font-size:18px">Chaque Diablotin a 30 % de chance d'invoquer un Diable à sa mort.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulsion&gt; : </span><span style="color: #645252;font-size:18px">Chaque Diablotin a 30 % de chance d'invoquer un Diable à sa mort.</span>
 
 ### 2nd Skill (or 1st): Chaleur persistante
- **Description:** <span style="color: #48b946;font-size:18px"><Impulsion> : </span><span style="color: #645252;font-size:18px">Les chances de résurrection du Diablotin augmentent à 200 % de leur valeur précédente. Les Héros alliés récupèrent 2 points de mana chaque fois qu'un Diablotin est abattu.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulsion&gt; : </span><span style="color: #645252;font-size:18px">Les chances de résurrection du Diablotin augmentent à 200 % de leur valeur précédente. Les Héros alliés récupèrent 2 points de mana chaque fois qu'un Diablotin est abattu.</span>
 
 ### 3rd Skill (or 4th): Sagesse maléfique
- **Description:** <span style="color: #48b946;font-size:18px"><Agilité> : </span><span style="color: #645252;font-size:18px">L'esquive du Diablotin augmente de 2000 pendant 20 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Agilité&gt; : </span><span style="color: #645252;font-size:18px">L'esquive du Diablotin augmente de 2000 pendant 20 secondes.</span>
 
 ### 4th Skill (or 3rd): Règles de l'Hadès
- **Description:** <span style="color: #48b946;font-size:18px"><Agilité> : </span><span style="color: #645252;font-size:18px">Le Diablotin augmente l'esquive de 200 points pour toutes les unités autour de lui. Cet effet est doublé pour les unités de l'Hadès.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Agilité&gt; : </span><span style="color: #645252;font-size:18px">Le Diablotin augmente l'esquive de 200 points pour toutes les unités autour de lui. Cet effet est doublé pour les unités de l'Hadès.</span>
 
 ### 5th Skill (or 6th): Le dernier refuge
- **Description:** <span style="color: #48b946;font-size:18px"><Séide de l'Hadès> : </span><span style="color: #645252;font-size:18px">Augmente la DÉF du Diablotin de 15 %, et de 4 % supplémentaires pour chaque unité de l'Hadès déployée.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Séide de l'Hadès&gt; : </span><span style="color: #645252;font-size:18px">Augmente la DÉF du Diablotin de 15 %, et de 4 % supplémentaires pour chaque unité de l'Hadès déployée.</span>
 
 ### 6th Skill (or 5th): Chambard de l'Hadès
- **Description:** <span style="color: #48b946;font-size:18px"><Séide de l'Hadès> : </span><span style="color: #645252;font-size:18px">Augmente la DÉF des Diablotins de 15 % chaque fois que l'un d'entre eux meurt ; l'effet est actif pendant toute la bataille et peut se cumuler jusqu'à 5 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Séide de l'Hadès&gt; : </span><span style="color: #645252;font-size:18px">Augmente la DÉF des Diablotins de 15 % chaque fois que l'un d'entre eux meurt ; l'effet est actif pendant toute la bataille et peut se cumuler jusqu'à 5 fois.</span>
 
 ## Technical info
  **runart:** 1

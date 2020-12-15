@@ -3,7 +3,7 @@ title: "Catafratto"
 permalink: /it/units/Cavalier/
 excerpt: "Unità I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: it
 ref: "Catafratto"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** A cavallo: infligge danni ingenti, il primo attacco causa <Stordimento>.
 
+ **Recommend:** Porta le tue truppe ad avere il Morale alto per ottenere grandi benefici tattici per le unità, come mosse extra.
+
+ **Info:** Caricano i nemici all'inizio della battaglia. Utili per portarsi in vantaggio rapidamente.
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Porta le tue truppe ad avere il Morale alto per ottenere grandi benefici tattici per le unità, come mosse extra.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 39.7 | 8.75 | 608.25 |
+  | Blu | 79.4 | 17.5 | 1216.5 |
+  | Blu +1 | 119.1 | 26.25 | 1824.75 |
+  | Blu +2 | 166.74 | 36.75 | 2554.65 |
+  | Viola | 214.38 | 47.25 | 3284.55 |
+  | Viola +1 | 262.02 | 57.75 | 4014.45 |
+  | Viola +2 | 317.6 | 70.0 | 4866.0 |
+  | Viola +3 | 373.18 | 82.25 | 5717.55 |
+  | Arancione | 428.76 | 94.5 | 6569.1 |
+  | Arancione +1 | 492.28 | 108.5 | 7542.3 |
+  | Arancione +2 | 555.8 | 122.5 | 8515.5 |
+  | Arancione +3 | 619.32 | 136.5 | 9488.7 |
+  | Arancione +4 | 682.84 | 150.5 | 10461.9 |
+  | Arancione +5 | 778.12 | 171.5 | 11921.7 |
+  | Rosso | 905.16 | 199.5 | 13868.1 |
 
- **Info1:** Caricano i nemici all'inizio della battaglia. Utili per portarsi in vantaggio rapidamente.
-
- **Info2:** Caricano i nemici all'inizio della battaglia. Utili per portarsi in vantaggio rapidamente.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.94 | 0.46 | 3.5 | 81.1 |
+  | **2x** <i class="fas fa-star"/> | 9.528 | 0.48 | 4.18 | 97.32 |
+  | **3x** <i class="fas fa-star"/> | 11.116 | 0.51 | 4.85 | 113.54 |
+  | **4x** <i class="fas fa-star"/> | 12.704 | 0.53 | 5.53 | 129.76 |
+  | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
+  | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
 ### 1 Skill: A cavallo
- **Description:** <span style="color: #645252;font-size:20px">Quando un Catafratto entra in battaglia, il suo primo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px"><stordisce></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 sec.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando un Catafratto entra in battaglia, il suo primo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 sec.</span><span style="color: black">
 
 ### 2 Skill: Carica gloriosa
- **Description:** <span style="color: #645252;font-size:20px">Il CRIT del Catafratto aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Morale alto></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Il CRIT del Catafratto aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 3 Skill: Sfondamento rapido
  **Description:** <span style="color: #645252;font-size:20px">La prima volta che i Catafratti uccidono un'unità bersaglio, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio successivo.</span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Danno unità
+* Riduzione danno unità
 
-    - PF
-
-    - Danno unità
-
-    - Riduzione danno unità
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sopravvivenza
- **Description:** <span style="color: #48b946;font-size:18px"><Abilità a cavallo></span><span style="color: #645252;font-size:18px">: aumenta PF e resistenza magica del 30%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta PF e resistenza magica del 30%.</span>
 
 ### 2nd Skill (or 1st): Tecniche belliche
- **Description:** <span style="color: #48b946;font-size:18px"><Abilità a cavallo></span><span style="color: #645252;font-size:18px">: aumenta ATT e resistenza magica di un ulteriore 30%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta ATT e resistenza magica di un ulteriore 30%.</span>
 
 ### 3rd Skill (or 4th): Assalto Leggero
- **Description:** <span style="color: #48b946;font-size:18px"><Sfondamento rapido></span><span style="color: #645252;font-size:18px">: attiva Sfondamento rapido per ogni bersaglio ucciso (esclusi i mostri evocati).</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: attiva Sfondamento rapido per ogni bersaglio ucciso (esclusi i mostri evocati).</span>
 
 ### 4th Skill (or 3rd): Assalto pesante
- **Description:** <span style="color: #48b946;font-size:18px"><Sfondamento rapido></span><span style="color: #645252;font-size:18px">: ogni assalto aumenta il danno al 150% e <stordisce> i nemici per 5 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: ogni assalto aumenta il danno al 150% e &lt;stordisce&gt; i nemici per 5 secondi.</span>
 
 ### 5th Skill (or 6th): Fanatismo
- **Description:** <span style="color: #48b946;font-size:18px"><Picca del cavaliere></span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 20%. Effetto raddoppiato con <Morale alto>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 20%. Effetto raddoppiato con &lt;Morale alto&gt;.</span>
 
 ### 6th Skill (or 5th): Pace mentale
- **Description:** <span style="color: #48b946;font-size:18px"><Picca del cavaliere></span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, ottiene <Morale alto>. Infliggi colpi critici garantiti. L'effetto dura 10 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, ottiene &lt;Morale alto&gt;. Infliggi colpi critici garantiti. L'effetto dura 10 secondi.</span>
 
 ## Technical info
  **runart:** 1

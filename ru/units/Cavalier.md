@@ -3,7 +3,7 @@ title: "Всадники"
 permalink: /ru/units/Cavalier/
 excerpt: "Отряды Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Всадники"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Бой на копьях: наносит большой урон, при первой атаке оглушает.
 
+ **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
+
+ **Info:** null
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 39.7 | 8.75 | 608.25 |
+  | Синий | 79.4 | 17.5 | 1216.5 |
+  | Blue +1 | 119.1 | 26.25 | 1824.75 |
+  | Синий +2 | 166.74 | 36.75 | 2554.65 |
+  | Фиолетовый | 214.38 | 47.25 | 3284.55 |
+  | Фиолетовый +1 | 262.02 | 57.75 | 4014.45 |
+  | Фиолетовый +2 | 317.6 | 70.0 | 4866.0 |
+  | Фиолетовый +3 | 373.18 | 82.25 | 5717.55 |
+  | Оранжевый | 428.76 | 94.5 | 6569.1 |
+  | Оранжевый +1 | 492.28 | 108.5 | 7542.3 |
+  | Оранжевый +2 | 555.8 | 122.5 | 8515.5 |
+  | Orange +3 | 619.32 | 136.5 | 9488.7 |
+  | Оранжевый +4 | 682.84 | 150.5 | 10461.9 |
+  | Orange +5 | 778.12 | 171.5 | 11921.7 |
+  | Red | 905.16 | 199.5 | 13868.1 |
 
- **Info1:** null
-
- **Info2:** null
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.94 | 0.46 | 3.5 | 81.1 |
+  | **2x** <i class="fas fa-star"/> | 9.528 | 0.48 | 4.18 | 97.32 |
+  | **3x** <i class="fas fa-star"/> | 11.116 | 0.51 | 4.85 | 113.54 |
+  | **4x** <i class="fas fa-star"/> | 12.704 | 0.53 | 5.53 | 129.76 |
+  | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
+  | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
 ### 1 Skill: null
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* unit Damage
+* unit DMG Reduction
 
-    - ОЗ
-
-    - ERROR!
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Умения выживания
- **Description:** <span style="color: #48b946;font-size:18px"><Умения рыцаря></span><span style="color: #645252;font-size:18px">: увеличивает ОЗ и сопротивление магии на 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает ОЗ и сопротивление магии на 30%</span>
 
 ### 2nd Skill (or 1st): Военные умения
- **Description:** <span style="color: #48b946;font-size:18px"><Умения рыцаря></span><span style="color: #645252;font-size:18px">: увеличивает АТК и сопротивление магии на 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает АТК и сопротивление магии на 30%</span>
 
 ### 3rd Skill (or 4th): Атака легких рыцарей
- **Description:** <span style="color: #48b946;font-size:18px"><Стремительный прорыв></span><span style="color: #645252;font-size:18px">: <Стремительный прорыв> срабатывает при убийстве вражеского отряда (кроме призванных монстров)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: &lt;Стремительный прорыв&gt; срабатывает при убийстве вражеского отряда (кроме призванных монстров)</span>
 
 ### 4th Skill (or 3rd): Тяжелая атака
- **Description:** <span style="color: #48b946;font-size:18px"><Стремительный прорыв></span><span style="color: #645252;font-size:18px">: при следующем штурме урон повышается до 150%, а враги оглушаются на 5 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: при следующем штурме урон повышается до 150%, а враги оглушаются на 5 сек.</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Копье рыцаря></span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 20%. Эффект удваивается в состоянии высокого боевого духа</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 20%. Эффект удваивается в состоянии высокого боевого духа</span>
 
 ### 6th Skill (or 5th): Спокойные мысли
- **Description:** <span style="color: #48b946;font-size:18px"><Копье рыцаря></span><span style="color: #645252;font-size:18px">: в бою срабатывает высокий боевой дух. Гарантированно наносит критический урон. Эффект длится 10 сек.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: в бою срабатывает высокий боевой дух. Гарантированно наносит критический урон. Эффект длится 10 сек.</span>
 
 ## Technical info
  **runart:** 1

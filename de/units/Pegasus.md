@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /de/units/Pegasus/
 excerpt: "Einheiten Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Pegasus"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Lebensschutz: Verleiht den nächsten verbündeten Einheiten einen Lebensschild.
 
+ **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+
+ **Info:** Erzeugt einen Schild für die Einheiten um sich herum und beschwört einen Pegasus.
+
+## Basic stats
  **Base HP:** 1144.0
 
  **Base ATK:** 195.1
 
- **Recommend:** Verursacht Bonusschaden gegen verlangsamte Gegner.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 97.55 | 5.0 | 858.0 |
+  | Blau | 195.1 | 10.0 | 1716.0 |
+  | Blau +1 | 292.65 | 15.0 | 2574.0 |
+  | Blau +2 | 409.71 | 21.0 | 3603.6 |
+  | Lila | 526.77 | 27.0 | 4633.2 |
+  | Lila +1 | 643.83 | 33.0 | 5662.8 |
+  | Lila +2 | 780.4 | 40.0 | 6864.0 |
+  | Lila +3 | 916.97 | 47.0 | 8065.2 |
+  | Orange | 1053.54 | 54.0 | 9266.4 |
+  | Orange +1 | 1209.62 | 62.0 | 10639.2 |
+  | Orange +2 | 1365.7 | 70.0 | 12012.0 |
+  | Orange +3 | 1521.78 | 78.0 | 13384.8 |
+  | Orange +4 | 1677.86 | 86.0 | 14757.6 |
+  | Orange +5 | 1911.98 | 98.0 | 16816.8 |
+  | Rot | 2224.14 | 114.0 | 19562.4 |
 
- **Info1:** Erzeugt einen Schild für die Einheiten um sich herum und beschwört einen Pegasus.
-
- **Info2:** Erzeugt einen Schild für die Einheiten um sich herum und beschwört einen Pegasus.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.412 | 0.6 | 2.6 | 137.28 |
+  | **3x** <i class="fas fa-star"/> | 27.314 | 0.63 | 3.2 | 160.16 |
+  | **4x** <i class="fas fa-star"/> | 31.216 | 0.66 | 3.8 | 183.04 |
+  | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
+  | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
 ### 1 Skill: Waldwächter
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Kritischer Treffer (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Kritischer Treffer (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Wald-Chronosphäre
- **Description:** <span style="color: #48b946;font-size:18px"><Lebensschutz></span><span style="color: #645252;font-size:18px">Wirkt auf alle verbündeten Einheiten der hinteren Reihe. Der Effekt der Fähigkeit wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensschutz&gt;</span><span style="color: #645252;font-size:18px">Wirkt auf alle verbündeten Einheiten der hinteren Reihe. Der Effekt der Fähigkeit wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 2nd Skill (or 1st): Segen des Waldes
- **Description:** <span style="color: #48b946;font-size:18px"><Lebensschutz></span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht. Zu Beginn der Schlacht wirkt der Pegasus <Lebensschutz>.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensschutz&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht. Zu Beginn der Schlacht wirkt der Pegasus &lt;Lebensschutz&gt;.</span>
 
 ### 3rd Skill (or 4th): Wilde Klinge
- **Description:** <span style="color: #48b946;font-size:18px"><Rasiermesserscharf></span><span style="color: #645252;font-size:18px">Das Angriffstempo des Pegasus wird 10 Sek. lang um 100 % erhöht, wenn er einen „Schild“ hat.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rasiermesserscharf&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo des Pegasus wird 10 Sek. lang um 100 % erhöht, wenn er einen „Schild“ hat.</span>
 
 ### 4th Skill (or 3rd): Dornenschwert
- **Description:** <span style="color: #48b946;font-size:18px"><Rasiermesserscharf></span><span style="color: #645252;font-size:18px">Standardangriffe reduzieren die Schadensreduzierung des Ziels um 10 %.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rasiermesserscharf&gt;</span><span style="color: #645252;font-size:18px">Standardangriffe reduzieren die Schadensreduzierung des Ziels um 10 %.</span>
 
 ### 5th Skill (or 6th): Geborener Anführer
- **Description:** <span style="color: #48b946;font-size:18px"><Kavallerie der Silberflügel></span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete Schutzwall-Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kavallerie der Silberflügel&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete Schutzwall-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Schwingen der Insp.
- **Description:** <span style="color: #48b946;font-size:18px"><Kavallerie der Silberflügel></span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete fliegende Einheit auf dem Schlachtfeld.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kavallerie der Silberflügel&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete fliegende Einheit auf dem Schlachtfeld.</span>
 
 ## Technical info
  **runart:** 0

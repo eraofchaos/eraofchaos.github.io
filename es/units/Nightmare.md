@@ -3,7 +3,7 @@ title: "Pesadilla"
 permalink: /es/units/Nightmare/
 excerpt: "Unidades La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Pesadilla"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Apoyo de defensa. Aumenta el Poder general de las unidades del Infierno.
+
+## Basic stats
  **Base HP:** 2691.0
 
  **Base ATK:** 84.1
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 42.05 | 12.5 | 2018.25 |
+  | Azul | 84.1 | 25.0 | 4036.5 |
+  | Azul +1 | 126.15 | 37.5 | 6054.75 |
+  | Azul +2 | 176.61 | 52.5 | 8476.65 |
+  | Violeta | 227.07 | 67.5 | 10898.55 |
+  | Violeta +1 | 277.53 | 82.5 | 13320.45 |
+  | Violeta +2 | 336.4 | 100.0 | 16146.0 |
+  | Violeta +3 | 395.27 | 117.5 | 18971.55 |
+  | Naranja | 454.14 | 135.0 | 21797.1 |
+  | Naranja +1 | 521.42 | 155.0 | 25026.3 |
+  | Naranja +2 | 588.7 | 175.0 | 28255.5 |
+  | Naranja +3 | 655.98 | 195.0 | 31484.7 |
+  | Naranja +4 | 723.26 | 215.0 | 34713.9 |
+  | Naranja +5 | 824.18 | 245.0 | 39557.7 |
+  | Rojo | 958.74 | 285.0 | 46016.1 |
 
- **Info1:** Apoyo de defensa. Aumenta el Poder general de las unidades del Infierno.
-
- **Info2:** Apoyo de defensa. Aumenta el Poder general de las unidades del Infierno.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 11.774 | 0.55 | 6.5 | 376.74 |
+  | **4x** <i class="fas fa-star"/> | 13.456 | 0.58 | 7.25 | 430.56 |
+  | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
+  | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
 ## Skills
 ### 1 Skill: Atrapado en una pesadilla
@@ -49,20 +73,18 @@ toc: true
  **Description:** 
 
 ### 5 Skill: Golpe asador
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con <quemado>.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
 ### 6 Skill: Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Defensa
+* Reducción de daño de la unidad
 
-    - PV
-
-    - Defensa
-
-    - Reducción de daño de la unidad
 
 ## Awaking
 ### Awaking Details

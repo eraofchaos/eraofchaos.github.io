@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /es/units/Berserker/
 excerpt: "Unidades Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
 unitID: 408
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Berserker"
 toc: true
@@ -25,25 +25,49 @@ toc: true
 
  **Unit description:** Tormenta bélica: inflige daño a tres unidades enemigas cercanas.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Potente DPS; bueno en todas las posiciones
+
+## Basic stats
  **Base HP:** 5317.0
 
  **Base ATK:** 678.8
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 339.4 | 10.5 | 3987.75 |
+  | Azul | 678.8 | 21.0 | 7975.5 |
+  | Azul +1 | 1018.2 | 31.5 | 11963.25 |
+  | Azul +2 | 1425.48 | 44.1 | 16748.55 |
+  | Violeta | 1832.76 | 56.7 | 21533.85 |
+  | Violeta +1 | 2240.04 | 69.3 | 26319.15 |
+  | Violeta +2 | 2715.2 | 84.0 | 31902.0 |
+  | Violeta +3 | 3190.36 | 98.7 | 37484.85 |
+  | Naranja | 3665.52 | 113.4 | 43067.7 |
+  | Naranja +1 | 4208.56 | 130.2 | 49448.1 |
+  | Naranja +2 | 4751.6 | 147.0 | 55828.5 |
+  | Naranja +3 | 5294.64 | 163.8 | 62208.9 |
+  | Naranja +4 | 5837.68 | 180.6 | 68589.3 |
+  | Naranja +5 | 6652.24 | 205.8 | 78159.9 |
+  | Rojo | 7738.32 | 239.4 | 90920.7 |
 
- **Info1:** Potente DPS; bueno en todas las posiciones
-
- **Info2:** Potente DPS; bueno en todas las posiciones
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 95.032 | 0.51 | 5.62 | 744.38 |
+  | **4x** <i class="fas fa-star"/> | 108.608 | 0.53 | 6.33 | 850.72 |
+  | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
+  | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
 ## Skills
 ### 1 Skill: null
  **Description:** 
 
 ### 2 Skill: Furia de guerra
- **Description:** <span style="color: #645252;font-size:20px">El Ataque del Berserker aumenta hasta un máximo de un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> a medida que disminuyen sus PV. El Berserker grita cada 20 s, lo que aumenta su daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y </span><span style="color: black"><span style="color: #48b946;font-size:20px"><desalienta></span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades hostiles durante 10 s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">El Ataque del Berserker aumenta hasta un máximo de un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> a medida que disminuyen sus PV. El Berserker grita cada 20 s, lo que aumenta su daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;desalienta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades hostiles durante 10 s.</span><span style="color: black">
 
 ### 3 Skill: Destrozo
- **Description:** <span style="color: #645252;font-size:20px">El Berserker es inmune a los efectos de <petrificación> y <aturdimiento>. Aumenta la velocidad de ataque del Berserker un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">. El efecto se duplica cuando sus PV están por debajo del 35%. (Tiene efecto aunque se recuperen PV)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">El Berserker es inmune a los efectos de &lt;petrificación&gt; y &lt;aturdimiento&gt;. Aumenta la velocidad de ataque del Berserker un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">. El efecto se duplica cuando sus PV están por debajo del 35%. (Tiene efecto aunque se recuperen PV)</span><span style="color: black">
 
 ### 4 Skill: Dios de la guerra inmortal
  **Description:** <span style="color: #645252;font-size:20px">Por cada unidad de Bastión adicional dprecisiónesplegada, aumenta el daño de la unidad de Berserker un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. La unidad de Berserker se transforma en una Estatua de Marte al morir, lo que aumenta el daño de las unidades de Bastión amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Golpe crítico de la unidad
+* Daño de la unidad
 
-    - PV
-
-    - Golpe crítico de la unidad
-
-    - Daño de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Hacha de guerra de peso muerto
- **Description:** <span style="color: #48b946;font-size:18px"><Peerless Dance></span><span style="color: #645252;font-size:18px">Duplica el daño relacionado con los PV máximos infligido por Baile sin pareja. Cuando se disipa con éxito, inflige un 200% de daño adicional</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">Duplica el daño relacionado con los PV máximos infligido por Baile sin pareja. Cuando se disipa con éxito, inflige un 200% de daño adicional</span>
 
 ### 2nd Skill (or 1st): Hacha de guerra de ansia de sangre
- **Description:** <span style="color: #48b946;font-size:18px"><Peerless Dance></span><span style="color: #645252;font-size:18px">El Berserker recibe un 20% adicional de absorción de vida. Cuando se disipa con éxito, inflige un 200% de daño adicional</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">El Berserker recibe un 20% adicional de absorción de vida. Cuando se disipa con éxito, inflige un 200% de daño adicional</span>
 
 ### 3rd Skill (or 4th): Rabia infinita
- **Description:** <span style="color: #48b946;font-size:18px"><War Fury></span><span style="color: #645252;font-size:18px">Duración de Furia de guerra aumentada en 15 s. Aumenta la furia un 50%. Aumenta el daño crítico un 30% más. Los efectos no se pueden disipar.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;War Fury&gt;</span><span style="color: #645252;font-size:18px">Duración de Furia de guerra aumentada en 15 s. Aumenta la furia un 50%. Aumenta el daño crítico un 30% más. Los efectos no se pueden disipar.</span>
 
 ### 4th Skill (or 3rd): Matanza de guerra
- **Description:** <span style="color: #48b946;font-size:18px"><War Fury></span><span style="color: #645252;font-size:18px">Furia de guerra aumenta el daño de unidad de las unidades de Bastión un 5% y la velocidad de ataque un 10% durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;War Fury&gt;</span><span style="color: #645252;font-size:18px">Furia de guerra aumenta el daño de unidad de las unidades de Bastión un 5% y la velocidad de ataque un 10% durante 10 s</span>
 
 ### 5th Skill (or 6th): Bendición del Dios de la Guerra
- **Description:** <span style="color: #48b946;font-size:18px"><Immortal War God></span><span style="color: #645252;font-size:18px">Invoca una pequeña Estatua de Marte al inicio de la batalla para recuperar un 1,5% de los PV máximos cada 2 s y aumenta el daño de la unidad un 8% para tus unidades de Bastión. El Coloso desaparece cuando las unidades Berserker se destruyan. Cuando la Estatua de Marte esté en el campo de batalla, desalienta a todos los enemigos cada 15 s, dura 6 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immortal War God&gt;</span><span style="color: #645252;font-size:18px">Invoca una pequeña Estatua de Marte al inicio de la batalla para recuperar un 1,5% de los PV máximos cada 2 s y aumenta el daño de la unidad un 8% para tus unidades de Bastión. El Coloso desaparece cuando las unidades Berserker se destruyan. Cuando la Estatua de Marte esté en el campo de batalla, desalienta a todos los enemigos cada 15 s, dura 6 s</span>
 
 ### 6th Skill (or 5th): Estatua Enorme
- **Description:** <span style="color: #48b946;font-size:18px"><Immortal War God></span><span style="color: #645252;font-size:18px">Aumenta el efecto de ventaja que otorga la Estatua de Marte un 50%. Cuando la Estatua de Marte esté en el campo de batalla, desalienta a todos los enemigos cada 15 s, dura 6 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immortal War God&gt;</span><span style="color: #645252;font-size:18px">Aumenta el efecto de ventaja que otorga la Estatua de Marte un 50%. Cuando la Estatua de Marte esté en el campo de batalla, desalienta a todos los enemigos cada 15 s, dura 6 s</span>
 
 ## Technical info
  **runart:** 1

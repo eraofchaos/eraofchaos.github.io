@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /fr/units/Ice Elemental/
 excerpt: "Unités Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -25,22 +25,47 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Mage de contrôle. Recouvre tout sous la glace. Mur de glace de soutien.
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 111.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 55.5 | 2.5 | 558.0 |
+  | Bleu | 111.0 | 5.0 | 1116.0 |
+  | Bleu +1 | 166.5 | 7.5 | 1674.0 |
+  | Bleu +2 | 233.1 | 10.5 | 2343.6 |
+  | Violet | 299.7 | 13.5 | 3013.2 |
+  | Violet +1 | 366.3 | 16.5 | 3682.8 |
+  | Violet +2 | 444.0 | 20.0 | 4464.0 |
+  | Violet +3 | 521.7 | 23.5 | 5245.2 |
+  | Orange | 599.4 | 27.0 | 6026.4 |
+  | Orange +1 | 688.2 | 31.0 | 6919.2 |
+  | Orange +2 | 777.0 | 35.0 | 7812.0 |
+  | Orange +3 | 865.8 | 39.0 | 8704.8 |
+  | Orange +4 | 954.6 | 43.0 | 9597.6 |
+  | Orange +5 | 1087.8 | 49.0 | 10936.8 |
+  | Rouge | 1265.4 | 57.0 | 12722.4 |
 
- **Info1:** Mage de contrôle. Recouvre tout sous la glace. Mur de glace de soutien.
-
- **Info2:** Mage de contrôle. Recouvre tout sous la glace. Mur de glace de soutien.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 13.32 | 0.44 | 1.55 | 89.28 |
+  | **3x** <i class="fas fa-star"/> | 15.54 | 0.46 | 2.1 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 17.76 | 0.48 | 2.65 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
 ### 1 Skill: Mur de glace
- **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de glace érige un mur de glace devant la cible, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Gel></span><span style="color: black"><span style="color: #645252;font-size:20px"> aux cibles sur la même ligne dans une large zone pendant <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de glace érige un mur de glace devant la cible, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Gel&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux cibles sur la même ligne dans une large zone pendant <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
 ### 2 Skill: Poignée congelée
- **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de l'Élémentaire de glace a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Lenteur></span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> à la cible pendant 15 secondes, et de ralentir la vitesse d'ATQ de la cible de <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes. Cet effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de l'Élémentaire de glace a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> à la cible pendant 15 secondes, et de ralentir la vitesse d'ATQ de la cible de <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes. Cet effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
 ### 3 Skill: Force élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de glace est sur le champ de bataille, il augmente la résistance magique aux sorts d'eau de ses alliés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et réduit la résistance magique aux sorts d'eau de ses ennemis de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. De plus, la régénération de mana du Héros allié augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Résistance magique
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Résistance magique
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 0

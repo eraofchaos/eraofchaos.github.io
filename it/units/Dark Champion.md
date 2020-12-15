@@ -3,7 +3,7 @@ title: "Campione oscuro"
 permalink: /it/units/Dark Champion/
 excerpt: "Unità Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
 unitID: 309
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: it
 ref: "Campione oscuro"
 toc: true
@@ -28,47 +28,69 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Riduce il morale nemico. Infligge danni ingenti e può uccidere istantaneamente i nemici. Rende invincibili gli alleati nella propria Aura.
+
+## Basic stats
  **Base HP:** 9504.0
 
  **Base ATK:** 1029.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 514.75 | 6.875 | 7128.0 |
+  | Blu | 1029.5 | 13.75 | 14256.0 |
+  | Blu +1 | 1544.25 | 20.625 | 21384.0 |
+  | Blu +2 | 2161.95 | 28.875 | 29937.6 |
+  | Viola | 2779.65 | 37.125 | 38491.2 |
+  | Viola +1 | 3397.35 | 45.375 | 47044.8 |
+  | Viola +2 | 4118.0 | 55.0 | 57024.0 |
+  | Viola +3 | 4838.65 | 64.625 | 67003.2 |
+  | Arancione | 5559.3 | 74.25 | 76982.4 |
+  | Arancione +1 | 6382.9 | 85.25 | 88387.2 |
+  | Arancione +2 | 7206.5 | 96.25 | 99792.0 |
+  | Arancione +3 | 8030.1 | 107.25 | 111196.8 |
+  | Arancione +4 | 8853.7 | 118.25 | 122601.6 |
+  | Arancione +5 | 10089.1 | 134.75 | 139708.8 |
+  | Rosso | 11736.3 | 156.75 | 162518.4 |
 
- **Info1:** Riduce il morale nemico. Infligge danni ingenti e può uccidere istantaneamente i nemici. Rende invincibili gli alleati nella propria Aura.
-
- **Info2:** Riduce il morale nemico. Infligge danni ingenti e può uccidere istantaneamente i nemici. Rende invincibili gli alleati nella propria Aura.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 144.13 | 0.58 | 4.03 | 1330.56 |
+  | **4x** <i class="fas fa-star"/> | 164.72 | 0.61 | 4.66 | 1520.64 |
+  | **5x** <i class="fas fa-star"/> | 185.31 | 0.64 | 5.3 | 1710.72 |
+  | **6x** <i class="fas fa-star"/> | 205.9 | 0.66 | 5.94 | 1900.8 |
 
 ## Skills
 ### 1 Skill: Falce del Silenzio
- **Description:** <span style="color: #645252;font-size:20px">Infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN, più DAN aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi ogni 24 secondi, causando </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Sanguinamento></span><span style="color: black"><span style="color: #645252;font-size:20px"> al bersaglio per 10 secondi. Il Campione oscuro recupera PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT con ogni attacco base.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN, più DAN aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi ogni 24 secondi, causando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al bersaglio per 10 secondi. Il Campione oscuro recupera PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT con ogni attacco base.</span><span style="color: black">
 
 ### 2 Skill: Destino finale
- **Description:** <span style="color: #645252;font-size:20px">Quando il Campione oscuro entra in battaglia, le unità affette da <Morale basso> con PF inferiori al 5% muoiono istantaneamente. Usa </span><span style="color: black"><span style="color: #F0F000;font-size:20px"><Malocchio></span><span style="color: black"><span style="color: #645252;font-size:20px"> ogni 13 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando il Campione oscuro entra in battaglia, le unità affette da &lt;Morale basso&gt; con PF inferiori al 5% muoiono istantaneamente. Usa </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Malocchio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ogni 13 secondi.</span><span style="color: black">
 
 ### 3 Skill: Sepolcri oscuri
- **Description:** <span style="color: #645252;font-size:20px">Quando i PF del bersaglio scendono sotto il 40%, il Campione oscuro lo seppellisce sotto una lapide per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi. L'unità sepolta è affetta da <Silenzio>, non può essere curata e non può muoversi né attaccare. I danni che subisce durante questo periodo vengono trasferiti a 4 unità a distanza nemiche casuali. Finché la lapide rimane in gioco, tutte le unità Necropoli alleate nell'area recuperano </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi al secondo. Recupero: 28 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Quando i PF del bersaglio scendono sotto il 40%, il Campione oscuro lo seppellisce sotto una lapide per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi. L'unità sepolta è affetta da &lt;Silenzio&gt;, non può essere curata e non può muoversi né attaccare. I danni che subisce durante questo periodo vengono trasferiti a 4 unità a distanza nemiche casuali. Finché la lapide rimane in gioco, tutte le unità Necropoli alleate nell'area recuperano </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi al secondo. Recupero: 28 secondi.</span><span style="color: black">
 
 ### 4 Skill: Signore delle ossa
- **Description:** <span style="color: #645252;font-size:20px">Danno dell'unità aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I PF ottenuti tramite <Destino finale> aumentano di un ulteriore 4% per ogni unità Necropoli sul campo di battaglia. I PF ottenuti tramite <Destino finale> aumentano di un ulteriore 1% per ogni unità Necropoli evocata sul campo di battaglia. <Destino finale> può aumentare i PF fino a un massimo di 25%. Quando un eroe alleato lancia un incantesimo di tipo Terra, riduce di 4 secondi il recupero di 1 incantesimo casuale.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Danno dell'unità aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I PF ottenuti tramite &lt;Destino finale&gt; aumentano di un ulteriore 4% per ogni unità Necropoli sul campo di battaglia. I PF ottenuti tramite &lt;Destino finale&gt; aumentano di un ulteriore 1% per ogni unità Necropoli evocata sul campo di battaglia. &lt;Destino finale&gt; può aumentare i PF fino a un massimo di 25%. Quando un eroe alleato lancia un incantesimo di tipo Terra, riduce di 4 secondi il recupero di 1 incantesimo casuale.</span><span style="color: black">
 
 ### 5 Skill: Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da <Morale basso>, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### 6 Skill: Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ### 7 Skill: Cimitero silente
- **Description:** <span style="color: #645252;font-size:20px">Una volta schierate 3 unità Necropoli, il Campione oscuro gode di Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danni aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando lancia <Malocchio>, evoca anche </span><span style="color: black"><span style="color: #F0F000;font-size:20px"><Cimitero silente></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi. L'area d'effetto cresce all'aumentare del livello. Recupero: 30 secondi.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Una volta schierate 3 unità Necropoli, il Campione oscuro gode di Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danni aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando lancia &lt;Malocchio&gt;, evoca anche </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Cimitero silente&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi. L'area d'effetto cresce all'aumentare del livello. Recupero: 30 secondi.</span><span style="color: black">
 
 ## Talent
 
-    - Attacco
+* Attacco
+* PF
+* Velocità d'attacco
+* Danno unità
 
-    - PF
-
-    - Velocità d'attacco
-
-    - Danno unità
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px"><Paura></span><span style="color: #645252;font-size:18px">Riduce di un ulteriore 20% la Rid DAN dell'unità.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">Riduce di un ulteriore 20% la Rid DAN dell'unità.</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px"><Paura></span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 10% la Rid DAN delle unità nemiche in un'ampia area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 10% la Rid DAN delle unità nemiche in un'ampia area.</span>
 
 ### 3rd Skill (or 4th): Attacco debilitante
- **Description:** <span style="color: #48b946;font-size:18px"><Rullo stritolante></span><span style="color: #645252;font-size:18px">Riduce la DIF del 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Riduce la DIF del 30%</span>
 
 ### 4th Skill (or 3rd): Divieto oscuro
- **Description:** <span style="color: #48b946;font-size:18px"><Rullo stritolante></span><span style="color: #645252;font-size:18px">Aumenta la portata di <Silenzio> fino a coprire tutte le unità nemiche in un'area.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Aumenta la portata di &lt;Silenzio&gt; fino a coprire tutte le unità nemiche in un'area.</span>
 
 ### 5th Skill (or 6th): Abbraccio spettrale
- **Description:** <span style="color: #48b946;font-size:18px"><Invecchiamento></span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
 
 ### 6th Skill (or 5th): Maledizione dell'età
- **Description:** <span style="color: #48b946;font-size:18px"><Invecchiamento></span><span style="color: #645252;font-size:18px">: le unità nemiche in un'area attorno al Drago scheletrico subiscono danni pari al 200% del valore della tecnica originale.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: le unità nemiche in un'area attorno al Drago scheletrico subiscono danni pari al 200% del valore della tecnica originale.</span>
 
 ## Technical info
  **runart:** 1

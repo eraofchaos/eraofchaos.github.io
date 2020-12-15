@@ -3,7 +3,7 @@ title: "Рух"
 permalink: /ru/units/Roc/
 excerpt: "Отряды null"
 unitID: 405
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Рух"
 toc: true
@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+
+ **Info:** Наносит высокий магический урон большому количеству вражеских отрядов.
+
+## Basic stats
  **Base HP:** 4978.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 396.0 | 3.0 | 3733.5 |
+  | Синий | 792.0 | 6.0 | 7467.0 |
+  | Blue +1 | 1188.0 | 9.0 | 11200.5 |
+  | Синий +2 | 1663.2 | 12.6 | 15680.7 |
+  | Фиолетовый | 2138.4 | 16.2 | 20160.9 |
+  | Фиолетовый +1 | 2613.6 | 19.8 | 24641.1 |
+  | Фиолетовый +2 | 3168.0 | 24.0 | 29868.0 |
+  | Фиолетовый +3 | 3722.4 | 28.2 | 35094.9 |
+  | Оранжевый | 4276.8 | 32.4 | 40321.8 |
+  | Оранжевый +1 | 4910.4 | 37.2 | 46295.4 |
+  | Оранжевый +2 | 5544.0 | 42.0 | 52269.0 |
+  | Orange +3 | 6177.6 | 46.8 | 58242.6 |
+  | Оранжевый +4 | 6811.2 | 51.6 | 64216.2 |
+  | Orange +5 | 7761.6 | 58.8 | 73176.6 |
+  | Red | 9028.8 | 68.4 | 85123.8 |
 
- **Info1:** Наносит высокий магический урон большому количеству вражеских отрядов.
-
- **Info2:** Наносит высокий магический урон большому количеству вражеских отрядов.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 95.04 | 0.47 | 1.76 | 597.36 |
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.5 | 2.32 | 696.92 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.52 | 2.88 | 796.48 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
 ## Skills
 ### 1 Skill: Гром
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Критический удар отряда
+* unit Damage
 
-    - ОЗ
-
-    - Критический удар отряда
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Буря
- **Description:** <span style="color: #48b946;font-size:18px"><Гром></span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Гром&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
 
 ### 2nd Skill (or 1st): Электроказнь
- **Description:** <span style="color: #48b946;font-size:18px"><Гром></span><span style="color: #645252;font-size:18px">: урон понижается на 2000</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Гром&gt;</span><span style="color: #645252;font-size:18px">: урон понижается на 2000</span>
 
 ### 3rd Skill (or 4th): Охотничий инстинкт
- **Description:** <span style="color: #48b946;font-size:18px"><Буйство></span><span style="color: #645252;font-size:18px">: урон Рух повышается на 10% (при <Буйстве> удваивается)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: урон Рух повышается на 10% (при &lt;Буйстве&gt; удваивается)</span>
 
 ### 4th Skill (or 3rd): Природная быстрота
- **Description:** <span style="color: #48b946;font-size:18px"><Буйство></span><span style="color: #645252;font-size:18px">: критический урон Рух повышается на 15% (при <Буйстве> удваивается)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: критический урон Рух повышается на 15% (при &lt;Буйстве&gt; удваивается)</span>
 
 ### 5th Skill (or 6th): Взрыв
- **Description:** <span style="color: #48b946;font-size:18px"><Ураганный барьер></span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 8% от макс. ОЗ случайному вражескому отряду</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 8% от макс. ОЗ случайному вражескому отряду</span>
 
 ### 6th Skill (or 5th): Электрошок
- **Description:** <span style="color: #48b946;font-size:18px"><Ураганный барьер></span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 15% от макс. ОЗ случайному вражескому отряду</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 15% от макс. ОЗ случайному вражескому отряду</span>
 
 ## Technical info
  **runart:** 0

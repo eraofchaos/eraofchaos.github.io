@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /ru/units/Revyaratan/
 excerpt: "Отряды Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Левиафан"
 toc: true
@@ -25,25 +25,49 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Атака из нескольких ударов, высокий урон от взрыва, большой УВС.
+
+ **Info:** Всегда наносит огромный урон, сдерживает врага и пожирает тела для восстановления ОЗ.
+
+## Basic stats
  **Base HP:** 7128.0
 
  **Base ATK:** 1267.1
 
- **Recommend:** Атака из нескольких ударов, высокий урон от взрыва, большой УВС.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 633.55 | 12.375 | 5346.0 |
+  | Синий | 1267.1 | 24.75 | 10692.0 |
+  | Blue +1 | 1900.65 | 37.125 | 16038.0 |
+  | Синий +2 | 2660.91 | 51.975 | 22453.2 |
+  | Фиолетовый | 3421.17 | 66.825 | 28868.4 |
+  | Фиолетовый +1 | 4181.43 | 81.675 | 35283.6 |
+  | Фиолетовый +2 | 5068.4 | 99.0 | 42768.0 |
+  | Фиолетовый +3 | 5955.37 | 116.325 | 50252.4 |
+  | Оранжевый | 6842.34 | 133.65 | 57736.8 |
+  | Оранжевый +1 | 7856.02 | 153.45 | 66290.4 |
+  | Оранжевый +2 | 8869.7 | 173.25 | 74844.0 |
+  | Orange +3 | 9883.38 | 193.05 | 83397.6 |
+  | Оранжевый +4 | 10897.06 | 212.85 | 91951.2 |
+  | Orange +5 | 12417.58 | 242.55 | 104781.6 |
+  | Red | 14444.94 | 282.15 | 121888.8 |
 
- **Info1:** Всегда наносит огромный урон, сдерживает врага и пожирает тела для восстановления ОЗ.
-
- **Info2:** Всегда наносит огромный урон, сдерживает врага и пожирает тела для восстановления ОЗ.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 177.394 | 0.36 | 6.45 | 997.92 |
+  | **4x** <i class="fas fa-star"/> | 202.736 | 0.38 | 7.19 | 1140.48 |
+  | **5x** <i class="fas fa-star"/> | 228.078 | 0.4 | 7.94 | 1283.04 |
+  | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
 
 ## Skills
 ### 1 Skill: Свирепая челюсть
  **Description:** <span style="color: #645252;font-size:20px">Целям наносится дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона каждые 10 сек. со сдерживанием вражеских отрядов в том же ряду в течение 4 сек.</span><span style="color: black">
 
 ### 2 Skill: Ледяной плавник
- **Description:** <span style="color: #645252;font-size:20px">Иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозке</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Остановке времени></span><span style="color: black"><span style="color: #645252;font-size:20px"> и урону от заклинаний Воды. За каждый дополнительно размещенный отряд Убежища </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Наличие левиафанов дает всем союзным отрядам </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда, скорости атаки и КРИТ. УРН, а также на 2,5% усиливает эффект от отрядов Убежища.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозке</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Остановке времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и урону от заклинаний Воды. За каждый дополнительно размещенный отряд Убежища </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Наличие левиафанов дает всем союзным отрядам </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда, скорости атаки и КРИТ. УРН, а также на 2,5% усиливает эффект от отрядов Убежища.</span><span style="color: black">
 
 ### 3 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">УРН отряда </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Два вражеских отряда будут отмечены в начале боя. Метка на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> снижает скорость атаки, КРИТ УРН, УРН отряда и сопротивление отряда урону, а также запрещает воскрешение ангелами первых погибших. <Свирепая челюсть> с шансом 30% восстанавливает </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">УРН отряда </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Два вражеских отряда будут отмечены в начале боя. Метка на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> снижает скорость атаки, КРИТ УРН, УРН отряда и сопротивление отряда урону, а также запрещает воскрешение ангелами первых погибших. &lt;Свирепая челюсть&gt; с шансом 30% восстанавливает </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
 ### 4 Skill: Непоколебимое подводное течение
  **Description:** <span style="color: #645252;font-size:20px">Когда союзному отряду Убежища наносится урон выше 20% от максимума ОЗ, это приводит в ярость морского монстра, который повышает урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> у союзных отрядов Убежищ на 25 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* Критический удар отряда
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - Критический удар отряда
 
 ## Awaking
 ### Awaking Details

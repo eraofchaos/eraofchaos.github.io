@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /fr/units/Mantis/
 excerpt: "Unités  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force."
 unitID: 209
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Mantis"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 6336.0
 
  **Base ATK:** 1140.4
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 570.2 | 5.5 | 4752.0 |
+  | Bleu | 1140.4 | 11.0 | 9504.0 |
+  | Bleu +1 | 1710.6 | 16.5 | 14256.0 |
+  | Bleu +2 | 2394.84 | 23.1 | 19958.4 |
+  | Violet | 3079.08 | 29.7 | 25660.8 |
+  | Violet +1 | 3763.32 | 36.3 | 31363.2 |
+  | Violet +2 | 4561.6 | 44.0 | 38016.0 |
+  | Violet +3 | 5359.88 | 51.7 | 44668.8 |
+  | Orange | 6158.16 | 59.4 | 51321.6 |
+  | Orange +1 | 7070.48 | 68.2 | 58924.8 |
+  | Orange +2 | 7982.8 | 77.0 | 66528.0 |
+  | Orange +3 | 8895.12 | 85.8 | 74131.2 |
+  | Orange +4 | 9807.44 | 94.6 | 81734.4 |
+  | Orange +5 | 11175.92 | 107.8 | 93139.2 |
+  | Rouge | 13000.56 | 125.4 | 108345.6 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 159.656 | 0.85 | 3.42 | 887.04 |
+  | **4x** <i class="fas fa-star"/> | 182.464 | 0.89 | 4.03 | 1013.76 |
+  | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
+  | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
 
 ## Skills
 ### 1 Skill: sonic cutting
@@ -52,23 +76,21 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"slowdown\" </span><span style="color: black"><span style="color: #645252;font-size:20px">status targets, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Chances are <span style="color: #48b946;font-size:20px">Stalking</span><span style="color: black"> effect lasts for 3 seconds and cools down for 6 seconds on 2 enemy corps within its small area. When a Barrier Corps gains </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"Shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, it will increase Mantis Corps damage by 0.5%, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack speed and</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value for 10 seconds, this effect can be stacked up to 50 layers </span><span style="color: black">
 
 ### 5 Skill: Prolifération paisible
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'<Étourdissement> et de la <Pétrification> dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 6 Skill: Marque de haine
- **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de <Lenteur> ou de <Saignement>. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ### 7 Skill:  Forest of Spirituality
  **Description:** <span style="color: #645252;font-size:20px">Increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 Barricade Corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*20+300}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value. At the 6th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Forest of Spiritual Source\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field The effect grows with skill level, lasts 15 seconds, and is triggered every 31 seconds thereafter</span><span style="color: black">.
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* Vitesse d'attaque
+* Coup critique d'unité
 
-    - PV
-
-    - Vitesse d'attaque
-
-    - Coup critique d'unité
 
 ## Awaking
 ### Awaking Details
@@ -90,22 +112,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Halo du Saint-Esprit
- **Description:** <span style="color: #48b946;font-size:18px"><Cécité></span><span style="color: #645252;font-size:18px"> : Réduit la précision de 1000.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cécité&gt;</span><span style="color: #645252;font-size:18px"> : Réduit la précision de 1000.</span>
 
 ### 2nd Skill (or 1st): Volonté du Saint-Esprit
- **Description:** <span style="color: #48b946;font-size:18px"><Cécité> : </span><span style="color: #645252;font-size:18px">Se lance à l'engagement.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cécité&gt; : </span><span style="color: #645252;font-size:18px">Se lance à l'engagement.</span>
 
 ### 3rd Skill (or 4th): Sixième sens
- **Description:** <span style="color: #48b946;font-size:18px"><Silhouette scintillante> : </span><span style="color: #645252;font-size:18px">Les chances d'activation du bouclier augmentent à 200 % de leur valeur précédente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Silhouette scintillante&gt; : </span><span style="color: #645252;font-size:18px">Les chances d'activation du bouclier augmentent à 200 % de leur valeur précédente.</span>
 
 ### 4th Skill (or 3rd): Pouvoir de coordination
- **Description:** <span style="color: #48b946;font-size:18px"><Silhouette scintillante> : </span><span style="color: #645252;font-size:18px">L'effet augmente à 200 % de sa valeur précédente.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Silhouette scintillante&gt; : </span><span style="color: #645252;font-size:18px">L'effet augmente à 200 % de sa valeur précédente.</span>
 
 ### 5th Skill (or 6th): Sagesse du Saint-Esprit
- **Description:** <span style="color: #48b946;font-size:18px"><Meneuse intrépide> : </span><span style="color: #645252;font-size:18px">La Licorne augmente les dégâts de toutes les unités alliées de 10 % pendant 20 secondes quand la cible est abattue. Peut se cumuler jusqu'à 3 fois.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Meneuse intrépide&gt; : </span><span style="color: #645252;font-size:18px">La Licorne augmente les dégâts de toutes les unités alliées de 10 % pendant 20 secondes quand la cible est abattue. Peut se cumuler jusqu'à 3 fois.</span>
 
 ### 6th Skill (or 5th): Refuge du Saint-Esprit
- **Description:** <span style="color: #48b946;font-size:18px"><Meneuse intrépide> : </span><span style="color: #645252;font-size:18px">Quand la cible est abattue, la Licorne génère un bouclier pour toutes les unités alliées qui absorbe des dégâts équivalents à 6 % de leurs PV max.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Meneuse intrépide&gt; : </span><span style="color: #645252;font-size:18px">Quand la cible est abattue, la Licorne génère un bouclier pour toutes les unités alliées qui absorbe des dégâts équivalents à 6 % de leurs PV max.</span>
 
 ## Technical info
  **runart:** 1

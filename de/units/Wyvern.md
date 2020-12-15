@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /de/units/Wyvern/
 excerpt: "Einheiten Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Wyvern"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** DPS-Einheit. Kann auf verschiedene Weise Seuche verbreiten.
+
+## Basic stats
  **Base HP:** 5544.0
 
  **Base ATK:** 500.0
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 250.0 | 7.5 | 4158.0 |
+  | Blau | 500.0 | 15.0 | 8316.0 |
+  | Blau +1 | 750.0 | 22.5 | 12474.0 |
+  | Blau +2 | 1050.0 | 31.5 | 17463.6 |
+  | Lila | 1350.0 | 40.5 | 22453.2 |
+  | Lila +1 | 1650.0 | 49.5 | 27442.8 |
+  | Lila +2 | 2000.0 | 60.0 | 33264.0 |
+  | Lila +3 | 2350.0 | 70.5 | 39085.2 |
+  | Orange | 2700.0 | 81.0 | 44906.4 |
+  | Orange +1 | 3100.0 | 93.0 | 51559.2 |
+  | Orange +2 | 3500.0 | 105.0 | 58212.0 |
+  | Orange +3 | 3900.0 | 117.0 | 64864.8 |
+  | Orange +4 | 4300.0 | 129.0 | 71517.6 |
+  | Orange +5 | 4900.0 | 147.0 | 81496.8 |
+  | Rot | 5700.0 | 171.0 | 94802.4 |
 
- **Info1:** DPS-Einheit. Kann auf verschiedene Weise Seuche verbreiten.
-
- **Info2:** DPS-Einheit. Kann auf verschiedene Weise Seuche verbreiten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 70.0 | 0.57 | 4.3 | 776.16 |
+  | **4x** <i class="fas fa-star"/> | 80.0 | 0.6 | 4.95 | 887.04 |
+  | **5x** <i class="fas fa-star"/> | 90.0 | 0.62 | 5.6 | 997.92 |
+  | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
 ### 1 Skill: Giftspucke
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Angriffstempo
+* Schaden (Einheit)
 
-    - LP
-
-    - Angriffstempo
-
-    - Schaden (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ätzendes Säuregift
- **Description:** <span style="color: #48b946;font-size:18px"><Giftspucke></span><span style="color: #645252;font-size:18px"> wird einmal alle 13 Sek. ausgelöst und verursacht zusätzlichen Schaden in Höhe von 5 % der max. LP des Ziels.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftspucke&gt;</span><span style="color: #645252;font-size:18px"> wird einmal alle 13 Sek. ausgelöst und verursacht zusätzlichen Schaden in Höhe von 5 % der max. LP des Ziels.</span>
 
 ### 2nd Skill (or 1st): Angepasste Dosis
- **Description:** <span style="color: #48b946;font-size:18px"><Giftspucke></span><span style="color: #645252;font-size:18px"> wird einmal alle 17 Sek. ausgelöst und verursacht zusätzlichen Schaden in Höhe von 10 % der max. LP des Ziels.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftspucke&gt;</span><span style="color: #645252;font-size:18px"> wird einmal alle 17 Sek. ausgelöst und verursacht zusätzlichen Schaden in Höhe von 10 % der max. LP des Ziels.</span>
 
 ### 3rd Skill (or 4th): Giftige Berührung
- **Description:** <span style="color: #48b946;font-size:18px"><Wilde Klaue></span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung von Zieleinheiten um 10 %. Standardangriffe verursachen „Blutung“ beim Ziel.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Wilde Klaue&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung von Zieleinheiten um 10 %. Standardangriffe verursachen „Blutung“ beim Ziel.</span>
 
 ### 4th Skill (or 3rd): Giftiger Gesandter
- **Description:** <span style="color: #48b946;font-size:18px"><Wilde Klaue></span><span style="color: #645252;font-size:18px">Reduziert die Heilung von Zieleinheiten um 15 %. Standardangriffe verursachen Schaden in Höhe von 20 % des ANG sowie „Blutung“.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Wilde Klaue&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Heilung von Zieleinheiten um 15 %. Standardangriffe verursachen Schaden in Höhe von 20 % des ANG sowie „Blutung“.</span>
 
 ### 5th Skill (or 6th): Wildes Miasma
- **Description:** <span style="color: #48b946;font-size:18px"><Wildes Miasma></span><span style="color: #645252;font-size:18px">Fügt alle 20 Sek. allen gegnerischen Einheiten „Seuche“ zu. Verdoppelt den Effekt von „Seuche“, Wirkungsdauer 15 Sek. Der Malus auf Heilung wird um 150 % erhöht.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Wildes Miasma&gt;</span><span style="color: #645252;font-size:18px">Fügt alle 20 Sek. allen gegnerischen Einheiten „Seuche“ zu. Verdoppelt den Effekt von „Seuche“, Wirkungsdauer 15 Sek. Der Malus auf Heilung wird um 150 % erhöht.</span>
 
 ### 6th Skill (or 5th): Giftige Seuche
- **Description:** <span style="color: #48b946;font-size:18px"><Wildes Miasma></span><span style="color: #645252;font-size:18px">Fügt alle 20 Sek. allen gegnerischen Einheiten „Seuche“ zu. Wirkungsdauer 22 Sek., bis 2 Stapel.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Wildes Miasma&gt;</span><span style="color: #645252;font-size:18px">Fügt alle 20 Sek. allen gegnerischen Einheiten „Seuche“ zu. Wirkungsdauer 22 Sek., bis 2 Stapel.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /es/units/Goblin/
 excerpt: "Unidades Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo."
 unitID: 401
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Goblin"
 toc: true
@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Tormenta bélica: inflige daño a tres unidades enemigas cercanas.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Contraataca con asiduidad. Inflige mucho daño cuerpo a cuerpo. Cuanto menor es su vida, mayor es su Ataque.
+
+## Basic stats
  **Base HP:** 761.0
 
  **Base ATK:** 82.7
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 41.35 | 4.25 | 570.75 |
+  | Azul | 82.7 | 8.5 | 1141.5 |
+  | Azul +1 | 124.05 | 12.75 | 1712.25 |
+  | Azul +2 | 173.67 | 17.85 | 2397.15 |
+  | Violeta | 223.29 | 22.95 | 3082.05 |
+  | Violeta +1 | 272.91 | 28.05 | 3766.95 |
+  | Violeta +2 | 330.8 | 34.0 | 4566.0 |
+  | Violeta +3 | 388.69 | 39.95 | 5365.05 |
+  | Naranja | 446.58 | 45.9 | 6164.1 |
+  | Naranja +1 | 512.74 | 52.7 | 7077.3 |
+  | Naranja +2 | 578.9 | 59.5 | 7990.5 |
+  | Naranja +3 | 645.06 | 66.3 | 8903.7 |
+  | Naranja +4 | 711.22 | 73.1 | 9816.9 |
+  | Naranja +5 | 810.46 | 83.3 | 11186.7 |
+  | Rojo | 942.78 | 96.9 | 13013.1 |
 
- **Info1:** Contraataca con asiduidad. Inflige mucho daño cuerpo a cuerpo. Cuanto menor es su vida, mayor es su Ataque.
-
- **Info2:** Contraataca con asiduidad. Inflige mucho daño cuerpo a cuerpo. Cuanto menor es su vida, mayor es su Ataque.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.27 | 0.49 | 1.7 | 76.1 |
+  | **2x** <i class="fas fa-star"/> | 9.924 | 0.51 | 2.29 | 91.32 |
+  | **3x** <i class="fas fa-star"/> | 11.578 | 0.54 | 2.87 | 106.54 |
+  | **4x** <i class="fas fa-star"/> | 13.232 | 0.56 | 3.46 | 121.76 |
+  | **5x** <i class="fas fa-star"/> | 14.886 | 0.59 | 4.04 | 136.98 |
+  | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
 ## Skills
 ### 1 Skill: Tormenta bélica
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Resistencia mágica
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Resistencia mágica
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +108,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Mentalidad de luchador
- **Description:** <span style="color: #48b946;font-size:18px"><War Storm> </span>Se duplica la probabilidad de activar<span style="color: #645252;font-size:18px"><War Storm></span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;War Storm&gt; </span>Se duplica la probabilidad de activar<span style="color: #645252;font-size:18px">&lt;War Storm&gt;</span>
 
 ### 2nd Skill (or 1st): Inercia
- **Description:** <span style="color: #48b946;font-size:18px"><War Storm> </span><span style="color: #645252;font-size:18px"><War Storm> otorga un ataque combinado (activa <War Storm> 2 veces)</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;War Storm&gt; </span><span style="color: #645252;font-size:18px">&lt;War Storm&gt; otorga un ataque combinado (activa &lt;War Storm&gt; 2 veces)</span>
 
 ### 3rd Skill (or 4th): Destreza con armas
- **Description:** <span style="color: #48b946;font-size:18px"><Ejecución></span><span style="color: #645252;font-size:18px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el Goblin recibe un aumento adicional del 150% del ATQ.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ejecución&gt;</span><span style="color: #645252;font-size:18px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el Goblin recibe un aumento adicional del 150% del ATQ.</span>
 
 ### 4th Skill (or 3rd): Contraataque desarmado
- **Description:** <span style="color: #48b946;font-size:18px"><Ejecución></span><span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el Goblin recibe un aumento del 30% del daño de la unidad</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ejecución&gt;</span><span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el Goblin recibe un aumento del 30% del daño de la unidad</span>
 
 ### 5th Skill (or 6th): Especialidad de ansia de sangre
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">Aumenta la regeneración de PV al 5% al infligir un golpe crítico</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Aumenta la regeneración de PV al 5% al infligir un golpe crítico</span>
 
 ### 6th Skill (or 5th): Vapuleo sangriento
- **Description:** <span style="color: #48b946;font-size:18px"><Bloodlust></span><span style="color: #645252;font-size:18px">Cada golpe crítico aumentará la velocidad de ataque adicional un 2%, durante 10 s; se acumula hasta 10 veces</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Cada golpe crítico aumentará la velocidad de ataque adicional un 2%, durante 10 s; se acumula hasta 10 veces</span>
 
 ## Technical info
  **runart:** 1

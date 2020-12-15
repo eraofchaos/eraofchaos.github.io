@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /ru/units/Ice Demon/
 excerpt: "Отряды  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
 unitID: 908
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Ice Demon"
 toc: true
@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5996.3
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 282.85 | 12.75 | 4497.225 |
+  | Синий | 565.7 | 25.5 | 8994.45 |
+  | Blue +1 | 848.55 | 38.25 | 13491.675 |
+  | Синий +2 | 1187.97 | 53.55 | 18888.345 |
+  | Фиолетовый | 1527.39 | 68.85 | 24285.015 |
+  | Фиолетовый +1 | 1866.81 | 84.15 | 29681.685 |
+  | Фиолетовый +2 | 2262.8 | 102.0 | 35977.8 |
+  | Фиолетовый +3 | 2658.79 | 119.85 | 42273.915 |
+  | Оранжевый | 3054.78 | 137.7 | 48570.03 |
+  | Оранжевый +1 | 3507.34 | 158.1 | 55765.59 |
+  | Оранжевый +2 | 3959.9 | 178.5 | 62961.15 |
+  | Orange +3 | 4412.46 | 198.9 | 70156.71 |
+  | Оранжевый +4 | 4865.02 | 219.3 | 77352.27 |
+  | Orange +5 | 5543.86 | 249.9 | 88145.61 |
+  | Red | 6448.98 | 290.7 | 102536.73 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.5 | 6.61 | 839.482 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.52 | 7.37 | 959.408 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.54 | 8.12 | 1079.334 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.56 | 8.88 | 1199.26 |
 
 ## Skills
 ### 1 Skill:  Glacial Spur
@@ -62,13 +86,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Скорость атаки
+* unit Damage
 
-    - ОЗ
-
-    - Скорость атаки
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -90,7 +112,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
  **Description:** 
@@ -105,7 +127,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 0

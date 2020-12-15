@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /fr/units/Assassin/
 excerpt: "Unités Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: fr
 ref: "Assassin"
 toc: true
@@ -25,25 +25,49 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Inflige des dégâts d'assassinat, affaiblit les soins, lance des couteaux et réduit les ennemis au silence.
+
+## Basic stats
  **Base HP:** 2119.0
 
  **Base ATK:** 269.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Vert | 134.5 | 7.5 | 1589.25 |
+  | Bleu | 269.0 | 15.0 | 3178.5 |
+  | Bleu +1 | 403.5 | 22.5 | 4767.75 |
+  | Bleu +2 | 564.9 | 31.5 | 6674.85 |
+  | Violet | 726.3 | 40.5 | 8581.95 |
+  | Violet +1 | 887.7 | 49.5 | 10489.05 |
+  | Violet +2 | 1076.0 | 60.0 | 12714.0 |
+  | Violet +3 | 1264.3 | 70.5 | 14938.95 |
+  | Orange | 1452.6 | 81.0 | 17163.9 |
+  | Orange +1 | 1667.8 | 93.0 | 19706.7 |
+  | Orange +2 | 1883.0 | 105.0 | 22249.5 |
+  | Orange +3 | 2098.2 | 117.0 | 24792.3 |
+  | Orange +4 | 2313.4 | 129.0 | 27335.1 |
+  | Orange +5 | 2636.2 | 147.0 | 31149.3 |
+  | Rouge | 3066.6 | 171.0 | 36234.9 |
 
- **Info1:** Inflige des dégâts d'assassinat, affaiblit les soins, lance des couteaux et réduit les ennemis au silence.
-
- **Info2:** Inflige des dégâts d'assassinat, affaiblit les soins, lance des couteaux et réduit les ennemis au silence.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 37.66 | 0.33 | 4.3 | 296.66 |
+  | **4x** <i class="fas fa-star"/> | 43.04 | 0.35 | 4.95 | 339.04 |
+  | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
+  | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
 ### 1 Skill: Assassinat
  **Description:** <span style="color: #645252;font-size:20px">Les Assassins entrent en mode </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px"> au début de la bataille, et perdent cet avantage à l'engagement. Lorsqu'un Assassin perd les effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px">, il lance Brise-furtivité, une attaque qui inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son attaque et réduit les soins reçus de 30 %. Cet effet peut être activé une fois toutes les 10 secondes.</span><span style="color: black">
 
 ### 2 Skill: Instinct d'Assassin
- **Description:** <span style="color: #645252;font-size:20px">L'Assassin augmente </span><span style="color: black"><span style="color: #645252;font-size:20px">les dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ce bonus est doublé sous l'effet d'</span><span style="color: black"><span style="color: #48b946;font-size:20px"><Œil de faucon>.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Attaquer les ennemis souffrant de</span><span style="color: black"><span style="color: #48b946;font-size:20px"> <Cécité> </span><span style="color: black"><span style="color: #645252;font-size:20px">augmente la pénétration de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50} .</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Assassin augmente </span><span style="color: black"><span style="color: #645252;font-size:20px">les dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ce bonus est doublé sous l'effet d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Œil de faucon&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Attaquer les ennemis souffrant de</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cécité&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">augmente la pénétration de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50} .</span><span style="color: black">
 
 ### 3 Skill: Bombe fumante
- **Description:** <span style="color: #645252;font-size:20px">L'Assassin lance une bombe fumante par terre, augmentant sa DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Inflige également </span><span style="color: black"><span style="color: #48b946;font-size:20px"><Cécité></span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies dans une large zone et réduit leurs dégâts et leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. Le temps de recharge est de 18 secondes.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">L'Assassin lance une bombe fumante par terre, augmentant sa DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Inflige également </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Cécité&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies dans une large zone et réduit leurs dégâts et leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. Le temps de recharge est de 18 secondes.</span><span style="color: black">
 
 ### 4 Skill: Attaque en chaîne
  **Description:** <span style="color: #645252;font-size:20px">Les Assassins voient leurs dégâts augmenter de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet est triplé pendant 20 secondes lorsqu'un Assassin tue une unité cible. De plus, l'Assassin passe en mode </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 5 secondes.</span><span style="color: black">
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Attaque
+* Attaque
+* PV
+* dégâts d'unité
+* réduction des dégâts d'unité
 
-    - PV
-
-    - dégâts d'unité
-
-    - réduction des dégâts d'unité
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
 
 ### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px"><Nuée de lances> : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
 
 ### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
 
 ### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px"><Charisme> : </span><span style="color: #645252;font-size:18px">En cas d'<Exaltation> au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
 
 ### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige <Découragement> à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
 
 ### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px"><Chasse au dragon> : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
 
 ## Technical info
  **runart:** 1

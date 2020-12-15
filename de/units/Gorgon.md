@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /de/units/Gorgon/
 excerpt: "Einheiten Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: de
 ref: "Gorgone"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+
+ **Info:** Starker Tank. Kann mit gewisser Wahrscheinlichkeit Feinde auf einen Streich töten.
+
+## Basic stats
  **Base HP:** 3094.0
 
  **Base ATK:** 121.1
 
- **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 60.55 | 16.0 | 2320.5 |
+  | Blau | 121.1 | 32.0 | 4641.0 |
+  | Blau +1 | 181.65 | 48.0 | 6961.5 |
+  | Blau +2 | 254.31 | 67.2 | 9746.1 |
+  | Lila | 326.97 | 86.4 | 12530.7 |
+  | Lila +1 | 399.63 | 105.6 | 15315.3 |
+  | Lila +2 | 484.4 | 128.0 | 18564.0 |
+  | Lila +3 | 569.17 | 150.4 | 21812.7 |
+  | Orange | 653.94 | 172.8 | 25061.4 |
+  | Orange +1 | 750.82 | 198.4 | 28774.2 |
+  | Orange +2 | 847.7 | 224.0 | 32487.0 |
+  | Orange +3 | 944.58 | 249.6 | 36199.8 |
+  | Orange +4 | 1041.46 | 275.2 | 39912.6 |
+  | Orange +5 | 1186.78 | 313.6 | 45481.8 |
+  | Rot | 1380.54 | 364.8 | 52907.4 |
 
- **Info1:** Starker Tank. Kann mit gewisser Wahrscheinlichkeit Feinde auf einen Streich töten.
-
- **Info2:** Starker Tank. Kann mit gewisser Wahrscheinlichkeit Feinde auf einen Streich töten.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.954 | 0.33 | 8.04 | 433.16 |
+  | **4x** <i class="fas fa-star"/> | 19.376 | 0.35 | 8.86 | 495.04 |
+  | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 9.68 | 556.92 |
+  | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
 ## Skills
 ### 1 Skill: null
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Angriff
+* Angriff
+* LP
+* Abwehr
+* SCHD-Reduzierung (Einheit)
 
-    - LP
-
-    - Abwehr
-
-    - SCHD-Reduzierung (Einheit)
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +106,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Blick in den Abgrund
- **Description:** <span style="color: #48b946;font-size:18px"><Riesengorgone></span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. lang einen zufälligen Debuff, während die Durchdringung aller verbündeten Einheiten 200 steigt.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Riesengorgone&gt;</span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. lang einen zufälligen Debuff, während die Durchdringung aller verbündeten Einheiten 200 steigt.</span>
 
 ### 2nd Skill (or 1st): Todesblick
- **Description:** <span style="color: #48b946;font-size:18px"><Riesengorgone></span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. zwei zufällige Debuffs..</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Riesengorgone&gt;</span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. zwei zufällige Debuffs..</span>
 
 ### 3rd Skill (or 4th): Fluch des Alterns
- **Description:** <span style="color: #48b946;font-size:18px"><Unzivilisierter Fluch></span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten um 20 %. Beim Tod werden umstehende Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo gegnerischer Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Unzivilisierter Fluch&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten um 20 %. Beim Tod werden umstehende Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo gegnerischer Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
 
 ### 4th Skill (or 3rd): Tödliches Horn
- **Description:** <span style="color: #48b946;font-size:18px"><Unzivilisierter Fluch></span><span style="color: #645252;font-size:18px">Reduziert das Angriffstempo gegnerischer Einheiten um 20 %. Beim Tod werden alle umstehenden Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo aller gegnerischen Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Unzivilisierter Fluch&gt;</span><span style="color: #645252;font-size:18px">Reduziert das Angriffstempo gegnerischer Einheiten um 20 %. Beim Tod werden alle umstehenden Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo aller gegnerischen Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
 
 ### 5th Skill (or 6th): Moorkönig
- **Description:** <span style="color: #48b946;font-size:18px"><Sumpf-Overlord></span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Reduziert das Angriffstempo gegnerischer Einheiten – außer Festung – um 10 % und die Heilung um 30 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Reduziert das Angriffstempo gegnerischer Einheiten – außer Festung – um 10 % und die Heilung um 30 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
 
 ### 6th Skill (or 5th): Sumpf-Lord
- **Description:** <span style="color: #48b946;font-size:18px"><Sumpf-Overlord></span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Erhöht das Angriffstempo aller verbündeten Einheiten um 20 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Erhöht das Angriffstempo aller verbündeten Einheiten um 20 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
 
 ## Technical info
  **runart:** 1

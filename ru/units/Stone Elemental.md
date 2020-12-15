@@ -3,7 +3,7 @@ title: "Unknown_TEAM_905"
 permalink: /ru/units/Stone Elemental/
 excerpt: "Отряды Элементали Камня возникли из сплава различных руд, образованных геологическими процессами. Разделяются на меньших элементалей Камня, продолжающих сражаться."
 unitID: 905
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Unknown_TEAM_905"
 toc: true
@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Оглушает всех врагов в зоне действия, разделение в случае гибели, высокая стойкость.
+
+## Basic stats
  **Base HP:** 2825.0
 
  **Base ATK:** 121.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 60.5 | 12.5 | 2118.75 |
+  | Синий | 121.0 | 25.0 | 4237.5 |
+  | Blue +1 | 181.5 | 37.5 | 6356.25 |
+  | Синий +2 | 254.1 | 52.5 | 8898.75 |
+  | Фиолетовый | 326.7 | 67.5 | 11441.25 |
+  | Фиолетовый +1 | 399.3 | 82.5 | 13983.75 |
+  | Фиолетовый +2 | 484.0 | 100.0 | 16950.0 |
+  | Фиолетовый +3 | 568.7 | 117.5 | 19916.25 |
+  | Оранжевый | 653.4 | 135.0 | 22882.5 |
+  | Оранжевый +1 | 750.2 | 155.0 | 26272.5 |
+  | Оранжевый +2 | 847.0 | 175.0 | 29662.5 |
+  | Orange +3 | 943.8 | 195.0 | 33052.5 |
+  | Оранжевый +4 | 1040.6 | 215.0 | 36442.5 |
+  | Orange +5 | 1185.8 | 245.0 | 41527.5 |
+  | Red | 1379.4 | 285.0 | 48307.5 |
 
- **Info1:** Оглушает всех врагов в зоне действия, разделение в случае гибели, высокая стойкость.
-
- **Info2:** Оглушает всех врагов в зоне действия, разделение в случае гибели, высокая стойкость.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.94 | 0.35 | 6.5 | 395.5 |
+  | **4x** <i class="fas fa-star"/> | 19.36 | 0.37 | 7.25 | 452.0 |
+  | **5x** <i class="fas fa-star"/> | 21.78 | 0.38 | 8.0 | 508.5 |
+  | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
 ### 1 Skill: Разбитые камни
@@ -56,13 +80,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Защита
+* unit DMG Reduction
 
-    - ОЗ
-
-    - Защита
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -84,7 +106,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px"><Лес копий></span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
  **Description:** 
@@ -99,7 +121,7 @@ toc: true
  **Description:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px"><Убийство драконов></span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

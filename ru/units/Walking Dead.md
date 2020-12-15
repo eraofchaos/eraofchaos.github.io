@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /ru/units/Walking Dead/
 excerpt: "Отряды Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -25,22 +25,48 @@ toc: true
 
  **Unit description:** Взрывчатка: при гибели отряда наносит урон ближайшим вражеским отрядам.
 
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+
+ **Info:** Обладает высокой защитой, заражает врагов вокруг себя чумой.
+
+## Basic stats
  **Base HP:** 2758.0
 
  **Base ATK:** 117.7
 
- **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Зеленый | 58.85 | 11.25 | 2068.5 |
+  | Синий | 117.7 | 22.5 | 4137.0 |
+  | Blue +1 | 176.55 | 33.75 | 6205.5 |
+  | Синий +2 | 247.17 | 47.25 | 8687.7 |
+  | Фиолетовый | 317.79 | 60.75 | 11169.9 |
+  | Фиолетовый +1 | 388.41 | 74.25 | 13652.1 |
+  | Фиолетовый +2 | 470.8 | 90.0 | 16548.0 |
+  | Фиолетовый +3 | 553.19 | 105.75 | 19443.9 |
+  | Оранжевый | 635.58 | 121.5 | 22339.8 |
+  | Оранжевый +1 | 729.74 | 139.5 | 25649.4 |
+  | Оранжевый +2 | 823.9 | 157.5 | 28959.0 |
+  | Orange +3 | 918.06 | 175.5 | 32268.6 |
+  | Оранжевый +4 | 1012.22 | 193.5 | 35578.2 |
+  | Orange +5 | 1153.46 | 220.5 | 40542.6 |
+  | Red | 1341.78 | 256.5 | 47161.8 |
 
- **Info1:** Обладает высокой защитой, заражает врагов вокруг себя чумой.
-
- **Info2:** Обладает высокой защитой, заражает врагов вокруг себя чумой.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 11.77 | 0.29 | 4.5 | 275.8 |
+  | **2x** <i class="fas fa-star"/> | 14.124 | 0.3 | 5.23 | 330.96 |
+  | **3x** <i class="fas fa-star"/> | 16.478 | 0.32 | 5.95 | 386.12 |
+  | **4x** <i class="fas fa-star"/> | 18.832 | 0.33 | 6.68 | 441.28 |
+  | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
+  | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
 ### 1 Skill: Ядовитый газ
  **Description:** <span style="color: #645252;font-size:20px"> Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем окружающим вражеским отрядам в определенном радиусе каждые 2 сек. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### 2 Skill: Зараза
- **Description:** <span style="color: #645252;font-size:20px"><Ядовитый газ> ходячих мертвецов снижает АТК цели на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и постепенно </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> ее.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">&lt;Ядовитый газ&gt; ходячих мертвецов снижает АТК цели на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и постепенно </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> ее.</span><span style="color: black">
 
 ### 3 Skill: null
  **Description:** <span style="color: #645252;font-size:20px">Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам в широком радиусе в течение 8 сек. Их урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%. </span><span style="color: black">
@@ -56,13 +82,11 @@ toc: true
 
 ## Talent
 
-    - Атака
+* Атака
+* ОЗ
+* Защита
+* unit DMG Reduction
 
-    - ОЗ
-
-    - Защита
-
-    - ERROR!
 
 ## Awaking
 ### Awaking Details
@@ -87,13 +111,13 @@ toc: true
  **Description:** 
 
 ### 2nd Skill (or 1st): Заразная болезнь
- **Description:** <span style="color: #48b946;font-size:18px"><Ядовитый газ></span><span style="color: #645252;font-size:18px">: в начале боя эффект <Ядовитого газа> накладывается на все союзные отряды Некрополя ближнего боя. Эффект длится все время боя. Урон может суммироваться до 6 раз.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ядовитый газ&gt;</span><span style="color: #645252;font-size:18px">: в начале боя эффект &lt;Ядовитого газа&gt; накладывается на все союзные отряды Некрополя ближнего боя. Эффект длится все время боя. Урон может суммироваться до 6 раз.</span>
 
 ### 3rd Skill (or 4th): Осложнение
- **Description:** <span style="color: #48b946;font-size:18px"><Инфекция></span><span style="color: #645252;font-size:18px">: снижает бонусы к АТК и ЗЩТ на 30%</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Инфекция&gt;</span><span style="color: #645252;font-size:18px">: снижает бонусы к АТК и ЗЩТ на 30%</span>
 
 ### 4th Skill (or 3rd): Сверхзараза
- **Description:** <span style="color: #48b946;font-size:18px"><Инфекция></span><span style="color: #645252;font-size:18px">: снижает сопротивление урону отрядов еще на 10%.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Инфекция&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону отрядов еще на 10%.</span>
 
 ### 5th Skill (or 6th): Ужасный барьер
  **Description:** 

@@ -3,7 +3,7 @@ title: "Cíclope"
 permalink: /es/units/Cyclops/
 excerpt: "Unidades Los Cíclopes son famosos por su único ojo y su enorme cuerpo. Son irascibles y fieros. Su linaje se remonta a los Demonios."
 unitID: 406
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-15
 lang: es
 ref: "Cíclope"
 toc: true
@@ -25,25 +25,50 @@ toc: true
 
  **Unit description:** Piedra llameante: inflige un daño catastrófico a las tropas enemigas a su paso.
 
+ **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+
+ **Info:** Tiene un fuerte ataque de área, ideal para defender a las unidades más pequeñas.
+
+## Basic stats
  **Base HP:** 5091.0
 
  **Base ATK:** 678.8
 
- **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 339.4 | 6.25 | 3818.25 |
+  | Azul | 678.8 | 12.5 | 7636.5 |
+  | Azul +1 | 1018.2 | 18.75 | 11454.75 |
+  | Azul +2 | 1425.48 | 26.25 | 16036.65 |
+  | Violeta | 1832.76 | 33.75 | 20618.55 |
+  | Violeta +1 | 2240.04 | 41.25 | 25200.45 |
+  | Violeta +2 | 2715.2 | 50.0 | 30546.0 |
+  | Violeta +3 | 3190.36 | 58.75 | 35891.55 |
+  | Naranja | 3665.52 | 67.5 | 41237.1 |
+  | Naranja +1 | 4208.56 | 77.5 | 47346.3 |
+  | Naranja +2 | 4751.6 | 87.5 | 53455.5 |
+  | Naranja +3 | 5294.64 | 97.5 | 59564.7 |
+  | Naranja +4 | 5837.68 | 107.5 | 65673.9 |
+  | Naranja +5 | 6652.24 | 122.5 | 74837.7 |
+  | Rojo | 7738.32 | 142.5 | 87056.1 |
 
- **Info1:** Tiene un fuerte ataque de área, ideal para defender a las unidades más pequeñas.
-
- **Info2:** Tiene un fuerte ataque de área, ideal para defender a las unidades más pequeñas.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 81.456 | 0.53 | 3.13 | 610.92 |
+  | **3x** <i class="fas fa-star"/> | 95.032 | 0.55 | 3.75 | 712.74 |
+  | **4x** <i class="fas fa-star"/> | 108.608 | 0.58 | 4.38 | 814.56 |
+  | **5x** <i class="fas fa-star"/> | 122.184 | 0.6 | 5.0 | 916.38 |
+  | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
 ### 1 Skill: Piedra de la llama
- **Description:** <span style="color: #645252;font-size:20px">El Cíclope lanza rocas de fuego en una zona grande delante de él, lo que provoca </span><span style="color: black"><span style="color: #48b946;font-size:20px"><quemadura></span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles e inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada 2 s durante 8 s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">El Cíclope lanza rocas de fuego en una zona grande delante de él, lo que provoca </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles e inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada 2 s durante 8 s.</span><span style="color: black">
 
 ### 2 Skill: Golpe de asedio
  **Description:** <span style="color: #645252;font-size:20px">El Cíclope aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> el daño de la unidad y un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> la velocidad de ataque. El efecto se duplica para el Cíclope si sus PV se reducen por debajo del 35% (funciona aunque se recupere vida). Cuando el Cíclope se enfrenta a unidades de nueve, los ataques normales inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a tres unidades hostiles.</span><span style="color: black">
 
 ### 3 Skill: Sacudida de tierra
- **Description:** <span style="color: #645252;font-size:20px">El Cíclope tiene una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande y las puede </span><span style="color: black"><span style="color: #48b946;font-size:20px"><aturdir></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s cuando le ataquen.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">El Cíclope tiene una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande y las puede </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s cuando le ataquen.</span><span style="color: black">
 
 ### 4 Skill: Gigante
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Cíclope un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a unidades de nueve, se reduce el daño que recibe la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -56,13 +81,11 @@ toc: true
 
 ## Talent
 
-    - Ataque
+* Ataque
+* PV
+* Velocidad de ataque
+* Golpe crítico de la unidad
 
-    - PV
-
-    - Velocidad de ataque
-
-    - Golpe crítico de la unidad
 
 ## Awaking
 ### Awaking Details
@@ -84,22 +107,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px"><Formación de lanzas></span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px"><Liderazgo></span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px"><Dragon Slaying></span><span style="color: #645252;font-size:18px">Aplica <deterrence> al objetivo al enfrentarse a unidades de 1 o 4 miembros. <Deterrence>: Reduce el golpe crítico del objetivo en 300</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px"><Matanza de Dragones></span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 0
