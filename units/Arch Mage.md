@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Spell penetration: Damage to single units gets higher and higher
 
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info:** Crowd control your enemies' back row troops, enhance your heroes' spells, and reduce opponent heroes' MP restore.
+
+## Basic stats
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
 
- **Recommend:** Deals extra damage to any slowed enemies.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 58.0 | 4.25 | 496.5 |
+  | Blue | 116.0 | 8.5 | 993.0 |
+  | Blue +1 | 174.0 | 12.75 | 1489.5 |
+  | Blue +2 | 243.6 | 17.85 | 2085.3 |
+  | Purple | 313.2 | 22.95 | 2681.1 |
+  | Purple +1 | 382.8 | 28.05 | 3276.9 |
+  | Purple +2 | 464.0 | 34.0 | 3972.0 |
+  | Purple +3 | 545.2 | 39.95 | 4667.1 |
+  | Orange | 626.4 | 45.9 | 5362.2 |
+  | Orange +1 | 719.2 | 52.7 | 6156.6 |
+  | Orange +2 | 812.0 | 59.5 | 6951.0 |
+  | Orange +3 | 904.8 | 66.3 | 7745.4 |
+  | Orange +4 | 997.6 | 73.1 | 8539.8 |
+  | Orange +5 | 1136.8 | 83.3 | 9731.4 |
+  | Red | 1322.4 | 96.9 | 11320.2 |
 
- **Info1:** Crowd control your enemies' back row troops, enhance your heroes' spells, and reduce opponent heroes' MP restore.
-
- **Info2:** Crowd control your enemies' back row troops, enhance your heroes' spells, and reduce opponent heroes' MP restore.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 13.92 | 0.42 | 2.29 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 16.24 | 0.44 | 2.87 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 18.56 | 0.46 | 3.46 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 20.88 | 0.48 | 4.04 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
 ## Skills
 ### 1 Skill: Spell Penetration

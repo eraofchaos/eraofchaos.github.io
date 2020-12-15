@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Crit Hit and penetration. Battle reaper
+
+## Basic stats
  **Base HP:** 1245.0
 
  **Base ATK:** 235.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 117.75 | 5.0 | 933.75 |
+  | Blue | 235.5 | 10.0 | 1867.5 |
+  | Blue +1 | 353.25 | 15.0 | 2801.25 |
+  | Blue +2 | 494.55 | 21.0 | 3921.75 |
+  | Purple | 635.85 | 27.0 | 5042.25 |
+  | Purple +1 | 777.15 | 33.0 | 6162.75 |
+  | Purple +2 | 942.0 | 40.0 | 7470.0 |
+  | Purple +3 | 1106.85 | 47.0 | 8777.25 |
+  | Orange | 1271.7 | 54.0 | 10084.5 |
+  | Orange +1 | 1460.1 | 62.0 | 11578.5 |
+  | Orange +2 | 1648.5 | 70.0 | 13072.5 |
+  | Orange +3 | 1836.9 | 78.0 | 14566.5 |
+  | Orange +4 | 2025.3 | 86.0 | 16060.5 |
+  | Orange +5 | 2307.9 | 98.0 | 18301.5 |
+  | Red | 2684.7 | 114.0 | 21289.5 |
 
- **Info1:** Crit Hit and penetration. Battle reaper
-
- **Info2:** Crit Hit and penetration. Battle reaper
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 32.97 | 0.61 | 3.2 | 174.3 |
+  | **4x** <i class="fas fa-star"/> | 37.68 | 0.63 | 3.8 | 199.2 |
+  | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
+  | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
 ### 1 Skill: Deadly Arrow

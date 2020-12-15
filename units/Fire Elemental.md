@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Provides Burns, Blows up the whole field, Enhances when killing enemies
+
+## Basic stats
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 97.5 | 4.5 | 1261.5 |
+  | Blue | 195.0 | 9.0 | 2523.0 |
+  | Blue +1 | 292.5 | 13.5 | 3784.5 |
+  | Blue +2 | 409.5 | 18.9 | 5298.3 |
+  | Purple | 526.5 | 24.3 | 6812.1 |
+  | Purple +1 | 643.5 | 29.7 | 8325.9 |
+  | Purple +2 | 780.0 | 36.0 | 10092.0 |
+  | Purple +3 | 916.5 | 42.3 | 11858.1 |
+  | Orange | 1053.0 | 48.6 | 13624.2 |
+  | Orange +1 | 1209.0 | 55.8 | 15642.6 |
+  | Orange +2 | 1365.0 | 63.0 | 17661.0 |
+  | Orange +3 | 1521.0 | 70.2 | 19679.4 |
+  | Orange +4 | 1677.0 | 77.4 | 21697.8 |
+  | Orange +5 | 1911.0 | 88.2 | 24725.4 |
+  | Red | 2223.0 | 102.6 | 28762.2 |
 
- **Info1:** Provides Burns, Blows up the whole field, Enhances when killing enemies
-
- **Info2:** Provides Burns, Blows up the whole field, Enhances when killing enemies
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.4 | 0.53 | 2.39 | 201.84 |
+  | **3x** <i class="fas fa-star"/> | 27.3 | 0.55 | 2.98 | 235.48 |
+  | **4x** <i class="fas fa-star"/> | 31.2 | 0.58 | 3.57 | 269.12 |
+  | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
+  | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
 ### 1 Skill: Heavenly Fire

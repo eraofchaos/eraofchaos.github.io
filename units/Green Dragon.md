@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
+ **Recommend:** Water magic can deal extra damage to your enemies with its bleeding effect.
+
+ **Info:** Attacks back row troops, dealing a wide area of water magical damage.
+
+## Basic stats
  **Base HP:** 4525.0
 
  **Base ATK:** 1018.2
 
- **Recommend:** Water magic can deal extra damage to your enemies with its bleeding effect.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 509.1 | 4.5 | 3393.75 |
+  | Blue | 1018.2 | 9.0 | 6787.5 |
+  | Blue +1 | 1527.3 | 13.5 | 10181.25 |
+  | Blue +2 | 2138.22 | 18.9 | 14253.75 |
+  | Purple | 2749.14 | 24.3 | 18326.25 |
+  | Purple +1 | 3360.06 | 29.7 | 22398.75 |
+  | Purple +2 | 4072.8 | 36.0 | 27150.0 |
+  | Purple +3 | 4785.54 | 42.3 | 31901.25 |
+  | Orange | 5498.28 | 48.6 | 36652.5 |
+  | Orange +1 | 6312.84 | 55.8 | 42082.5 |
+  | Orange +2 | 7127.4 | 63.0 | 47512.5 |
+  | Orange +3 | 7941.96 | 70.2 | 52942.5 |
+  | Orange +4 | 8756.52 | 77.4 | 58372.5 |
+  | Orange +5 | 9978.36 | 88.2 | 66517.5 |
+  | Red | 11607.48 | 102.6 | 77377.5 |
 
- **Info1:** Attacks back row troops, dealing a wide area of water magical damage.
-
- **Info2:** Attacks back row troops, dealing a wide area of water magical damage.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 142.548 | 0.44 | 2.98 | 633.5 |
+  | **4x** <i class="fas fa-star"/> | 162.912 | 0.46 | 3.57 | 724.0 |
+  | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
+  | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
 ## Skills
 ### 1 Skill: Flood of Poison

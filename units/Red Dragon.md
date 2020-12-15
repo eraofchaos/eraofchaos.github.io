@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 769.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 384.65 | 8.0 | 4073.25 |
+  | Blue | 769.3 | 16.0 | 8146.5 |
+  | Blue +1 | 1153.95 | 24.0 | 12219.75 |
+  | Blue +2 | 1615.53 | 33.6 | 17107.65 |
+  | Purple | 2077.11 | 43.2 | 21995.55 |
+  | Purple +1 | 2538.69 | 52.8 | 26883.45 |
+  | Purple +2 | 3077.2 | 64.0 | 32586.0 |
+  | Purple +3 | 3615.71 | 75.2 | 38288.55 |
+  | Orange | 4154.22 | 86.4 | 43991.1 |
+  | Orange +1 | 4769.66 | 99.2 | 50508.3 |
+  | Orange +2 | 5385.1 | 112.0 | 57025.5 |
+  | Orange +3 | 6000.54 | 124.8 | 63542.7 |
+  | Orange +4 | 6615.98 | 137.6 | 70059.9 |
+  | Orange +5 | 7539.14 | 156.8 | 79835.7 |
+  | Red | 8770.02 | 182.4 | 92870.1 |
 
- **Info1:** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
-
- **Info2:** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 107.702 | 0.53 | 4.52 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 5.18 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.84 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Roaring Blaze

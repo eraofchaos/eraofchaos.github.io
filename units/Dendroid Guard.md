@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info:** Immune to bleeding, reflects damage and uses shield to improve its defense.
+
+## Basic stats
  **Base HP:** 10182.0
 
  **Base ATK:** 396.0
 
- **Recommend:** Deals extra damage to any slowed enemies.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 198.0 | 13.25 | 7636.5 |
+  | Blue | 396.0 | 26.5 | 15273.0 |
+  | Blue +1 | 594.0 | 39.75 | 22909.5 |
+  | Blue +2 | 831.6 | 55.65 | 32073.3 |
+  | Purple | 1069.2 | 71.55 | 41237.1 |
+  | Purple +1 | 1306.8 | 87.45 | 50400.9 |
+  | Purple +2 | 1584.0 | 106.0 | 61092.0 |
+  | Purple +3 | 1861.2 | 124.55 | 71783.1 |
+  | Orange | 2138.4 | 143.1 | 82474.2 |
+  | Orange +1 | 2455.2 | 164.3 | 94692.6 |
+  | Orange +2 | 2772.0 | 185.5 | 106911.0 |
+  | Orange +3 | 3088.8 | 206.7 | 119129.4 |
+  | Orange +4 | 3405.6 | 227.9 | 131347.8 |
+  | Orange +5 | 3880.8 | 259.7 | 149675.4 |
+  | Red | 4514.4 | 302.1 | 174112.2 |
 
- **Info1:** Immune to bleeding, reflects damage and uses shield to improve its defense.
-
- **Info2:** Immune to bleeding, reflects damage and uses shield to improve its defense.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 47.52 | 0.32 | 6.07 | 1221.84 |
+  | **3x** <i class="fas fa-star"/> | 55.44 | 0.33 | 6.83 | 1425.48 |
+  | **4x** <i class="fas fa-star"/> | 63.36 | 0.35 | 7.6 | 1629.12 |
+  | **5x** <i class="fas fa-star"/> | 71.28 | 0.36 | 8.36 | 1832.76 |
+  | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
 ### 1 Skill: Bind

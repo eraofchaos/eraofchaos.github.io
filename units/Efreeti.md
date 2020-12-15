@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** FireBall: Deals colossal damage to your enemies, causes burning.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Deals magical damage and has fire shield. The core of damage reflection.
+
+## Basic stats
  **Base HP:** 1446.0
 
  **Base ATK:** 225.4
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 112.7 | 3.25 | 1084.5 |
+  | Blue | 225.4 | 6.5 | 2169.0 |
+  | Blue +1 | 338.1 | 9.75 | 3253.5 |
+  | Blue +2 | 473.34 | 13.65 | 4554.9 |
+  | Purple | 608.58 | 17.55 | 5856.3 |
+  | Purple +1 | 743.82 | 21.45 | 7157.7 |
+  | Purple +2 | 901.6 | 26.0 | 8676.0 |
+  | Purple +3 | 1059.38 | 30.55 | 10194.3 |
+  | Orange | 1217.16 | 35.1 | 11712.6 |
+  | Orange +1 | 1397.48 | 40.3 | 13447.8 |
+  | Orange +2 | 1577.8 | 45.5 | 15183.0 |
+  | Orange +3 | 1758.12 | 50.7 | 16918.2 |
+  | Orange +4 | 1938.44 | 55.9 | 18653.4 |
+  | Orange +5 | 2208.92 | 63.7 | 21256.2 |
+  | Red | 2569.56 | 74.1 | 24726.6 |
 
- **Info1:** Deals magical damage and has fire shield. The core of damage reflection.
-
- **Info2:** Deals magical damage and has fire shield. The core of damage reflection.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 27.048 | 0.48 | 1.87 | 173.52 |
+  | **3x** <i class="fas fa-star"/> | 31.556 | 0.51 | 2.43 | 202.44 |
+  | **4x** <i class="fas fa-star"/> | 36.064 | 0.53 | 3.0 | 231.36 |
+  | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
+  | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
 ## Skills
 ### 1 Skill: Firestorm

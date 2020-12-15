@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Magic Ironball: Greatly increases ATK and ATK speed
 
+ **Recommend:** Warrior, Mage and Priest work well together. 
+
+ **Info:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
+
+## Basic stats
  **Base HP:** 645.0
 
  **Base ATK:** 84.4
 
- **Recommend:** Warrior, Mage and Priest work well together. 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 40.5 | 7.5 | 350.7 |
+  | Blue | 81.0 | 15.0 | 701.4 |
+  | Blue +1 | 121.5 | 22.5 | 1052.1 |
+  | Blue +2 | 170.1 | 31.5 | 1472.94 |
+  | Purple | 218.7 | 40.5 | 1893.78 |
+  | Purple +1 | 267.3 | 49.5 | 2314.62 |
+  | Purple +2 | 324.0 | 60.0 | 2805.6 |
+  | Purple +3 | 380.7 | 70.5 | 3296.58 |
+  | Orange | 437.4 | 81.0 | 3787.56 |
+  | Orange +1 | 502.2 | 93.0 | 4348.68 |
+  | Orange +2 | 567.0 | 105.0 | 4909.8 |
+  | Orange +3 | 631.8 | 117.0 | 5470.92 |
+  | Orange +4 | 696.6 | 129.0 | 6032.04 |
+  | Orange +5 | 793.8 | 147.0 | 6873.72 |
+  | Red | 923.4 | 171.0 | 7995.96 |
 
- **Info1:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
-
- **Info2:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.1 | 0.54 | 3.0 | 46.76 |
+  | **2x** <i class="fas fa-star"/> | 9.72 | 0.57 | 3.65 | 56.112 |
+  | **3x** <i class="fas fa-star"/> | 11.34 | 0.59 | 4.3 | 65.464 |
+  | **4x** <i class="fas fa-star"/> | 12.96 | 0.62 | 4.95 | 74.816 |
+  | **5x** <i class="fas fa-star"/> | 14.58 | 0.65 | 5.6 | 84.168 |
+  | **6x** <i class="fas fa-star"/> | 16.2 | 0.68 | 6.25 | 93.52 |
 
 ## Skills
 ### 1 Skill: Magic Ironball

@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Explosive Arrow: Deals sizeable damage to enemy units.
 
+ **Recommend:** Warrior, Mage and Priest work well together. 
+
+ **Info:** Deal colossal burst damage and a double strike. Most effective against large units.
+
+## Basic stats
  **Base HP:** 438.4
 
  **Base ATK:** 85.3
 
- **Recommend:** Warrior, Mage and Priest work well together. 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 42.65 | 7.5 | 328.8 |
+  | Blue | 85.3 | 15.0 | 657.6 |
+  | Blue +1 | 127.95 | 22.5 | 986.4 |
+  | Blue +2 | 179.13 | 31.5 | 1380.96 |
+  | Purple | 230.31 | 40.5 | 1775.52 |
+  | Purple +1 | 281.49 | 49.5 | 2170.08 |
+  | Purple +2 | 341.2 | 60.0 | 2630.4 |
+  | Purple +3 | 400.91 | 70.5 | 3090.72 |
+  | Orange | 460.62 | 81.0 | 3551.04 |
+  | Orange +1 | 528.86 | 93.0 | 4077.12 |
+  | Orange +2 | 597.1 | 105.0 | 4603.2 |
+  | Orange +3 | 665.34 | 117.0 | 5129.28 |
+  | Orange +4 | 733.58 | 129.0 | 5655.36 |
+  | Orange +5 | 835.94 | 147.0 | 6444.48 |
+  | Red | 972.42 | 171.0 | 7496.64 |
 
- **Info1:** Deal colossal burst damage and a double strike. Most effective against large units.
-
- **Info2:** Deal colossal burst damage and a double strike. Most effective against large units.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.53 | 0.55 | 3.0 | 43.84 |
+  | **2x** <i class="fas fa-star"/> | 10.236 | 0.58 | 3.65 | 52.608 |
+  | **3x** <i class="fas fa-star"/> | 11.942 | 0.61 | 4.3 | 61.376 |
+  | **4x** <i class="fas fa-star"/> | 13.648 | 0.63 | 4.95 | 70.144 |
+  | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
+  | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
 ## Skills
 ### 1 Skill: Exploding arrow

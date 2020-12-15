@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
+
+## Basic stats
  **Base HP:** 5430.0
 
  **Base ATK:** 792.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 396.0 | 7.5 | 4072.5 |
+  | Blue | 792.0 | 15.0 | 8145.0 |
+  | Blue +1 | 1188.0 | 22.5 | 12217.5 |
+  | Blue +2 | 1663.2 | 31.5 | 17104.5 |
+  | Purple | 2138.4 | 40.5 | 21991.5 |
+  | Purple +1 | 2613.6 | 49.5 | 26878.5 |
+  | Purple +2 | 3168.0 | 60.0 | 32580.0 |
+  | Purple +3 | 3722.4 | 70.5 | 38281.5 |
+  | Orange | 4276.8 | 81.0 | 43983.0 |
+  | Orange +1 | 4910.4 | 93.0 | 50499.0 |
+  | Orange +2 | 5544.0 | 105.0 | 57015.0 |
+  | Orange +3 | 6177.6 | 117.0 | 63531.0 |
+  | Orange +4 | 6811.2 | 129.0 | 70047.0 |
+  | Orange +5 | 7761.6 | 147.0 | 79821.0 |
+  | Red | 9028.8 | 171.0 | 92853.0 |
 
- **Info1:** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
-
- **Info2:** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.55 | 4.3 | 760.2 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.58 | 4.95 | 868.8 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.6 | 5.6 | 977.4 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.63 | 6.25 | 1086.0 |
 
 ## Skills
 ### 1 Skill: Bloodthirsty Shark

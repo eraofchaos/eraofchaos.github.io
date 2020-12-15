@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Mind Control: Immobilizes enemies and makes them lose HP over time
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Incredible opener. Weakens enemies at the beginning for an easier victory
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 57.9 | 3.75 | 558.0 |
+  | Blue | 115.8 | 7.5 | 1116.0 |
+  | Blue +1 | 173.7 | 11.25 | 1674.0 |
+  | Blue +2 | 243.18 | 15.75 | 2343.6 |
+  | Purple | 312.66 | 20.25 | 3013.2 |
+  | Purple +1 | 382.14 | 24.75 | 3682.8 |
+  | Purple +2 | 463.2 | 30.0 | 4464.0 |
+  | Purple +3 | 544.26 | 35.25 | 5245.2 |
+  | Orange | 625.32 | 40.5 | 6026.4 |
+  | Orange +1 | 717.96 | 46.5 | 6919.2 |
+  | Orange +2 | 810.6 | 52.5 | 7812.0 |
+  | Orange +3 | 903.24 | 58.5 | 8704.8 |
+  | Orange +4 | 995.88 | 64.5 | 9597.6 |
+  | Orange +5 | 1134.84 | 73.5 | 10936.8 |
+  | Red | 1320.12 | 85.5 | 12722.4 |
 
- **Info1:** Incredible opener. Weakens enemies at the beginning for an easier victory
-
- **Info2:** Incredible opener. Weakens enemies at the beginning for an easier victory
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.212 | 0.45 | 2.65 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 18.528 | 0.47 | 3.23 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
 ### 1 Skill: Mind Control

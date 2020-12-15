@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Caster Units are proficient at crowd control and at weakening enemy DPS
+
+## Basic stats
  **Base HP:** 1615.0
 
  **Base ATK:** 178.3
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 89.15 | 4.0 | 1211.25 |
+  | Blue | 178.3 | 8.0 | 2422.5 |
+  | Blue +1 | 267.45 | 12.0 | 3633.75 |
+  | Blue +2 | 374.43 | 16.8 | 5087.25 |
+  | Purple | 481.41 | 21.6 | 6540.75 |
+  | Purple +1 | 588.39 | 26.4 | 7994.25 |
+  | Purple +2 | 713.2 | 32.0 | 9690.0 |
+  | Purple +3 | 838.01 | 37.6 | 11385.75 |
+  | Orange | 962.82 | 43.2 | 13081.5 |
+  | Orange +1 | 1105.46 | 49.6 | 15019.5 |
+  | Orange +2 | 1248.1 | 56.0 | 16957.5 |
+  | Orange +3 | 1390.74 | 62.4 | 18895.5 |
+  | Orange +4 | 1533.38 | 68.8 | 20833.5 |
+  | Orange +5 | 1747.34 | 78.4 | 23740.5 |
+  | Red | 2032.62 | 91.2 | 27616.5 |
 
- **Info1:** Caster Units are proficient at crowd control and at weakening enemy DPS
-
- **Info2:** Caster Units are proficient at crowd control and at weakening enemy DPS
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 21.396 | 0.53 | 2.18 | 193.8 |
+  | **3x** <i class="fas fa-star"/> | 24.962 | 0.55 | 2.76 | 226.1 |
+  | **4x** <i class="fas fa-star"/> | 28.528 | 0.58 | 3.34 | 258.4 |
+  | **5x** <i class="fas fa-star"/> | 32.094 | 0.6 | 3.92 | 290.7 |
+  | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
 ## Skills
 ### 1 Skill: Marsh Plague

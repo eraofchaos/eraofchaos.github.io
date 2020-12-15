@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 396.0 | 4.75 | 4073.25 |
+  | Blue | 792.0 | 9.5 | 8146.5 |
+  | Blue +1 | 1188.0 | 14.25 | 12219.75 |
+  | Blue +2 | 1663.2 | 19.95 | 17107.65 |
+  | Purple | 2138.4 | 25.65 | 21995.55 |
+  | Purple +1 | 2613.6 | 31.35 | 26883.45 |
+  | Purple +2 | 3168.0 | 38.0 | 32586.0 |
+  | Purple +3 | 3722.4 | 44.65 | 38288.55 |
+  | Orange | 4276.8 | 51.3 | 43991.1 |
+  | Orange +1 | 4910.4 | 58.9 | 50508.3 |
+  | Orange +2 | 5544.0 | 66.5 | 57025.5 |
+  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Orange +4 | 6811.2 | 81.7 | 70059.9 |
+  | Orange +5 | 7761.6 | 93.1 | 79835.7 |
+  | Red | 9028.8 | 108.3 | 92870.1 |
 
- **Info1:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
-
- **Info2:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.57 | 3.09 | 760.34 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
 ### 1 Skill: Painful Reaper

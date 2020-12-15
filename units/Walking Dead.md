@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Has high defense, spreads plague to the enemies around it.
+
+## Basic stats
  **Base HP:** 2758.0
 
  **Base ATK:** 117.7
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 58.85 | 11.25 | 2068.5 |
+  | Blue | 117.7 | 22.5 | 4137.0 |
+  | Blue +1 | 176.55 | 33.75 | 6205.5 |
+  | Blue +2 | 247.17 | 47.25 | 8687.7 |
+  | Purple | 317.79 | 60.75 | 11169.9 |
+  | Purple +1 | 388.41 | 74.25 | 13652.1 |
+  | Purple +2 | 470.8 | 90.0 | 16548.0 |
+  | Purple +3 | 553.19 | 105.75 | 19443.9 |
+  | Orange | 635.58 | 121.5 | 22339.8 |
+  | Orange +1 | 729.74 | 139.5 | 25649.4 |
+  | Orange +2 | 823.9 | 157.5 | 28959.0 |
+  | Orange +3 | 918.06 | 175.5 | 32268.6 |
+  | Orange +4 | 1012.22 | 193.5 | 35578.2 |
+  | Orange +5 | 1153.46 | 220.5 | 40542.6 |
+  | Red | 1341.78 | 256.5 | 47161.8 |
 
- **Info1:** Has high defense, spreads plague to the enemies around it.
-
- **Info2:** Has high defense, spreads plague to the enemies around it.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 11.77 | 0.29 | 4.5 | 275.8 |
+  | **2x** <i class="fas fa-star"/> | 14.124 | 0.3 | 5.23 | 330.96 |
+  | **3x** <i class="fas fa-star"/> | 16.478 | 0.32 | 5.95 | 386.12 |
+  | **4x** <i class="fas fa-star"/> | 18.832 | 0.33 | 6.68 | 441.28 |
+  | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
+  | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
 ### 1 Skill: Poison Gas

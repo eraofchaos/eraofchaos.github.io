@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Assault support. Increases allies' DPS and weakens hostile defense
+
+## Basic stats
  **Base HP:** 1917.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 87.45 | 5.75 | 1437.75 |
+  | Blue | 174.9 | 11.5 | 2875.5 |
+  | Blue +1 | 262.35 | 17.25 | 4313.25 |
+  | Blue +2 | 367.29 | 24.15 | 6038.55 |
+  | Purple | 472.23 | 31.05 | 7763.85 |
+  | Purple +1 | 577.17 | 37.95 | 9489.15 |
+  | Purple +2 | 699.6 | 46.0 | 11502.0 |
+  | Purple +3 | 822.03 | 54.05 | 13514.85 |
+  | Orange | 944.46 | 62.1 | 15527.7 |
+  | Orange +1 | 1084.38 | 71.3 | 17828.1 |
+  | Orange +2 | 1224.3 | 80.5 | 20128.5 |
+  | Orange +3 | 1364.22 | 89.7 | 22428.9 |
+  | Orange +4 | 1504.14 | 98.9 | 24729.3 |
+  | Orange +5 | 1714.02 | 112.7 | 28179.9 |
+  | Red | 1993.86 | 131.1 | 32780.7 |
 
- **Info1:** Assault support. Increases allies' DPS and weakens hostile defense
-
- **Info2:** Assault support. Increases allies' DPS and weakens hostile defense
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.51 | 3.53 | 268.38 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.53 | 4.15 | 306.72 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.55 | 4.76 | 345.06 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
 ### 1 Skill: Paralyzing Venom

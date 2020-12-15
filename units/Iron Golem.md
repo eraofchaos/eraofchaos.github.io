@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
 
+ **Recommend:** Increasing your movement speed makes your armies much more effective.
+
+ **Info:** Immune to heroes' spells. The heroes' spells trigger its health restore.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** Increasing your movement speed makes your armies much more effective.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 67.5 | 12.5 | 1917.0 |
+  | Blue | 135.0 | 25.0 | 3834.0 |
+  | Blue +1 | 202.5 | 37.5 | 5751.0 |
+  | Blue +2 | 283.5 | 52.5 | 8051.4 |
+  | Purple | 364.5 | 67.5 | 10351.8 |
+  | Purple +1 | 445.5 | 82.5 | 12652.2 |
+  | Purple +2 | 540.0 | 100.0 | 15336.0 |
+  | Purple +3 | 634.5 | 117.5 | 18019.8 |
+  | Orange | 729.0 | 135.0 | 20703.6 |
+  | Orange +1 | 837.0 | 155.0 | 23770.8 |
+  | Orange +2 | 945.0 | 175.0 | 26838.0 |
+  | Orange +3 | 1053.0 | 195.0 | 29905.2 |
+  | Orange +4 | 1161.0 | 215.0 | 32972.4 |
+  | Orange +5 | 1323.0 | 245.0 | 37573.2 |
+  | Red | 1539.0 | 285.0 | 43707.6 |
 
- **Info1:** Immune to heroes' spells. The heroes' spells trigger its health restore.
-
- **Info2:** Immune to heroes' spells. The heroes' spells trigger its health restore.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 16.2 | 0.3 | 5.75 | 306.72 |
+  | **3x** <i class="fas fa-star"/> | 18.9 | 0.32 | 6.5 | 357.84 |
+  | **4x** <i class="fas fa-star"/> | 21.6 | 0.33 | 7.25 | 408.96 |
+  | **5x** <i class="fas fa-star"/> | 24.3 | 0.35 | 8.0 | 460.08 |
+  | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
 ## Skills
 ### 1 Skill: Metal Resonance

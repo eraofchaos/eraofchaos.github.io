@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Execution: Deals extra damage to enemies with health lower than 30%.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Causes bleeding when attacking. Deals high damage. The lower its health, the higher its attack is.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 82.7
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 41.35 | 5.0 | 496.5 |
+  | Blue | 82.7 | 10.0 | 993.0 |
+  | Blue +1 | 124.05 | 15.0 | 1489.5 |
+  | Blue +2 | 173.67 | 21.0 | 2085.3 |
+  | Purple | 223.29 | 27.0 | 2681.1 |
+  | Purple +1 | 272.91 | 33.0 | 3276.9 |
+  | Purple +2 | 330.8 | 40.0 | 3972.0 |
+  | Purple +3 | 388.69 | 47.0 | 4667.1 |
+  | Orange | 446.58 | 54.0 | 5362.2 |
+  | Orange +1 | 512.74 | 62.0 | 6156.6 |
+  | Orange +2 | 578.9 | 70.0 | 6951.0 |
+  | Orange +3 | 645.06 | 78.0 | 7745.4 |
+  | Orange +4 | 711.22 | 86.0 | 8539.8 |
+  | Orange +5 | 810.46 | 98.0 | 9731.4 |
+  | Red | 942.78 | 114.0 | 11320.2 |
 
- **Info1:** Causes bleeding when attacking. Deals high damage. The lower its health, the higher its attack is.
-
- **Info2:** Causes bleeding when attacking. Deals high damage. The lower its health, the higher its attack is.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 9.924 | 0.64 | 2.6 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 11.578 | 0.67 | 3.2 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 13.232 | 0.7 | 3.8 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 14.886 | 0.73 | 4.4 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
 ## Skills
 ### 1 Skill: Expert Execution

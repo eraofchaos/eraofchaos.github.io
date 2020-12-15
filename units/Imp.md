@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Impulse: Unit has a chance to revive with full health after death.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
+
+## Basic stats
  **Base HP:** 1224.0
 
  **Base ATK:** 51.3
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 25.65 | 11.0 | 918.0 |
+  | Blue | 51.3 | 22.0 | 1836.0 |
+  | Blue +1 | 76.95 | 33.0 | 2754.0 |
+  | Blue +2 | 107.73 | 46.2 | 3855.6 |
+  | Purple | 138.51 | 59.4 | 4957.2 |
+  | Purple +1 | 169.29 | 72.6 | 6058.8 |
+  | Purple +2 | 205.2 | 88.0 | 7344.0 |
+  | Purple +3 | 241.11 | 103.4 | 8629.2 |
+  | Orange | 277.02 | 118.8 | 9914.4 |
+  | Orange +1 | 318.06 | 136.4 | 11383.2 |
+  | Orange +2 | 359.1 | 154.0 | 12852.0 |
+  | Orange +3 | 400.14 | 171.6 | 14320.8 |
+  | Orange +4 | 441.18 | 189.2 | 15789.6 |
+  | Orange +5 | 502.74 | 215.6 | 17992.8 |
+  | Red | 584.82 | 250.8 | 20930.4 |
 
- **Info1:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
-
- **Info2:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 5.13 | 0.35 | 4.4 | 122.4 |
+  | **2x** <i class="fas fa-star"/> | 6.156 | 0.37 | 5.12 | 146.88 |
+  | **3x** <i class="fas fa-star"/> | 7.182 | 0.39 | 5.84 | 171.36 |
+  | **4x** <i class="fas fa-star"/> | 8.208 | 0.4 | 6.56 | 195.84 |
+  | **5x** <i class="fas fa-star"/> | 9.234 | 0.42 | 7.28 | 220.32 |
+  | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
 ### 1 Skill: Impulse

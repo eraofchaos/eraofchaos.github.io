@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
 
+ **Recommend:** Warrior, Mage and Priest work well together. 
+
+ **Info:** Stun your enemies. Most effective on large units.
+
+## Basic stats
  **Base HP:** 645.0
 
  **Base ATK:** 84.4
 
- **Recommend:** Warrior, Mage and Priest work well together. 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 42.2 | 8.75 | 483.75 |
+  | Blue | 84.4 | 17.5 | 967.5 |
+  | Blue +1 | 126.6 | 26.25 | 1451.25 |
+  | Blue +2 | 177.24 | 36.75 | 2031.75 |
+  | Purple | 227.88 | 47.25 | 2612.25 |
+  | Purple +1 | 278.52 | 57.75 | 3192.75 |
+  | Purple +2 | 337.6 | 70.0 | 3870.0 |
+  | Purple +3 | 396.68 | 82.25 | 4547.25 |
+  | Orange | 455.76 | 94.5 | 5224.5 |
+  | Orange +1 | 523.28 | 108.5 | 5998.5 |
+  | Orange +2 | 590.8 | 122.5 | 6772.5 |
+  | Orange +3 | 658.32 | 136.5 | 7546.5 |
+  | Orange +4 | 725.84 | 150.5 | 8320.5 |
+  | Orange +5 | 827.12 | 171.5 | 9481.5 |
+  | Red | 962.16 | 199.5 | 11029.5 |
 
- **Info1:** Stun your enemies. Most effective on large units.
-
- **Info2:** Stun your enemies. Most effective on large units.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.44 | 0.44 | 3.5 | 64.5 |
+  | **2x** <i class="fas fa-star"/> | 10.128 | 0.46 | 4.18 | 77.4 |
+  | **3x** <i class="fas fa-star"/> | 11.816 | 0.48 | 4.85 | 90.3 |
+  | **4x** <i class="fas fa-star"/> | 13.504 | 0.51 | 5.53 | 103.2 |
+  | **5x** <i class="fas fa-star"/> | 15.192 | 0.53 | 6.2 | 116.1 |
+  | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
 ## Skills
 ### 1 Skill: Spear Array

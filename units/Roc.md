@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Deals high magical damage to hit multiple targets effectively.
+
+## Basic stats
  **Base HP:** 4978.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 396.0 | 3.0 | 3733.5 |
+  | Blue | 792.0 | 6.0 | 7467.0 |
+  | Blue +1 | 1188.0 | 9.0 | 11200.5 |
+  | Blue +2 | 1663.2 | 12.6 | 15680.7 |
+  | Purple | 2138.4 | 16.2 | 20160.9 |
+  | Purple +1 | 2613.6 | 19.8 | 24641.1 |
+  | Purple +2 | 3168.0 | 24.0 | 29868.0 |
+  | Purple +3 | 3722.4 | 28.2 | 35094.9 |
+  | Orange | 4276.8 | 32.4 | 40321.8 |
+  | Orange +1 | 4910.4 | 37.2 | 46295.4 |
+  | Orange +2 | 5544.0 | 42.0 | 52269.0 |
+  | Orange +3 | 6177.6 | 46.8 | 58242.6 |
+  | Orange +4 | 6811.2 | 51.6 | 64216.2 |
+  | Orange +5 | 7761.6 | 58.8 | 73176.6 |
+  | Red | 9028.8 | 68.4 | 85123.8 |
 
- **Info1:** Deals high magical damage to hit multiple targets effectively.
-
- **Info2:** Deals high magical damage to hit multiple targets effectively.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 95.04 | 0.47 | 1.76 | 597.36 |
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.5 | 2.32 | 696.92 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.52 | 2.88 | 796.48 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
 ## Skills
 ### 1 Skill: Thunder

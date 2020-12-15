@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Sacrifice: Summons a horde of Skeletons.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Can summon and enhance skeletons. The core of any undead summon strategy.
+
+## Basic stats
  **Base HP:** 1581.0
 
  **Base ATK:** 228.7
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 114.35 | 4.0 | 1185.75 |
+  | Blue | 228.7 | 8.0 | 2371.5 |
+  | Blue +1 | 343.05 | 12.0 | 3557.25 |
+  | Blue +2 | 480.27 | 16.8 | 4980.15 |
+  | Purple | 617.49 | 21.6 | 6403.05 |
+  | Purple +1 | 754.71 | 26.4 | 7825.95 |
+  | Purple +2 | 914.8 | 32.0 | 9486.0 |
+  | Purple +3 | 1074.89 | 37.6 | 11146.05 |
+  | Orange | 1234.98 | 43.2 | 12806.1 |
+  | Orange +1 | 1417.94 | 49.6 | 14703.3 |
+  | Orange +2 | 1600.9 | 56.0 | 16600.5 |
+  | Orange +3 | 1783.86 | 62.4 | 18497.7 |
+  | Orange +4 | 1966.82 | 68.8 | 20394.9 |
+  | Orange +5 | 2241.26 | 78.4 | 23240.7 |
+  | Red | 2607.18 | 91.2 | 27035.1 |
 
- **Info1:** Can summon and enhance skeletons. The core of any undead summon strategy.
-
- **Info2:** Can summon and enhance skeletons. The core of any undead summon strategy.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 32.018 | 0.44 | 2.76 | 221.34 |
+  | **4x** <i class="fas fa-star"/> | 36.592 | 0.46 | 3.34 | 252.96 |
+  | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
+  | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
 ## Skills
 ### 1 Skill: Sacrifice

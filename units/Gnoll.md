@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** stuns enemies and deals tons of damage. Get bonus ATK when facing the unit with the lowest remaining HP
+
+## Basic stats
  **Base HP:** 761.0
 
  **Base ATK:** 84.4
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 42.2 | 4.5 | 570.75 |
+  | Blue | 84.4 | 9.0 | 1141.5 |
+  | Blue +1 | 126.6 | 13.5 | 1712.25 |
+  | Blue +2 | 177.24 | 18.9 | 2397.15 |
+  | Purple | 227.88 | 24.3 | 3082.05 |
+  | Purple +1 | 278.52 | 29.7 | 3766.95 |
+  | Purple +2 | 337.6 | 36.0 | 4566.0 |
+  | Purple +3 | 396.68 | 42.3 | 5365.05 |
+  | Orange | 455.76 | 48.6 | 6164.1 |
+  | Orange +1 | 523.28 | 55.8 | 7077.3 |
+  | Orange +2 | 590.8 | 63.0 | 7990.5 |
+  | Orange +3 | 658.32 | 70.2 | 8903.7 |
+  | Orange +4 | 725.84 | 77.4 | 9816.9 |
+  | Orange +5 | 827.12 | 88.2 | 11186.7 |
+  | Red | 962.16 | 102.6 | 13013.1 |
 
- **Info1:** stuns enemies and deals tons of damage. Get bonus ATK when facing the unit with the lowest remaining HP
-
- **Info2:** stuns enemies and deals tons of damage. Get bonus ATK when facing the unit with the lowest remaining HP
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.44 | 0.5 | 1.8 | 76.1 |
+  | **2x** <i class="fas fa-star"/> | 10.128 | 0.53 | 2.39 | 91.32 |
+  | **3x** <i class="fas fa-star"/> | 11.816 | 0.55 | 2.98 | 106.54 |
+  | **4x** <i class="fas fa-star"/> | 13.504 | 0.58 | 3.57 | 121.76 |
+  | **5x** <i class="fas fa-star"/> | 15.192 | 0.6 | 4.16 | 136.98 |
+  | **6x** <i class="fas fa-star"/> | 16.88 | 0.63 | 4.75 | 152.2 |
 
 ## Skills
 ### 1 Skill: Chain Slap

@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Ranged damage, Reduces enemy mana upon death, Core attacker
+
+## Basic stats
  **Base HP:** 1749.0
 
  **Base ATK:** 212.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 106.0 | 5.0 | 1311.75 |
+  | Blue | 212.0 | 10.0 | 2623.5 |
+  | Blue +1 | 318.0 | 15.0 | 3935.25 |
+  | Blue +2 | 445.2 | 21.0 | 5509.35 |
+  | Purple | 572.4 | 27.0 | 7083.45 |
+  | Purple +1 | 699.6 | 33.0 | 8657.55 |
+  | Purple +2 | 848.0 | 40.0 | 10494.0 |
+  | Purple +3 | 996.4 | 47.0 | 12330.45 |
+  | Orange | 1144.8 | 54.0 | 14166.9 |
+  | Orange +1 | 1314.4 | 62.0 | 16265.7 |
+  | Orange +2 | 1484.0 | 70.0 | 18364.5 |
+  | Orange +3 | 1653.6 | 78.0 | 20463.3 |
+  | Orange +4 | 1823.2 | 86.0 | 22562.1 |
+  | Orange +5 | 2077.6 | 98.0 | 25710.3 |
+  | Red | 2416.8 | 114.0 | 29907.9 |
 
- **Info1:** Ranged damage, Reduces enemy mana upon death, Core attacker
-
- **Info2:** Ranged damage, Reduces enemy mana upon death, Core attacker
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 29.68 | 0.55 | 3.2 | 244.86 |
+  | **4x** <i class="fas fa-star"/> | 33.92 | 0.58 | 3.8 | 279.84 |
+  | **5x** <i class="fas fa-star"/> | 38.16 | 0.6 | 4.4 | 314.82 |
+  | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
 ### 1 Skill: Energy Blast

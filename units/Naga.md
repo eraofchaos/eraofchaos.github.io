@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
 
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+
+ **Info:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 112.5 | 5.0 | 1351.5 |
+  | Blue | 225.0 | 10.0 | 2703.0 |
+  | Blue +1 | 337.5 | 15.0 | 4054.5 |
+  | Blue +2 | 472.5 | 21.0 | 5676.3 |
+  | Purple | 607.5 | 27.0 | 7298.1 |
+  | Purple +1 | 742.5 | 33.0 | 8919.9 |
+  | Purple +2 | 900.0 | 40.0 | 10812.0 |
+  | Purple +3 | 1057.5 | 47.0 | 12704.1 |
+  | Orange | 1215.0 | 54.0 | 14596.2 |
+  | Orange +1 | 1395.0 | 62.0 | 16758.6 |
+  | Orange +2 | 1575.0 | 70.0 | 18921.0 |
+  | Orange +3 | 1755.0 | 78.0 | 21083.4 |
+  | Orange +4 | 1935.0 | 86.0 | 23245.8 |
+  | Orange +5 | 2205.0 | 98.0 | 26489.4 |
+  | Red | 2565.0 | 114.0 | 30814.2 |
 
- **Info1:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
-
- **Info2:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 31.5 | 0.51 | 3.2 | 252.28 |
+  | **4x** <i class="fas fa-star"/> | 36.0 | 0.53 | 3.8 | 288.32 |
+  | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
+  | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
 ### 1 Skill: Blade Dance

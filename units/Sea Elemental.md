@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Powerful crowd control, great restoration
+
+ **Info:** Strong battle controller. Constantly weakens enemies
+
+## Basic stats
  **Base HP:** 1446.0
 
  **Base ATK:** 201.8
 
- **Recommend:** Powerful crowd control, great restoration
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 100.9 | 3.25 | 1084.5 |
+  | Blue | 201.8 | 6.5 | 2169.0 |
+  | Blue +1 | 302.7 | 9.75 | 3253.5 |
+  | Blue +2 | 423.78 | 13.65 | 4554.9 |
+  | Purple | 544.86 | 17.55 | 5856.3 |
+  | Purple +1 | 665.94 | 21.45 | 7157.7 |
+  | Purple +2 | 807.2 | 26.0 | 8676.0 |
+  | Purple +3 | 948.46 | 30.55 | 10194.3 |
+  | Orange | 1089.72 | 35.1 | 11712.6 |
+  | Orange +1 | 1251.16 | 40.3 | 13447.8 |
+  | Orange +2 | 1412.6 | 45.5 | 15183.0 |
+  | Orange +3 | 1574.04 | 50.7 | 16918.2 |
+  | Orange +4 | 1735.48 | 55.9 | 18653.4 |
+  | Orange +5 | 1977.64 | 63.7 | 21256.2 |
+  | Red | 2300.52 | 74.1 | 24726.6 |
 
- **Info1:** Strong battle controller. Constantly weakens enemies
-
- **Info2:** Strong battle controller. Constantly weakens enemies
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 20.18 | 0.4 | 1.3 | 144.6 |
+  | **2x** <i class="fas fa-star"/> | 24.216 | 0.42 | 1.87 | 173.52 |
+  | **3x** <i class="fas fa-star"/> | 28.252 | 0.44 | 2.43 | 202.44 |
+  | **4x** <i class="fas fa-star"/> | 32.288 | 0.46 | 3.0 | 231.36 |
+  | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
+  | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
 ### 1 Skill: Time Spiral

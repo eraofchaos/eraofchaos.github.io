@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Strong tank. Has a chance of insta-killing enemies
+
+## Basic stats
  **Base HP:** 3094.0
 
  **Base ATK:** 121.1
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 60.55 | 16.0 | 2320.5 |
+  | Blue | 121.1 | 32.0 | 4641.0 |
+  | Blue +1 | 181.65 | 48.0 | 6961.5 |
+  | Blue +2 | 254.31 | 67.2 | 9746.1 |
+  | Purple | 326.97 | 86.4 | 12530.7 |
+  | Purple +1 | 399.63 | 105.6 | 15315.3 |
+  | Purple +2 | 484.4 | 128.0 | 18564.0 |
+  | Purple +3 | 569.17 | 150.4 | 21812.7 |
+  | Orange | 653.94 | 172.8 | 25061.4 |
+  | Orange +1 | 750.82 | 198.4 | 28774.2 |
+  | Orange +2 | 847.7 | 224.0 | 32487.0 |
+  | Orange +3 | 944.58 | 249.6 | 36199.8 |
+  | Orange +4 | 1041.46 | 275.2 | 39912.6 |
+  | Orange +5 | 1186.78 | 313.6 | 45481.8 |
+  | Red | 1380.54 | 364.8 | 52907.4 |
 
- **Info1:** Strong tank. Has a chance of insta-killing enemies
-
- **Info2:** Strong tank. Has a chance of insta-killing enemies
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.954 | 0.33 | 8.04 | 433.16 |
+  | **4x** <i class="fas fa-star"/> | 19.376 | 0.35 | 8.86 | 495.04 |
+  | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 9.68 | 556.92 |
+  | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
 ## Skills
 ### 1 Skill: null

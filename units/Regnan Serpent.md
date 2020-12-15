@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
 
+ **Recommend:** Powerful tank and enemy deterrent
+
+ **Info:** Strong defender. Good at deterring crowds of enemies and lowering Crit Hit rate
+
+## Basic stats
  **Base HP:** 3027.0
 
  **Base ATK:** 100.9
 
- **Recommend:** Powerful tank and enemy deterrent
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 50.45 | 15.0 | 2270.25 |
+  | Blue | 100.9 | 30.0 | 4540.5 |
+  | Blue +1 | 151.35 | 45.0 | 6810.75 |
+  | Blue +2 | 211.89 | 63.0 | 9535.05 |
+  | Purple | 272.43 | 81.0 | 12259.35 |
+  | Purple +1 | 332.97 | 99.0 | 14983.65 |
+  | Purple +2 | 403.6 | 120.0 | 18162.0 |
+  | Purple +3 | 474.23 | 141.0 | 21340.35 |
+  | Orange | 544.86 | 162.0 | 24518.7 |
+  | Orange +1 | 625.58 | 186.0 | 28151.1 |
+  | Orange +2 | 706.3 | 210.0 | 31783.5 |
+  | Orange +3 | 787.02 | 234.0 | 35415.9 |
+  | Orange +4 | 867.74 | 258.0 | 39048.3 |
+  | Orange +5 | 988.82 | 294.0 | 44496.9 |
+  | Red | 1150.26 | 342.0 | 51761.7 |
 
- **Info1:** Strong defender. Good at deterring crowds of enemies and lowering Crit Hit rate
-
- **Info2:** Strong defender. Good at deterring crowds of enemies and lowering Crit Hit rate
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 14.126 | 0.39 | 7.6 | 423.78 |
+  | **4x** <i class="fas fa-star"/> | 16.144 | 0.4 | 8.4 | 484.32 |
+  | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
+  | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
 ## Skills
 ### 1 Skill: null

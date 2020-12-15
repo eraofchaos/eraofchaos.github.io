@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Critical Strike: Deals colossal damage and causes low morale.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
+
+## Basic stats
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 57.9 | 6.25 | 682.5 |
+  | Blue | 115.8 | 12.5 | 1365.0 |
+  | Blue +1 | 173.7 | 18.75 | 2047.5 |
+  | Blue +2 | 243.18 | 26.25 | 2866.5 |
+  | Purple | 312.66 | 33.75 | 3685.5 |
+  | Purple +1 | 382.14 | 41.25 | 4504.5 |
+  | Purple +2 | 463.2 | 50.0 | 5460.0 |
+  | Purple +3 | 544.26 | 58.75 | 6415.5 |
+  | Orange | 625.32 | 67.5 | 7371.0 |
+  | Orange +1 | 717.96 | 77.5 | 8463.0 |
+  | Orange +2 | 810.6 | 87.5 | 9555.0 |
+  | Orange +3 | 903.24 | 97.5 | 10647.0 |
+  | Orange +4 | 995.88 | 107.5 | 11739.0 |
+  | Orange +5 | 1134.84 | 122.5 | 13377.0 |
+  | Red | 1320.12 | 142.5 | 15561.0 |
 
- **Info1:** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
-
- **Info2:** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.212 | 0.44 | 3.75 | 127.4 |
+  | **4x** <i class="fas fa-star"/> | 18.528 | 0.46 | 4.38 | 145.6 |
+  | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
+  | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
 ### 1 Skill: Critical Strike

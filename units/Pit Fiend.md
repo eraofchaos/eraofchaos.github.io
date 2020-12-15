@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Fire Spring: Continuously heals friendly units in its path
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Has healing and buff aura. The core unit in Inferno
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 87.45 | 4.75 | 1387.5 |
+  | Blue | 174.9 | 9.5 | 2775.0 |
+  | Blue +1 | 262.35 | 14.25 | 4162.5 |
+  | Blue +2 | 367.29 | 19.95 | 5827.5 |
+  | Purple | 472.23 | 25.65 | 7492.5 |
+  | Purple +1 | 577.17 | 31.35 | 9157.5 |
+  | Purple +2 | 699.6 | 38.0 | 11100.0 |
+  | Purple +3 | 822.03 | 44.65 | 13042.5 |
+  | Orange | 944.46 | 51.3 | 14985.0 |
+  | Orange +1 | 1084.38 | 58.9 | 17205.0 |
+  | Orange +2 | 1224.3 | 66.5 | 19425.0 |
+  | Orange +3 | 1364.22 | 74.1 | 21645.0 |
+  | Orange +4 | 1504.14 | 81.7 | 23865.0 |
+  | Orange +5 | 1714.02 | 93.1 | 27195.0 |
+  | Red | 1993.86 | 108.3 | 31635.0 |
 
- **Info1:** Has healing and buff aura. The core unit in Inferno
-
- **Info2:** Has healing and buff aura. The core unit in Inferno
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 20.988 | 0.53 | 2.5 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.55 | 3.09 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.58 | 3.69 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
 ### 1 Skill: Firespring

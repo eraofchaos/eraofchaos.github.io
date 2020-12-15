@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** DPS unit proficient at control. Summons units to destroy enemies
+
+## Basic stats
  **Base HP:** 5543.0
 
  **Base ATK:** 950.3
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 475.15 | 9.5 | 4157.25 |
+  | Blue | 950.3 | 19.0 | 8314.5 |
+  | Blue +1 | 1425.45 | 28.5 | 12471.75 |
+  | Blue +2 | 1995.63 | 39.9 | 17460.45 |
+  | Purple | 2565.81 | 51.3 | 22449.15 |
+  | Purple +1 | 3135.99 | 62.7 | 27437.85 |
+  | Purple +2 | 3801.2 | 76.0 | 33258.0 |
+  | Purple +3 | 4466.41 | 89.3 | 39078.15 |
+  | Orange | 5131.62 | 102.6 | 44898.3 |
+  | Orange +1 | 5891.86 | 117.8 | 51549.9 |
+  | Orange +2 | 6652.1 | 133.0 | 58201.5 |
+  | Orange +3 | 7412.34 | 148.2 | 64853.1 |
+  | Orange +4 | 8172.58 | 163.4 | 71504.7 |
+  | Orange +5 | 9312.94 | 186.2 | 81482.1 |
+  | Red | 10833.42 | 216.6 | 94785.3 |
 
- **Info1:** DPS unit proficient at control. Summons units to destroy enemies
-
- **Info2:** DPS unit proficient at control. Summons units to destroy enemies
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 133.042 | 0.55 | 5.18 | 776.02 |
+  | **4x** <i class="fas fa-star"/> | 152.048 | 0.58 | 5.87 | 886.88 |
+  | **5x** <i class="fas fa-star"/> | 171.054 | 0.6 | 6.56 | 997.74 |
+  | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
 ## Skills
 ### 1 Skill: Pestilence Needle

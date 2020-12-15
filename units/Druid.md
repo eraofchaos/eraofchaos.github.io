@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
+ **Recommend:** null
+
+ **Info:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+
+## Basic stats
  **Base HP:** 844.0
 
  **Base ATK:** 102.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 51.3 | 3.75 | 633.0 |
+  | Blue | 102.6 | 7.5 | 1266.0 |
+  | Blue +1 | 153.9 | 11.25 | 1899.0 |
+  | Blue +2 | 215.46 | 15.75 | 2658.6 |
+  | Purple | 277.02 | 20.25 | 3418.2 |
+  | Purple +1 | 338.58 | 24.75 | 4177.8 |
+  | Purple +2 | 410.4 | 30.0 | 5064.0 |
+  | Purple +3 | 482.22 | 35.25 | 5950.2 |
+  | Orange | 554.04 | 40.5 | 6836.4 |
+  | Orange +1 | 636.12 | 46.5 | 7849.2 |
+  | Orange +2 | 718.2 | 52.5 | 8862.0 |
+  | Orange +3 | 800.28 | 58.5 | 9874.8 |
+  | Orange +4 | 882.36 | 64.5 | 10887.6 |
+  | Orange +5 | 1005.48 | 73.5 | 12406.8 |
+  | Red | 1169.64 | 85.5 | 14432.4 |
 
- **Info1:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
-
- **Info2:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.46 | 2.65 | 118.16 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 135.04 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
 ### 1 Skill: Call of the Forest

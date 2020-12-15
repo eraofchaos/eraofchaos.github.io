@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Stone Form: Increases ATK and ATK speed
 
+ **Recommend:** Warrior, Mage and Priest work well together. 
+
+ **Info:** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
+
+## Basic stats
  **Base HP:** 300.0
 
  **Base ATK:** 48.0
 
- **Recommend:** Warrior, Mage and Priest work well together. 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 50.5 | 5.25 | 570.75 |
+  | Blue | 101.0 | 10.5 | 1141.5 |
+  | Blue +1 | 151.5 | 15.75 | 1712.25 |
+  | Blue +2 | 212.1 | 22.05 | 2397.15 |
+  | Purple | 272.7 | 28.35 | 3082.05 |
+  | Purple +1 | 333.3 | 34.65 | 3766.95 |
+  | Purple +2 | 404.0 | 42.0 | 4566.0 |
+  | Purple +3 | 474.7 | 49.35 | 5365.05 |
+  | Orange | 545.4 | 56.7 | 6164.1 |
+  | Orange +1 | 626.2 | 65.1 | 7077.3 |
+  | Orange +2 | 707.0 | 73.5 | 7990.5 |
+  | Orange +3 | 787.8 | 81.9 | 8903.7 |
+  | Orange +4 | 868.6 | 90.3 | 9816.9 |
+  | Orange +5 | 989.8 | 102.9 | 11186.7 |
+  | Red | 1151.4 | 119.7 | 13013.1 |
 
- **Info1:** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
-
- **Info2:** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.12 | 0.47 | 2.71 | 91.32 |
+  | **3x** <i class="fas fa-star"/> | 14.14 | 0.5 | 3.31 | 106.54 |
+  | **4x** <i class="fas fa-star"/> | 16.16 | 0.52 | 3.92 | 121.76 |
+  | **5x** <i class="fas fa-star"/> | 18.18 | 0.54 | 4.52 | 136.98 |
+  | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
 ### 1 Skill: Stone Form

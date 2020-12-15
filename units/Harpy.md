@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 37.0 | 6.75 | 645.0 |
+  | Blue | 74.0 | 13.5 | 1290.0 |
+  | Blue +1 | 111.0 | 20.25 | 1935.0 |
+  | Blue +2 | 155.4 | 28.35 | 2709.0 |
+  | Purple | 199.8 | 36.45 | 3483.0 |
+  | Purple +1 | 244.2 | 44.55 | 4257.0 |
+  | Purple +2 | 296.0 | 54.0 | 5160.0 |
+  | Purple +3 | 347.8 | 63.45 | 6063.0 |
+  | Orange | 399.6 | 72.9 | 6966.0 |
+  | Orange +1 | 458.8 | 83.7 | 7998.0 |
+  | Orange +2 | 518.0 | 94.5 | 9030.0 |
+  | Orange +3 | 577.2 | 105.3 | 10062.0 |
+  | Orange +4 | 636.4 | 116.1 | 11094.0 |
+  | Orange +5 | 725.2 | 132.3 | 12642.0 |
+  | Red | 843.6 | 153.9 | 14706.0 |
 
- **Info1:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
-
- **Info2:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 8.88 | 0.53 | 3.34 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.36 | 0.55 | 3.97 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.84 | 0.58 | 4.61 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
 ### 1 Skill: Harpy's Sharp Claw

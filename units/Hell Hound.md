@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Rampage: Each hit is critical attack for a short period.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Critical hit its target. When it induces bleeding it is able to deal high damage in a short period of time.
+
+## Basic stats
  **Base HP:** 827.0
 
  **Base ATK:** 77.8
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 38.9 | 6.5 | 620.25 |
+  | Blue | 77.8 | 13.0 | 1240.5 |
+  | Blue +1 | 116.7 | 19.5 | 1860.75 |
+  | Blue +2 | 163.38 | 27.3 | 2605.05 |
+  | Purple | 210.06 | 35.1 | 3349.35 |
+  | Purple +1 | 256.74 | 42.9 | 4093.65 |
+  | Purple +2 | 311.2 | 52.0 | 4962.0 |
+  | Purple +3 | 365.66 | 61.1 | 5830.35 |
+  | Orange | 420.12 | 70.2 | 6698.7 |
+  | Orange +1 | 482.36 | 80.6 | 7691.1 |
+  | Orange +2 | 544.6 | 91.0 | 8683.5 |
+  | Orange +3 | 606.84 | 101.4 | 9675.9 |
+  | Orange +4 | 669.08 | 111.8 | 10668.3 |
+  | Orange +5 | 762.44 | 127.4 | 12156.9 |
+  | Red | 886.92 | 148.2 | 14141.7 |
 
- **Info1:** Critical hit its target. When it induces bleeding it is able to deal high damage in a short period of time.
-
- **Info2:** Critical hit its target. When it induces bleeding it is able to deal high damage in a short period of time.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 9.336 | 0.53 | 3.23 | 99.24 |
+  | **3x** <i class="fas fa-star"/> | 10.892 | 0.55 | 3.86 | 115.78 |
+  | **4x** <i class="fas fa-star"/> | 12.448 | 0.58 | 4.49 | 132.32 |
+  | **5x** <i class="fas fa-star"/> | 14.004 | 0.6 | 5.12 | 148.86 |
+  | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
 
 ## Skills
 ### 1 Skill: Fire

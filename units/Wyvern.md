@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** DPS unit. Has various ways of spreading the plague
+
+## Basic stats
  **Base HP:** 5544.0
 
  **Base ATK:** 500.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 250.0 | 7.5 | 4158.0 |
+  | Blue | 500.0 | 15.0 | 8316.0 |
+  | Blue +1 | 750.0 | 22.5 | 12474.0 |
+  | Blue +2 | 1050.0 | 31.5 | 17463.6 |
+  | Purple | 1350.0 | 40.5 | 22453.2 |
+  | Purple +1 | 1650.0 | 49.5 | 27442.8 |
+  | Purple +2 | 2000.0 | 60.0 | 33264.0 |
+  | Purple +3 | 2350.0 | 70.5 | 39085.2 |
+  | Orange | 2700.0 | 81.0 | 44906.4 |
+  | Orange +1 | 3100.0 | 93.0 | 51559.2 |
+  | Orange +2 | 3500.0 | 105.0 | 58212.0 |
+  | Orange +3 | 3900.0 | 117.0 | 64864.8 |
+  | Orange +4 | 4300.0 | 129.0 | 71517.6 |
+  | Orange +5 | 4900.0 | 147.0 | 81496.8 |
+  | Red | 5700.0 | 171.0 | 94802.4 |
 
- **Info1:** DPS unit. Has various ways of spreading the plague
-
- **Info2:** DPS unit. Has various ways of spreading the plague
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 70.0 | 0.57 | 4.3 | 776.16 |
+  | **4x** <i class="fas fa-star"/> | 80.0 | 0.6 | 4.95 | 887.04 |
+  | **5x** <i class="fas fa-star"/> | 90.0 | 0.62 | 5.6 | 997.92 |
+  | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
 ### 1 Skill: Venomous Spurt

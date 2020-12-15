@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Deals sizeable damage when it has more health than your enemies.
+
+## Basic stats
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 37.2 | 6.25 | 682.5 |
+  | Blue | 74.4 | 12.5 | 1365.0 |
+  | Blue +1 | 111.6 | 18.75 | 2047.5 |
+  | Blue +2 | 156.24 | 26.25 | 2866.5 |
+  | Purple | 200.88 | 33.75 | 3685.5 |
+  | Purple +1 | 245.52 | 41.25 | 4504.5 |
+  | Purple +2 | 297.6 | 50.0 | 5460.0 |
+  | Purple +3 | 349.68 | 58.75 | 6415.5 |
+  | Orange | 401.76 | 67.5 | 7371.0 |
+  | Orange +1 | 461.28 | 77.5 | 8463.0 |
+  | Orange +2 | 520.8 | 87.5 | 9555.0 |
+  | Orange +3 | 580.32 | 97.5 | 10647.0 |
+  | Orange +4 | 639.84 | 107.5 | 11739.0 |
+  | Orange +5 | 729.12 | 122.5 | 13377.0 |
+  | Red | 848.16 | 142.5 | 15561.0 |
 
- **Info1:** Deals sizeable damage when it has more health than your enemies.
-
- **Info2:** Deals sizeable damage when it has more health than your enemies.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 8.928 | 0.53 | 3.13 | 109.2 |
+  | **3x** <i class="fas fa-star"/> | 10.416 | 0.55 | 3.75 | 127.4 |
+  | **4x** <i class="fas fa-star"/> | 11.904 | 0.58 | 4.38 | 145.6 |
+  | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
+  | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
 ### 1 Skill: Life Drain

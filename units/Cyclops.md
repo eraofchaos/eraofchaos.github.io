@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Flame Stone: Deals catastrophic damage to all enemy troops in its path.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Has strong area attack, good at defending smaller units.
+
+## Basic stats
  **Base HP:** 5091.0
 
  **Base ATK:** 678.8
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 339.4 | 6.25 | 3818.25 |
+  | Blue | 678.8 | 12.5 | 7636.5 |
+  | Blue +1 | 1018.2 | 18.75 | 11454.75 |
+  | Blue +2 | 1425.48 | 26.25 | 16036.65 |
+  | Purple | 1832.76 | 33.75 | 20618.55 |
+  | Purple +1 | 2240.04 | 41.25 | 25200.45 |
+  | Purple +2 | 2715.2 | 50.0 | 30546.0 |
+  | Purple +3 | 3190.36 | 58.75 | 35891.55 |
+  | Orange | 3665.52 | 67.5 | 41237.1 |
+  | Orange +1 | 4208.56 | 77.5 | 47346.3 |
+  | Orange +2 | 4751.6 | 87.5 | 53455.5 |
+  | Orange +3 | 5294.64 | 97.5 | 59564.7 |
+  | Orange +4 | 5837.68 | 107.5 | 65673.9 |
+  | Orange +5 | 6652.24 | 122.5 | 74837.7 |
+  | Red | 7738.32 | 142.5 | 87056.1 |
 
- **Info1:** Has strong area attack, good at defending smaller units.
-
- **Info2:** Has strong area attack, good at defending smaller units.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 81.456 | 0.53 | 3.13 | 610.92 |
+  | **3x** <i class="fas fa-star"/> | 95.032 | 0.55 | 3.75 | 712.74 |
+  | **4x** <i class="fas fa-star"/> | 108.608 | 0.58 | 4.38 | 814.56 |
+  | **5x** <i class="fas fa-star"/> | 122.184 | 0.6 | 5.0 | 916.38 |
+  | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
 ### 1 Skill: Flamestone

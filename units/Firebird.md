@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
 
+ **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
+
+ **Info:** Can revive, deals colossal fire damage to all targets in its path.
+
+## Basic stats
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
 
- **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 424.25 | 3.75 | 3393.75 |
+  | Blue | 848.5 | 7.5 | 6787.5 |
+  | Blue +1 | 1272.75 | 11.25 | 10181.25 |
+  | Blue +2 | 1781.85 | 15.75 | 14253.75 |
+  | Purple | 2290.95 | 20.25 | 18326.25 |
+  | Purple +1 | 2800.05 | 24.75 | 22398.75 |
+  | Purple +2 | 3394.0 | 30.0 | 27150.0 |
+  | Purple +3 | 3987.95 | 35.25 | 31901.25 |
+  | Orange | 4581.9 | 40.5 | 36652.5 |
+  | Orange +1 | 5260.7 | 46.5 | 42082.5 |
+  | Orange +2 | 5939.5 | 52.5 | 47512.5 |
+  | Orange +3 | 6618.3 | 58.5 | 52942.5 |
+  | Orange +4 | 7297.1 | 64.5 | 58372.5 |
+  | Orange +5 | 8315.3 | 73.5 | 66517.5 |
+  | Red | 9672.9 | 85.5 | 77377.5 |
 
- **Info1:** Can revive, deals colossal fire damage to all targets in its path.
-
- **Info2:** Can revive, deals colossal fire damage to all targets in its path.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 118.79 | 0.44 | 2.65 | 633.5 |
+  | **4x** <i class="fas fa-star"/> | 135.76 | 0.46 | 3.23 | 724.0 |
+  | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
+  | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
 ### 1 Skill: Flame Breath

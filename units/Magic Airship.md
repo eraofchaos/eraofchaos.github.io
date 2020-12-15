@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
+
+## Basic stats
  **Base HP:** 1715.0
 
  **Base ATK:** 208.5
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 104.25 | 3.75 | 1286.25 |
+  | Blue | 208.5 | 7.5 | 2572.5 |
+  | Blue +1 | 312.75 | 11.25 | 3858.75 |
+  | Blue +2 | 437.85 | 15.75 | 5402.25 |
+  | Purple | 562.95 | 20.25 | 6945.75 |
+  | Purple +1 | 688.05 | 24.75 | 8489.25 |
+  | Purple +2 | 834.0 | 30.0 | 10290.0 |
+  | Purple +3 | 979.95 | 35.25 | 12090.75 |
+  | Orange | 1125.9 | 40.5 | 13891.5 |
+  | Orange +1 | 1292.7 | 46.5 | 15949.5 |
+  | Orange +2 | 1459.5 | 52.5 | 18007.5 |
+  | Orange +3 | 1626.3 | 58.5 | 20065.5 |
+  | Orange +4 | 1793.1 | 64.5 | 22123.5 |
+  | Orange +5 | 2043.3 | 73.5 | 25210.5 |
+  | Red | 2376.9 | 85.5 | 29326.5 |
 
- **Info1:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
-
- **Info2:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 29.19 | 0.46 | 2.65 | 240.1 |
+  | **4x** <i class="fas fa-star"/> | 33.36 | 0.48 | 3.23 | 274.4 |
+  | **5x** <i class="fas fa-star"/> | 37.53 | 0.5 | 3.8 | 308.7 |
+  | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
 ## Skills
 ### 1 Skill: Energy Support

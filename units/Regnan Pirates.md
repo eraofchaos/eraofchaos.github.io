@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Multi-staged attack, high burst damage, high DPS
+
+ **Info:** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
+
+## Basic stats
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
 
- **Recommend:** Multi-staged attack, high burst damage, high DPS
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 49.65 | 4.0 | 521.25 |
+  | Blue | 99.3 | 8.0 | 1042.5 |
+  | Blue +1 | 148.95 | 12.0 | 1563.75 |
+  | Blue +2 | 208.53 | 16.8 | 2189.25 |
+  | Purple | 268.11 | 21.6 | 2814.75 |
+  | Purple +1 | 327.69 | 26.4 | 3440.25 |
+  | Purple +2 | 397.2 | 32.0 | 4170.0 |
+  | Purple +3 | 466.71 | 37.6 | 4899.75 |
+  | Orange | 536.22 | 43.2 | 5629.5 |
+  | Orange +1 | 615.66 | 49.6 | 6463.5 |
+  | Orange +2 | 695.1 | 56.0 | 7297.5 |
+  | Orange +3 | 774.54 | 62.4 | 8131.5 |
+  | Orange +4 | 853.98 | 68.8 | 8965.5 |
+  | Orange +5 | 973.14 | 78.4 | 10216.5 |
+  | Red | 1132.02 | 91.2 | 11884.5 |
 
- **Info1:** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
-
- **Info2:** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.916 | 0.61 | 2.18 | 83.4 |
+  | **3x** <i class="fas fa-star"/> | 13.902 | 0.64 | 2.76 | 97.3 |
+  | **4x** <i class="fas fa-star"/> | 15.888 | 0.67 | 3.34 | 111.2 |
+  | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
+  | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
 ### 1 Skill: Tidal Plunder

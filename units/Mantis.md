@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 6336.0
 
  **Base ATK:** 1140.4
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 570.2 | 5.5 | 4752.0 |
+  | Blue | 1140.4 | 11.0 | 9504.0 |
+  | Blue +1 | 1710.6 | 16.5 | 14256.0 |
+  | Blue +2 | 2394.84 | 23.1 | 19958.4 |
+  | Purple | 3079.08 | 29.7 | 25660.8 |
+  | Purple +1 | 3763.32 | 36.3 | 31363.2 |
+  | Purple +2 | 4561.6 | 44.0 | 38016.0 |
+  | Purple +3 | 5359.88 | 51.7 | 44668.8 |
+  | Orange | 6158.16 | 59.4 | 51321.6 |
+  | Orange +1 | 7070.48 | 68.2 | 58924.8 |
+  | Orange +2 | 7982.8 | 77.0 | 66528.0 |
+  | Orange +3 | 8895.12 | 85.8 | 74131.2 |
+  | Orange +4 | 9807.44 | 94.6 | 81734.4 |
+  | Orange +5 | 11175.92 | 107.8 | 93139.2 |
+  | Red | 13000.56 | 125.4 | 108345.6 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 159.656 | 0.85 | 3.42 | 887.04 |
+  | **4x** <i class="fas fa-star"/> | 182.464 | 0.89 | 4.03 | 1013.76 |
+  | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
+  | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
 
 ## Skills
 ### 1 Skill: sonic cutting

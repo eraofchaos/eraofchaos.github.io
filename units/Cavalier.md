@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+
+ **Info:** Charges at your enemies at the beginning of the battle, giving you an advantage.
+
+## Basic stats
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 39.7 | 8.75 | 608.25 |
+  | Blue | 79.4 | 17.5 | 1216.5 |
+  | Blue +1 | 119.1 | 26.25 | 1824.75 |
+  | Blue +2 | 166.74 | 36.75 | 2554.65 |
+  | Purple | 214.38 | 47.25 | 3284.55 |
+  | Purple +1 | 262.02 | 57.75 | 4014.45 |
+  | Purple +2 | 317.6 | 70.0 | 4866.0 |
+  | Purple +3 | 373.18 | 82.25 | 5717.55 |
+  | Orange | 428.76 | 94.5 | 6569.1 |
+  | Orange +1 | 492.28 | 108.5 | 7542.3 |
+  | Orange +2 | 555.8 | 122.5 | 8515.5 |
+  | Orange +3 | 619.32 | 136.5 | 9488.7 |
+  | Orange +4 | 682.84 | 150.5 | 10461.9 |
+  | Orange +5 | 778.12 | 171.5 | 11921.7 |
+  | Red | 905.16 | 199.5 | 13868.1 |
 
- **Info1:** Charges at your enemies at the beginning of the battle, giving you an advantage.
-
- **Info2:** Charges at your enemies at the beginning of the battle, giving you an advantage.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.94 | 0.46 | 3.5 | 81.1 |
+  | **2x** <i class="fas fa-star"/> | 9.528 | 0.48 | 4.18 | 97.32 |
+  | **3x** <i class="fas fa-star"/> | 11.116 | 0.51 | 4.85 | 113.54 |
+  | **4x** <i class="fas fa-star"/> | 12.704 | 0.53 | 5.53 | 129.76 |
+  | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
+  | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
 ### 1 Skill: Jousting

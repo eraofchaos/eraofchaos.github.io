@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Powerful DPS. Deals more damage when fighting large units
+
+## Basic stats
  **Base HP:** 1144.0
 
  **Base ATK:** 174.9
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 87.45 | 4.5 | 858.0 |
+  | Blue | 174.9 | 9.0 | 1716.0 |
+  | Blue +1 | 262.35 | 13.5 | 2574.0 |
+  | Blue +2 | 367.29 | 18.9 | 3603.6 |
+  | Purple | 472.23 | 24.3 | 4633.2 |
+  | Purple +1 | 577.17 | 29.7 | 5662.8 |
+  | Purple +2 | 699.6 | 36.0 | 6864.0 |
+  | Purple +3 | 822.03 | 42.3 | 8065.2 |
+  | Orange | 944.46 | 48.6 | 9266.4 |
+  | Orange +1 | 1084.38 | 55.8 | 10639.2 |
+  | Orange +2 | 1224.3 | 63.0 | 12012.0 |
+  | Orange +3 | 1364.22 | 70.2 | 13384.8 |
+  | Orange +4 | 1504.14 | 77.4 | 14757.6 |
+  | Orange +5 | 1714.02 | 88.2 | 16816.8 |
+  | Red | 1993.86 | 102.6 | 19562.4 |
 
- **Info1:** Powerful DPS. Deals more damage when fighting large units
-
- **Info2:** Powerful DPS. Deals more damage when fighting large units
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 20.988 | 0.74 | 2.39 | 137.28 |
+  | **3x** <i class="fas fa-star"/> | 24.486 | 0.77 | 2.98 | 160.16 |
+  | **4x** <i class="fas fa-star"/> | 27.984 | 0.81 | 3.57 | 183.04 |
+  | **5x** <i class="fas fa-star"/> | 31.482 | 0.84 | 4.16 | 205.92 |
+  | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
 ### 1 Skill: Poisoned Dart

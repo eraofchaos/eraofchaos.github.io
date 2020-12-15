@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** Multi-staged attack, high burst damage, high DPS
+
+ **Info:** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.
+
+## Basic stats
  **Base HP:** 7128.0
 
  **Base ATK:** 1267.1
 
- **Recommend:** Multi-staged attack, high burst damage, high DPS
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 633.55 | 12.375 | 5346.0 |
+  | Blue | 1267.1 | 24.75 | 10692.0 |
+  | Blue +1 | 1900.65 | 37.125 | 16038.0 |
+  | Blue +2 | 2660.91 | 51.975 | 22453.2 |
+  | Purple | 3421.17 | 66.825 | 28868.4 |
+  | Purple +1 | 4181.43 | 81.675 | 35283.6 |
+  | Purple +2 | 5068.4 | 99.0 | 42768.0 |
+  | Purple +3 | 5955.37 | 116.325 | 50252.4 |
+  | Orange | 6842.34 | 133.65 | 57736.8 |
+  | Orange +1 | 7856.02 | 153.45 | 66290.4 |
+  | Orange +2 | 8869.7 | 173.25 | 74844.0 |
+  | Orange +3 | 9883.38 | 193.05 | 83397.6 |
+  | Orange +4 | 10897.06 | 212.85 | 91951.2 |
+  | Orange +5 | 12417.58 | 242.55 | 104781.6 |
+  | Red | 14444.94 | 282.15 | 121888.8 |
 
- **Info1:** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.
-
- **Info2:** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 177.394 | 0.36 | 6.45 | 997.92 |
+  | **4x** <i class="fas fa-star"/> | 202.736 | 0.38 | 7.19 | 1140.48 |
+  | **5x** <i class="fas fa-star"/> | 228.078 | 0.4 | 7.94 | 1283.04 |
+  | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
 
 ## Skills
 ### 1 Skill: Fierce-looking Jaw

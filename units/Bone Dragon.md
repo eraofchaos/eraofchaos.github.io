@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Fear: Sharply decreases enemies' defense, causes low morale.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Reduce defense of all enemies on the battlefield. Able to break the enemy's line of defense effectively.
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 758.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 379.0 | 4.5 | 4327.5 |
+  | Blue | 758.0 | 9.0 | 8655.0 |
+  | Blue +1 | 1137.0 | 13.5 | 12982.5 |
+  | Blue +2 | 1591.8 | 18.9 | 18175.5 |
+  | Purple | 2046.6 | 24.3 | 23368.5 |
+  | Purple +1 | 2501.4 | 29.7 | 28561.5 |
+  | Purple +2 | 3032.0 | 36.0 | 34620.0 |
+  | Purple +3 | 3562.6 | 42.3 | 40678.5 |
+  | Orange | 4093.2 | 48.6 | 46737.0 |
+  | Orange +1 | 4699.6 | 55.8 | 53661.0 |
+  | Orange +2 | 5306.0 | 63.0 | 60585.0 |
+  | Orange +3 | 5912.4 | 70.2 | 67509.0 |
+  | Orange +4 | 6518.8 | 77.4 | 74433.0 |
+  | Orange +5 | 7428.4 | 88.2 | 84819.0 |
+  | Red | 8641.2 | 102.6 | 98667.0 |
 
- **Info1:** Reduce defense of all enemies on the battlefield. Able to break the enemy's line of defense effectively.
-
- **Info2:** Reduce defense of all enemies on the battlefield. Able to break the enemy's line of defense effectively.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 106.12 | 0.56 | 2.98 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 121.28 | 0.59 | 3.57 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
 ### 1 Skill: Fear

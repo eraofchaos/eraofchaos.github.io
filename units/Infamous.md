@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 13350.0
 
  **Base ATK:** 375.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 187.5 | 16.0 | 10012.5 |
+  | Blue | 375.0 | 32.0 | 20025.0 |
+  | Blue +1 | 562.5 | 48.0 | 30037.5 |
+  | Blue +2 | 787.5 | 67.2 | 42052.5 |
+  | Purple | 1012.5 | 86.4 | 54067.5 |
+  | Purple +1 | 1237.5 | 105.6 | 66082.5 |
+  | Purple +2 | 1500.0 | 128.0 | 80100.0 |
+  | Purple +3 | 1762.5 | 150.4 | 94117.5 |
+  | Orange | 2025.0 | 172.8 | 108135.0 |
+  | Orange +1 | 2325.0 | 198.4 | 124155.0 |
+  | Orange +2 | 2625.0 | 224.0 | 140175.0 |
+  | Orange +3 | 2925.0 | 249.6 | 156195.0 |
+  | Orange +4 | 3225.0 | 275.2 | 172215.0 |
+  | Orange +5 | 3675.0 | 313.6 | 196245.0 |
+  | Red | 4275.0 | 364.8 | 228285.0 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 52.5 | 0.33 | 8.04 | 1869.0 |
+  | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 8.86 | 2136.0 |
+  | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 9.68 | 2403.0 |
+  | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 10.5 | 2670.0 |
 
 ## Skills
 ### 1 Skill: The wrath of Toad Mountain

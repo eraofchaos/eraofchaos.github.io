@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
+
+## Basic stats
  **Base HP:** 9616.7
 
  **Base ATK:** 396.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 198.0 | 16.5 | 7212.525 |
+  | Blue | 396.0 | 33.0 | 14425.05 |
+  | Blue +1 | 594.0 | 49.5 | 21637.575 |
+  | Blue +2 | 831.6 | 69.3 | 30292.605 |
+  | Purple | 1069.2 | 89.1 | 38947.635 |
+  | Purple +1 | 1306.8 | 108.9 | 47602.665 |
+  | Purple +2 | 1584.0 | 132.0 | 57700.2 |
+  | Purple +3 | 1861.2 | 155.1 | 67797.735 |
+  | Orange | 2138.4 | 178.2 | 77895.27 |
+  | Orange +1 | 2455.2 | 204.6 | 89435.31 |
+  | Orange +2 | 2772.0 | 231.0 | 100975.35 |
+  | Orange +3 | 3088.8 | 257.4 | 112515.39 |
+  | Orange +4 | 3405.6 | 283.8 | 124055.43 |
+  | Orange +5 | 3880.8 | 323.4 | 141365.49 |
+  | Red | 4514.4 | 376.2 | 164445.57 |
 
- **Info1:** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
-
- **Info2:** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 55.44 | 0.44 | 8.26 | 1346.338 |
+  | **4x** <i class="fas fa-star"/> | 63.36 | 0.46 | 9.09 | 1538.672 |
+  | **5x** <i class="fas fa-star"/> | 71.28 | 0.48 | 9.92 | 1731.006 |
+  | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
 ## Skills
 ### 1 Skill: Pulse Vertigo

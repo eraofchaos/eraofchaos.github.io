@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** 
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 3162.0
 
  **Base ATK:** 134.5
 
- **Recommend:** 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 67.25 | 15.0 | 2371.5 |
+  | Blue | 134.5 | 30.0 | 4743.0 |
+  | Blue +1 | 201.75 | 45.0 | 7114.5 |
+  | Blue +2 | 282.45 | 63.0 | 9960.3 |
+  | Purple | 363.15 | 81.0 | 12806.1 |
+  | Purple +1 | 443.85 | 99.0 | 15651.9 |
+  | Purple +2 | 538.0 | 120.0 | 18972.0 |
+  | Purple +3 | 632.15 | 141.0 | 22292.1 |
+  | Orange | 726.3 | 162.0 | 25612.2 |
+  | Orange +1 | 833.9 | 186.0 | 29406.6 |
+  | Orange +2 | 941.5 | 210.0 | 33201.0 |
+  | Orange +3 | 1049.1 | 234.0 | 36995.4 |
+  | Orange +4 | 1156.7 | 258.0 | 40789.8 |
+  | Orange +5 | 1318.1 | 294.0 | 46481.4 |
+  | Red | 1533.3 | 342.0 | 54070.2 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 18.83 | 0.36 | 7.6 | 442.68 |
+  | **4x** <i class="fas fa-star"/> | 21.52 | 0.38 | 8.4 | 505.92 |
+  | **5x** <i class="fas fa-star"/> | 24.21 | 0.4 | 9.2 | 569.16 |
+  | **6x** <i class="fas fa-star"/> | 26.9 | 0.41 | 10.0 | 632.4 |
 
 ## Skills
 ### 1 Skill: Direct Punch

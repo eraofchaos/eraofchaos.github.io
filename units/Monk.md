@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Prayer: Heals the unit in your army with the lowest health.
 
+ **Recommend:** Warrior, Mage and Priest work well together.  
+
+ **Info:** Provides high morale, has a powerful healing ability.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Warrior, Mage and Priest work well together.  
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 51.3 | 4.25 | 496.5 |
+  | Blue | 102.6 | 8.5 | 993.0 |
+  | Blue +1 | 153.9 | 12.75 | 1489.5 |
+  | Blue +2 | 215.46 | 17.85 | 2085.3 |
+  | Purple | 277.02 | 22.95 | 2681.1 |
+  | Purple +1 | 338.58 | 28.05 | 3276.9 |
+  | Purple +2 | 410.4 | 34.0 | 3972.0 |
+  | Purple +3 | 482.22 | 39.95 | 4667.1 |
+  | Orange | 554.04 | 45.9 | 5362.2 |
+  | Orange +1 | 636.12 | 52.7 | 6156.6 |
+  | Orange +2 | 718.2 | 59.5 | 6951.0 |
+  | Orange +3 | 800.28 | 66.3 | 7745.4 |
+  | Orange +4 | 882.36 | 73.1 | 8539.8 |
+  | Orange +5 | 1005.48 | 83.3 | 9731.4 |
+  | Red | 1169.64 | 96.9 | 11320.2 |
 
- **Info1:** Provides high morale, has a powerful healing ability.
-
- **Info2:** Provides high morale, has a powerful healing ability.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 10.26 | 0.45 | 1.7 | 66.2 |
+  | **2x** <i class="fas fa-star"/> | 12.312 | 0.47 | 2.29 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.5 | 2.87 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.52 | 3.46 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.54 | 4.04 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
 ## Skills
 ### 1 Skill: Prayer

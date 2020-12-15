@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Scalding Strike: Deals colossal damage to enemy troops.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** A body shield with high dodge value. Restores health when dodging is successful. It can be enhanced by the Pit Fiend.
+
+## Basic stats
  **Base HP:** 2489.0
 
  **Base ATK:** 114.4
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 57.2 | 15.0 | 1866.75 |
+  | Blue | 114.4 | 30.0 | 3733.5 |
+  | Blue +1 | 171.6 | 45.0 | 5600.25 |
+  | Blue +2 | 240.24 | 63.0 | 7840.35 |
+  | Purple | 308.88 | 81.0 | 10080.45 |
+  | Purple +1 | 377.52 | 99.0 | 12320.55 |
+  | Purple +2 | 457.6 | 120.0 | 14934.0 |
+  | Purple +3 | 537.68 | 141.0 | 17547.45 |
+  | Orange | 617.76 | 162.0 | 20160.9 |
+  | Orange +1 | 709.28 | 186.0 | 23147.7 |
+  | Orange +2 | 800.8 | 210.0 | 26134.5 |
+  | Orange +3 | 892.32 | 234.0 | 29121.3 |
+  | Orange +4 | 983.84 | 258.0 | 32108.1 |
+  | Orange +5 | 1121.12 | 294.0 | 36588.3 |
+  | Red | 1304.16 | 342.0 | 42561.9 |
 
- **Info1:** A body shield with high dodge value. Restores health when dodging is successful. It can be enhanced by the Pit Fiend.
-
- **Info2:** A body shield with high dodge value. Restores health when dodging is successful. It can be enhanced by the Pit Fiend.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 13.728 | 0.34 | 6.8 | 298.68 |
+  | **3x** <i class="fas fa-star"/> | 16.016 | 0.35 | 7.6 | 348.46 |
+  | **4x** <i class="fas fa-star"/> | 18.304 | 0.37 | 8.4 | 398.24 |
+  | **5x** <i class="fas fa-star"/> | 20.592 | 0.38 | 9.2 | 448.02 |
+  | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
 ## Skills
 ### 1 Skill: Scalding Strike

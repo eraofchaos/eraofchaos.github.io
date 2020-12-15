@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
+
+## Basic stats
  **Base HP:** 6109.4
 
  **Base ATK:** 565.7
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 282.85 | 15.0 | 4582.05 |
+  | Blue | 565.7 | 30.0 | 9164.1 |
+  | Blue +1 | 848.55 | 45.0 | 13746.15 |
+  | Blue +2 | 1187.97 | 63.0 | 19244.61 |
+  | Purple | 1527.39 | 81.0 | 24743.07 |
+  | Purple +1 | 1866.81 | 99.0 | 30241.53 |
+  | Purple +2 | 2262.8 | 120.0 | 36656.4 |
+  | Purple +3 | 2658.79 | 141.0 | 43071.27 |
+  | Orange | 3054.78 | 162.0 | 49486.14 |
+  | Orange +1 | 3507.34 | 186.0 | 56817.42 |
+  | Orange +2 | 3959.9 | 210.0 | 64148.7 |
+  | Orange +3 | 4412.46 | 234.0 | 71479.98 |
+  | Orange +4 | 4865.02 | 258.0 | 78811.26 |
+  | Orange +5 | 5543.86 | 294.0 | 89808.18 |
+  | Red | 6448.98 | 342.0 | 104470.74 |
 
- **Info1:** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
-
- **Info2:** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 79.198 | 0.44 | 7.6 | 855.316 |
+  | **4x** <i class="fas fa-star"/> | 90.512 | 0.46 | 8.4 | 977.504 |
+  | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
+  | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
 ### 1 Skill: Ray of Judgment

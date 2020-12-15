@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Energy Gift: Converts ATK into healing
 
+ **Recommend:** Warrior, Mage and Priest work well together.  
+
+ **Info:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Warrior, Mage and Priest work well together.  
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 90.8 | 7.5 | 1261.5 |
+  | Blue | 181.6 | 15.0 | 2523.0 |
+  | Blue +1 | 272.4 | 22.5 | 3784.5 |
+  | Blue +2 | 381.36 | 31.5 | 5298.3 |
+  | Purple | 490.32 | 40.5 | 6812.1 |
+  | Purple +1 | 599.28 | 49.5 | 8325.9 |
+  | Purple +2 | 726.4 | 60.0 | 10092.0 |
+  | Purple +3 | 853.52 | 70.5 | 11858.1 |
+  | Orange | 980.64 | 81.0 | 13624.2 |
+  | Orange +1 | 1125.92 | 93.0 | 15642.6 |
+  | Orange +2 | 1271.2 | 105.0 | 17661.0 |
+  | Orange +3 | 1416.48 | 117.0 | 19679.4 |
+  | Orange +4 | 1561.76 | 129.0 | 21697.8 |
+  | Orange +5 | 1779.68 | 147.0 | 24725.4 |
+  | Red | 2070.24 | 171.0 | 28762.2 |
 
- **Info1:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
-
- **Info2:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 25.424 | 0.33 | 4.3 | 235.48 |
+  | **4x** <i class="fas fa-star"/> | 29.056 | 0.35 | 4.95 | 269.12 |
+  | **5x** <i class="fas fa-star"/> | 32.688 | 0.36 | 5.6 | 302.76 |
+  | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
 ## Skills
 ### 1 Skill: Spell Gift

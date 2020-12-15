@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Stable petrification control. The powerful damage increases as Crit Hit gets higher
+
+## Basic stats
  **Base HP:** 1144.0
 
  **Base ATK:** 202.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 101.0 | 4.5 | 858.0 |
+  | Blue | 202.0 | 9.0 | 1716.0 |
+  | Blue +1 | 303.0 | 13.5 | 2574.0 |
+  | Blue +2 | 424.2 | 18.9 | 3603.6 |
+  | Purple | 545.4 | 24.3 | 4633.2 |
+  | Purple +1 | 666.6 | 29.7 | 5662.8 |
+  | Purple +2 | 808.0 | 36.0 | 6864.0 |
+  | Purple +3 | 949.4 | 42.3 | 8065.2 |
+  | Orange | 1090.8 | 48.6 | 9266.4 |
+  | Orange +1 | 1252.4 | 55.8 | 10639.2 |
+  | Orange +2 | 1414.0 | 63.0 | 12012.0 |
+  | Orange +3 | 1575.6 | 70.2 | 13384.8 |
+  | Orange +4 | 1737.2 | 77.4 | 14757.6 |
+  | Orange +5 | 1979.6 | 88.2 | 16816.8 |
+  | Red | 2302.8 | 102.6 | 19562.4 |
 
- **Info1:** Stable petrification control. The powerful damage increases as Crit Hit gets higher
-
- **Info2:** Stable petrification control. The powerful damage increases as Crit Hit gets higher
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 28.28 | 0.67 | 2.98 | 160.16 |
+  | **4x** <i class="fas fa-star"/> | 32.32 | 0.7 | 3.57 | 183.04 |
+  | **5x** <i class="fas fa-star"/> | 36.36 | 0.73 | 4.16 | 205.92 |
+  | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
 ## Skills
 ### 1 Skill: Stone Gaze

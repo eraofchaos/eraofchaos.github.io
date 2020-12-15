@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Powerful DPS, good in all positions
+
+## Basic stats
  **Base HP:** 5317.0
 
  **Base ATK:** 678.8
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 339.4 | 10.5 | 3987.75 |
+  | Blue | 678.8 | 21.0 | 7975.5 |
+  | Blue +1 | 1018.2 | 31.5 | 11963.25 |
+  | Blue +2 | 1425.48 | 44.1 | 16748.55 |
+  | Purple | 1832.76 | 56.7 | 21533.85 |
+  | Purple +1 | 2240.04 | 69.3 | 26319.15 |
+  | Purple +2 | 2715.2 | 84.0 | 31902.0 |
+  | Purple +3 | 3190.36 | 98.7 | 37484.85 |
+  | Orange | 3665.52 | 113.4 | 43067.7 |
+  | Orange +1 | 4208.56 | 130.2 | 49448.1 |
+  | Orange +2 | 4751.6 | 147.0 | 55828.5 |
+  | Orange +3 | 5294.64 | 163.8 | 62208.9 |
+  | Orange +4 | 5837.68 | 180.6 | 68589.3 |
+  | Orange +5 | 6652.24 | 205.8 | 78159.9 |
+  | Red | 7738.32 | 239.4 | 90920.7 |
 
- **Info1:** Powerful DPS, good in all positions
-
- **Info2:** Powerful DPS, good in all positions
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 95.032 | 0.51 | 5.62 | 744.38 |
+  | **4x** <i class="fas fa-star"/> | 108.608 | 0.53 | 6.33 | 850.72 |
+  | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
+  | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
 ## Skills
 ### 1 Skill: null

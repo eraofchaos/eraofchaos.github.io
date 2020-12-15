@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** A tank that's proficient at control. Petrifies all surrounding units when it dies
+
+## Basic stats
  **Base HP:** 2859.0
 
  **Base ATK:** 121.1
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 60.55 | 14.0 | 2144.25 |
+  | Blue | 121.1 | 28.0 | 4288.5 |
+  | Blue +1 | 181.65 | 42.0 | 6432.75 |
+  | Blue +2 | 254.31 | 58.8 | 9005.85 |
+  | Purple | 326.97 | 75.6 | 11578.95 |
+  | Purple +1 | 399.63 | 92.4 | 14152.05 |
+  | Purple +2 | 484.4 | 112.0 | 17154.0 |
+  | Purple +3 | 569.17 | 131.6 | 20155.95 |
+  | Orange | 653.94 | 151.2 | 23157.9 |
+  | Orange +1 | 750.82 | 173.6 | 26588.7 |
+  | Orange +2 | 847.7 | 196.0 | 30019.5 |
+  | Orange +3 | 944.58 | 218.4 | 33450.3 |
+  | Orange +4 | 1041.46 | 240.8 | 36881.1 |
+  | Orange +5 | 1186.78 | 274.4 | 42027.3 |
+  | Red | 1380.54 | 319.2 | 48888.9 |
 
- **Info1:** A tank that's proficient at control. Petrifies all surrounding units when it dies
-
- **Info2:** A tank that's proficient at control. Petrifies all surrounding units when it dies
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 16.954 | 0.33 | 7.16 | 400.26 |
+  | **4x** <i class="fas fa-star"/> | 19.376 | 0.35 | 7.94 | 457.44 |
+  | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 8.72 | 514.62 |
+  | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
 ### 1 Skill: Petrifying Bite

@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Vitality Protection: Gives a life shield to the closest units in your army.
 
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info:** Shields the units around it and summons Pegasus to assist you.
+
+## Basic stats
  **Base HP:** 1144.0
 
  **Base ATK:** 195.1
 
- **Recommend:** Deals extra damage to any slowed enemies.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 97.55 | 5.0 | 858.0 |
+  | Blue | 195.1 | 10.0 | 1716.0 |
+  | Blue +1 | 292.65 | 15.0 | 2574.0 |
+  | Blue +2 | 409.71 | 21.0 | 3603.6 |
+  | Purple | 526.77 | 27.0 | 4633.2 |
+  | Purple +1 | 643.83 | 33.0 | 5662.8 |
+  | Purple +2 | 780.4 | 40.0 | 6864.0 |
+  | Purple +3 | 916.97 | 47.0 | 8065.2 |
+  | Orange | 1053.54 | 54.0 | 9266.4 |
+  | Orange +1 | 1209.62 | 62.0 | 10639.2 |
+  | Orange +2 | 1365.7 | 70.0 | 12012.0 |
+  | Orange +3 | 1521.78 | 78.0 | 13384.8 |
+  | Orange +4 | 1677.86 | 86.0 | 14757.6 |
+  | Orange +5 | 1911.98 | 98.0 | 16816.8 |
+  | Red | 2224.14 | 114.0 | 19562.4 |
 
- **Info1:** Shields the units around it and summons Pegasus to assist you.
-
- **Info2:** Shields the units around it and summons Pegasus to assist you.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 23.412 | 0.6 | 2.6 | 137.28 |
+  | **3x** <i class="fas fa-star"/> | 27.314 | 0.63 | 3.2 | 160.16 |
+  | **4x** <i class="fas fa-star"/> | 31.216 | 0.66 | 3.8 | 183.04 |
+  | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
+  | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
 ### 1 Skill: Forest Guardian

@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Supportive tank, the perfect combination of attack and defense. Bleeding increases allies' DPS
+
+## Basic stats
  **Base HP:** 2725.0
 
  **Base ATK:** 108.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 54.0 | 13.75 | 2043.75 |
+  | Blue | 108.0 | 27.5 | 4087.5 |
+  | Blue +1 | 162.0 | 41.25 | 6131.25 |
+  | Blue +2 | 226.8 | 57.75 | 8583.75 |
+  | Purple | 291.6 | 74.25 | 11036.25 |
+  | Purple +1 | 356.4 | 90.75 | 13488.75 |
+  | Purple +2 | 432.0 | 110.0 | 16350.0 |
+  | Purple +3 | 507.6 | 129.25 | 19211.25 |
+  | Orange | 583.2 | 148.5 | 22072.5 |
+  | Orange +1 | 669.6 | 170.5 | 25342.5 |
+  | Orange +2 | 756.0 | 192.5 | 28612.5 |
+  | Orange +3 | 842.4 | 214.5 | 31882.5 |
+  | Orange +4 | 928.8 | 236.5 | 35152.5 |
+  | Orange +5 | 1058.4 | 269.5 | 40057.5 |
+  | Red | 1231.2 | 313.5 | 46597.5 |
 
- **Info1:** Supportive tank, the perfect combination of attack and defense. Bleeding increases allies' DPS
-
- **Info2:** Supportive tank, the perfect combination of attack and defense. Bleeding increases allies' DPS
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.96 | 0.35 | 6.28 | 327.0 |
+  | **3x** <i class="fas fa-star"/> | 15.12 | 0.36 | 7.05 | 381.5 |
+  | **4x** <i class="fas fa-star"/> | 17.28 | 0.38 | 7.83 | 436.0 |
+  | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
+  | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
 ### 1 Skill: Whirlwind

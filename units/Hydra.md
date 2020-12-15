@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** 
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Top-notch DPS unit. Destroys enemies with uninterrupted attacks
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 769.3
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 384.65 | 6.5 | 4327.5 |
+  | Blue | 769.3 | 13.0 | 8655.0 |
+  | Blue +1 | 1153.95 | 19.5 | 12982.5 |
+  | Blue +2 | 1615.53 | 27.3 | 18175.5 |
+  | Purple | 2077.11 | 35.1 | 23368.5 |
+  | Purple +1 | 2538.69 | 42.9 | 28561.5 |
+  | Purple +2 | 3077.2 | 52.0 | 34620.0 |
+  | Purple +3 | 3615.71 | 61.1 | 40678.5 |
+  | Orange | 4154.22 | 70.2 | 46737.0 |
+  | Orange +1 | 4769.66 | 80.6 | 53661.0 |
+  | Orange +2 | 5385.1 | 91.0 | 60585.0 |
+  | Orange +3 | 6000.54 | 101.4 | 67509.0 |
+  | Orange +4 | 6615.98 | 111.8 | 74433.0 |
+  | Orange +5 | 7539.14 | 127.4 | 84819.0 |
+  | Red | 8770.02 | 148.2 | 98667.0 |
 
- **Info1:** Top-notch DPS unit. Destroys enemies with uninterrupted attacks
-
- **Info2:** Top-notch DPS unit. Destroys enemies with uninterrupted attacks
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 107.702 | 0.53 | 3.86 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 4.49 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
 ## Skills
 ### 1 Skill: Chaos Mist

@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
+
+## Basic stats
  **Base HP:** 2691.0
 
  **Base ATK:** 111.0
 
- **Recommend:** Deals extra damage to any slowed enemies.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 55.5 | 11.75 | 2018.25 |
+  | Blue | 111.0 | 23.5 | 4036.5 |
+  | Blue +1 | 166.5 | 35.25 | 6054.75 |
+  | Blue +2 | 233.1 | 49.35 | 8476.65 |
+  | Purple | 299.7 | 63.45 | 10898.55 |
+  | Purple +1 | 366.3 | 77.55 | 13320.45 |
+  | Purple +2 | 444.0 | 94.0 | 16146.0 |
+  | Purple +3 | 521.7 | 110.45 | 18971.55 |
+  | Orange | 599.4 | 126.9 | 21797.1 |
+  | Orange +1 | 688.2 | 145.7 | 25026.3 |
+  | Orange +2 | 777.0 | 164.5 | 28255.5 |
+  | Orange +3 | 865.8 | 183.3 | 31484.7 |
+  | Orange +4 | 954.6 | 202.1 | 34713.9 |
+  | Orange +5 | 1087.8 | 230.3 | 39557.7 |
+  | Red | 1265.4 | 267.9 | 46016.1 |
 
- **Info1:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
-
- **Info2:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 11.1 | 0.3 | 4.7 | 269.1 |
+  | **2x** <i class="fas fa-star"/> | 13.32 | 0.32 | 5.44 | 322.92 |
+  | **3x** <i class="fas fa-star"/> | 15.54 | 0.33 | 6.17 | 376.74 |
+  | **4x** <i class="fas fa-star"/> | 17.76 | 0.35 | 6.91 | 430.56 |
+  | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
+  | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
 ## Skills
 ### 1 Skill: Battle Stomp

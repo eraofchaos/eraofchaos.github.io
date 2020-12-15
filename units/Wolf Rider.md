@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Summons a beast companion. The lower its health, the higher its attack is.
+
+## Basic stats
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 36.4 | 5.5 | 645.0 |
+  | Blue | 72.8 | 11.0 | 1290.0 |
+  | Blue +1 | 109.2 | 16.5 | 1935.0 |
+  | Blue +2 | 152.88 | 23.1 | 2709.0 |
+  | Purple | 196.56 | 29.7 | 3483.0 |
+  | Purple +1 | 240.24 | 36.3 | 4257.0 |
+  | Purple +2 | 291.2 | 44.0 | 5160.0 |
+  | Purple +3 | 342.16 | 51.7 | 6063.0 |
+  | Orange | 393.12 | 59.4 | 6966.0 |
+  | Orange +1 | 451.36 | 68.2 | 7998.0 |
+  | Orange +2 | 509.6 | 77.0 | 9030.0 |
+  | Orange +3 | 567.84 | 85.8 | 10062.0 |
+  | Orange +4 | 626.08 | 94.6 | 11094.0 |
+  | Orange +5 | 713.44 | 107.8 | 12642.0 |
+  | Red | 829.92 | 125.4 | 14706.0 |
 
- **Info1:** Summons a beast companion. The lower its health, the higher its attack is.
-
- **Info2:** Summons a beast companion. The lower its health, the higher its attack is.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 7.28 | 0.48 | 2.2 | 86.0 |
+  | **2x** <i class="fas fa-star"/> | 8.736 | 0.5 | 2.81 | 103.2 |
+  | **3x** <i class="fas fa-star"/> | 10.192 | 0.53 | 3.42 | 120.4 |
+  | **4x** <i class="fas fa-star"/> | 11.648 | 0.55 | 4.03 | 137.6 |
+  | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
+  | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
 ### 1 Skill: Beast Companion

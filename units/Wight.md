@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 107.5
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 53.75 | 4.5 | 496.5 |
+  | Blue | 107.5 | 9.0 | 993.0 |
+  | Blue +1 | 161.25 | 13.5 | 1489.5 |
+  | Blue +2 | 225.75 | 18.9 | 2085.3 |
+  | Purple | 290.25 | 24.3 | 2681.1 |
+  | Purple +1 | 354.75 | 29.7 | 3276.9 |
+  | Purple +2 | 430.0 | 36.0 | 3972.0 |
+  | Purple +3 | 505.25 | 42.3 | 4667.1 |
+  | Orange | 580.5 | 48.6 | 5362.2 |
+  | Orange +1 | 666.5 | 55.8 | 6156.6 |
+  | Orange +2 | 752.5 | 63.0 | 6951.0 |
+  | Orange +3 | 838.5 | 70.2 | 7745.4 |
+  | Orange +4 | 924.5 | 77.4 | 8539.8 |
+  | Orange +5 | 1053.5 | 88.2 | 9731.4 |
+  | Red | 1225.5 | 102.6 | 11320.2 |
 
- **Info1:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
-
- **Info2:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.9 | 0.45 | 2.39 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 15.05 | 0.47 | 2.98 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 17.2 | 0.49 | 3.57 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 19.35 | 0.52 | 4.16 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
 ### 1 Skill: Horrific Shrieking

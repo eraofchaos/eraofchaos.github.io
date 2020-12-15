@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Spear Array: AoE damage and stunning
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Defense and offensive. Deals extra damage to bleeding units
+
+## Basic stats
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 43.0 | 4.25 | 558.0 |
+  | Blue | 86.0 | 8.5 | 1116.0 |
+  | Blue +1 | 129.0 | 12.75 | 1674.0 |
+  | Blue +2 | 180.6 | 17.85 | 2343.6 |
+  | Purple | 232.2 | 22.95 | 3013.2 |
+  | Purple +1 | 283.8 | 28.05 | 3682.8 |
+  | Purple +2 | 344.0 | 34.0 | 4464.0 |
+  | Purple +3 | 404.2 | 39.95 | 5245.2 |
+  | Orange | 464.4 | 45.9 | 6026.4 |
+  | Orange +1 | 533.2 | 52.7 | 6919.2 |
+  | Orange +2 | 602.0 | 59.5 | 7812.0 |
+  | Orange +3 | 670.8 | 66.3 | 8704.8 |
+  | Orange +4 | 739.6 | 73.1 | 9597.6 |
+  | Orange +5 | 842.8 | 83.3 | 10936.8 |
+  | Red | 980.4 | 96.9 | 12722.4 |
 
- **Info1:** Defense and offensive. Deals extra damage to bleeding units
-
- **Info2:** Defense and offensive. Deals extra damage to bleeding units
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 8.6 | 0.49 | 1.7 | 74.4 |
+  | **2x** <i class="fas fa-star"/> | 10.32 | 0.51 | 2.29 | 89.28 |
+  | **3x** <i class="fas fa-star"/> | 12.04 | 0.54 | 2.87 | 104.16 |
+  | **4x** <i class="fas fa-star"/> | 13.76 | 0.56 | 3.46 | 119.04 |
+  | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
+  | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
 ### 1 Skill: Spear Array

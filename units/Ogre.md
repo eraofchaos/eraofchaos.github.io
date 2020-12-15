@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Blood Pool: Improves the life drain of your nearby units.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** A powerful body shield, improving all of your melee troops' performance.
+
+## Basic stats
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 53.8 | 15.0 | 1892.25 |
+  | Blue | 107.6 | 30.0 | 3784.5 |
+  | Blue +1 | 161.4 | 45.0 | 5676.75 |
+  | Blue +2 | 225.96 | 63.0 | 7947.45 |
+  | Purple | 290.52 | 81.0 | 10218.15 |
+  | Purple +1 | 355.08 | 99.0 | 12488.85 |
+  | Purple +2 | 430.4 | 120.0 | 15138.0 |
+  | Purple +3 | 505.72 | 141.0 | 17787.15 |
+  | Orange | 581.04 | 162.0 | 20436.3 |
+  | Orange +1 | 667.12 | 186.0 | 23463.9 |
+  | Orange +2 | 753.2 | 210.0 | 26491.5 |
+  | Orange +3 | 839.28 | 234.0 | 29519.1 |
+  | Orange +4 | 925.36 | 258.0 | 32546.7 |
+  | Orange +5 | 1054.48 | 294.0 | 37088.1 |
+  | Red | 1226.64 | 342.0 | 43143.3 |
 
- **Info1:** A powerful body shield, improving all of your melee troops' performance.
-
- **Info2:** A powerful body shield, improving all of your melee troops' performance.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 12.912 | 0.36 | 6.8 | 302.76 |
+  | **3x** <i class="fas fa-star"/> | 15.064 | 0.37 | 7.6 | 353.22 |
+  | **4x** <i class="fas fa-star"/> | 17.216 | 0.39 | 8.4 | 403.68 |
+  | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
+  | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
 ### 1 Skill: Blood Pool

@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Crushing shield stuns enemies. Death of a unit inspires allies.
+
+## Basic stats
  **Base HP:** 2825.0
 
  **Base ATK:** 216.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 108.0 | 12.5 | 2118.75 |
+  | Blue | 216.0 | 25.0 | 4237.5 |
+  | Blue +1 | 324.0 | 37.5 | 6356.25 |
+  | Blue +2 | 453.6 | 52.5 | 8898.75 |
+  | Purple | 583.2 | 67.5 | 11441.25 |
+  | Purple +1 | 712.8 | 82.5 | 13983.75 |
+  | Purple +2 | 864.0 | 100.0 | 16950.0 |
+  | Purple +3 | 1015.2 | 117.5 | 19916.25 |
+  | Orange | 1166.4 | 135.0 | 22882.5 |
+  | Orange +1 | 1339.2 | 155.0 | 26272.5 |
+  | Orange +2 | 1512.0 | 175.0 | 29662.5 |
+  | Orange +3 | 1684.8 | 195.0 | 33052.5 |
+  | Orange +4 | 1857.6 | 215.0 | 36442.5 |
+  | Orange +5 | 2116.8 | 245.0 | 41527.5 |
+  | Red | 2462.4 | 285.0 | 48307.5 |
 
- **Info1:** Crushing shield stuns enemies. Death of a unit inspires allies.
-
- **Info2:** Crushing shield stuns enemies. Death of a unit inspires allies.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 30.24 | 0.33 | 6.5 | 395.5 |
+  | **4x** <i class="fas fa-star"/> | 34.56 | 0.35 | 7.25 | 452.0 |
+  | **5x** <i class="fas fa-star"/> | 38.88 | 0.36 | 8.0 | 508.5 |
+  | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
 ### 1 Skill: null

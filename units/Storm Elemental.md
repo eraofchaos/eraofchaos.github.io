@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Static Marker, Extra damage, Multiple attacks on a single target
+
+## Basic stats
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 49.6 | 3.0 | 496.5 |
+  | Blue | 99.2 | 6.0 | 993.0 |
+  | Blue +1 | 148.8 | 9.0 | 1489.5 |
+  | Blue +2 | 208.32 | 12.6 | 2085.3 |
+  | Purple | 267.84 | 16.2 | 2681.1 |
+  | Purple +1 | 327.36 | 19.8 | 3276.9 |
+  | Purple +2 | 396.8 | 24.0 | 3972.0 |
+  | Purple +3 | 466.24 | 28.2 | 4667.1 |
+  | Orange | 535.68 | 32.4 | 5362.2 |
+  | Orange +1 | 615.04 | 37.2 | 6156.6 |
+  | Orange +2 | 694.4 | 42.0 | 6951.0 |
+  | Orange +3 | 773.76 | 46.8 | 7745.4 |
+  | Orange +4 | 853.12 | 51.6 | 8539.8 |
+  | Orange +5 | 972.16 | 58.8 | 9731.4 |
+  | Red | 1130.88 | 68.4 | 11320.2 |
 
- **Info1:** Static Marker, Extra damage, Multiple attacks on a single target
-
- **Info2:** Static Marker, Extra damage, Multiple attacks on a single target
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.904 | 0.59 | 1.76 | 79.44 |
+  | **3x** <i class="fas fa-star"/> | 13.888 | 0.62 | 2.32 | 92.68 |
+  | **4x** <i class="fas fa-star"/> | 15.872 | 0.64 | 2.88 | 105.92 |
+  | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
+  | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
 ### 1 Skill: Static Marker

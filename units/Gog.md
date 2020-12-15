@@ -25,15 +25,41 @@ toc: true
 
  **Unit description:** Fire Wall: Deals damage to enemy troops in its path.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** Deals a high area of magical damage made more powerful with fire.
+
+## Basic stats
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 51.3 | 3.75 | 471.75 |
+  | Blue | 102.6 | 7.5 | 943.5 |
+  | Blue +1 | 153.9 | 11.25 | 1415.25 |
+  | Blue +2 | 215.46 | 15.75 | 1981.35 |
+  | Purple | 277.02 | 20.25 | 2547.45 |
+  | Purple +1 | 338.58 | 24.75 | 3113.55 |
+  | Purple +2 | 410.4 | 30.0 | 3774.0 |
+  | Purple +3 | 482.22 | 35.25 | 4434.45 |
+  | Orange | 554.04 | 40.5 | 5094.9 |
+  | Orange +1 | 636.12 | 46.5 | 5849.7 |
+  | Orange +2 | 718.2 | 52.5 | 6604.5 |
+  | Orange +3 | 800.28 | 58.5 | 7359.3 |
+  | Orange +4 | 882.36 | 64.5 | 8114.1 |
+  | Orange +5 | 1005.48 | 73.5 | 9246.3 |
+  | Red | 1169.64 | 85.5 | 10755.9 |
 
- **Info1:** Deals a high area of magical damage made more powerful with fire.
-
- **Info2:** Deals a high area of magical damage made more powerful with fire.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **1x** <i class="fas fa-star"/> | 10.26 | 0.42 | 1.5 | 62.9 |
+  | **2x** <i class="fas fa-star"/> | 12.312 | 0.44 | 2.08 | 75.48 |
+  | **3x** <i class="fas fa-star"/> | 14.364 | 0.46 | 2.65 | 88.06 |
+  | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 100.64 |
+  | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
+  | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
 ### 1 Skill: Fire Wall

@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+ **Info:** Deal colossal burst damage, double strike. Most effective against small units.
+
+## Basic stats
  **Base HP:** 438.4
 
  **Base ATK:** 92.4
 
- **Recommend:** Deals extra damage to any slowed enemies.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 46.2 | 6.25 | 328.8 |
+  | Blue | 92.4 | 12.5 | 657.6 |
+  | Blue +1 | 138.6 | 18.75 | 986.4 |
+  | Blue +2 | 194.04 | 26.25 | 1380.96 |
+  | Purple | 249.48 | 33.75 | 1775.52 |
+  | Purple +1 | 304.92 | 41.25 | 2170.08 |
+  | Purple +2 | 369.6 | 50.0 | 2630.4 |
+  | Purple +3 | 434.28 | 58.75 | 3090.72 |
+  | Orange | 498.96 | 67.5 | 3551.04 |
+  | Orange +1 | 572.88 | 77.5 | 4077.12 |
+  | Orange +2 | 646.8 | 87.5 | 4603.2 |
+  | Orange +3 | 720.72 | 97.5 | 5129.28 |
+  | Orange +4 | 794.64 | 107.5 | 5655.36 |
+  | Orange +5 | 905.52 | 122.5 | 6444.48 |
+  | Red | 1053.36 | 142.5 | 7496.64 |
 
- **Info1:** Deal colossal burst damage, double strike. Most effective against small units.
-
- **Info2:** Deal colossal burst damage, double strike. Most effective against small units.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 11.088 | 0.68 | 3.13 | 52.608 |
+  | **3x** <i class="fas fa-star"/> | 12.936 | 0.72 | 3.75 | 61.376 |
+  | **4x** <i class="fas fa-star"/> | 14.784 | 0.75 | 4.38 | 70.144 |
+  | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
+  | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
 ## Skills
 ### 1 Skill: null

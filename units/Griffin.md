@@ -25,15 +25,40 @@ toc: true
 
  **Unit description:** Dive: Deals damage to 3 opponent units when attacking.
 
+ **Recommend:** Increasing your movement speed makes your armies much more effective.
+
+ **Info:** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
+
+## Basic stats
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
 
- **Recommend:** Increasing your movement speed makes your armies much more effective.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 75.7 | 6.25 | 1387.5 |
+  | Blue | 151.4 | 12.5 | 2775.0 |
+  | Blue +1 | 227.1 | 18.75 | 4162.5 |
+  | Blue +2 | 317.94 | 26.25 | 5827.5 |
+  | Purple | 408.78 | 33.75 | 7492.5 |
+  | Purple +1 | 499.62 | 41.25 | 9157.5 |
+  | Purple +2 | 605.6 | 50.0 | 11100.0 |
+  | Purple +3 | 711.58 | 58.75 | 13042.5 |
+  | Orange | 817.56 | 67.5 | 14985.0 |
+  | Orange +1 | 938.68 | 77.5 | 17205.0 |
+  | Orange +2 | 1059.8 | 87.5 | 19425.0 |
+  | Orange +3 | 1180.92 | 97.5 | 21645.0 |
+  | Orange +4 | 1302.04 | 107.5 | 23865.0 |
+  | Orange +5 | 1483.72 | 122.5 | 27195.0 |
+  | Red | 1725.96 | 142.5 | 31635.0 |
 
- **Info1:** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
-
- **Info2:** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.5 | 3.13 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.53 | 3.75 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.55 | 4.38 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
 ### 1 Skill: Diving Counterattack

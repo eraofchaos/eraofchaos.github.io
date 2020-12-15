@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Decaying Curse: Greatly decreased enemies' healing
 
+ **Recommend:** null
+
+ **Info:** Disease carrier. Decreases healing of all hostile units
+
+## Basic stats
  **Base HP:** 2691.0
 
  **Base ATK:** 141.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 70.5 | 12.5 | 2018.25 |
+  | Blue | 141.0 | 25.0 | 4036.5 |
+  | Blue +1 | 211.5 | 37.5 | 6054.75 |
+  | Blue +2 | 296.1 | 52.5 | 8476.65 |
+  | Purple | 380.7 | 67.5 | 10898.55 |
+  | Purple +1 | 465.3 | 82.5 | 13320.45 |
+  | Purple +2 | 564.0 | 100.0 | 16146.0 |
+  | Purple +3 | 662.7 | 117.5 | 18971.55 |
+  | Orange | 761.4 | 135.0 | 21797.1 |
+  | Orange +1 | 874.2 | 155.0 | 25026.3 |
+  | Orange +2 | 987.0 | 175.0 | 28255.5 |
+  | Orange +3 | 1099.8 | 195.0 | 31484.7 |
+  | Orange +4 | 1212.6 | 215.0 | 34713.9 |
+  | Orange +5 | 1381.8 | 245.0 | 39557.7 |
+  | Red | 1607.4 | 285.0 | 46016.1 |
 
- **Info1:** Disease carrier. Decreases healing of all hostile units
-
- **Info2:** Disease carrier. Decreases healing of all hostile units
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 19.74 | 0.33 | 6.5 | 376.74 |
+  | **4x** <i class="fas fa-star"/> | 22.56 | 0.35 | 7.25 | 430.56 |
+  | **5x** <i class="fas fa-star"/> | 25.38 | 0.36 | 8.0 | 484.38 |
+  | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
 ## Skills
 ### 1 Skill: Decaying Curse

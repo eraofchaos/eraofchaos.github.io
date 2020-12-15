@@ -28,15 +28,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** 
+
+## Basic stats
  **Base HP:** 5770.0
 
  **Base ATK:** 633.6
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 316.8 | 12.0 | 4327.5 |
+  | Blue | 633.6 | 24.0 | 8655.0 |
+  | Blue +1 | 950.4 | 36.0 | 12982.5 |
+  | Blue +2 | 1330.56 | 50.4 | 18175.5 |
+  | Purple | 1710.72 | 64.8 | 23368.5 |
+  | Purple +1 | 2090.88 | 79.2 | 28561.5 |
+  | Purple +2 | 2534.4 | 96.0 | 34620.0 |
+  | Purple +3 | 2977.92 | 112.8 | 40678.5 |
+  | Orange | 3421.44 | 129.6 | 46737.0 |
+  | Orange +1 | 3928.32 | 148.8 | 53661.0 |
+  | Orange +2 | 4435.2 | 168.0 | 60585.0 |
+  | Orange +3 | 4942.08 | 187.2 | 67509.0 |
+  | Orange +4 | 5448.96 | 206.4 | 74433.0 |
+  | Orange +5 | 6209.28 | 235.2 | 84819.0 |
+  | Red | 7223.04 | 273.6 | 98667.0 |
 
- **Info1:** 
-
- **Info2:** 
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
+  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
+  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
+  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
 
 ## Skills
 ### 1 Skill:  Soul Burst

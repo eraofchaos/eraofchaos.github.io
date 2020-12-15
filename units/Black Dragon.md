@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** The occupier of the top of the hierarchy. No spells can hurt him
+
+## Basic stats
  **Base HP:** 8712.0
 
  **Base ATK:** 430.0
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 215.0 | 14.5 | 6534.0 |
+  | Blue | 430.0 | 29.0 | 13068.0 |
+  | Blue +1 | 645.0 | 43.5 | 19602.0 |
+  | Blue +2 | 903.0 | 60.9 | 27442.8 |
+  | Purple | 1161.0 | 78.3 | 35283.6 |
+  | Purple +1 | 1419.0 | 95.7 | 43124.4 |
+  | Purple +2 | 1720.0 | 116.0 | 52272.0 |
+  | Purple +3 | 2021.0 | 136.3 | 61419.6 |
+  | Orange | 2322.0 | 156.6 | 70567.2 |
+  | Orange +1 | 2666.0 | 179.8 | 81021.6 |
+  | Orange +2 | 3010.0 | 203.0 | 91476.0 |
+  | Orange +3 | 3354.0 | 226.2 | 101930.4 |
+  | Orange +4 | 3698.0 | 249.4 | 112384.8 |
+  | Orange +5 | 4214.0 | 284.2 | 128066.4 |
+  | Red | 4902.0 | 330.6 | 148975.2 |
 
- **Info1:** The occupier of the top of the hierarchy. No spells can hurt him
-
- **Info2:** The occupier of the top of the hierarchy. No spells can hurt him
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 60.2 | 0.41 | 7.38 | 1219.68 |
+  | **4x** <i class="fas fa-star"/> | 68.8 | 0.43 | 8.17 | 1393.92 |
+  | **5x** <i class="fas fa-star"/> | 77.4 | 0.44 | 8.96 | 1568.16 |
+  | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
 ## Skills
 ### 1 Skill: Dragon Breath

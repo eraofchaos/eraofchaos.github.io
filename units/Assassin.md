@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** null
 
+ **Recommend:** null
+
+ **Info:** Assassination damage, weakens healing, throws knives, and silences enemies.
+
+## Basic stats
  **Base HP:** 2119.0
 
  **Base ATK:** 269.0
 
- **Recommend:** null
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 134.5 | 7.5 | 1589.25 |
+  | Blue | 269.0 | 15.0 | 3178.5 |
+  | Blue +1 | 403.5 | 22.5 | 4767.75 |
+  | Blue +2 | 564.9 | 31.5 | 6674.85 |
+  | Purple | 726.3 | 40.5 | 8581.95 |
+  | Purple +1 | 887.7 | 49.5 | 10489.05 |
+  | Purple +2 | 1076.0 | 60.0 | 12714.0 |
+  | Purple +3 | 1264.3 | 70.5 | 14938.95 |
+  | Orange | 1452.6 | 81.0 | 17163.9 |
+  | Orange +1 | 1667.8 | 93.0 | 19706.7 |
+  | Orange +2 | 1883.0 | 105.0 | 22249.5 |
+  | Orange +3 | 2098.2 | 117.0 | 24792.3 |
+  | Orange +4 | 2313.4 | 129.0 | 27335.1 |
+  | Orange +5 | 2636.2 | 147.0 | 31149.3 |
+  | Red | 3066.6 | 171.0 | 36234.9 |
 
- **Info1:** Assassination damage, weakens healing, throws knives, and silences enemies.
-
- **Info2:** Assassination damage, weakens healing, throws knives, and silences enemies.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 37.66 | 0.33 | 4.3 | 296.66 |
+  | **4x** <i class="fas fa-star"/> | 43.04 | 0.35 | 4.95 | 339.04 |
+  | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
+  | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
 ### 1 Skill: Assassination

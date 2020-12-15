@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+ **Info:** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
+
+## Basic stats
  **Base HP:** 10182.0
 
  **Base ATK:** 407.3
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 203.65 | 15.0 | 7636.5 |
+  | Blue | 407.3 | 30.0 | 15273.0 |
+  | Blue +1 | 610.95 | 45.0 | 22909.5 |
+  | Blue +2 | 855.33 | 63.0 | 32073.3 |
+  | Purple | 1099.71 | 81.0 | 41237.1 |
+  | Purple +1 | 1344.09 | 99.0 | 50400.9 |
+  | Purple +2 | 1629.2 | 120.0 | 61092.0 |
+  | Purple +3 | 1914.31 | 141.0 | 71783.1 |
+  | Orange | 2199.42 | 162.0 | 82474.2 |
+  | Orange +1 | 2525.26 | 186.0 | 94692.6 |
+  | Orange +2 | 2851.1 | 210.0 | 106911.0 |
+  | Orange +3 | 3176.94 | 234.0 | 119129.4 |
+  | Orange +4 | 3502.78 | 258.0 | 131347.8 |
+  | Orange +5 | 3991.54 | 294.0 | 149675.4 |
+  | Red | 4643.22 | 342.0 | 174112.2 |
 
- **Info1:** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
-
- **Info2:** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 57.022 | 0.35 | 7.6 | 1425.48 |
+  | **4x** <i class="fas fa-star"/> | 65.168 | 0.37 | 8.4 | 1629.12 |
+  | **5x** <i class="fas fa-star"/> | 73.314 | 0.38 | 9.2 | 1832.76 |
+  | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
 ### 1 Skill: Wild Roar

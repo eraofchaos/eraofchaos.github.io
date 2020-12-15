@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units.
+
+ **Info:** Summon a Sanctuary Retinue to boost morale within a large range.
+
+## Basic stats
  **Base HP:** 2589.0
 
  **Base ATK:** 128.0
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units.
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 64.0 | 13.5 | 1941.75 |
+  | Blue | 128.0 | 27.0 | 3883.5 |
+  | Blue +1 | 192.0 | 40.5 | 5825.25 |
+  | Blue +2 | 268.8 | 56.7 | 8155.35 |
+  | Purple | 345.6 | 72.9 | 10485.45 |
+  | Purple +1 | 422.4 | 89.1 | 12815.55 |
+  | Purple +2 | 512.0 | 108.0 | 15534.0 |
+  | Purple +3 | 601.6 | 126.9 | 18252.45 |
+  | Orange | 691.2 | 145.8 | 20970.9 |
+  | Orange +1 | 793.6 | 167.4 | 24077.7 |
+  | Orange +2 | 896.0 | 189.0 | 27184.5 |
+  | Orange +3 | 998.4 | 210.6 | 30291.3 |
+  | Orange +4 | 1100.8 | 232.2 | 33398.1 |
+  | Orange +5 | 1254.4 | 264.6 | 38058.3 |
+  | Red | 1459.2 | 307.8 | 44271.9 |
 
- **Info1:** Summon a Sanctuary Retinue to boost morale within a large range.
-
- **Info2:** Summon a Sanctuary Retinue to boost morale within a large range.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 17.92 | 0.37 | 6.94 | 362.46 |
+  | **4x** <i class="fas fa-star"/> | 20.48 | 0.39 | 7.71 | 414.24 |
+  | **5x** <i class="fas fa-star"/> | 23.04 | 0.41 | 8.48 | 466.02 |
+  | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
 ## Skills
 ### 1 Skill: null

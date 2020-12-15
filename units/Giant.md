@@ -25,15 +25,39 @@ toc: true
 
  **Unit description:** God of War: Ignores range and deals HP percentage damage
 
+ **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+
+ **Info:** Can deal magical damage to all enemies. Heroes' spells increase its attack.
+
+## Basic stats
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Green | 396.0 | 4.0 | 4921.5 |
+  | Blue | 792.0 | 8.0 | 9843.0 |
+  | Blue +1 | 1188.0 | 12.0 | 14764.5 |
+  | Blue +2 | 1663.2 | 16.8 | 20670.3 |
+  | Purple | 2138.4 | 21.6 | 26576.1 |
+  | Purple +1 | 2613.6 | 26.4 | 32481.9 |
+  | Purple +2 | 3168.0 | 32.0 | 39372.0 |
+  | Purple +3 | 3722.4 | 37.6 | 46262.1 |
+  | Orange | 4276.8 | 43.2 | 53152.2 |
+  | Orange +1 | 4910.4 | 49.6 | 61026.6 |
+  | Orange +2 | 5544.0 | 56.0 | 68901.0 |
+  | Orange +3 | 6177.6 | 62.4 | 76775.4 |
+  | Orange +4 | 6811.2 | 68.8 | 84649.8 |
+  | Orange +5 | 7761.6 | 78.4 | 96461.4 |
+  | Red | 9028.8 | 91.2 | 112210.2 |
 
- **Info1:** Can deal magical damage to all enemies. Heroes' spells increase its attack.
-
- **Info2:** Can deal magical damage to all enemies. Heroes' spells increase its attack.
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **3x** <i class="fas fa-star"/> | 110.88 | 0.44 | 2.76 | 918.68 |
+  | **4x** <i class="fas fa-star"/> | 126.72 | 0.46 | 3.34 | 1049.92 |
+  | **5x** <i class="fas fa-star"/> | 142.56 | 0.48 | 3.92 | 1181.16 |
+  | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
 
 ## Skills
 ### 1 Skill: null
