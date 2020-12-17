@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Units Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Cavalier"
 toc: true

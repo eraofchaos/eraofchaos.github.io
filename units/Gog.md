@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Units Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Gog"
 toc: true

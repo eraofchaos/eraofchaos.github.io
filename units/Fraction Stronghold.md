@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Stronghold -  Units"
 permalink: /units/Fraction Stronghold/
 excerpt: "Fraction Stronghold - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Fraction Stronghold"
 toc: false
