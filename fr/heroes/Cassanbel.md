@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /fr/heroes/Cassanbel/
 excerpt: "Bien qu'elle ait perdu son \"père\" à cause des humains, elle continue d'aider ceux qui vivent sur l'eau."
 heroID: 61701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: fr
 ref: "Cassanbel"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Crique
 
- **Rate:** ?
+ **Rate:** SSR
 
  **Specialty:** Chant de l'océan
 

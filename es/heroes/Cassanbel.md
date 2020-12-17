@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /es/heroes/Cassanbel/
 excerpt: "Aunque perdió a su «padre» por culpa de los humanos, sigue ayudando a quienes viven en el mar."
 heroID: 61701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: es
 ref: "Cassanbel"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Cala
 
- **Rate:** ?
+ **Rate:** SSR
 
  **Specialty:** Canción del Océano
 

@@ -3,7 +3,7 @@ title: "Unknown_TEAM_9902"
 permalink: /ru/units/Regnan Archer/
 excerpt: "Отряды Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Unknown_TEAM_9902"
 toc: true
@@ -99,7 +99,7 @@ toc: true
 
  2. null
 
- 3. 
+ 3. null
 
  4. 
 

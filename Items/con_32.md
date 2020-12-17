@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Kassandra Pack"
+title: "Item - Consumables -  Orange +2 Material Chest"
 permalink: /Items/con_32/
-excerpt: " Kassandra Pack"
-last_modified_at: 2020-12-13
+excerpt: " Orange +2 Material Chest"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_32.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 680 Diamonds, 30 Kassandra Tokens, and 100 Spell Scrolls.
+ **Description:** Receive a random orange +2 equipment-upgrading item.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -25,10 +25,13 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 3 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **30x** | Kassandra | Collect 30 tokens to summon Kassandra to join your party. Tokens are also required to increase her rank.  | 
-  | 3 |  **100x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 
+  | 1 |  **1x** | Secret Ore | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 2 |  **1x** | Secret Wood | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 3 |  **1x** | Secret Mercury | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 4 |  **1x** | Secret Sulfur | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 5 |  **1x** | Secret Gems | Common materials to upgrade equipment from orange +2 to orange +3.  | 
+  | 6 |  **1x** | Secret Crystal | Common materials to upgrade equipment from orange +2 to orange +3.  | 

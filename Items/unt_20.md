@@ -2,7 +2,7 @@
 title: "Item - Units -  Mage"
 permalink: /Items/unt_20/
 excerpt: " Mage"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_20.md"
 toc: false

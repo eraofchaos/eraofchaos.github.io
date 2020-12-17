@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Units A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Troglodyte"
 toc: true
@@ -90,40 +90,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Dark Troglodyte
 
- **Awaking Description:** null
+ **Awaking Description:** With their crimson skin and icy armor, they clean their sharp spears again and again. When the sound of the war horn echoes throughout every corner of the Dungeon, the heroic Troglodytes stand ready for battle.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Troglodyte with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #876741;font-size:18px"> Dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Troglodyte souls in the Underground: Levels 14-2 and 14-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Troglodyte with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Ferocious Assassination
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> Increases damage effect by 50% and Attack Speed by 30% for 5s.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Spear Array Shock
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> Increases Stun effect by 50% and own DEF by 30% for 5s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Perceptive Touch
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Keen&gt;</span><span style="color: #645252;font-size:18px"> Reduces the duration of Slow by 1s for Troglodyte. When slowed, deals damage equal to 500% of own ATK to the target unit and increases own DEF by 15% for 7s. CD is 15s.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Keen Touch
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Keen&gt;</span><span style="color: #645252;font-size:18px"> Reduces the duration of Bleed by 1s for Troglodyte. When bleeding, deals damage equal to 500% of own ATK to the target unit and increases own Attack Speed by 15% for 7s. CD is 15s.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Poisonous Wound
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Poisoned Spear&gt;</span><span style="color: #645252;font-size:18px"> When attacking poisoned units, deals continuous damage equal to 60% of own ATK per second to the target unit and reduces their Unit DMG by 15% for 5s.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Fatal Infection
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Poisoned Spear&gt;</span><span style="color: #645252;font-size:18px"> When attacking poisoned units, deals continuous damage equal to 60% of own ATK per second to the target unit and reduces their Unit DMG Reduction by 15% for 5s.</span>
 
 ## Technical info
  **runart:** 1

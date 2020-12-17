@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Units They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Druid"
 toc: true
@@ -88,28 +88,28 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Archdruid
 
- **Awaking Description:** 
+ **Awaking Description:** The warm sun melts away the snow as the breeze awakens sleeping creatures. A goldfinch carries the song of life in its beak, bringing into the quiet forest a loud burst of nature.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Druid with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Caster units and defeat </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count toward the mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Resources in Guild Adventure.</span>
 
- 3. 
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Archdruid souls in the Underground: Levels 16-2 and 16-4.</span>
 
- 4. 
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Druid with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Rampart units and win 1 Duel of Champions battle. (Sweep does not count toward the mission.)</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Forest Protection
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Call of the Forest&gt;</span><span style="color: #645252;font-size:18px"> slightly increases skill range. After it is cast once at the beginning of the battle (duration is not halved), it can be cast once every 35s, and the duration will be halved. Friendly units in the array will have their Unit DMG Reduction increased by 20%. Druid gets an additional increase of 6%. The summoned array will follow Druid.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Call of the Forest&gt;</span><span style="color: #645252;font-size:18px"> slightly increases skill range. After it is cast once at the beginning of the battle (duration is not halved), it can be cast once every 35s, and the duration will be halved. Friendly units in the circle will have their Unit DMG Reduction increased by 20%. Druid gets an additional increase of 6%. The summoned circle will move with Druid.</span>
 
 ### 2nd Skill (or 1st): Blessing from the Forest
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Call of the Forest&gt;</span><span style="color: #645252;font-size:18px"> slightly increases skill range. After it is cast once at the beginning of the battle (duration is not halved), it can be cast once every 35s, and the duration will be halved. Friendly units in the array will have their Unit DMG increased by 20%. Druid gets an additional increase of 6%. The summoned array will follow Druid.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Call of the Forest&gt;</span><span style="color: #645252;font-size:18px"> slightly increases skill range. After it is cast once at the beginning of the battle (duration is not halved), it can be cast once every 35s, and the duration will be halved. Friendly units in the cricle will have their Unit DMG increased by 20%. Druid gets an additional increase of 6%. The summoned circle will move with Druid.</span>
 
 ### 3rd Skill (or 4th): Blessing of Creatures
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Blessing of Life&gt;</span><span style="color: #645252;font-size:18px">'s skill effect increases to 150% of its original effect and takes effect for 2 more random friendly rear units. Own damage taken in a single instance will not exceed 25% of own max HP.</span>

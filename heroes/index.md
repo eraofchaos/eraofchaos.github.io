@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: en
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaide](/heroes/Adelaide/) | Castle | Clerics | R+ |  Frost Ring  |
   | 2 | [Astral](/heroes/Astral/) | Tower | Wizard | SSR |  Magic Amplification  |
-  | 3 | [Cassanbel](/heroes/Cassanbel/) | Cove | Ocean Creatures | ? |  Song of the Ocean  |
+  | 3 | [Cassanbel](/heroes/Cassanbel/) | Cove | Ocean Creatures | SSR |  Song of the Ocean  |
   | 4 | [Catherine](/heroes/Catherine/) | Castle | Knight | R |  Iron Crusader  |
   | 5 | [Ciele](/heroes/Ciele/) | Conflux | Elementalist | SSR |  Elemental Resonance  |
   | 6 | [Crag Hack](/heroes/Crag Hack/) | Stronghold | Barbarian | R+ |  Offense  |
@@ -36,7 +36,7 @@ classes: wide
   | 24 | [Monere](/heroes/Monere/) | Conflux | Planeswalker | R |  Psychic Elemental  |
   | 25 | [Mullich](/heroes/Mullich/) | Castle | Knight | R+ |  Charge Assault  |
   | 26 | [Mutare](/heroes/Mutare/) | Dungeon | Overlord | R |  Dungeon Torrent  |
-  | 27 | [Peter Lee](/heroes/Peter Lee/) | Cove | Pirate | ? |  Set Sail  |
+  | 27 | [Peter Lee](/heroes/Peter Lee/) | Cove | Pirate | R+ |  Set Sail  |
   | 28 | [Rashka](/heroes/Rashka/) | Inferno | Demoniac | R |  Fire Lord  |
   | 29 | [Roland](/heroes/Roland/) | Castle | Knight | SR+ |  Heightened Morale  |
   | 30 | [Ryland](/heroes/Ryland/) | Rampart | Ranger | R |  Dendroid Guard  |

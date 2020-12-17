@@ -2,7 +2,7 @@
 title: "Item - Units -  Lich"
 permalink: /Items/unt_27/
 excerpt: " Lich"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_27.md"
 toc: false

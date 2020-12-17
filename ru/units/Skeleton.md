@@ -3,7 +3,7 @@ title: "Скелет"
 permalink: /ru/units/Skeleton/
 excerpt: "Отряды Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Скелет"
 toc: true
@@ -97,7 +97,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте скелетов и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Некрополя, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 

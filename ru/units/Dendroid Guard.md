@@ -3,7 +3,7 @@ title: "Дендроид-страж"
 permalink: /ru/units/Dendroid Guard/
 excerpt: "Отряды Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов."
 unitID: 205
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Дендроид-страж"
 toc: true
@@ -100,7 +100,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ дендроидов-воинов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
  4. null
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /es/units/
 excerpt: "List of ALL Unidades in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: es
 ref: "index.md"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
   | 19 | [Dragón Negro](/es/units/Black Dragon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 430.0 | 8712 |  heilong  |
   | 20 | [Dragón Verde](/es/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 21 | [Dragón de Hueso](/es/units/Bone Dragon/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |
-  | 22 | [Druida](/es/units/Druid/) | Lanzador | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 22 | [Druida](/es/units/Druid/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 23 | [Duendecillo](/es/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  conglinyaojing  |
   | 24 | [Efrit](/es/units/Efreeti/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 25 | [Elemental Psíquico](/es/units/Psychic Elemental/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  jingshenyuansu  |
@@ -87,7 +87,7 @@ classes: wide
   | 73 | [Serpiente Regnan](/es/units/Regnan Serpent/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |  yurenyongshi  |
   | 74 | [Sirena](/es/units/Mermaid/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |  meirenyu  |
   | 75 | [Tortuga Dragón](/es/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  longgui  |
-  | 76 | [Troglodita](/es/units/Troglodyte/) | Ofensa | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 76 | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 77 | [Unicornio](/es/units/Unicorn/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
   | 78 | [Vampiro](/es/units/Vampire/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
   | 79 | [Ángel](/es/units/Angel/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |

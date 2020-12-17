@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea."
 heroID: 61701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: en
 ref: "Cassanbel"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Cove
 
- **Rate:** ?
+ **Rate:** SSR
 
  **Specialty:** Song of the Ocean
 

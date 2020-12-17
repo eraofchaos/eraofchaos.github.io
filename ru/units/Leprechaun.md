@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /ru/units/Leprechaun/
 excerpt: "Отряды Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
 unitID: 909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Лепрекон"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Recommend:** 
 
- **Info:** 
+ **Info:** Экспертный блок, коллективная защита и Щит Гармонии
 
 ## Basic stats
  **Base HP:** 3162.0
@@ -92,7 +92,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** 
+ **Awaking Description:** null
 
 ### Awaking Tasks
  1. 
@@ -105,23 +105,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Удар кулаком
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Прямой удар&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону у вражеского отряда на 3%, у горящих целей также на 2% снижает защиту. Каждое ослабление длится 7 сек., эффект суммируется до 8 раз.</span>
 
 ### 2nd Skill (or 1st): null
  **Description:** 
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Счастливое число
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Фортуна&gt;</span><span style="color: #645252;font-size:18px">: число возможных экземпляров умений лепреконов увеличивается до 5-12.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Счастливый номер
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Фортуна&gt;</span><span style="color: #645252;font-size:18px">: при воздействии на отряд из 4 существ эффект усиливается втрое, из 9 и 16 существ - в 6 раз.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Защитный маневр
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Тактический блок&gt;</span><span style="color: #645252;font-size:18px">: если на лепрекона действует кровотечение, оглушение или немота, каждое ослабление повышает его блокирование на 200 ед. в течение 7 сек.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Стойкое сопротивление
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Тактический блок&gt;</span><span style="color: #645252;font-size:18px">: если на лепрекона действуют страх, кристаллизация или трепет, каждое ослабление повышает его блокирование на 300 ед. в течение 7 сек.</span>
 
 ## Technical info
  **runart:** 0

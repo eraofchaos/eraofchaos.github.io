@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /fr/units/Leprechaun/
 excerpt: "Unités Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
 unitID: 909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: fr
 ref: "Farfadet"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Recommend:** 
 
- **Info:** 
+ **Info:** Un expert en blocage bénéficiant d'une défense collective et de boucliers élémentaires.
 
 ## Basic stats
  **Base HP:** 3162.0
@@ -90,9 +90,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Esprit-gardien de l'arbre sacré
 
- **Awaking Description:** 
+ **Awaking Description:** La légende raconte qu'un gigantesque Arbre du monde demeure sur le Plan du Conflux. C'est un arbre ancien et mystérieux, qui suscite à la fois la curiosité et la peur chez les aventuriers. Pourquoi ? Parce qu'un groupe de gardiens féroces s'est installé tout près de l'Arbre du monde, et toutes les créatures qui osent s'approcher sont immédiatement éliminées. D'innombrables jeunes aventuriers intrépides se sont lancés à la poursuite de l'arbre qu'ils admiraient tant, mais aucun n'est jamais revenu.
 
 ### Awaking Tasks
  1. 
@@ -105,23 +105,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Coup dévastateur
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Brûlure, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Coup immédiat
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Coup de poing immédiat&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 3 %. Si la cible est victime de Gel, sa DÉF sera également réduite de 2 %. Chaque affaiblissement dure 7 secondes et peut se cumuler jusqu'à 8 fois.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Chiffre porte-bonheur
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bonne fortune&gt; :</span><span style="color: #645252;font-size:18px"> L'effet de la compétence du Farfadet peut se cumuler de 5 à 12 fois.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Numéro chance
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bonne fortune&gt; :</span><span style="color: #645252;font-size:18px"> Les effets de la compétence sont multipliés par 3 face à des unités de 4 combattants, et par 6 face à des unités de 9 et 16 combattants.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Défense tactique
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blocage tactique&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Farfadet est victime de Saignement, Étourdissement ou Silence, chaque affaiblissement augmente la valeur de son bouclier de 200 pendant 7 secondes.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Défense à toute épreuve
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blocage tactique&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Farfadet est victime de Cristallisation, Effroi ou Choc, chaque affaiblissement augmente la valeur de son bouclier de 300 pendant 7 secondes.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /it/heroes/Astral/
 excerpt: "Astral è giunto nell'Erathia circa dieci anni orsono, ed è stato subito accettato dalla Gilda dei Maghi di Bracada. Alcuni sostengono, scherzando, che la sua rapidissima scalata nei ranghi della Gilda sia dovuta anch'essa alla magia."
 heroID: 61203
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: it
 ref: "Astral"
 toc: true
@@ -41,7 +41,7 @@ toc: true
  **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria a tutte le unità nemiche nell'area d'effetto.
 
 ### 4 Spell: Terra sfavillante
- **Description:** <span style="color: #e07c44;font-size:20px"><Acceca></span><span style="color: black"> tutte le unità nemiche riducendone la MIRA di 1000 per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
+ **Description:** <span style="color: #e07c44;font-size:20px">&lt;Acceca&gt;</span><span style="color: black"> tutte le unità nemiche riducendone la MIRA di 1000 per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
 
 ## HERO Biography

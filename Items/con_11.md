@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Free reward package"
 permalink: /Items/con_11/
 excerpt: " Free reward package"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_11.md"
 toc: false

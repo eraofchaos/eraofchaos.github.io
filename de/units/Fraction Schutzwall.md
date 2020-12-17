@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Schutzwall -  Units"
 permalink: /de/units/Fraction Schutzwall/
 excerpt: "Fraction Schutzwall - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: de
 ref: "Fraction Schutzwall"
 toc: false
@@ -21,4 +21,4 @@ classes: wide
   | 5 | [Dendroidenwache](/de/units/Dendroid Guard/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  kumuweishio  |
   | 6 | [Grüner Drache](/de/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 7 | [Einhorn](/de/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
-  | 8 | [Druidin](/de/units/Druid/) | Zauberer | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 8 | [Druidin](/de/units/Druid/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |

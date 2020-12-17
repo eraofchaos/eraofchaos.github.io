@@ -3,7 +3,7 @@ title: "Джелу"
 permalink: /ru/heroes/Gelu/
 excerpt: ""
 heroID: 60301
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Gelu"
 toc: true
@@ -64,7 +64,7 @@ toc: true
    - Новейший дизайн героя
    - Уникальный аватар
 
-### Skin 2: **null**
+### Skin 2: **Команда разведчиков**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Снайперы под началом Джелу вселяют страх в сердца врагов. Без счета вражеских офицеров сразили стрелы невидимых стрелков. </span>
 
@@ -98,5 +98,5 @@ toc: true
 ## Initial Mastery
    - Мудрость
    - Мистицизм
-   - null
+   - Стрельба
    - null

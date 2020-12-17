@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Level 10 guild package"
+title: "Item - Consumables -  Soul Stone Pack 1"
 permalink: /Items/con_51/
-excerpt: " Level 10 guild package"
-last_modified_at: 2020-12-13
+excerpt: " Soul Stone Pack 1"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_51.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Randomly receive one of the following: 65 diamonds, 270,000 gold, or 65 spell scrolls.
+ **Description:** Grants 7,000 Soul Stones.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -25,10 +25,8 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **1** item  from:
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **65x** | Heaven-Cast Stone | A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.  | 
-  | 2 |  **270000x** | <i class="fas fa-coins"/> |  | 
-  | 3 |  **65x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 
+  | 1 |  **7000x** | Soul Stone | Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store  | 

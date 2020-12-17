@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Rampart -  Units"
 permalink: /units/Fraction Rampart/
 excerpt: "Fraction Rampart - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Fraction Rampart"
 toc: false
@@ -21,4 +21,4 @@ classes: wide
   | 5 | [Dendroid Guard](/units/Dendroid Guard/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  kumuweishio  |
   | 6 | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 7 | [Unicorn](/units/Unicorn/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
-  | 8 | [Druid](/units/Druid/) | Caster | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 8 | [Druid](/units/Druid/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |

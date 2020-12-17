@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /de/heroes/Cassanbel/
 excerpt: "Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch."
 heroID: 61701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: de
 ref: "Cassanbel"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** Bucht
 
- **Rate:** ?
+ **Rate:** SSR
 
  **Specialty:** Lied des Ozeans
 

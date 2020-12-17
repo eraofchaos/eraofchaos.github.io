@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /de/units/Troglodyte/
 excerpt: "Einheiten Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: de
 ref: "Troglodyt"
 toc: true
@@ -90,40 +90,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Dunkler Troglodyt
 
- **Awaking Description:** null
+ **Awaking Description:** Sie haben ein blutrotes Fell und eine eisige Rüstung und säubern ihre scharfen Speere immer wieder. Wenn der Klang der Kriegsfanfaren durch den gesamten Dungeon hallt, sind die heldenhaften Troglodyten bereit für den Kampf.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Setze einen Troglodyt und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #876741;font-size:18px"> Zwerge einmal in der Zwergenschatzkammer zu töten. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #876741;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Monster im Gildenabenteuer.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Troglodyt-Seelen im Untergrund: Stufen 14-2 and 14-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Setze einen Troglodyt und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Grausames Attentat
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Schadenseffekt um 50 % und das Angriffstempo um 30 %.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+### 2nd Skill (or 1st): Speerformation-Schock
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Betäubungseffekt um 50 % und ABW um 30 %.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+### 3rd Skill (or 4th): Scharfsinnige Berührung
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Verlangsamung für den Troglodyten um 1 Sek. Während Verlangsamung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und die eigene ABW um 15 % erhöht. AKZ 15 Sek.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Geschärfte Berührung
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Blutung für den Troglodyten um 1 Sek. Während Blutung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und das eigene Angriffstempo um 15 % erhöht. AKZ 15 Sek.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Giftige Wunde
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vergifteter Speer&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf vergiftete Einheiten wird der Zieleinheit 5 Sek. lang kontinuierlicher Schaden in Höhe von 60 % des eigenen ANG pro Sekunde zugefügt und ihr SCHD (Einheit) um 15 % verringert.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Tödliche Infektion
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Vergifteter Speer&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf vergiftete Einheiten wird der Zieleinheit 5 Sek. lang kontinuierlicher Schaden in Höhe von 60 % des eigenen ANG pro Sekunde zugefügt und ihre SCHD-Reduzierung (Einheit) um 15 % verringert.</span>
 
 ## Technical info
  **runart:** 1

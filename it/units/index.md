@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /it/units/
 excerpt: "List of ALL Unità in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: it
 ref: "index.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 20 | [Drago scheletrico](/it/units/Bone Dragon/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |
   | 21 | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 22 | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |  mofaxianling  |
-  | 23 | [Druido](/it/units/Druid/) | Incantatore | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 23 | [Druido](/it/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 24 | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 25 | [Elementale del fuoco](/it/units/Fire Elemental/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
   | 26 | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
@@ -86,7 +86,7 @@ classes: wide
   | 72 | [Spadaccino](/it/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
   | 73 | [Tartaruga draconica](/it/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  longgui  |
   | 74 | [Tiratore scelto](/it/units/Marksman/) | A distanza | - | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  nushou  |
-  | 75 | [Troglodita](/it/units/Troglodyte/) | Attacco | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 75 | [Troglodita](/it/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 76 | [Unicorno](/it/units/Unicorn/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
   | 77 | [Uomo lucertola](/it/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |  xiyiren  |
   | 78 | [Vampiro](/it/units/Vampire/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |

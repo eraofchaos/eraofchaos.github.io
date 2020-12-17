@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Baluardo -  Units"
 permalink: /it/units/Fraction Baluardo/
 excerpt: "Fraction Baluardo - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: it
 ref: "Fraction Baluardo"
 toc: false
@@ -21,4 +21,4 @@ classes: wide
   | 5 | [Guardia Dendroide](/it/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  kumuweishio  |
   | 6 | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 7 | [Unicorno](/it/units/Unicorn/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
-  | 8 | [Druido](/it/units/Druid/) | Incantatore | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 8 | [Druido](/it/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |

@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /ru/heroes/Crag Hack/
 excerpt: ""
 heroID: 60602
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Crag Hack"
 toc: true
@@ -75,6 +75,7 @@ toc: true
 
    - Санта-Клаус, раздающий подарки
    - Новейший боевой образ
+   - Уникальный аватар и эффект заклинания
 
 
 ## Initial Mastery

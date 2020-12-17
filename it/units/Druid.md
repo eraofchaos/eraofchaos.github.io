@@ -3,7 +3,7 @@ title: "Druido"
 permalink: /it/units/Druid/
 excerpt: "Unità Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: it
 ref: "Druido"
 toc: true
@@ -88,20 +88,20 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Arcidruido
 
- **Awaking Description:** 
+ **Awaking Description:** Il calore del sole scioglie la neve e la brezza risveglia le creature dormienti. Un cardellino dà voce al canto della vita, accendendo con il suo cinguettio la foresta silenziosa.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #3c2a1e;font-size:18px">Schiera un Druido e un minimo di </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> incantatori e sconfiggi </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> ondate di Morti viventi nella Cripta in una battaglia sola. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> risorse nell'Avventura della Gilda.</span>
 
- 3. 
+ 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Arcidruido nei livelli del Sottosuolo 16-2 e 16-4.</span>
 
- 4. 
+ 4. <span style="color: #3c2a1e;font-size:18px">Schiera un Druido e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Baluardo e vinci 1 battaglia del Duello dei Campioni. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 

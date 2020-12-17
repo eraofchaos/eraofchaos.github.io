@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Mazmorra -  Units"
 permalink: /es/units/Fraction Mazmorra/
 excerpt: "Fraction Mazmorra - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: es
 ref: "Fraction Mazmorra"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
   | 1 | [Arpía](/es/units/Harpy/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |  yingshenren  |
-  | 2 | [Troglodita](/es/units/Troglodyte/) | Ofensa | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 2 | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 3 | [Observador](/es/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  xieyan  |
   | 4 | [Medusa](/es/units/Medusa/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  meidusha  |
   | 5 | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  niutouguai  |

@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /fr/units/Berserker/
 excerpt: "Unités Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: fr
 ref: "Berserker"
 toc: true
@@ -70,7 +70,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Le Berserker est immunisé contre &lt;Pétrification&gt; et &lt;Étourdissement&gt;. La vitesse d'ATQ du Berserker augmente de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
 ### 4 Skill: Dieu de la guerre immortel
- **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts du Berserker de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité du Bastion supplémentaire déployée. Le Berserker se transforme en statue à sa mort, augmentant les dégâts des unités alliées du Bastion de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et régénérant 2 % de leurs PV max.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts du Berserker de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour chaque unité du Bastion supplémentaire déployée. Le Berserker se transforme en statue à sa mort, augmentant les dégâts des unités du Bastion alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et régénérant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max.</span><span style="color: black">
 
 ### 5 Skill: Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">

@@ -3,7 +3,7 @@ title: "Druida"
 permalink: /es/units/Druid/
 excerpt: "Unidades Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: es
 ref: "Druida"
 toc: true
@@ -88,20 +88,20 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Archidruida
 
- **Awaking Description:** 
+ **Awaking Description:** El cálido sol derrite la nieve y la brisa despierta a las criaturas adormiladas. Un jilguero porta una musiquilla cargada de vida en el pico, irrumpiendo en el bosque silente con una naturaleza arrolladora.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #3c2a1e;font-size:18px">Despliega Druidas con al menos </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unidades lanzadoras y derrota </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> oleadas de Muertos Vivientes en la Cripta en una única batalla. (Los saltos no cuentan para la misión).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> recursos en la Aventura de Gremio.</span>
 
- 3. 
+ 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Archidruida en el Subterráneo: niveles 16-2 y 16-4.</span>
 
- 4. 
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega un Druida y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Murallas y gana 1 batalla en el Duelo de Campeones. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 

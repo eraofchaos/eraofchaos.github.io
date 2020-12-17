@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Star Soul"
+title: "Item - Consumables -  Royal Medal"
 permalink: /Items/con_27/
-excerpt: " Star Soul"
-last_modified_at: 2020-12-13
+excerpt: " Royal Medal"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_27.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A material used for activating Stars. Obtained by converting Hero Tokens. Each hero requires a different unique Star Soul
+ **Description:** A medal issued by the Erathian Imperial Court. Can be exchanged for Castle Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

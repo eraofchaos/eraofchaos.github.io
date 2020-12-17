@@ -1,9 +1,9 @@
 ---
-title: "Кендал"
+title: "Kendal"
 permalink: /ru/heroes/Kendal/
 excerpt: "Генерал, верный королевской семье Эрафии. С момента смерти короля Грифонхарта Морган Кендал взял на себя управление страной до появления законного наследника."
 heroID: 60104
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Kendal"
 toc: true

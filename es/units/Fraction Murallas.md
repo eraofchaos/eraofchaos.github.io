@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Murallas -  Units"
 permalink: /es/units/Fraction Murallas/
 excerpt: "Fraction Murallas - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: es
 ref: "Fraction Murallas"
 toc: false
@@ -21,4 +21,4 @@ classes: wide
   | 5 | [Guardia Dendroide](/es/units/Dendroid Guard/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  kumuweishio  |
   | 6 | [Dragón Verde](/es/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 7 | [Unicornio](/es/units/Unicorn/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
-  | 8 | [Druida](/es/units/Druid/) | Lanzador | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 8 | [Druida](/es/units/Druid/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |

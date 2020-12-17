@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /de/units/Druid/
 excerpt: "Einheiten Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: de
 ref: "Druidin"
 toc: true
@@ -88,20 +88,20 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Erzdruide
 
- **Awaking Description:** 
+ **Awaking Description:** Die warme Sonne schmilzt den Schnee und der Wind erweckt schlafende Kreaturen. Ein Distelfink trägt das Lied des Lebens in seinem Schnabel und bringt einen lauten Ausbruch der Natur in den ansonsten stillen Wald.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #3c2a1e;font-size:18px">Setze eine Druidin und mindestens </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Zauberer-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> Wellen Wandelnder Toter in der Krypta einmal zu besiegen. (Durchmärsche zählen nicht für die Mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Ressourcen im Gildenabenteuer.</span>
 
- 3. 
+ 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Erzdruiden-Seelen im Untergrund: Stufen 16-2 and 16-4.</span>
 
- 4. 
+ 4. <span style="color: #3c2a1e;font-size:18px">Setze eine Druidin und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schutzwall-Einheiten ein, um 1 Meisterduell-Kampf zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 

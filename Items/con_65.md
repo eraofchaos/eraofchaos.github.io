@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Orange +5 Material Chest"
+title: "Item - Consumables -  Astro Silver Pack C"
 permalink: /Items/con_65/
-excerpt: " Orange +5 Material Chest"
-last_modified_at: 2020-12-13
+excerpt: " Astro Silver Pack C"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_65.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Receive a random orange +5 equipment-upgrading item
+ **Description:** Buy to get 10 astro silvers, 1,780 diamonds, and 1,780 VIP EXP.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -25,13 +25,9 @@ classes: wide
 
  **Required Level to open:** 1
 
- 3 You would get **1** item  from:
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Radiant Ore | Common materials to upgrade equipment from orange +5 to Red.  | 
-  | 2 |  **1x** | Radiant Wood | Common materials to upgrade equipment from orange +5 to Red.  | 
-  | 3 |  **1x** | Radiant Mercury | Common materials to upgrade equipment from orange +5 to Red.  | 
-  | 4 |  **1x** | Radiant Sulfur | Common materials to upgrade equipment from orange +5 to Red.  | 
-  | 5 |  **1x** | Radiant Gems | Common materials to upgrade equipment from orange +5 to Red.  | 
-  | 6 |  **1x** | Radiant Crystal | Common materials to upgrade equipment from orange +5 to Red.  | 
+  | 1 |  **10x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 2 |  **1780x** | <i class="fas fa-gem"/> |  | 

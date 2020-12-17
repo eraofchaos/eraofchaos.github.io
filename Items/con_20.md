@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Dungeon SR+ Unit Token Selection Chest"
+title: "Item - Consumables -  Elite Hero Pack"
 permalink: /Items/con_20/
-excerpt: " Dungeon SR+ Unit Token Selection Chest"
-last_modified_at: 2020-12-13
+excerpt: " Elite Hero Pack"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_20.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 Medusa, Beholder, or Manticore token.
+ **Description:** Use to select 1 of the following: 40 Roland tokens, 40 Kilgor tokens, 40 Sandro tokens, 40 Astral tokens, 40 Dragon Mutare tokens, 40 Xeron tokens, 40 Ciele tokens, 40 Tazar tokens, 40 Gem tokens, or 40 Cassanbel tokens.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,6 +29,13 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Medusa | Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.  | 
-  | 2 |  **1x** | Beholder | Once you have gathered 80 soul tokens you can summon a Beholder. Tokens can also be used to upgrade or increase the rank of Beholders.  | 
-  | 3 |  **1x** | Manticore | Once you have gathered 80 soul tokens you can summon a Manticore. Tokens can also be used to upgrade or increase the rank of manticores.  | 
+  | 1 |  **40x** | Roland | Collect 30 tokens to summon Roland to join your party. Tokens are also required to increase his rank.  | 
+  | 2 |  **40x** | Kilgor | Collect 30 tokens to summon Kilgor to join your party. Tokens are also required to increase his rank.  | 
+  | 3 |  **40x** | Sandro | Collect 30 tokens to summon Sandro to join your party. Tokens are also required to increase his rank.  | 
+  | 4 |  **40x** | Astral | Collect 30 tokens to summon Astral to join your party. Tokens are also required to increase his rank.  | 
+  | 5 |  **40x** | Dragon Mutare | Collect 30 tokens to summon Dragon Mutare to join your party. Tokens are also required to increase her rank  | 
+  | 6 |  **40x** | Xeron | Collect 30 tokens to summon Xeron to join your party. Tokens are also required to increase his rank.  | 
+  | 7 |  **40x** | Ciele | Collect 30 tokens to summon Ciele to join your party. Tokens are also required to increase her rank  | 
+  | 8 |  **40x** | Tazar | Collect 30 tokens to summon Tazar to join your party. Tokens are also required to increase his rank.  | 
+  | 9 |  **40x** | Gem | Collect 30 tokens to summon Gem to join your party. Tokens are also required to increase her rank.  | 
+  | 10 |  **40x** | Cassanbel | Collect 30 tokens to summon Cassanbel to join your party. Tokens are also required to increase her rank.  | 

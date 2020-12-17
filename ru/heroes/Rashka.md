@@ -3,7 +3,7 @@ title: "Раска"
 permalink: /ru/heroes/Rashka/
 excerpt: "Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
 heroID: 60802
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Rashka"
 toc: true
@@ -64,7 +64,7 @@ toc: true
    - Элементаль Огня
    - Ученики огня
 
-### Skin 2: **null**
+### Skin 2: **Пепельный тиран**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Раcка держал под пятой Землю пепла - так он назвал уничтоженную Эрафию. </span>
 

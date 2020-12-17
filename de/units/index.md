@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /de/units/
 excerpt: "List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: de
 ref: "index.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | [Betrachter](/de/units/Beholder/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  xieyan  |
   | 6 | [Dendroidenwache](/de/units/Dendroid Guard/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  kumuweishio  |
   | 7 | [Drachenschildkröte](/de/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  longgui  |
-  | 8 | [Druidin](/de/units/Druid/) | Zauberer | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 8 | [Druidin](/de/units/Druid/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 9 | [Dschinn](/de/units/Genie/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  dengshen  |
   | 10 | [Dämon](/de/units/Demon/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 114.4 | 2489 |  changjiaoemo  |
   | 11 | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |  xiyiren  |
@@ -82,7 +82,7 @@ classes: wide
   | 68 | [Steinelementar](/de/units/Stone Elemental/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |
   | 69 | [Sturmelementar](/de/units/Storm Elemental/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
   | 70 | [Teufel](/de/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  daemo  |
-  | 71 | [Troglodyt](/de/units/Troglodyte/) | Offensiv | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 71 | [Troglodyt](/de/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 72 | [Vampir](/de/units/Vampire/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
   | 73 | [Waldelfe](/de/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  mujingling  |
   | 74 | [Wandelnde Tote](/de/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |

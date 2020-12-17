@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Dread Knight's Soul Stone"
+title: "Item - Units -  Pegasus"
 permalink: /Items/unt_98/
-excerpt: " Dread Knight's Soul Stone"
-last_modified_at: 2020-12-13
+excerpt: " Pegasus"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_98.md"
 toc: false
@@ -11,15 +11,20 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Dread Knight's Awakening level enhancement
+ **Description:** Once you have gathered 30 soul tokens you can summon a Pegasus, an SR aptitude unit.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-*    Gods Store 
+*    Underground 14 (Safe Passage) -> 14-5 
+*    Underground 17 (Liberation of the Empire) -> 17-5 
+*    Underground 25 (Land of Sleep) -> 25-3 
+*    Altar of Recruitment 
+*    Treasure Chest - Erathia 
+*    Barracks Redemption - Pegasus 
 
 ## This item contains:
 

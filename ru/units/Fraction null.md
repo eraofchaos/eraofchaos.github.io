@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction null -  Units"
 permalink: /ru/units/Fraction null/
 excerpt: "Fraction null - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Fraction null"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 21 | [Гарпия](/ru/units/Harpy/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |  yingshenren  |
   | 22 | [Unknown_TEAM_605](/ru/units/Genie/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  dengshen  |
   | 23 | [Unknown_TEAM_9905](/ru/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |  meirenyu  |
-  | 24 | [Троглодит](/ru/units/Troglodyte/) | Наступление | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 24 | [Троглодит](/ru/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 25 | [Бехолдер](/ru/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  xieyan  |
   | 26 | [Нага](/ru/units/Naga/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  najianvyao  |
   | 27 | [Панцирный дракон](/ru/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  longgui  |
@@ -62,7 +62,7 @@ classes: wide
   | 46 | [Единорог](/ru/units/Unicorn/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
   | 47 | [Элементаль Льда](/ru/units/Ice Elemental/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 48 | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 269.0 | 2119 |  cishazhe  |
-  | 49 | [Unknown_TEAM_208](/ru/units/Druid/) | Заклинатель | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 49 | [Unknown_TEAM_208](/ru/units/Druid/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 50 | [Вампир](/ru/units/Vampire/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
   | 51 | [Черный рыцарь](/ru/units/Black Knight/) | Штурм | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
   | 52 | [Элементаль Огня](/ru/units/Fire Elemental/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |

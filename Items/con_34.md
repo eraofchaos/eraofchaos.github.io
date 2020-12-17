@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Small Campaign Treasure"
+title: "Item - Consumables -  Way of the Vikings: Berserker skin"
 permalink: /Items/con_34/
-excerpt: " Small Campaign Treasure"
-last_modified_at: 2020-12-13
+excerpt: " Way of the Vikings: Berserker skin"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_34.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A treasure chest containing 6 Empire Medals!
+ **Description:** Grants the Way of the Vikings: Berserker skin.
 
- **Quality:** <span style="color: #32CD32">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** EXP
+ **Type:** Unknown
 
 ## Gather
 

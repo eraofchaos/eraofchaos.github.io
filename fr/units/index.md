@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unités"
 permalink: /fr/units/
 excerpt: "List of ALL Unités in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: fr
 ref: "index.md"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
   | 19 | [Dragon noir](/fr/units/Black Dragon/) | Défense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 430.0 | 8712 |  heilong  |
   | 20 | [Dragon squelette](/fr/units/Bone Dragon/) | Offensive | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  gulong  |
   | 21 | [Dragon vert](/fr/units/Green Dragon/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
-  | 22 | [Druidesse](/fr/units/Druid/) | Lanceur de sorts | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 22 | [Druidesse](/fr/units/Druid/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 23 | [Démon](/fr/units/Demon/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 114.4 | 2489 |  changjiaoemo  |
   | 24 | [Effrit](/fr/units/Efreeti/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 25 | [Elfe sylvaine](/fr/units/Wood Elf/) | À distance | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  mujingling  |
@@ -80,7 +80,7 @@ classes: wide
   | 66 | [Spadassin](/fr/units/Swordsman/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
   | 67 | [Squelette](/fr/units/Skeleton/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  kuloubing  |
   | 68 | [Tortue dragon](/fr/units/Dragon Turtle/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  longgui  |
-  | 69 | [Troglodyte](/fr/units/Troglodyte/) | Offensive | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 69 | [Troglodyte](/fr/units/Troglodyte/) | Offensive | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 70 | [Trépassé](/fr/units/Walking Dead/) | Défense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
   | 71 | [Vampire](/fr/units/Vampire/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
   | 72 | [Wivern](/fr/units/Wyvern/) | Offensive | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |

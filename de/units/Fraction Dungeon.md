@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Dungeon -  Units"
 permalink: /de/units/Fraction Dungeon/
 excerpt: "Fraction Dungeon - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: de
 ref: "Fraction Dungeon"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
   | 1 | [Harpyie](/de/units/Harpy/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |  yingshenren  |
-  | 2 | [Troglodyt](/de/units/Troglodyte/) | Offensiv | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 2 | [Troglodyt](/de/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 3 | [Betrachter](/de/units/Beholder/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  xieyan  |
   | 4 | [Medusa](/de/units/Medusa/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  meidusha  |
   | 5 | [Minotaurus](/de/units/Minotaur/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  niutouguai  |

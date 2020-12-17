@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Lizardman"
+title: "Item - Units -  Minotaur"
 permalink: /Items/unt_91/
-excerpt: " Lizardman"
-last_modified_at: 2020-12-13
+excerpt: " Minotaur"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_91.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Lizardman. Tokens can also be used to upgrade or increase the rank of Lizardmen.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,8 +19,10 @@ classes: wide
 
 ## Gather
 
+*    Underground 24 (Elemental Tide) -> 24-5 
 *    Altar of Recruitment 
-*    Barracks Redemption - Lizardman 
+*    Barracks Redemption - Minotaur 
+*    Kingdom Store 
 
 ## This item contains:
 

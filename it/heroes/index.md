@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /it/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: it
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaide](/it/heroes/Adelaide/) | Castello | Chierico | R+ |  Anello congelante  |
   | 2 | [Astral](/it/heroes/Astral/) | Torre | Mago | SSR |  Amplificazione magica  |
-  | 3 | [Cassanbel](/it/heroes/Cassanbel/) | Baia | Creature oceaniche | ? |  Canto dell'oceano  |
+  | 3 | [Cassanbel](/it/heroes/Cassanbel/) | Baia | Creature oceaniche | SSR |  Canto dell'oceano  |
   | 4 | [Caterina](/it/heroes/Catherine/) | Castello | Cavaliere | R |  Crociato corazzato  |
   | 5 | [Ciele](/it/heroes/Ciele/) | Confluenza | Elementalista | SSR |  Riverbero elementale  |
   | 6 | [Crag Hack](/it/heroes/Crag Hack/) | Roccaforte | Barbaro | R+ |  Attacco  |
@@ -35,7 +35,7 @@ classes: wide
   | 23 | [Mullich](/it/heroes/Mullich/) | Castello | Cavaliere | R+ |  Carica  |
   | 24 | [Mutare](/it/heroes/Mutare/) | Dungeon | Signore Supremo | R |  Torrente del Dungeon  |
   | 25 | [Mutare (drago)](/it/heroes/Dragon Mutare/) | Dungeon | Signore Supremo | SSR |  Risveglio del Drago  |
-  | 26 | [Peter Lee](/it/heroes/Peter Lee/) | Baia | Pirata | ? |  Salpa  |
+  | 26 | [Peter Lee](/it/heroes/Peter Lee/) | Baia | Pirata | R+ |  Salpa  |
   | 27 | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | R |  Signore del Fuoco  |
   | 28 | [Roland](/it/heroes/Roland/) | Castello | Cavaliere | SR+ |  Morale elevato  |
   | 29 | [Ryland](/it/heroes/Ryland/) | Baluardo | Ranger | R |  Guardia Dendroide  |

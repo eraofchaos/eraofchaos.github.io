@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /it/heroes/Mullich/
 excerpt: "L'autocontrollo e la disciplina di Sir Mullich sono ormai leggendari. Le sue truppe sono note per la loro velocità fulminea, risultato delle sue speciali tattiche di addestramento."
 heroID: 60101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: it
 ref: "Mullich"
 toc: true
@@ -35,7 +35,7 @@ toc: true
  **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> danni da Terra alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 3 secondi.
 
 ### 2 Spell: Gioia
- **Description:** Applica <span style="color: #e07c44;font-size:20px"><Morale alto></span><span style="color: black"> a tutte le unità non Necropoli alleate nell'area d'effetto, aumentandone la Vel ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%). Durata: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s.
+ **Description:** Applica <span style="color: #e07c44;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"> a tutte le unità non Necropoli alleate nell'area d'effetto, aumentandone la Vel ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%). Durata: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s.
 
 ### 3 Spell: Attacco rapido
  **Description:** Le unità alleate nell'area d'effetto godono di Vel ATT aumentata (<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a124+$a126+$a134+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) e Vel MOV aumentata di {$buffaddattr22+$buffaddattr23*($sklevel-1)}<($buffaddattr22+$buffaddattr23*($sklevel-1))*($a124+$a126+$a134+$a136)>for per {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.

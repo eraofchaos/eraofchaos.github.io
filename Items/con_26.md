@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Golden Duke: Crag Hack"
+title: "Item - Consumables -  Free reward package"
 permalink: /Items/con_26/
-excerpt: " Golden Duke: Crag Hack"
-last_modified_at: 2020-12-13
+excerpt: " Free reward package"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_26.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get Crag Hack's Golden Duke skin
+ **Description:** You've cleared level 3-14! You receive a free chance to send a red envelope to your guild members!
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 

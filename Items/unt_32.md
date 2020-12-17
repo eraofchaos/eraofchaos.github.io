@@ -2,7 +2,7 @@
 title: "Item - Units -  Psychic Elemental"
 permalink: /Items/unt_32/
 excerpt: " Psychic Elemental"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_32.md"
 toc: false

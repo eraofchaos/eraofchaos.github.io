@@ -3,7 +3,7 @@ title: "Pesadilla"
 permalink: /es/units/Nightmare/
 excerpt: "Unidades La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: es
 ref: "Pesadilla"
 toc: true
@@ -92,7 +92,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Description:** Su cuerpo, que emerge del reino de los sueños y atraviesa la lava para llegar al mundo de los vivos, está envuelto por un aura aterradora. Las llamas que escupe reducen todo a cenizas. Por sus venas corre magma fundido. Cuando ataca, incluso los más valientes guerreros se encogen de miedo y tienen dificultades para alzar su espada para luchar.
 
 ### Awaking Tasks
  1. 

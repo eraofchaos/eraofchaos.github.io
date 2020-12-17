@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /it/units/Troglodyte/
 excerpt: "Unità Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: it
 ref: "Troglodita"
 toc: true
@@ -90,40 +90,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Troglodita oscuro
 
- **Awaking Description:** null
+ **Awaking Description:** Con la pelle cremisi coperta da corazze gelate, passano il tempo a lucidare senza posa le proprie affilatissime lance. Quando i corni di guerra risuonano in ogni angolo del Dungeon, gli eroici Trogloditi si preparano a combattere.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera un Troglodita con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Dungeon e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #876741;font-size:18px"> Gnomi nella Tesoreria degli gnomi in una battaglia sola. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Troglodita nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Schiera un Troglodita con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Dungeon e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Assassinio feroce
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta il DAN del 50% e la Vel ATT del 30% per 5 secondi.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): Impatto Muro di lance
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la durata dello &lt;Stordimento&gt; del 50% e la DIF del 30% per 5 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Tocco sagace
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Rallentamento&gt; di 1 secondo per il Troglodita. Quando è &lt;rallentato&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria DIF del 15% per 7 secondi. Recupero: 15 secondi.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Tocco astuto
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Sanguinamento&gt; di 1 secondo per il Troglodita. Quando è affetto da &lt;Sanguinamento&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria Vel ATT del 15% per 7 secondi. Recupero: 15 secondi.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Ferita avvelenata
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lancia avvelenata&gt;</span><span style="color: #645252;font-size:18px"> Quando attacca unità &lt;avvelenate&gt;, infligge danni continui pari al 60% del proprio ATT al secondo all'unità bersaglio e ne riduce il DAN del 15% per 5 secondi.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Infezione fatale
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lancia avvelenata&gt;</span><span style="color: #645252;font-size:18px"> Quando attacca unità &lt;avvelenate&gt;, infligge danni continui pari al 60% del proprio ATT al secondo all'unità bersaglio e ne riduce la Rid DAN del 15% per 5 secondi.</span>
 
 ## Technical info
  **runart:** 1

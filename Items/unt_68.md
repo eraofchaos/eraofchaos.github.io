@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Wyvern Monarch Soul Stone"
+title: "Item - Units -  Dragon Golem"
 permalink: /Items/unt_68/
-excerpt: " Wyvern Monarch Soul Stone"
-last_modified_at: 2020-12-13
+excerpt: " Dragon Golem"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_68.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Plague Wyvern Monarch's Awakening level enhancement
+ **Description:** Once you have gathered 80 soul tokens you can summon a Dragon Golem. Tokens can also be used to upgrade or increase the rank of dragon golems.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #FF0000">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 

@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /fr/units/Troglodyte/
 excerpt: "Unités Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: fr
 ref: "Troglodyte"
 toc: true
@@ -90,40 +90,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Troglodyte des ténèbres
 
- **Awaking Description:** null
+ **Awaking Description:** Avec leur peau pourpre et leur amure de glace, ils nettoient inlassablement leurs lances affutées. Lorsque le cor de guerre retentit dans tout le Donjon, les Troglodytes héroïques sont déjà prêts à se battre.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Déployez un Troglodyte et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Donjon pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #876741;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #876741;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monstres lors d'une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes de Troglodyte dans les niveaux 14-2 et 14-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Déployez un Troglodyte et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Donjon pour remporter 3 batailles dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Assassinat sauvage
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; :</span><span style="color: #645252;font-size:18px"> Augmente les dégâts de 50 % et la vitesse d'attaque de 30 % pendant 5 secondes.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): Nuée de lances percutante
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; :</span><span style="color: #645252;font-size:18px"> Augmente l'effet d'Étourdissement de 50 % et la DÉF de 30 % pendant 5 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): Toucher sensoriel
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Passion&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la durée de Lenteur de 1 seconde pour le Troglodyte. En cas de Lenteur, il inflige des dégâts équivalents à 500 % de son ATQ à l'unité cible et sa DÉF augmente de 15 % pendant 7 secondes. Le temps de recharge est de 15 secondes.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Toucher passionnel
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Passion&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la durée de Saignement de 1 seconde pour le Troglodyte. En cas de Saignement, il inflige des dégâts équivalents à 500 % de son ATQ à l'unité cible et sa vitesse d'attaque augmente de 15 % pendant 7 secondes. Le temps de recharge est de 15 secondes.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Blessure envenimée
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance empoisonnée&gt; :</span><span style="color: #645252;font-size:18px"> Face à des unités empoisonnées, inflige des dégâts continus équivalents à 60 % de son ATQ par seconde à l'unité cible, et réduit les dégâts de cette dernière de 15 % pendant 5 secondes.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Infection fatale
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Lance empoisonnée&gt; :</span><span style="color: #645252;font-size:18px"> Face à des unités empoisonnées, inflige des dégâts continus équivalents à 60 % de son ATQ par seconde à l'unité cible, et réduit la résistance aux dégâts de cette dernière de 15 % pendant 5 secondes.</span>
 
 ## Technical info
  **runart:** 1

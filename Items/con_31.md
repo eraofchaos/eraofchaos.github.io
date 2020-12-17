@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Way of the Vikings: Berserker skin"
+title: "Item - Consumables -  Discount Coupon"
 permalink: /Items/con_31/
-excerpt: " Way of the Vikings: Berserker skin"
-last_modified_at: 2020-12-13
+excerpt: " Discount Coupon"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_31.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants the Way of the Vikings: Berserker skin.
+ **Description:** Coupon that can be used in the Healing Sea event.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Other
 
 ## Gather
 

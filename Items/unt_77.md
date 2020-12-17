@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Skeleton"
+title: "Item - Units -  Wolf Raider Soul Stone"
 permalink: /Items/unt_77/
-excerpt: " Skeleton"
-last_modified_at: 2020-12-13
+excerpt: " Wolf Raider Soul Stone"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_77.md"
 toc: false
@@ -11,18 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 10 soul tokens you can summon a Skeleton, an R aptitude unit.
+ **Description:** Soul Stone for Wolf Raider's Awakening level enhancement
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 4 (A Devilish Plan) -> 4-1 
-*    Underground 9 (Greed) -> 9-3 
-*    Altar of Recruitment 
-*    Barracks Redemption - Skeleton 
+*    Plane Shop 
 
 ## This item contains:
 

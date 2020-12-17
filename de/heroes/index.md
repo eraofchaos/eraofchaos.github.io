@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /de/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: de
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaide](/de/heroes/Adelaide/) | Schloss | Kleriker | R+ |  Frostring  |
   | 2 | [Astral](/de/heroes/Astral/) | Turm | Zauberer | SSR |  Magieverstärkung  |
-  | 3 | [Cassanbel](/de/heroes/Cassanbel/) | Bucht | Meereskreaturen | ? |  Lied des Ozeans  |
+  | 3 | [Cassanbel](/de/heroes/Cassanbel/) | Bucht | Meereskreaturen | SSR |  Lied des Ozeans  |
   | 4 | [Catherine](/de/heroes/Catherine/) | Schloss | Ritter | R |  Eisenkreuzritter  |
   | 5 | [Ciele](/de/heroes/Ciele/) | Konflux | Elementarist | SSR |  Elementar-Resonanz  |
   | 6 | [Crag Hack](/de/heroes/Crag Hack/) | Burg | Barbar | R+ |  Offensive  |
@@ -36,7 +36,7 @@ classes: wide
   | 24 | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | R |  Psy-Elementar  |
   | 25 | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | R+ |  Sturmangriff  |
   | 26 | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | R |  Dungeon-Flut  |
-  | 27 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | ? |  Segel setzen  |
+  | 27 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | R+ |  Segel setzen  |
   | 28 | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | R |  Feuer-Lord  |
   | 29 | [Roland](/de/heroes/Roland/) | Schloss | Ritter | SR+ |  Erhöhte Moral  |
   | 30 | [Ryland](/de/heroes/Ryland/) | Schutzwall | Waldläufer | R |  Dendroidenwache  |

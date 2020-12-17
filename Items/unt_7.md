@@ -2,7 +2,7 @@
 title: "Item - Units -  Genie"
 permalink: /Items/unt_7/
 excerpt: " Genie"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_7.md"
 toc: false

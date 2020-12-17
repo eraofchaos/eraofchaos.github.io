@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Caster Roster runes"
+title: "Item - Consumables -  Revelations: Ezio Special Offer"
 permalink: /Items/con_53/
-excerpt: " Caster Roster runes"
-last_modified_at: 2020-12-13
+excerpt: " Revelations: Ezio Special Offer"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_53.md"
 toc: false
@@ -11,18 +11,24 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Important item to increase your Caster units' rankings.
+ **Description:** Grants 680 Diamonds, 1 Revelations: Ezio Skin, and 10 Ancient Temple Scrolls.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
-*    Altar of Recruitment 
-*    Guild Store 
+  None
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Revelations: Ezio | Grants the Revelations: Ezio skin.  | 
+  | 3 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 

@@ -3,7 +3,7 @@ title: "Питер Ли"
 permalink: /ru/heroes/Peter Lee/
 excerpt: "Питер Ли - легендарный пират, который разбою и грабежам предпочитает сокровища и приключения. Ходят слухи, что его флот доплывал до края мира."
 heroID: 61801
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Peter Lee"
 toc: true
@@ -14,7 +14,7 @@ toc: true
 
  **Race:** 
 
- **Rate:** ?
+ **Rate:** R+
 
  **Specialty:** Поднятый парус
 
@@ -47,7 +47,7 @@ toc: true
 ## HERO Biography
 
 ## HERO Skins
-### Skin 1: **Классический**
+### Skin 1: **null**
 
  **Description:** <span style="color: #ffffff;font-size:20px">На море никто нет никого быстрее моего ворона. Даже буре за ним не угнаться!</span>
 

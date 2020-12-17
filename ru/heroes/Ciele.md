@@ -3,7 +3,7 @@ title: "Сиэль"
 permalink: /ru/heroes/Ciele/
 excerpt: ""
 heroID: 60705
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Ciele"
 toc: true
@@ -66,5 +66,5 @@ toc: true
 ## Initial Mastery
    - Наступление
    - Доспехи
-   - null
+   - Стрельба
    - Поиск пути

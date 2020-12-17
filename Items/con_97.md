@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Vega Ciele"
+title: "Item - Consumables -  118 Diamond Pack"
 permalink: /Items/con_97/
-excerpt: " Vega Ciele"
-last_modified_at: 2020-12-13
+excerpt: " 118 Diamond Pack"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_97.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 1,980 Diamonds and 1 Vega Ciele skin.
+ **Description:** A package of 118 diamonds!
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
- **Type:** Gift
+ **Type:** EXP
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **980x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Vega Ciele | Use to get a skin: Vega Ciele  | 

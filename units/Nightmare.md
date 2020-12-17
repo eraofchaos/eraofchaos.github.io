@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Units Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Nightmare"
 toc: true
@@ -92,7 +92,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Description:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
 
 ### Awaking Tasks
  1. 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Energy Core Special Skin"
+title: "Item - Consumables -  Bonetooth Necklace"
 permalink: /Items/con_57/
-excerpt: " Energy Core Special Skin"
-last_modified_at: 2020-12-13
+excerpt: " Bonetooth Necklace"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_57.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** 
+ **Description:** A necklace made from the skulls of powerful beasts. Can be exchanged for Stronghold Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

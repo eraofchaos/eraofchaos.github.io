@@ -3,7 +3,7 @@ title: "Луна"
 permalink: /ru/heroes/Luna/
 excerpt: ""
 heroID: 60701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Luna"
 toc: true
@@ -52,7 +52,7 @@ toc: true
  **Description:** <span style="color: #ffffff;font-size:20px">Огонь был первой силой, освоенной смертными. Он помогал выживать... и разрушать.</span>
 
 
-### Skin 2: **null**
+### Skin 2: **Рожденная из пепла**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Луна невредимой выбралась из смертельного огненного кольца; с тех пор она владеет способностью рассеивать холод и темноту. </span>
 
@@ -66,5 +66,5 @@ toc: true
 ## Initial Mastery
    - Наступление
    - Доспехи
-   - null
+   - Стрельба
    - Поиск пути

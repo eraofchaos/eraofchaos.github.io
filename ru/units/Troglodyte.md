@@ -3,7 +3,7 @@ title: "Троглодит"
 permalink: /ru/units/Troglodyte/
 excerpt: "Отряды Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась."
 unitID: 701
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Троглодит"
 toc: true
@@ -90,40 +90,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Темный троглодит
 
- **Awaking Description:** null
+ **Awaking Description:** Отважные краснокожие троглодиты в ледяных доспехах постоянно точат свои и без того острые копья и ждут лишь одного: когда звуки рога, зовущего в атаку, разнесутся по подземелью.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. null
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ троглодитов на уровнях 14-2 и 14-4 в Подземелье. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. <span style="color: #876741;font-size:18px">Используйте троглодитов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Подземелья, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): null
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: повышает урон на 50%, увеличивает скорость атаки на 30%. Длительность: 5 сек.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
+### 2nd Skill (or 1st): Страшный лес копий
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: усиливает эффект оглушения на 50%, повышает защиту на 30%. Длительность: 5 сек.</span>
+
+### 3rd Skill (or 4th): Острое восприятие
  **Description:** 
 
-### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+### 4th Skill (or 3rd): Проницательность
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Острота&gt;</span><span style="color: #645252;font-size:18px">: время действия кровотечения на троглодитов сокращается до 1 сек., при получении эффекта кровотечения бойцы наносят вражескому отряду урон в размере 500% от АТК. АТК повышается на 15%. Длительность: 7 сек., восстановление: 15 сек.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+### 5th Skill (or 6th): Опасный яд
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Отравленное копье&gt;</span><span style="color: #645252;font-size:18px">: атака по отравленному отряду каждую секунду наносит продолжительный урон в размере 60% от АТК и снижает урон вражеского отряда на 15%. Длительность: 5 сек.</span>
 
-### 5th Skill (or 6th): null
- **Description:** 
-
-### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Смертоносная инфекция
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Отравленное копье&gt;</span><span style="color: #645252;font-size:18px">: атака по отравленному отряду каждую секунду наносит продолжительный урон в размере 60% от АТК и снижает сопротивление урону у вражеского отряда на 15%. Длительность: 5 сек.</span>
 
 ## Technical info
  **runart:** 1

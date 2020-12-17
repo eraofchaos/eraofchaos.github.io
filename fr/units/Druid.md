@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /fr/units/Druid/
 excerpt: "Unités Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: fr
 ref: "Druidesse"
 toc: true
@@ -88,20 +88,20 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Archidruidesse
 
- **Awaking Description:** 
+ **Awaking Description:** Le soleil chaud fait fondre la neige, et la légère brise réveille les créatures endormies. Un chardonneret chante le chant de la vie, troublant le calme de la forêt silencieuse.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #3c2a1e;font-size:18px">Déployez la Druidesse et au moins </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unités de Lanceurs de sorts pour venir à bout de </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> vagues de Trépassés dans la crypte en une fois. (Les raids ne comptent pas pour la mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ressources lors d'une aventure de guilde.</span>
 
- 3. 
+ 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes d'Archidruidesse dans les niveaux 16-2 et 16-4 du souterrain.</span>
 
- 4. 
+ 4. <span style="color: #3c2a1e;font-size:18px">Déployez la Druidesse et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Rempart pour remporter 1 combat de Duel de champions. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 

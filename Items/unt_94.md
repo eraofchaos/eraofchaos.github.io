@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Wood Elf"
+title: "Item - Units -  Cyclops"
 permalink: /Items/unt_94/
-excerpt: " Wood Elf"
-last_modified_at: 2020-12-13
+excerpt: " Cyclops"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_94.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Wood Elf, an SR aptitude unit.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Cyclops, an SR aptitude unit.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,11 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Underground 5 (Pioneer) -> 5-5 
-*    Underground 11 (Harvest Season) -> 11-5 
-*    Underground 23 (Independence) -> 23-1 
+*    Underground 19 (Neutral Ground) -> 19-3 
+*    Underground 26 (Sound of Fate) -> 26-3 
 *    Altar of Recruitment 
-*    Barracks Redemption - Wood Elf 
+*    Barracks Redemption - Cyclops 
 
 ## This item contains:
 

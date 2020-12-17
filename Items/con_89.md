@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Player EXP"
+title: "Item - Consumables -  Halberdier's Soul"
 permalink: /Items/con_89/
-excerpt: " Player EXP"
-last_modified_at: 2020-12-13
+excerpt: " Halberdier's Soul"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_89.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Everyone loves gaining more experience!
+ **Description:** Immortal Heroic Soul, can be used for Pikemen's Awakening
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

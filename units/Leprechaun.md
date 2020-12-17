@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "Leprechaun"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Recommend:** 
 
- **Info:** 
+ **Info:** A blocking expert with collective defense and elemental shields.
 
 ## Basic stats
  **Base HP:** 3162.0
@@ -90,9 +90,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Sacred Tree Guardian Spirit
 
- **Awaking Description:** 
+ **Awaking Description:** Legend speaks of a massive World Tree in the Conflux Plane. Ancient and mysterious, adventurers both yearn for and fear it. This is because of the group of ferocious guardians garrisoned nearby—any creatures who dare to approach the World Tree are eliminated. Countless brave young adventurers have gone there out of admiration, but they have never returned.
 
 ### Awaking Tasks
  1. 
@@ -105,23 +105,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Heavy Punch
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is burning, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Direct Blow
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is frozen, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Lucky Number
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortune&gt;</span><span style="color: #645252;font-size:18px"> Leprechaun's own skill effect stacks are increased by 5-12 stacks.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Fortuitous Number
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortune&gt;</span><span style="color: #645252;font-size:18px"> Skill effects are multiplied by 3x against 4-man units, and 6x for 9-man units and 16-man units.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Tactical Defense
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Block&gt;</span><span style="color: #645252;font-size:18px"> When Leprechaun is inflicted with Bleed, Stun, or Silence, each debuff increases Leprechaun's Shield Value by 200 for 7s.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Resistant Defense
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Block&gt;</span><span style="color: #645252;font-size:18px"> When Leprechaun is inflicted with Fear, Crystallization, or Deterrence, each debuff increases Leprechaun's Shield Value by 300 for 7s.</span>
 
 ## Technical info
  **runart:** 0

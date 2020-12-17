@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Hero Support Pack"
 permalink: /Items/con_7/
 excerpt: " Hero Support Pack"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_7.md"
 toc: false

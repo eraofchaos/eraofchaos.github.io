@@ -3,7 +3,7 @@ title: "Эрдамон"
 permalink: /ru/heroes/Erdamon/
 excerpt: ""
 heroID: 60703
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Erdamon"
 toc: true
@@ -56,5 +56,5 @@ toc: true
 ## Initial Mastery
    - Наступление
    - Доспехи
-   - null
+   - Стрельба
    - Поиск пути

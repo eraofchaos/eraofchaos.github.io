@@ -3,7 +3,7 @@ title: "Unknown_TEAM_208"
 permalink: /ru/units/Druid/
 excerpt: "Отряды null"
 unitID: 208
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Unknown_TEAM_208"
 toc: true
@@ -88,11 +88,11 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Великий друид
 
- **Awaking Description:** 
+ **Awaking Description:** Солнце согревает землю и пробуждает все вокруг. Тает снег, поют птицы, из земли пробиваются первые ростки.
 
 ### Awaking Tasks
  1. null
@@ -101,7 +101,7 @@ toc: true
 
  3. null
 
- 4. 
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте друидов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы победить в 1 бою Дуэли заступников. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 

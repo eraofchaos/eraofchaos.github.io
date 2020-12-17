@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Master Archer Soul Stone"
+title: "Item - Units -  Gremlin"
 permalink: /Items/unt_79/
-excerpt: " Master Archer Soul Stone"
-last_modified_at: 2020-12-13
+excerpt: " Gremlin"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_79.md"
 toc: false
@@ -11,15 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A soul stone for Marksman's Awakening level enhancement.
+ **Description:** Once you have gathered 10 soul tokens you can summon a Gremlin. Tokens can also be used to upgrade or increase the rank of Gremlins.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-*    Arena Store 
+*    Underground 11 (Harvest Season) -> 11-3 
+*    Underground 14 (Safe Passage) -> 14-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Gremlin 
 
 ## This item contains:
 

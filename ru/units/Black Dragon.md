@@ -1,15 +1,15 @@
 ---
 title: "Красный дракон"
 permalink: /ru/units/Black Dragon/
-excerpt: "Отряды null"
+excerpt: "Отряды Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
 unitID: 707
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Красный дракон"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Description:** Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем.
 
  **Class:** Защита
 

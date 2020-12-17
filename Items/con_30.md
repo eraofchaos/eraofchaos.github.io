@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Holy Emblem Lucky Pack 3"
+title: "Item - Consumables -  Star Soul"
 permalink: /Items/con_30/
-excerpt: " Holy Emblem Lucky Pack 3"
-last_modified_at: 2020-12-13
+excerpt: " Star Soul"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_30.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 2 Random Orange Holy Emblem Packs, 10 Multi-choice Cast Stone Packs, and 14,000 Soul Stones.
+ **Description:** A material used for activating Stars. Obtained by converting Hero Tokens. Each hero requires a different unique Star Soul
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Gift
+ **Type:** Unknown
 
 ## Gather
 
@@ -23,12 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **2x** | Random Orange Holy Emblem Pack | Grants 1 random Orange Holy Emblem.  | 
-  | 2 |  **10x** | Multi-choice Cast Stone Pack | Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1  | 
-  | 3 |  **14000x** | Soul Stone | Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store  | 

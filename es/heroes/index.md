@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /es/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-17
 lang: es
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaide](/es/heroes/Adelaide/) | Castillo | Clérigos | R+ |  Anillo Gélido  |
   | 2 | [Astral](/es/heroes/Astral/) | Torre | Hechicero | SSR |  Amplificación mágica  |
-  | 3 | [Cassanbel](/es/heroes/Cassanbel/) | Cala | Criaturas marinas | ? |  Canción del Océano  |
+  | 3 | [Cassanbel](/es/heroes/Cassanbel/) | Cala | Criaturas marinas | SSR |  Canción del Océano  |
   | 4 | [Catherine](/es/heroes/Catherine/) | Castillo | Caballero | R |  Cruzado de Hierro  |
   | 5 | [Ciele](/es/heroes/Ciele/) | Conflujo | Elementalista | SSR |  Resonancia elemental  |
   | 6 | [Crag Hack](/es/heroes/Crag Hack/) | Bastión | Bárbaro | R+ |  Ofensa  |
@@ -35,7 +35,7 @@ classes: wide
   | 23 | [Monere](/es/heroes/Monere/) | Conflujo | Caminante de Planos | R |  Elemental Psíquico  |
   | 24 | [Mullich](/es/heroes/Mullich/) | Castillo | Caballero | R+ |  Asalto de carga  |
   | 25 | [Mutare](/es/heroes/Mutare/) | Mazmorra | Adalid | R |  Torrente de Mazmorra  |
-  | 26 | [PeterLee](/es/heroes/Peter Lee/) | Cala | Pirata | ? |  Zarpar  |
+  | 26 | [PeterLee](/es/heroes/Peter Lee/) | Cala | Pirata | R+ |  Zarpar  |
   | 27 | [Rashka](/es/heroes/Rashka/) | Infierno | Demoníaco | R |  Señor del Fuego  |
   | 28 | [Roland](/es/heroes/Roland/) | Castillo | Caballero | SR+ |  Moral elevada  |
   | 29 | [Ryland](/es/heroes/Ryland/) | Murallas | Guardabosques | R |  Guardia Dendroide  |

@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /fr/units/Nightmare/
 excerpt: "Unités Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: fr
 ref: "Cauchemar"
 toc: true
@@ -92,7 +92,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Description:** Émergeant du royaume des rêves, sillonnant la lave pour rejoindre le monde des vivants, son corps enveloppé d'une aura terrifiante. Son souffle ardent laisse derrière lui une traînée de cendre, et son sang n'est que magma en fusion. Lorsqu'il attaque, même le plus brave des guerriers prend peur et devient incapable de brandir son épée sous l'effet du tremblement de ses mains.
 
 ### Awaking Tasks
  1. 

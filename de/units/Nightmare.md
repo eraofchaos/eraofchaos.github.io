@@ -3,7 +3,7 @@ title: "Nachtmahr"
 permalink: /de/units/Nightmare/
 excerpt: "Einheiten Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: de
 ref: "Nachtmahr"
 toc: true
@@ -92,7 +92,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Description:** Aus dem Reich der Träume kommend und die Lava auf dem Weg in die Welt der Lebenden überquerend, ist sein Körper von einer schrecklichen Aura umgeben. Die Flammen, die er ausatmet, verbrennen alles zu Asche, und geschmolzenes, heißes Magma fließt durch seine Venen. Wenn er angreift, sind selbst die tapfersten aller Krieger durch ihre Angst geschwächt und haben Mühe, ihre Schwerter zu heben und gegen ihn zu kämpfen.
 
 ### Awaking Tasks
  1. 

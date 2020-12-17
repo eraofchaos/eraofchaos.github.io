@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Premium Energy Pack"
+title: "Item - Consumables -  Small Roster runes"
 permalink: /Items/con_91/
-excerpt: " Premium Energy Pack"
-last_modified_at: 2020-12-13
+excerpt: " Small Roster runes"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_91.md"
 toc: false
@@ -11,23 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 180 diamonds and 6 large energy potions.
+ **Description:** Important item to increase your small units' rankings.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
-  None
+*    Guild Store 
+*    Dragon Utopia 
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **180x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **6x** | Large Energy Potion | A bottle of highly purified energy potion. You will gain 60 energy after drinking it.  | 

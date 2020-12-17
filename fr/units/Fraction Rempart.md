@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Rempart -  Units"
 permalink: /fr/units/Fraction Rempart/
 excerpt: "Fraction Rempart - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: fr
 ref: "Fraction Rempart"
 toc: false
@@ -21,4 +21,4 @@ classes: wide
   | 5 | [Garde sylvanien](/fr/units/Dendroid Guard/) | Défense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  kumuweishio  |
   | 6 | [Dragon vert](/fr/units/Green Dragon/) | Lanceur de sorts | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  lvlong  |
   | 7 | [Licorne](/fr/units/Unicorn/) | Assaut | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
-  | 8 | [Druidesse](/fr/units/Druid/) | Lanceur de sorts | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 8 | [Druidesse](/fr/units/Druid/) | Lanceur de sorts | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |

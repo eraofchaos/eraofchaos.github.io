@@ -3,7 +3,7 @@ title: "Incubo"
 permalink: /it/units/Nightmare/
 excerpt: "Unità L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: it
 ref: "Incubo"
 toc: true
@@ -92,7 +92,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Description:** Mentre emerge dal mondo dei sogni e attraversa il magma che lo separa dal regno dei vivi, il suo corpo è avvolto da un'aura terrificante. Il suo alito infuocato riduce in cenere tutto quello che tocca, e nelle sue vene scorre autentica lava. Quando parte all'assalto, il terrore attanaglia anche i più audaci guerrieri, rendendo pesanti le spade nelle loro mani.
 
 ### Awaking Tasks
  1. 

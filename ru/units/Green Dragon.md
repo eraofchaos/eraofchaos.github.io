@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /ru/units/Green Dragon/
 excerpt: "Отряды Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "Зеленый дракон"
 toc: true
@@ -99,9 +99,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ золотых драконов на уровнях 16-2 и 16-4 в Подземелье.</span>
+ 3. null
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз, используя зеленых драконов.</span>
 
 ## Awaken Skills
 

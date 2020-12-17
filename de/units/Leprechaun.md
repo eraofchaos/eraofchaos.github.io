@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /de/units/Leprechaun/
 excerpt: "Einheiten Die in jadegrüne Mäntel gekleideten Leprechauns waren einst Kinder des Waldes, die frei und ohne Sorgen unter dem Schutz des Weltenbaumes lebten. Doch die Kriegsfanfaren Erathias haben ihren Mut erweckt, den Weltenbaum zu beschützen."
 unitID: 909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: de
 ref: "Leprechaun"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Recommend:** 
 
- **Info:** 
+ **Info:** Ein Blockade-Experte mit kollektiver Verteidigung und Elementarschilden.
 
 ## Basic stats
  **Base HP:** 3162.0
@@ -90,9 +90,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Wächtergeist des heiligen Baumes
 
- **Awaking Description:** 
+ **Awaking Description:** Legenden erzählen von einem riesigen Weltenbaum in der Konflux-Ebene. Er ist uralt und geheimnisvoll, weshalb Abenteurer ihn sowohl begehren als auch fürchten. Das liegt an der Gruppe grausamer Wächter, die in der Nähe stationiert sind – jede Kreatur, die es wagt, sich dem Weltenbaum zu nähern, wird eliminiert. Unzählige tapfere, junge Abenteurer sind aus Bewunderung dort hingegangen, doch sie sind niemals zurückgekehrt.
 
 ### Awaking Tasks
  1. 
@@ -105,23 +105,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Schwerer Schlag
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit um 3 %. Falls das Ziel den Status „Verbrennung“ hat, wird seine ABW ebenfalls um 2 % verringert. Jeder Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Direkter Hieb
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit um 3 %. Falls das Ziel den Status „Einfrieren“ hat, wird seine ABW ebenfalls um 2 % verringert. Jeder Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Glückszahl
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> Das Stapeln für die eigenen Fähigkeitseffekte des Leprechauns wird um 5 – 12 Stapel erhöht.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Glückliche Zahl
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> Fähigkeitseffekte werden gegen 4-Mann-Einheiten mit 3 und gegen 9- und 16-Mann-Einheiten mit 6 multipliziert.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Taktische Verteidigung
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Taktische Blockade&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Leprechaun mit „Blutung“, „Betäuben“ oder „Stille“ belegt wird, erhöht jeder Debuff den Schildwert des Leprechauns 7 Sek. lang um 200.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Resistente Verteidigung
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Taktische Blockade&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Leprechaun mit „Angst“, „Kristallisation“ oder „Schock“ belegt wird, erhöht jeder Debuff den Schildwert des Leprechauns 7 Sek. lang um 300.</span>
 
 ## Technical info
  **runart:** 0

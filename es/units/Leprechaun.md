@@ -3,7 +3,7 @@ title: "Duendecillo"
 permalink: /es/units/Leprechaun/
 excerpt: "Unidades En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo."
 unitID: 909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: es
 ref: "Duendecillo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Recommend:** 
 
- **Info:** 
+ **Info:** Un experto en boqueo con Defensa colectiva y escudo Elemental.
 
 ## Basic stats
  **Base HP:** 3162.0
@@ -90,9 +90,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Espíritu Guardián del Árbol Sagrado
 
- **Awaking Description:** 
+ **Awaking Description:** La leyenda habla de un inmenso Árbol del Mundo en el Plano del Conflujo. Los aventureros anhelan y temen este árbol antiguo y misterioso. Eso se debe a que un grupo de feroces guardianes está guarnecido cerca de él, preparado para eliminar a cualquier criatura que se atreva a acercarse al Árbol del Mundo. Muchos aventureros valientes han partido hacia allí por admiración, pero jamás han regresado.
 
 ### Awaking Tasks
  1. 
@@ -105,23 +105,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Golpe pesado
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo tiene quemadura, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Golpe directo
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo está congelado, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Número de la suerte
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> La acumulación del efecto de la habilidad propia del Duendecillo aumenta a 5-12 acumulaciones.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Número fortuito
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> Los efectos de la habilidad se multiplican por 3 contra unidades de 4 hombres y por 6 contra unidades de 9 y 16 hombres.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Defensa táctica
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloqueo táctico&gt;</span><span style="color: #645252;font-size:18px"> Cuando el Duendecillo sufre sangrado, aturdimiento o silencio, cada penalización aumenta el valor de escudo del Duendecillo en 200 durante 7 s.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Defensa resistente
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloqueo táctico&gt;</span><span style="color: #645252;font-size:18px"> Cuando el Duendecillo sufre miedo, cristalización o impacto, cada penalización aumenta el valor de escudo del Duendecillo en 300 durante 7 s.</span>
 
 ## Technical info
  **runart:** 0

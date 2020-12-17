@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Viod Mithril"
+title: "Item - Consumables -  Evil Sigil"
 permalink: /Items/con_42/
-excerpt: " Viod Mithril"
-last_modified_at: 2020-12-13
+excerpt: " Evil Sigil"
+last_modified_at: 2020-12-17
 lang: en
 ref: "con_42.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment.
+ **Description:** A seal containing deadly powers. Can be exchanged for Necropolis Faction items in corresponding events.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 

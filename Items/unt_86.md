@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Energy Elemental Soul Stone"
+title: "Item - Units -  Spartan Warriors"
 permalink: /Items/unt_86/
-excerpt: " Energy Elemental Soul Stone"
-last_modified_at: 2020-12-13
+excerpt: " Spartan Warriors"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_86.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Energy Elemental's Awakening level enhancement
+ **Description:** Once you have gathered 80 tokens, you can summon Spartan Warriors. Tokens can also be used to upgrade or increase the rank of Spartan Warriors.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-*    Gods Store 
+  None
 
 ## This item contains:
 

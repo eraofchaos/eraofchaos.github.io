@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "List of ALL Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: en
 ref: "index.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
   | 15 | [Dendroid Guard](/units/Dendroid Guard/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  kumuweishio  |
   | 16 | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  daemo  |
   | 17 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  longgui  |
-  | 18 | [Druid](/units/Druid/) | Caster | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 18 | [Druid](/units/Druid/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 19 | [Dwarf](/units/Dwarf/) | Defense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  airen  |
   | 20 | [Efreeti](/units/Efreeti/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 21 | [Fire Elemental](/units/Fire Elemental/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
@@ -83,7 +83,7 @@ classes: wide
   | 69 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |  shixianggui  |
   | 70 | [Storm Elemental](/units/Storm Elemental/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
   | 71 | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  shizijun  |
-  | 72 | [Troglodyte](/units/Troglodyte/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 72 | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 73 | [Unicorn](/units/Unicorn/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
   | 74 | [Vampire](/units/Vampire/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  xixuegui  |
   | 75 | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |

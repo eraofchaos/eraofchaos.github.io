@@ -2,7 +2,7 @@
 title: "Item - Units -  Waspwort"
 permalink: /Items/unt_47/
 excerpt: " Waspwort"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_47.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Units -  Efreet Sultan Soul Stone"
 permalink: /Items/unt_50/
 excerpt: " Efreet Sultan Soul Stone"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_50.md"
 toc: false

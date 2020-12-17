@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /ru/units/
 excerpt: "List of ALL Отряды in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: ru
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
-  | 1 | [Unknown_TEAM_208](/ru/units/Druid/) | Заклинатель | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
+  | 1 | [Unknown_TEAM_208](/ru/units/Druid/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 2 | [Unknown_TEAM_407](/ru/units/Behemoth/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  bimengjushou  |
   | 3 | [Unknown_TEAM_508](/ru/units/Nightmare/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |  mengyan  |
   | 4 | [Unknown_TEAM_601](/ru/units/Gremlin/) | Стрелковый | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  dayaojing  |
@@ -82,7 +82,7 @@ classes: wide
   | 68 | [Рух](/ru/units/Roc/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 4978 |  leiniao  |
   | 69 | [Скелет](/ru/units/Skeleton/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  kuloubing  |
   | 70 | [Спартанец](/ru/units/Spartan Warriors/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 216.0 | 2825 |  sibada  |
-  | 71 | [Троглодит](/ru/units/Troglodyte/) | Наступление | - | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
+  | 71 | [Троглодит](/ru/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  dongxueren  |
   | 72 | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
   | 73 | [Циклоп](/ru/units/Cyclops/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5091 |  duyanjuren  |
   | 74 | [Черный рыцарь](/ru/units/Black Knight/) | Штурм | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |

@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Firebird"
+title: "Item - Units -  Energy Elemental Soul Stone"
 permalink: /Items/unt_88/
-excerpt: " Firebird"
-last_modified_at: 2020-12-13
+excerpt: " Energy Elemental Soul Stone"
+last_modified_at: 2020-12-17
 lang: en
 ref: "unt_88.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 80 soul tokens you can summon a Firebird. Tokens can also be used to upgrade or increase the rank of Firebirds.
+ **Description:** Soul Stone for Energy Elemental's Awakening level enhancement
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Barracks Redemption - Phoenix 
+*    Gods Store 
 
 ## This item contains:
 

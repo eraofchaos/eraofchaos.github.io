@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /it/units/Leprechaun/
 excerpt: "Unità Coperti da vesti di un verde brillante, i Leprecauni erano un tempo semplici figli della foresta e vivevano liberi e spensierati sotto l'egida dell'Albero del Mondo. Tuttavia, i corni di guerra che risuonano in tutta l'Erathia hanno donato loro il coraggio necessario a proteggere l'Albero."
 unitID: 909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-17
 lang: it
 ref: "Leprecauno"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Recommend:** 
 
- **Info:** 
+ **Info:** Un esperto di parate, che offre difesa di gruppo e scudi elementali.
 
 ## Basic stats
  **Base HP:** 3162.0
@@ -90,9 +90,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Spirito guardiano dell'albero sacro
 
- **Awaking Description:** 
+ **Awaking Description:** Le leggende narrano dell'immenso Albero del Mondo del Piano di Confluenza. Antico e misterioso, è una meta tanto ambita quanto temuta dagli avventurieri. Lo protegge infatti una banda di terrificanti guardiani; chiunque osi avvicinarsi all'Albero viene annientato. Numerosi audaci avventurieri sono andati alla sua ricerca, ma nessuno è mai tornato.
 
 ### Awaking Tasks
  1. 
@@ -105,23 +105,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Pugno possente
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è affetto da &lt;Combustione&gt;, inoltre, la sua DIF viene ridotta del 2%. Ciascun debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Colpo diretto
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è &lt;congelato&gt;, inoltre, la sua DIF viene ridotta del 2%. Ciascun debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Numero fortunato
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sorte&gt;</span><span style="color: #645252;font-size:18px"> Gli effetti delle tecniche del Leprecauno sono cumulabili da 5 a 12 volte in più.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Numero provvidenziale
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sorte&gt;</span><span style="color: #645252;font-size:18px"> Gli effetti delle tecniche sono moltiplicati per 3 contro unità da 4 membri e per 6 contro unità da 9 e 16 membri.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Difesa tattica
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Parata tattica&gt;</span><span style="color: #645252;font-size:18px"> Se il Leprecauno è affetto da &lt;Sanguinamento&gt;, &lt;Stordimento&gt; o &lt;Silenzio&gt;, ciascun debuff aumenta il suo &lt;scudo&gt; di 200 per 7 secondi.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Difesa impenetrabile
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Parata tattica&gt;</span><span style="color: #645252;font-size:18px"> Se il Leprecauno è affetto da &lt;Paura&gt;, &lt;Cristallizzazione&gt; o &lt;Shock&gt;, ciascun debuff aumenta il suo &lt;scudo&gt; di 300 per 7 secondi.</span>
 
 ## Technical info
  **runart:** 0
