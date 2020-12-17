@@ -2,11 +2,37 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /de/Weekly Sign Rewards/
 excerpt: "Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-17
 lang: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 52  Turmwoche
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **28.12**  | **5x Gremlin**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **29.12**  | **3x Stein-Wasserspeier**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **30.12**  | **100x gem**  | Während Eures Studiums der Alchemie ereilten Euch einige Überraschungen! |
+  | **31.12**  | **3x Eisengolem**  | Ein Trupp von Eisengolems schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **1.1**  | **3x Einheitentruhe (Turm)**  | Du hast mehrere wunderschöne Truhen im arkanen Laboratorium des Turms gefunden! |
+  | **2.1**  | **3x Magierin**  | Ein Trupp Magierinnen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **3.1**  | **5x Solmyr**  | Eure Erforschung des Arkanen brachte Solmyr dazu, sich Eurer Armee anzuschließen! |
+
+
+#### 2020 CW 51  Dungeonwoche
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **21.12**  | **5x Troglodyt**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **22.12**  | **3x Harpyie**  | Ein Trupp von Harpyien schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **23.12**  | **100x gem**  | Die Kreaturen des dunklen Untergrunds überreichen Euch einen kleinen Haufen Diamanten! |
+  | **24.12**  | **3x Minotaurus**  | Ein Trupp von Minotauren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **25.12**  | **5x Dungeon-Fraktion-Truhe**  | Eure Armee suchte nach diversen verlorenen Schatztruhen im Untergrund. |
+  | **26.12**  | **3x Mantikor**  | Ein Trupp von Mantikoren hat sich deiner Armee angeschlossen. Du bist stärker geworden! |
+  | **27.12**  | **5x Mutare**  | Dem Rat des uralten Drachen folgend, schloss Mutare sich Eurer Armee an! |
+
 
 #### 2020 CW 50  Schutzwallwoche
 

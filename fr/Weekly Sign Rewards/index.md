@@ -2,11 +2,37 @@
 title: "Récompenses totales"
 permalink: /fr/Weekly Sign Rewards/
 excerpt: "Weekly Récompenses totales."
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-17
 lang: fr
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 52  Semaine de la Tour
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **28.12**  | **5x Lutin**  | Une escouade de Lutins a rejoint votre armée et vous renforce ! |
+  | **29.12**  | **3x Gargouille**  | Une escouade de Gargouilles a rejoint votre armée et vous renforce ! |
+  | **30.12**  | **100x gem**  | Vous avez eu plusieurs surprises pendant votre étude de l'alchimie ! |
+  | **31.12**  | **3x Golem de fer**  | Une escouade de Golems de fer a rejoint votre armée et vous renforce ! |
+  | **1.1**  | **3x Coffre (Tour)**  | Vous avez découvert de jolis coffres dans le laboratoire ésotérique de la Tour ! |
+  | **2.1**  | **3x Mage**  | Une escouade de Mages a rejoint votre armée et vous renforce ! |
+  | **3.1**  | **5x Solmyr**  | Vos recherches de l'arcane ont attiré l'attention de Solmyr. Il souhaite rejoindre votre armée ! |
+
+
+#### 2020 CW 51  Semaine du Donjon
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **21.12**  | **5x Troglodyte**  | Une escouade de Troglodytes a rejoint votre armée et vous renforce ! |
+  | **22.12**  | **3x Harpie**  | Une escouade de Harpies a rejoint votre armée et vous renforce ! |
+  | **23.12**  | **100x gem**  | Les créatures des ténèbres souterraines vous offrent un petit amas de diamants ! |
+  | **24.12**  | **3x Minotaure**  | Une escouade de Minotaures a rejoint votre armée et vous renforce ! |
+  | **25.12**  | **5x Coffre de faction (Donjon)**  | Votre armée a fouillé le souterrain en quête de coffres au trésor perdus. |
+  | **26.12**  | **3x Manticore**  | Une escouade de Manticores a rejoint votre armée et vous renforce ! |
+  | **27.12**  | **5x Mutare**  | À la suite de ces conseils, l'ancien dragon Mutare a rejoint votre armée ! |
+
 
 #### 2020 CW 50  Semaine du Rempart
 

@@ -2,11 +2,37 @@
 title: "Ricompense giornaliere"
 permalink: /it/Weekly Sign Rewards/
 excerpt: "Weekly Ricompense giornaliere."
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-17
 lang: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 52  Settimana della Torre
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **28.12**  | **5x Gremlin**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **29.12**  | **3x Gargolla di pietra**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **30.12**  | **100x gem**  | I tuoi studi alchemici ti hanno riservato delle sorprese inaspettate! |
+  | **31.12**  | **3x Golem di ferro**  | Un gruppo di Golem di ferro è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **1.1**  | **3x Scrigno Unità Torre**  | Hai scoperto una serie di splendidi scrigni nel laboratorio arcano della Torre! |
+  | **2.1**  | **3x Mago**  | Un gruppo di Maghi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **3.1**  | **5x Solmyr**  | I tuoi studi sulle arti arcane hanno incuriosito Solmyr, che ha deciso di unirsi al tuo esercito! |
+
+
+#### 2020 CW 51  Settimana del Dungeon
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **21.12**  | **5x Troglodita**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **22.12**  | **3x Arpia**  | Un gruppo di Arpie è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **23.12**  | **100x gem**  | Le creature del Sottosuolo ti fanno omaggio di un mucchietto di Diamanti! |
+  | **24.12**  | **3x Minotauro**  | Un gruppo di Minotauri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **25.12**  | **5x Scrigno Dungeon**  | Le tue truppe sono andate in cerca di alcuni tesori perduti nelle profondità del Sottosuolo. |
+  | **26.12**  | **3x Manticora**  | Un gruppo di Manticore è entrato a far parte del tuo esercito. Diventi sempre più forte! |
+  | **27.12**  | **5x Mutare**  | Seguendo i consigli di un antico drago, Mutare ha deciso di unirsi al tuo esercito! |
+
 
 #### 2020 CW 50  Settimana del Baluardo
 

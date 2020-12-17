@@ -2,11 +2,37 @@
 title: "Recompensa completa"
 permalink: /es/Weekly Sign Rewards/
 excerpt: "Weekly Recompensa completa."
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-17
 lang: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 52  Semana de la Torre
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **28.12**  | **5x Gremlin**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
+  | **29.12**  | **3x Gárgola de Piedra**  | ¡Un escuadrón de Gárgolas de Piedra se une a tu ejército y te vuelves más fuerte! |
+  | **30.12**  | **100x gem**  | ¡Te llevas sorpresas inesperadas durante tu estudio de la alquimia! |
+  | **31.12**  | **3x Gólem de Hierro**  | ¡Un escuadrón de Gólems de Hierro se une a tu ejército y te vuelves más fuerte! |
+  | **1.1**  | **3x Cofre de unidad de Torre**  | ¡Has descubierto varios cofres preciosos en el laboratorio arcano de la Torre! |
+  | **2.1**  | **3x Maga**  | ¡Un escuadrón de Magas se une a tu ejército y te vuelves más fuerte! |
+  | **3.1**  | **5x Solmyr**  | ¡Tus investigaciones arcanas llevan a Solmyr a unirse a tu ejército! |
+
+
+#### 2020 CW 51  Semana de la Mazmorra
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **21.12**  | **5x Troglodita**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
+  | **22.12**  | **3x Arpía**  | ¡Un escuadrón de Arpías se une a tu ejército y te vuelves más fuerte! |
+  | **23.12**  | **100x gem**  | ¡Las criaturas del Subterráneo oscuro te han traído un pequeño cúmulo de diamantes! |
+  | **24.12**  | **3x Minotauro**  | ¡Un escuadrón de Minotauros se une a tu ejército y te vuelves más fuerte! |
+  | **25.12**  | **5x Cofre de facción de Mazmorra**  | Tu ejército busca cofres del tesoro perdidos en el Subterráneo. |
+  | **26.12**  | **3x Mantícora**  | ¡Un escuadrón de Mantícoras se ha unido a tu ejército y te vuelves más fuerte! |
+  | **27.12**  | **5x Mutare**  | ¡Siguiendo la guía del dragón antiguo, Mutare se une a tu ejército! |
+
 
 #### 2020 CW 50  Semana de las Murallas
 

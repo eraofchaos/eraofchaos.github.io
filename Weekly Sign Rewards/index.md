@@ -2,11 +2,37 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-17
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 52  Tower Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **28.12**  | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
+  | **29.12**  | **3x Stone Gargoyle**  | A squad of Stone Gargoyle joined your army and you become stronger! |
+  | **30.12**  | **100x gem**  | You got some unexpected surprises during your study of alchemy! |
+  | **31.12**  | **3x Iron Golem**  | A squad of Iron Golem joined your army and you become stronger! |
+  | **1.1**  | **3x Tower Unit Chest**  | You discovered several beautiful chests in the Tower's arcane laboratory! |
+  | **2.1**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
+  | **3.1**  | **5x Solmyr**  | Your research of the Arcane has attracted Solmyr to join your army! |
+
+
+#### 2020 CW 51  Dungeon Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **21.12**  | **5x Troglodyte**  | A squad of Troglodytes joined your army and you became stronger! |
+  | **22.12**  | **3x Harpy**  | A squad of Harpy joined your army and you become stronger! |
+  | **23.12**  | **100x gem**  | The creatures of the dark underground present you a small cluster of Diamonds! |
+  | **24.12**  | **3x Minotaur**  | A squad of Minotaur joined your army and you become stronger! |
+  | **25.12**  | **5x Dungeon Faction Chest**  | Your army searched for several lost treasure chests in the Underground. |
+  | **26.12**  | **3x Manticore**  | A squad of Manticores has joined your army. You've become stronger! |
+  | **27.12**  | **5x Mutare**  | Following the guidance the ancient dragon, Mutare joined your army! |
+
 
 #### 2020 CW 50  Rampart Week
 

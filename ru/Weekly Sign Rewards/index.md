@@ -2,11 +2,37 @@
 title: "Награда"
 permalink: /ru/Weekly Sign Rewards/
 excerpt: "Weekly Награда."
-last_modified_at: 2020-12-08
+last_modified_at: 2020-12-17
 lang: ru
 ref: "index.md"
 toc: true
 ---
+
+#### 2020 CW 52  Неделя Башни
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **28.12**  | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
+  | **29.12**  | **3x Stone Gargoyle**  | Отряд каменных горгулий присоединился к вашей армии. |
+  | **30.12**  | **100x gem**  | Очередной алхимический опыт обернулся для вас нежданной прибылью. |
+  | **31.12**  | **3x Железный голем**  | Отряд железных големов присоединился к вашей армии. |
+  | **1.1**  | **3x Сундук отрядов Башни**  | В таинственной лаборатории Башни вы обнаружили несколько роскошных сундуков! |
+  | **2.1**  | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
+  | **3.1**  | **5x Сольмир**  | Наслышанный о ваших изысканиях в области магии, Сольмир решает служить вам. |
+
+
+#### 2020 CW 51  Dungeon Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **21.12**  | **5x Troglodyte**  | A squad of Troglodytes joined your army and you became stronger! |
+  | **22.12**  | **3x Harpy**  | Отряд гарпий присоединился к вашей армии. |
+  | **23.12**  | **100x gem**  | Существа подземного мира принесли вам в дар немного алмазов. |
+  | **24.12**  | **3x Минотавр**  | Отряд минотавров присоединился к вашей армии. |
+  | **25.12**  | **5x Сундук Подземелья**  | Ваша армия провела несколько часов в поисках сокровищ, скрытых под землей. |
+  | **26.12**  | **3x Мантикора**  | A squad of Manticores has joined your army. You've become stronger! |
+  | **27.12**  | **5x Mutare**  | Following the guidance the ancient dragon, Mutare joined your army! |
+
 
 #### 2020 CW 50  Rampart Week
 
@@ -14,7 +40,7 @@ toc: true
   |:-------|:---------------|:------------------------:|
   | **14.12**  | **5x Кентавр**  | Отряд кентавров присоединился к вашей армии. |
   | **15.12**  | **3x Лесной эльф**  | Отряд лесных эльфов присоединился к вашей армии. |
-  | **16.12**  | **3x Пегас**  | A squad of Pegasus joined your army and you become stronger! |
+  | **16.12**  | **3x Пегас**  | Отряд пегасов присоединился к вашей армии. |
   | **17.12**  | **3x Единорог**  | Отряд единорогов присоединился к вашей армии. |
   | **18.12**  | **3x Гном**  | Отряд гномов присоединился к вашей армии. |
   | **19.12**  | **3x Дендроид-страж**  | A squad of Dendroid Guard joined your army and you become stronger! |
@@ -53,10 +79,10 @@ toc: true
   |:-------|:---------------|:------------------------:|
   | **23.11**  | **3x Sea Elemental**  | A squad of Sea Elemental joined your army and you become stronger! |
   | **24.11**  | **3x Регнанский пират**  | A squad of Regnan Pirates joined your army and you become stronger! |
-  | **25.11**  | **100x gem**  | The creatures of the pirate harbor present you a small cluster of Diamonds! |
+  | **25.11**  | **100x gem**  | Джентльмены удачи принесли вам в дар немного алмазов. |
   | **26.11**  | **3x Cove Faction Chest**  | Джентльмены удачи принесли вам добычу - несколько сундуков, полных сокровищ. |
   | **27.11**  | **3x Руны дозора Убежища**  | Джентльмены удачи принесли вам добычу - несколько ценных рун. |
-  | **28.11**  | **1x Панцирный дракон**  | A squad of Dragon Turtle joined your army and you become stronger! |
+  | **28.11**  | **1x Панцирный дракон**  | Отряд Панцирных драконов присоединился к вашей армии. |
   | **29.11**  | **1x Универс. жетон героя**  | The creatures of the Pirate Cove present you with a Universal (Hero) Token! |
 
 
@@ -77,10 +103,10 @@ toc: true
 
   |  Date  |      Reward    |    Reward description    |
   |:-------|:---------------|:------------------------:|
-  | **9.11**  | **5x Imp**  | Отряд бесов присоединился к вашей армии. |
+  | **9.11**  | **5x Imp**  | A squad of Imp joined your army and you become stronger! |
   | **10.11**  | **5x Gog**  | A squad of Gog joined your army and you become stronger! |
   | **11.11**  | **3x Гончая ада**  | A squad of Hell Hound joined your army and you become stronger! |
-  | **12.11**  | **5x Сундук отрядов Инферно**  | Ваши адские слуги принесли добычу - несколько сундуков, полных сокровищ. |
+  | **12.11**  | **5x Сундук отрядов Инферно**  | Your inferno corps has presented you with a number of valuable treasure chests! |
   | **13.11**  | **3x Демон**  | Отряд демонов присоединился к вашей армии. |
   | **14.11**  | **3x Порождение зла**  | A squad of Pit Fiend joined your army and you become stronger! |
   | **15.11**  | **5x Раска**  | Раска впечатлен вашими успехами и желает к вам присоединиться! |
@@ -157,7 +183,7 @@ toc: true
   |:-------|:---------------|:------------------------:|
   | **28.9**  | **5x Кентавр**  | Отряд кентавров присоединился к вашей армии. |
   | **29.9**  | **3x Лесной эльф**  | Отряд лесных эльфов присоединился к вашей армии. |
-  | **30.9**  | **3x Пегас**  | A squad of Pegasus joined your army and you become stronger! |
+  | **30.9**  | **3x Пегас**  | Отряд пегасов присоединился к вашей армии. |
   | **1.10**  | **3x Единорог**  | Отряд единорогов присоединился к вашей армии. |
   | **2.10**  | **3x Гном**  | Отряд гномов присоединился к вашей армии. |
   | **3.10**  | **3x Дендроид-страж**  | A squad of Dendroid Guard joined your army and you become stronger! |
@@ -235,7 +261,7 @@ toc: true
   |:-------|:---------------|:------------------------:|
   | **17.8**  | **5x Кентавр**  | Отряд кентавров присоединился к вашей армии. |
   | **18.8**  | **3x Лесной эльф**  | Отряд лесных эльфов присоединился к вашей армии. |
-  | **19.8**  | **3x Пегас**  | A squad of Pegasus joined your army and you become stronger! |
+  | **19.8**  | **3x Пегас**  | Отряд пегасов присоединился к вашей армии. |
   | **20.8**  | **3x Единорог**  | Отряд единорогов присоединился к вашей армии. |
   | **21.8**  | **3x Гном**  | Отряд гномов присоединился к вашей армии. |
   | **22.8**  | **3x Дендроид-страж**  | A squad of Dendroid Guard joined your army and you become stronger! |
@@ -298,10 +324,10 @@ toc: true
 
   |  Date  |      Reward    |    Reward description    |
   |:-------|:---------------|:------------------------:|
-  | **13.7**  | **5x Imp**  | Отряд бесов присоединился к вашей армии. |
+  | **13.7**  | **5x Imp**  | A squad of Imp joined your army and you become stronger! |
   | **14.7**  | **5x Gog**  | A squad of Gog joined your army and you become stronger! |
   | **15.7**  | **3x Гончая ада**  | A squad of Hell Hound joined your army and you become stronger! |
-  | **16.7**  | **5x Сундук отрядов Инферно**  | Ваши адские слуги принесли добычу - несколько сундуков, полных сокровищ. |
+  | **16.7**  | **5x Сундук отрядов Инферно**  | Your inferno corps has presented you with a number of valuable treasure chests! |
   | **17.7**  | **3x Демон**  | Отряд демонов присоединился к вашей армии. |
   | **18.7**  | **3x Порождение зла**  | A squad of Pit Fiend joined your army and you become stronger! |
   | **19.7**  | **5x Раска**  | Раска впечатлен вашими успехами и желает к вам присоединиться! |
@@ -352,7 +378,7 @@ toc: true
   |:-------|:---------------|:------------------------:|
   | **15.6**  | **5x Кентавр**  | Отряд кентавров присоединился к вашей армии. |
   | **16.6**  | **3x Лесной эльф**  | Отряд лесных эльфов присоединился к вашей армии. |
-  | **17.6**  | **3x Пегас**  | A squad of Pegasus joined your army and you become stronger! |
+  | **17.6**  | **3x Пегас**  | Отряд пегасов присоединился к вашей армии. |
   | **18.6**  | **3x Единорог**  | Отряд единорогов присоединился к вашей армии. |
   | **19.6**  | **3x Гном**  | Отряд гномов присоединился к вашей армии. |
   | **20.6**  | **3x Дендроид-страж**  | A squad of Dendroid Guard joined your army and you become stronger! |
@@ -390,8 +416,8 @@ toc: true
   |  Date  |      Reward    |    Reward description    |
   |:-------|:---------------|:------------------------:|
   | **25.5**  | **5x Imp**  | Герой Зидар, командир войска Инферно, готов служить вам. |
-  | **26.5**  | **5x Gog**  | Отряд бесов присоединился к вашей армии. |
-  | **27.5**  | **3x Гончая ада**  | Ваши адские слуги принесли добычу - несколько сундуков, полных сокровищ. |
+  | **26.5**  | **5x Gog**  | A squad of Imp joined your army and you become stronger! |
+  | **27.5**  | **3x Гончая ада**  | Your inferno corps has presented you with a number of valuable treasure chests! |
   | **28.5**  | **5x Сундук отрядов Инферно**  | A squad of Pit Fiend joined your army and you become stronger! |
   | **29.5**  | **3x Демон**  | A squad of Hell Hound joined your army and you become stronger! |
   | **30.5**  | **3x Порождение зла**  | A squad of Gog joined your army and you become stronger! |
@@ -520,10 +546,10 @@ toc: true
   |  Date  |      Reward    |    Reward description    |
   |:-------|:---------------|:------------------------:|
   | **16.3**  | **5x Imp**  | Герой Зидар, командир войска Инферно, готов служить вам. |
-  | **17.3**  | **5x Gog**  | Отряд бесов присоединился к вашей армии. |
+  | **17.3**  | **5x Gog**  | A squad of Imp joined your army and you become stronger! |
   | **18.3**  | **3x Порождение зла**  | A squad of Gog joined your army and you become stronger! |
   | **19.3**  | **5x Сундук отрядов Инферно**  | A squad of Pit Fiend joined your army and you become stronger! |
-  | **20.3**  | **3x Гончая ада**  | Ваши адские слуги принесли добычу - несколько сундуков, полных сокровищ. |
+  | **20.3**  | **3x Гончая ада**  | Your inferno corps has presented you with a number of valuable treasure chests! |
   | **21.3**  | **3x Демон**  | A squad of Hell Hound joined your army and you become stronger! |
   | **22.3**  | **5x Раска**  | Отряд демонов присоединился к вашей армии. |
 
@@ -536,7 +562,7 @@ toc: true
   | **10.3**  | **3x Лесной эльф**  | Отряд кентавров присоединился к вашей армии. |
   | **11.3**  | **3x Пегас**  | Отряд гномов присоединился к вашей армии. |
   | **12.3**  | **3x Единорог**  | Отряд лесных эльфов присоединился к вашей армии. |
-  | **13.3**  | **3x Гном**  | A squad of Pegasus joined your army and you become stronger! |
+  | **13.3**  | **3x Гном**  | Отряд пегасов присоединился к вашей армии. |
   | **14.3**  | **3x Дендроид-страж**  | A squad of Dendroid Guard joined your army and you become stronger! |
   | **15.3**  | **5x Риланд**  | Отряд единорогов присоединился к вашей армии. |
 
@@ -611,10 +637,10 @@ toc: true
   |  Date  |      Reward    |    Reward description    |
   |:-------|:---------------|:------------------------:|
   | **27.1**  | **5x Imp**  | Герой Зидар, командир войска Инферно, готов служить вам. |
-  | **28.1**  | **5x Gog**  | Отряд бесов присоединился к вашей армии. |
+  | **28.1**  | **5x Gog**  | A squad of Imp joined your army and you become stronger! |
   | **29.1**  | **3x Порождение зла**  | A squad of Gog joined your army and you become stronger! |
   | **30.1**  | **5x Сундук отрядов Инферно**  | A squad of Pit Fiend joined your army and you become stronger! |
-  | **31.1**  | **3x Гончая ада**  | Ваши адские слуги принесли добычу - несколько сундуков, полных сокровищ. |
+  | **31.1**  | **3x Гончая ада**  | Your inferno corps has presented you with a number of valuable treasure chests! |
   | **1.2**  | **3x Демон**  | A squad of Hell Hound joined your army and you become stronger! |
   | **2.2**  | **5x Раска**  | Отряд демонов присоединился к вашей армии. |
 
@@ -627,7 +653,7 @@ toc: true
   | **21.1**  | **3x Лесной эльф**  | Отряд кентавров присоединился к вашей армии. |
   | **22.1**  | **3x Пегас**  | Отряд гномов присоединился к вашей армии. |
   | **23.1**  | **3x Единорог**  | Отряд лесных эльфов присоединился к вашей армии. |
-  | **24.1**  | **3x Гном**  | A squad of Pegasus joined your army and you become stronger! |
+  | **24.1**  | **3x Гном**  | Отряд пегасов присоединился к вашей армии. |
   | **25.1**  | **3x Дендроид-страж**  | A squad of Dendroid Guard joined your army and you become stronger! |
   | **26.1**  | **5x Риланд**  | Отряд единорогов присоединился к вашей армии. |
 
