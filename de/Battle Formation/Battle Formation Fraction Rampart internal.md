@@ -2,7 +2,7 @@
 title: "Kampfformation Schutzwall"
 permalink: /de/Battle Formation/Battle Formation Fraction Rampart internal
 excerpt: "Kampfformation Schutzwall"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: de
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -115,32 +115,32 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **10** x [Dendroidenwache](/de/units/Dendroid Guard) |
+  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **20** x [Dendroidenwache](/de/units/Dendroid Guard) |
   | 2 | Rampart - Storm Assaulter | ANG + **1.4** % | 100 |   |
   | 3 | Rampart - Storm Assaulter | ANG + **1.4** % | 100 |   |
   | 4 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
   | 5 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
-  | 6 | Rampart - A Strike Hit | Präzision + **8**  | 190 |  **10** x [Pegasus](/de/units/Pegasus) |
+  | 6 | Rampart - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Pegasus](/de/units/Pegasus) |
   | 7 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
   | 8 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
   | 9 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
   | 10 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
-  | 11 | Rampart - Ingeniousness | Ausweichen + **8**  | 190 |  **10** x [Dendroidenwache](/de/units/Dendroid Guard) |
+  | 11 | Rampart - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Dendroidenwache](/de/units/Dendroid Guard) |
   | 12 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 13 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 14 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
   | 15 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
-  | 16 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **10** x [Pegasus](/de/units/Pegasus) |
+  | 16 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Pegasus](/de/units/Pegasus) |
   | 17 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
   | 18 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
   | 19 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 20 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
-  | 21 | Rampart - Rocklike Skin | Zähigkeit + **10**  | 190 |  **10** x [Dendroidenwache](/de/units/Dendroid Guard) |
+  | 21 | Rampart - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Dendroidenwache](/de/units/Dendroid Guard) |
   | 22 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 23 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
   | 24 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
   | 25 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
-  | 26 | Rampart - Blaster | Kritischer Treffer + **7**  | 190 |  **10** x [Pegasus](/de/units/Pegasus) |
+  | 26 | Rampart - Blaster | Kritischer Treffer + **7**  | 190 |  **20** x [Pegasus](/de/units/Pegasus) |
   | 27 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
   | 28 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
   | 29 | Rampart - Storm Assaulter | ANG + **1.4** % | 100 |   |

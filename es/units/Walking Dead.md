@@ -3,7 +3,7 @@ title: "Muerto Viviente"
 permalink: /es/units/Walking Dead/
 excerpt: "Unidades Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar."
 unitID: 302
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Muerto Viviente"
 toc: true

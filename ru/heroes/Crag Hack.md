@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /ru/heroes/Crag Hack/
 excerpt: ""
 heroID: 60602
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Crag Hack"
 toc: true

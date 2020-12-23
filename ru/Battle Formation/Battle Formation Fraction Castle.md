@@ -2,7 +2,7 @@
 title: "Боевое построение Замок"
 permalink: /ru/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Боевое построение Замок"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -31,11 +31,11 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | null + **0.3** % | 150 |  **20** x [Копейщик](/ru/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | null + **0.3** % | 150 |  **10** x [Pikeman](/ru/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Castle - A Strike Hit | null + **6**  | 150 |  **20** x [Копейщик](/ru/units/Pikeman) |
+  | 3 | Castle - A Strike Hit | null + **6**  | 150 |  **10** x [Pikeman](/ru/units/Pikeman) |
   | 4 | Castle - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Castle - Ingeniousness | null + **6**  | 150 |  **10** x [Копейщик](/ru/units/Pikeman) |
+  | 5 | Castle - Ingeniousness | null + **6**  | 150 |  **10** x [Pikeman](/ru/units/Pikeman) |
   | 6 | Castle - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 7 | Castle - Shield Practice | null + **0.3** % | 150 |  **10** x [Лучник](/ru/units/Marksman) |
   | 8 | Castle - Physical Trials | ОЗ + **0.9** % | 70 |   |
@@ -50,7 +50,7 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | null + **0.4** % | 160 |  **10** x [Копейщик](/ru/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | null + **0.4** % | 160 |  **10** x [Pikeman](/ru/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Castle - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 4 | Castle - A Strike Hit | null + **6**  | 160 |  **10** x [Swordsman](/ru/units/Swordsman) |

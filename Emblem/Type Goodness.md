@@ -2,7 +2,7 @@
 title: "Holy Emblem - Goodness"
 permalink: /Emblem/Type Goodness/
 excerpt: "Holy Emblem - Goodness"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "typeGoodness.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /es/heroes/Sandro/
 excerpt: "Sandro es un Nigromante que ha visto casi todo Enroth y Erathia. Al parecer, ahora está de lado de Finneas Vilmar, líder de los nigromantes de Deyja."
 heroID: 60501
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Sandro"
 toc: true

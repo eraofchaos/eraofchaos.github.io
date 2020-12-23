@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Hero Leader Pack"
+title: "Item - Consumables -  Elite Unit Pack"
 permalink: /Items/con_52/
-excerpt: " Hero Leader Pack"
-last_modified_at: 2020-12-17
+excerpt: " Elite Unit Pack"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_52.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select one of the following heroes to recruit: Roland, Sandro, or Kilgor. If you select a hero that you already own, then you will receive 30 tokens for that hero.
+ **Description:** Use to select 1 of the following: 3-star Lich, 3-star Stone Elemental, 3-star Genie, 3-star Mummy, 3-star Manticore, 3-star Beholder, or 3-star Medusa.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -25,10 +25,14 @@ classes: wide
 
  **Required Level to open:** 1
 
- You would need to choose 1 item from the list (0):
+ 8 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **30x** | Roland | Collect 30 tokens to summon Roland to join your party. Tokens are also required to increase his rank.  | 
-  | 2 |  **30x** | Sandro | Collect 30 tokens to summon Sandro to join your party. Tokens are also required to increase his rank.  | 
-  | 3 |  **30x** | Kilgor | Collect 30 tokens to summon Kilgor to join your party. Tokens are also required to increase his rank.  | 
+  | 1 | _TEAM_305 | 
+  | 2 | _TEAM_905 | 
+  | 3 | _TEAM_605 | 
+  | 4 | _TEAM_308 | 
+  | 5 | _TEAM_706 | 
+  | 6 | _TEAM_703 | 
+  | 7 | _TEAM_704 | 

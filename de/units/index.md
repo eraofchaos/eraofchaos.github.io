@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /de/units/
 excerpt: "List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: de
 ref: "index.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |  xiyiren  |
   | 12 | [Efreet](/de/units/Efreeti/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 13 | [Einhorn](/de/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  dujiaoshou  |
-  | 14 | [Eiselementar](/de/units/Ice Elemental/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
+  | 14 | [Eiselementar](/de/units/Ice Elemental/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 15 | [Eisengolem](/de/units/Iron Golem/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  tieren  |
   | 16 | [Engel](/de/units/Angel/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  datianshi  |
   | 17 | [Erzmagier](/de/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  dafashi  |

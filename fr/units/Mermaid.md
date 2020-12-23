@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /fr/units/Mermaid/
 excerpt: "Unités Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Sirène"
 toc: true

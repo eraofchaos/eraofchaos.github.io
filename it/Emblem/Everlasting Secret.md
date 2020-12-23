@@ -2,7 +2,7 @@
 title: "Emblema sacro - Segreto eterno"
 permalink: /it/Emblem/Everlasting Secret/
 excerpt: "Emblema sacro - Ordine - Segreto eterno"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "Everlasting Secret.md"
 toc: false
@@ -17,8 +17,8 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Segreto eterno](/it/Emblem/Everlasting Secret/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Vel ATT +1%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px"><4> Aumenta di 2 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px"><6> Vel ATT +2%, DIF Emblema sacro +55</span> | 
-  | [Segreto eterno](/it/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> Vel ATT +0,5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px"><4> Aumenta di 1 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px"><6> Vel ATT +1,5%, DIF Emblema sacro +30</span> | 
+  | [Segreto eterno](/it/Emblem/Everlasting Secret/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +1%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta di 2 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +2%, DIF Emblema sacro +55</span> | 
+  | [Segreto eterno](/it/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +0,5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta di 1 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +1,5%, DIF Emblema sacro +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

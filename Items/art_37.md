@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Dragonbone Greaves"
 permalink: /Items/art_37/
 excerpt: " Dragonbone Greaves"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_37.md"
 toc: false

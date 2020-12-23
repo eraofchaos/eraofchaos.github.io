@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ring of Conjuring"
 permalink: /Items/art_7/
 excerpt: " Ring of Conjuring"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_7.md"
 toc: false

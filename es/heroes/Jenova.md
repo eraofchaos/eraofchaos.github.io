@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /es/heroes/Jenova/
 excerpt: "De niña, los Elfos Oscuros la capturaron y traficaron con ella. Al final, Jenova pudo escapar de su deplorable vida gracias a un Unicornio vengativo. Desde entonces, decidió venerar a estas criaturas tan misteriosas en los bosques y pasar su vida junto a ellas. Nadie conoce mejor a los Unicornios que Jenova, que aprovecha la velocidad y el poder de estos para aventajar en combate."
 heroID: 60202
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Jenova"
 toc: true

@@ -3,7 +3,7 @@ title: "Peter Lee"
 permalink: /de/heroes/Peter Lee/
 excerpt: "Peter Lee ist ein legendärer Pirat, aber offensichtlich zieht er Schätze und Abenteuer dem Brandschatzen und der Plünderei vor. Es heißt, dass er und seine Flotte bis zum Ende der Welt gereist seien."
 heroID: 61801
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: de
 ref: "Peter Lee"
 toc: true

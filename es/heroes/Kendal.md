@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /es/heroes/Kendal/
 excerpt: "Un general leal a la familia real de Erathia. Desde la muerte del Rey Corazón de Grifo, Morgan Kendal se hizo cargo del país en espera de que vuelva su legítima heredera."
 heroID: 60104
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Kendal"
 toc: true

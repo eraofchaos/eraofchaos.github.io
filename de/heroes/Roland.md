@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /de/heroes/Roland/
 excerpt: "König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn."
 heroID: 60103
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "Roland"
 toc: true

@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /de/units/Druid/
 excerpt: "Einheiten Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: de
 ref: "Druidin"
 toc: true
@@ -99,7 +99,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Ressourcen im Gildenabenteuer.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Erzdruiden-Seelen im Untergrund: Stufen 16-2 and 16-4.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Erzdruiden-Seelen im Untergrund: Stufen 16-2 und 16-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Setze eine Druidin und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schutzwall-Einheiten ein, um 1 Meisterduell-Kampf zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 

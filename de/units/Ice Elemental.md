@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /de/units/Ice Elemental/
 excerpt: "Einheiten Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Eiselementar"
 toc: true
@@ -89,40 +89,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Stiller Schneegeist
 
- **Awaking Description:** null
+ **Awaking Description:** Eiselementare sind nicht so kalt und gnadenlos, wie die meisten Leute sagen würden. Ihr Gesang ist in jeder verschneiten Nacht zu hören. Es ist eine wunderschöne Melodie, die sehr klar ist und einen Hauch von Traurigkeit in sich trägt, wie eine Art Echo von einem unbekannten Ort.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Setze einen Eiselementar und mindestens </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Konflux-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia einmal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Ressourcen während eines Gildenabenteuers.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> „Stiller Schneegeist“-Seelen im Untergrund: Stufen 16-2 and 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Setze einen Eiselementar und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Konflux-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Frostmauer
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Eismauer&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Schadensreduzierung für Krit. Treffer bei getroffenen Zielen um zusätzliche 20 %. Ist das getroffene Ziel immun gegen Erstarren, wird es stattdessen 3 Sekunden lang mit Überanstrengung belegt.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+### 2nd Skill (or 1st): Eisgefängnis
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Eismauer&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) bei getroffenen Zielen um zusätzliche 20 %. Ist das getroffene Ziel immun gegen Erstarren, wird es stattdessen 3 Sekunden lang mit Verstummen belegt.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+### 3rd Skill (or 4th): Elementarabwehr
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 7 Sekunden lang die Zähigkeit der Einheiten in der ersten Reihe um 100 und die LP um 50 %, wenn ein Held einen Wasserzauber wirkt.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Elementarinvasion
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Wenn ein Held einen Wasserzauber wirkt, wird mit einer Wahrscheinlichkeit von 50 % &lt;Eisgriff&gt; auf eine zufällige gegnerische Einheit aus der hinteren Reihe gewirkt.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Abkühlen
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gefrierblock&gt;</span><span style="color: #645252;font-size:18px"> Steigert die Wirkungsdauer von &lt;Erstarren&gt; um 5 Sekunden.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Festgefroren
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Gefrierblock&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit 7 Sekunden lang um weitere 20 %.</span>
 
 ## Technical info
  **runart:** 0

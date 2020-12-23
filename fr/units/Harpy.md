@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /fr/units/Harpy/
 excerpt: "Unités Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Harpie"
 toc: true

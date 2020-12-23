@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /fr/heroes/Mullich/
 excerpt: "Les troupes de Sir Mullich sont connues pour leur vitesse. Elle est le fruit de l'entraînement spécial qu'il leur prodigue. La retenue et la discipline de Mullich sont elles aussi très appréciées."
 heroID: 60101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Mullich"
 toc: true

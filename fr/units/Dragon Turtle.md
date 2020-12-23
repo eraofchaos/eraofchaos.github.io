@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /fr/units/Dragon Turtle/
 excerpt: "Unités Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Tortue dragon"
 toc: true

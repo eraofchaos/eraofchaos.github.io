@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Thorn Halo"
 permalink: /Items/her_66/
 excerpt: " Thorn Halo"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_66.md"
 toc: false

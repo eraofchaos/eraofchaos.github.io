@@ -3,7 +3,7 @@ title: "Folletto"
 permalink: /it/units/Imp/
 excerpt: "Unità Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Folletto"
 toc: true

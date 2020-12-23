@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /fr/heroes/Monere/
 excerpt: "Monere possède la capacité innée de contrôler les Élémentaires de magie et de l'esprit. C'est un général idéal pour les armées d'Élémentaires."
 heroID: 60702
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Monere"
 toc: true

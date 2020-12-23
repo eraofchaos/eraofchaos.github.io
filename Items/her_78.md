@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Destroy Undead"
 permalink: /Items/her_78/
 excerpt: " Destroy Undead"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_78.md"
 toc: false

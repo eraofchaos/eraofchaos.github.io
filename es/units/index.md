@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /es/units/
 excerpt: "List of ALL Unidades in Era of Chaos"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: es
 ref: "index.md"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
   | 24 | [Efrit](/es/units/Efreeti/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 25 | [Elemental Psíquico](/es/units/Psychic Elemental/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  jingshenyuansu  |
   | 26 | [Elemental de Fuego](/es/units/Fire Elemental/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
-  | 27 | [Elemental de Hielo](/es/units/Ice Elemental/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
+  | 27 | [Elemental de Hielo](/es/units/Ice Elemental/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 28 | [Elemental de Piedra](/es/units/Stone Elemental/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |
   | 29 | [Elemental de Tormenta](/es/units/Storm Elemental/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
   | 30 | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  haiyuansu  |

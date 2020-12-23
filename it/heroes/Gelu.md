@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /it/heroes/Gelu/
 excerpt: "Gelu il Mezzelfo è il più famoso guerriero dell'Erathia. Il suo talento per la distruzione è stato scoperto dal generale Morgan Kendal mentre serviva nell'esercito della Regina Caterina."
 heroID: 60301
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Gelu"
 toc: true

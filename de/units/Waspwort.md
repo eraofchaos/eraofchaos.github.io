@@ -3,7 +3,7 @@ title: "Wespenwurz"
 permalink: /de/units/Waspwort/
 excerpt: "Einheiten Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
 unitID: 808
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Wespenwurz"
 toc: true

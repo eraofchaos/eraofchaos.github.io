@@ -2,7 +2,7 @@
 title: "Kampfformation Burg"
 permalink: /de/Battle Formation/Battle Formation Fraction Stronghold internal
 excerpt: "Kampfformation Burg"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: de
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -40,17 +40,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **20** x [Goblin](/de/units/Goblin) |
+  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **10** x [Goblin](/de/units/Goblin) |
   | 2 | Stronghold - Storm Assaulter | ANG + **0.9** % | 70 |   |
-  | 3 | Stronghold - A Strike Hit | Präzision + **6**  | 150 |  **20** x [Goblin](/de/units/Goblin) |
+  | 3 | Stronghold - A Strike Hit | Präzision + **6**  | 150 |  **10** x [Goblin](/de/units/Goblin) |
   | 4 | Stronghold - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 5 | Stronghold - Ingeniousness | Ausweichen + **6**  | 150 |  **20** x [Goblin](/de/units/Goblin) |
+  | 5 | Stronghold - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Goblin](/de/units/Goblin) |
   | 6 | Stronghold - Physical Trials | LP + **0.9** % | 70 |   |
-  | 7 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **20** x [Ork](/de/units/Orc) |
+  | 7 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Ork](/de/units/Orc) |
   | 8 | Stronghold - Physical Trials | LP + **0.9** % | 70 |   |
-  | 9 | Stronghold - Rocklike Skin | Zähigkeit + **6**  | 150 |  **20** x [Ork](/de/units/Orc) |
+  | 9 | Stronghold - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Ork](/de/units/Orc) |
   | 10 | Stronghold - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 11 | Stronghold - Blaster | Kritischer Treffer + **5**  | 150 |  **20** x [Ork](/de/units/Orc) |
+  | 11 | Stronghold - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Ork](/de/units/Orc) |
   | 12 | Stronghold - Storm Assaulter | ANG + **0.9** % | 70 |   |
   
 
@@ -59,22 +59,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **20** x [Goblin](/de/units/Goblin) |
+  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **10** x [Goblin](/de/units/Goblin) |
   | 2 | Stronghold - Storm Assaulter | ANG + **1** % | 80 |   |
   | 3 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 4 | Stronghold - A Strike Hit | Präzision + **6**  | 160 |  **20** x [Goblin](/de/units/Goblin) |
+  | 4 | Stronghold - A Strike Hit | Präzision + **6**  | 160 |  **10** x [Goblin](/de/units/Goblin) |
   | 5 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 6 | Stronghold - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 7 | Stronghold - Ingeniousness | Ausweichen + **6**  | 160 |  **20** x [Oger](/de/units/Ogre) |
+  | 7 | Stronghold - Ingeniousness | Ausweichen + **6**  | 160 |  **10** x [Oger](/de/units/Ogre) |
   | 8 | Stronghold - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 9 | Stronghold - Physical Trials | LP + **1** % | 80 |   |
-  | 10 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **20** x [Wolfsreiter](/de/units/Wolf Rider) |
+  | 10 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Wolfsreiter](/de/units/Wolf Rider) |
   | 11 | Stronghold - Physical Trials | LP + **1** % | 80 |   |
   | 12 | Stronghold - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 13 | Stronghold - Rocklike Skin | Zähigkeit + **7**  | 160 |  **20** x [Ork](/de/units/Orc) |
+  | 13 | Stronghold - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Ork](/de/units/Orc) |
   | 14 | Stronghold - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 15 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 16 | Stronghold - Blaster | Kritischer Treffer + **5**  | 160 |  **20** x [Ork](/de/units/Orc) |
+  | 16 | Stronghold - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Ork](/de/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | ANG + **1** % | 80 |   |
   
@@ -84,27 +84,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **20** x [Oger](/de/units/Ogre) |
+  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Oger](/de/units/Ogre) |
   | 2 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |
   | 3 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |
   | 4 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
-  | 5 | Stronghold - A Strike Hit | Präzision + **7**  | 180 |  **20** x [Wolfsreiter](/de/units/Wolf Rider) |
+  | 5 | Stronghold - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Wolfsreiter](/de/units/Wolf Rider) |
   | 6 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
   | 7 | Stronghold - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
   | 8 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
-  | 9 | Stronghold - Ingeniousness | Ausweichen + **7**  | 180 |  **20** x [Oger](/de/units/Ogre) |
+  | 9 | Stronghold - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Oger](/de/units/Ogre) |
   | 10 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
   | 11 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
   | 12 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
-  | 13 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **20** x [Wolfsreiter](/de/units/Wolf Rider) |
+  | 13 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Wolfsreiter](/de/units/Wolf Rider) |
   | 14 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
   | 15 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
   | 16 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
-  | 17 | Stronghold - Rocklike Skin | Zähigkeit + **8**  | 180 |  **20** x [Oger](/de/units/Ogre) |
+  | 17 | Stronghold - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Oger](/de/units/Ogre) |
   | 18 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
   | 19 | Stronghold - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
   | 20 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
-  | 21 | Stronghold - Blaster | Kritischer Treffer + **6**  | 180 |  **20** x [Wolfsreiter](/de/units/Wolf Rider) |
+  | 21 | Stronghold - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Wolfsreiter](/de/units/Wolf Rider) |
   | 22 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
   | 23 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |
   | 24 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |

@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /de/heroes/Adelaide/
 excerpt: "Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "Adelaide"
 toc: true

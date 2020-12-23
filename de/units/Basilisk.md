@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /de/units/Basilisk/
 excerpt: "Einheiten Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
 unitID: 804
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Basilisk"
 toc: true

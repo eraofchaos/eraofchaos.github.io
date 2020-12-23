@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /ru/units/
 excerpt: "List of ALL Отряды in Era of Chaos"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "index.md"
 toc: false
@@ -86,7 +86,7 @@ classes: wide
   | 72 | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  jiangshi  |
   | 73 | [Циклоп](/ru/units/Cyclops/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5091 |  duyanjuren  |
   | 74 | [Черный рыцарь](/ru/units/Black Knight/) | Штурм | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  heianqishi  |
-  | 75 | [Элементаль Льда](/ru/units/Ice Elemental/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
+  | 75 | [Элементаль Льда](/ru/units/Ice Elemental/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 76 | [Элементаль Моря](/ru/units/Sea Elemental/) | Заклинатель | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  haiyuansu  |
   | 77 | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  jingshenyuansu  |
   | 78 | [Элементаль Огня](/ru/units/Fire Elemental/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |

@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /de/heroes/Vidomina/
 excerpt: "Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte."
 heroID: 60502
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "Vidomina"
 toc: true

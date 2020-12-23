@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /it/heroes/Dracon/
 excerpt: "Gli Anziani considerano Dracon un vero prodigio nell'arte della magia. Il suo obiettivo è diventare il più famoso ammazzadraghi della storia."
 heroID: 61202
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Dracon"
 toc: true

@@ -2,7 +2,7 @@
 title: "Item - Units -  Dark Troglodyte Soul Stone"
 permalink: /Items/unt_74/
 excerpt: " Dark Troglodyte Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_74.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Plane Shop 
+*    Plane Store 
 
 ## This item contains:
 

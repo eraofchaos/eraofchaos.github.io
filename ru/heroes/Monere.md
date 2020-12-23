@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /ru/heroes/Monere/
 excerpt: ""
 heroID: 60702
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Monere"
 toc: true
@@ -17,8 +17,6 @@ toc: true
  **Rate:** R
 
  **Specialty:** Элементаль Мысли
-
- **Specialty Desc:** Под предводительством Монера элементали Мысли получают улучшение до элементалей Магии. Их боевые и атакующие навыки значительно улучшаются.
 
  **Mana base:** 20
 
@@ -58,5 +56,5 @@ toc: true
 ## Initial Mastery
    - Наступление
    - Доспехи
-   - null
+   - Стрельба
    - Поиск пути

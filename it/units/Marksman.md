@@ -3,7 +3,7 @@ title: "Tiratore scelto"
 permalink: /it/units/Marksman/
 excerpt: "Unità I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Tiratore scelto"
 toc: true

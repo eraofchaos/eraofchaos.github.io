@@ -2,7 +2,7 @@
 title: "Holy Emblem - Core of the Global Network"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "Holy Emblem - Neutral - Core of the Global Network"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "Core of the Global Network.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATK speed +0.1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px"><4> Increases deployed units' DMG Reduction by 2% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px"><6> ATK speed +0.2%, Holy Emblem DEF +6</span> | 
-  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATK speed +0.3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px"><4> Increases deployed units' DMG Reduction by 3% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px"><6> ATK speed +0.7%, Holy Emblem DEF +16</span> | 
-  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATK speed +0.5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px"><4> Increases deployed units' DMG Reduction by 4% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px"><6> ATK speed +1.5%, Holy Emblem DEF +30</span> | 
-  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATK speed +1%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px"><4> Increases deployed units' DMG Reduction by 5% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px"><6> ATK speed +2%, Holy Emblem DEF +55</span> | 
+  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +0.1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' DMG Reduction by 2% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +0.2%, Holy Emblem DEF +6</span> | 
+  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +0.3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' DMG Reduction by 3% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +0.7%, Holy Emblem DEF +16</span> | 
+  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +0.5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' DMG Reduction by 4% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +1.5%, Holy Emblem DEF +30</span> | 
+  | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +1%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' DMG Reduction by 5% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +2%, Holy Emblem DEF +55</span> | 
 
   |         Description            | 
   |:-------------------------------|

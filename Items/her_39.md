@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Tazar"
 permalink: /Items/her_39/
 excerpt: " Tazar"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_39.md"
 toc: false

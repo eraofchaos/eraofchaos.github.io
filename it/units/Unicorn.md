@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /it/units/Unicorn/
 excerpt: "Unità L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Unicorno"
 toc: true

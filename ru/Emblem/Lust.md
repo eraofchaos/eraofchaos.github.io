@@ -2,7 +2,7 @@
 title: "Эмблема святости - Похоть"
 permalink: /ru/Emblem/Lust/
 excerpt: "Эмблема святости - Хаос - Похоть"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Lust.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +9, эмблема святости ЗЩТ +9</span> | <span style="color: #645252;font-size:20px"><4> Увеличивает исцеление отрядов на 10%</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +22,5, эмблема святости ЗЩТ +22,5</span> | 
-  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +15, эмблема святости ЗЩТ +15</span> | <span style="color: #645252;font-size:20px"><4> Увеличивает исцеление отрядов на 15%</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +37,5, эмблема святости ЗЩТ +37,5</span> | 
-  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | null | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +4, эмблема святости ЗЩТ +4</span> | 
-  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +4,5, эмблема святости ЗЩТ +4,5</span> | null | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +11,5, эмблема святости ЗЩТ +11,5</span> | 
+  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +9, эмблема святости ЗЩТ +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает исцеление отрядов на 10%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +22,5, эмблема святости ЗЩТ +22,5</span> | 
+  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +15, эмблема святости ЗЩТ +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает исцеление отрядов на 15%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +37,5, эмблема святости ЗЩТ +37,5</span> | 
+  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | null | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +4, эмблема святости ЗЩТ +4</span> | 
+  | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +4,5, эмблема святости ЗЩТ +4,5</span> | null | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +11,5, эмблема святости ЗЩТ +11,5</span> | 
 
   |         Description            | 
   |:-------------------------------|

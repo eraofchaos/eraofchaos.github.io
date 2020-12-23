@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /de/units/Efreeti/
 excerpt: "Einheiten Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern."
 unitID: 506
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Efreet"
 toc: true

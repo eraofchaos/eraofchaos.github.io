@@ -2,7 +2,7 @@
 title: "Kampfformation Festung"
 permalink: /de/Battle Formation/Battle Formation Fraction Fortress internal
 excerpt: "Kampfformation Festung"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: de
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -40,17 +40,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | ANG + **0.9** % | 70 |   |
-  | 3 | Fortress - A Strike Hit | Präzision + **6**  | 150 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 3 | Fortress - A Strike Hit | Präzision + **6**  | 150 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 4 | Fortress - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 5 | Fortress - Ingeniousness | Ausweichen + **6**  | 150 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 5 | Fortress - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 6 | Fortress - Physical Trials | LP + **0.9** % | 70 |   |
-  | 7 | Fortress - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 7 | Fortress - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 8 | Fortress - Physical Trials | LP + **0.9** % | 70 |   |
-  | 9 | Fortress - Rocklike Skin | Zähigkeit + **6**  | 150 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 9 | Fortress - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 10 | Fortress - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 11 | Fortress - Blaster | Kritischer Treffer + **5**  | 150 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 11 | Fortress - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 12 | Fortress - Storm Assaulter | ANG + **0.9** % | 70 |   |
   
 
@@ -59,22 +59,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | ANG + **1** % | 80 |   |
   | 3 | Fortress - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 4 | Fortress - A Strike Hit | Präzision + **6**  | 160 |  **20** x [Schlangenfliege](/de/units/Serpent Fly) |
+  | 4 | Fortress - A Strike Hit | Präzision + **6**  | 160 |  **10** x [Schlangenfliege](/de/units/Serpent Fly) |
   | 5 | Fortress - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 6 | Fortress - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 7 | Fortress - Ingeniousness | Ausweichen + **6**  | 160 |  **20** x [Echsenmensch](/de/units/Lizardman) |
+  | 7 | Fortress - Ingeniousness | Ausweichen + **6**  | 160 |  **10** x [Echsenmensch](/de/units/Lizardman) |
   | 8 | Fortress - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 9 | Fortress - Physical Trials | LP + **1** % | 80 |   |
-  | 10 | Fortress - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **20** x [Echsenmensch](/de/units/Lizardman) |
+  | 10 | Fortress - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Echsenmensch](/de/units/Lizardman) |
   | 11 | Fortress - Physical Trials | LP + **1** % | 80 |   |
   | 12 | Fortress - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 13 | Fortress - Rocklike Skin | Zähigkeit + **7**  | 160 |  **20** x [Schlangenfliege](/de/units/Serpent Fly) |
+  | 13 | Fortress - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Schlangenfliege](/de/units/Serpent Fly) |
   | 14 | Fortress - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 15 | Fortress - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 16 | Fortress - Blaster | Kritischer Treffer + **5**  | 160 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 16 | Fortress - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Fortress - Storm Assaulter | ANG + **1** % | 80 |   |
   
@@ -84,27 +84,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **20** x [Echsenmensch](/de/units/Lizardman) |
+  | 1 | Fortress - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Echsenmensch](/de/units/Lizardman) |
   | 2 | Fortress - Storm Assaulter | ANG + **1.2** % | 90 |   |
   | 3 | Fortress - Storm Assaulter | ANG + **1.2** % | 90 |   |
   | 4 | Fortress - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
-  | 5 | Fortress - A Strike Hit | Präzision + **7**  | 180 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 5 | Fortress - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 6 | Fortress - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
   | 7 | Fortress - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
   | 8 | Fortress - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
-  | 9 | Fortress - Ingeniousness | Ausweichen + **7**  | 180 |  **20** x [Schlangenfliege](/de/units/Serpent Fly) |
+  | 9 | Fortress - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Schlangenfliege](/de/units/Serpent Fly) |
   | 10 | Fortress - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
   | 11 | Fortress - Physical Trials | LP + **1.2** % | 90 |   |
   | 12 | Fortress - Physical Trials | LP + **1.2** % | 90 |   |
-  | 13 | Fortress - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **20** x [Schlangenfliege](/de/units/Serpent Fly) |
+  | 13 | Fortress - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Schlangenfliege](/de/units/Serpent Fly) |
   | 14 | Fortress - Physical Trials | LP + **1.2** % | 90 |   |
   | 15 | Fortress - Physical Trials | LP + **1.2** % | 90 |   |
   | 16 | Fortress - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
-  | 17 | Fortress - Rocklike Skin | Zähigkeit + **8**  | 180 |  **20** x [Gnoll](/de/units/Gnoll) |
+  | 17 | Fortress - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Gnoll](/de/units/Gnoll) |
   | 18 | Fortress - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
   | 19 | Fortress - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
   | 20 | Fortress - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
-  | 21 | Fortress - Blaster | Kritischer Treffer + **6**  | 180 |  **20** x [Echsenmensch](/de/units/Lizardman) |
+  | 21 | Fortress - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Echsenmensch](/de/units/Lizardman) |
   | 22 | Fortress - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
   | 23 | Fortress - Storm Assaulter | ANG + **1.2** % | 90 |   |
   | 24 | Fortress - Storm Assaulter | ANG + **1.2** % | 90 |   |

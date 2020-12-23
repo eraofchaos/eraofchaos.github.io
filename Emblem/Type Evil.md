@@ -2,7 +2,7 @@
 title: "Holy Emblem - Evil"
 permalink: /Emblem/Type Evil/
 excerpt: "Holy Emblem - Evil"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "typeEvil.md"
 toc: false

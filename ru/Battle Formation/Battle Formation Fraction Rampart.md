@@ -2,7 +2,7 @@
 title: "Боевое построение Rampart"
 permalink: /ru/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Боевое построение Rampart"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "BattleFormationFractionRampart"
 toc: false

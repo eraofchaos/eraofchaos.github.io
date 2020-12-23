@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Sandals of the Saint"
 permalink: /Items/art_60/
 excerpt: " Sandals of the Saint"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_60.md"
 toc: false

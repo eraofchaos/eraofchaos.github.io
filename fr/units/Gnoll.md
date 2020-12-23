@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /fr/units/Gnoll/
 excerpt: "Unités Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
 unitID: 801
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Gnoll"
 toc: true

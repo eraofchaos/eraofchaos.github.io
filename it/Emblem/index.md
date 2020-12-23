@@ -2,7 +2,7 @@
 title: "Emblema sacro"
 permalink: /it/Emblem/
 excerpt: "Emblema sacro.Equipaggia gli Emblemi sacri per potenziare notevolmente le tue unità. Le combinazioni di fazione e qualità dei diversi Emblemi sacri sono numerosissime. I set di Emblemi sacri aumentano ulteriormente gli attributi delle unità."
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "index.md"
 toc: false

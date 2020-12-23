@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /it/heroes/Kendal/
 excerpt: "Un fedele generale al servizio della famiglia reale dell'Erathia. Dalla morte di Re Cuor di Grifone, Morgan Kendal ha assunto il ruolo di sovrintendente, nell'attesa del ritorno del legittimo erede al trono."
 heroID: 60104
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: it
 ref: "Kendal"
 toc: true

@@ -2,7 +2,7 @@
 title: "Emblema sacro - Malvagio"
 permalink: /it/Emblem/Type Evil/
 excerpt: "Emblema sacro - Malvagio"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "typeMalvagio.md"
 toc: false

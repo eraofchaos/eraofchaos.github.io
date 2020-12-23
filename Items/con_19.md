@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Orange +1 Material Chest"
+title: "Item - Consumables -  Guild Fund"
 permalink: /Items/con_19/
-excerpt: " Orange +1 Material Chest"
-last_modified_at: 2020-12-17
+excerpt: " Guild Fund"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_19.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Receive a random orange +1 equipment-upgrading item.
+ **Description:** Obtained through donations. Can be used for City Bidding in the Cross-server Guild War
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Other
 
 ## Gather
 
@@ -23,15 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 3 You would get **1** item  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Eternal Ore | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 2 |  **1x** | Eternal Wood | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 3 |  **1x** | Eternal Mercury | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 4 |  **1x** | Eternal Sulfur | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 5 |  **1x** | Eternal Gems | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 6 |  **1x** | Eternal Crystal | Common materials to upgrade equipment from orange +1 to orange +2.  | 

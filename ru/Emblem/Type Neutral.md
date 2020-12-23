@@ -2,7 +2,7 @@
 title: "Эмблема святости - Нейтральный"
 permalink: /ru/Emblem/Type Neutral/
 excerpt: "Эмблема святости - Нейтральный"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "typeНейтральный.md"
 toc: false

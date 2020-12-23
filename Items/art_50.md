@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Orb of Silt"
 permalink: /Items/art_50/
 excerpt: " Orb of Silt"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_50.md"
 toc: false

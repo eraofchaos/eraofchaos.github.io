@@ -3,7 +3,7 @@ title: "Dragon Mutare"
 permalink: /heroes/Dragon Mutare/
 excerpt: "After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
 heroID: 61302
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: en
 ref: "Dragon Mutare"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Enchanted Dragon Constellation
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
+
+### Skin 3: **Christmas Elf**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Christmas elves who dance with snowflakes and gifts. Mutare, who has drank dragon blood but has not yet fully transformed, is celebrating Christmas!</span>
+
+ **Skin features:** 
+
+   - Christmas Elf Playing with Snowflakes
    - All-new Battle Image
    - Unique Avatar and Spell Effect
 

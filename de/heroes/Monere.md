@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /de/heroes/Monere/
 excerpt: "Monere wurde mit der Fähigkeit geboren, Psy- und Magie-Elementare zu kontrollieren. Er ist ein bedeutender General der Elementare."
 heroID: 60702
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "Monere"
 toc: true

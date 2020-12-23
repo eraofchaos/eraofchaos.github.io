@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Fortezza -  Units"
 permalink: /it/units/Fraction Fortezza/
 excerpt: "Fraction Fortezza - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Fraction Fortezza"
 toc: false

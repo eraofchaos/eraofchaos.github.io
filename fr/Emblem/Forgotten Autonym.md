@@ -2,7 +2,7 @@
 title: "Emblème sacré - Autonyme oublié"
 permalink: /fr/Emblem/Forgotten Autonym/
 excerpt: "Emblème sacré - Mauvais - Autonyme oublié"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Forgotten Autonym.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +2, PV +1 %</span> | <span style="color: #645252;font-size:20px"><4> Augmente les dégâts des unités déployées de 1 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +6, PV +2 %</span> | 
-  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +6, PV +3 %</span> | <span style="color: #645252;font-size:20px"><4> Augmente les dégâts des unités déployées de 2 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +16, PV +7 %</span> | 
-  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +13, PV +5 %</span> | <span style="color: #645252;font-size:20px"><4> Augmente les dégâts des unités déployées de 3 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +30, PV +15 %</span> | 
-  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +20, PV +10 %</span> | <span style="color: #645252;font-size:20px"><4> Augmente les dégâts des unités déployées de 4 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +55, PV +20 %</span> | 
+  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +2, PV +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente les dégâts des unités déployées de 1 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +6, PV +2 %</span> | 
+  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +6, PV +3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente les dégâts des unités déployées de 2 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +16, PV +7 %</span> | 
+  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +13, PV +5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente les dégâts des unités déployées de 3 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +30, PV +15 %</span> | 
+  | [Autonyme oublié](/fr/Emblem/Forgotten Autonym/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +20, PV +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Augmente les dégâts des unités déployées de 4 % pour chaque unité de la même faction déployée dans votre composition.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +55, PV +20 %</span> | 
 
   |         Description            | 
   |:-------------------------------|

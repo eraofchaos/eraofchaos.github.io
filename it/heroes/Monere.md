@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /it/heroes/Monere/
 excerpt: "Monere è nato con l'abilità di comandare Elementali magici e psichici. Il suo apporto come generale è irrinunciabile."
 heroID: 60702
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Monere"
 toc: true

@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /es/units/Gog/
 excerpt: "Unidades Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Gog"
 toc: true

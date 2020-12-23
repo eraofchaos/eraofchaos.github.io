@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /it/units/
 excerpt: "List of ALL Unità in Era of Chaos"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: it
 ref: "index.md"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | [Druido](/it/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  deluyi  |
   | 24 | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 25 | [Elementale del fuoco](/it/units/Fire Elemental/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
-  | 26 | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
+  | 26 | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 27 | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  haiyuansu  |
   | 28 | [Elementale della pietra](/it/units/Stone Elemental/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |
   | 29 | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  jingshenyuansu  |

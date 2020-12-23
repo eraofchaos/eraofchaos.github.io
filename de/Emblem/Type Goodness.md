@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Gut"
 permalink: /de/Emblem/Type Goodness/
 excerpt: "Heiliges Emblem - Gut"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: de
 ref: "typeGut.md"
 toc: false

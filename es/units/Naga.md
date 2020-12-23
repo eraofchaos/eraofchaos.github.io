@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /es/units/Naga/
 excerpt: "Unidades El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Naga"
 toc: true

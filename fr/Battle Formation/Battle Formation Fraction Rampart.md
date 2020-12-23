@@ -2,7 +2,7 @@
 title: "Formation de combat Rempart"
 permalink: /fr/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Formation de combat Rempart"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "BattleFormationFractionRampart"
 toc: false

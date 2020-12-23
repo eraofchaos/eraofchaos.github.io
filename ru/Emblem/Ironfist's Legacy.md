@@ -2,7 +2,7 @@
 title: "Эмблема святости - Наследие Айронфиста"
 permalink: /ru/Emblem/Ironfist's Legacy/
 excerpt: "Эмблема святости - Порядок - Наследие Айронфиста"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Ironfist's Legacy.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> АТК +3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px"><4> Уменьшает исцеление вражеских отрядов на 18% на 6 сек. Восстановление - 10 сек.</span> | null | 
-  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> АТК +1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px"><4> Уменьшает исцеление вражеских отрядов на 10% на 6 сек. Восстановление - 10 сек.</span> | null | 
-  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> АТК +10%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px"><4> Уменьшает исцеление вражеских отрядов на 35% на 6 сек. Восстановление - 10 сек.</span> | <span style="color: #645252;font-size:20px"><6> АТК +20%, эмблема святости ЗЩТ +55</span> | 
-  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> АТК +5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px"><4> Уменьшает исцеление вражеских отрядов на 25% на 6 сек. Восстановление - 10 сек.</span> | <span style="color: #645252;font-size:20px"><6> АТК +15%, эмблема святости ЗЩТ +30</span> | 
+  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Уменьшает исцеление вражеских отрядов на 18% на 6 сек. Восстановление - 10 сек.</span> | null | 
+  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Уменьшает исцеление вражеских отрядов на 10% на 6 сек. Восстановление - 10 сек.</span> | null | 
+  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +10%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Уменьшает исцеление вражеских отрядов на 35% на 6 сек. Восстановление - 10 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +20%, эмблема святости ЗЩТ +55</span> | 
+  | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Уменьшает исцеление вражеских отрядов на 25% на 6 сек. Восстановление - 10 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +15%, эмблема святости ЗЩТ +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

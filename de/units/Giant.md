@@ -3,7 +3,7 @@ title: "Gigant"
 permalink: /de/units/Giant/
 excerpt: "Einheiten Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Gigant"
 toc: true

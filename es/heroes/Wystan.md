@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /es/heroes/Wystan/
 excerpt: "Wystan es el yerno mayor del Rey Tralossk y el segundo en la línea de sucesión a la corona. Está esperando al día de su ascenso al trono."
 heroID: 61504
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Wystan"
 toc: true

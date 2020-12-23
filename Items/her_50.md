@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Will to Kill"
 permalink: /Items/her_50/
 excerpt: " Will to Kill"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_50.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Cassanbel"
 permalink: /Items/her_80/
 excerpt: " Cassanbel"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_80.md"
 toc: false

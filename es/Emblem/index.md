@@ -2,7 +2,7 @@
 title: "Emblema Sagrado"
 permalink: /es/Emblem/
 excerpt: "Emblema Sagrado.Equipar Emblemas Sagrados aumenta mucho el Poder de las unidades. Los Emblemas Sagrados tienen varias combinaciones de facción y calidad. Los conjuntos de Emblemas Sagrados conceden atributos adicionales geniales."
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "index.md"
 toc: false

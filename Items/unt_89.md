@@ -2,7 +2,7 @@
 title: "Item - Units -  Magic Airship"
 permalink: /Items/unt_89/
 excerpt: " Magic Airship"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_89.md"
 toc: false

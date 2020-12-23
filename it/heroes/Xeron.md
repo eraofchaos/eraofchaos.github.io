@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /it/heroes/Xeron/
 excerpt: "Quando Lucifer Kreegan uccise Xenofex per prendere il potere, Xeron fu il primo a giurare fedeltà all'usurpatore. Questo gli fece guadagnare immediatamente il favore del nuovo Re."
 heroID: 60801
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Xeron"
 toc: true

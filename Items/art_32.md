@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Cape of Conjuring"
 permalink: /Items/art_32/
 excerpt: " Cape of Conjuring"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_32.md"
 toc: false

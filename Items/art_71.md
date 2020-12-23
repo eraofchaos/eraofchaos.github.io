@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Vampire's Cowl"
 permalink: /Items/art_71/
 excerpt: " Vampire's Cowl"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_71.md"
 toc: false

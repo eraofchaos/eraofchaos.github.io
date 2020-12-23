@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /es/heroes/Catherine/
 excerpt: "Como Reina de Erathia, Catherine se ha visto forzada a luchar en una guerra para conservar el Reino fundado por su padre. Luchará hasta el enfrentamiento final de la Espada del Apocalipsis."
 heroID: 60102
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Catherine"
 toc: true

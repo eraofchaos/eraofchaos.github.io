@@ -3,7 +3,7 @@ title: "Kilgor"
 permalink: /it/heroes/Kilgor/
 excerpt: "In gioventù, Kilgor sconfisse il proprio padre per conquistare il titolo di capoclan. Da allora, la sua fama non ha fatto che crescere nelle terre di Krewlod. È considerato da molti l'unico guerriero della sua generazione in grado di vincere il Festival della Vita."
 heroID: 60601
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Kilgor"
 toc: true

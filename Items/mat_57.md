@@ -2,7 +2,7 @@
 title: "Item - Materials -  Epic Wood"
 permalink: /Items/mat_57/
 excerpt: " Epic Wood"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_57.md"
 toc: false

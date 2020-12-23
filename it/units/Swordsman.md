@@ -3,7 +3,7 @@ title: "Spadaccino"
 permalink: /it/units/Swordsman/
 excerpt: "Unità I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Spadaccino"
 toc: true

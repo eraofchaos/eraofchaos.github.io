@@ -2,7 +2,7 @@
 title: "Item - Units -  Devil"
 permalink: /Items/unt_19/
 excerpt: " Devil"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_19.md"
 toc: false

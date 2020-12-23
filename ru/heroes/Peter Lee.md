@@ -3,7 +3,7 @@ title: "Питер Ли"
 permalink: /ru/heroes/Peter Lee/
 excerpt: "Питер Ли - легендарный пират, который разбою и грабежам предпочитает сокровища и приключения. Ходят слухи, что его флот доплывал до края мира."
 heroID: 61801
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Peter Lee"
 toc: true

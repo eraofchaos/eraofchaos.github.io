@@ -3,7 +3,7 @@ title: "Caterina"
 permalink: /it/heroes/Catherine/
 excerpt: "La Regina Caterina ha passato una vita intera sui campi di battaglia dell'Erathia per proteggere il regno fondato da suo padre. La sua guerra finirà solo al calare della Spada dell'Armageddon. "
 heroID: 60102
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: it
 ref: "Catherine"
 toc: true

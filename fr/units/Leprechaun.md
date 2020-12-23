@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /fr/units/Leprechaun/
 excerpt: "Unités Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
 unitID: 909
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Farfadet"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Blocage tactique&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Farfadet est victime de Saignement, Étourdissement ou Silence, chaque affaiblissement augmente la valeur de son bouclier de 200 pendant 7 secondes.</span>
 
 ### 6th Skill (or 5th): Défense à toute épreuve
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blocage tactique&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Farfadet est victime de Cristallisation, Effroi ou Choc, chaque affaiblissement augmente la valeur de son bouclier de 300 pendant 7 secondes.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Blocage tactique&gt; :</span><span style="color: #645252;font-size:18px"> Lorsque le Farfadet est victime de Cristallisation, Effroi ou Découragement, chaque affaiblissement augmente la valeur de son bouclier de 300 points pendant 7 secondes.</span>
 
 ## Technical info
  **runart:** 0

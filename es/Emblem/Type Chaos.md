@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Caos"
 permalink: /es/Emblem/Type Chaos/
 excerpt: "Emblema Sagrado - Caos"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "typeCaos.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Emblème sacré - Ordre"
 permalink: /fr/Emblem/Type Order/
 excerpt: "Emblème sacré - Ordre"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "typeOrdre.md"
 toc: false

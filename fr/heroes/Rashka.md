@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /fr/heroes/Rashka/
 excerpt: "Rashka utilise la peur pour mener ses troupes à la victoire. Jusqu'ici, sa stratégie s'est révélée très efficace."
 heroID: 60802
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Rashka"
 toc: true

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Tome of Air Magic"
 permalink: /Items/art_67/
 excerpt: " Tome of Air Magic"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_67.md"
 toc: false

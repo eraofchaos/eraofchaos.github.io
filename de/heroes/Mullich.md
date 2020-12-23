@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /de/heroes/Mullich/
 excerpt: "Sir Mullichs Truppen sind bekannt für ihre Geschwindigkeit, und Mullich selbst für seine Selbstkontrolle und Disziplin. Er unterzieht seine Truppen einer Spezialausbildung, um sie schneller zu machen."
 heroID: 60101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "Mullich"
 toc: true

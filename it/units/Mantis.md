@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /it/units/Mantis/
 excerpt: "Unità  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force."
 unitID: 209
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Mantis"
 toc: true

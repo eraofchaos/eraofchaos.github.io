@@ -3,7 +3,7 @@ title: "Dragon squelette"
 permalink: /fr/units/Bone Dragon/
 excerpt: "Unités Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Dragon squelette"
 toc: true

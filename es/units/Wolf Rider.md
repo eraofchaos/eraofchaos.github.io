@@ -3,7 +3,7 @@ title: "Jinete Lupino"
 permalink: /es/units/Wolf Rider/
 excerpt: "Unidades Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Jinete Lupino"
 toc: true

@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /ru/units/Ice Elemental/
 excerpt: "Отряды Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Элементаль Льда"
 toc: true
@@ -89,40 +89,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Снежный дух
 
- **Awaking Description:** null
+ **Awaking Description:** Элементали Льда не такие хладнокровные и безжалостные, какими их считают. В снежную ночь можно услышать, как они поют. Их голоса чисты и печальны, словно далекое эхо.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте элементалей Льда и хотя бы </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> отряда Гармонии, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ресурсов в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ снежных духов на уровнях 16-2 и 16-4 в Подземелье. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. <span style="color: #876741;font-size:18px">Используйте элементалей Льда и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Гармонии, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Ледяная преграда
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление критическому урону на 20%. При попадании в цель замораживает ее и лишает сил. Эффект длится 3 сек.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+### 2nd Skill (or 1st): Ледяные оковы
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление урону на 20%. При попадании в цель замораживает ее и вызывает немоту. Эффект длится 3 сек.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+### 3rd Skill (or 4th): null
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, отряды в том же ряду получают +100 к стойкости и +50% ОЗ. Эффект длится 7 сек.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+### 4th Skill (or 3rd): Вторжение Гармонии
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Сила элементалей&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, &lt;Холодная хватка&gt; с шансом 50% воздействует на случайный вражеский отряд на задней линии.</span>
 
-### 5th Skill (or 6th): null
- **Description:** 
+### 5th Skill (or 6th): Перезарядка
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Застывание&gt;</span><span style="color: #645252;font-size:18px">: действие эффекта заморозки продлевается до 5 сек.</span>
 
-### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Окоченение
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Застывание&gt;</span><span style="color: #645252;font-size:18px">: снижает у выбранного отряда сопротивление урону на 20% на 7 сек.</span>
 
 ## Technical info
  **runart:** 0

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Stone Key to the Gates"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Holy Emblem - Neutral - Stone Key to the Gates"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "Stone Key to the Gates.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +2, DEF +0.1%</span> | <span style="color: #645252;font-size:20px"><4> When fighting against bleeding targets, unit's damage increases by 3%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +6, DEF +0.2%</span> | 
-  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +13, DEF +0.5%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 3%. When fighting against bleeding targets, unit's damage increases by additional 9%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +30, DEF +1.5%</span> | 
-  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +6, DEF +0.3%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 1.5%. When fighting against bleeding targets, unit's damage increases by additional 4.5%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +16, DEF +0.7%</span> | 
-  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Holy Emblem ATK +20, DEF +1%</span> | <span style="color: #645252;font-size:20px"><4> unit's damage increases by 5%. When fighting against bleeding targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px"><6> Holy Emblem ATK +55, DEF +2%</span> | 
+  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +2, DEF +0.1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When fighting against bleeding targets, unit's damage increases by 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +6, DEF +0.2%</span> | 
+  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +13, DEF +0.5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; unit's damage increases by 3%. When fighting against bleeding targets, unit's damage increases by additional 9%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +30, DEF +1.5%</span> | 
+  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +6, DEF +0.3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; unit's damage increases by 1.5%. When fighting against bleeding targets, unit's damage increases by additional 4.5%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +16, DEF +0.7%</span> | 
+  | [Stone Key to the Gates](/Emblem/Stone Key to the Gates/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +20, DEF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; unit's damage increases by 5%. When fighting against bleeding targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +55, DEF +2%</span> | 
 
   |         Description            | 
   |:-------------------------------|

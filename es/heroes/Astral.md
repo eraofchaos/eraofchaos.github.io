@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /es/heroes/Astral/
 excerpt: "Astral llegó a Erathia hace más o menos una década y fue rápidamente aceptado por la Cofradía de Magos de Bracada. Tras obtener un alto rango en la Cofradía, algunos bromean sobre que tuvo que haber usado magia para ascender tan rápido."
 heroID: 61203
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Astral"
 toc: true

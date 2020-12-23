@@ -2,7 +2,7 @@
 title: "Item - Units -  Sea Elemental"
 permalink: /Items/unt_66/
 excerpt: " Sea Elemental"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_66.md"
 toc: false

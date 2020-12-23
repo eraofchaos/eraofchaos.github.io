@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /it/units/Giant/
 excerpt: "Unità Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Gigante"
 toc: true

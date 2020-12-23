@@ -3,7 +3,7 @@ title: "Serpente di Regna"
 permalink: /it/units/Regnan Serpent/
 excerpt: "Unità Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Serpente di Regna"
 toc: true

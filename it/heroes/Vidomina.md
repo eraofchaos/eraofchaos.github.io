@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /it/heroes/Vidomina/
 excerpt: "Nonostante il suo enorme potenziale magico, Vidomina venne espulsa da Bracada quando fu scoperta a utilizzare i propri poteri per trasformare i viventi in non morti. Nell'esilio, si lasciò sopraffare dal suo lato malvagio e intraprese un cammino votato all'oscurità."
 heroID: 60502
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Vidomina"
 toc: true

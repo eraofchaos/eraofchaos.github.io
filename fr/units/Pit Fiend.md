@@ -3,7 +3,7 @@ title: "Servante des Abîmes"
 permalink: /fr/units/Pit Fiend/
 excerpt: "Unités Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage."
 unitID: 505
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Servante des Abîmes"
 toc: true

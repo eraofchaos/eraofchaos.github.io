@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ум"
 permalink: /ru/Emblem/Witness/
 excerpt: "Эмблема святости - Добро - Ум"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Witness.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +20, ОЗ +10%</span> | <span style="color: #645252;font-size:20px"><4> Увеличивает скорость АТК отряда на 5%. После уничтожения цели скорость АТК увеличивается на 15% до конца боя.</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +55, ОЗ +20%</span> | 
-  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px"><4> Увеличивает скорость АТК отряда на 4%. После уничтожения цели скорость АТК увеличивается на 10% до конца боя.</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +30, ОЗ +15%</span> | 
-  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era3} | null | <span style="color: #645252;font-size:20px"><4> Увеличивает скорость АТК отряда на 2%. После уничтожения цели скорость АТК увеличивается на 5% до конца боя.</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +16, ОЗ +7%</span> | 
-  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era2} | null | <span style="color: #645252;font-size:20px"><4> Увеличивает скорость АТК отряда на 1%. После уничтожения цели скорость АТК увеличивается на 2,5% до конца боя.</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +6, ОЗ +2%</span> | 
+  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +20, ОЗ +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает скорость АТК отряда на 5%. После уничтожения цели скорость АТК увеличивается на 15% до конца боя.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ОЗ +20%</span> | 
+  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает скорость АТК отряда на 4%. После уничтожения цели скорость АТК увеличивается на 10% до конца боя.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ОЗ +15%</span> | 
+  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era3} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает скорость АТК отряда на 2%. После уничтожения цели скорость АТК увеличивается на 5% до конца боя.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ОЗ +7%</span> | 
+  | [Ум](/ru/Emblem/Witness/){: .btn .btn--era2} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает скорость АТК отряда на 1%. После уничтожения цели скорость АТК увеличивается на 2,5% до конца боя.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ОЗ +2%</span> | 
 
   |         Description            | 
   |:-------------------------------|

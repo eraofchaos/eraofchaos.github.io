@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Wystan"
 permalink: /Items/her_29/
 excerpt: " Wystan"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_29.md"
 toc: false

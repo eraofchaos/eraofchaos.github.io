@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ангел-хранитель"
 permalink: /ru/Emblem/Guardian Angel/
 excerpt: "Эмблема святости - Добро - Ангел-хранитель"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Guardian Angel.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> АТК +10%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона, с шансом 30% отряд восстанавливает 5% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px"><6> АТК +20%, эмблема святости ЗЩТ +55</span> | 
-  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era3} | null | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона, с шансом 15% отряд восстанавливает 3% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px"><6> АТК +7%, эмблема святости ЗЩТ +16</span> | 
-  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> АТК +5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона, с шансом 25% отряд восстанавливает 3% от максимального запаса здоровья.</span> | null | 
-  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> АТК +1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона, с шансом 10% отряд восстанавливает 3% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px"><6> АТК +2%, эмблема святости ЗЩТ +6</span> | 
+  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +10%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона, с шансом 30% отряд восстанавливает 5% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +20%, эмблема святости ЗЩТ +55</span> | 
+  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era3} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона, с шансом 15% отряд восстанавливает 3% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +7%, эмблема святости ЗЩТ +16</span> | 
+  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона, с шансом 25% отряд восстанавливает 3% от максимального запаса здоровья.</span> | null | 
+  | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона, с шансом 10% отряд восстанавливает 3% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +2%, эмблема святости ЗЩТ +6</span> | 
 
   |         Description            | 
   |:-------------------------------|

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Titan's Cuirass"
 permalink: /Items/art_79/
 excerpt: " Titan's Cuirass"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_79.md"
 toc: false

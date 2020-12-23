@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /es/heroes/Erdamon/
 excerpt: "Erdamon, el anciano Rey de Lava, ha dormido durante siglos en las montañas de la frontera de Eeofol. Ahora ha despertado y se ha unido a los Elementales. Erdamon está totalmente dispuesto a ir a la guerra para librar al mundo de los Kreegan."
 heroID: 60703
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Erdamon"
 toc: true

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Advanced Book of Essences"
+title: "Item - Consumables -  Dungeon Faction Selection Chest"
 permalink: /Items/con_40/
-excerpt: " Advanced Book of Essences"
-last_modified_at: 2020-12-17
+excerpt: " Dungeon Faction Selection Chest"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_40.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A mysterious book of secrets. Contains secrets of a random advanced unit skill.
+ **Description:** Use to select 1 Troglodyte, Harpy, or Minotaur token.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,16 +19,16 @@ classes: wide
 
 ## Gather
 
-*    Duel of Champions 
+  None
 
 ## This item contains:
 
  **Required Level to open:** 1
 
- 2 You would get **1** item  from:
+ You would need to choose 1 item from the list (0):
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Dodge skill essence | Records the advanced secrets of battle. Can be used to improve units' dodging.  | 
-  | 2 |  **1x** | Critical hit skill essence | Records the advanced secrets of battle. Can be used to improve units' critical hits.  | 
-  | 3 |  **1x** | Magic resistance skill essence | Records the advanced secrets of battle. Can be used to improve units' magic resistance.  | 
+  | 1 |  **1x** | Troglodyte | Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes.  | 
+  | 2 |  **1x** | Harpy | Once you have gathered 30 soul tokens you can summon a Harpy. Tokens can also be used to upgrade or increase the rank of harpies.  | 
+  | 3 |  **1x** | Minotaur | Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.  | 

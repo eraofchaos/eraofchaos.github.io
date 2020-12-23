@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /es/units/Dendroid Guard/
 excerpt: "Unidades Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido."
 unitID: 205
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Guardia Dendroide"
 toc: true

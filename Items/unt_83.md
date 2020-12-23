@@ -2,7 +2,7 @@
 title: "Item - Units -  Power Lich Soul Stone"
 permalink: /Items/unt_83/
 excerpt: " Power Lich Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_83.md"
 toc: false

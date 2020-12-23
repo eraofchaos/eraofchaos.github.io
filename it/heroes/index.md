@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /it/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: it
 ref: "index.md"
 toc: false

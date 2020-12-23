@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /it/heroes/Zydar/
 excerpt: "Zydar ha passato buona parte della propria vita ad addestrarsi nella magia, diventando un potentissimo stregone prima di farsi un nome come generale. È il più affidabile tra tutti i Demoni."
 heroID: 60901
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Zydar"
 toc: true

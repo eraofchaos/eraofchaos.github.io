@@ -3,7 +3,7 @@ title: "Wandelnde Tote"
 permalink: /de/units/Walking Dead/
 excerpt: "Einheiten Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
 unitID: 302
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Wandelnde Tote"
 toc: true

@@ -2,7 +2,7 @@
 title: "Боевое построение Tower"
 permalink: /ru/Battle Formation/Battle Formation Fraction Tower internal
 excerpt: "Боевое построение Tower"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: ru
 ref: "BattleFormationFractionTower"
 toc: false
@@ -40,17 +40,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | null + **0.3** % | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 1 | Tower - Damage Amplification | null + **0.3** % | 150 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Tower - A Strike Hit | null + **6**  | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 3 | Tower - A Strike Hit | null + **6**  | 150 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 4 | Tower - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Tower - Ingeniousness | null + **6**  | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 5 | Tower - Ingeniousness | null + **6**  | 150 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 6 | Tower - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 7 | Tower - Shield Practice | null + **0.3** % | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 7 | Tower - Shield Practice | null + **0.3** % | 150 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 8 | Tower - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Tower - Rocklike Skin | null + **6**  | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 9 | Tower - Rocklike Skin | null + **6**  | 150 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 10 | Tower - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 11 | Tower - Blaster | null + **5**  | 150 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 11 | Tower - Blaster | null + **5**  | 150 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 12 | Tower - Storm Assaulter | АТК + **0.9** % | 70 |   |
   
 
@@ -59,22 +59,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | null + **0.4** % | 160 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 1 | Tower - Damage Amplification | null + **0.4** % | 160 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Tower - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 4 | Tower - A Strike Hit | null + **6**  | 160 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
+  | 4 | Tower - A Strike Hit | null + **6**  | 160 |  **10** x [Stone Gargoyle](/ru/units/Stone Gargoyle) |
   | 5 | Tower - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 6 | Tower - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 7 | Tower - Ingeniousness | null + **6**  | 160 |  **20** x [Железный голем](/ru/units/Iron Golem) |
+  | 7 | Tower - Ingeniousness | null + **6**  | 160 |  **10** x [Железный голем](/ru/units/Iron Golem) |
   | 8 | Tower - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 9 | Tower - Physical Trials | ОЗ + **1** % | 80 |   |
-  | 10 | Tower - Shield Practice | null + **0.4** % | 160 |  **20** x [Железный голем](/ru/units/Iron Golem) |
+  | 10 | Tower - Shield Practice | null + **0.4** % | 160 |  **10** x [Железный голем](/ru/units/Iron Golem) |
   | 11 | Tower - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Tower - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Tower - Rocklike Skin | null + **7**  | 160 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
+  | 13 | Tower - Rocklike Skin | null + **7**  | 160 |  **10** x [Stone Gargoyle](/ru/units/Stone Gargoyle) |
   | 14 | Tower - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Tower - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 16 | Tower - Blaster | null + **5**  | 160 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 16 | Tower - Blaster | null + **5**  | 160 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 17 | Tower - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 18 | Tower - Storm Assaulter | АТК + **1** % | 80 |   |
   
@@ -84,27 +84,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | null + **0.4** % | 180 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
+  | 1 | Tower - Damage Amplification | null + **0.4** % | 180 |  **10** x [Stone Gargoyle](/ru/units/Stone Gargoyle) |
   | 2 | Tower - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 3 | Tower - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 4 | Tower - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
-  | 5 | Tower - A Strike Hit | null + **7**  | 180 |  **20** x [Железный голем](/ru/units/Iron Golem) |
+  | 5 | Tower - A Strike Hit | null + **7**  | 180 |  **10** x [Железный голем](/ru/units/Iron Golem) |
   | 6 | Tower - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
   | 7 | Tower - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
   | 8 | Tower - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
-  | 9 | Tower - Ingeniousness | null + **7**  | 180 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 9 | Tower - Ingeniousness | null + **7**  | 180 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 10 | Tower - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
   | 11 | Tower - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 12 | Tower - Physical Trials | ОЗ + **1.2** % | 90 |   |
-  | 13 | Tower - Shield Practice | null + **0.4** % | 180 |  **20** x [Gremlin](/ru/units/Gremlin) |
+  | 13 | Tower - Shield Practice | null + **0.4** % | 180 |  **10** x [Gremlin](/ru/units/Gremlin) |
   | 14 | Tower - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 15 | Tower - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 16 | Tower - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
-  | 17 | Tower - Rocklike Skin | null + **8**  | 180 |  **20** x [Железный голем](/ru/units/Iron Golem) |
+  | 17 | Tower - Rocklike Skin | null + **8**  | 180 |  **10** x [Железный голем](/ru/units/Iron Golem) |
   | 18 | Tower - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
   | 19 | Tower - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
   | 20 | Tower - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
-  | 21 | Tower - Blaster | null + **6**  | 180 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
+  | 21 | Tower - Blaster | null + **6**  | 180 |  **10** x [Stone Gargoyle](/ru/units/Stone Gargoyle) |
   | 22 | Tower - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
   | 23 | Tower - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 24 | Tower - Storm Assaulter | АТК + **1.2** % | 90 |   |
@@ -115,7 +115,7 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | null + **0.5** % | 190 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
+  | 1 | Tower - Damage Amplification | null + **0.5** % | 190 |  **20** x [Stone Gargoyle](/ru/units/Stone Gargoyle) |
   | 2 | Tower - Storm Assaulter | АТК + **1.4** % | 100 |   |
   | 3 | Tower - Storm Assaulter | АТК + **1.4** % | 100 |   |
   | 4 | Tower - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
@@ -140,7 +140,7 @@ classes: wide
   | 23 | Tower - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 24 | Tower - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 25 | Tower - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
-  | 26 | Tower - Blaster | null + **7**  | 190 |  **20** x [Каменная горгулья](/ru/units/Stone Gargoyle) |
+  | 26 | Tower - Blaster | null + **7**  | 190 |  **20** x [Stone Gargoyle](/ru/units/Stone Gargoyle) |
   | 27 | Tower - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
   | 28 | Tower - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
   | 29 | Tower - Storm Assaulter | АТК + **1.4** % | 100 |   |

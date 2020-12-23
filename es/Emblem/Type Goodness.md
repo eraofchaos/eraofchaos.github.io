@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Bien"
 permalink: /es/Emblem/Type Goodness/
 excerpt: "Emblema Sagrado - Bien"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "typeBien.md"
 toc: false

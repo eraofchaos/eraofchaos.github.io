@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Minotaur's Battleaxe"
 permalink: /Items/art_10/
 excerpt: " Minotaur's Battleaxe"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_10.md"
 toc: false

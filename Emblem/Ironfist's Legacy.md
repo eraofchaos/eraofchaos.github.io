@@ -2,7 +2,7 @@
 title: "Holy Emblem - Ironfist's Legacy"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Holy Emblem - Order - Ironfist's Legacy"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "Ironfist's Legacy.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATK +3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px"><4> Decreases the target unit's healing received by 18% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px"><6> ATK +7%, Holy Emblem DEF +16</span> | 
-  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATK +1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px"><4> Decreases the target unit's healing received by 10% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px"><6> ATK +2%, Holy Emblem DEF +6</span> | 
-  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATK +10%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px"><4> Decreases the target unit's healing received by 35% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px"><6> ATK +20%, Holy Emblem DEF +55</span> | 
-  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATK +5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px"><4> Decreases the target unit's healing received by 25% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px"><6> ATK +15%, Holy Emblem DEF +30</span> | 
+  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Decreases the target unit's healing received by 18% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +7%, Holy Emblem DEF +16</span> | 
+  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Decreases the target unit's healing received by 10% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +2%, Holy Emblem DEF +6</span> | 
+  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +10%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Decreases the target unit's healing received by 35% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +20%, Holy Emblem DEF +55</span> | 
+  | [Ironfist's Legacy](/Emblem/Ironfist's Legacy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Decreases the target unit's healing received by 25% for 6s. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +15%, Holy Emblem DEF +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

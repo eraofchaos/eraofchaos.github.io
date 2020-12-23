@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /es/heroes/Crag Hack/
 excerpt: "Crag Hack era un héroe olvidado de Enroth antes de navegar hasta Erathia. En esta tierra en conflicto encontró el lugar perfecto para dar uso a sus habilidades."
 heroID: 60602
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Crag Hack"
 toc: true

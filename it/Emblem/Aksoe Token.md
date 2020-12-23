@@ -2,7 +2,7 @@
 title: "Emblema sacro - Simbolo di Aksoe"
 permalink: /it/Emblem/Aksoe Token/
 excerpt: "Emblema sacro - Neutrale - Simbolo di Aksoe"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "Aksoe Token.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATT +3%, DIF Emblema sacro +6</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta dell'1,5%. Il DAN aumenta di un ulteriore 4,5% contro bersagli <rallentati>.</span> | <span style="color: #645252;font-size:20px"><6> ATT +7%, DIF Emblema sacro +16</span> | 
-  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATT +1%, DIF Emblema sacro +2</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta del 3% contro bersagli <rallentati></span> | <span style="color: #645252;font-size:20px"><6> ATT +2%, DIF Emblema sacro +6</span> | 
-  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATT +5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta del 3%. Il DAN aumenta di un ulteriore 9% contro bersagli <rallentati>.</span> | <span style="color: #645252;font-size:20px"><6> ATT +15%, DIF Emblema sacro +30</span> | 
-  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATT +10%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta del 5%. Il DAN aumenta di un ulteriore 15% contro bersagli <rallentati>.</span> | <span style="color: #645252;font-size:20px"><6> ATT +20%, DIF Emblema sacro +55</span> | 
+  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +3%, DIF Emblema sacro +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta dell'1,5%. Il DAN aumenta di un ulteriore 4,5% contro bersagli &lt;rallentati&gt;.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +7%, DIF Emblema sacro +16</span> | 
+  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +1%, DIF Emblema sacro +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 3% contro bersagli &lt;rallentati&gt;</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +2%, DIF Emblema sacro +6</span> | 
+  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 3%. Il DAN aumenta di un ulteriore 9% contro bersagli &lt;rallentati&gt;.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +15%, DIF Emblema sacro +30</span> | 
+  | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +10%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 5%. Il DAN aumenta di un ulteriore 15% contro bersagli &lt;rallentati&gt;.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +20%, DIF Emblema sacro +55</span> | 
 
   |         Description            | 
   |:-------------------------------|

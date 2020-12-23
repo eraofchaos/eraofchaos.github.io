@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Conflux -  Units"
 permalink: /fr/units/Fraction Conflux/
 excerpt: "Fraction Conflux - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Fraction Conflux"
 toc: false
@@ -19,6 +19,6 @@ classes: wide
   | 3 | [Farfadet](/fr/units/Leprechaun/) | Défense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  conglinyaojing  |
   | 4 | [Fée](/fr/units/Sprite/) | Assaut | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |  mofaxianling  |
   | 5 | [Élémentaire de tempête](/fr/units/Storm Elemental/) | À distance | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  leiyuansu  |
-  | 6 | [Élémentaire de glace](/fr/units/Ice Elemental/) | Lanceur de sorts | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
+  | 6 | [Élémentaire de glace](/fr/units/Ice Elemental/) | Lanceur de sorts | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 7 | [Élémentaire de feu](/fr/units/Fire Elemental/) | Offensive | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
   | 8 | [Élémentaire de pierre](/fr/units/Stone Elemental/) | Défense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |  shiyuansu  |

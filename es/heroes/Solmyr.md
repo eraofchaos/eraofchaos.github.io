@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /es/heroes/Solmyr/
 excerpt: "Solmyr pasó más de mil años atrapado en una botella de Genio. Siente una eterna gratitud por la persona que lo liberó: Gavin Magnus, gobernante inmortal de las tierras altas de Bracada, y le ha jurado lealtad eterna."
 heroID: 61201
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Solmyr"
 toc: true

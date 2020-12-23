@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -89,40 +89,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Silent Snow Spirit
 
- **Awaking Description:** null
+ **Awaking Description:** Ice Elementals are not as cold and merciless as most people would describe them. Their singing can be heard every snowy night. It is a beautiful melody that is clear with a tinge of sorrow, like a kind of echo from somewhere unknown.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Ice Elemental with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Conflux units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> resources during a Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Silent Snow Spirit souls in the Underground: Levels 16-2 and 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Ice Elemental with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Conflux units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Frozen Wall
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ice Wall&gt;</span><span style="color: #645252;font-size:18px"> Further reduces the Critical Hit Damage Reduction of targets hit by 20%. If the target hit is immune to Freeze, they will be inflicted with Overstrained for 3s.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Ice Prison
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Ice Wall&gt;</span><span style="color: #645252;font-size:18px"> Further reduces the Unit DMG Reduction of targets hit by 20%. If the target hit is immune to Freeze, they will be silenced for 3s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Elemental Defense
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Increases the front row units' Tenacity by 100 and HP by 50% for 7s when a hero casts a water-type spell.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Elemental Invasion
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px"> Has a 50% chance to cast &lt;Ice Grip&gt; on 1 random back row enemy unit when a hero casts a water-type spell.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Cool Down
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Frozen Solid&gt;</span><span style="color: #645252;font-size:18px"> Increases the duration of &lt;Freeze&gt; by 5s.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Solidify
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Frozen Solid&gt;</span><span style="color: #645252;font-size:18px"> Further decreases the target unit's Unit DMG Reduction by 20% for 7s.</span>
 
 ## Technical info
  **runart:** 0

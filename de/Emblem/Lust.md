@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Wollust"
 permalink: /de/Emblem/Lust/
 excerpt: "Heiliges Emblem - Chaos - Wollust"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: de
 ref: "Lust.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +9, „Heiliges Emblem“-ABW +9</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die erhaltene Heilung eingesetzter Einheiten um 10 %.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +22,5, „Heiliges Emblem“-ABW +22,5</span> | 
-  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +15, „Heiliges Emblem“-ABW +15</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die erhaltene Heilung eingesetzter Einheiten um 15 %.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +37,5, „Heiliges Emblem“-ABW +37,5</span> | 
-  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +1,5, „Heiliges Emblem“-ABW +1,5</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die erhaltene Heilung eingesetzter Einheiten um 3 %.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +4, „Heiliges Emblem“-ABW +4</span> | 
-  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +4,5, „Heiliges Emblem“-ABW +4,5</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die erhaltene Heilung eingesetzter Einheiten um 6 %.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +11,5, „Heiliges Emblem“-ABW +11,5</span> | 
+  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +9, „Heiliges Emblem“-ABW +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die erhaltene Heilung eingesetzter Einheiten um 10 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +22,5, „Heiliges Emblem“-ABW +22,5</span> | 
+  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +15, „Heiliges Emblem“-ABW +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die erhaltene Heilung eingesetzter Einheiten um 15 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +37,5, „Heiliges Emblem“-ABW +37,5</span> | 
+  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +1,5, „Heiliges Emblem“-ABW +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die erhaltene Heilung eingesetzter Einheiten um 3 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +4, „Heiliges Emblem“-ABW +4</span> | 
+  | [Wollust](/de/Emblem/Lust/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +4,5, „Heiliges Emblem“-ABW +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die erhaltene Heilung eingesetzter Einheiten um 6 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +11,5, „Heiliges Emblem“-ABW +11,5</span> | 
 
   |         Description            | 
   |:-------------------------------|

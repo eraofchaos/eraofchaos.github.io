@@ -2,7 +2,7 @@
 title: "Item - Materials -  Radiant Wood"
 permalink: /Items/mat_21/
 excerpt: " Radiant Wood"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_21.md"
 toc: false

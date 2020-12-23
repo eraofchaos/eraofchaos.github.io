@@ -2,7 +2,7 @@
 title: "Item - Units -  Wolf Rider"
 permalink: /Items/unt_24/
 excerpt: " Wolf Rider"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_24.md"
 toc: false

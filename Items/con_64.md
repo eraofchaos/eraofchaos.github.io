@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Darkness Dominance Pack"
+title: "Item - Consumables -  Gauze Token"
 permalink: /Items/con_64/
-excerpt: " Darkness Dominance Pack"
-last_modified_at: 2020-12-17
+excerpt: " Gauze Token"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_64.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to select one from the following: Darkness Dominance Avatar Frame *1 or Bone Dragon Token *5
+ **Description:** A Gauze token from an ancient campaign that can be used for awakening Mummy's exclusive potential, Gauze.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** EXCLUSIVE_SPLICE
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (0):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 | AVATARFRAME1034 | 
-  | 2 |  **5x** | Bone Dragon | Once you have gathered 80 soul tokens you can summon a Bone Dragon, an SSR aptitude unit.  | 

@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /de/units/Gremlin/
 excerpt: "Einheiten Gremlins haben sich verpflichtet, dem Turm zu dienen. Sie greifen mit ihren verzauberten Kettenkugeln aus der Ferne an."
 unitID: 601
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Gremlin"
 toc: true

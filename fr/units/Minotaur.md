@@ -3,7 +3,7 @@ title: "Minotaure"
 permalink: /fr/units/Minotaur/
 excerpt: "Unités Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare."
 unitID: 705
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Minotaure"
 toc: true

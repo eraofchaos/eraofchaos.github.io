@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Gauze Token"
+title: "Item - Consumables -  Astro Silver Pack B"
 permalink: /Items/con_61/
-excerpt: " Gauze Token"
-last_modified_at: 2020-12-17
+excerpt: " Astro Silver Pack B"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_61.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A Gauze token from an ancient campaign that can be used for awakening Mummy's exclusive potential, Gauze.
+ **Description:** Buy to get 5 astro silvers, 780 diamonds, and 780 VIP EXP.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** EXCLUSIVE_SPLICE
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,11 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **5x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 2 |  **780x** | <i class="fas fa-gem"/> |  | 

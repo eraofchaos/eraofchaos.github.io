@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /fr/heroes/Erdamon/
 excerpt: "Erdamon, ancien Roi du magma, dormait depuis des siècles dans les montagnes à la frontière d'Eeofol. Il est maintenant sorti de son sommeil pour rejoindre les Élémentaires, très enthousiaste à l'idée de se battre pour débarrasser le monde des Kreegans."
 heroID: 60703
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Erdamon"
 toc: true

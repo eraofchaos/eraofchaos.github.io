@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Amulet of the Undertaker"
 permalink: /Items/art_46/
 excerpt: " Amulet of the Undertaker"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_46.md"
 toc: false

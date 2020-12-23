@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Neutral"
 permalink: /de/Emblem/Type Neutral/
 excerpt: "Heiliges Emblem - Neutral"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: de
 ref: "typeNeutral.md"
 toc: false

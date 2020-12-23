@@ -2,7 +2,7 @@
 title: "Emblème sacré - Jeton d'Aksoe"
 permalink: /fr/Emblem/Aksoe Token/
 excerpt: "Emblème sacré - Neutre - Jeton d'Aksoe"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Aksoe Token.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATQ +3 %, DÉF des Emblèmes sacrés +6</span> | <span style="color: #645252;font-size:20px"><4> Les dégâts de l'unité augmentent de 1,5 %. Face à des cibles victimes de Lenteur, les dégâts augmentent de 4,5 % supplémentaires.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +7 %, DÉF des Emblèmes sacrés +16</span> | 
-  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATQ +1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px"><4> Face à des cibles victimes de Lenteur, les dégâts de l'unité augmentent de 3 %.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +2 %, DÉF des Emblèmes sacrés +6</span> | 
-  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATQ +5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px"><4> Les dégâts de l'unité augmentent de 3 %. Face à des cibles victimes de Lenteur, les dégâts augmentent de 9 % supplémentaires.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +15 %, DÉF des Emblèmes sacrés +30</span> | 
-  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATQ +10 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px"><4> Les dégâts de l'unité augmentent de 5 %. Face à des cibles victimes de Lenteur, les dégâts augmentent de 15 % supplémentaires.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +20 %, DÉF des Emblèmes sacrés +55</span> | 
+  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +3 %, DÉF des Emblèmes sacrés +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Les dégâts de l'unité augmentent de 1,5 %. Face à des cibles victimes de Lenteur, les dégâts augmentent de 4,5 % supplémentaires.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +7 %, DÉF des Emblèmes sacrés +16</span> | 
+  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Face à des cibles victimes de Lenteur, les dégâts de l'unité augmentent de 3 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +2 %, DÉF des Emblèmes sacrés +6</span> | 
+  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Les dégâts de l'unité augmentent de 3 %. Face à des cibles victimes de Lenteur, les dégâts augmentent de 9 % supplémentaires.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15 %, DÉF des Emblèmes sacrés +30</span> | 
+  | [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Les dégâts de l'unité augmentent de 5 %. Face à des cibles victimes de Lenteur, les dégâts augmentent de 15 % supplémentaires.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20 %, DÉF des Emblèmes sacrés +55</span> | 
 
   |         Description            | 
   |:-------------------------------|

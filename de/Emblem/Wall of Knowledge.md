@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Wall der Weisheit"
 permalink: /de/Emblem/Wall of Knowledge/
 excerpt: "Heiliges Emblem - Gut - Wall der Weisheit"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: de
 ref: "Wall of Knowledge.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +13, ABW +0,5 %</span> | <span style="color: #645252;font-size:20px"><4> Erhöht den SCHD (Einheit) eingesetzter Einheiten um 4 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +30, ABW +1,5 %</span> | 
-  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +20, ABW +1 %</span> | <span style="color: #645252;font-size:20px"><4> Erhöht den SCHD (Einheit) eingesetzter Einheiten um 5 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +55, ABW +2 %</span> | 
-  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +6, ABW +0,3 %</span> | <span style="color: #645252;font-size:20px"><4> Erhöht den SCHD (Einheit) eingesetzter Einheiten um 3 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +16, ABW +0,7 %</span> | 
-  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> „Heiliges Emblem“-ANG +2, ABW +10 %</span> | <span style="color: #645252;font-size:20px"><4> Erhöht den SCHD (Einheit) eingesetzter Einheiten um 2 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px"><6> „Heiliges Emblem“-ANG +6, ABW +0,2 %</span> | 
+  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +13, ABW +0,5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den SCHD (Einheit) eingesetzter Einheiten um 4 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +30, ABW +1,5 %</span> | 
+  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +20, ABW +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den SCHD (Einheit) eingesetzter Einheiten um 5 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +55, ABW +2 %</span> | 
+  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +6, ABW +0,3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den SCHD (Einheit) eingesetzter Einheiten um 3 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +16, ABW +0,7 %</span> | 
+  | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +2, ABW +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den SCHD (Einheit) eingesetzter Einheiten um 2 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +6, ABW +0,2 %</span> | 
 
   |         Description            | 
   |:-------------------------------|

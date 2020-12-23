@@ -2,7 +2,7 @@
 title: "Эмблема святости - Добро"
 permalink: /ru/Emblem/Type Goodness/
 excerpt: "Эмблема святости - Добро"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "typeДобро.md"
 toc: false

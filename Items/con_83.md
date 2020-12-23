@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  68 Diamond Pack"
+title: "Item - Consumables -  Energy Core"
 permalink: /Items/con_83/
-excerpt: " 68 Diamond Pack"
-last_modified_at: 2020-12-17
+excerpt: " Energy Core"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_83.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A package of 68 diamonds!
+ **Description:** Used for activating Battle Formation nodes
 
- **Quality:** <span style="color: #32CD32">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** EXP
+ **Type:** Unknown
 
 ## Gather
 

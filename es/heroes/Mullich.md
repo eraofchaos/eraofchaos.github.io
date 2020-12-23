@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /es/heroes/Mullich/
 excerpt: "Las tropas de Sir Mullich son conocidas por su velocidad, y él es conocido por su autocontrol y disciplina. Usa un entrenamiento especial para volver más rápidas a sus tropas."
 heroID: 60101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Mullich"
 toc: true

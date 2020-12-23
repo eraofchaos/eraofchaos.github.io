@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Böse"
 permalink: /de/Emblem/Type Evil/
 excerpt: "Heiliges Emblem - Böse"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: de
 ref: "typeBöse.md"
 toc: false

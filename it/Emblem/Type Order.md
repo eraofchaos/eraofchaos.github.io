@@ -2,7 +2,7 @@
 title: "Emblema sacro - Ordine"
 permalink: /it/Emblem/Type Order/
 excerpt: "Emblema sacro - Ordine"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "typeOrdine.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Джелу"
 permalink: /ru/heroes/Gelu/
 excerpt: ""
 heroID: 60301
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Gelu"
 toc: true

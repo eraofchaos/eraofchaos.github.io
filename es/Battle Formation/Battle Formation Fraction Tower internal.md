@@ -2,7 +2,7 @@
 title: "Formación de batalla Torre"
 permalink: /es/Battle Formation/Battle Formation Fraction Tower internal
 excerpt: "Formación de batalla Torre"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: es
 ref: "BattleFormationFractionTower"
 toc: false
@@ -40,17 +40,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 1 | Tower - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Tower - A Strike Hit | Precisión + **6**  | 150 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 3 | Tower - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 4 | Tower - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Tower - Ingeniousness | Evasión + **6**  | 150 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 5 | Tower - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 6 | Tower - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Tower - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 7 | Tower - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 8 | Tower - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Tower - Rocklike Skin | Tenacidad + **6**  | 150 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 9 | Tower - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 10 | Tower - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Tower - Blaster | Golpe crítico + **5**  | 150 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 11 | Tower - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 12 | Tower - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
@@ -59,22 +59,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 1 | Tower - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Tower - A Strike Hit | Precisión + **6**  | 160 |  **20** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
+  | 4 | Tower - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
   | 5 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Tower - Ingeniousness | Evasión + **6**  | 160 |  **20** x [Gólem de Hierro](/es/units/Iron Golem) |
+  | 7 | Tower - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Gólem de Hierro](/es/units/Iron Golem) |
   | 8 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Tower - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Tower - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **20** x [Gólem de Hierro](/es/units/Iron Golem) |
+  | 10 | Tower - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Gólem de Hierro](/es/units/Iron Golem) |
   | 11 | Tower - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Tower - Rocklike Skin | Tenacidad + **7**  | 160 |  **20** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
+  | 13 | Tower - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
   | 14 | Tower - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Tower - Blaster | Golpe crítico + **5**  | 160 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 16 | Tower - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 17 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Tower - Storm Assaulter | ATQ + **1** % | 80 |   |
   
@@ -84,27 +84,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Tower - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **20** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
+  | 1 | Tower - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
   | 2 | Tower - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 3 | Tower - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 4 | Tower - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 5 | Tower - A Strike Hit | Precisión + **7**  | 180 |  **20** x [Gólem de Hierro](/es/units/Iron Golem) |
+  | 5 | Tower - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Gólem de Hierro](/es/units/Iron Golem) |
   | 6 | Tower - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 7 | Tower - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 8 | Tower - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 9 | Tower - Ingeniousness | Evasión + **7**  | 180 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 9 | Tower - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 10 | Tower - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 11 | Tower - Physical Trials | PV + **1.2** % | 90 |   |
   | 12 | Tower - Physical Trials | PV + **1.2** % | 90 |   |
-  | 13 | Tower - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **20** x [Gremlin](/es/units/Gremlin) |
+  | 13 | Tower - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Gremlin](/es/units/Gremlin) |
   | 14 | Tower - Physical Trials | PV + **1.2** % | 90 |   |
   | 15 | Tower - Physical Trials | PV + **1.2** % | 90 |   |
   | 16 | Tower - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 17 | Tower - Rocklike Skin | Tenacidad + **8**  | 180 |  **20** x [Gólem de Hierro](/es/units/Iron Golem) |
+  | 17 | Tower - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Gólem de Hierro](/es/units/Iron Golem) |
   | 18 | Tower - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 19 | Tower - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 20 | Tower - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 21 | Tower - Blaster | Golpe crítico + **6**  | 180 |  **20** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
+  | 21 | Tower - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Gárgola de Piedra](/es/units/Stone Gargoyle) |
   | 22 | Tower - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 23 | Tower - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 24 | Tower - Storm Assaulter | ATQ + **1.2** % | 90 |   |

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Cure"
 permalink: /Items/her_16/
 excerpt: " Cure"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_16.md"
 toc: false

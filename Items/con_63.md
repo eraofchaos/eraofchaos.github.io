@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Premium Apple of Eden"
+title: "Item - Consumables -  Armageddon's Blade Offer"
 permalink: /Items/con_63/
-excerpt: " Premium Apple of Eden"
-last_modified_at: 2020-12-17
+excerpt: " Armageddon's Blade Offer"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_63.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 1 Piece of Eden Component Chest and 3,880 Diamonds.
+ **Description:** Grants 1 Doomsday Component Chest and 3,880 diamonds.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -30,4 +30,4 @@ classes: wide
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
   | 1 |  **3880x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Piece of Eden Component Chest | A component chest of the Apple of Eden. Use it to select 1 of the components from the Apple of Eden Artifact.  | 
+  | 2 |  **1x** | Doomsday Component Chest | A component chest of the Armageddon's Blade. Use it to select 1 of the components from the Armageddon's Blade's Artifacts  | 

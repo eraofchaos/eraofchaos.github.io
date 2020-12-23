@@ -3,7 +3,7 @@ title: "Мюллих"
 permalink: /ru/heroes/Mullich/
 excerpt: ""
 heroID: 60101
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Mullich"
 toc: true

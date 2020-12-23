@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Forest Bow"
 permalink: /Items/art_48/
 excerpt: " Forest Bow"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_48.md"
 toc: false

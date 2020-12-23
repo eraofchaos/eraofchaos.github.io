@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  198 Diamond Pack"
+title: "Item - Consumables -  Soul Stone Pack 2"
 permalink: /Items/con_9/
-excerpt: " 198 Diamond Pack"
-last_modified_at: 2020-12-17
+excerpt: " Soul Stone Pack 2"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A package of 198 diamonds!
+ **Description:** Grants 20,000 Soul Stones.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** EXP
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,10 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **20000x** | Soul Stone | Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store  | 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Enraged Cyclops Soul Stone"
 permalink: /Items/unt_6/
 excerpt: " Enraged Cyclops Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_6.md"
 toc: false

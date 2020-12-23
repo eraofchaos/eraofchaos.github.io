@@ -2,7 +2,7 @@
 title: "Formación de batalla Necrópolis"
 permalink: /es/Battle Formation/Battle Formation Fraction Necropolis internal
 excerpt: "Formación de batalla Necrópolis"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: es
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -40,17 +40,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Necropolis - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **20** x [Esqueleto](/es/units/Skeleton) |
+  | 1 | Necropolis - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Esqueleto](/es/units/Skeleton) |
   | 2 | Necropolis - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Necropolis - A Strike Hit | Precisión + **6**  | 150 |  **20** x [Esqueleto](/es/units/Skeleton) |
+  | 3 | Necropolis - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Esqueleto](/es/units/Skeleton) |
   | 4 | Necropolis - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Necropolis - Ingeniousness | Evasión + **6**  | 150 |  **20** x [Esqueleto](/es/units/Skeleton) |
+  | 5 | Necropolis - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Esqueleto](/es/units/Skeleton) |
   | 6 | Necropolis - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Necropolis - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 7 | Necropolis - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 8 | Necropolis - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Necropolis - Rocklike Skin | Tenacidad + **6**  | 150 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 9 | Necropolis - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 10 | Necropolis - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Necropolis - Blaster | Golpe crítico + **5**  | 150 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 11 | Necropolis - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 12 | Necropolis - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
@@ -59,22 +59,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Necropolis - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **20** x [Esqueleto](/es/units/Skeleton) |
+  | 1 | Necropolis - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Esqueleto](/es/units/Skeleton) |
   | 2 | Necropolis - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Necropolis - A Strike Hit | Precisión + **6**  | 160 |  **20** x [Esqueleto](/es/units/Skeleton) |
+  | 4 | Necropolis - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Esqueleto](/es/units/Skeleton) |
   | 5 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Necropolis - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Necropolis - Ingeniousness | Evasión + **6**  | 160 |  **20** x [Aparición](/es/units/Wight) |
+  | 7 | Necropolis - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Aparición](/es/units/Wight) |
   | 8 | Necropolis - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Necropolis - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Necropolis - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **20** x [Vampiro](/es/units/Vampire) |
+  | 10 | Necropolis - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Vampiro](/es/units/Vampire) |
   | 11 | Necropolis - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Necropolis - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Necropolis - Rocklike Skin | Tenacidad + **7**  | 160 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 13 | Necropolis - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 14 | Necropolis - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Necropolis - Blaster | Golpe crítico + **5**  | 160 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 16 | Necropolis - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 17 | Necropolis - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Necropolis - Storm Assaulter | ATQ + **1** % | 80 |   |
   
@@ -84,27 +84,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Necropolis - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **20** x [Esqueleto](/es/units/Skeleton) |
+  | 1 | Necropolis - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Esqueleto](/es/units/Skeleton) |
   | 2 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 3 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 4 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 5 | Necropolis - A Strike Hit | Precisión + **7**  | 180 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 5 | Necropolis - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 6 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 7 | Necropolis - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 8 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 9 | Necropolis - Ingeniousness | Evasión + **7**  | 180 |  **20** x [Aparición](/es/units/Wight) |
+  | 9 | Necropolis - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Aparición](/es/units/Wight) |
   | 10 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 11 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
   | 12 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
-  | 13 | Necropolis - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **20** x [Vampiro](/es/units/Vampire) |
+  | 13 | Necropolis - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Vampiro](/es/units/Vampire) |
   | 14 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
   | 15 | Necropolis - Physical Trials | PV + **1.2** % | 90 |   |
   | 16 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 17 | Necropolis - Rocklike Skin | Tenacidad + **8**  | 180 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 17 | Necropolis - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 18 | Necropolis - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 19 | Necropolis - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 20 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 21 | Necropolis - Blaster | Golpe crítico + **6**  | 180 |  **20** x [Muerto Viviente](/es/units/Walking Dead) |
+  | 21 | Necropolis - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Muerto Viviente](/es/units/Walking Dead) |
   | 22 | Necropolis - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 23 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 24 | Necropolis - Storm Assaulter | ATQ + **1.2** % | 90 |   |

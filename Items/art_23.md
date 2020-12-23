@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Charm of Mana"
 permalink: /Items/art_23/
 excerpt: " Charm of Mana"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_23.md"
 toc: false

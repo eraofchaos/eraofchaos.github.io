@@ -2,7 +2,7 @@
 title: "Эмблема святости - Злой"
 permalink: /ru/Emblem/Type Evil/
 excerpt: "Эмблема святости - Злой"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "typeЗлой.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Castillo -  Units"
 permalink: /es/units/Fraction Castillo/
 excerpt: "Fraction Castillo - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Fraction Castillo"
 toc: false

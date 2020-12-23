@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /de/units/Assassin/
 excerpt: "Einheiten Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Assassine"
 toc: true

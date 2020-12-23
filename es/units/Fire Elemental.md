@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /es/units/Fire Elemental/
 excerpt: "Unidades Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Elemental de Fuego"
 toc: true

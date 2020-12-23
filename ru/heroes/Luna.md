@@ -3,7 +3,7 @@ title: "Луна"
 permalink: /ru/heroes/Luna/
 excerpt: ""
 heroID: 60701
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Luna"
 toc: true

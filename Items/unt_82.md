@@ -2,7 +2,7 @@
 title: "Item - Units -  Paladin"
 permalink: /Items/unt_82/
 excerpt: " Paladin"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_82.md"
 toc: false

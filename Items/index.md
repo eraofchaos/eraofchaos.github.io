@@ -2,7 +2,7 @@
 title: "Item - Materials"
 permalink: /Items/
 excerpt: "Materials in Era of Chaos"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "Materials.md"
 toc: false

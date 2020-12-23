@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /it/units/Vampire/
 excerpt: "Unità I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Vampiro"
 toc: true

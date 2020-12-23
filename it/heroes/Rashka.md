@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /it/heroes/Rashka/
 excerpt: "Rashka usa il terrore per guidare le proprie truppe alla vittoria. Finora questa tattica si è rivelata straordinariamente efficace."
 heroID: 60802
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Rashka"
 toc: true

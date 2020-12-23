@@ -2,7 +2,7 @@
 title: "Item - Materials -  Common Gems"
 permalink: /Items/mat_69/
 excerpt: " Common Gems"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_69.md"
 toc: false

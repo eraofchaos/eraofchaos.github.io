@@ -2,7 +2,7 @@
 title: "Item - Units -  Hell Hound"
 permalink: /Items/unt_96/
 excerpt: " Hell Hound"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_96.md"
 toc: false

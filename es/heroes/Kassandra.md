@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /es/heroes/Kassandra/
 excerpt: "Las incomparables habilidades para el combate de Kassandra se deben a la educación espartana que recibió de niña. Cuando los espartanos la dieron por muerta en el monte Taigeto, se convirtió en mercenaria."
 heroID: 62001
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Kassandra"
 toc: true

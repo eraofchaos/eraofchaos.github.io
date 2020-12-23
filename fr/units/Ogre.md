@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /fr/units/Ogre/
 excerpt: "Unités Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Ogre"
 toc: true

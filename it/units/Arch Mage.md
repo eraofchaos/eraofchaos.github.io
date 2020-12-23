@@ -3,7 +3,7 @@ title: "Arcimago"
 permalink: /it/units/Arch Mage/
 excerpt: "Unità Solo gli incantatori più potenti possono fregiarsi del titolo di Mago. I loro incantesimi danno un vantaggio notevole ai loro alleati."
 unitID: 604
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Arcimago"
 toc: true

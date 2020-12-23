@@ -3,7 +3,7 @@ title: "Grüner Drache"
 permalink: /de/units/Green Dragon/
 excerpt: "Einheiten Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Grüner Drache"
 toc: true

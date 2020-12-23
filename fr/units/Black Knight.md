@@ -3,7 +3,7 @@ title: "Chevalier noir"
 permalink: /fr/units/Black Knight/
 excerpt: "Unités Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Chevalier noir"
 toc: true

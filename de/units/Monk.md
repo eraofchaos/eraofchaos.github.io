@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /de/units/Monk/
 excerpt: "Einheiten Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Mönch"
 toc: true

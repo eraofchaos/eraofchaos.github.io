@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Viod Mithril"
+title: "Item - Consumables -  Christmas Carol"
 permalink: /Items/con_45/
-excerpt: " Viod Mithril"
-last_modified_at: 2020-12-17
+excerpt: " Christmas Carol"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_45.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment.
+ **Description:** Use to get a skin: Christmas Carol Crag Hack
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Event related
+ **Type:** Unknown
 
 ## Gather
 

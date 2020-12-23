@@ -2,7 +2,7 @@
 title: "Item - Materials -  Common Crystal"
 permalink: /Items/mat_85/
 excerpt: " Common Crystal"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_85.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Soul Stone Pack 1"
+title: "Item - Consumables -  Medium Campaign Treasure"
 permalink: /Items/con_51/
-excerpt: " Soul Stone Pack 1"
-last_modified_at: 2020-12-17
+excerpt: " Medium Campaign Treasure"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_51.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 7,000 Soul Stones.
+ **Description:** A treasure chest containing 30 Empire Medals!
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
- **Type:** Gift
+ **Type:** EXP
 
 ## Gather
 
@@ -23,10 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **7000x** | Soul Stone | Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store  | 

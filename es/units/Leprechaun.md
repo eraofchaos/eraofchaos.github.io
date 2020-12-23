@@ -3,7 +3,7 @@ title: "Duendecillo"
 permalink: /es/units/Leprechaun/
 excerpt: "Unidades En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo."
 unitID: 909
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: es
 ref: "Duendecillo"
 toc: true

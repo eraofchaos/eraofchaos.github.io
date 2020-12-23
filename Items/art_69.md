@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Deep-Sea Trident"
 permalink: /Items/art_69/
 excerpt: " Deep-Sea Trident"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_69.md"
 toc: false

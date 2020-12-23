@@ -2,7 +2,7 @@
 title: "Formation de combat Conflux"
 permalink: /fr/Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Formation de combat Conflux"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **20** x [Fée](/fr/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **10** x [Fée](/fr/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Conflux - A Strike Hit | Précision + **6**  | 150 |  **20** x [Fée](/fr/units/Sprite) |
+  | 3 | Conflux - A Strike Hit | Précision + **6**  | 150 |  **10** x [Fée](/fr/units/Sprite) |
   | 4 | Conflux - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Conflux - Ingeniousness | Esquive + **6**  | 150 |  **20** x [Fée](/fr/units/Sprite) |
+  | 5 | Conflux - Ingeniousness | Esquive + **6**  | 150 |  **10** x [Fée](/fr/units/Sprite) |
   | 6 | Conflux - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Conflux - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **20** x [Fée](/fr/units/Sprite) |
+  | 7 | Conflux - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **10** x [Fée](/fr/units/Sprite) |
   | 8 | Conflux - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Conflux - Rocklike Skin | Ténacité + **6**  | 150 |  **20** x [Fée](/fr/units/Sprite) |
+  | 9 | Conflux - Rocklike Skin | Ténacité + **6**  | 150 |  **10** x [Fée](/fr/units/Sprite) |
   | 10 | Conflux - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Conflux - Blaster | Coup critique + **5**  | 150 |  **20** x [Fée](/fr/units/Sprite) |
+  | 11 | Conflux - Blaster | Coup critique + **5**  | 150 |  **10** x [Fée](/fr/units/Sprite) |
   | 12 | Conflux - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
@@ -50,22 +50,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **20** x [Fée](/fr/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **10** x [Fée](/fr/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Conflux - A Strike Hit | Précision + **6**  | 160 |  **20** x [Élémentaire de tempête](/fr/units/Storm Elemental) |
+  | 4 | Conflux - A Strike Hit | Précision + **6**  | 160 |  **10** x [Élémentaire de tempête](/fr/units/Storm Elemental) |
   | 5 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Conflux - Ingeniousness | Esquive + **6**  | 160 |  **20** x [Élémentaire de glace](/fr/units/Ice Elemental) |
+  | 7 | Conflux - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Élémentaire de glace](/fr/units/Ice Elemental) |
   | 8 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Conflux - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Conflux - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **20** x [Élémentaire de glace](/fr/units/Ice Elemental) |
+  | 10 | Conflux - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Élémentaire de glace](/fr/units/Ice Elemental) |
   | 11 | Conflux - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Conflux - Rocklike Skin | Ténacité + **7**  | 160 |  **20** x [Élémentaire de tempête](/fr/units/Storm Elemental) |
+  | 13 | Conflux - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Élémentaire de tempête](/fr/units/Storm Elemental) |
   | 14 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Conflux - Blaster | Coup critique + **5**  | 160 |  **20** x [Fée](/fr/units/Sprite) |
+  | 16 | Conflux - Blaster | Coup critique + **5**  | 160 |  **10** x [Fée](/fr/units/Sprite) |
   | 17 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Conflux - Storm Assaulter | ATQ + **1** % | 80 |   |
   

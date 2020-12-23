@@ -2,7 +2,7 @@
 title: "Emblème sacré - Bonté"
 permalink: /fr/Emblem/Type Goodness/
 excerpt: "Emblème sacré - Bonté"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "typeBonté.md"
 toc: false

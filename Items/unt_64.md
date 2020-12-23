@@ -2,7 +2,7 @@
 title: "Item - Units -  Gold Dragon Soul Stone"
 permalink: /Items/unt_64/
 excerpt: " Gold Dragon Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_64.md"
 toc: false

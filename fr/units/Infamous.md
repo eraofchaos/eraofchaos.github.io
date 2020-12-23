@@ -3,7 +3,7 @@ title: "Infamous"
 permalink: /fr/units/Infamous/
 excerpt: "Unités "
 unitID: 509
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Infamous"
 toc: true

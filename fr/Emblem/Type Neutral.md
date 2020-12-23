@@ -2,7 +2,7 @@
 title: "Emblème sacré - Neutre"
 permalink: /fr/Emblem/Type Neutral/
 excerpt: "Emblème sacré - Neutre"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "typeNeutre.md"
 toc: false

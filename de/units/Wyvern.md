@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /de/units/Wyvern/
 excerpt: "Einheiten Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Wyvern"
 toc: true

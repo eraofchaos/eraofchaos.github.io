@@ -3,7 +3,7 @@ title: "Mutare (drago)"
 permalink: /it/heroes/Dragon Mutare/
 excerpt: "Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi."
 heroID: 61302
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Dragon Mutare"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Costellazione del Drago incantato
+   - Nuovo design eroe
+   - Avatar ed effetto incantesimo unici
+
+### Skin 3: **Elfo di Natale**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Elfi di Natale che danzano in un tripudio di fiocchi di neve... e doni. Mutare, che ha bevuto sangue di drago ma non ha ancora completato la trasformazione, sta celebrando il Natale!</span>
+
+ **Skin features:** 
+
+   - Elfo natalizio che gioca con la neve
    - Nuovo design eroe
    - Avatar ed effetto incantesimo unici
 

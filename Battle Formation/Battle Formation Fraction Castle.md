@@ -2,7 +2,7 @@
 title: "Battle Formation Castle"
 permalink: /Battle Formation/Battle Formation Fraction Castle
 excerpt: "Battle Formation Castle"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: en
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -31,9 +31,9 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Pikeman](/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Pikeman](/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATK + **0.9** % | 70 |   |
-  | 3 | Castle - A Strike Hit | Accuracy + **6**  | 150 |  **20** x [Pikeman](/units/Pikeman) |
+  | 3 | Castle - A Strike Hit | Accuracy + **6**  | 150 |  **10** x [Pikeman](/units/Pikeman) |
   | 4 | Castle - Storm Assaulter | ATK + **0.5** %, HP + **0.5** % | 70 |   |
   | 5 | Castle - Ingeniousness | Dodge + **6**  | 150 |  **10** x [Pikeman](/units/Pikeman) |
   | 6 | Castle - Physical Trials | HP + **0.9** % | 70 |   |

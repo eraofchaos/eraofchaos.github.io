@@ -3,7 +3,7 @@ title: "Élémentaire de pierre"
 permalink: /fr/units/Stone Elemental/
 excerpt: "Unités L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre."
 unitID: 905
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Élémentaire de pierre"
 toc: true

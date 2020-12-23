@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /fr/units/Unicorn/
 excerpt: "Unités L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Licorne"
 toc: true

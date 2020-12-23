@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /es/units/Wyvern/
 excerpt: "Unidades Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Guiverno"
 toc: true

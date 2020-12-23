@@ -3,7 +3,7 @@ title: "Regnanschlange"
 permalink: /de/units/Regnan Serpent/
 excerpt: "Einheiten Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Regnanschlange"
 toc: true

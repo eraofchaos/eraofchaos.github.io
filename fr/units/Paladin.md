@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /fr/units/Paladin/
 excerpt: "Unités Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
 unitID: 108
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Paladin"
 toc: true

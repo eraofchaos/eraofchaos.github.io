@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /it/heroes/Cassanbel/
 excerpt: "Pur avendo perso il proprio \"padre\" a causa delle azioni degli umani, Cassanbel ha scelto di aiutare tutti coloro che vivono sul mare."
 heroID: 61701
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: it
 ref: "Cassanbel"
 toc: true

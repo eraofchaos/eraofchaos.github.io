@@ -3,7 +3,7 @@ title: "Шива"
 permalink: /ru/heroes/Shiva/
 excerpt: ""
 heroID: 60603
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Shiva"
 toc: true
@@ -58,5 +58,5 @@ toc: true
 ## Initial Mastery
    - Наступление
    - Доспехи
-   - null
+   - Стрельба
    - Поиск пути

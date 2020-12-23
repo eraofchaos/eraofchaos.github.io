@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Earth Arrow"
 permalink: /Items/her_98/
 excerpt: " Earth Arrow"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_98.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Berserker's Axe Token"
+title: "Item - Consumables -  Obsidian"
 permalink: /Items/con_95/
-excerpt: " Berserker's Axe Token"
-last_modified_at: 2020-12-17
+excerpt: " Obsidian"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_95.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A Berserker's Axe token from an ancient campaign that can be used for awakening Berserker's exclusive potential, Berserker's Axe.
+ **Description:** An exotic gem only found in the Inferno. Can be exchanged for Inferno Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** EXCLUSIVE_SPLICE
+ **Type:** Event related
 
 ## Gather
 

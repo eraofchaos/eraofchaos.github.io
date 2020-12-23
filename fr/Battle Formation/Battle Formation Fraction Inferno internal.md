@@ -2,7 +2,7 @@
 title: "Formation de combat Hadès"
 permalink: /fr/Battle Formation/Battle Formation Fraction Inferno internal
 excerpt: "Formation de combat Hadès"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: fr
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -40,17 +40,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Inferno - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **20** x [Diablotin](/fr/units/Imp) |
+  | 1 | Inferno - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **10** x [Diablotin](/fr/units/Imp) |
   | 2 | Inferno - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Inferno - A Strike Hit | Précision + **6**  | 150 |  **20** x [Diablotin](/fr/units/Imp) |
+  | 3 | Inferno - A Strike Hit | Précision + **6**  | 150 |  **10** x [Diablotin](/fr/units/Imp) |
   | 4 | Inferno - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Inferno - Ingeniousness | Esquive + **6**  | 150 |  **20** x [Diablotin](/fr/units/Imp) |
+  | 5 | Inferno - Ingeniousness | Esquive + **6**  | 150 |  **10** x [Diablotin](/fr/units/Imp) |
   | 6 | Inferno - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Inferno - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **20** x [Gog](/fr/units/Gog) |
+  | 7 | Inferno - Shield Practice | Réduc. dégâts d'unité + **0.3** % | 150 |  **10** x [Gog](/fr/units/Gog) |
   | 8 | Inferno - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Inferno - Rocklike Skin | Ténacité + **6**  | 150 |  **20** x [Gog](/fr/units/Gog) |
+  | 9 | Inferno - Rocklike Skin | Ténacité + **6**  | 150 |  **10** x [Gog](/fr/units/Gog) |
   | 10 | Inferno - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Inferno - Blaster | Coup critique + **5**  | 150 |  **20** x [Gog](/fr/units/Gog) |
+  | 11 | Inferno - Blaster | Coup critique + **5**  | 150 |  **10** x [Gog](/fr/units/Gog) |
   | 12 | Inferno - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
@@ -59,22 +59,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Inferno - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **20** x [Diablotin](/fr/units/Imp) |
+  | 1 | Inferno - Damage Amplification | Dégâts d'unité + **0.4** % | 160 |  **10** x [Diablotin](/fr/units/Imp) |
   | 2 | Inferno - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Inferno - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Inferno - A Strike Hit | Précision + **6**  | 160 |  **20** x [Diablotin](/fr/units/Imp) |
+  | 4 | Inferno - A Strike Hit | Précision + **6**  | 160 |  **10** x [Diablotin](/fr/units/Imp) |
   | 5 | Inferno - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Inferno - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Inferno - Ingeniousness | Esquive + **6**  | 160 |  **20** x [Démon](/fr/units/Demon) |
+  | 7 | Inferno - Ingeniousness | Esquive + **6**  | 160 |  **10** x [Démon](/fr/units/Demon) |
   | 8 | Inferno - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Inferno - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Inferno - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **20** x [Chien de l'Enfer](/fr/units/Hell Hound) |
+  | 10 | Inferno - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 160 |  **10** x [Chien de l'Enfer](/fr/units/Hell Hound) |
   | 11 | Inferno - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Inferno - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Inferno - Rocklike Skin | Ténacité + **7**  | 160 |  **20** x [Gog](/fr/units/Gog) |
+  | 13 | Inferno - Rocklike Skin | Ténacité + **7**  | 160 |  **10** x [Gog](/fr/units/Gog) |
   | 14 | Inferno - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Inferno - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Inferno - Blaster | Coup critique + **5**  | 160 |  **20** x [Gog](/fr/units/Gog) |
+  | 16 | Inferno - Blaster | Coup critique + **5**  | 160 |  **10** x [Gog](/fr/units/Gog) |
   | 17 | Inferno - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Inferno - Storm Assaulter | ATQ + **1** % | 80 |   |
   
@@ -84,27 +84,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Inferno - Damage Amplification | Dégâts d'unité + **0.4** % | 180 |  **20** x [Démon](/fr/units/Demon) |
+  | 1 | Inferno - Damage Amplification | Dégâts d'unité + **0.4** % | 180 |  **10** x [Démon](/fr/units/Demon) |
   | 2 | Inferno - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 3 | Inferno - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 4 | Inferno - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 5 | Inferno - A Strike Hit | Précision + **7**  | 180 |  **20** x [Chien de l'Enfer](/fr/units/Hell Hound) |
+  | 5 | Inferno - A Strike Hit | Précision + **7**  | 180 |  **10** x [Chien de l'Enfer](/fr/units/Hell Hound) |
   | 6 | Inferno - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 7 | Inferno - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 8 | Inferno - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 9 | Inferno - Ingeniousness | Esquive + **7**  | 180 |  **20** x [Démon](/fr/units/Demon) |
+  | 9 | Inferno - Ingeniousness | Esquive + **7**  | 180 |  **10** x [Démon](/fr/units/Demon) |
   | 10 | Inferno - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 11 | Inferno - Physical Trials | PV + **1.2** % | 90 |   |
   | 12 | Inferno - Physical Trials | PV + **1.2** % | 90 |   |
-  | 13 | Inferno - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 180 |  **20** x [Chien de l'Enfer](/fr/units/Hell Hound) |
+  | 13 | Inferno - Shield Practice | Réduc. dégâts d'unité + **0.4** % | 180 |  **10** x [Chien de l'Enfer](/fr/units/Hell Hound) |
   | 14 | Inferno - Physical Trials | PV + **1.2** % | 90 |   |
   | 15 | Inferno - Physical Trials | PV + **1.2** % | 90 |   |
   | 16 | Inferno - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 17 | Inferno - Rocklike Skin | Ténacité + **8**  | 180 |  **20** x [Démon](/fr/units/Demon) |
+  | 17 | Inferno - Rocklike Skin | Ténacité + **8**  | 180 |  **10** x [Démon](/fr/units/Demon) |
   | 18 | Inferno - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 19 | Inferno - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 20 | Inferno - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 21 | Inferno - Blaster | Coup critique + **6**  | 180 |  **20** x [Chien de l'Enfer](/fr/units/Hell Hound) |
+  | 21 | Inferno - Blaster | Coup critique + **6**  | 180 |  **10** x [Chien de l'Enfer](/fr/units/Hell Hound) |
   | 22 | Inferno - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 23 | Inferno - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 24 | Inferno - Storm Assaulter | ATQ + **1.2** % | 90 |   |

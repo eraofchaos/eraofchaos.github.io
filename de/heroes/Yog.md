@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /de/heroes/Yog/
 excerpt: "Yog wurde viele Jahre lang von den Magiern in Bracada unterrichtet, aber er studiert lieber Militärstrategien anstatt magische Runen zu verwenden. Später erkannte Herzog Krewlod seinen Wert und er wurde ein außergewöhnlicher General in der Barbarenarmee."
 heroID: 60604
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "Yog"
 toc: true

@@ -3,7 +3,7 @@ title: "Dragon vert"
 permalink: /fr/units/Green Dragon/
 excerpt: "Unités Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Dragon vert"
 toc: true

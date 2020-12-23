@@ -3,7 +3,7 @@ title: "Hai-Ausbilder"
 permalink: /de/units/Shark Trainer/
 excerpt: "Einheiten Hai-Ausbilder"
 unitID: 9909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Hai-Ausbilder"
 toc: true

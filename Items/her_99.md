@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Precision"
 permalink: /Items/her_99/
 excerpt: " Precision"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_99.md"
 toc: false

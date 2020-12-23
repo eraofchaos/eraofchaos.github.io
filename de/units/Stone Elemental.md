@@ -3,7 +3,7 @@ title: "Steinelementar"
 permalink: /de/units/Stone Elemental/
 excerpt: "Einheiten Der Steinelementar ist das Ergebnis geologischer Verschmelzung mehrerer Mineralien. Teilt sich in kleinere Steinelementare auf, die weiterkämpfen."
 unitID: 905
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Steinelementar"
 toc: true

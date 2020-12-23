@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Thunder Rage Chest"
+title: "Item - Consumables -  Realm Package"
 permalink: /Items/con_93/
-excerpt: " Thunder Rage Chest"
-last_modified_at: 2020-12-17
+excerpt: " Realm Package"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_93.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A treasure chest with ancient power, only the lords having Giant can open it.
+ **Description:** A pack obtained from a realm. You have a chance to obtain Guild Coins, Skill Runes, and Rosters Box after opening it
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -25,8 +25,14 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 3 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Giant  | Once you have gathered 80 soul tokens you can summon a Giant . Tokens can also be used to upgrade or increase the rank of Giant.  | 
+  | 1 |  **88x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 2 |  **166x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 3 |  **388x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 4 |  **3x** | Blue Crystal | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used.  | 
+  | 5 |  **3x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
+  | 6 |  **3x** | Orange Crystal | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used.  | 
+  | 7 |  **2x** | Expert Roster Box | A rare chest that can be found in Dragon's Treasures. Open to receive 3 random Roster runes.  | 

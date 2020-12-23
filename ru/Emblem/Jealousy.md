@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ревность"
 permalink: /ru/Emblem/Jealousy/
 excerpt: "Эмблема святости - Хаос - Ревность"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Jealousy.md"
 toc: false
@@ -17,13 +17,13 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +2, ОЗ +1%</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 10% дополнительного урона</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +6, ОЗ +2%</span> | 
-  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +6, ОЗ +3%</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 20% дополнительного урона</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +16, ОЗ +7%</span> | 
-  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона обычной атакой, с шансом 25% наносится 30% дополнительного урона</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +30, ОЗ +15%</span> | 
-  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era5} | null | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона обычной атакой, с шансом 35% наносится 40% дополнительного урона</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +55, ОЗ +20%</span> | 
-  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона обычной атакой, с шансом 25% наносится 30% дополнительного урона</span> | null | 
-  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +2, ОЗ +1%</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 10% дополнительного урона</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +6, ОЗ +2%</span> | 
-  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +6, ОЗ +3%</span> | <span style="color: #645252;font-size:20px"><4> При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 20% дополнительного урона</span> | null | 
+  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ОЗ +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 10% дополнительного урона</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ОЗ +2%</span> | 
+  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ОЗ +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 20% дополнительного урона</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ОЗ +7%</span> | 
+  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 25% наносится 30% дополнительного урона</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ОЗ +15%</span> | 
+  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era5} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 35% наносится 40% дополнительного урона</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ОЗ +20%</span> | 
+  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 25% наносится 30% дополнительного урона</span> | null | 
+  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ОЗ +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 10% дополнительного урона</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ОЗ +2%</span> | 
+  | [Ревность](/ru/Emblem/Jealousy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ОЗ +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 20% наносится 20% дополнительного урона</span> | null | 
 
   |         Description            | 
   |:-------------------------------|

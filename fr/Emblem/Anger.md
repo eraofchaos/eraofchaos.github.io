@@ -2,7 +2,7 @@
 title: "Emblème sacré - Colère"
 permalink: /fr/Emblem/Anger/
 excerpt: "Emblème sacré - Chaos - Colère"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Anger.md"
 toc: false
@@ -17,8 +17,8 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Colère](/fr/Emblem/Anger/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATQ +5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px"><4> Toutes les capacités ultimes des unités déployées augmentent de 2 niveaux.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +15 %, DÉF des Emblèmes sacrés +30</span> | 
-  | [Colère](/fr/Emblem/Anger/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATQ +10 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px"><4> Toutes les capacités ultimes des unités déployées augmentent de 4 niveaux.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +20 %, DÉF des Emblèmes sacrés +55</span> | 
+  | [Colère](/fr/Emblem/Anger/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Toutes les capacités ultimes des unités déployées augmentent de 2 niveaux.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15 %, DÉF des Emblèmes sacrés +30</span> | 
+  | [Colère](/fr/Emblem/Anger/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Toutes les capacités ultimes des unités déployées augmentent de 4 niveaux.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20 %, DÉF des Emblèmes sacrés +55</span> | 
 
   |         Description            | 
   |:-------------------------------|

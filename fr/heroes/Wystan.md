@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /fr/heroes/Wystan/
 excerpt: "Wystan est le beau-fils aîné du Roi Tralossk et le second héritier du trône. Il attend impatiemment le jour où il pourra enfin régner."
 heroID: 61504
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Wystan"
 toc: true

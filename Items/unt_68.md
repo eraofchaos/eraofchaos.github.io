@@ -2,7 +2,7 @@
 title: "Item - Units -  Dragon Golem"
 permalink: /Items/unt_68/
 excerpt: " Dragon Golem"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_68.md"
 toc: false

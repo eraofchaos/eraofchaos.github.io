@@ -3,7 +3,7 @@ title: "Guerreros espartanos"
 permalink: /es/units/Spartan Warriors/
 excerpt: "Unidades ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Guerreros espartanos"
 toc: true

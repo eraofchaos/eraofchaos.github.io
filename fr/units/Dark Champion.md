@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /fr/units/Dark Champion/
 excerpt: "Unités C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Champion des ténèbres"
 toc: true

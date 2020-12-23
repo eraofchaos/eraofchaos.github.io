@@ -2,7 +2,7 @@
 title: "Эмблема святости - Порядок"
 permalink: /ru/Emblem/Type Order/
 excerpt: "Эмблема святости - Порядок"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "typeПорядок.md"
 toc: false

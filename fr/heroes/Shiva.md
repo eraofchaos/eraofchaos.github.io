@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /fr/heroes/Shiva/
 excerpt: "Shiva est née dans une famille de dresseurs de Rocks. Nullement intéressée par les affaires familiales, elle a préféré rejoindre l'armée de Krewlod pour devenir une redoutable mercenaire."
 heroID: 60603
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Shiva"
 toc: true

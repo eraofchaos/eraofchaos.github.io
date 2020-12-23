@@ -3,7 +3,7 @@ title: "Rock"
 permalink: /fr/units/Roc/
 excerpt: "Unités Les Rocks apparaissent souvent lors des nuits d'orage. Ils volent aux côtés du tonnerre et des éclairs. Beaucoup les considèrent comme des messagers des dieux."
 unitID: 405
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Rock"
 toc: true

@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /it/heroes/Mutare/
 excerpt: "Mutare, nuova Signora di Nighon, è in grado fin dalla nascita di comandare i Draghi, un'abilità che la rende pressoché invincibile in battaglia."
 heroID: 61301
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Mutare"
 toc: true

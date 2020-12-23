@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Confluenza"
 permalink: /it/Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Formazione di battaglia Confluenza"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | DAN unità + **0.3** % | 150 |  **20** x [Driade](/it/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | DAN unità + **0.3** % | 150 |  **10** x [Driade](/it/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATT + **0.9** % | 70 |   |
-  | 3 | Conflux - A Strike Hit | MIRA + **6**  | 150 |  **20** x [Driade](/it/units/Sprite) |
+  | 3 | Conflux - A Strike Hit | MIRA + **6**  | 150 |  **10** x [Driade](/it/units/Sprite) |
   | 4 | Conflux - Storm Assaulter | ATT + **0.5** %, PF + **0.5** % | 70 |   |
-  | 5 | Conflux - Ingeniousness | Schivata + **6**  | 150 |  **20** x [Driade](/it/units/Sprite) |
+  | 5 | Conflux - Ingeniousness | Schivata + **6**  | 150 |  **10** x [Driade](/it/units/Sprite) |
   | 6 | Conflux - Physical Trials | PF + **0.9** % | 70 |   |
-  | 7 | Conflux - Shield Practice | Rid DAN unità + **0.3** % | 150 |  **20** x [Driade](/it/units/Sprite) |
+  | 7 | Conflux - Shield Practice | Rid DAN unità + **0.3** % | 150 |  **10** x [Driade](/it/units/Sprite) |
   | 8 | Conflux - Physical Trials | PF + **0.9** % | 70 |   |
-  | 9 | Conflux - Rocklike Skin | Tenacia + **6**  | 150 |  **20** x [Driade](/it/units/Sprite) |
+  | 9 | Conflux - Rocklike Skin | Tenacia + **6**  | 150 |  **10** x [Driade](/it/units/Sprite) |
   | 10 | Conflux - Storm Assaulter | ATT + **0.5** %, PF + **0.5** % | 70 |   |
-  | 11 | Conflux - Blaster | CRIT + **5**  | 150 |  **20** x [Driade](/it/units/Sprite) |
+  | 11 | Conflux - Blaster | CRIT + **5**  | 150 |  **10** x [Driade](/it/units/Sprite) |
   | 12 | Conflux - Storm Assaulter | ATT + **0.9** % | 70 |   |
   
 
@@ -50,22 +50,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | DAN unità + **0.4** % | 160 |  **20** x [Driade](/it/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | DAN unità + **0.4** % | 160 |  **10** x [Driade](/it/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATT + **1** % | 80 |   |
   | 3 | Conflux - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
-  | 4 | Conflux - A Strike Hit | MIRA + **6**  | 160 |  **20** x [Elementale della tempesta](/it/units/Storm Elemental) |
+  | 4 | Conflux - A Strike Hit | MIRA + **6**  | 160 |  **10** x [Elementale della tempesta](/it/units/Storm Elemental) |
   | 5 | Conflux - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
   | 6 | Conflux - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
-  | 7 | Conflux - Ingeniousness | Schivata + **6**  | 160 |  **20** x [Elementale del ghiaccio](/it/units/Ice Elemental) |
+  | 7 | Conflux - Ingeniousness | Schivata + **6**  | 160 |  **10** x [Elementale del ghiaccio](/it/units/Ice Elemental) |
   | 8 | Conflux - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
   | 9 | Conflux - Physical Trials | PF + **1** % | 80 |   |
-  | 10 | Conflux - Shield Practice | Rid DAN unità + **0.4** % | 160 |  **20** x [Elementale del ghiaccio](/it/units/Ice Elemental) |
+  | 10 | Conflux - Shield Practice | Rid DAN unità + **0.4** % | 160 |  **10** x [Elementale del ghiaccio](/it/units/Ice Elemental) |
   | 11 | Conflux - Physical Trials | PF + **1** % | 80 |   |
   | 12 | Conflux - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
-  | 13 | Conflux - Rocklike Skin | Tenacia + **7**  | 160 |  **20** x [Elementale della tempesta](/it/units/Storm Elemental) |
+  | 13 | Conflux - Rocklike Skin | Tenacia + **7**  | 160 |  **10** x [Elementale della tempesta](/it/units/Storm Elemental) |
   | 14 | Conflux - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
   | 15 | Conflux - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
-  | 16 | Conflux - Blaster | CRIT + **5**  | 160 |  **20** x [Driade](/it/units/Sprite) |
+  | 16 | Conflux - Blaster | CRIT + **5**  | 160 |  **10** x [Driade](/it/units/Sprite) |
   | 17 | Conflux - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
   | 18 | Conflux - Storm Assaulter | ATT + **1** % | 80 |   |
   

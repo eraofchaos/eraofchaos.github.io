@@ -2,7 +2,7 @@
 title: "Emblema sacro - Bontà"
 permalink: /it/Emblem/Type Goodness/
 excerpt: "Emblema sacro - Bontà"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "typeBontà.md"
 toc: false

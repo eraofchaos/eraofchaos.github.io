@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /de/units/Berserker/
 excerpt: "Einheiten Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Berserker"
 toc: true

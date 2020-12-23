@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /it/units/Regnan Archer/
 excerpt: "Unità Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Arciere di Regna"
 toc: true

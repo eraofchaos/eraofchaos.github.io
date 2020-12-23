@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /es/heroes/Zydar/
 excerpt: "Zydar se centró durante buena parte de su vida en mejorar sus hechizos, convirtiéndose en un gran lanzahechizos antes de hacerse con el liderazgo en el campo de batalla. Es más fiable que la mayoría de los demonios."
 heroID: 60901
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Zydar"
 toc: true

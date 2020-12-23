@@ -2,7 +2,7 @@
 title: "Emblema sacro - Meccanismo temporale"
 permalink: /it/Emblem/Gear of Time/
 excerpt: "Emblema sacro - Bontà - Meccanismo temporale"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "Gear of Time.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +15, DIF Emblema sacro +15</span> | <span style="color: #645252;font-size:20px"><4> Per ogni 5% di PF persi, la DIF delle unità schierate aumenta del 2,5%.</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +37,5, DIF Emblema sacro +37,5</span> | 
-  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +9, DIF Emblema sacro +9</span> | <span style="color: #645252;font-size:20px"><4> Per ogni 7% di PF persi, la DIF delle unità schierate aumenta del 2%.</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +22,5, DIF Emblema sacro +22,5</span> | 
-  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +4,5, DIF Emblema sacro +4,5</span> | <span style="color: #645252;font-size:20px"><4> Per ogni 10% di PF persi, la DIF delle unità schierate aumenta del 2%.</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +11,5, DIF Emblema sacro +11,5</span> | 
-  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +1,5, DIF Emblema sacro +1,5</span> | <span style="color: #645252;font-size:20px"><4> Per ogni 10% di PF persi, la DIF delle unità schierate aumenta dell'1%</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +4, DIF Emblema sacro +4</span> | 
+  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +15, DIF Emblema sacro +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Per ogni 5% di PF persi, la DIF delle unità schierate aumenta del 2,5%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +37,5, DIF Emblema sacro +37,5</span> | 
+  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +9, DIF Emblema sacro +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Per ogni 7% di PF persi, la DIF delle unità schierate aumenta del 2%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +22,5, DIF Emblema sacro +22,5</span> | 
+  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +4,5, DIF Emblema sacro +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Per ogni 10% di PF persi, la DIF delle unità schierate aumenta del 2%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +11,5, DIF Emblema sacro +11,5</span> | 
+  | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +1,5, DIF Emblema sacro +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Per ogni 10% di PF persi, la DIF delle unità schierate aumenta dell'1%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +4, DIF Emblema sacro +4</span> | 
 
   |         Description            | 
   |:-------------------------------|

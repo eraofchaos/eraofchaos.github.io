@@ -3,7 +3,7 @@ title: "Pixie"
 permalink: /de/units/Sprite/
 excerpt: "Einheiten Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Pixie"
 toc: true

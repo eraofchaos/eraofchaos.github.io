@@ -3,7 +3,7 @@ title: "Cíclope"
 permalink: /es/units/Cyclops/
 excerpt: "Unidades Los Cíclopes son famosos por su único ojo y su enorme cuerpo. Son irascibles y fieros. Su linaje se remonta a los Demonios."
 unitID: 406
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Cíclope"
 toc: true

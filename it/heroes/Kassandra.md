@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /it/heroes/Kassandra/
 excerpt: "L'incredibile abilità in combattimento di Kassandra deriva dall'educazione spartana ricevuta in gioventù. Dopo essere stata lasciata a morire sul monte Taigeto, ha scelto di diventare una mercenaria."
 heroID: 62001
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Kassandra"
 toc: true

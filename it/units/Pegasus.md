@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /it/units/Pegasus/
 excerpt: "Unità I Pegasi sono leggendarie creature silvane. Questi esseri sono compagni fedeli dei più forti tra gli elfi e combattono per preservare la pace nella foresta."
 unitID: 204
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Pegaso"
 toc: true

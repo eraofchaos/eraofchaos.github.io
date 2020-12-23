@@ -2,7 +2,7 @@
 title: "Эмблема святости - Крылья грифона"
 permalink: /ru/Emblem/Griffin Wings/
 excerpt: "Эмблема святости - Порядок - Крылья грифона"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Griffin Wings.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +13, ЗЩТ +0,5%</span> | null | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +30, ЗЩТ +1,5%</span> | 
-  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era3} | null | <span style="color: #645252;font-size:20px"><4> Если у врага меньше 50% ОЗ, сопротивление урону отряда увеличивается на 9%</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +16, ЗЩТ +0,7%</span> | 
-  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era5} | null | null | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +55, ЗЩТ +2%</span> | 
-  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +2, ЗЩТ +0.1%</span> | <span style="color: #645252;font-size:20px"><4> Если у врага меньше 50% ОЗ, сопротивление урону отряда увеличивается на 5%</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +6, ЗЩТ +0.2%</span> | 
+  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ЗЩТ +0,5%</span> | null | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ЗЩТ +1,5%</span> | 
+  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era3} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; Если у врага меньше 50% ОЗ, сопротивление урону отряда увеличивается на 9%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ЗЩТ +0,7%</span> | 
+  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era5} | null | null | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ЗЩТ +2%</span> | 
+  | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ЗЩТ +0.1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Если у врага меньше 50% ОЗ, сопротивление урону отряда увеличивается на 5%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ЗЩТ +0.2%</span> | 
 
   |         Description            | 
   |:-------------------------------|

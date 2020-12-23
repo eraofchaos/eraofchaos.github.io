@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /it/units/Genie/
 excerpt: "Unità Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Genio"
 toc: true

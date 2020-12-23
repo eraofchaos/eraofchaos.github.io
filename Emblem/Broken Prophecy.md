@@ -2,7 +2,7 @@
 title: "Holy Emblem - Broken Prophecy"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Holy Emblem - Evil - Broken Prophecy"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "Broken Prophecy.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATK +10%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px"><4> When deployed units cause a Crit Hit during a normal attack, it has a 4% chance to stun the target for 2s.</span> | <span style="color: #645252;font-size:20px"><6> ATK +20%, Holy Emblem DEF +55</span> | 
-  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATK +1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px"><4> When deployed units cause a Crit hit during a normal attack, has a 1% chance to stun the target for 1s</span> | <span style="color: #645252;font-size:20px"><6> ATK +2%, Holy Emblem DEF +6</span> | 
-  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATK +3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px"><4> When deployed units cause a Crit Hit during a normal attack, it has a 2% chance to stun the target for 1s</span> | <span style="color: #645252;font-size:20px"><6> ATK +7%, Holy Emblem DEF +16</span> | 
-  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATK +5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px"><4> When deployed units cause a Crit Hit during a normal attack, it has 2% chance to stun the target for 2s</span> | <span style="color: #645252;font-size:20px"><6> ATK +15%, Holy Emblem DEF +30</span> | 
+  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +10%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When deployed units cause a Crit Hit during a normal attack, it has a 4% chance to stun the target for 2s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +20%, Holy Emblem DEF +55</span> | 
+  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When deployed units cause a Crit hit during a normal attack, has a 1% chance to stun the target for 1s</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +2%, Holy Emblem DEF +6</span> | 
+  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When deployed units cause a Crit Hit during a normal attack, it has a 2% chance to stun the target for 1s</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +7%, Holy Emblem DEF +16</span> | 
+  | [Broken Prophecy](/Emblem/Broken Prophecy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When deployed units cause a Crit Hit during a normal attack, it has 2% chance to stun the target for 2s</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +15%, Holy Emblem DEF +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

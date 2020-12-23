@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Kassandra Pack"
+title: "Item - Consumables -  Way of the Vikings: Berserker skin"
 permalink: /Items/con_35/
-excerpt: " Kassandra Pack"
-last_modified_at: 2020-12-17
+excerpt: " Way of the Vikings: Berserker skin"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_35.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 680 Diamonds, 30 Kassandra Tokens, and 100 Spell Scrolls.
+ **Description:** Grants the Way of the Vikings: Berserker skin.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Gift
+ **Type:** Unknown
 
 ## Gather
 
@@ -23,12 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **30x** | Kassandra | Collect 30 tokens to summon Kassandra to join your party. Tokens are also required to increase her rank.  | 
-  | 3 |  **100x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 

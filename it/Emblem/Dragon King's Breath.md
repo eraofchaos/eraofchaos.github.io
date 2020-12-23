@@ -2,7 +2,7 @@
 title: "Emblema sacro - Soffio del Re dei Draghi"
 permalink: /it/Emblem/Dragon King's Breath/
 excerpt: "Emblema sacro - Malvagio - Soffio del Re dei Draghi"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "Dragon King's Breath.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +1,5, DIF Emblema sacro +1,5</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate sono affette da <Congelamento>, <Stordimento> o <Pietrificazione>, recuperano il 2% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +4, DIF Emblema sacro +4</span> | 
-  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +4,5, DIF Emblema sacro +4,5</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate sono affette da <Congelamento>, <Stordimento> o <Pietrificazione>, recuperano il 4% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +11,5, DIF Emblema sacro +11,5</span> | 
-  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +9, DIF Emblema sacro +9</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate sono affette da <Congelamento>, <Stordimento> o <Pietrificazione>, recuperano il 6% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +22,5, DIF Emblema sacro +22,5</span> | 
-  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +15, DIF Emblema sacro +15</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate sono affette da <Congelamento>, <Stordimento> o <Pietrificazione>, recuperano il 10% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +37,5, DIF Emblema sacro +37,5</span> | 
+  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +1,5, DIF Emblema sacro +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate sono affette da &lt;Congelamento&gt;, &lt;Stordimento&gt; o &lt;Pietrificazione&gt;, recuperano il 2% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +4, DIF Emblema sacro +4</span> | 
+  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +4,5, DIF Emblema sacro +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate sono affette da &lt;Congelamento&gt;, &lt;Stordimento&gt; o &lt;Pietrificazione&gt;, recuperano il 4% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +11,5, DIF Emblema sacro +11,5</span> | 
+  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +9, DIF Emblema sacro +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate sono affette da &lt;Congelamento&gt;, &lt;Stordimento&gt; o &lt;Pietrificazione&gt;, recuperano il 6% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +22,5, DIF Emblema sacro +22,5</span> | 
+  | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +15, DIF Emblema sacro +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate sono affette da &lt;Congelamento&gt;, &lt;Stordimento&gt; o &lt;Pietrificazione&gt;, recuperano il 10% dei PF. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +37,5, DIF Emblema sacro +37,5</span> | 
 
   |         Description            | 
   |:-------------------------------|

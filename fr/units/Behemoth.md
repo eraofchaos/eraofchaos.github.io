@@ -3,7 +3,7 @@ title: "Béhémoth"
 permalink: /fr/units/Behemoth/
 excerpt: "Unités Les Béhémoths sont l'une des seules créatures primales. Leurs origines datent d'un temps encore plus lointain que ceux des Dragons. Leurs corps énormes sont insensibles aux attaques de leurs ennemis."
 unitID: 407
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Béhémoth"
 toc: true

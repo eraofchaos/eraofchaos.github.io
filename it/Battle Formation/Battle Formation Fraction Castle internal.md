@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Castello"
 permalink: /it/Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Formazione di battaglia Castello"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: it
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -40,9 +40,9 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | DAN unità + **0.3** % | 150 |  **20** x [Picchiere](/it/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | DAN unità + **0.3** % | 150 |  **10** x [Picchiere](/it/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATT + **0.9** % | 70 |   |
-  | 3 | Castle - A Strike Hit | MIRA + **6**  | 150 |  **20** x [Picchiere](/it/units/Pikeman) |
+  | 3 | Castle - A Strike Hit | MIRA + **6**  | 150 |  **10** x [Picchiere](/it/units/Pikeman) |
   | 4 | Castle - Storm Assaulter | ATT + **0.5** %, PF + **0.5** % | 70 |   |
   | 5 | Castle - Ingeniousness | Schivata + **6**  | 150 |  **10** x [Picchiere](/it/units/Pikeman) |
   | 6 | Castle - Physical Trials | PF + **0.9** % | 70 |   |
@@ -115,32 +115,32 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | DAN unità + **0.5** % | 190 |  **10** x [Grifone](/it/units/Griffin) |
+  | 1 | Castle - Damage Amplification | DAN unità + **0.5** % | 190 |  **20** x [Grifone](/it/units/Griffin) |
   | 2 | Castle - Storm Assaulter | ATT + **1.4** % | 100 |   |
   | 3 | Castle - Storm Assaulter | ATT + **1.4** % | 100 |   |
   | 4 | Castle - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
   | 5 | Castle - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
-  | 6 | Castle - A Strike Hit | MIRA + **8**  | 190 |  **10** x [Catafratto](/it/units/Cavalier ) |
+  | 6 | Castle - A Strike Hit | MIRA + **8**  | 190 |  **20** x [Catafratto](/it/units/Cavalier ) |
   | 7 | Castle - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
   | 8 | Castle - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
   | 9 | Castle - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
   | 10 | Castle - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
-  | 11 | Castle - Ingeniousness | Schivata + **8**  | 190 |  **10** x [Grifone](/it/units/Griffin) |
+  | 11 | Castle - Ingeniousness | Schivata + **8**  | 190 |  **20** x [Grifone](/it/units/Griffin) |
   | 12 | Castle - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 13 | Castle - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 14 | Castle - Physical Trials | PF + **1.4** % | 100 |   |
   | 15 | Castle - Physical Trials | PF + **1.4** % | 100 |   |
-  | 16 | Castle - Shield Practice | Rid DAN unità + **0.5** % | 190 |  **10** x [Catafratto](/it/units/Cavalier ) |
+  | 16 | Castle - Shield Practice | Rid DAN unità + **0.5** % | 190 |  **20** x [Catafratto](/it/units/Cavalier ) |
   | 17 | Castle - Physical Trials | PF + **1.4** % | 100 |   |
   | 18 | Castle - Physical Trials | PF + **1.4** % | 100 |   |
   | 19 | Castle - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 20 | Castle - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
-  | 21 | Castle - Rocklike Skin | Tenacia + **10**  | 190 |  **10** x [Grifone](/it/units/Griffin) |
+  | 21 | Castle - Rocklike Skin | Tenacia + **10**  | 190 |  **20** x [Grifone](/it/units/Griffin) |
   | 22 | Castle - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 23 | Castle - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
   | 24 | Castle - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
   | 25 | Castle - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
-  | 26 | Castle - Blaster | CRIT + **7**  | 190 |  **10** x [Catafratto](/it/units/Cavalier ) |
+  | 26 | Castle - Blaster | CRIT + **7**  | 190 |  **20** x [Catafratto](/it/units/Cavalier ) |
   | 27 | Castle - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
   | 28 | Castle - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
   | 29 | Castle - Storm Assaulter | ATT + **1.4** % | 100 |   |

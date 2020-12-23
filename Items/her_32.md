@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Petrification"
 permalink: /Items/her_32/
 excerpt: " Petrification"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_32.md"
 toc: false

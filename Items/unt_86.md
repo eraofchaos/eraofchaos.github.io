@@ -2,7 +2,7 @@
 title: "Item - Units -  Spartan Warriors"
 permalink: /Items/unt_86/
 excerpt: " Spartan Warriors"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_86.md"
 toc: false

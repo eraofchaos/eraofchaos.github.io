@@ -3,7 +3,7 @@ title: "Эцио"
 permalink: /ru/heroes/Ezio/
 excerpt: "Даже находясь в другом мире, Эцио не отказался от своего кредо: действовать во тьме, служа свету."
 heroID: 61901
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Ezio"
 toc: true

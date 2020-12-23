@@ -3,7 +3,7 @@ title: "Роланд"
 permalink: /ru/heroes/Roland/
 excerpt: "Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками."
 heroID: 60103
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Roland"
 toc: true
@@ -52,7 +52,7 @@ toc: true
  **Description:** <span style="color: #ffffff;font-size:20px">Во славу Энрота, почувствуй праведный гнев Айронфиста! </span>
 
 
-### Skin 2: **Разоренный принц**
+### Skin 2: **null**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Преданный и плененный братом, принц Роланд пришел в Эрафию за помощью. </span>
 

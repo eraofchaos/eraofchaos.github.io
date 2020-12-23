@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /de/heroes/Ezio/
 excerpt: "Obwohl er in einer komplett anderen Welt ist, hält Ezio an seiner Überzeugung fest. Er arbeitet in der Dunkelheit, um dem Licht zu dienen."
 heroID: 61901
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "Ezio"
 toc: true

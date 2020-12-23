@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Frenzy"
 permalink: /Items/her_73/
 excerpt: " Frenzy"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_73.md"
 toc: false

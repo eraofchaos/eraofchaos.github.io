@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Ciele"
 permalink: /Items/her_96/
 excerpt: " Ciele"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_96.md"
 toc: false

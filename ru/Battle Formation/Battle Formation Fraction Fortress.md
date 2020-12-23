@@ -2,7 +2,7 @@
 title: "Боевое построение Крепость"
 permalink: /ru/Battle Formation/Battle Formation Fraction Fortress
 excerpt: "Боевое построение Крепость"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | null + **0.3** % | 150 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | null + **0.3** % | 150 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Fortress - A Strike Hit | null + **6**  | 150 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 3 | Fortress - A Strike Hit | null + **6**  | 150 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 4 | Fortress - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Fortress - Ingeniousness | null + **6**  | 150 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 5 | Fortress - Ingeniousness | null + **6**  | 150 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 6 | Fortress - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 7 | Fortress - Shield Practice | null + **0.3** % | 150 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 7 | Fortress - Shield Practice | null + **0.3** % | 150 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 8 | Fortress - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Fortress - Rocklike Skin | null + **6**  | 150 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 9 | Fortress - Rocklike Skin | null + **6**  | 150 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 10 | Fortress - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 11 | Fortress - Blaster | null + **5**  | 150 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 11 | Fortress - Blaster | null + **5**  | 150 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 12 | Fortress - Storm Assaulter | АТК + **0.9** % | 70 |   |
   
 
@@ -50,22 +50,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | null + **0.4** % | 160 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | null + **0.4** % | 160 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Fortress - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 4 | Fortress - A Strike Hit | null + **6**  | 160 |  **20** x [Летучий змей](/ru/units/Serpent Fly) |
+  | 4 | Fortress - A Strike Hit | null + **6**  | 160 |  **10** x [Летучий змей](/ru/units/Serpent Fly) |
   | 5 | Fortress - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 6 | Fortress - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 7 | Fortress - Ingeniousness | null + **6**  | 160 |  **20** x [Ящер](/ru/units/Lizardman) |
+  | 7 | Fortress - Ingeniousness | null + **6**  | 160 |  **10** x [Ящер](/ru/units/Lizardman) |
   | 8 | Fortress - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 9 | Fortress - Physical Trials | ОЗ + **1** % | 80 |   |
-  | 10 | Fortress - Shield Practice | null + **0.4** % | 160 |  **20** x [Ящер](/ru/units/Lizardman) |
+  | 10 | Fortress - Shield Practice | null + **0.4** % | 160 |  **10** x [Ящер](/ru/units/Lizardman) |
   | 11 | Fortress - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Fortress - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Fortress - Rocklike Skin | null + **7**  | 160 |  **20** x [Летучий змей](/ru/units/Serpent Fly) |
+  | 13 | Fortress - Rocklike Skin | null + **7**  | 160 |  **10** x [Летучий змей](/ru/units/Serpent Fly) |
   | 14 | Fortress - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Fortress - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 16 | Fortress - Blaster | null + **5**  | 160 |  **20** x [Гнолл](/ru/units/Gnoll) |
+  | 16 | Fortress - Blaster | null + **5**  | 160 |  **10** x [Гнолл](/ru/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 18 | Fortress - Storm Assaulter | АТК + **1** % | 80 |   |
   

@@ -2,7 +2,7 @@
 title: "Item - Units -  Lizardman"
 permalink: /Items/unt_93/
 excerpt: " Lizardman"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_93.md"
 toc: false

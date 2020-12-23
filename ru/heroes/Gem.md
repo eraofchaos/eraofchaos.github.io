@@ -3,7 +3,7 @@ title: "Джем"
 permalink: /ru/heroes/Gem/
 excerpt: ""
 heroID: 60304
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Gem"
 toc: true

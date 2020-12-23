@@ -3,7 +3,7 @@ title: "Unknown_TEAM_208"
 permalink: /ru/units/Druid/
 excerpt: "Отряды null"
 unitID: 208
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Unknown_TEAM_208"
 toc: true
@@ -101,7 +101,7 @@ toc: true
 
  3. null
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте друидов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы победить в 1 бою Дуэли заступников. (Набег не учитывается при выполнении этого задания).</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте друидов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы победить в одном бою Дуэли заступников. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 

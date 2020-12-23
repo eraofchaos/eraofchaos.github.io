@@ -2,7 +2,7 @@
 title: "Item - Materials -  Mythical Mercury"
 permalink: /Items/mat_50/
 excerpt: " Mythical Mercury"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_50.md"
 toc: false

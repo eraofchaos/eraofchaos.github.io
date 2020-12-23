@@ -2,7 +2,7 @@
 title: "Item - Units -  Wolf Raider Soul Stone"
 permalink: /Items/unt_77/
 excerpt: " Wolf Raider Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_77.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Plane Shop 
+*    Plane Store 
 
 ## This item contains:
 

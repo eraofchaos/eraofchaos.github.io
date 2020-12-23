@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /es/units/Storm Elemental/
 excerpt: "Unidades Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -96,7 +96,7 @@ toc: true
  **Awaking Description:** En los truenos y rayos interminables, los Elementales de Tormenta se embarcan en una prueba que pertenece únicamente al Plano del Conflujo. La misión que los cuatro grandes Elementales confiaron a este reino de los cielos de los truenos es que renazcan todos los Elementales de Tormenta, usando el poder del rayo para preparar una tormenta que arrase la tierra.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega un Elemental de Tormenta con al menos </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unidades a distancia y derrota </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> oleadas de Muertos Vivientes en la Cripta en una única batalla. (Los saltos no cuentan para la misión).</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Despliega un Elemental de Tormenta y derrota a </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> oleadas de Muertos Vivientes en la Cripta en una única batalla. (Los saltos no cuentan para la misión).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Durante la Aventura de Gremio en el Subterráneo, ocupa la ciudad </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> vez.</span>
 

@@ -2,7 +2,7 @@
 title: "Emblème sacré - Bénédiction de la reine"
 permalink: /fr/Emblem/Queen's Blessing/
 excerpt: "Emblème sacré - Ordre - Bénédiction de la reine"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Queen's Blessing.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +9 %, DÉF des Emblèmes sacrés +9</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 60 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +22,5, DÉF des Emblèmes sacrés +22,5</span> | 
-  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +4,5, DÉF des Emblèmes sacrés +4,5</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 30 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +11,5, DÉF des Emblèmes sacrés +11,5</span> | 
-  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +1,5, DÉF des Emblèmes sacrés +1,5</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 15 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +4 %, DÉF des Emblèmes sacrés +4</span> | 
-  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATQ des Emblèmes sacrés +15 %, DÉF des Emblèmes sacrés +15</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 100 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px"><6> ATQ des Emblèmes sacrés +37,5, DÉF des Emblèmes sacrés +37,5</span> | 
+  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +9 %, DÉF des Emblèmes sacrés +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 60 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +22,5, DÉF des Emblèmes sacrés +22,5</span> | 
+  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +4,5, DÉF des Emblèmes sacrés +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 30 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +11,5, DÉF des Emblèmes sacrés +11,5</span> | 
+  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +1,5, DÉF des Emblèmes sacrés +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 15 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +4 %, DÉF des Emblèmes sacrés +4</span> | 
+  | [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ des Emblèmes sacrés +15 %, DÉF des Emblèmes sacrés +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les PV passent en dessous de 35 % pour la première fois, la DÉF augmente de 100 % pendant 15 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ des Emblèmes sacrés +37,5, DÉF des Emblèmes sacrés +37,5</span> | 
 
   |         Description            | 
   |:-------------------------------|

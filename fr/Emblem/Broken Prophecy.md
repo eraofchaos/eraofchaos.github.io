@@ -2,7 +2,7 @@
 title: "Emblème sacré - Prophétie brisée"
 permalink: /fr/Emblem/Broken Prophecy/
 excerpt: "Emblème sacré - Mauvais - Prophétie brisée"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Broken Prophecy.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATQ +10 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 4 % de chance d'étourdir la cible pendant 2 secondes.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +20 %, DÉF des Emblèmes sacrés +55</span> | 
-  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATQ +1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 1 % de chance d'étourdir la cible pendant 1 seconde.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +2 %, DÉF des Emblèmes sacrés +6</span> | 
-  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATQ +3 %, DÉF des Emblèmes sacrés +6</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 2 % de chance d'étourdir la cible pendant 1 seconde.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +7 %, DÉF des Emblèmes sacrés +16</span> | 
-  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATQ +5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px"><4> Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 2 % de chance d'étourdir la cible pendant 2 secondes.</span> | <span style="color: #645252;font-size:20px"><6> ATQ +15 %, DÉF des Emblèmes sacrés +30</span> | 
+  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 4 % de chance d'étourdir la cible pendant 2 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20 %, DÉF des Emblèmes sacrés +55</span> | 
+  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +1 %, DÉF des Emblèmes sacrés +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 1 % de chance d'étourdir la cible pendant 1 seconde.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +2 %, DÉF des Emblèmes sacrés +6</span> | 
+  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +3 %, DÉF des Emblèmes sacrés +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 2 % de chance d'étourdir la cible pendant 1 seconde.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +7 %, DÉF des Emblèmes sacrés +16</span> | 
+  | [Prophétie brisée](/fr/Emblem/Broken Prophecy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Lorsque les unités déployées réalisent un coup critique lors d'une attaque normale, elles ont 2 % de chance d'étourdir la cible pendant 2 secondes.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15 %, DÉF des Emblèmes sacrés +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

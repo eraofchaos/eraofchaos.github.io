@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /it/units/Ice Elemental/
 excerpt: "Unità Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -89,40 +89,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Spirito della neve silente
 
- **Awaking Description:** null
+ **Awaking Description:** Gli Elementali del ghiaccio non sono freddi e spietati come spesso vengono dipinti. Quando cade la neve, il loro canto vibra nell'aria notturna. È una melodia struggente, tinta di un vago rimpianto, come un'eco proveniente da chissà dove.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera un Elementale del ghiaccio con almeno </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> unità Confluenza e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> risorse durante un'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Spirito della neve nei livelli del Sottosuolo 16-2 e 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Schiera un Elementale del ghiaccio con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Confluenza e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Muro di ghiaccio
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 20% la Rid DAN CRIT dei bersagli colpiti. Se il bersaglio è immune al &lt;Congelamento&gt;, diventa &lt;affaticato&gt; per 3 secondi.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): Prigione di ghiaccio
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 20% la Rid DAN dei bersagli colpiti. Se il bersaglio è immune al &lt;Congelamento&gt;, viene &lt;silenziato&gt; per 3 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Protezione elementale
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe lancia un incantesimo di tipo Acqua, aumenta di 100 la Tenacia e del 50% i PF delle unità in prima linea per 7 secondi.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Invasione elementale
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px"> Quando un eroe lancia un incantesimo di tipo Acqua, ha il 50% di probabilità di lanciare &lt;Stretta gelata&gt; su 1 unità nemica casuale nelle retrovie.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Refrigerio
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Statua di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> La durata del &lt;Congelamento&gt; aumenta di 5 secondi.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Solidificazione
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Statua di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio di un ulteriore 20% per 7 secondi.</span>
 
 ## Technical info
  **runart:** 0

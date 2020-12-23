@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Profeta Verde"
 permalink: /es/Emblem/Green Prophet/
 excerpt: "Emblema Sagrado - Bien - Profeta Verde"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "Green Prophet.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Velocidad de ataque +1%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas tienen un 35% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px"><6> Velocidad de ataque +2%, Emblema Sagrado DEF +55</span> | 
-  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> Velocidad de ataque +0,5%, Emblema Sagrado de DEF +13</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas tienen un 25% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px"><6> Velocidad de ataque +1,5%, Emblema Sagrado DEF +30</span> | 
-  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> Velocidad de ataque +0,1%, Emblema Sagrado de DEF +2</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas tienen un 8% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px"><6> Velocidad de ataque +0,2%, Emblema Sagrado DEF +6</span> | 
-  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> Velocidad de ataque +0,3%, Emblema Sagrado de DEF +6</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas tienen un 15% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px"><6> Velocidad de ataque +0,7%, Emblema Sagrado DEF +16</span> | 
+  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Velocidad de ataque +1%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas tienen un 35% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Velocidad de ataque +2%, Emblema Sagrado DEF +55</span> | 
+  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Velocidad de ataque +0,5%, Emblema Sagrado de DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas tienen un 25% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Velocidad de ataque +1,5%, Emblema Sagrado DEF +30</span> | 
+  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Velocidad de ataque +0,1%, Emblema Sagrado de DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas tienen un 8% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Velocidad de ataque +0,2%, Emblema Sagrado DEF +6</span> | 
+  | [Profeta Verde](/es/Emblem/Green Prophet/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Velocidad de ataque +0,3%, Emblema Sagrado de DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas tienen un 15% de probabilidad de ser inmunes a petrificar, aturdir y congelar.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Velocidad de ataque +0,7%, Emblema Sagrado DEF +16</span> | 
 
   |         Description            | 
   |:-------------------------------|

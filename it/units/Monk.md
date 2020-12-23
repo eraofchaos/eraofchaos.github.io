@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /it/units/Monk/
 excerpt: "Unità I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Monaco"
 toc: true

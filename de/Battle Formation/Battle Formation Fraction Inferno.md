@@ -2,7 +2,7 @@
 title: "Kampfformation Inferno"
 permalink: /de/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Kampfformation Inferno"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Inferno - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **20** x [Imp](/de/units/Imp) |
+  | 1 | Inferno - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **10** x [Imp](/de/units/Imp) |
   | 2 | Inferno - Storm Assaulter | ANG + **0.9** % | 70 |   |
-  | 3 | Inferno - A Strike Hit | Präzision + **6**  | 150 |  **20** x [Imp](/de/units/Imp) |
+  | 3 | Inferno - A Strike Hit | Präzision + **6**  | 150 |  **10** x [Imp](/de/units/Imp) |
   | 4 | Inferno - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 5 | Inferno - Ingeniousness | Ausweichen + **6**  | 150 |  **20** x [Imp](/de/units/Imp) |
+  | 5 | Inferno - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Imp](/de/units/Imp) |
   | 6 | Inferno - Physical Trials | LP + **0.9** % | 70 |   |
-  | 7 | Inferno - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **20** x [Gog](/de/units/Gog) |
+  | 7 | Inferno - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Gog](/de/units/Gog) |
   | 8 | Inferno - Physical Trials | LP + **0.9** % | 70 |   |
-  | 9 | Inferno - Rocklike Skin | Zähigkeit + **6**  | 150 |  **20** x [Gog](/de/units/Gog) |
+  | 9 | Inferno - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Gog](/de/units/Gog) |
   | 10 | Inferno - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 11 | Inferno - Blaster | Kritischer Treffer + **5**  | 150 |  **20** x [Gog](/de/units/Gog) |
+  | 11 | Inferno - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Gog](/de/units/Gog) |
   | 12 | Inferno - Storm Assaulter | ANG + **0.9** % | 70 |   |
   
 
@@ -50,22 +50,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Inferno - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **20** x [Imp](/de/units/Imp) |
+  | 1 | Inferno - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **10** x [Imp](/de/units/Imp) |
   | 2 | Inferno - Storm Assaulter | ANG + **1** % | 80 |   |
   | 3 | Inferno - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 4 | Inferno - A Strike Hit | Präzision + **6**  | 160 |  **20** x [Imp](/de/units/Imp) |
+  | 4 | Inferno - A Strike Hit | Präzision + **6**  | 160 |  **10** x [Imp](/de/units/Imp) |
   | 5 | Inferno - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 6 | Inferno - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 7 | Inferno - Ingeniousness | Ausweichen + **6**  | 160 |  **20** x [Dämon](/de/units/Demon) |
+  | 7 | Inferno - Ingeniousness | Ausweichen + **6**  | 160 |  **10** x [Dämon](/de/units/Demon) |
   | 8 | Inferno - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 9 | Inferno - Physical Trials | LP + **1** % | 80 |   |
-  | 10 | Inferno - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **20** x [Höllenhund](/de/units/Hell Hound) |
+  | 10 | Inferno - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Höllenhund](/de/units/Hell Hound) |
   | 11 | Inferno - Physical Trials | LP + **1** % | 80 |   |
   | 12 | Inferno - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 13 | Inferno - Rocklike Skin | Zähigkeit + **7**  | 160 |  **20** x [Gog](/de/units/Gog) |
+  | 13 | Inferno - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Gog](/de/units/Gog) |
   | 14 | Inferno - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 15 | Inferno - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 16 | Inferno - Blaster | Kritischer Treffer + **5**  | 160 |  **20** x [Gog](/de/units/Gog) |
+  | 16 | Inferno - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Gog](/de/units/Gog) |
   | 17 | Inferno - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Inferno - Storm Assaulter | ANG + **1** % | 80 |   |
   

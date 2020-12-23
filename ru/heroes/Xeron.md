@@ -1,9 +1,9 @@
 ---
-title: "Ксерон"
+title: "Xeron"
 permalink: /ru/heroes/Xeron/
 excerpt: "Когда Люцифер Криган убил Ксенофекса и захватил власть, Ксерон первым присягнул на верность узурпатору. Это позволило ему завоевать расположение нового короля."
 heroID: 60801
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Xeron"
 toc: true
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** SSR
 
- **Specialty:** Архидьявол
+ **Specialty:** 
 
  **Mana base:** 20
 

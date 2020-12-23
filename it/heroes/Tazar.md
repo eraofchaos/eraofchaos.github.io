@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /it/heroes/Tazar/
 excerpt: "Durante la guerra di confine con Krewlod, Tazar ha condotto una piccola armata all'avamposto di Tatalia e frenato l'avanzata dell'esercito Krewlod, cinque volte più numeroso del suo, per ben otto giorni fino all'arrivo dei rinforzi."
 heroID: 61501
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Tazar"
 toc: true

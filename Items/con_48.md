@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Orange +3 Material Chest"
+title: "Item - Consumables -  V1 Premium Package"
 permalink: /Items/con_48/
-excerpt: " Orange +3 Material Chest"
-last_modified_at: 2020-12-17
+excerpt: " V1 Premium Package"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_48.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Receive a random orange +3 equipment-upgrading item.
+ **Description:** A premium pack that can only be purchased by VIP 1 players
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -25,13 +25,13 @@ classes: wide
 
  **Required Level to open:** 1
 
- 3 You would get **1** item  from:
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Soul Ore | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 2 |  **1x** | Soul Wood | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 3 |  **1x** | Soul Mercury | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 4 |  **1x** | Soul Sulfur | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 5 |  **1x** | Soul Gems | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 6 |  **1x** | Soul Crystal | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 1 |  **5x** | Book of Arms | Rare materials to upgrade equipment from blue to blue +1.  | 
+  | 2 |  **5x** | Blue Material Chest | Receive a random blue equipment-upgrading item.  | 
+  | 3 |  **5x** | Green Material Chest | Receive a random green equipment-upgrading item.  | 
+  | 4 |  **5x** | White Material Chest | Receive a random white equipment-upgrading item.  | 
+  | 5 |  **10000x** | <i class="fas fa-coins"/> |  | 
+  | 6 |  **1000x** | Unit EXP | Leveling up your units consumes unit experience.  | 

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Boots of Polarity"
 permalink: /Items/art_65/
 excerpt: " Boots of Polarity"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_65.md"
 toc: false

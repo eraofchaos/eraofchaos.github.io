@@ -3,7 +3,7 @@ title: "Dendroidenwache"
 permalink: /de/units/Dendroid Guard/
 excerpt: "Einheiten Dendroidenwachen sind die Verkörperung ihrer bewaldeten Heimat. Sie sind nicht sonderlich geschickt, aber extrem hart im Nehmen. Mit den Ranken des Waldes erwürgen sie arglose Gegner."
 unitID: 205
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Dendroidenwache"
 toc: true

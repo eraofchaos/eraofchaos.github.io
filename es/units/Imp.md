@@ -3,7 +3,7 @@ title: "Diablillo"
 permalink: /es/units/Imp/
 excerpt: "Unidades Puede que los Diablillos sean demonios de poca monta, pero son astutos y violentos, y muestran un desenfreno terrible en combate."
 unitID: 501
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Diablillo"
 toc: true

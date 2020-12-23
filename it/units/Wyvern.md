@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /it/units/Wyvern/
 excerpt: "Unità Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Viverna"
 toc: true

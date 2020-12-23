@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /es/heroes/Lord Haart/
 excerpt: "Lord Haart fue asesinado y ha sido revivido. Como general del ejército de no muertos, tiene poderes aún más formidables que cuando estaba vivo."
 heroID: 60401
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Lord Haart"
 toc: true

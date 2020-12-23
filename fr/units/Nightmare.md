@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /fr/units/Nightmare/
 excerpt: "Unités Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Cauchemar"
 toc: true

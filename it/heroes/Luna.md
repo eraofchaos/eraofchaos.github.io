@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /it/heroes/Luna/
 excerpt: "Luna abitava a Enroth quando le giunse notizia che un Elementale si era manifestato nell'Erathia. Convinta di poter carpire da esso incredibili magie, partì per mare per studiarne i segreti."
 heroID: 60701
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Luna"
 toc: true

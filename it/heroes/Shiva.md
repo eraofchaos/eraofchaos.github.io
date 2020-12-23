@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /it/heroes/Shiva/
 excerpt: "Shiva è nata da una famiglia dedita da sempre alla domesticazione e l'addestramento dei Roc. Ha rinunciato a questa tradizione per arruolarsi come mercenaria nell'esercito di Krewlod."
 heroID: 60603
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Shiva"
 toc: true

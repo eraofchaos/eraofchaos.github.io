@@ -2,7 +2,7 @@
 title: "Item - Units -  Demon"
 permalink: /Items/unt_76/
 excerpt: " Demon"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_76.md"
 toc: false

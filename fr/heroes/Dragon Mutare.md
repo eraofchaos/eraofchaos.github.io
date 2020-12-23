@@ -3,7 +3,7 @@ title: "Mutare (dragon)"
 permalink: /fr/heroes/Dragon Mutare/
 excerpt: "En buvant la Fiole de sang de dragon, Mutare en est elle-même devenue un, tout en conservant sa conscience humaine. Certains affirment que sa transformation est annonciatrice de l'arrivée du Dragon patriarche."
 heroID: 61302
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Dragon Mutare"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Constellation du Dragon enchanté
+   - Toute nouvelle image de bataille
+   - Avatar unique et effet de sort
+
+### Skin 3: **Elfe de Noël**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Les elfes de Noël dansent avec des flocons de neige et des présents. Mutare a bu du sang de Dragon mais sa transformation n'est pas terminée. Cela ne l'empêche pas de fêter Noël !</span>
+
+ **Skin features:** 
+
+   - Elfe de Noël qui joue avec des flocons de neige
    - Toute nouvelle image de bataille
    - Avatar unique et effet de sort
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Revelations: Ezio Special Offer"
+title: "Item - Consumables -  Soul Stone Pack 1"
 permalink: /Items/con_53/
-excerpt: " Revelations: Ezio Special Offer"
-last_modified_at: 2020-12-17
+excerpt: " Soul Stone Pack 1"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_53.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 680 Diamonds, 1 Revelations: Ezio Skin, and 10 Ancient Temple Scrolls.
+ **Description:** Grants 7,000 Soul Stones.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,6 +29,4 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Revelations: Ezio | Grants the Revelations: Ezio skin.  | 
-  | 3 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 1 |  **7000x** | Soul Stone | Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store  | 

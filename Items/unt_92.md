@@ -2,7 +2,7 @@
 title: "Item - Units -  Master Genie Soul Stone"
 permalink: /Items/unt_92/
 excerpt: " Master Genie Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_92.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Premium Energy Pack"
+title: "Item - Consumables -  Berserker's Axe Token"
 permalink: /Items/con_98/
-excerpt: " Premium Energy Pack"
-last_modified_at: 2020-12-17
+excerpt: " Berserker's Axe Token"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_98.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 180 diamonds and 6 large energy potions.
+ **Description:** A Berserker's Axe token from an ancient campaign that can be used for awakening Berserker's exclusive potential, Berserker's Axe.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Gift
+ **Type:** EXCLUSIVE_SPLICE
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **180x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **6x** | Large Energy Potion | A bottle of highly purified energy potion. You will gain 60 energy after drinking it.  | 

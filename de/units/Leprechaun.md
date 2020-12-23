@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /de/units/Leprechaun/
 excerpt: "Einheiten Die in jadegrüne Mäntel gekleideten Leprechauns waren einst Kinder des Waldes, die frei und ohne Sorgen unter dem Schutz des Weltenbaumes lebten. Doch die Kriegsfanfaren Erathias haben ihren Mut erweckt, den Weltenbaum zu beschützen."
 unitID: 909
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: de
 ref: "Leprechaun"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Taktische Blockade&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Leprechaun mit „Blutung“, „Betäuben“ oder „Stille“ belegt wird, erhöht jeder Debuff den Schildwert des Leprechauns 7 Sek. lang um 200.</span>
 
 ### 6th Skill (or 5th): Resistente Verteidigung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Taktische Blockade&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Leprechaun mit „Angst“, „Kristallisation“ oder „Schock“ belegt wird, erhöht jeder Debuff den Schildwert des Leprechauns 7 Sek. lang um 300.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Taktische Blockade&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Leprechaun mit „Angst“, „Kristallisation“ oder „Abschreckung“ belegt wird, erhöht jeder Debuff den Schildwert des Leprechauns 7 Sek. lang um 300.</span>
 
 ## Technical info
  **runart:** 0

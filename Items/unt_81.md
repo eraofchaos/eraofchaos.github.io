@@ -2,7 +2,7 @@
 title: "Item - Units -  Dendroid Guard"
 permalink: /Items/unt_81/
 excerpt: " Dendroid Guard"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_81.md"
 toc: false

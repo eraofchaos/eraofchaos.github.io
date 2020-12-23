@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /ru/heroes/Jeddite/
 excerpt: ""
 heroID: 61401
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Jeddite"
 toc: true

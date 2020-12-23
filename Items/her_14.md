@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Storm"
 permalink: /Items/her_14/
 excerpt: " Storm"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_14.md"
 toc: false

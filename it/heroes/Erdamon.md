@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /it/heroes/Erdamon/
 excerpt: "Erdamon, antico Re della Lava, ha dormito per secoli sotto le montagne al confine di Eeofol. Ora si è risvegliato e si è unito all'esercito della Confluenza. Erdamon è pronto a tutto per liberare il mondo dalla minaccia dei Kreegan."
 heroID: 60703
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Erdamon"
 toc: true

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Night Tides Special Skin"
+title: "Item - Consumables -  Caster Roster runes"
 permalink: /Items/con_58/
-excerpt: " Night Tides Special Skin"
-last_modified_at: 2020-12-17
+excerpt: " Caster Roster runes"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_58.md"
 toc: false
@@ -11,15 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Unlock the skin when Night Tides is awakened.
+ **Description:** Important item to increase your Caster units' rankings.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 
-  None
+*    Altar of Recruitment 
+*    Guild Store 
 
 ## This item contains:
 

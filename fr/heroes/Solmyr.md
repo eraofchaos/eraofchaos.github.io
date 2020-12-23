@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /fr/heroes/Solmyr/
 excerpt: "Solmyr est resté piégé dans une lampe de génie pendant plus d'un millénaire. Infiniment reconnaissant envers celui qui l'a libéré, Gavin Magnus le souverain immortel des Hautes Terres de Bracada, il lui a juré son éternelle allégeance."
 heroID: 61201
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Solmyr"
 toc: true

@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /it/heroes/Lord Haart/
 excerpt: "Lord Haart, il generale tornato dalla morte. Alla testa del suo esercito di non morti, detiene un potere ancora più formidabile di quello che aveva in vita."
 heroID: 60401
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Lord Haart"
 toc: true

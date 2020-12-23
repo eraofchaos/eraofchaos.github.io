@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Skull Helmet"
 permalink: /Items/art_80/
 excerpt: " Skull Helmet"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_80.md"
 toc: false

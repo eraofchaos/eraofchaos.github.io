@@ -2,7 +2,7 @@
 title: "Battle Formation Cove"
 permalink: /Battle Formation/Battle Formation Fraction Cove internal
 excerpt: "Battle Formation Cove"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: en
 ref: "BattleFormationFractionCove"
 toc: false
@@ -43,17 +43,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Cove - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 1 | Cove - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 2 | Cove - Damage Amplification | ATK + **0.9** % | 70 |   |
-  | 3 | Cove - Storm Assaulter | Accuracy + **6**  | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 3 | Cove - Storm Assaulter | Accuracy + **6**  | 150 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 4 | Cove - A Strike Hit | ATK + **0.5** %, HP + **0.5** % | 70 |   |
-  | 5 | Cove - Storm Assaulter | Dodge + **6**  | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 5 | Cove - Storm Assaulter | Dodge + **6**  | 150 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 6 | Cove - Ingeniousness | HP + **0.9** % | 70 |   |
-  | 7 | Cove - Physical Trials | Unit DMG Reduction + **0.3** % | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 7 | Cove - Physical Trials | Unit DMG Reduction + **0.3** % | 150 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 8 | Cove - Shield Practice | HP + **0.9** % | 70 |   |
-  | 9 | Cove - Physical Trials | Tenacity + **6**  | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 9 | Cove - Physical Trials | Tenacity + **6**  | 150 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 10 | Cove - Rocklike Skin | ATK + **0.5** %, HP + **0.5** % | 70 |   |
-  | 11 | Cove - Storm Assaulter | Critical Hit + **5**  | 150 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 11 | Cove - Storm Assaulter | Critical Hit + **5**  | 150 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 12 | Cove - Blaster | ATK + **0.9** % | 70 |   |
   
 
@@ -62,22 +62,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Cove - Storm Assaulter | Unit DMG + **0.4** % | 160 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 1 | Cove - Storm Assaulter | Unit DMG + **0.4** % | 160 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 2 | Cove - Damage Amplification | ATK + **1** % | 80 |   |
   | 3 | Cove - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
-  | 4 | Cove - Storm Assaulter | Accuracy + **6**  | 160 |  **20** x [Sea Elemental](/units/Sea Elemental) |
+  | 4 | Cove - Storm Assaulter | Accuracy + **6**  | 160 |  **10** x [Sea Elemental](/units/Sea Elemental) |
   | 5 | Cove - A Strike Hit | ATK + **0.7** %, HP + **0.3** % | 80 |   |
   | 6 | Cove - Storm Assaulter | ATK + **0.3** %, HP + **0.7** % | 80 |   |
-  | 7 | Cove - Physical Trials | Dodge + **6**  | 160 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 7 | Cove - Physical Trials | Dodge + **6**  | 160 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 8 | Cove - Ingeniousness | ATK + **0.3** %, HP + **0.7** % | 80 |   |
   | 9 | Cove - Physical Trials | HP + **1** % | 80 |   |
-  | 10 | Cove - Physical Trials | Unit DMG Reduction + **0.4** % | 160 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 10 | Cove - Physical Trials | Unit DMG Reduction + **0.4** % | 160 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 11 | Cove - Shield Practice | HP + **1** % | 80 |   |
   | 12 | Cove - Physical Trials | ATK + **0.3** %, HP + **0.7** % | 80 |   |
-  | 13 | Cove - Physical Trials | Tenacity + **7**  | 160 |  **20** x [Sea Elemental](/units/Sea Elemental) |
+  | 13 | Cove - Physical Trials | Tenacity + **7**  | 160 |  **10** x [Sea Elemental](/units/Sea Elemental) |
   | 14 | Cove - Rocklike Skin | ATK + **0.3** %, HP + **0.7** % | 80 |   |
   | 15 | Cove - Physical Trials | ATK + **0.7** %, HP + **0.3** % | 80 |   |
-  | 16 | Cove - Storm Assaulter | Critical Hit + **5**  | 160 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 16 | Cove - Storm Assaulter | Critical Hit + **5**  | 160 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 17 | Cove - Blaster | ATK + **0.7** %, HP + **0.3** % | 80 |   |
   | 18 | Cove - Storm Assaulter | ATK + **1** % | 80 |   |
   
@@ -87,27 +87,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Cove - Storm Assaulter | Unit DMG + **0.4** % | 180 |  **20** x [Sea Elemental](/units/Sea Elemental) |
+  | 1 | Cove - Storm Assaulter | Unit DMG + **0.4** % | 180 |  **10** x [Sea Elemental](/units/Sea Elemental) |
   | 2 | Cove - Damage Amplification | ATK + **1.2** % | 90 |   |
   | 3 | Cove - Storm Assaulter | ATK + **1.2** % | 90 |   |
   | 4 | Cove - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
-  | 5 | Cove - Storm Assaulter | Accuracy + **7**  | 180 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 5 | Cove - Storm Assaulter | Accuracy + **7**  | 180 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 6 | Cove - A Strike Hit | ATK + **0.8** %, HP + **0.4** % | 90 |   |
   | 7 | Cove - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
   | 8 | Cove - Storm Assaulter | ATK + **0.4** %, HP + **0.8** % | 90 |   |
-  | 9 | Cove - Physical Trials | Dodge + **7**  | 180 |  **20** x [Sea Elemental](/units/Sea Elemental) |
+  | 9 | Cove - Physical Trials | Dodge + **7**  | 180 |  **10** x [Sea Elemental](/units/Sea Elemental) |
   | 10 | Cove - Ingeniousness | ATK + **0.4** %, HP + **0.8** % | 90 |   |
   | 11 | Cove - Physical Trials | HP + **1.2** % | 90 |   |
   | 12 | Cove - Physical Trials | HP + **1.2** % | 90 |   |
-  | 13 | Cove - Physical Trials | Unit DMG Reduction + **0.4** % | 180 |  **20** x [Sea Elemental](/units/Sea Elemental) |
+  | 13 | Cove - Physical Trials | Unit DMG Reduction + **0.4** % | 180 |  **10** x [Sea Elemental](/units/Sea Elemental) |
   | 14 | Cove - Shield Practice | HP + **1.2** % | 90 |   |
   | 15 | Cove - Physical Trials | HP + **1.2** % | 90 |   |
   | 16 | Cove - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
-  | 17 | Cove - Physical Trials | Tenacity + **8**  | 180 |  **20** x [Regnan Pirates](/units/Regnan Pirates) |
+  | 17 | Cove - Physical Trials | Tenacity + **8**  | 180 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 18 | Cove - Rocklike Skin | ATK + **0.4** %, HP + **0.8** % | 90 |   |
   | 19 | Cove - Physical Trials | ATK + **0.6** %, HP + **0.6** % | 90 |   |
   | 20 | Cove - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
-  | 21 | Cove - Storm Assaulter | Critical Hit + **6**  | 180 |  **20** x [Sea Elemental](/units/Sea Elemental) |
+  | 21 | Cove - Storm Assaulter | Critical Hit + **6**  | 180 |  **10** x [Sea Elemental](/units/Sea Elemental) |
   | 22 | Cove - Blaster | ATK + **0.8** %, HP + **0.4** % | 90 |   |
   | 23 | Cove - Storm Assaulter | ATK + **1.2** % | 90 |   |
   | 24 | Cove - Storm Assaulter | ATK + **1.2** % | 90 |   |

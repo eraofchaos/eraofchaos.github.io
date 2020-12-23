@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /it/heroes/Sephinroth/
 excerpt: "Sephinroth è l'unica strega conosciuta di Antagarich. Si dice sia la figlia illegittima di Re Cuor di Grifone."
 heroID: 61402
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Sephinroth"
 toc: true

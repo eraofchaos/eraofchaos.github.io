@@ -3,7 +3,7 @@ title: "Sandro (umano)"
 permalink: /it/heroes/Human Sandro/
 excerpt: "La forma umana di Sandro, un giovane mago giunto per mare da Enroth per studiare come apprendista presso Eric, a Bracada. Le sue vere intenzioni, però, sono nascoste persino ai suoi insegnanti e compagni."
 heroID: 60503
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Human Sandro"
 toc: true

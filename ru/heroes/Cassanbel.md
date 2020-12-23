@@ -1,14 +1,14 @@
 ---
 title: "Кассанбель"
 permalink: /ru/heroes/Cassanbel/
-excerpt: "И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море."
+excerpt: ""
 heroID: 61701
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Cassanbel"
 toc: true
 ---
- **Description:** И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море.
+ **Description:** 
 ## Details
  **Profession:** Дитя океана
 

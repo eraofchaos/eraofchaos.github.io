@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /de/units/Black Knight/
 excerpt: "Einheiten Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Schwarzer Ritter"
 toc: true

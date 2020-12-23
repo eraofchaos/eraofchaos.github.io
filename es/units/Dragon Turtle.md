@@ -3,7 +3,7 @@ title: "Tortuga Dragón"
 permalink: /es/units/Dragon Turtle/
 excerpt: "Unidades Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Tortuga Dragón"
 toc: true

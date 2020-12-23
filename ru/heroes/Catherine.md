@@ -3,7 +3,7 @@ title: "Катерина"
 permalink: /ru/heroes/Catherine/
 excerpt: "Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Catherine"
 toc: true

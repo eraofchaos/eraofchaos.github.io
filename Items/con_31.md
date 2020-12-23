@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Discount Coupon"
+title: "Item - Consumables -  Star Soul"
 permalink: /Items/con_31/
-excerpt: " Discount Coupon"
-last_modified_at: 2020-12-17
+excerpt: " Star Soul"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_31.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Coupon that can be used in the Healing Sea event.
+ **Description:** A material used for activating Stars. Obtained by converting Hero Tokens. Each hero requires a different unique Star Soul
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Other
+ **Type:** Unknown
 
 ## Gather
 

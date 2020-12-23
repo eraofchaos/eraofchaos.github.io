@@ -3,7 +3,7 @@ title: "Diablo"
 permalink: /es/units/Devil/
 excerpt: "Unidades El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Diablo"
 toc: true

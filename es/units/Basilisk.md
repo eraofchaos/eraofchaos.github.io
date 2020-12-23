@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /es/units/Basilisk/
 excerpt: "Unidades Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad."
 unitID: 804
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Basilisco"
 toc: true

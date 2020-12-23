@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /it/heroes/Mephala/
 excerpt: "Cresciuta come guerriera nell'esercito dell'Erathia, Mephala ha un talento naturale per utilizzare il terreno a proprio vantaggio. Pur preferendo la quiete del suo pacifico villaggio, continua a combattere per proteggere la propria terra. "
 heroID: 60302
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Mephala"
 toc: true

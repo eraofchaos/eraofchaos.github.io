@@ -3,7 +3,7 @@ title: "Elemental de Hielo"
 permalink: /es/units/Ice Elemental/
 excerpt: "Unidades Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Elemental de Hielo"
 toc: true
@@ -89,40 +89,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Espíritu de las Nieves Silencioso
 
- **Awaking Description:** null
+ **Awaking Description:** Los Elementales de Hielo no son tan fríos y despiadados como se los describe. Podemos oír sus cánticos en todas las noches nevadas. Es una melodía preciosa y con un toque de tristeza, como una especie de eco de un lugar desconocido.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #876741;font-size:18px">Despliega un Elemental de Hielo con al menos </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> unidades de Conflujo y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #876741;font-size:18px">Recoge </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> recursos durante una Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Espíritus de las Nieves Silenciosos en el Subterráneo: niveles 16-2 y 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Despliega un Elemental de Hielo con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Conflujo y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): Muro helado
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro de hielo&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la Reducción de daño del golpe crítico de las unidades objetivo un 20%. Si el objetivo alcanzado es inmune a la congelación, sufrirá una sobrecarga durante 3 s.</span>
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+### 2nd Skill (or 1st): Cárcel de hielo
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro de hielo&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la reducción de daño de unidad de las unidades objetivo un 20%. Si el objetivo alcanzado es inmune a la congelación, se quedará en silencio durante 3 s.</span>
 
-### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+### 3rd Skill (or 4th): Defensa Elemental
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la tenacidad de las unidades de vanguardia en 100 y los PV en un 50% durante 7 s cuando un Héroe lanza un hechizo de agua.</span>
 
-### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): Invasión Elemental
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Tiene una probabilidad del 50% de lanzar &lt;Agarre de hielo&gt; sobre 1 unidad enemiga de retaguardia cuando un Héroe lanza un hechizo de agua.</span>
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): Recarga
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Congelado&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la duración de &lt;Congelación&gt; en 5 s.</span>
 
-### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): Solidificar
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Congelado&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la reducción de daño de unidad de la unidad objetivo un 20% durante 7 s.</span>
 
 ## Technical info
  **runart:** 0

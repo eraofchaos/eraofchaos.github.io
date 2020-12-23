@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /es/units/Gnoll/
 excerpt: "Unidades Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil."
 unitID: 801
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Gnoll"
 toc: true

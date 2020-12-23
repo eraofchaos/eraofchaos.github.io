@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /es/units/Skeleton/
 excerpt: "Unidades Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Esqueleto"
 toc: true

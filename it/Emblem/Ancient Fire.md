@@ -2,7 +2,7 @@
 title: "Emblema sacro - Fuoco antico"
 permalink: /it/Emblem/Ancient Fire/
 excerpt: "Emblema sacro - Ordine - Fuoco antico"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "Ancient Fire.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +6, PF +3%</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta del 4% contro le unità di terra</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +16, PF +7%</span> | 
-  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +2, PF +1%</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta del 2% contro le unità di terra</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +6, PF +2%</span> | 
-  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +20, PF +10%</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta del 12% contro le unità di terra</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +55, PF +20%</span> | 
-  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATT Emblema sacro +13, PF +5%</span> | <span style="color: #645252;font-size:20px"><4> Il DAN delle unità aumenta dell'8% contro le unità di terra</span> | <span style="color: #645252;font-size:20px"><6> ATT Emblema sacro +30, PF +15%</span> | 
+  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +6, PF +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 4% contro le unità di terra</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +16, PF +7%</span> | 
+  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +2, PF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 2% contro le unità di terra</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +6, PF +2%</span> | 
+  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +20, PF +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 12% contro le unità di terra</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +55, PF +20%</span> | 
+  | [Fuoco antico](/it/Emblem/Ancient Fire/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +13, PF +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta dell'8% contro le unità di terra</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +30, PF +15%</span> | 
 
   |         Description            | 
   |:-------------------------------|

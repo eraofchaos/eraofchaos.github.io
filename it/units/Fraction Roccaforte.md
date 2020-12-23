@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Roccaforte -  Units"
 permalink: /it/units/Fraction Roccaforte/
 excerpt: "Fraction Roccaforte - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Fraction Roccaforte"
 toc: false

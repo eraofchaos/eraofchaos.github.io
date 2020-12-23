@@ -2,7 +2,7 @@
 title: "Formación de batalla Conflujo"
 permalink: /es/Battle Formation/Battle Formation Fraction Conflux internal
 excerpt: "Formación de batalla Conflujo"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: es
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -40,17 +40,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **20** x [Hada](/es/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Hada](/es/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Conflux - A Strike Hit | Precisión + **6**  | 150 |  **20** x [Hada](/es/units/Sprite) |
+  | 3 | Conflux - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Hada](/es/units/Sprite) |
   | 4 | Conflux - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Conflux - Ingeniousness | Evasión + **6**  | 150 |  **20** x [Hada](/es/units/Sprite) |
+  | 5 | Conflux - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Hada](/es/units/Sprite) |
   | 6 | Conflux - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Conflux - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **20** x [Hada](/es/units/Sprite) |
+  | 7 | Conflux - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Hada](/es/units/Sprite) |
   | 8 | Conflux - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Conflux - Rocklike Skin | Tenacidad + **6**  | 150 |  **20** x [Hada](/es/units/Sprite) |
+  | 9 | Conflux - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Hada](/es/units/Sprite) |
   | 10 | Conflux - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Conflux - Blaster | Golpe crítico + **5**  | 150 |  **20** x [Hada](/es/units/Sprite) |
+  | 11 | Conflux - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Hada](/es/units/Sprite) |
   | 12 | Conflux - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
@@ -59,22 +59,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **20** x [Hada](/es/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Hada](/es/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Conflux - A Strike Hit | Precisión + **6**  | 160 |  **20** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 4 | Conflux - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Elemental de Tormenta](/es/units/Storm Elemental) |
   | 5 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Conflux - Ingeniousness | Evasión + **6**  | 160 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 7 | Conflux - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Elemental de Hielo](/es/units/Ice Elemental) |
   | 8 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Conflux - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Conflux - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 10 | Conflux - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Elemental de Hielo](/es/units/Ice Elemental) |
   | 11 | Conflux - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Conflux - Rocklike Skin | Tenacidad + **7**  | 160 |  **20** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 13 | Conflux - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Elemental de Tormenta](/es/units/Storm Elemental) |
   | 14 | Conflux - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Conflux - Blaster | Golpe crítico + **5**  | 160 |  **20** x [Hada](/es/units/Sprite) |
+  | 16 | Conflux - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Hada](/es/units/Sprite) |
   | 17 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Conflux - Storm Assaulter | ATQ + **1** % | 80 |   |
   
@@ -84,27 +84,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Elemental de Hielo](/es/units/Ice Elemental) |
   | 2 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 3 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 4 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 5 | Conflux - A Strike Hit | Precisión + **7**  | 180 |  **20** x [Hada](/es/units/Sprite) |
+  | 5 | Conflux - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Hada](/es/units/Sprite) |
   | 6 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 7 | Conflux - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 8 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 9 | Conflux - Ingeniousness | Evasión + **7**  | 180 |  **20** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 9 | Conflux - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Elemental de Tormenta](/es/units/Storm Elemental) |
   | 10 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 11 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
   | 12 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
-  | 13 | Conflux - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **20** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 13 | Conflux - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Elemental de Tormenta](/es/units/Storm Elemental) |
   | 14 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
   | 15 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
   | 16 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 17 | Conflux - Rocklike Skin | Tenacidad + **8**  | 180 |  **20** x [Hada](/es/units/Sprite) |
+  | 17 | Conflux - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Hada](/es/units/Sprite) |
   | 18 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 19 | Conflux - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 20 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 21 | Conflux - Blaster | Golpe crítico + **6**  | 180 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 21 | Conflux - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Elemental de Hielo](/es/units/Ice Elemental) |
   | 22 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 23 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 24 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |

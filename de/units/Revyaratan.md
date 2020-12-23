@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /de/units/Revyaratan/
 excerpt: "Einheiten Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Revyaratan"
 toc: true

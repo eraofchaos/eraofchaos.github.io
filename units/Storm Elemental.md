@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -96,7 +96,7 @@ toc: true
  **Awaking Description:** In the endless lightning and thunder, the Storm Elementals embark on a trial belonging only to the Conflux Plane. The mission that the four great Elementals entrusted to this sky realm of thunder is to make every Storm Elemental be reborn, using the power of lightning to brew a storm that will sweep across the land!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Storm Elemental with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Ranged units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Storm Elemental and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count toward the mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">In the Guild Adventure Underground, occupy City </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time.</span>
 

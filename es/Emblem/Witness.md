@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Testigo"
 permalink: /es/Emblem/Witness/
 excerpt: "Emblema Sagrado - Bien - Testigo"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "Witness.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +20, PV +10%</span> | <span style="color: #645252;font-size:20px"><4> Aumenta la velocidad de ataque de las unidades desplegadas un 5%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 15% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado ATQ +55, PV +20%</span> | 
-  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px"><4> Aumenta la velocidad de ataque de las unidades desplegadas un 4%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 10% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado ATQ +30, PV +15%</span> | 
-  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px"><4> Aumenta la velocidad de ataque de las unidades desplegadas un 2%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 5% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado ATQ +16, PV +7%</span> | 
-  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +2, PV +1%</span> | <span style="color: #645252;font-size:20px"><4> Aumenta la velocidad de ataque de las unidades desplegadas un 1%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 2,5% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado ATQ +6, PV +2%</span> | 
+  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, PV +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la velocidad de ataque de las unidades desplegadas un 5%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 15% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +55, PV +20%</span> | 
+  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la velocidad de ataque de las unidades desplegadas un 4%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 10% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +30, PV +15%</span> | 
+  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la velocidad de ataque de las unidades desplegadas un 2%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 5% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +16, PV +7%</span> | 
+  | [Testigo](/es/Emblem/Witness/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, PV +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la velocidad de ataque de las unidades desplegadas un 1%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 2,5% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +6, PV +2%</span> | 
 
   |         Description            | 
   |:-------------------------------|

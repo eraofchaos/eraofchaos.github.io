@@ -3,7 +3,7 @@ title: "Фиур"
 permalink: /ru/heroes/Fiur/
 excerpt: ""
 heroID: 60704
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Fiur"
 toc: true

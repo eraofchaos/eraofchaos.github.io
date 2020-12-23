@@ -3,7 +3,7 @@ title: "Hombre Lagarto"
 permalink: /es/units/Lizardman/
 excerpt: "Unidades Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa."
 unitID: 802
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Hombre Lagarto"
 toc: true

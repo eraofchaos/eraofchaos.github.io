@@ -3,7 +3,7 @@ title: "Angelo"
 permalink: /it/units/Angel/
 excerpt: "Unità Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Angelo"
 toc: true

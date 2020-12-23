@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /fr/units/Troglodyte/
 excerpt: "Unités Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Troglodyte"
 toc: true

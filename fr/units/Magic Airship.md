@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /fr/units/Magic Airship/
 excerpt: "Unités La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Aéronef magique"
 toc: true

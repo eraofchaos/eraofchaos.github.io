@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Bottle of Energy"
 permalink: /Items/art_13/
 excerpt: " Bottle of Energy"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_13.md"
 toc: false

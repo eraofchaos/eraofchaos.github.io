@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /fr/units/Storm Elemental/
 excerpt: "Unités Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -96,7 +96,7 @@ toc: true
  **Awaking Description:** Sous des éclairs et du tonnerre à n'en plus finir, les Élémentaires de tempête se lancent dans une épreuve n'existant que sur le Plan du Conflux. La mission confiée à ce royaume céleste du tonnerre par les quatre grands Élémentaires consiste à redonner vie à chaque Élémentaire de tempête en utilisant la puissance de la foudre pour créer une tempête qui balaiera le monde !
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez un Élémentaire de tempête et au moins </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unités à distance pour venir à bout de </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> vagues de Trépassés dans la crypte en une fois. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Déployez un Élémentaire de tempête pour venir à bout de </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> vagues de Trépassés dans la crypte en une seule fois. (Les raids ne comptent pas pour la mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Dans le Souterrain de l'aventure de guilde, occupez la ville </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px">fois.</span>
 

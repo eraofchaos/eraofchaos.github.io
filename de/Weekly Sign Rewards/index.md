@@ -2,7 +2,7 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /de/Weekly Sign Rewards/
 excerpt: "Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: de
 ref: "index.md"
 toc: true

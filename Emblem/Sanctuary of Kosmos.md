@@ -2,7 +2,7 @@
 title: "Holy Emblem - Sanctuary of Kosmos"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Holy Emblem - Order - Sanctuary of Kosmos"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "Sanctuary of Kosmos.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> HP +10%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px"><4> Whenever deployed units are <stunned> or <silenced>, their DEF increases by 24% for 15s.</span> | <span style="color: #645252;font-size:20px"><6> HP +20%, Holy Emblem DEF +55</span> | 
-  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> HP +1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px"><4> Whenever deployed units are <stunned> or <silenced>, their Defense increases by 4% for 15s.</span> | <span style="color: #645252;font-size:20px"><6> HP +2%, Holy Emblem DEF +6</span> | 
-  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> HP +5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px"><4> Whenever deployed units are <stunned> or <silenced>, their DEF increases by 12% for 15s.</span> | <span style="color: #645252;font-size:20px"><6> HP +15%, Holy Emblem DEF +30</span> | 
-  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> HP +3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px"><4> Whenever deployed units are <stunned> or <silenced>, their DEF increases by 8% for 15s.</span> | <span style="color: #645252;font-size:20px"><6> HP +7%, Holy Emblem DEF +16</span> | 
+  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; HP +10%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;stunned&gt; or &lt;silenced&gt;, their DEF increases by 24% for 15s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; HP +20%, Holy Emblem DEF +55</span> | 
+  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; HP +1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;stunned&gt; or &lt;silenced&gt;, their Defense increases by 4% for 15s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; HP +2%, Holy Emblem DEF +6</span> | 
+  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; HP +5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;stunned&gt; or &lt;silenced&gt;, their DEF increases by 12% for 15s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; HP +15%, Holy Emblem DEF +30</span> | 
+  | [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; HP +3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;stunned&gt; or &lt;silenced&gt;, their DEF increases by 8% for 15s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; HP +7%, Holy Emblem DEF +16</span> | 
 
   |         Description            | 
   |:-------------------------------|

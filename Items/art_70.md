@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Collar of Conjuring"
 permalink: /Items/art_70/
 excerpt: " Collar of Conjuring"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_70.md"
 toc: false

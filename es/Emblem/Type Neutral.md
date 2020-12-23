@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Neutral"
 permalink: /es/Emblem/Type Neutral/
 excerpt: "Emblema Sagrado - Neutral"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "typeNeutral.md"
 toc: false

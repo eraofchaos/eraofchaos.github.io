@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /fr/units/Regnan Archer/
 excerpt: "Unités Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Arbalétrière de Regna"
 toc: true

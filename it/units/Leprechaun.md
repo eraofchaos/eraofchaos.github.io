@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /it/units/Leprechaun/
 excerpt: "Unità Coperti da vesti di un verde brillante, i Leprecauni erano un tempo semplici figli della foresta e vivevano liberi e spensierati sotto l'egida dell'Albero del Mondo. Tuttavia, i corni di guerra che risuonano in tutta l'Erathia hanno donato loro il coraggio necessario a proteggere l'Albero."
 unitID: 909
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: it
 ref: "Leprecauno"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Parata tattica&gt;</span><span style="color: #645252;font-size:18px"> Se il Leprecauno è affetto da &lt;Sanguinamento&gt;, &lt;Stordimento&gt; o &lt;Silenzio&gt;, ciascun debuff aumenta il suo &lt;scudo&gt; di 200 per 7 secondi.</span>
 
 ### 6th Skill (or 5th): Difesa impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Parata tattica&gt;</span><span style="color: #645252;font-size:18px"> Se il Leprecauno è affetto da &lt;Paura&gt;, &lt;Cristallizzazione&gt; o &lt;Shock&gt;, ciascun debuff aumenta il suo &lt;scudo&gt; di 300 per 7 secondi.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Parata tattica&gt;</span><span style="color: #645252;font-size:18px"> Se il Leprecauno è affetto da &lt;Paura&gt;, &lt;Cristallizzazione&gt; o &lt;Impedimento&gt;, ciascun debuff aumenta il suo &lt;scudo&gt; di 300 per 7 secondi.</span>
 
 ## Technical info
  **runart:** 0

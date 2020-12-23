@@ -3,7 +3,7 @@ title: "Minotaurus"
 permalink: /de/units/Minotaur/
 excerpt: "Einheiten Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Minotaurus"
 toc: true

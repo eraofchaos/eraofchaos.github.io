@@ -3,7 +3,7 @@ title: "Œil maléfique"
 permalink: /fr/units/Beholder/
 excerpt: "Unités Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Œil maléfique"
 toc: true

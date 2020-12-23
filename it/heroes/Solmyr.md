@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /it/heroes/Solmyr/
 excerpt: "Solmyr ha vissuto intrappolato in una lampada magica per più di mille anni. Ha giurato fedeltà eterna al proprio salvatore Gavin Magnus, immortale dominatore delle Highlands di Bracada."
 heroID: 61201
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Solmyr"
 toc: true

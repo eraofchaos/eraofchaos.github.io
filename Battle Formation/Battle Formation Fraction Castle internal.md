@@ -2,7 +2,7 @@
 title: "Battle Formation Castle"
 permalink: /Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Battle Formation Castle"
-last_modified_at: 2020-12-05
+last_modified_at: 2020-12-23
 lang: en
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -40,9 +40,9 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Unit DMG + **0.3** % | 150 |  **20** x [Pikeman](/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Pikeman](/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATK + **0.9** % | 70 |   |
-  | 3 | Castle - A Strike Hit | Accuracy + **6**  | 150 |  **20** x [Pikeman](/units/Pikeman) |
+  | 3 | Castle - A Strike Hit | Accuracy + **6**  | 150 |  **10** x [Pikeman](/units/Pikeman) |
   | 4 | Castle - Storm Assaulter | ATK + **0.5** %, HP + **0.5** % | 70 |   |
   | 5 | Castle - Ingeniousness | Dodge + **6**  | 150 |  **10** x [Pikeman](/units/Pikeman) |
   | 6 | Castle - Physical Trials | HP + **0.9** % | 70 |   |
@@ -115,32 +115,32 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Unit DMG + **0.5** % | 190 |  **10** x [Griffin](/units/Griffin) |
+  | 1 | Castle - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Griffin](/units/Griffin) |
   | 2 | Castle - Storm Assaulter | ATK + **1.4** % | 100 |   |
   | 3 | Castle - Storm Assaulter | ATK + **1.4** % | 100 |   |
   | 4 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
   | 5 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
-  | 6 | Castle - A Strike Hit | Accuracy + **8**  | 190 |  **10** x [Cavalier ](/units/Cavalier ) |
+  | 6 | Castle - A Strike Hit | Accuracy + **8**  | 190 |  **20** x [Cavalier ](/units/Cavalier ) |
   | 7 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
   | 8 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
   | 9 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
   | 10 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
-  | 11 | Castle - Ingeniousness | Dodge + **8**  | 190 |  **10** x [Griffin](/units/Griffin) |
+  | 11 | Castle - Ingeniousness | Dodge + **8**  | 190 |  **20** x [Griffin](/units/Griffin) |
   | 12 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
   | 13 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
   | 14 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
   | 15 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
-  | 16 | Castle - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **10** x [Cavalier ](/units/Cavalier ) |
+  | 16 | Castle - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **20** x [Cavalier ](/units/Cavalier ) |
   | 17 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
   | 18 | Castle - Physical Trials | HP + **1.4** % | 100 |   |
   | 19 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
   | 20 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
-  | 21 | Castle - Rocklike Skin | Tenacity + **10**  | 190 |  **10** x [Griffin](/units/Griffin) |
+  | 21 | Castle - Rocklike Skin | Tenacity + **10**  | 190 |  **20** x [Griffin](/units/Griffin) |
   | 22 | Castle - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
   | 23 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
   | 24 | Castle - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
   | 25 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
-  | 26 | Castle - Blaster | Critical Hit + **7**  | 190 |  **10** x [Cavalier ](/units/Cavalier ) |
+  | 26 | Castle - Blaster | Critical Hit + **7**  | 190 |  **20** x [Cavalier ](/units/Cavalier ) |
   | 27 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
   | 28 | Castle - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
   | 29 | Castle - Storm Assaulter | ATK + **1.4** % | 100 |   |

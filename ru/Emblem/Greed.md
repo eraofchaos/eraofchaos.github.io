@@ -2,7 +2,7 @@
 title: "Эмблема святости - Алчность"
 permalink: /ru/Emblem/Greed/
 excerpt: "Эмблема святости - Хаос - Алчность"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Greed.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> скорость АТК +0.1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px"><4> Когда ОЗ впервые падает до 35%, каждую секунду в течение 5 сек. восстанавливается 1% макс. ОЗ</span> | <span style="color: #645252;font-size:20px"><6> скорость АТК +0.2%, эмблема святости ЗЩТ +6</span> | 
-  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> скорость АТК +1%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px"><4> Когда ОЗ впервые падает до 35%, каждую секунду в течение 15 сек. восстанавливается 2% макс. ОЗ</span> | <span style="color: #645252;font-size:20px"><6> скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 
-  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> скорость АТК +0,3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px"><4> Когда ОЗ впервые падает до 35%, каждую секунду в течение 5 сек. восстанавливается 2% макс. ОЗ</span> | <span style="color: #645252;font-size:20px"><6> скорость АТК +0,7%, эмблема святости ЗЩТ +16</span> | 
-  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px"><4> Когда ОЗ впервые падает до 35%, каждую секунду в течение 10 сек. восстанавливается 2% макс. ОЗ</span> | <span style="color: #645252;font-size:20px"><6> скорость АТК +1,5%, эмблема святости ЗЩТ +30</span> | 
+  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0.1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда ОЗ впервые падает до 35%, каждую секунду в течение 5 сек. восстанавливается 1% макс. ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0.2%, эмблема святости ЗЩТ +6</span> | 
+  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +1%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда ОЗ впервые падает до 35%, каждую секунду в течение 15 сек. восстанавливается 2% макс. ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 
+  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда ОЗ впервые падает до 35%, каждую секунду в течение 5 сек. восстанавливается 2% макс. ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0,7%, эмблема святости ЗЩТ +16</span> | 
+  | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда ОЗ впервые падает до 35%, каждую секунду в течение 10 сек. восстанавливается 2% макс. ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +1,5%, эмблема святости ЗЩТ +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

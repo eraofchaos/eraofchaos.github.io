@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /it/heroes/Ciele/
 excerpt: "Ciele è una generale mai sconfitta in battaglia e una tra le prime eroine a unirsi all'esercito della Confluenza. Grazie alle sue frecce magiche, è stata in grado di scoprire il rapporto che unisce i diversi Elementali magici."
 heroID: 60705
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Ciele"
 toc: true

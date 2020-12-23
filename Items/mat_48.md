@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Crystal"
 permalink: /Items/mat_48/
 excerpt: " Legendary Crystal"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_48.md"
 toc: false

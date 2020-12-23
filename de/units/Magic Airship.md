@@ -3,7 +3,7 @@ title: "Magisches Luftschiff"
 permalink: /de/units/Magic Airship/
 excerpt: "Einheiten Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Magisches Luftschiff"
 toc: true

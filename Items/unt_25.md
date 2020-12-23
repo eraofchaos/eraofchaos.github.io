@@ -2,7 +2,7 @@
 title: "Item - Units -  Goblin"
 permalink: /Items/unt_25/
 excerpt: " Goblin"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_25.md"
 toc: false

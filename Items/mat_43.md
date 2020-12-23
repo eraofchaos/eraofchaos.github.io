@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Wood"
 permalink: /Items/mat_43/
 excerpt: " Valuable Wood"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_43.md"
 toc: false

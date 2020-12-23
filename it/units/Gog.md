@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /it/units/Gog/
 excerpt: "Unità I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Gog"
 toc: true

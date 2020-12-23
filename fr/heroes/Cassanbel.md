@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /fr/heroes/Cassanbel/
 excerpt: "Bien qu'elle ait perdu son \"père\" à cause des humains, elle continue d'aider ceux qui vivent sur l'eau."
 heroID: 61701
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Cassanbel"
 toc: true

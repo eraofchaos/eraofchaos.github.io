@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Schloss -  Units"
 permalink: /de/units/Fraction Schloss/
 excerpt: "Fraction Schloss - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Fraction Schloss"
 toc: false

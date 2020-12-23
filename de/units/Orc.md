@@ -3,7 +3,7 @@ title: "Ork"
 permalink: /de/units/Orc/
 excerpt: "Einheiten Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Ork"
 toc: true

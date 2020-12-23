@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /it/heroes/Fiur/
 excerpt: "Pur giovane e privo di vera esperienza, Fiur ha un potere senza eguali. Si pensa che col tempo diventerà uno degli eroi più potenti della Confluenza."
 heroID: 60704
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Fiur"
 toc: true

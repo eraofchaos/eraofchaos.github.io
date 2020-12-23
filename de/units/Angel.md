@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /de/units/Angel/
 excerpt: "Einheiten Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Engel"
 toc: true

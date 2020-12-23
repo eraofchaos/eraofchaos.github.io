@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /es/heroes/Fiur/
 excerpt: "Aunque todavía joven e inexperto para un Elemental, Fiur posee una habilidad sin igual. Se cree que se acabará convirtiendo en uno de los Héroes Elementales más poderosos."
 heroID: 60704
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Fiur"
 toc: true

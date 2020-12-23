@@ -2,7 +2,7 @@
 title: "Recompensa completa"
 permalink: /es/Weekly Sign Rewards/
 excerpt: "Weekly Recompensa completa."
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: es
 ref: "index.md"
 toc: true

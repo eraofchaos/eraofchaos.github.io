@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /de/units/Storm Elemental/
 excerpt: "Einheiten Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Sturmelementar"
 toc: true
@@ -96,7 +96,7 @@ toc: true
  **Awaking Description:** Im unaufhörlichen Blitz und Donner nehmen sich die Sturmelementare einer Prüfung an, die nur der Konflux-Ebene gehört. Die Mission, die die vier großen Elementare diesem Himmelreich des Donners anvertraut haben, besteht darin, jeden Sturmelementar wiederauferstehen zu lassen, indem man die Macht des Blitzes nutzt, um einen Sturm zu entfesseln, der über das Land fegen wird!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze einen Sturmelementar und mindestens </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Fernkampf-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> Wellen Wandelnder Toter in der Krypta einmal zu besiegen. (Durchmärsche zählen nicht für die Mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Setze einen Sturmelementar ein, um </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> Wellen Wandelnder Toter in der Krypta einmal zu besiegen. (Durchmärsche zählen nicht für die Mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Besetze die Stadt im Gildenabenteuer-Untergrund </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Mal.</span>
 

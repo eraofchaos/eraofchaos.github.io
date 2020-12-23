@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /ru/heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "index.md"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   | 2 | [Jeddite](/ru/heroes/Jeddite/) |  | Алхимик | SR |    |
   | 3 | [Kendal](/ru/heroes/Kendal/) | Замок | Рыцарь | R |    |
   | 4 | [Monere](/ru/heroes/Monere/) |  | Путешественник | R |  Элементаль Мысли  |
-  | 5 | [Xeron](/ru/heroes/Xeron/) |  |  | SSR |  Архидьявол  |
+  | 5 | [Xeron](/ru/heroes/Xeron/) |  |  | SSR |    |
   | 6 | [Zydar](/ru/heroes/Zydar/) |  | Еретик | R |  Призыв Инферно  |
   | 7 | [Аделаида](/ru/heroes/Adelaide/) | Замок | Священник | R+ |  Кольцо холода  |
   | 8 | [Астрал](/ru/heroes/Astral/) |  |  | SSR |    |

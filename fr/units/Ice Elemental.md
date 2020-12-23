@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /fr/units/Ice Elemental/
 excerpt: "Unités Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -89,40 +89,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Esprit de la neige silencieux
 
- **Awaking Description:** null
+ **Awaking Description:** Les Élémentaires de glace ne sont pas aussi froids et impitoyables qu'on le dit. On peut entendre leur chant chaque soir de neige. Il s'agit d'une magnifique mélodie, avec un soupçon de mélancolie, comme une sorte d'écho d'un monde inconnu.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Déployez des Lanciers et au moins </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unités du Château pour éliminer </span><span style="color: #1ca216;font-size:18px">1 000</span><span style="color: #3c2a1e;font-size:18px"> Nains en une seule attaque du Trésor des Nains. (Les raids ne comptent pas pour la mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Déployez un Élémentaire de glace et au moins </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> unités du Conflux pour réussir le niveau Impitoyable ou un niveau supérieur de l'Utopie draconique. (Les raids ne comptent pas pour la mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Éliminez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstres lors d'une aventure de guilde.</span>
+ 2. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ressources pendant une aventure de guilde.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> âmes de Hallebardier dans les niveaux 14-2 et 14-4 du Souterrain.</span>
+ 3. <span style="color: #876741;font-size:18px">Récupérez </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> âmes d'Esprit de la neige silencieux dans les niveaux 16-2 et 16-4 du souterrain.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Déployez un Élémentaire de glace et </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unités du Conflux pour remporter 3 batailles dans la campagne. (Les raids ne comptent pas pour la mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Nuée de lances étendue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Cible des unités ennemies plus grandes.</span>
+### 1st Skill (or 2nd): Mur givré
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mur de glace&gt; :</span><span style="color: #645252;font-size:18px"> Réduit de 20 % supplémentaires la résistance aux coups critiques des unités touchées. Si la cible touchée est immunisée contre l'effet Gel, elle sera affectée par l'effet Surchauffe pendant 3 secondes.</span>
 
-### 2nd Skill (or 1st): Nuée de lances furtive
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Nuée de lances&gt; : </span><span style="color: #645252;font-size:18px">Inflige 150 % de dégâts et étourdit la cible pendant 4,5 secondes.</span>
+### 2nd Skill (or 1st): Prison de glace
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mur de glace&gt; :</span><span style="color: #645252;font-size:18px"> Réduit de 20 % supplémentaires la résistance aux dégâts des unités touchées. Si la cible touchée est immunisée contre l'effet Gel, elle sera réduite au silence pendant 3 secondes.</span>
 
-### 3rd Skill (or 4th): Matrice physique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance aux dégâts de 30 % pendant 10 secondes.</span>
+### 3rd Skill (or 4th): Défense élémentaire
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Force élémentaire&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la ténacité des unités de première ligne de 100 et leurs PV de 50 % pendant 7 secondes lorsqu'un Héros lance un sort d'eau.</span>
 
-### 4th Skill (or 3rd): Matrice magique
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Charisme&gt; : </span><span style="color: #645252;font-size:18px">En cas d'&lt;Exaltation&gt; au combat, augmente la résistance magique de 30 % pendant 10 secondes.</span>
+### 4th Skill (or 3rd): Invasion élémentaire
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Force élémentaire&gt; :</span><span style="color: #645252;font-size:18px"> A 50 % de chance de lancer &lt;Poigne givrée&gt; sur une unité ennemie en ligne arrière lorsqu'un Héros lance un sort d'eau.</span>
 
-### 5th Skill (or 6th): Stratégie d'infiltration
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, inflige &lt;Découragement&gt; à la cible, ce qui réduit ses coups critiques de 300 points.</span>
+### 5th Skill (or 6th): Refroidissement
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Congélation&gt; :</span><span style="color: #645252;font-size:18px"> Augmente la durée du &lt;Gel&gt; de 5 secondes.</span>
 
-### 6th Skill (or 5th): Exténuation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasse au dragon&gt; : </span><span style="color: #645252;font-size:18px">Face aux unités de 1 ou de 4 combattants, réduit l'esquive de la cible de 300 points.</span>
+### 6th Skill (or 5th): Solidification
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Congélation&gt; :</span><span style="color: #645252;font-size:18px"> Réduit la résistance aux dégâts de l'unité cible de 20 % supplémentaires pendant 7 secondes.</span>
 
 ## Technical info
  **runart:** 0

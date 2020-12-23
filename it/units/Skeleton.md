@@ -3,7 +3,7 @@ title: "Scheletro"
 permalink: /it/units/Skeleton/
 excerpt: "Unità Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Scheletro"
 toc: true

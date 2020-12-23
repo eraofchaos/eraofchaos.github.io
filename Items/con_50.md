@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Elite Unit Pack"
+title: "Item - Consumables -  Orange +3 Material Chest"
 permalink: /Items/con_50/
-excerpt: " Elite Unit Pack"
-last_modified_at: 2020-12-17
+excerpt: " Orange +3 Material Chest"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_50.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 of the following: 3-star Lich, 3-star Stone Elemental, 3-star Genie, 3-star Mummy, 3-star Manticore, 3-star Beholder, or 3-star Medusa.
+ **Description:** Receive a random orange +3 equipment-upgrading item.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -25,14 +25,13 @@ classes: wide
 
  **Required Level to open:** 1
 
- 8 You would get **ALL** items  from:
+ 3 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 | _TEAM_305 | 
-  | 2 | _TEAM_905 | 
-  | 3 | _TEAM_605 | 
-  | 4 | _TEAM_308 | 
-  | 5 | _TEAM_706 | 
-  | 6 | _TEAM_703 | 
-  | 7 | _TEAM_704 | 
+  | 1 |  **1x** | Soul Ore | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 2 |  **1x** | Soul Wood | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 3 |  **1x** | Soul Mercury | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 4 |  **1x** | Soul Sulfur | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 5 |  **1x** | Soul Gems | Common materials to upgrade equipment from orange +3 to orange +4.  | 
+  | 6 |  **1x** | Soul Crystal | Common materials to upgrade equipment from orange +3 to orange +4.  | 

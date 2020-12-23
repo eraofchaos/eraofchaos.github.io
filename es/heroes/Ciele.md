@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /es/heroes/Ciele/
 excerpt: "Ciele se encuentra entre los primeros Héroes que se unieron a los Elementales y es una general victoriosa en el campo de batalla. Descubrió su conexión con los Elementales de Magia con sus flechas mágicas."
 heroID: 60705
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Ciele"
 toc: true

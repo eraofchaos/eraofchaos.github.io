@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /fr/heroes/Fiur/
 excerpt: "Encore jeune et inexpérimenté pour un Élémentaire, Fiur possède néanmoins un talent sans égal. Il devrait certainement devenir l'un des plus puissants Héros de sa caste."
 heroID: 60704
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Fiur"
 toc: true

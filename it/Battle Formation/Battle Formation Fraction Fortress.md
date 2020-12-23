@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Fortezza"
 permalink: /it/Battle Formation/Battle Formation Fraction Fortress
 excerpt: "Formazione di battaglia Fortezza"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | DAN unità + **0.3** % | 150 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | DAN unità + **0.3** % | 150 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | ATT + **0.9** % | 70 |   |
-  | 3 | Fortress - A Strike Hit | MIRA + **6**  | 150 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 3 | Fortress - A Strike Hit | MIRA + **6**  | 150 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 4 | Fortress - Storm Assaulter | ATT + **0.5** %, PF + **0.5** % | 70 |   |
-  | 5 | Fortress - Ingeniousness | Schivata + **6**  | 150 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 5 | Fortress - Ingeniousness | Schivata + **6**  | 150 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 6 | Fortress - Physical Trials | PF + **0.9** % | 70 |   |
-  | 7 | Fortress - Shield Practice | Rid DAN unità + **0.3** % | 150 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 7 | Fortress - Shield Practice | Rid DAN unità + **0.3** % | 150 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 8 | Fortress - Physical Trials | PF + **0.9** % | 70 |   |
-  | 9 | Fortress - Rocklike Skin | Tenacia + **6**  | 150 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 9 | Fortress - Rocklike Skin | Tenacia + **6**  | 150 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 10 | Fortress - Storm Assaulter | ATT + **0.5** %, PF + **0.5** % | 70 |   |
-  | 11 | Fortress - Blaster | CRIT + **5**  | 150 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 11 | Fortress - Blaster | CRIT + **5**  | 150 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 12 | Fortress - Storm Assaulter | ATT + **0.9** % | 70 |   |
   
 
@@ -50,22 +50,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | DAN unità + **0.4** % | 160 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | DAN unità + **0.4** % | 160 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | ATT + **1** % | 80 |   |
   | 3 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
-  | 4 | Fortress - A Strike Hit | MIRA + **6**  | 160 |  **20** x [Mosca serpente](/it/units/Serpent Fly) |
+  | 4 | Fortress - A Strike Hit | MIRA + **6**  | 160 |  **10** x [Mosca serpente](/it/units/Serpent Fly) |
   | 5 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
   | 6 | Fortress - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
-  | 7 | Fortress - Ingeniousness | Schivata + **6**  | 160 |  **20** x [Uomo lucertola](/it/units/Lizardman) |
+  | 7 | Fortress - Ingeniousness | Schivata + **6**  | 160 |  **10** x [Uomo lucertola](/it/units/Lizardman) |
   | 8 | Fortress - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
   | 9 | Fortress - Physical Trials | PF + **1** % | 80 |   |
-  | 10 | Fortress - Shield Practice | Rid DAN unità + **0.4** % | 160 |  **20** x [Uomo lucertola](/it/units/Lizardman) |
+  | 10 | Fortress - Shield Practice | Rid DAN unità + **0.4** % | 160 |  **10** x [Uomo lucertola](/it/units/Lizardman) |
   | 11 | Fortress - Physical Trials | PF + **1** % | 80 |   |
   | 12 | Fortress - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
-  | 13 | Fortress - Rocklike Skin | Tenacia + **7**  | 160 |  **20** x [Mosca serpente](/it/units/Serpent Fly) |
+  | 13 | Fortress - Rocklike Skin | Tenacia + **7**  | 160 |  **10** x [Mosca serpente](/it/units/Serpent Fly) |
   | 14 | Fortress - Physical Trials | ATT + **0.3** %, PF + **0.7** % | 80 |   |
   | 15 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
-  | 16 | Fortress - Blaster | CRIT + **5**  | 160 |  **20** x [Gnoll](/it/units/Gnoll) |
+  | 16 | Fortress - Blaster | CRIT + **5**  | 160 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
   | 18 | Fortress - Storm Assaulter | ATT + **1** % | 80 |   |
   

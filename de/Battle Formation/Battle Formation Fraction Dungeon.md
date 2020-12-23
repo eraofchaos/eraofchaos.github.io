@@ -2,7 +2,7 @@
 title: "Kampfformation Dungeon"
 permalink: /de/Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Kampfformation Dungeon"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Dungeon - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 1 | Dungeon - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 2 | Dungeon - Storm Assaulter | ANG + **0.9** % | 70 |   |
-  | 3 | Dungeon - A Strike Hit | Präzision + **6**  | 150 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 3 | Dungeon - A Strike Hit | Präzision + **6**  | 150 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 4 | Dungeon - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 5 | Dungeon - Ingeniousness | Ausweichen + **6**  | 150 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 5 | Dungeon - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 6 | Dungeon - Physical Trials | LP + **0.9** % | 70 |   |
-  | 7 | Dungeon - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 7 | Dungeon - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 8 | Dungeon - Physical Trials | LP + **0.9** % | 70 |   |
-  | 9 | Dungeon - Rocklike Skin | Zähigkeit + **6**  | 150 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 9 | Dungeon - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 10 | Dungeon - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 11 | Dungeon - Blaster | Kritischer Treffer + **5**  | 150 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 11 | Dungeon - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 12 | Dungeon - Storm Assaulter | ANG + **0.9** % | 70 |   |
   
 
@@ -50,22 +50,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Dungeon - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 1 | Dungeon - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 2 | Dungeon - Storm Assaulter | ANG + **1** % | 80 |   |
   | 3 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 4 | Dungeon - A Strike Hit | Präzision + **6**  | 160 |  **20** x [Minotaurus](/de/units/Minotaur) |
+  | 4 | Dungeon - A Strike Hit | Präzision + **6**  | 160 |  **10** x [Minotaurus](/de/units/Minotaur) |
   | 5 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 6 | Dungeon - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 7 | Dungeon - Ingeniousness | Ausweichen + **6**  | 160 |  **20** x [Harpyie](/de/units/Harpy) |
+  | 7 | Dungeon - Ingeniousness | Ausweichen + **6**  | 160 |  **10** x [Harpyie](/de/units/Harpy) |
   | 8 | Dungeon - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 9 | Dungeon - Physical Trials | LP + **1** % | 80 |   |
-  | 10 | Dungeon - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **20** x [Harpyie](/de/units/Harpy) |
+  | 10 | Dungeon - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Harpyie](/de/units/Harpy) |
   | 11 | Dungeon - Physical Trials | LP + **1** % | 80 |   |
   | 12 | Dungeon - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 13 | Dungeon - Rocklike Skin | Zähigkeit + **7**  | 160 |  **20** x [Minotaurus](/de/units/Minotaur) |
+  | 13 | Dungeon - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Minotaurus](/de/units/Minotaur) |
   | 14 | Dungeon - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 15 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 16 | Dungeon - Blaster | Kritischer Treffer + **5**  | 160 |  **20** x [Troglodyt](/de/units/Troglodyte) |
+  | 16 | Dungeon - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 17 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Dungeon - Storm Assaulter | ANG + **1** % | 80 |   |
   

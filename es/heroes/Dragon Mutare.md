@@ -3,7 +3,7 @@ title: "Dragona Mutare"
 permalink: /es/heroes/Dragon Mutare/
 excerpt: "Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones."
 heroID: 61302
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Dragon Mutare"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Constelación del Dragón Encantado
+   - Nueva imagen de batalla
+   - Avatar único y efecto de hechizo
+
+### Skin 3: **Elfa de Navidad**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Elfas de Navidad que bailan con copos de nieve y regalos. ¡Mutare, que ha bebido sangre de dragón pero no se ha transformado por completo todavía, está celebrando la Navidad!</span>
+
+ **Skin features:** 
+
+   - Elfo de Navidad jugando con la nieve
    - Nueva imagen de batalla
    - Avatar único y efecto de hechizo
 

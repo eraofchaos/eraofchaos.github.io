@@ -2,7 +2,7 @@
 title: "Item - Units -  Death Howler Soul Stone"
 permalink: /Items/unt_34/
 excerpt: " Death Howler Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_34.md"
 toc: false

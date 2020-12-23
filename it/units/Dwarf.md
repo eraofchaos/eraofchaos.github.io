@@ -3,7 +3,7 @@ title: "Gnomo"
 permalink: /it/units/Dwarf/
 excerpt: "Unità Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
 unitID: 202
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Gnomo"
 toc: true

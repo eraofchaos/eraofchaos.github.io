@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /it/heroes/Gem/
 excerpt: "Gem è la più potente delle streghe di Enroth. Ha combattuto entrambe le guerre al servizio di Roland Pugno di Ferro. Dopo l'incoronazione di Roland, Gem si è trasferita definitivamente nell'Erathia."
 heroID: 60304
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Gem"
 toc: true

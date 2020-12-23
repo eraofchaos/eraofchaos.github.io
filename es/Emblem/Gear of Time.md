@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Engranaje del tiempo"
 permalink: /es/Emblem/Gear of Time/
 excerpt: "Emblema Sagrado - Bien - Engranaje del tiempo"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "Gear of Time.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +15, Emblema Sagrado de DEF +15</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas consiguen un aumento de DEF del 2,5% por cada 5% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado de ATQ +37,5, Emblema Sagrado de DEF +37,5</span> | 
-  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +9, Emblema Sagrado de DEF +9</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas consiguen un aumento de DEF del 2% por cada 7% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado de ATQ +22,5, Emblema Sagrado de DEF +22,5</span> | 
-  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +4,5, Emblema Sagrado de DEF +4,5</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas consiguen un aumento de DEF del 2% por cada 10% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado de ATQ +11,5, Emblema Sagrado de DEF +11,5</span> | 
-  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> Emblema Sagrado de ATQ +1,5, Emblema Sagrado de DEF +1,5</span> | <span style="color: #645252;font-size:20px"><4> Las unidades desplegadas consiguen un aumento de DEF del 1% por cada 10% de PV perdidos</span> | <span style="color: #645252;font-size:20px"><6> Emblema Sagrado de ATQ +4, Emblema Sagrado de DEF +4</span> | 
+  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +15, Emblema Sagrado de DEF +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas consiguen un aumento de DEF del 2,5% por cada 5% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +37,5, Emblema Sagrado de DEF +37,5</span> | 
+  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +9, Emblema Sagrado de DEF +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas consiguen un aumento de DEF del 2% por cada 7% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +22,5, Emblema Sagrado de DEF +22,5</span> | 
+  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +4,5, Emblema Sagrado de DEF +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas consiguen un aumento de DEF del 2% por cada 10% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +11,5, Emblema Sagrado de DEF +11,5</span> | 
+  | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +1,5, Emblema Sagrado de DEF +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas consiguen un aumento de DEF del 1% por cada 10% de PV perdidos</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +4, Emblema Sagrado de DEF +4</span> | 
 
   |         Description            | 
   |:-------------------------------|

@@ -3,7 +3,7 @@ title: "Сиэль"
 permalink: /ru/heroes/Ciele/
 excerpt: ""
 heroID: 60705
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Ciele"
 toc: true

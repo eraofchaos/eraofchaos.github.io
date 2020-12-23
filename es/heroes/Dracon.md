@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /es/heroes/Dracon/
 excerpt: "Dracon es considerado un prodigio de la magia por muchos de sus mayores. Su objetivo en la vida es convertirse en el mejor matadragones de la historia."
 heroID: 61202
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Dracon"
 toc: true

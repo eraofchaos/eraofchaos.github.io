@@ -2,7 +2,7 @@
 title: "Kampfformation Nekropolis"
 permalink: /de/Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Kampfformation Nekropolis"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: de
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -31,17 +31,17 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Necropolis - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **20** x [Skelett](/de/units/Skeleton) |
+  | 1 | Necropolis - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **10** x [Skelett](/de/units/Skeleton) |
   | 2 | Necropolis - Storm Assaulter | ANG + **0.9** % | 70 |   |
-  | 3 | Necropolis - A Strike Hit | Präzision + **6**  | 150 |  **20** x [Skelett](/de/units/Skeleton) |
+  | 3 | Necropolis - A Strike Hit | Präzision + **6**  | 150 |  **10** x [Skelett](/de/units/Skeleton) |
   | 4 | Necropolis - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 5 | Necropolis - Ingeniousness | Ausweichen + **6**  | 150 |  **20** x [Skelett](/de/units/Skeleton) |
+  | 5 | Necropolis - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Skelett](/de/units/Skeleton) |
   | 6 | Necropolis - Physical Trials | LP + **0.9** % | 70 |   |
-  | 7 | Necropolis - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **20** x [Wandelnde Tote](/de/units/Walking Dead) |
+  | 7 | Necropolis - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Wandelnde Tote](/de/units/Walking Dead) |
   | 8 | Necropolis - Physical Trials | LP + **0.9** % | 70 |   |
-  | 9 | Necropolis - Rocklike Skin | Zähigkeit + **6**  | 150 |  **20** x [Wandelnde Tote](/de/units/Walking Dead) |
+  | 9 | Necropolis - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Wandelnde Tote](/de/units/Walking Dead) |
   | 10 | Necropolis - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 11 | Necropolis - Blaster | Kritischer Treffer + **5**  | 150 |  **20** x [Wandelnde Tote](/de/units/Walking Dead) |
+  | 11 | Necropolis - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Wandelnde Tote](/de/units/Walking Dead) |
   | 12 | Necropolis - Storm Assaulter | ANG + **0.9** % | 70 |   |
   
 
@@ -50,22 +50,22 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Necropolis - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **20** x [Skelett](/de/units/Skeleton) |
+  | 1 | Necropolis - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **10** x [Skelett](/de/units/Skeleton) |
   | 2 | Necropolis - Storm Assaulter | ANG + **1** % | 80 |   |
   | 3 | Necropolis - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 4 | Necropolis - A Strike Hit | Präzision + **6**  | 160 |  **20** x [Skelett](/de/units/Skeleton) |
+  | 4 | Necropolis - A Strike Hit | Präzision + **6**  | 160 |  **10** x [Skelett](/de/units/Skeleton) |
   | 5 | Necropolis - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 6 | Necropolis - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 7 | Necropolis - Ingeniousness | Ausweichen + **6**  | 160 |  **20** x [Geist](/de/units/Wight) |
+  | 7 | Necropolis - Ingeniousness | Ausweichen + **6**  | 160 |  **10** x [Geist](/de/units/Wight) |
   | 8 | Necropolis - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 9 | Necropolis - Physical Trials | LP + **1** % | 80 |   |
-  | 10 | Necropolis - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **20** x [Vampir](/de/units/Vampire) |
+  | 10 | Necropolis - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Vampir](/de/units/Vampire) |
   | 11 | Necropolis - Physical Trials | LP + **1** % | 80 |   |
   | 12 | Necropolis - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 13 | Necropolis - Rocklike Skin | Zähigkeit + **7**  | 160 |  **20** x [Wandelnde Tote](/de/units/Walking Dead) |
+  | 13 | Necropolis - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Wandelnde Tote](/de/units/Walking Dead) |
   | 14 | Necropolis - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 15 | Necropolis - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 16 | Necropolis - Blaster | Kritischer Treffer + **5**  | 160 |  **20** x [Wandelnde Tote](/de/units/Walking Dead) |
+  | 16 | Necropolis - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Wandelnde Tote](/de/units/Walking Dead) |
   | 17 | Necropolis - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Necropolis - Storm Assaulter | ANG + **1** % | 80 |   |
   

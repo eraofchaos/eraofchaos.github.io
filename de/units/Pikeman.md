@@ -3,7 +3,7 @@ title: "Pikenier"
 permalink: /de/units/Pikeman/
 excerpt: "Einheiten Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie."
 unitID: 101
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: de
 ref: "Pikenier"
 toc: true

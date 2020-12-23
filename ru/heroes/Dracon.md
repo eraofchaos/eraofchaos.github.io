@@ -3,7 +3,7 @@ title: "Дракон"
 permalink: /ru/heroes/Dracon/
 excerpt: "Многие из старейшин Дракона считают его невероятно талантливым магом. Его цель в жизни - стать лучшим убийцей драконов в истории."
 heroID: 61202
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Dracon"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом всем противникам в области действия.
 
 ### 4 Spell: Фантом
- **Description:** Копирует один союзный отряд. Копия имеет <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> АТК оригинала и получает на {($duplidmg11+$duplidmg12*($sklevel-1))}% больше урона. Действует 30 сек.
+ **Description:** 
 
 
 ## HERO Biography

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Casting Crystal"
 permalink: /Items/art_61/
 excerpt: " Casting Crystal"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_61.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Rechtsprinzip der Erben"
 permalink: /de/Emblem/Successors' Legal Principles/
 excerpt: "Heiliges Emblem - Neutral - Rechtsprinzip der Erben"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: de
 ref: "Successors' Legal Principles.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> LP +1 %, „Heiliges Emblem“-ABW +2</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die ABW um 1 % und Zähigkeit um 100; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 150 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px"><6> LP +2 %, „Heiliges Emblem“-ABW +6</span> | 
-  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> LP +3 %, „Heiliges Emblem“-ABW +6</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die ABW um 3 % und Zähigkeit um 200; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 300 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px"><6> LP +7 %, „Heiliges Emblem“-ABW +16</span> | 
-  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> LP +5 %, „Heiliges Emblem“-ABW +13</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die ABW um 6 % und Zähigkeit um 300; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 450 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px"><6> LP +15 %, „Heiliges Emblem“-ABW +30</span> | 
-  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> LP +10 %, „Heiliges Emblem“-ABW +20</span> | <span style="color: #645252;font-size:20px"><4> Erhöht die ABW um 10 % und Zähigkeit um 500; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 750 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px"><6> LP +20 %, „Heiliges Emblem“-ABW +55</span> | 
+  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; LP +1 %, „Heiliges Emblem“-ABW +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die ABW um 1 % und Zähigkeit um 100; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 150 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; LP +2 %, „Heiliges Emblem“-ABW +6</span> | 
+  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; LP +3 %, „Heiliges Emblem“-ABW +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die ABW um 3 % und Zähigkeit um 200; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 300 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; LP +7 %, „Heiliges Emblem“-ABW +16</span> | 
+  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; LP +5 %, „Heiliges Emblem“-ABW +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die ABW um 6 % und Zähigkeit um 300; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 450 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; LP +15 %, „Heiliges Emblem“-ABW +30</span> | 
+  | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; LP +10 %, „Heiliges Emblem“-ABW +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die ABW um 10 % und Zähigkeit um 500; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 750 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; LP +20 %, „Heiliges Emblem“-ABW +55</span> | 
 
   |         Description            | 
   |:-------------------------------|

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Holy Crystal"
+title: "Item - Consumables -  Viod Mithril"
 permalink: /Items/con_46/
-excerpt: " Holy Crystal"
-last_modified_at: 2020-12-17
+excerpt: " Viod Mithril"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_46.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A supernatural-condensed crystal that can be used to exchange for rare supplies in the Cross-server Store. Obtained in Cross-server Clash of Gods.
+ **Description:** A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Other
+ **Type:** Event related
 
 ## Gather
 

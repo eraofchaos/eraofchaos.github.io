@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /it/units/Beholder/
 excerpt: "Unità Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Osservatore"
 toc: true

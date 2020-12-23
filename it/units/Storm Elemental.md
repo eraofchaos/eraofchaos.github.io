@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /it/units/Storm Elemental/
 excerpt: "Unità Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Elementale tempesta"
 toc: true
@@ -96,7 +96,7 @@ toc: true
  **Awaking Description:** Sprigionando fulmini e saette a non finire, gli Elementali della tempesta affrontano una prova disponibile solo nel Piano di Confluenza. La missione affidata dai quattro grandi Elementali al celeste regno dei tuoni consiste nel far risorgere tutti gli Elementali della tempesta, facendo un sapiente uso dei fulmini per scatenare un colossale evento atmosferico che coprirà tutta la terra!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera un Elementale della tempesta con almeno </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unità a distanza e sconfiggi </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> ondate di Morti viventi nella Cripta in una battaglia sola. (Le pulizie non sono considerate nel conteggio della missione.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Schiera un Elementale della tempesta e sconfiggi </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> ondate di Morti viventi nella Cripta in una battaglia sola. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Nell'Avventura della Gilda del Sottosuolo, occupa la città </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> volta.</span>
 

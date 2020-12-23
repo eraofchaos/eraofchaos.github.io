@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Heresy Apprentice Vidomina"
+title: "Item - Consumables -  Player EXP"
 permalink: /Items/con_99/
-excerpt: " Heresy Apprentice Vidomina"
-last_modified_at: 2020-12-17
+excerpt: " Player EXP"
+last_modified_at: 2020-12-23
 lang: en
 ref: "con_99.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get a skin: Heresy Apprentice Vidomina
+ **Description:** Everyone loves gaining more experience!
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Unknown
 

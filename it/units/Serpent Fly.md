@@ -3,7 +3,7 @@ title: "Mosca serpente"
 permalink: /it/units/Serpent Fly/
 excerpt: "Unità Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
 unitID: 803
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Mosca serpente"
 toc: true

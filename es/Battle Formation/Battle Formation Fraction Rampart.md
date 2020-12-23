@@ -2,7 +2,7 @@
 title: "Formación de batalla Murallas"
 permalink: /es/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Formación de batalla Murallas"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "BattleFormationFractionRampart"
 toc: false

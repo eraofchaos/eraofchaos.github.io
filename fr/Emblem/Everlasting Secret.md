@@ -2,7 +2,7 @@
 title: "Emblème sacré - Secret éternel"
 permalink: /fr/Emblem/Everlasting Secret/
 excerpt: "Emblème sacré - Ordre - Secret éternel"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Everlasting Secret.md"
 toc: false
@@ -17,8 +17,8 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Secret éternel](/fr/Emblem/Everlasting Secret/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> Vitesse d'ATQ +1 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px"><4> Toutes les capacités des unités déployées augmentent de 2 niveaux.</span> | <span style="color: #645252;font-size:20px"><6> Vitesse d'ATQ +2 %, DÉF des Emblèmes sacrés +55</span> | 
-  | [Secret éternel](/fr/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> Vitesse d'ATQ +0,5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px"><4> Toutes les capacités des unités déployées augmentent d'un niveau.</span> | <span style="color: #645252;font-size:20px"><6> Vitesse d'ATQ +1,5 %, DÉF des Emblèmes sacrés +30</span> | 
+  | [Secret éternel](/fr/Emblem/Everlasting Secret/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +1 %, DÉF des Emblèmes sacrés +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Toutes les capacités des unités déployées augmentent de 2 niveaux.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +2 %, DÉF des Emblèmes sacrés +55</span> | 
+  | [Secret éternel](/fr/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vitesse d'ATQ +0,5 %, DÉF des Emblèmes sacrés +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Toutes les capacités des unités déployées augmentent d'un niveau.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vitesse d'ATQ +1,5 %, DÉF des Emblèmes sacrés +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

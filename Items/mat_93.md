@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Wood"
 permalink: /Items/mat_93/
 excerpt: " Legendary Wood"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "mat_93.md"
 toc: false

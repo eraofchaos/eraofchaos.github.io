@@ -3,7 +3,7 @@ title: "Aeronave magica"
 permalink: /it/units/Magic Airship/
 excerpt: "Unità L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Aeronave magica"
 toc: true

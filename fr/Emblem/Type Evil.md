@@ -2,7 +2,7 @@
 title: "Emblème sacré - Mauvais"
 permalink: /fr/Emblem/Type Evil/
 excerpt: "Emblème sacré - Mauvais"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: fr
 ref: "typeMauvais.md"
 toc: false

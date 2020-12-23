@@ -2,7 +2,7 @@
 title: "Formazione di battaglia "
 permalink: /it/Battle Formation/
 excerpt: "Formazione di battaglia.Le fazioni hanno un potenziale e caratteristiche ben distinte. Attiva la formazione di battaglia per svelare il tuo potere latente."
-last_modified_at: 2020-12-10
+last_modified_at: 2020-12-23
 lang: it
 ref: "index.md"
 toc: false

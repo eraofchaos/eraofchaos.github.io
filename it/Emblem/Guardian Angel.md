@@ -2,7 +2,7 @@
 title: "Emblema sacro - Angelo custode"
 permalink: /it/Emblem/Guardian Angel/
 excerpt: "Emblema sacro - Bontà - Angelo custode"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: it
 ref: "Guardian Angel.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> ATT +10%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate infliggono un colpo critico, hanno il 30% di probabilità di ripristinare il 5% dei PF massimi.</span> | <span style="color: #645252;font-size:20px"><6> ATT +20%, DIF Emblema sacro +55</span> | 
-  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> ATT +3%, DIF Emblema sacro +6</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate infliggono un colpo critico, hanno il 15% di probabilità di ripristinare il 3% dei PF massimi.</span> | <span style="color: #645252;font-size:20px"><6> ATT +7%, DIF Emblema sacro +16</span> | 
-  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> ATT +5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate infliggono un colpo critico, hanno il 25% di probabilità di ripristinare il 3% dei PF massimi.</span> | <span style="color: #645252;font-size:20px"><6> ATT +15%, DIF Emblema sacro +30</span> | 
-  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> ATT +1%, DIF Emblema sacro +2</span> | <span style="color: #645252;font-size:20px"><4> Quando le unità schierate infliggono un colpo critico, hanno il 10% di probabilità di ripristinare il 3% dei PF massimi.</span> | <span style="color: #645252;font-size:20px"><6> ATT +2%, DIF Emblema sacro +6</span> | 
+  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +10%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate infliggono un colpo critico, hanno il 30% di probabilità di ripristinare il 5% dei PF massimi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +20%, DIF Emblema sacro +55</span> | 
+  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +3%, DIF Emblema sacro +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate infliggono un colpo critico, hanno il 15% di probabilità di ripristinare il 3% dei PF massimi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +7%, DIF Emblema sacro +16</span> | 
+  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate infliggono un colpo critico, hanno il 25% di probabilità di ripristinare il 3% dei PF massimi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +15%, DIF Emblema sacro +30</span> | 
+  | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +1%, DIF Emblema sacro +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate infliggono un colpo critico, hanno il 10% di probabilità di ripristinare il 3% dei PF massimi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +2%, DIF Emblema sacro +6</span> | 
 
   |         Description            | 
   |:-------------------------------|

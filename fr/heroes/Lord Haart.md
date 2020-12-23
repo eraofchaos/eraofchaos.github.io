@@ -3,7 +3,7 @@ title: "Seigneur Haart"
 permalink: /fr/heroes/Lord Haart/
 excerpt: "Le Seigneur Haart est mort, et il a ressuscité. Aujourd'hui général de l'armée des Non-Morts, il possède des pouvoirs encore plus grands que de son vivant."
 heroID: 60401
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Lord Haart"
 toc: true

@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /es/heroes/Yog/
 excerpt: "Yog lleva muchos años estudiando con las Magas de Bracada, pero prefiere la estrategia militar a las runas mágicas. Posteriormente, el Duque de Krewlod se dio cuenta de su talento y lo convirtió en un general destacado del ejército bárbaro."
 heroID: 60604
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: es
 ref: "Yog"
 toc: true

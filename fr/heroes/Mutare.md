@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /fr/heroes/Mutare/
 excerpt: "Seigneur Nighon depuis peu, Mutare possède la capacité innée de commander les dragons, ce qui la rend quasi invincible sur le champ de bataille."
 heroID: 61301
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Mutare"
 toc: true

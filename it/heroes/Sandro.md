@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /it/heroes/Sandro/
 excerpt: "Sandro è un negromante che ha esplorato ogni angolo di Enroth e dell'Erathia. Attualmente combatte per Finneas Vilmar, Signore dei negromanti di Deyja."
 heroID: 60501
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Sandro"
 toc: true

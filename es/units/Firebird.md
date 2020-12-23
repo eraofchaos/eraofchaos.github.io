@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /es/units/Firebird/
 excerpt: "Unidades El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Pájaro Ígneo"
 toc: true

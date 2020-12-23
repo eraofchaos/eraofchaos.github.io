@@ -3,7 +3,7 @@ title: "Segugio infernale"
 permalink: /it/units/Hell Hound/
 excerpt: "Unità I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio."
 unitID: 503
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Segugio infernale"
 toc: true

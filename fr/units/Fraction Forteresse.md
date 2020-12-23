@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Forteresse -  Units"
 permalink: /fr/units/Fraction Forteresse/
 excerpt: "Fraction Forteresse - List of Units in Era of Chaos"
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: fr
 ref: "Fraction Forteresse"
 toc: false

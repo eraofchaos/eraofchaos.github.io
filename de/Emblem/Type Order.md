@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Rechtschaffen"
 permalink: /de/Emblem/Type Order/
 excerpt: "Heiliges Emblem - Rechtschaffen"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: de
 ref: "typeRechtschaffen.md"
 toc: false

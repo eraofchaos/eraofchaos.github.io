@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /it/units/Gnoll/
 excerpt: "Unità Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Gnoll"
 toc: true

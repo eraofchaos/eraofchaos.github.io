@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ключ меча и магии"
 permalink: /ru/Emblem/Stone Key to the Gates/
 excerpt: "Эмблема святости - Нейтральный - Ключ меча и магии"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Stone Key to the Gates.md"
 toc: false
@@ -17,10 +17,10 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +2, ЗЩТ +0.1%</span> | <span style="color: #645252;font-size:20px"><4> При атаке целей под воздействием кровотечения урон отряда увеличивается на 3%</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +6, ЗЩТ +0.2%</span> | 
-  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +13, ЗЩТ +0,5%</span> | null | null | 
-  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +6, ЗЩТ +0,3%</span> | <span style="color: #645252;font-size:20px"><4> Урон отряда увеличивается на 1,5%. При атаке целей с кровотечением урон отряда увеличивается еще на 4,5%.</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +16, ЗЩТ +0,7%</span> | 
-  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px"><2> эмблема святости АТК +20, ЗЩТ +1%</span> | <span style="color: #645252;font-size:20px"><4> Урон отряда увеличивается на 5%. При атаке целей с кровотечением сопротивление урону отряда увеличивается на 15%.</span> | <span style="color: #645252;font-size:20px"><6> эмблема святости АТК +55, ЗЩТ +2%</span> | 
+  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ЗЩТ +0.1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При атаке целей под воздействием кровотечения урон отряда увеличивается на 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ЗЩТ +0.2%</span> | 
+  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ЗЩТ +0,5%</span> | null | null | 
+  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ЗЩТ +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Урон отряда увеличивается на 1,5%. При атаке целей с кровотечением урон отряда увеличивается еще на 4,5%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ЗЩТ +0,7%</span> | 
+  | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +20, ЗЩТ +1%</span> | null | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ЗЩТ +2%</span> | 
 
   |         Description            | 
   |:-------------------------------|

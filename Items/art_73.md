@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Staff of Wisdom"
 permalink: /Items/art_73/
 excerpt: " Staff of Wisdom"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_73.md"
 toc: false

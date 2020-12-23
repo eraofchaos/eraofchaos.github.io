@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Surcoat of Counterpoise"
 permalink: /Items/art_45/
 excerpt: " Surcoat of Counterpoise"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "art_45.md"
 toc: false

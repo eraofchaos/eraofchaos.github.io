@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /it/heroes/Ezio/
 excerpt: "Pur disperso in un mondo sconosciuto, Ezio non perde di vista le proprie convinzioni. Continua ad agire nell'ombra per servire la luce."
 heroID: 61901
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: it
 ref: "Ezio"
 toc: true

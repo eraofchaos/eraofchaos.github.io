@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /es/units/Judicator/
 excerpt: "Unidades Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: es
 ref: "Adjudicadora"
 toc: true

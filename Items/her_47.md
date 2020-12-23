@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Hypnotize"
 permalink: /Items/her_47/
 excerpt: " Hypnotize"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_47.md"
 toc: false

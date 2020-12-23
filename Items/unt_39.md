@@ -2,7 +2,7 @@
 title: "Item - Units -  Gnoll"
 permalink: /Items/unt_39/
 excerpt: " Gnoll"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_39.md"
 toc: false

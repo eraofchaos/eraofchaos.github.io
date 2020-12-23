@@ -2,7 +2,7 @@
 title: "Formation de combat Château"
 permalink: /fr/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Formation de combat Château"
-last_modified_at: 2020-12-01
+last_modified_at: 2020-12-23
 lang: fr
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -31,9 +31,9 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **20** x [Lancier](/fr/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | Dégâts d'unité + **0.3** % | 150 |  **10** x [Lancier](/fr/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Castle - A Strike Hit | Précision + **6**  | 150 |  **20** x [Lancier](/fr/units/Pikeman) |
+  | 3 | Castle - A Strike Hit | Précision + **6**  | 150 |  **10** x [Lancier](/fr/units/Pikeman) |
   | 4 | Castle - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
   | 5 | Castle - Ingeniousness | Esquive + **6**  | 150 |  **10** x [Lancier](/fr/units/Pikeman) |
   | 6 | Castle - Physical Trials | PV + **0.9** % | 70 |   |

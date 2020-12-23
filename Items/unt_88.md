@@ -2,7 +2,7 @@
 title: "Item - Units -  Energy Elemental Soul Stone"
 permalink: /Items/unt_88/
 excerpt: " Energy Elemental Soul Stone"
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: en
 ref: "unt_88.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /it/heroes/Mullich/
 excerpt: "L'autocontrollo e la disciplina di Sir Mullich sono ormai leggendari. Le sue truppe sono note per la loro velocità fulminea, risultato delle sue speciali tattiche di addestramento."
 heroID: 60101
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: it
 ref: "Mullich"
 toc: true

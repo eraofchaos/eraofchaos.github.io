@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Mutare"
 permalink: /Items/her_5/
 excerpt: " Mutare"
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-23
 lang: en
 ref: "her_5.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /it/units/Demon/
 excerpt: "Unità I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: it
 ref: "Demone"
 toc: true

@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Maligno"
 permalink: /es/Emblem/Type Evil/
 excerpt: "Emblema Sagrado - Maligno"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: es
 ref: "typeMaligno.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Chaos"
 permalink: /Emblem/Type Chaos/
 excerpt: "Holy Emblem - Chaos"
-last_modified_at: 2020-12-14
+last_modified_at: 2020-12-23
 lang: en
 ref: "typeChaos.md"
 toc: false
