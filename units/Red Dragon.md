@@ -8,9 +8,6 @@ lang: en
 ref: "Red Dragon"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
  **Description:** It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity.
 

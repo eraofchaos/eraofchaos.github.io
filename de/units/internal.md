@@ -22,6 +22,5 @@ classes: wide
   | 5 | [Infamous](/de/units/Infamous/) | Abwehr | - | UR | Unknown: 4 (4). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |
   | 6 | [Mantis](/de/units/Mantis/) | Offensiv | - | UR | Unknown: 4 (3). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1140.4 | 6336 |  bileizhihuiguan  |
   | 7 | [Richterin](/de/units/Judicator/) | Zauberer | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |  shenpanguan  |
-  | 8 | [Roter Drache](/de/units/Red Dragon/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |  honglong  |
-  | 9 | [Wespenwurz](/de/units/Waspwort/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |
-  | 10 | [Wicked Lady](/de/units/Wicked Lady/) | Ansturm | - | UR | Unknown: 4 (7). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |  dixiachengzhihuiguan  |
+  | 8 | [Wespenwurz](/de/units/Waspwort/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |
+  | 9 | [Wicked Lady](/de/units/Wicked Lady/) | Ansturm | - | UR | Unknown: 4 (7). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |  dixiachengzhihuiguan  |

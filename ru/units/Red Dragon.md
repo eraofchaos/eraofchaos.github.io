@@ -8,9 +8,6 @@ lang: ru
 ref: "Красный дракон"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
  **Description:** Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов.
 
