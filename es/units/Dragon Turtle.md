@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
  **Recommend:** Potente función de tanque, absorbe daño en favor de las unidades aliadas.
 
  **Info:** Defensor potente. Recupera PV al morir.

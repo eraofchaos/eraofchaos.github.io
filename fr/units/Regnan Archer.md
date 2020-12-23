@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Coups critiques et pénétration. Sème la destruction.
 
 ## Basic stats

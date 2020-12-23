@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
  **Recommend:** Powerful tank, takes damage for allied units.
 
  **Info:** Powerful defender. Restores HP after dying

@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /ru/units/Angel/
 excerpt: "Отряды Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Ангел"
 toc: true
@@ -24,8 +24,6 @@ toc: true
  **Rank:** SSR
 
  **Unit description:** Порицание: наносит огромный урон 3 отрядам и оглушает их.
-
- **Recommend:** null
 
  **Info:** null
 

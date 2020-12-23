@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Unité de DPS efficace pour contrôler. Invoque des unités pour détruire les ennemis.
 
 ## Basic stats

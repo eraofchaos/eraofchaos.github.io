@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Betäubt alle Feinde in Reichweite, tödliche Spucke, sehr robust.
 
 ## Basic stats

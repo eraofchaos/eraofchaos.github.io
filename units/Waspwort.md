@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** DPS unit proficient at control. Summons units to destroy enemies
 
 ## Basic stats

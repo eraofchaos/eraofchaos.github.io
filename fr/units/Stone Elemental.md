@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Étourdit tout le monde à portée. Lance Crachat mortel. Possède une résistance élevée.
 
 ## Basic stats

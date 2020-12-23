@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Multi-staged attack, high burst damage, high DPS
 
  **Info:** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.

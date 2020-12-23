@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Decomposizione: riduce notevolmente le cure delle unità nemiche.
 
- **Recommend:** null
-
  **Info:** Portatore di malattie. Riduce la guarigione delle unità nemiche.
 
 ## Basic stats

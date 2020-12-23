@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Puissant guérisseur. Donne d'excellents bonus en début de combat.
 
 ## Basic stats

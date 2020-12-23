@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Maldición de putrefacción: Reduce la curación de los enemigos mucho
 
- **Recommend:** null
-
  **Info:** Portador de enfermedades. Reduce la curación de todas las unidades hostiles.
 
 ## Basic stats

@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Fernkampfschaden, reduziert bei Tod das gegnerische Mana, Standardangreifer.
 
 ## Basic stats

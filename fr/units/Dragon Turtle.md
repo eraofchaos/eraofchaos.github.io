@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
  **Recommend:** Un puissant tank qui encaisse les dégâts à la place de ses alliés.
 
  **Info:** Puissant défenseur. Restaure des PV à sa mort.

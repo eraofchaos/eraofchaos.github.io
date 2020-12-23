@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Assassination damage, weakens healing, throws knives, and silences enemies.
 
 ## Basic stats

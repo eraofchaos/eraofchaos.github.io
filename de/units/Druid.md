@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Wald-Chronosphäre: Einheiten im magischen Kreis sind immun gegen Magieschaden.
 
- **Recommend:** null
-
  **Info:** Unterstützt Truppen in der hinteren Reihe, erhöht den Schaden verbündeter Einheiten und bietet Immunität gegen Magieschaden.
 
 ## Basic stats

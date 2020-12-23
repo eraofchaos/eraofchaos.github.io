@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Kritischer Treffer und Durchdringung. Tödlicher Kämpfer.
 
 ## Basic stats

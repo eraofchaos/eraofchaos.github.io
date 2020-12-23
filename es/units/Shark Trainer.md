@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Invoca poderosos tiburones que se hacen más fuertes a medida que pelean, lo que les permite destrozar a sus rivales.
 
 ## Basic stats

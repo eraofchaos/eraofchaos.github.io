@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Fluch der Verwesung: Reduziert die gegnerische Heilung enorm.
 
- **Recommend:** null
-
  **Info:** Krankheitsüberträger. Reduziert die Heilung aller gegnerischen Einheiten.
 
 ## Basic stats

@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Infligge <Combustione>, causa esplosioni sul campo di battaglia, sconfiggere i nemici aumenta la sua forza.
 
 ## Basic stats

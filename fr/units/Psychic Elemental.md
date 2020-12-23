@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Dégâts à distance. Réduit le mana ennemi en mourant. Attaquant de base.
 
 ## Basic stats

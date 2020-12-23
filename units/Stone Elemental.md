@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Stuns everyone within range, Deadly Split, High toughness
 
 ## Basic stats

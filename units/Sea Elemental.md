@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
  **Recommend:** Powerful crowd control, great restoration
 
  **Info:** Strong battle controller. Constantly weakens enemies

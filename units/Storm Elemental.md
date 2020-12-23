@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Static Marker, Extra damage, Multiple attacks on a single target
 
 ## Basic stats

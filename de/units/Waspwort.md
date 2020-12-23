@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** DPS-Einheit, die Kontrolle bietet. Beschwört Einheiten und hetzt sie auf den Feind.
 
 ## Basic stats

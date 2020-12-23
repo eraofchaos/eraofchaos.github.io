@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Los golpes de escudo aturden a los enemigos. La muerte de una unidad inspira a los aliados.
 
 ## Basic stats

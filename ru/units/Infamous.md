@@ -3,7 +3,7 @@ title: "Unknown_TEAM_509"
 permalink: /ru/units/Infamous/
 excerpt: "Отряды "
 unitID: 509
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Unknown_TEAM_509"
 toc: true
@@ -25,10 +25,6 @@ toc: true
  **Members:** Unknown: 4 (4).
 
  **Rank:** UR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** 
 

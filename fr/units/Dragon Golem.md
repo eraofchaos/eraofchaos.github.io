@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Protection de groupe en début de combat qui réduit les dégâts subis. La défense ultime et indestructible de la ligne arrière. Contrôle à distance et intimide toutes les unités sur le champ de bataille.
 
 ## Basic stats

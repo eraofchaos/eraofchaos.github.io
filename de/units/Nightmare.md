@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Abwehrunterstützung. Erhöht die allgemeine Stärke von Inferno-Einheiten.
 
 ## Basic stats

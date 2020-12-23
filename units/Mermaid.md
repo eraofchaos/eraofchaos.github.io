@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Strong healer. Offers great buffs at the start of battle
 
 ## Basic stats

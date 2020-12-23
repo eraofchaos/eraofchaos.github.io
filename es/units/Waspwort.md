@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Unidad DPS que domina el control. Invoca unidades para destruir los enemigos.
 
 ## Basic stats

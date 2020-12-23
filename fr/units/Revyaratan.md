@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Attaque en plusieurs phases. Dégâts directs et DPS élevés.
 
  **Info:** Inflige constamment de très lourds dégâts. Décourage les ennemis et dévore les corps pour potentiellement restaurer ses PV.

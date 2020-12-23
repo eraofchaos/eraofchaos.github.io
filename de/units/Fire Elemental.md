@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Verursacht Verbrennung, lässt das gesamte Schlachtfeld explodieren, wird stärker, wenn Feinde fallen.
 
 ## Basic stats

@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Reduziert die gegnerische Moral. Verursacht hohen Schaden und kann Einheiten auf einen Streich töten. Macht Verbündete in der Domäne unbesiegbar.
 
 ## Basic stats

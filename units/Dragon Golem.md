@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
 
 ## Basic stats

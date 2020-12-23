@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Golpe crítico y penetración. Segador de batalla
 
 ## Basic stats

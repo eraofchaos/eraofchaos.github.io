@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Otorga quemaduras, vuela por los aires todo el campo de batalla, se amplifica al matar enemigos.
 
 ## Basic stats

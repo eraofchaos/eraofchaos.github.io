@@ -3,7 +3,7 @@ title: "Повелитель акул"
 permalink: /ru/units/Shark Trainer/
 excerpt: "Отряды Повелитель акул"
 unitID: 9909
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Повелитель акул"
 toc: true
@@ -25,10 +25,6 @@ toc: true
  **Members:** x1
 
  **Rank:** SSR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Призыв гигантских акул, набор сил и добивание
 

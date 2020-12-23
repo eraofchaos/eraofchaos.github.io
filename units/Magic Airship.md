@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
 
 ## Basic stats

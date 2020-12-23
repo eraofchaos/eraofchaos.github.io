@@ -3,7 +3,7 @@ title: "Unknown_TEAM_9905"
 permalink: /ru/units/Mermaid/
 excerpt: "Отряды null"
 unitID: 9905
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Unknown_TEAM_9905"
 toc: true
@@ -22,10 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Сильный целитель. В начале боя дает значительное усиление.
 

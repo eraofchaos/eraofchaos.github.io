@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Magierunterstützung. Erhöht Angriffstempo von Zauberer-Einheiten und lässt gegnerische Angreifer erstarren.
 
 ## Basic stats

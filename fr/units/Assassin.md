@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Inflige des dégâts d'assassinat, affaiblit les soins, lance des couteaux et réduit les ennemis au silence.
 
 ## Basic stats

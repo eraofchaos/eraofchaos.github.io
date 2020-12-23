@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
  **Recommend:** Tank, subisce i danni diretti alle unità alleate.
 
  **Info:** Difensore eccezionale. Ripristina PF quando muore.

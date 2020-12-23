@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Maga de control, cubre todo de hielo, muro de hielo de apoyo.
 
 ## Basic stats

@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Malédiction putride : réduit grandement l'efficacité des soins ennemis.
 
- **Recommend:** null
-
  **Info:** Porteur de maladie. Réduit les soins de toutes les unités ennemies.
 
 ## Basic stats

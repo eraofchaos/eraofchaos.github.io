@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Crushing shield stuns enemies. Death of a unit inspires allies.
 
 ## Basic stats

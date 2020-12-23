@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Mehrstufiger Angriff, hohe Schadensspitzen, hoher DPS.
 
  **Info:** Läuft zu Beginn der Schlacht Amok. Starker DPS. Reduziert die gegnerische ABW.

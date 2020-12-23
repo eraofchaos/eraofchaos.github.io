@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
  **Recommend:** Mächtige Massenkontrolle, großartige Heilung.
 
  **Info:** Starke Kontrolle in der Schlacht. Schwächt Gegner durchgehend.

@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
- **Recommend:** null
-
  **Info:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
 ## Basic stats

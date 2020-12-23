@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /ru/units/Mantis/
 excerpt: "Отряды null"
 unitID: 209
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Mantis"
 toc: true
@@ -25,10 +25,6 @@ toc: true
  **Members:** Unknown: 4 (3).
 
  **Rank:** UR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** null
 

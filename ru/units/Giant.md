@@ -3,7 +3,7 @@ title: "Гигант"
 permalink: /ru/units/Giant/
 excerpt: "Отряды null"
 unitID: 607
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Гигант"
 toc: true
@@ -24,8 +24,6 @@ toc: true
  **Rank:** SSR
 
  **Unit description:** Бог войны: игнорирует ограничение дальности и наносит урон в зависимости от здоровья
-
- **Recommend:** null
 
  **Info:** Наносит магический урон всем врагам. Заклинания героев усиливают атаку.
 

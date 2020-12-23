@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Colpi critici e Perforazione. Fa strage di nemici.
 
 ## Basic stats

@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Ranged damage, Reduces enemy mana upon death, Core attacker
 
 ## Basic stats

@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Daño a distancia, reduce el maná del enemigo al morir, atacante básico
 
 ## Basic stats

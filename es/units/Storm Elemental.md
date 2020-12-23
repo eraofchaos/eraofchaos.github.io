@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Marcador de estática, daño adicional, ataques múltiples contra un solo objetivo.
 
 ## Basic stats

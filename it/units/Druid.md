@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Cronosfera silvana: le unità all'interno del circolo sono immuni ai danni magici.
 
- **Recommend:** null
-
  **Info:** Supporta le unità nelle retrovie, aumenta i DPS delle unità alleate e rende immuni ai danni magici.
 
 ## Basic stats

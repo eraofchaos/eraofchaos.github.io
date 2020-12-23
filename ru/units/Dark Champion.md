@@ -3,7 +3,7 @@ title: "Чемпион Тьмы"
 permalink: /ru/units/Dark Champion/
 excerpt: "Отряды Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Чемпион Тьмы"
 toc: true
@@ -25,10 +25,6 @@ toc: true
  **Members:** x1
 
  **Rank:** UR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Снижает боевой дух врага. Наносит высокий урон и моментально уничтожает отряды. Делает все союзные отряды в области действия неуязвимыми.
 

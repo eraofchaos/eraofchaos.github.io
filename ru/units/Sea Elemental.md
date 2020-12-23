@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /ru/units/Sea Elemental/
 excerpt: "Отряды null"
 unitID: 9903
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Элементаль Моря"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x9
 
  **Rank:** R
-
- **Unit description:** null
 
  **Recommend:** Эффективное сдерживание толпы, мощное восстановление.
 

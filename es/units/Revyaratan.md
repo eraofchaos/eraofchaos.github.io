@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Ataque multifase, mucho daño rápido, DPS elevado.
 
  **Info:** Inflige muchísimo daño constante, desalienta a los enemigos y tiene cierta probabilidad de recuperar PV al devorar cuerpos.

@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
  **Recommend:** Excellentes capacités d'entrave et très bonne restauration.
 
  **Info:** Puissant contrôle de combat. Affaiblit constamment les ennemis.

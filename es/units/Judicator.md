@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Aura de grupo que se usa para recuperar PV. El aura protege contra el daño. La tierra sagrada fortalece a tus aliados
 
 ## Basic stats

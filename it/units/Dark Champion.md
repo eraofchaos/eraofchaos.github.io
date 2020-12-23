@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Riduce il morale nemico. Infligge danni ingenti e può uccidere istantaneamente i nemici. Rende invincibili gli alleati nella propria Aura.
 
 ## Basic stats

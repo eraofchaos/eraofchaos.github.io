@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Chromosphère sylvestre : immunise les unités situées dans son cercle magique contre les dégâts magiques.
 
- **Recommend:** null
-
  **Info:** Soutient les troupes de la ligne arrière, améliore les DPS des unités alliées et immunise contre les dégâts magiques.
 
 ## Basic stats

@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
  **Recommend:** Potente control de masas, gran restauración.
 
  **Info:** Potente controlador de batalla. Debilita a los enemigos constantemente.

@@ -3,7 +3,7 @@ title: "Unknown_TEAM_508"
 permalink: /ru/units/Nightmare/
 excerpt: "Отряды Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Unknown_TEAM_508"
 toc: true
@@ -22,10 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Поддержка защиты. Делает отряды Инферно сильнее.
 
@@ -101,7 +97,7 @@ toc: true
 
  3. 
 
- 4. 
+ 4. null
 
 ## Awaken Skills
 

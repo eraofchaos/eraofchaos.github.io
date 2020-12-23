@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Invoquez de puissants requins qui deviennent de plus en plus puissants au fil de la bataille, et capables de mettre en pièces leurs adversaires.
 
 ## Basic stats

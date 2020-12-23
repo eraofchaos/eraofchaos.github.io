@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** <Stordisce> tutte le unità circostanti, <Scissione mortale>, resistenza elevata.
 
 ## Basic stats

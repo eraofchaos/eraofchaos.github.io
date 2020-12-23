@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Kontroll-Magier, überzieht alles mit Eis, unterstützende Eismauer.
 
 ## Basic stats

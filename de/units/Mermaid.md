@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Starker Heiler. Bietet zu Beginn der Schlacht mächtige Buffs.
 
 ## Basic stats

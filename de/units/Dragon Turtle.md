@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
  **Recommend:** Robuster Tank, der Schaden für verbündete Einheiten einsteckt.
 
  **Info:** Mächtiger Verteidiger. Stellt nach dem Tod LP wieder her.

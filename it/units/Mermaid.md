@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Guaritore eccezionale. Applica potenti buff a inizio battaglia.
 
 ## Basic stats

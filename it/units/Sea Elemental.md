@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
  **Recommend:** Eccellente controllo, rigenerazione elevata.
 
  **Info:** Controlla il flusso della battaglia. Indebolisce costantemente i nemici.

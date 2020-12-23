@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Attentat-Schaden, schwächt Heilung, wirft Messer, lässt Ziele verstummen.
 
 ## Basic stats

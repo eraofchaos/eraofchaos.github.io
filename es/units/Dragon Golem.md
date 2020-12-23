@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** La protección de grupo al principio de la batalla reduce el daño recibido. Defensa de retaguardia definitiva e invencible. Control a distancia; intimida a todas las unidades en el campo de batalla.
 
 ## Basic stats

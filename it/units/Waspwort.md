@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Unità DPS in grado di controllare i nemici. Evoca unità per fare strage di avversari.
 
 ## Basic stats

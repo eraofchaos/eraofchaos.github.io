@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Explose en mourant, inflige Silence, augmente le mana de départ des Héros.
 
 ## Basic stats

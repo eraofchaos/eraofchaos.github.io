@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Gruppenaura, die LP wiederherstellt und gegen Schaden schützt. Heiliger Boden verstärkt deine Verbündeten.
 
 ## Basic stats

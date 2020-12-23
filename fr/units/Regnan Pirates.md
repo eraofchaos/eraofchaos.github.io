@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Attaque en plusieurs phases. Dégâts directs et DPS élevés.
 
  **Info:** Fait un carnage en début de combat. DPS élevés. Réduit la DÉF des ennemis.

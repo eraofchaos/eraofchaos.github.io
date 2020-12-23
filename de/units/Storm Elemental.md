@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Statische Markierung, zusätzlicher Schaden, mehrere Angriffe auf ein Ziel.
 
 ## Basic stats

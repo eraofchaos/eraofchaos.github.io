@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Soutient les Mages. Augmente la vitesse d'ATQ des Lanceurs de sorts et gèle les attaques des ennemis.
 
 ## Basic stats

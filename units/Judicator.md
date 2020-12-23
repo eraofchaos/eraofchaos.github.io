@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
 
 ## Basic stats

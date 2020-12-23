@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Cronosfera forestal: Las unidades en el círculo mágico son inmunes al daño mágico
 
- **Recommend:** null
-
  **Info:** Apoya a las tropas de retaguardia, aumenta el DPS de las unidades aliadas y otorga inmunidad al daño mágico.
 
 ## Basic stats

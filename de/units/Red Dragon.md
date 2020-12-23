@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Der Drache brüllt, was immun gegen Statuskontrolle macht. Das Blut des wahren Drachen wirkt auf seine Brüder.
 
 ## Basic stats

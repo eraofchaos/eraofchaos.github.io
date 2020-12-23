@@ -3,7 +3,7 @@ title: "Регнанские пираты"
 permalink: /ru/units/Regnan Pirates/
 excerpt: "Отряды Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда."
 unitID: 9901
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Регнанские пираты"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
 
  **Recommend:** Атака из нескольких ударов, высокий урон от взрыва, большой УВС.
 

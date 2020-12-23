@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Apoyo de defensa. Aumenta el Poder general de las unidades del Infierno.
 
 ## Basic stats

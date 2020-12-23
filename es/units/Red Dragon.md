@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** El Dragón ruge, volviéndose inmune a los controles de estado. La verdadera sangre del Dragón resuena con el resto de su raza.
 
 ## Basic stats

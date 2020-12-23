@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Le puissant bouclier étourdit les ennemis. La mort d'une unité renforce les alliés.
 
 ## Basic stats

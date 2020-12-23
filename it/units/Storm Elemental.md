@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Marchio folgorante, danno extra, attacchi multipli su un singolo bersaglio.
 
 ## Basic stats

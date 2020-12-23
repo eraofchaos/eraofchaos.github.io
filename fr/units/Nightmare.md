@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Soutient les unités de défense. Améliore la puissance des unités de l'Hadès.
 
 ## Basic stats

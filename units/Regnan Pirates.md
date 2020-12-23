@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Multi-staged attack, high burst damage, high DPS
 
  **Info:** Rampages at the beginning. Strong DPS. Decreases enemies' DEF

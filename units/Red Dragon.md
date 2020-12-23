@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
 
 ## Basic stats

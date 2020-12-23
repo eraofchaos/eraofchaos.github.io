@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Aura de groupe qui sert à restaurer les PV. L'aura protège contre les dégâts. Le sol sacré renforce vos alliés.
 
 ## Basic stats

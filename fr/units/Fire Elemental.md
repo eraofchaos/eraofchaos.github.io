@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Inflige Brûlure. Explose le champ de bataille entier. Se renforce en tuant des ennemis.
 
 ## Basic stats

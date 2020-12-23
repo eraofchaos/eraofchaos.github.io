@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Il ruggito del Drago rende immuni agli effetti di controllo. Il sangue di Drago risuona con quello dei suoi simili.
 
 ## Basic stats

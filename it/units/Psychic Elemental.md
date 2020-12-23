@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Danno a distanza, riduce il mana nemico quando muore, fondamentale in attacco
 
 ## Basic stats

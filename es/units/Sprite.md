@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Explota al morir, silencia al objetivo y aumenta el maná de Héroe inicial.
 
 ## Basic stats

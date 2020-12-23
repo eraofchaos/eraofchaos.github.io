@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Mehrstufiger Angriff, hohe Schadensspitzen, hoher DPS.
 
  **Info:** Verursacht durchgehend brutalen Schaden, schreckt Feinde ab und verschlingt zufällig Leichen, um LP wiederherzustellen.

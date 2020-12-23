@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Attacco a più fasi, danno istantaneo elevato, DPS elevati.
 
  **Info:** Infligge danni ingenti costantemente, applica <Impedimento> e si nutre di cadaveri per recuperare PF.

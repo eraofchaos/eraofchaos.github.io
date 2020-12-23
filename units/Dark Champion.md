@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
 ## Basic stats

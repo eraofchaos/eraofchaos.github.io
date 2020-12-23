@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Aturde a todos los que se encuentren dentro del alcance, División letal, dureza alta.
 
 ## Basic stats

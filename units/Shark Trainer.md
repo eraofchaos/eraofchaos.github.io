@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
 
 ## Basic stats

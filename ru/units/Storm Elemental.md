@@ -3,7 +3,7 @@ title: "Unknown_TEAM_902"
 permalink: /ru/units/Storm Elemental/
 excerpt: "Отряды null"
 unitID: 902
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Unknown_TEAM_902"
 toc: true
@@ -22,10 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Помечает цель, наносит дополнительный урон, производит серию атак по одиночной цели.
 
@@ -96,7 +92,7 @@ toc: true
  **Awaking Description:** Там, где вечно грохочет гром и сверкает молния, элементалям Шторма была поручено задание, выполнить которое способны лишь обитатели Астрального мира - использовать силу молний и накрыть ураганом целый континент!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Шторма и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> стрелковых отрядов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Шторма, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Захватите город в подземелье Похода гильдии </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз.</span>
 

@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /ru/units/Serpent Fly/
 excerpt: "Отряды Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Летучий змей"
 toc: true
@@ -24,8 +24,6 @@ toc: true
  **Rank:** SR
 
  **Unit description:** 
-
- **Recommend:** null
 
  **Info:** Отряды заклинателей - эксперты контроля. Уменьшает УВС врага.
 
@@ -96,7 +94,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

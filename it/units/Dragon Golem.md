@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Protezione ad area all'inizio della battaglia, che riduce i danni subiti. L'unità di difesa definitiva per le retrovie. Controllo a distanza, intimidisce tutte le unità in campo.
 
 ## Basic stats

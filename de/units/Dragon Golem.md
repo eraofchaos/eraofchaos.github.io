@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Gruppenschutz bei Kampfbeginn verringert den erlittenen Schaden. Ultimative und unschlagbare Verteidigung für die hintere Reihe. Kontrolle über Entfernung, schüchtert alle Einheiten auf dem Schlachtfeld ein.
 
 ## Basic stats

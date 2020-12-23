@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Inflige statique, des dégâts supplémentaires, et des attaques multiples sur une cible unique.
 
 ## Basic stats

@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Un'Aura in grado di ripristinare PF a gruppi di unità. L'Aura protegge dai danni. Il terreno sacro potenzia i tuoi alleati.
 
 ## Basic stats

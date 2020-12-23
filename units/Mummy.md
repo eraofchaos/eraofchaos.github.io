@@ -25,8 +25,6 @@ toc: true
 
  **Unit description:** Decaying Curse: Greatly decreased enemies' healing
 
- **Recommend:** null
-
  **Info:** Disease carrier. Decreases healing of all hostile units
 
 ## Basic stats

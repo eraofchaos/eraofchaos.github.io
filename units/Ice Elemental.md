@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Controlling Mage, Coats everything in ice, Supporting ice wall
 
 ## Basic stats

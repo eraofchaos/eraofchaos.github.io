@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Mage de contrôle. Recouvre tout sous la glace. Mur de glace de soutien.
 
 ## Basic stats

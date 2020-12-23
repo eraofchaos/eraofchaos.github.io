@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
 ## Basic stats

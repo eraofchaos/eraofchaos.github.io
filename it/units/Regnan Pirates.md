@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Attacco a più fasi, danno istantaneo elevato, DPS elevati.
 
  **Info:** Si scatena a inizio battaglia. DPS elevati. Riduce la DIF nemica.

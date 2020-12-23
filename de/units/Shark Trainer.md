@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Beschwöre mächtige Haie, die stärker werden, je länger sie in der Schlacht sind, sodass sie ihre Gegner zerreißen können.
 
 ## Basic stats

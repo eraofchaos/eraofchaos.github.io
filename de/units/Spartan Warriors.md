@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Schildschlag betäubt Ziele. Tod einer Einheit inspiriert Verbündete.
 
 ## Basic stats

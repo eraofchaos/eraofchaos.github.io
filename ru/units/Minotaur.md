@@ -3,7 +3,7 @@ title: "Минотавр"
 permalink: /ru/units/Minotaur/
 excerpt: "Отряды null"
 unitID: 705
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Минотавр"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 

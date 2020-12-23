@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Le Dragon rugit, ce qui l'immunise aux prises de contrôle. Le sang du dragon véritable résonne chez les autres membres de son espèce.
 
 ## Basic stats

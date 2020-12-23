@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Esplode quando muore, causa <Silenzio> e aumenta il mana iniziale degli eroi.
 
 ## Basic stats

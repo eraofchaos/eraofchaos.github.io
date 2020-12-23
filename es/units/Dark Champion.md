@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** UR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Reduce la moral de los enemigos. Inflige mucho daño y mata a las unidades al instante. Hace invencibles a los aliados en el dominio.
 
 ## Basic stats

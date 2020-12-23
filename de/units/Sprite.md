@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Explodiert beim Tod, lässt Ziel verstummen, erhöht Anfangsmana des Helden.
 
 ## Basic stats

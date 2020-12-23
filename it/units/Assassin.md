@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Danno da assassinio, riduce la guarigione, lancia coltelli e causa <Silenzio>.
 
 ## Basic stats

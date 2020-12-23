@@ -3,7 +3,7 @@ title: "Горгона"
 permalink: /ru/units/Gorgon/
 excerpt: "Отряды Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
 unitID: 805
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-23
 lang: ru
 ref: "Горгона"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x1
 
  **Rank:** SSR
-
- **Unit description:** null
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 

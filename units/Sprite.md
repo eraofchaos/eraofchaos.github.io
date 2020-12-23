@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** R
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Explodes on death, Silences target, Increases hero starting mana
 
 ## Basic stats

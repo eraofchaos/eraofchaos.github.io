@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Mago con abilità di controllo. Ricopre tutto di ghiaccio. Erige mura difensive di ghiaccio.
 
 ## Basic stats

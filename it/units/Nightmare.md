@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Supporto difensivo. Rende più potenti le unità Inferno.
 
 ## Basic stats

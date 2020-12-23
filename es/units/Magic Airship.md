@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Apoyo de Maga. Aumenta la velocidad de ataque de las unidades lanzahechizos y congela los ataques de los enemigos.
 
 ## Basic stats

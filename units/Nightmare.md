@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Defense support. Increases Inferno units' all-round power
 
 ## Basic stats

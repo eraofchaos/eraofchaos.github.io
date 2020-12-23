@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Sanadora potente. Otorga grandes ventajas al inicio de la batalla.
 
 ## Basic stats

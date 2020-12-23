@@ -26,10 +26,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Evoca Squali che diventano via via più forti con il proseguire del combattimento per decimare i propri avversari.
 
 ## Basic stats

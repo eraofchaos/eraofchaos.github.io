@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Supporto magico. Aumenta la Vel ATT degli incantatori e blocca gli attacchi nemici.
 
 ## Basic stats

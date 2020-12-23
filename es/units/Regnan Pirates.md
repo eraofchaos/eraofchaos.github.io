@@ -23,8 +23,6 @@ toc: true
 
  **Rank:** SR
 
- **Unit description:** null
-
  **Recommend:** Ataque multifase, mucho daño rápido, DPS elevado.
 
  **Info:** Usa Destrozo al inicio. DPS potente. Reduce la DEF de los enemigos.

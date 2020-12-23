@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Daño de asesinato, debilita la curación, lanza cuchillos y silencia a los enemigos.
 
 ## Basic stats

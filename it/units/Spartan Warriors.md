@@ -23,10 +23,6 @@ toc: true
 
  **Rank:** SSR
 
- **Unit description:** null
-
- **Recommend:** null
-
  **Info:** Gli attacchi con lo scudo <stordiscono> i nemici. La morte di un'unità potenzia i suoi alleati.
 
 ## Basic stats
