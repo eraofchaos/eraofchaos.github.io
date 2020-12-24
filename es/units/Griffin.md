@@ -3,7 +3,7 @@ title: "Grifo"
 permalink: /es/units/Griffin/
 excerpt: "Unidades Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Grifo"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
-### 1 Skill: Contraataque en picado
+### Habilidad definitiva: Contraataque en picado
  **Description:** <span style="color: #645252;font-size:20px">Cuando se ataca a los Grifos, estos tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades (el ataque normal tiene una probabilidad de activar Picado).</span><span style="color: black">
 
-### 2 Skill: Torre del comandante
+### Habilidad normal 1 : Torre del comandante
  **Description:** <span style="color: #645252;font-size:20px">Cuando los Grifos están en el campo de batalla, el ATQ de todas tus unidades voladoras aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y su velocidad de ataque, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Carga gloriosa
+### Habilidad normal 2 : Carga gloriosa
  **Description:** <span style="color: #645252;font-size:20px">Cuando las unidades de Grifos tengan </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">, obtienen 30 de velocidad de movimiento adicional. Aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> el daño de unidad y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> puntos el valor de golpe crítico durante 15 s.</span><span style="color: black">
 
-### 4 Skill: Arcángel
+### Habilidad normal 3 : Arcángel
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Grifo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga un 10% de PV adicionales a los Grifos por cada unidad voladora amistosa en el campo de batalla.</span><span style="color: black">
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ## Talent

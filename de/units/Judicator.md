@@ -3,7 +3,7 @@ title: "Richterin"
 permalink: /de/units/Judicator/
 excerpt: "Einheiten Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Richterin"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
-### 1 Skill: Strahl des Gerichts
+### Ultimative Fähigkeit: Strahl des Gerichts
  **Description:** <span style="color: #645252;font-size:20px">Die Richterin beschwört alle 25 Sek. 2 Strahlen des Gerichts. Wenn diese erscheinen, <span style="color: #48b946;font-size:20px">„betäuben“</span><span style="color: black"> sie gegnerische Einheiten in Reichweite 1 Sek. lang, und sie fügen ihnen <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)} %</span><span style="color: black"> der max. LP als Schaden zu und reduzieren ihre Heilung 8 Sek. lang um <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %.</span><span style="color: black"></span><span style="color: black">
 
-### 2 Skill: Segen
+### Gewöhnliche Fähigkeit 1 : Segen
  **Description:** <span style="color: #645252;font-size:20px">Sobald sie das Schlachtfeld betritt, wirkt die Richterin 10 Sek. lang <span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"> auf alle verbündeten Einheiten. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Die Richterin wirkt alle <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> Sek. für 10 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle Verbündeten in ihrem Weg.</span><span style="color: black">
 
-### 3 Skill: Segen des Lichts
+### Gewöhnliche Fähigkeit 2 : Segen des Lichts
  **Description:** <span style="color: #645252;font-size:20px">Wenn die LP einer verbündeten Einheit zum ersten Mal unter 25 % fallen, wirkt die Richterin <span style="color: #48b946;font-size:20px">&lt;Schutz des Lichts&gt;</span><span style="color: black">, um ihre Gefährten <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> Sek. lang zu beschützen. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gegen Inferno-Einheiten erhält die Richterin zusätzliche 30 % SCHD (Einheit) und 50 % SCHD-Reduzierung (Einheit).</span><span style="color: black">
 
-### 4 Skill: null
+### Gewöhnliche Fähigkeit 3 : null
  **Description:** 
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 7 Skill: Schein der Theokratie
+### Gewöhnliche Fähigkeit 6 : Schein der Theokratie
  **Description:** <span style="color: #645252;font-size:20px">Wenn sich 3 Schloss-Einheiten auf dem Schlachtfeld befinden, erhöht die Richterin ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren eigenen Wert für Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn die Richterin den Status <span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"> hat, kann sie eine <span style="color: #F0F000;font-size:20px">&lt;Theokratische Domäne&gt;</span><span style="color: black"> enthüllen, deren Wirkungsbereich mit der Einheitenstufe steigt. Die Domäne besteht 15 Sek, lang. AKZ: 30 Sek.</span><span style="color: black">
 
 ## Talent

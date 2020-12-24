@@ -3,7 +3,7 @@ title: "Elementale del fuoco"
 permalink: /it/units/Fire Elemental/
 excerpt: "Unità Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Elementale del fuoco"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
-### 1 Skill: Fuoco celeste
+### Tecnica suprema: Fuoco celeste
  **Description:** <span style="color: #645252;font-size:20px">L'Elementale del fuoco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 1 unità nemica, causandole </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi.</span><span style="color: black">
 
-### 2 Skill: null
+### Tecnica normale 1 : null
  **Description:** 
 
-### 3 Skill: Forza elementale
+### Tecnica normale 2 : Forza elementale
  **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale del fuoco è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Fuoco (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), riduce la resistenza dei nemici agli incantesimi di tipo Fuoco (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e riduce la rigenerazione del mana dell'eroe nemico (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Ricettacolo di energia del Fuoco
+### Tecnica normale 3 : Ricettacolo di energia del Fuoco
  **Description:** <span style="color: #645252;font-size:20px">Quando uccide un'unità nemica, l'Elementale del fuoco recupera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
-### 5 Skill: Affinità elementale
+### Tecnica speciale fazione I : Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Conflitto elementale
+### Tecnica speciale fazione II : Conflitto elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

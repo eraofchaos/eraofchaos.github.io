@@ -3,7 +3,7 @@ title: "Ballestero"
 permalink: /es/units/Marksman/
 excerpt: "Unidades Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo."
 unitID: 102
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Ballestero"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
 ## Skills
-### 1 Skill: Flecha explosiva
+### Habilidad definitiva: Flecha explosiva
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Ballesteros infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo.</span><span style="color: black">
 
-### 2 Skill: Inspiración
+### Habilidad normal 1 : Inspiración
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de los Ballesteros en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Golpe doble
+### Habilidad normal 2 : Golpe doble
  **Description:** <span style="color: #645252;font-size:20px">Los Ballesteros tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de disparar 2 virotes cuando usan su ataque normal. La segunda flecha inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrentan a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Lentos»</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe doble&gt; aumenta al 100%.</span><span style="color: black">
 
-### 4 Skill: Matadragones
+### Habilidad normal 3 : Matadragones
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrentan a unidades de uno o cuatro, el golpe crítico de los Ballesteros aumenta en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ## Talent

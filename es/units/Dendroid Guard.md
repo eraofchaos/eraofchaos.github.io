@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /es/units/Dendroid Guard/
 excerpt: "Unidades Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido."
 unitID: 205
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Guardia Dendroide"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
-### 1 Skill: Atadura
+### Habilidad definitiva: Atadura
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Guardia Dendroide </span><span style="color: black"><span style="color: #48b946;font-size:20px">ralentiza</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles a su alrededor en una zona grande y reduce su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
-### 2 Skill: Giro aplastante
+### Habilidad normal 1 : Giro aplastante
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Guardia Dendroide tienen una probabilidad de crear un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;escudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
-### 3 Skill: Armadura de madera petrificada
+### Habilidad normal 2 : Armadura de madera petrificada
  **Description:** <span style="color: #645252;font-size:20px">El Guardia Dendroide es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y sus PV aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Estaca de madera
+### Habilidad normal 3 : Estaca de madera
  **Description:** <span style="color: #645252;font-size:20px">Cuando un Guardia Dendroide recibe daño, este refleja daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ATQ y hace </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a su atacante durante 6 s.</span><span style="color: black">
 
-### 5 Skill: Proliferación calmada
+### Habilidad especial de la facción I : Proliferación calmada
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marca de odio
+### Habilidad especial de la facción II : Marca de odio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
 
 ## Talent

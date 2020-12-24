@@ -3,7 +3,7 @@ title: "Призрак"
 permalink: /ru/units/Wight/
 excerpt: "Отряды null"
 unitID: 303
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Призрак"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
-### 1 Skill: Ужасающий вопль
+### Совершенное умение: Ужасающий вопль
  **Description:** <span style="color: #645252;font-size:20px">Когда призраки на поле боя, их первая атака приводит к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px"> врагов у них на пути в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 2 Skill: Воплощение ужаса
+### Обычное умение 1 : Воплощение ужаса
  **Description:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. АТК увеличивается на 8% за гибель каждого союзного отряда на поле боя. Эффект длится в течение всего боя. Суммируется до 10 раз.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Когда призраки погибают, на все вражеские отряды накладывается эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоты</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
-### 4 Skill: Невидимость
+### Обычное умение 3 : Невидимость
  **Description:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда герой получает урон от вражеских заклинаний, у него восстанавливается 10 ед. маны.</span><span style="color: black">
 
-### 5 Skill: Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### 6 Skill: Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

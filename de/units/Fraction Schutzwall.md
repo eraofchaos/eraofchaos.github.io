@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Schutzwall -  Units"
 permalink: /de/units/Fraction Schutzwall/
 excerpt: "Fraction Schutzwall - List of Units in Era of Chaos"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Fraction Schutzwall"
 toc: false

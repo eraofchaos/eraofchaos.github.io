@@ -3,7 +3,7 @@ title: "Unknown_TEAM_601"
 permalink: /ru/units/Gremlin/
 excerpt: "Отряды null"
 unitID: 601
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_601"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.2 | 0.68 | 6.25 | 93.52 |
 
 ## Skills
-### 1 Skill: Магический железный шар
+### Совершенное умение: Магический железный шар
  **Description:** <span style="color: #645252;font-size:20px">Гремлины получают +100% к скорости атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 2 Skill: Убийство драконов
+### Обычное умение 1 : Убийство драконов
  **Description:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов при обычной атаке гремлины получают шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Гремлины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-### 4 Skill: Магическое пробуждение
+### Обычное умение 3 : Магическое пробуждение
  **Description:** 
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
@@ -97,7 +97,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

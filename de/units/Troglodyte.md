@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /de/units/Troglodyte/
 excerpt: "Einheiten Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Troglodyt"
 toc: true
@@ -62,22 +62,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
-### 1 Skill: Speerformation
+### Ultimative Fähigkeit: Speerformation
  **Description:** <span style="color: #645252;font-size:20px">Der Troglodyt fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es 3 Sek. lang.</span><span style="color: black">
 
-### 2 Skill: Geschärft
+### Gewöhnliche Fähigkeit 1 : Geschärft
  **Description:** <span style="color: #645252;font-size:20px">Erhöht ANG des Troglodyten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Witterung des Zauberbrechers
+### Gewöhnliche Fähigkeit 2 : Witterung des Zauberbrechers
  **Description:** <span style="color: #645252;font-size:20px">Erhöht Magieresistenz und Schadensreduzierung des Troglodyten 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird jedes Mal verdoppelt, wenn ein gegnerischer Held einen Zauber wirkt.</span><span style="color: black">
 
-### 4 Skill: Vergifteter Speer
+### Gewöhnliche Fähigkeit 3 : Vergifteter Speer
  **Description:** <span style="color: #645252;font-size:20px">Erhöht den Schaden des Standardangriffs des Troglodyten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Ziele mit <span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

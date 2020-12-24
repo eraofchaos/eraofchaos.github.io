@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Units Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Fear
+### Ultimate Skill: Fear
  **Description:** <span style="color: #645252;font-size:20px">The Bone Dragon causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Low Morale\" </span><span style="color: black"><span style="color: #645252;font-size:20px">to a large area of hostile units every </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px">s for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s and decreases their unit's damage reduction by 20% for 10s.</span><span style="color: black">
 
-### 2 Skill: Crushing Roll
+### Regular Skill 1 : Crushing Roll
  **Description:** <span style="color: #645252;font-size:20px">Bone Dragon's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"silence\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 10s.</span><span style="color: black">
 
-### 3 Skill: Penetration
+### Regular Skill 2 : Penetration
  **Description:** <span style="color: #645252;font-size:20px">The Bone Dragon's defense penetration increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"low morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units, the bonus doubles.</span><span style="color: black">
 
-### 4 Skill: Ageing
+### Regular Skill 3 : Ageing
  **Description:** <span style="color: #645252;font-size:20px">When a Bone Dragon is on the battlefield, all hostile units' damage reduction is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Dismal Defense
+### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
-### 6 Skill: Spell Harmony
+### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Static Marker
+### Ultimate Skill: Static Marker
  **Description:** <span style="color: #645252;font-size:20px">When battle starts, Storm Elemental units apply </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all enemy units in its path for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 2 Skill: Lightning Bounce
+### Regular Skill 1 : Lightning Bounce
  **Description:** <span style="color: #645252;font-size:20px">The Storm Elemental's normal attack has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance of casting lightning at the target, causing 300% damage.</span><span style="color: black">
 
-### 3 Skill: Elemental Force
+### Regular Skill 2 : Elemental Force
  **Description:** <span style="color: #645252;font-size:20px">When Storm Elemental is on the battlefield, it increases air magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces air magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Storm Elemental is on the battlefield, increases friendly hero's initial Mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Static Pierce
+### Regular Skill 3 : Static Pierce
  **Description:** <span style="color: #645252;font-size:20px">Storm Elemental's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if the target is suffering from </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Elemental Affinity
+### Faction Special Skill I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Elemental Conflict
+### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

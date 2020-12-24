@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /ru/units/Sea Elemental/
 excerpt: "Отряды null"
 unitID: 9903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Элементаль Моря"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Спираль времени
+### Совершенное умение: Спираль времени
  **Description:** <span style="color: #645252;font-size:20px">Элементаль Моря создает на земле 10-секундный водоворот каждые 30 сек., снижая скорость атаки у всех вражеских отрядов в радиусе действия на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждую секунду. Когда водоворот исчезает, он наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в радиусе действия.</span><span style="color: black">
 
-### 2 Skill: Дар полного прилива
+### Обычное умение 1 : Дар полного прилива
  **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Элементали Моря призывают водную темницу каждые 20 сек., которая подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения. Водная темница действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 5 Skill: Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ## Talent

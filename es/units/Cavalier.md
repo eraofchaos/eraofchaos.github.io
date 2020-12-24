@@ -3,7 +3,7 @@ title: "Catafracto"
 permalink: /es/units/Cavalier/
 excerpt: "Unidades Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Catafracto"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
-### 1 Skill: Justa
+### Habilidad definitiva: Justa
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Catafractos en el campo de batalla, su primer ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo, y los </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
 
-### 2 Skill: Carga gloriosa
+### Habilidad normal 1 : Carga gloriosa
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la unidad de Catafractos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Aniquilación rápida
+### Habilidad normal 2 : Aniquilación rápida
  **Description:** <span style="color: #645252;font-size:20px">Cuando una unidad de Catafractos mata a un objetivo por primera vez, inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su siguiente unidad objetivo.</span><span style="color: black">
 
-### 4 Skill: Habilidades de Caballero
+### Habilidad normal 3 : Habilidades de Caballero
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Catafracto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y la reducción de daño de la unidad, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ## Talent

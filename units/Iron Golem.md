@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Units Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
 ## Skills
-### 1 Skill: Metal Resonance
+### Ultimate Skill: Metal Resonance
  **Description:** <span style="color: #645252;font-size:20px">The Iron Golem opens a shroud, increasing unit's damage reduction for friendly units in it by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 2 Skill: Strong
+### Regular Skill 1 : Strong
  **Description:** <span style="color: #645252;font-size:20px">Iron Golem's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Iron Body
+### Regular Skill 2 : Iron Body
  **Description:** <span style="color: #645252;font-size:20px">The Iron Golem is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px">. When the Iron Golem takes spell damage from a hero, his magic resistance increases by 100% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 4 Skill: Magic Awakening
+### Regular Skill 3 : Magic Awakening
  **Description:** <span style="color: #645252;font-size:20px">When an Iron Golem unit is enhanced by a friendly hero's support spell, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. At the same time, increases unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the entire battle, up to 3 stacks.</span><span style="color: black">
 
-### 5 Skill: Sober Mind
+### Faction Special Skill I : Sober Mind
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Energy Dynamite
+### Faction Special Skill II : Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

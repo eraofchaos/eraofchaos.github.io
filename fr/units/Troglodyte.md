@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /fr/units/Troglodyte/
 excerpt: "Unités Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Troglodyte"
 toc: true
@@ -62,22 +62,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
-### 1 Skill: Nuée de lances
+### Capacité ultime: Nuée de lances
  **Description:** <span style="color: #645252;font-size:20px">Le Troglodyte inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible et l'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
-### 2 Skill: Passion
+### Compétence normale 1 : Passion
  **Description:** <span style="color: #645252;font-size:20px">Augmente l'ATQ du Troglodyte de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Odeur du briseur de sort
+### Compétence normale 2 : Odeur du briseur de sort
  **Description:** <span style="color: #645252;font-size:20px">Augmente la résistance magique du Troglodyte et la résistance aux dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant les 10 prochaines secondes. L'effet double chaque fois qu'un Héros ennemi lance un sort.</span><span style="color: black">
 
-### 4 Skill: Lance empoisonnée
+### Compétence normale 3 : Lance empoisonnée
  **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts de l'attaque normale du Troglodyte de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les dégâts infligés aux cibles victimes de <span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

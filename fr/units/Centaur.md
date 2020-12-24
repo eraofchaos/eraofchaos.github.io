@@ -3,7 +3,7 @@ title: "Centaure"
 permalink: /fr/units/Centaur/
 excerpt: "Unités Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Centaure"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
 ## Skills
-### 1 Skill: Choc guerrier
+### Capacité ultime: Choc guerrier
  **Description:** <span style="color: #645252;font-size:20px">Le Centaure inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à toutes les unités ennemies autour de lui et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
-### 2 Skill: Force brute
+### Compétence normale 1 : Force brute
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Centaure augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Férocité
+### Compétence normale 2 : Férocité
  **Description:** <span style="color: #645252;font-size:20px">L'attaque supplémentaire du Centaure est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Son attaque normale applique un effet de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sur la cible pendant 6 secondes.</span><span style="color: black">
 
-### 4 Skill: Meneur courageux
+### Compétence normale 3 : Meneur courageux
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Centaure augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Octroie 2 % de résistance aux dégâts supplémentaires pour chaque unité défensive alliée présente sur le champ de bataille.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

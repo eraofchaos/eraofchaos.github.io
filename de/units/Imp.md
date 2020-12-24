@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /de/units/Imp/
 excerpt: "Einheiten Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Imp"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
-### 1 Skill: Impuls
+### Ultimative Fähigkeit: Impuls
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Imp besiegt wird, wird er mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit vollen LP wiederbelebt.</span><span style="color: black">
 
-### 2 Skill: Peinigen
+### Gewöhnliche Fähigkeit 1 : Peinigen
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es möglicherweise 2 Sek lang.</span><span style="color: black">
 
-### 3 Skill: Beweglichkeit
+### Gewöhnliche Fähigkeit 2 : Beweglichkeit
  **Description:** <span style="color: #645252;font-size:20px">Ausweichen des Imp wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Imp einem Angriff erfolgreich ausweicht, reduziert er mit einer Wahrscheinlichkeit von 20 % das Mana des gegnerischen Helden um 5. AKZ 5 Sek.</span><span style="color: black">
 
-### 4 Skill: Inferno-Scherge
+### Gewöhnliche Fähigkeit 3 : Inferno-Scherge
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Imp steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Heilung steigt um 30 %.</span><span style="color: black">
 
-### 5 Skill: Sengender Angriff
+### Fraktions-Spezialfähigkeit I : Sengender Angriff
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Magieresistenz-Resonanz
+### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

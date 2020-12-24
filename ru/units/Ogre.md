@@ -3,7 +3,7 @@ title: "Огр"
 permalink: /ru/units/Ogre/
 excerpt: "Отряды null"
 unitID: 404
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Огр"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">Огры вызывают кровавый пруд, чтобы повысить эффективность высасывания жизни у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Кровавый пруд существует 15 сек.</span><span style="color: black">
 
-### 2 Skill: Кожа колдуна
+### Обычное умение 1 : Кожа колдуна
  **Description:** <span style="color: #645252;font-size:20px">Огры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к восстановлению ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}% к урону отряда.</span><span style="color: black">
 
-### 3 Skill: Буйство
+### Обычное умение 2 : Буйство
  **Description:** <span style="color: #645252;font-size:20px">При менее 35% ОЗ у огров все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК в течение всего боя.</span><span style="color: black">
 
-### 4 Skill: Исцеление от яда
+### Обычное умение 3 : Исцеление от яда
  **Description:** <span style="color: #645252;font-size:20px">Когда огры на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
 
-### 5 Skill: Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### 6 Skill: Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent

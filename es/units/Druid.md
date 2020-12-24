@@ -3,7 +3,7 @@ title: "Druida"
 permalink: /es/units/Druid/
 excerpt: "Unidades Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Druida"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
-### 1 Skill: Llamada del bosque
+### Habilidad definitiva: Llamada del bosque
  **Description:** <span style="color: #645252;font-size:20px">Cuando empieza la batalla, la Druida invoca un círculo mágico que dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Las unidades amistosas en el círculo mágico son inmunes al daño de hechizos.</span><span style="color: black">
 
-### 2 Skill: Crecimiento
+### Habilidad normal 1 : Crecimiento
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Druida un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Bendición de la vida
+### Habilidad normal 2 : Bendición de la vida
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Druidas crea un </span><span style="color: black"><span style="color: #48b946;font-size:20px">escudo</span><span style="color: black"><span style="color: #645252;font-size:20px"> en 4 unidades amistosas en la vanguardia cada 30 s que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
-### 4 Skill: Corazón de la naturaleza
+### Habilidad normal 3 : Corazón de la naturaleza
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Druidas bendicen a las unidades amistosas en una zona grande cada 25 s, lo que aumenta el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s. La bonificación se duplica la primera vez que la Druida lo lanza.</span><span style="color: black">
 
-### 5 Skill: Proliferación calmada
+### Habilidad especial de la facción I : Proliferación calmada
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marca de odio
+### Habilidad especial de la facción II : Marca de odio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
 
 ## Talent

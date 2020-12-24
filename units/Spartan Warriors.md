@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: null
+### Ultimate Skill: null
  **Description:** 
 
-### 2 Skill: Shield Bash
+### Regular Skill 1 : Shield Bash
  **Description:** <span style="color: #645252;font-size:20px">Spartan Warriors slam their shield into their opponent, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stunning&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">enemy units in a large range for 5s. They then increase their own unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the next 10s. CD is 20s.</span><span style="color: black">
 
-### 3 Skill: Spartan Bloodline
+### Regular Skill 2 : Spartan Bloodline
  **Description:** <span style="color: #645252;font-size:20px">When a Spartan loses 5% of their HP, their own Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and their Attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is reduced to 50% for the first time, their Attack Speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and their Unit DMG is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the rest of the battle.</span><span style="color: black">
 
-### 4 Skill: Thermopylae
+### Regular Skill 3 : Thermopylae
  **Description:** <span style="color: #645252;font-size:20px">When a Spartan Warrior dies, the death increases the Unit DMG and Unit DMG Reduction of all friendly units by 5% each for the entire battle. The Spartan Warriors will let out a war cry every 20s to inspire other friendly units, increasing their Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px">for 10s.</span><span style="color: black">
 
-### 5 Skill: Armed Conflict
+### Faction Special Skill I : Armed Conflict
  **Description:** <span style="color: #645252;font-size:20px">Neutral units are a proficient force. When fighting against non-Neutral units, their </span><span style="color: black"><span style="color: #645252;font-size:20px">Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%.</span><span style="color: black">
 
-### 6 Skill: Courage Boost
+### Faction Special Skill II : Courage Boost
  **Description:** <span style="color: #645252;font-size:20px">Neutral units are able to resist a great amount of force. Each time they lose 10% of their HP, their </span><span style="color: black"><span style="color: #645252;font-size:20px">Defense increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
 
 ## Talent

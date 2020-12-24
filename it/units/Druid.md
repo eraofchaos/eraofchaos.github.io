@@ -3,7 +3,7 @@ title: "Druido"
 permalink: /it/units/Druid/
 excerpt: "Unità Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Druido"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
-### 1 Skill: Richiamo della foresta
+### Tecnica suprema: Richiamo della foresta
  **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, il Druido evoca un circolo magico che dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi. Tutte le unità alleate al suo interno sono immuni al danno magico.</span><span style="color: black">
 
-### 2 Skill: Crescita vertiginosa
+### Tecnica normale 1 : Crescita vertiginosa
  **Description:** <span style="color: #645252;font-size:20px">Il Druido gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Benedizione vitale
+### Tecnica normale 2 : Benedizione vitale
  **Description:** <span style="color: #645252;font-size:20px">Il Druido crea uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ogni 30 secondi che protegge 4 unità alleate casuali nella prima fila e assorbe danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
 
-### 4 Skill: Cuore della natura
+### Tecnica normale 3 : Cuore della natura
  **Description:** <span style="color: #645252;font-size:20px">Il Druido benedice le unità alleate in un'ampia area ogni 25 secondi, aumentandone DAN CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i 15 secondi successivi. Bonus raddoppiato la prima volta che il Druido usa questa tecnica.</span><span style="color: black">
 
-### 5 Skill: Proliferazione pacifica
+### Tecnica speciale fazione I : Proliferazione pacifica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Marchio dell'odio
+### Tecnica speciale fazione II : Marchio dell'odio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
 
 ## Talent

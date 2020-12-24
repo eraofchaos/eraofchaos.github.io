@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /fr/units/Magic Airship/
 excerpt: "Unités La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Aéronef magique"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
 ## Skills
-### 1 Skill: Soutien énergétique
+### Capacité ultime: Soutien énergétique
  **Description:** <span style="color: #645252;font-size:20px">Quand les PV de l'une de vos unités passent sous la barre des 30 %, restaure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max, dissipe les affaiblissements et augmente la résistance aux dégâts de l'unité et sa résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes. Cet effet ne peut intervenir qu'une seule fois par bataille.</span><span style="color: black">
 
-### 2 Skill: Bombe de givre
+### Compétence normale 1 : Bombe de givre
  **Description:** <span style="color: #645252;font-size:20px">Les attaques normales ont </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;geler&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible et les unités ennemies autour d'elle pendant 2 secondes.</span><span style="color: black">
 
-### 3 Skill: Bulle magique
+### Compétence normale 2 : Bulle magique
  **Description:** <span style="color: #645252;font-size:20px">La résistance magique de l'Aéronef magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand le sort &lt;Éveil magique&gt; est utilisé, les Héros ennemis perdent 2 points de mana et les Héros alliés en récupèrent 3.</span><span style="color: black">
 
-### 4 Skill: Éveil magique
+### Compétence normale 3 : Éveil magique
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Aéronef magique est renforcé par un sort de Héros allié, il augmente la vitesse d'ATQ de tous les Lanceurs de sorts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes. Augmente la vitesse d'ATQ de tous les Lanceurs de sorts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant toute la durée de la bataille. Cet effet peut se cumuler jusqu'à 4 fois.</span><span style="color: black">
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

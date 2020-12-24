@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Beholder"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
-### 1 Skill: Mind Control
+### Ultimate Skill: Mind Control
  **Description:** <span style="color: #645252;font-size:20px">Beholder units control 1 random hostile unit. The target will take damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP per second for 8s. When being controlled, the target unit is unable to attack, move and cast skills.</span><span style="color: black">
 
-### 2 Skill: Spell Penetration
+### Regular Skill 1 : Spell Penetration
  **Description:** <span style="color: #645252;font-size:20px">When Beholder units enter the battlefield, they will open their 4 eyes of death. Each eye grants </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage. 1 eye of death will be closed for every target killed. Only 3 eyes can be closed at most.</span><span style="color: black">
 
-### 3 Skill: Debility
+### Regular Skill 2 : Debility
  **Description:** <span style="color: #645252;font-size:20px">When Beholder unit is on the battlefield, enemy heroes' initial Mana is reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever an enemy unit dies, reduces enemy heroes' Mana by an additional 10.</span><span style="color: black">
 
-### 4 Skill: Gather Energy
+### Regular Skill 3 : Gather Energy
  **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Dark Conflict
+### Faction Special Skill II : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

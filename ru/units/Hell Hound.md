@@ -3,7 +3,7 @@ title: "Гончая ада"
 permalink: /ru/units/Hell Hound/
 excerpt: "Отряды Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Гончая ада"
 toc: true
@@ -24,8 +24,6 @@ toc: true
  **Rank:** SR
 
  **Unit description:** Буйство: каждый удар на некоторое время становится критическим.
-
- **Recommend:** null
 
  **Info:** Обладает способностью наносить критический урон. При вызове кровотечения наносит высокий урон за короткое время.
 
@@ -61,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
 
 ## Skills
-### 1 Skill: Огонь
+### Совершенное умение: Огонь
  **Description:** <span style="color: #645252;font-size:20px">Гончие ада гарантированно наносят критический удар в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 2 Skill: Атака тремя головами
+### Обычное умение 1 : Атака тремя головами
  **Description:** <span style="color: #645252;font-size:20px">В бою гончих ада против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.08+46.17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по 3 вражеским целям и вызывается </span><span style="color: black"><span style="color: #e07c44;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">В бою гончих ада против отрядов с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Гончие ада получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Показатель КРИТ. УРН у гончих ада повышается на 3% за каждый использованный отряд фракции Инферно.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### 6 Skill: Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent
@@ -96,7 +94,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /fr/units/Skeleton/
 excerpt: "Unités Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Squelette"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
-### 1 Skill: Bouclier d'os
+### Capacité ultime: Bouclier d'os
  **Description:** <span style="color: #645252;font-size:20px">Le Squelette génère un bouclier d'os quand ses PV tombent pour la première fois sous la barre des 50 %. Ce bouclier diminue les dégâts subis par l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
-### 2 Skill: Épine en os
+### Compétence normale 1 : Épine en os
  **Description:** <span style="color: #645252;font-size:20px">Le Squelette renvoie </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des dégâts subis.</span><span style="color: black">
 
-### 3 Skill: Fossilisation
+### Compétence normale 2 : Fossilisation
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Squelette augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et le renvoi des dégâts de 10 %.</span><span style="color: black">
 
-### 4 Skill: Cage thoracique
+### Compétence normale 3 : Cage thoracique
  **Description:** <span style="color: #645252;font-size:20px">Les Squelettes sont immunisés contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts que les unités à distance leur infligent sont réduits de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

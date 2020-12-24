@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /es/units/Bone Dragon/
 excerpt: "Unidades Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Dragón de Hueso"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Miedo
+### Habilidad definitiva: Miedo
  **Description:** <span style="color: #645252;font-size:20px">El Dragón de Hueso inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral baja» </span><span style="color: black"><span style="color: #645252;font-size:20px">a las unidades hostiles en una zona grande cada </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s y disminuye la reducción de daño de las unidades un 20% durante 10 s.</span><span style="color: black">
 
-### 2 Skill: Giro aplastante
+### Habilidad normal 1 : Giro aplastante
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Dragón de Hueso tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo, y lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencian&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
-### 3 Skill: Penetración
+### Habilidad normal 2 : Penetración
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la penetración de defensa del Dragón de Hueso en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a unidades hostiles con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, la bonificación se duplica.</span><span style="color: black">
 
-### 4 Skill: Envejecimiento
+### Habilidad normal 3 : Envejecimiento
  **Description:** <span style="color: #645252;font-size:20px">Si hay un Dragón de Hueso en el campo de batalla, la reducción de daño de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Defensa lúgubre
+### Habilidad especial de la facción I : Defensa lúgubre
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonía de hechizo
+### Habilidad especial de la facción II : Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Units Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Pit Fiend"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
-### 1 Skill: Firespring
+### Ultimate Skill: Firespring
  **Description:** <span style="color: #645252;font-size:20px">Pit Fiend units cast 1 Fire Spring in their path, restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP of friendly units in a large area in front of them every 2s for 8s.</span><span style="color: black">
 
-### 2 Skill: Lord's Summon
+### Regular Skill 1 : Lord's Summon
  **Description:** <span style="color: #645252;font-size:20px">When a Pit Fiend unit is on the battlefield, it summons 4 Demons to fight. Demons have </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, 700 DEF and 500 Crit Hit, lasting throughout the entire battle.</span><span style="color: black">
 
-### 3 Skill: Heat
+### Regular Skill 2 : Heat
  **Description:** <span style="color: #645252;font-size:20px">Pit Fiend's &lt;Fire Spring&gt; increases healing by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. &lt;Fire Spring&gt;'s healing will be increased by 5% for every 1 Inferno unit deployed.</span><span style="color: black">
 
-### 4 Skill: Lord's Will
+### Regular Skill 3 : Lord's Will
  **Description:** <span style="color: #645252;font-size:20px">When Pit Fiends go into battle, the HP and ATK of friendly Imps, Demons, and Fire Elementals increase by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Broiling Strike
+### Faction Special Skill I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
-### 6 Skill: Spell Resistance Resonance
+### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Виверна"
 permalink: /ru/units/Wyvern/
 excerpt: "Отряды null"
 unitID: 806
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Виверна"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** 
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** 
 
-### 4 Skill: Дикие миазмы
+### Обычное умение 3 : Дикие миазмы
  **Description:** 
 
-### 5 Skill: Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent
@@ -99,7 +99,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ чумных виверн-монархов на уровнях 16-2 и 16-4 в Подземелье.</span>
+ 3. null
 
  4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз, используя виверн.</span>
 

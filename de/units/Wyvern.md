@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /de/units/Wyvern/
 excerpt: "Einheiten Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Wyvern"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
-### 1 Skill: Giftspucke
+### Ultimative Fähigkeit: Giftspucke
  **Description:** <span style="color: #645252;font-size:20px">Alle 21 Sek. spuckt der Wyvern Gift auf ein Ziel und verursacht bei feindlichen Einheiten in einer bestimmten Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*3+37))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden sowie 6 Sek. lang <span style="color: #48b946;font-size:20px">„Seuche“</span><span style="color: black"><span style="color: #645252;font-size:20px">. (Vom Wyvern verursachter </span><span style="color: black"><span style="color: #48b946;font-size:20px">Seuchen</span><span style="color: black"><span style="color: #645252;font-size:20px">schaden wird erhöht.)</span><span style="color: black">
 
-### 2 Skill: null
+### Gewöhnliche Fähigkeit 1 : null
  **Description:** 
 
-### 3 Skill: Seuchensymbiose
+### Gewöhnliche Fähigkeit 2 : Seuchensymbiose
  **Description:** <span style="color: #645252;font-size:20px">Der Schaden des Wyvern wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Wildes Miasma
+### Gewöhnliche Fähigkeit 3 : Wildes Miasma
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Wyvern wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die nächsten 20 Sek. fügt der Wyvern alle 10 Sek. allen gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Seuche“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu; außerdem wird ihre Heilung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

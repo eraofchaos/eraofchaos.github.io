@@ -3,7 +3,7 @@ title: "Tortuga Dragón"
 permalink: /es/units/Dragon Turtle/
 excerpt: "Unidades Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Tortuga Dragón"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
-### 1 Skill: Giro aplastante
+### Habilidad definitiva: Giro aplastante
  **Description:** 
 
-### 2 Skill: Aliento ponzoñoso nvl. 2
+### Habilidad normal 1 : Aliento ponzoñoso nvl. 2
  **Description:** 
 
-### 3 Skill: Muralla de marea
+### Habilidad normal 2 : Muralla de marea
  **Description:** <span style="color: #645252;font-size:20px">Cuando entra al campo de batalla, la Tortuga Dragón </span><span style="color: black"><span style="color: #48b946;font-size:20px">«aturde»</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles en una zona grande durante 2 s. Si el &lt;Armoured Shield&gt; lleva activo más de 20 s, la Tortuga Dragón restaura 15% de los PV y la DEF aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante toda la batalla.</span><span style="color: black">
 
-### 4 Skill: Refuerzos
+### Habilidad normal 3 : Refuerzos
  **Description:** <span style="color: #645252;font-size:20px">La Tortuga Dragón crea un escudo de refuerzo, lo que aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> para las unidades amistosas de Cala y para sí misma cada 20 s. Este efecto dura 8 s (no se puede disipar).</span><span style="color: black">
 
-### 5 Skill: Cuerpo calmado
+### Habilidad especial de la facción I : Cuerpo calmado
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### 6 Skill: Conflicto pirata
+### Habilidad especial de la facción II : Conflicto pirata
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

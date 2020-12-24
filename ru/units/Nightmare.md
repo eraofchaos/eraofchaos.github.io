@@ -3,7 +3,7 @@ title: "Unknown_TEAM_508"
 permalink: /ru/units/Nightmare/
 excerpt: "Отряды Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_508"
 toc: true
@@ -56,24 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
 ## Skills
-### 1 Skill: Постоянный кошмар
+### Совершенное умение: Постоянный кошмар
  **Description:** <span style="color: #645252;font-size:20px">Каждые 30 сек. кошмары насылают проклятье, поджигая выбранный отряд на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Также в определенном радиусе от цели все вражеские отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к эффективности лечения на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
-### 2 Skill: Ловец снов
+### Обычное умение 1 : Ловец снов
  **Description:** <span style="color: #645252;font-size:20px">Кошмары получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Атакуемый вражеский отряд теряет 2% сопротивления отряда урону на 10 сек. Суммируется до 15 раз, нельзя рассеять. </span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** 
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** 
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### 6 Skill: Резонанс антимагии
- **Description:** 
-
+### Эксклюзивное умение фракции II : Резонанс антимагии
 ## Talent
 
 * Атака

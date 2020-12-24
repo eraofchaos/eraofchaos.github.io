@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /fr/units/Lich/
 excerpt: "Unités Les corps des Liches sont flétris, tordus et pourris. Elles haïssent tous les êtres vivants et ne rêvent que de mort et de destruction."
 unitID: 305
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Liche"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
 ## Skills
-### 1 Skill: Sacrifice
+### Capacité ultime: Sacrifice
  **Description:** <span style="color: #645252;font-size:20px">Quand sa cible meurt, la Liche a une chance d'invoquer un Squelette avec </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV qui perdure pendant tout le combat.</span><span style="color: black">
 
-### 2 Skill: Nuage acide
+### Compétence normale 1 : Nuage acide
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de la Liche a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à 3 ennemis. Les dégâts infligés aux cibles victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
-### 3 Skill: Bonus de ténèbres
+### Compétence normale 2 : Bonus de ténèbres
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Liche augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La portée d'attaque de la Liche augmente de 50 pour chaque unité de la Nécropole présente sur le champ de bataille.</span><span style="color: black">
 
-### 4 Skill: Sacrifice squelettique
+### Compétence normale 3 : Sacrifice squelettique
  **Description:** <span style="color: #645252;font-size:20px">Quand la Liche est sur le champ de bataille, les PV et l'ATQ des Squelettes et des Dragons squelettes augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+13} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Орк"
 permalink: /ru/units/Orc/
 excerpt: "Отряды Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Орк"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">В бою против цели с ОЗ менее 30% орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому урону.</span><span style="color: black">
 
-### 2 Skill: Срезание
+### Обычное умение 1 : Срезание
  **Description:** 
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается, когда ОЗ падают ниже 35%, и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
 
-### 5 Skill: Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### 6 Skill: Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent
@@ -96,7 +96,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

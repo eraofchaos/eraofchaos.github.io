@@ -3,7 +3,7 @@ title: "Dragon noir"
 permalink: /fr/units/Black Dragon/
 excerpt: "Unités Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Dragon noir"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
 ## Skills
-### 1 Skill: Souffle du Dragon
+### Capacité ultime: Souffle du Dragon
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon noir inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à toutes les unités ennemies dans une très large zone toutes les 15 secondes. Il inflige également une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max aux ennemis proches et leur inflige <span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
-### 2 Skill: Écaille de Dragon noir
+### Compétence normale 1 : Écaille de Dragon noir
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon noir est immunisé contre <span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et <span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il subit un coup critique, il récupère </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max. Temps de recharge de 6 secondes.</span><span style="color: black">
 
-### 3 Skill: Immunité à la magie
+### Compétence normale 2 : Immunité à la magie
  **Description:** <span style="color: #645252;font-size:20px">Immunise contre les dégâts des sorts lancés par les Héros. Augmente les dégâts de l'unité et sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> chaque fois que &lt;Souffle du Dragon&gt; est lancé pendant la bataille. L'effet peut se cumuler jusqu'à 4 fois.</span><span style="color: black">
 
-### 4 Skill: Adaptation aux températures extrêmes
+### Compétence normale 3 : Adaptation aux températures extrêmes
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Dragon noir augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa défense de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il affronte des unités victimes de <span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, l'effet de résistance aux dégâts double. Quand un Dragon noir affronte une unité de la Tour, ses dégâts augmentent de 50 %.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

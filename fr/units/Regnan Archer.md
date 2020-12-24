@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /fr/units/Regnan Archer/
 excerpt: "Unités Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Arbalétrière de Regna"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
-### 1 Skill: Flèche mortelle
+### Capacité ultime: Flèche mortelle
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts ainsi qu'une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max en cas de coup critique. Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts toutes les 5 secondes aux unités ennemies situées sur la même ligne, et réduit leur DÉF de 10 % pendant 15 secondes. Cet effet peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
 
-### 2 Skill: Entraînement tactique
+### Compétence normale 1 : Entraînement tactique
  **Description:** <span style="color: #645252;font-size:20px">Augmente la vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> quand une unité est tuée sur le champ de bataille. L'effet peut se cumuler jusqu'à 4 fois. Augmente la vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et garantit un coup critique lorsque les PV sont en dessous de 30 %. Cet effet dure 7 secondes et ne fonctionne qu'une seule fois.</span><span style="color: black">
 
-### 3 Skill: Arbalète géante des marées
+### Compétence normale 2 : Arbalète géante des marées
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'Arbalétrière de Regna augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Au début du combat, elle inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> d'ATQ et une quantité supplémentaire de dégâts égale à 25 % de ses PV max à 2 unités aléatoires tout en les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentissant&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 8 secondes.</span><span style="color: black">
 
-### 4 Skill: Tir de soutien
+### Compétence normale 3 : Tir de soutien
  **Description:** <span style="color: #645252;font-size:20px">Attaque l'unité ennemie ayant le pourcentage de PV le plus bas, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts supplémentaires et diminue de 30 % la DÉF de la cible.</span><span style="color: black">
 
-### 5 Skill: Zen
+### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### 6 Skill: Conflit de pirates
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

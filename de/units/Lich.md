@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /de/units/Lich/
 excerpt: "Einheiten Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Lich"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
 ## Skills
-### 1 Skill: Opfer
+### Ultimative Fähigkeit: Opfer
  **Description:** <span style="color: #645252;font-size:20px">Wenn er sein Ziel tötet, beschwört der Lich mit einer gewissen Wahrscheinlichkeit 1 Skelett mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP, das die gesamte Schlacht über kämpft.</span><span style="color: black">
 
-### 2 Skill: Giftwolke
+### Gewöhnliche Fähigkeit 1 : Giftwolke
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Lich fügt mit einer gewissen Wahrscheinlichkeit 3 Zielen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Der Schaden gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> ist um 30 % erhöht.</span><span style="color: black">
 
-### 3 Skill: Dunkelverstärkung
+### Gewöhnliche Fähigkeit 2 : Dunkelverstärkung
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Lich steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Angriffsreichweite des Lich steigt um 50 für jede Nekropolis-Einheit auf dem Schlachtfeld.</span><span style="color: black">
 
-### 4 Skill: Skelettopfer
+### Gewöhnliche Fähigkeit 3 : Skelettopfer
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Lich auf dem Schlachtfeld ist, steigen LP und ANG von Skeletten und Knochendrachen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+13} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

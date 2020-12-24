@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /it/units/Judicator/
 excerpt: "Unità Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Giudice"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
-### 1 Skill: Raggio del Giudizio
+### Tecnica suprema: Raggio del Giudizio
  **Description:** <span style="color: #645252;font-size:20px">Il Giudice evoca 2 &lt;Raggi del Giudizio&gt; ogni 25 secondi. I Raggi <span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"> le unità nemiche nell'area per 1 secondo, infliggono danni pari a <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> dei PF massimi, e riducono le cure ricevute dalle unità nemiche (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black">) per 8 secondi.</span><span style="color: black">
 
-### 2 Skill: Benedizione
+### Tecnica normale 1 : Benedizione
  **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, il Giudice applica <span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"> a tutte le unità alleate per 10 secondi. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Il Giudice applica </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate di fronte a sé ogni <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> secondi. L'effetto dura 10 secondi.</span><span style="color: black">
 
-### 3 Skill: Benedizione della luce
+### Tecnica normale 2 : Benedizione della luce
  **Description:** <span style="color: #645252;font-size:20px">La prima volta che i PF di un'unità alleata scendono sotto il 25%, il Giudice lancia <span style="color: #48b946;font-size:20px">&lt;Luce protettrice&gt;</span><span style="color: black"> per difendere i compagni per <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> secondi. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Contro le unità Inferno, il Giudice ottiene DAN aumentato del 30% e Rid DAN aumentata del 50%.</span><span style="color: black">
 
-### 4 Skill: null
+### Tecnica normale 3 : null
  **Description:** 
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 7 Skill: Aura della Teocrazia
+### Tecnica normale 6 : Aura della Teocrazia
  **Description:** <span style="color: #645252;font-size:20px">Se 3 unità Castello sono sul campo di battaglia, il Giudice gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo CRIT aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Se il Giudice ha <span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black">, può evocare un'<span style="color: #F0F000;font-size:20px">&lt;Aura divina&gt;</span><span style="color: black">, la cui dimensione dipende dal livello della tecnica. L'Aura ha una durata di 15 secondi. Recupero: 30 secondi.</span><span style="color: black">
 
 ## Talent

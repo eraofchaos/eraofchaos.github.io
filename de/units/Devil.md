@@ -3,7 +3,7 @@ title: "Teufel"
 permalink: /de/units/Devil/
 excerpt: "Einheiten Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
 unitID: 507
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Teufel"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Schmerzhafter Schnitter
+### Ultimative Fähigkeit: Schmerzhafter Schnitter
  **Description:** <span style="color: #645252;font-size:20px">Der Teufel greift zu Beginn der Schlacht die Einheit an, die am weitesten vorne steht oder eine zufällige Einheit in der hinteren Reihe, falls kein gültiges Ziel vorhanden ist, und verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Außerdem wird ein Feuerschlund beschworen, der 6 Sek. lang alle 0,5 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden verursacht. Beim ersten Mal wird </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Stille“</span><span style="color: black"><span style="color: #645252;font-size:20px"> für 6 Sek. gewirkt. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">Kann in jeder Position eingesetzt werden. Die Fähigkeit wird zurückgesetzt, wenn das Ziel stirbt.</span><span style="color: black">
 
-### 2 Skill: Grausame Folter
+### Gewöhnliche Fähigkeit 1 : Grausame Folter
  **Description:** <span style="color: #645252;font-size:20px">Fügt 3 zufälligen gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Kritischer Treffer steigt gegen Einheiten mit </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> um 500.</span><span style="color: black">
 
-### 3 Skill: Verdorren
+### Gewöhnliche Fähigkeit 2 : Verdorren
  **Description:** <span style="color: #645252;font-size:20px">Solange ein Teufel auf dem Schlachtfeld ist, fügt er allen gegnerischen Einheiten alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP als Schaden zu.</span><span style="color: black">
 
-### 4 Skill: Seelentod
+### Gewöhnliche Fähigkeit 3 : Seelentod
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Teufels steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Schloss-Einheiten steigt dieser Bonus auf 50 %.</span><span style="color: black">
 
-### 5 Skill: Sengender Angriff
+### Fraktions-Spezialfähigkeit I : Sengender Angriff
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Magieresistenz- Resonanz
+### Fraktions-Spezialfähigkeit II : Magieresistenz- Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

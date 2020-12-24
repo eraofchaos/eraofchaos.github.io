@@ -3,7 +3,7 @@ title: "Наездник на волке"
 permalink: /ru/units/Wolf Rider/
 excerpt: "Отряды Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов."
 unitID: 402
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Наездник на волке"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
-### 1 Skill: Ручной зверь
+### Совершенное умение: Ручной зверь
  **Description:** <span style="color: #645252;font-size:20px">После своей смерти наездник на волке вызывает 1 варга. У варгов </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
-### 2 Skill: Двойной удар
+### Обычное умение 1 : Двойной удар
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у наездников на волке есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать 2 раза подряд. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### 3 Skill: Буйство
+### Обычное умение 2 : Буйство
  **Description:** <span style="color: #645252;font-size:20px">Наездники на волке получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при менее 35% ОЗ и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Наездники на волке получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
 
-### 5 Skill: Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### 6 Skill: Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent

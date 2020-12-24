@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /fr/units/Vampire/
 excerpt: "Unités Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Vampire"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Drain de vie
+### Capacité ultime: Drain de vie
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 12 secondes, les Vampires infligent aléatoirement </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie dans une large zone et lui volent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV.</span><span style="color: black">
 
-### 2 Skill: Assoiffé de sang
+### Compétence normale 1 : Assoiffé de sang
  **Description:** <span style="color: #645252;font-size:20px">Drain de vie du Vampire augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Gonflement
+### Compétence normale 2 : Gonflement
  **Description:** <span style="color: #645252;font-size:20px">Quand un Vampire lance &lt;Drain de vie&gt;, celui-ci augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet est actif pendant tout le combat et se peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
 
-### 4 Skill: Chasse sanguinaire
+### Compétence normale 3 : Chasse sanguinaire
  **Description:** <span style="color: #645252;font-size:20px">Quand vous combattez une cible qui dispose d'un pourcentage de PV moins élevé que le sien, l'ATQ du Vampire augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'attaque augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

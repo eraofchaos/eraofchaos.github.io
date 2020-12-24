@@ -3,7 +3,7 @@ title: "Segugio infernale"
 permalink: /it/units/Hell Hound/
 excerpt: "Unità I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio."
 unitID: 503
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Segugio infernale"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
 
 ## Skills
-### 1 Skill: Fuoco
+### Tecnica suprema: Fuoco
  **Description:** <span style="color: #645252;font-size:20px">Tutti gli attacchi del Segugio infernale sono colpi critici per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
-### 2 Skill: Attacco tricipite
+### Tecnica normale 1 : Attacco tricipite
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base del Segugio infernale infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.08+46.17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del danno a 3 membri dell'unità nemica, causando </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
-### 3 Skill: Sete di sangue
+### Tecnica normale 2 : Sete di sangue
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il danno del Segugio Infernale aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Inferno
+### Tecnica normale 3 : Inferno
  **Description:** <span style="color: #645252;font-size:20px">DAN CRIT del Segugio infernale aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il DAN CRIT del Segugio infernale aumenta del 3% per ogni unità Inferno schierata.</span><span style="color: black">
 
-### 5 Skill: Attacco ustionante
+### Tecnica speciale fazione I : Attacco ustionante
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero anti-incantesimo
+### Tecnica speciale fazione II : Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

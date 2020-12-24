@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /de/units/Berserker/
 excerpt: "Einheiten Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Berserker"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Kriegszorn
+### Gewöhnliche Fähigkeit 1 : Kriegszorn
  **Description:** <span style="color: #645252;font-size:20px">Je niedriger seine LP, desto mehr steigt der Angriff des Berserkers, bis zu einem maximalen Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Alle 20 Sek. ertönt der Kriegsschrei des Berserkers, der seinen Schaden 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und sein Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und alle gegnerischen Einheiten 10 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;abschreckt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Amoklauf
+### Gewöhnliche Fähigkeit 2 : Amoklauf
  **Description:** <span style="color: #645252;font-size:20px">Der Berserker ist immun gegen &lt;Versteinerung&gt; und &lt;Betäubung&gt;. Das ANG-Tempo des Berserkers wird erhöht um <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %.</span><span style="color: black"> Wenn die LP des Berserkers unter 35 % sinken, wird der Effekt verdoppelt (bleibt auch dann aktiv, wenn die LP geheilt werden.)</span><span style="color: black">
 
-### 4 Skill: Unsterblicher Kriegsgott
+### Gewöhnliche Fähigkeit 3 : Unsterblicher Kriegsgott
  **Description:** <span style="color: #645252;font-size:20px">Für jede andere eingesetzte Burg-Einheit wird der Schaden des Berserkers erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, Kritischer Treffer steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Nach dem Tod wird der Berserker zu einer Marsstatue, die den Schaden verbündeter Burg-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP regeneriert.</span><span style="color: black">
 
-### 5 Skill: Kampfzelot
+### Fraktions-Spezialfähigkeit I : Kampfzelot
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

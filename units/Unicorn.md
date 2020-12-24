@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Unicorn"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
 ## Skills
-### 1 Skill: null
+### Ultimate Skill: null
  **Description:** 
 
-### 2 Skill: Flickering Figures
+### Regular Skill 1 : Flickering Figures
  **Description:** <span style="color: #645252;font-size:20px">Every time the Unicorn dodges, it has a great chance of creating a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for itself that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP.</span><span style="color: black">
 
-### 3 Skill: Angelic Light
+### Regular Skill 2 : Angelic Light
  **Description:** <span style="color: #645252;font-size:20px">&lt;Blind&gt; increases the unit's damage taken by the target by additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Bold Leader
+### Regular Skill 3 : Bold Leader
  **Description:** <span style="color: #645252;font-size:20px">Unicorn's dodge increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants the Unicorn 40 extra dodge for every friendly Charging Unit on the battlefield.</span><span style="color: black">
 
-### 5 Skill: Calm Proliferation
+### Faction Special Skill I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Hatred Mark
+### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent

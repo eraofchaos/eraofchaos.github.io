@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /es/units/Firebird/
 excerpt: "Unidades El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Pájaro Ígneo"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
-### 1 Skill: Aliento de llamas
+### Habilidad definitiva: Aliento de llamas
  **Description:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo diezma a las unidades hostiles en una zona grande delante de él, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño. El golpe crítico aumenta en 500 contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Lengua de fuego
+### Habilidad normal 1 : Lengua de fuego
  **Description:** <span style="color: #645252;font-size:20px">Cuando el Pájaro Ígneo se enfrenta a unidades de nueve, sus ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a 3 unidades hostiles.</span><span style="color: black">
 
-### 3 Skill: Resurrección
+### Habilidad normal 2 : Resurrección
  **Description:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo revive 5 s después de su primera muerte, lo que restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV.</span><span style="color: black">
 
-### 4 Skill: Impulso ígneo
+### Habilidad normal 3 : Impulso ígneo
  **Description:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su daño crítico aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Afinidad elemental
+### Habilidad especial de la facción I : Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflicto elemental
+### Habilidad especial de la facción II : Conflicto elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

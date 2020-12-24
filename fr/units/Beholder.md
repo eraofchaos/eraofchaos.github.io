@@ -3,7 +3,7 @@ title: "Œil maléfique"
 permalink: /fr/units/Beholder/
 excerpt: "Unités Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Œil maléfique"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
-### 1 Skill: Contrôle mental
+### Capacité ultime: Contrôle mental
  **Description:** <span style="color: #645252;font-size:20px">L'Œil maléfique contrôle une unité ennemie aléatoire. La cible subit une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max par seconde pendant 8 secondes. Lorsqu'elle est contrôlée, l'unité ciblée est dans l'incapacité d'attaquer, de bouger ou d'utiliser des compétences.</span><span style="color: black">
 
-### 2 Skill: Pénétration de sort
+### Compétence normale 1 : Pénétration de sort
  **Description:** <span style="color: #645252;font-size:20px">Quand un Œil maléfique arrive sur le champ de bataille, il ouvre ses 4 yeux de la mort. Chaque œil octroie </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts. Quand il tue une cible, il ferme un œil. Il n'en ferme jamais plus de 3 à la fois.</span><span style="color: black">
 
-### 3 Skill: Fragilité
+### Compétence normale 2 : Fragilité
  **Description:** <span style="color: #645252;font-size:20px">Quand un Œil maléfique est sur le champ de bataille, la quantité initiale de mana des Héros ennemis est réduite de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand une unité ennemie meurt, la quantité de mana des Héros ennemis est réduite de 10 points supplémentaires.</span><span style="color: black">
 
-### 4 Skill: Amas d'énergie
+### Compétence normale 3 : Amas d'énergie
  **Description:** <span style="color: #645252;font-size:20px">Au début du combat, l'Œil maléfique augmente </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> les PV de toutes vos unités dans une large zone. L'effet dure pendant toute la bataille.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

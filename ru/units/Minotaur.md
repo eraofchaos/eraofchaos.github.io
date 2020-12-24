@@ -3,7 +3,7 @@ title: "Минотавр"
 permalink: /ru/units/Minotaur/
 excerpt: "Отряды null"
 unitID: 705
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Минотавр"
 toc: true
@@ -59,22 +59,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
-### 1 Skill: Вихрь
+### Совершенное умение: Вихрь
  **Description:** <span style="color: #645252;font-size:20px">Минотавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным вражеским отрядам в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### 2 Skill: Высшая свирепость
+### Обычное умение 1 : Высшая свирепость
  **Description:** <span style="color: #645252;font-size:20px">АТК минотавра увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Его обычная атака вызывает у цели <span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 с.</span><span style="color: black">
 
-### 3 Skill: Телосложение разрушителя магии
+### Обычное умение 2 : Телосложение разрушителя магии
  **Description:** <span style="color: #645252;font-size:20px">Минотавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению отряда урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
 
-### 4 Skill: Тактическое решение
+### Обычное умение 3 : Тактическое решение
  **Description:** <span style="color: #645252;font-size:20px">При получении урона от отрядов из 1 или 4 бойцов защита повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При атаке отряда из 9 бойцов критический удар повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Темный конфликт
+### Эксклюзивное умение фракции II : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent

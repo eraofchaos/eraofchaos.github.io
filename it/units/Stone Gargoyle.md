@@ -3,7 +3,7 @@ title: "Gargolla di pietra"
 permalink: /it/units/Stone Gargoyle/
 excerpt: "Unità Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Gargolla di pietra"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
-### 1 Skill: Forma di pietra
+### Tecnica suprema: Forma di pietra
  **Description:** <span style="color: #645252;font-size:20px">La Gargolla di pietra entra in &lt;Forma di pietra&gt; per 10 secondi ogni 20 secondi. Durante questo periodo gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 2 Skill: Repressione superiore
+### Tecnica normale 1 : Repressione superiore
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità non volanti, la Gargolla di pietra gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Artiglio affilato
+### Tecnica normale 2 : Artiglio affilato
  **Description:** <span style="color: #645252;font-size:20px">Perforazione della Gargolla di pietra aumentata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effetto raddoppiato per le unità difensive.</span><span style="color: black">
 
-### 4 Skill: Protezione di pietra
+### Tecnica normale 3 : Protezione di pietra
  **Description:** <span style="color: #645252;font-size:20px">Quando la Gargolla di pietra è in &lt;Forma di pietra&gt;, gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e resistenza magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Mente lucida
+### Tecnica speciale fazione I : Mente lucida
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Esplosione di Energia
+### Tecnica speciale fazione II : Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

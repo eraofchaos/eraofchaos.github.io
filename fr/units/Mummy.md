@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /fr/units/Mummy/
 excerpt: "Unités Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Momie"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
 ## Skills
-### 1 Skill: Malédiction putride
+### Capacité ultime: Malédiction putride
  **Description:** <span style="color: #645252;font-size:20px">La Momie inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies dans une certaine zone autour d'elle toutes les 20 secondes et leur applique </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Maladie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 12 secondes.</span><span style="color: black">
 
-### 2 Skill: Linceul
+### Compétence normale 1 : Linceul
  **Description:** <span style="color: #645252;font-size:20px">Quand le sort &lt;Malédiction putride&gt; est lancé, restaure une quantité de PV égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de vos PV max et augmente la résistance aux dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
-### 3 Skill: Source de maladie
+### Compétence normale 2 : Source de maladie
  **Description:** <span style="color: #645252;font-size:20px">La Momie est immunisée contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Maladie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. La résistance aux dégâts de la Momie augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsque la Momie est sur le champ de bataille, tous les soins reçus par les unités ennemies sont réduits de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dieu de la peste
+### Compétence normale 3 : Dieu de la peste
  **Description:** <span style="color: #645252;font-size:20px">La DÉF de la Momie augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si l'ennemi qui attaque la Momie souffre de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Maladie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, l'effet double.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

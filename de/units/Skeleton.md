@@ -3,7 +3,7 @@ title: "Skelett"
 permalink: /de/units/Skeleton/
 excerpt: "Einheiten Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde."
 unitID: 301
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Skelett"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
-### 1 Skill: Knochenschild
+### Ultimative Fähigkeit: Knochenschild
  **Description:** <span style="color: #645252;font-size:20px">Das Skelett erzeugt einen Knochenschild für sich selbst, wenn seine LP zum ersten Mal unter 50 % fallen. Dieser Schild reduziert 15 Sek. lang den Schaden, den die Einheit erleidet, um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Knochendorn
+### Gewöhnliche Fähigkeit 1 : Knochendorn
  **Description:** <span style="color: #645252;font-size:20px">Das Skelett reflektiert </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des erlittenen Schadens.</span><span style="color: black">
 
-### 3 Skill: Versteinern
+### Gewöhnliche Fähigkeit 2 : Versteinern
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Skeletts werden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht, die ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Schadensreflexion um 10 %.</span><span style="color: black">
 
-### 4 Skill: Brustkorb
+### Gewöhnliche Fähigkeit 3 : Brustkorb
  **Description:** <span style="color: #645252;font-size:20px">Skelette sind immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">, und Schaden, den Fernkampf-Einheiten ihnen zufügen, wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

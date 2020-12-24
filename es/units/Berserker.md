@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /es/units/Berserker/
 excerpt: "Unidades Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
 unitID: 408
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Berserker"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
 ## Skills
-### 1 Skill: null
+### Habilidad definitiva: null
  **Description:** 
 
-### 2 Skill: Furia de guerra
+### Habilidad normal 1 : Furia de guerra
  **Description:** <span style="color: #645252;font-size:20px">El Ataque del Berserker aumenta hasta un máximo de un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> a medida que disminuyen sus PV. El Berserker grita cada 20 s, lo que aumenta su daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;desalienta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades hostiles durante 10 s.</span><span style="color: black">
 
-### 3 Skill: Destrozo
+### Habilidad normal 2 : Destrozo
  **Description:** <span style="color: #645252;font-size:20px">El Berserker es inmune a los efectos de &lt;petrificación&gt; y &lt;aturdimiento&gt;. Aumenta la velocidad de ataque del Berserker un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">. El efecto se duplica cuando sus PV están por debajo del 35%. (Tiene efecto aunque se recuperen PV)</span><span style="color: black">
 
-### 4 Skill: Dios de la guerra inmortal
+### Habilidad normal 3 : Dios de la guerra inmortal
  **Description:** <span style="color: #645252;font-size:20px">Por cada unidad de Bastión adicional dprecisiónesplegada, aumenta el daño de la unidad de Berserker un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. La unidad de Berserker se transforma en una Estatua de Marte al morir, lo que aumenta el daño de las unidades de Bastión amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
-### 5 Skill: Lucha fanática
+### Habilidad especial de la facción I : Lucha fanática
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
 
 ## Talent

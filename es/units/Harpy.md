@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /es/units/Harpy/
 excerpt: "Unidades Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Arpía"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
-### 1 Skill: Garra afilada de Arpía
+### Habilidad definitiva: Garra afilada de Arpía
  **Description:** <span style="color: #645252;font-size:20px">Cuando se ataca a la Arpía, esta tiene una probabilidad de infligir un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades. (Los ataques normales tienen una probabilidad de activar este efecto).</span><span style="color: black">
 
-### 2 Skill: Represión alta
+### Habilidad normal 1 : Represión alta
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades que no pueden volar, el ataque de la Arpía aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Grito de rompehechizos
+### Habilidad normal 2 : Grito de rompehechizos
  **Description:** <span style="color: #645252;font-size:20px">Cuando un Héroe hostil lanza un hechizo, la Arpía reduce la reducción de daño de unidad de las unidades en el mismo camino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. Se acumula hasta 3 veces.</span><span style="color: black">
 
-### 4 Skill: Apuntar en el aire
+### Habilidad normal 3 : Apuntar en el aire
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño crítico de la Arpía un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La Arpía siempre impacta con un golpe crítico contra objetivos <span style="color: #48b946;font-size:20px">&lt;aturdidos&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

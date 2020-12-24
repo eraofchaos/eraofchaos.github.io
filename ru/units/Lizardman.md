@@ -3,7 +3,7 @@ title: "Ящер"
 permalink: /ru/units/Lizardman/
 excerpt: "Отряды null"
 unitID: 802
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Ящер"
 toc: true
@@ -24,8 +24,6 @@ toc: true
  **Rank:** SR
 
  **Unit description:** 
-
- **Recommend:** null
 
  **Info:** Высокий УВС. В бою с большими отрядами наносит больше урона.
 
@@ -61,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: Раздирание
+### Обычное умение 1 : Раздирание
  **Description:** <span style="color: #645252;font-size:20px">Ящеры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Усугубление чумы
+### Обычное умение 2 : Усугубление чумы
  **Description:** 
 
-### 4 Skill: Убийство драконов
+### Обычное умение 3 : Убийство драконов
  **Description:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов ящеры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### 5 Skill: Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent
@@ -96,7 +94,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

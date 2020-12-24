@@ -3,7 +3,7 @@ title: "Demonio"
 permalink: /es/units/Demon/
 excerpt: "Unidades Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne."
 unitID: 504
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Demonio"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
 ## Skills
-### 1 Skill: Golpe hirviente
+### Habilidad definitiva: Golpe hirviente
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Demonios inflige de manera aleatoria </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a una unidad hostil en una zona grande y aumenta su propia esquiva en 300 durante 12 s.</span><span style="color: black">
 
-### 2 Skill: Quemadura
+### Habilidad normal 1 : Quemadura
  **Description:** <span style="color: #645252;font-size:20px">El Demonio restaura <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos cada vez que esquiva.</span><span style="color: black">
 
-### 3 Skill: Esbirro del Infierno
+### Habilidad normal 2 : Esbirro del Infierno
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Demonio un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la curación un 30%.</span><span style="color: black">
 
-### 4 Skill: Unidad de fuego
+### Habilidad normal 3 : Unidad de fuego
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la evasión del Demonio en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la esquiva del Demonio en 40 por cada unidad del Infierno desplegada.</span><span style="color: black">
 
-### 5 Skill: Golpe asador
+### Habilidad especial de la facción I : Golpe asador
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
-### 6 Skill: Resonancia de resistencia
+### Habilidad especial de la facción II : Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent

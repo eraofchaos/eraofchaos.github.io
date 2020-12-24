@@ -3,7 +3,7 @@ title: "Catafratto"
 permalink: /it/units/Cavalier/
 excerpt: "Unità I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Catafratto"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
-### 1 Skill: A cavallo
+### Tecnica suprema: A cavallo
  **Description:** <span style="color: #645252;font-size:20px">Quando un Catafratto entra in battaglia, il suo primo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 sec.</span><span style="color: black">
 
-### 2 Skill: Carica gloriosa
+### Tecnica normale 1 : Carica gloriosa
  **Description:** <span style="color: #645252;font-size:20px">Il CRIT del Catafratto aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Sfondamento rapido
+### Tecnica normale 2 : Sfondamento rapido
  **Description:** <span style="color: #645252;font-size:20px">La prima volta che i Catafratti uccidono un'unità bersaglio, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio successivo.</span><span style="color: black">
 
-### 4 Skill: Abilità a cavallo
+### Tecnica normale 3 : Abilità a cavallo
  **Description:** <span style="color: #645252;font-size:20px">I Catafratti godono di un aumento di PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /de/units/Griffin/
 excerpt: "Einheiten Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Greif"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
-### 1 Skill: Sturzangriff-Konter
+### Ultimative Fähigkeit: Sturzangriff-Konter
  **Description:** <span style="color: #645252;font-size:20px">Bei einem Angriff besteht eine Wahrscheinlichkeit, dass Greifen 3 Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügen. Der Standardangriff kann ebenfalls Sturzflug auslösen.</span><span style="color: black">
 
-### 2 Skill: Befehlsturm
+### Gewöhnliche Fähigkeit 1 : Befehlsturm
  **Description:** <span style="color: #645252;font-size:20px">Wenn sich Greifen auf dem Schlachtfeld befinden, steigt der ANG deiner fliegenden Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Glorreicher Ansturm
+### Gewöhnliche Fähigkeit 2 : Glorreicher Ansturm
  **Description:** <span style="color: #645252;font-size:20px">Wenn Greifen den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">, genießen, steigt 15 Sek. lang ihr Bewegungstempo um 30, der Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Erzengel
+### Gewöhnliche Fähigkeit 3 : Erzengel
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Greifen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Greifen erhalten einen Zusatzbonus von 10 % auf ihre LP für jede verbündete Flugeinheit auf dem Schlachtfeld.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

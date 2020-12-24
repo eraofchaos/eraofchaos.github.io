@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /es/units/Gnoll/
 excerpt: "Unidades Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil."
 unitID: 801
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Gnoll"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.63 | 4.75 | 152.2 |
 
 ## Skills
-### 1 Skill: Bofetada en cadena
+### Habilidad definitiva: Bofetada en cadena
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Gnolls inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo y lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
 
-### 2 Skill: Salvajismo primitivo
+### Habilidad normal 1 : Salvajismo primitivo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ del Gnoll un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Plaga agravante
+### Habilidad normal 2 : Plaga agravante
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Gnolls un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto aumenta un 5% más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
-### 4 Skill: Ejecutar
+### Habilidad normal 3 : Ejecutar
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el ATQ del Gnoll aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Golpe de la plaga
+### Habilidad especial de la facción I : Golpe de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent

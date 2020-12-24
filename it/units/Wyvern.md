@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /it/units/Wyvern/
 excerpt: "Unità Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Viverna"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
-### 1 Skill: Spruzzo velenoso
+### Tecnica suprema: Spruzzo velenoso
  **Description:** <span style="color: #645252;font-size:20px">Ogni 21 secondi, la Viverna spruzza veleno sul bersaglio, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*3+37))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche nell'area e causando <span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. (la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Pestilenza</span><span style="color: black"><span style="color: #645252;font-size:20px"> inflitta dalla Viverna causa danni maggiori)</span><span style="color: black">
 
-### 2 Skill: null
+### Tecnica normale 1 : null
  **Description:** 
 
-### 3 Skill: Simbiosi pestilenziale
+### Tecnica normale 2 : Simbiosi pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Danno della Viverna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 4 Skill: Miasma selvaggio
+### Tecnica normale 3 : Miasma selvaggio
  **Description:** <span style="color: #645252;font-size:20px">ATT della Viverna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Viverna infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e riduce l'efficacia degli effetti di cura (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) su tutte le creature nemiche ogni 20 secondi per 10 secondi.</span><span style="color: black">
 
-### 5 Skill: Attacco pestilenziale
+### Tecnica speciale fazione I : Attacco pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

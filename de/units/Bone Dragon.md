@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /de/units/Bone Dragon/
 excerpt: "Einheiten Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Knochendrache"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Angst
+### Ultimative Fähigkeit: Angst
  **Description:** <span style="color: #645252;font-size:20px">Der Knochendrache verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang bei gegnerischen Einheiten in einem großen Wirkungsbereich alle </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Niedrige Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Außerdem wird die Schadensreduzierung aller Ziele 10 Sek. lang um 20 % reduziert.</span><span style="color: black">
 
-### 2 Skill: Schmetterrolle
+### Gewöhnliche Fähigkeit 1 : Schmetterrolle
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Knochendrachen fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und lässt es 10 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verstummen“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Durchdringung
+### Gewöhnliche Fähigkeit 2 : Durchdringung
  **Description:** <span style="color: #645252;font-size:20px">Die Abwehrdurchdringung des Knochendrachen steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Gegner mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Niedrige Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird der Bonus verdoppelt.</span><span style="color: black">
 
-### 4 Skill: Altern
+### Gewöhnliche Fähigkeit 3 : Altern
  **Description:** <span style="color: #645252;font-size:20px">Wenn sich ein Knochendrache auf dem Schlachtfeld befindet, wird die Schadensreduzierung aller gegnerischen Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

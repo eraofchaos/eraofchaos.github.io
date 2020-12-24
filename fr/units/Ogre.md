@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /fr/units/Ogre/
 excerpt: "Unités Les Ogres ressemblent un peu à des gros singes, mais en bien plus dangereux. Ils sont même capables de lancer des sorts sanguinaires en combat."
 unitID: 404
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Ogre"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
-### 1 Skill: Mare de sang
+### Capacité ultime: Mare de sang
  **Description:** <span style="color: #645252;font-size:20px">L'Ogre invoque une mare de sang pour augmenter le drain de vie des unités alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> dans une large zone. La mare de sang dure 15 secondes.</span><span style="color: black">
 
-### 2 Skill: Peau du Sorcier
+### Compétence normale 1 : Peau du Sorcier
  **Description:** <span style="color: #645252;font-size:20px">La DÉF de l'Ogre augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, sa régénération de PV de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %.</span><span style="color: black">
 
-### 3 Skill: Carnage
+### Compétence normale 2 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Quand les PV de l'Ogre tombent sous la barre des 35 %, l'ATQ de toutes les unités alliées augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant toute la durée du combat.</span><span style="color: black">
 
-### 4 Skill: Détox
+### Compétence normale 3 : Détox
  **Description:** <span style="color: #645252;font-size:20px">Quand un Ogre est sur le champ de bataille, les soins prodigués à toutes les unités alliées augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Zélote combattant
+### Compétence spéciale de faction I : Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

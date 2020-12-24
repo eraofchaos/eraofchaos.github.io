@@ -3,7 +3,7 @@ title: "Медуза"
 permalink: /ru/units/Medusa/
 excerpt: "Отряды null"
 unitID: 704
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Медуза"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Каменный взгляд
+### Совершенное умение: Каменный взгляд
  **Description:** 
 
-### 2 Skill: Стрела со змеиным ядом
+### Обычное умение 1 : Стрела со змеиным ядом
  **Description:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Кожа разрушителя магии
+### Обычное умение 2 : Кожа разрушителя магии
  **Description:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда вражеский герой применяет заклинание, урон отряда у медуз повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### 4 Skill: Обратный удар
+### Обычное умение 3 : Обратный удар
  **Description:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Урон отряда повышается на 2% в течение всего боя при каждом успешном нанесении критического удара. Эффект суммируется до 10 раз.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Темный конфликт
+### Эксклюзивное умение фракции II : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent
@@ -95,7 +92,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

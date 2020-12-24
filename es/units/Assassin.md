@@ -3,7 +3,7 @@ title: "Asesino"
 permalink: /es/units/Assassin/
 excerpt: "Unidades Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Asesino"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
-### 1 Skill: Asesinato
+### Habilidad definitiva: Asesinato
  **Description:** <span style="color: #645252;font-size:20px">Los Asesinos adquieren el estado de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> al comienzo de la batalla y pierden </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> al entablar combate. Cuando un Asesino pierde el </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px">, su siguiente ataque será de ruptura de sigilo, que inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ataque y reduce la curación recibida un 30%. Este efecto se puede activar cada 10 s.</span><span style="color: black">
 
-### 2 Skill: Instinto Asesino
+### Habilidad normal 1 : Instinto Asesino
  **Description:** <span style="color: #645252;font-size:20px">La unidad Asesina aumenta el </span><span style="color: black"><span style="color: #645252;font-size:20px">daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Esta bonificación se duplica bajo el efecto de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ojo de halcón&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Atacar a enemigos</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;cegados&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">aumenta la penetración un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}.</span><span style="color: black">
 
-### 3 Skill: Bomba de humo
+### Habilidad normal 2 : Bomba de humo
  **Description:** <span style="color: #645252;font-size:20px">La unidad Asesina lanza una bomba de humo a sus pies y aumenta su propia DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la vez que</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;ciega&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades enemigas en una zona grande, reduciendo el daño de la unidad y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. La recarga es de 18 s.</span><span style="color: black">
 
-### 4 Skill: Ataque encadenado
+### Habilidad normal 3 : Ataque encadenado
  **Description:** <span style="color: #645252;font-size:20px">Los Asesinos aumentan su daño de unidad en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y sus golpes críticos en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se triplica durante 20 s cuando un Asesino mata a una unidad objetivo y adquiere el modo </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
 
-### 5 Skill: Conflicto armado
+### Habilidad especial de la facción I : Conflicto armado
  **Description:** <span style="color: #645252;font-size:20px">Las unidades neutrales son una fuerza competente. Al luchar contra unidades neutrales, su </span><span style="color: black"><span style="color: #645252;font-size:20px">daño de unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%.</span><span style="color: black">
 
-### 6 Skill: Potenciador de coraje
+### Habilidad especial de la facción II : Potenciador de coraje
  **Description:** <span style="color: #645252;font-size:20px">Las unidades neutrales pueden resistir una gran cantidad de fuerza. Cada vez que pierden el 10% de sus PV, su </span><span style="color: black"><span style="color: #645252;font-size:20px">defensa aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Pikeman"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
 ## Skills
-### 1 Skill: Spear Array
+### Ultimate Skill: Spear Array
  **Description:** <span style="color: #645252;font-size:20px">Pikemen deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
-### 2 Skill: Iron Armor
+### Regular Skill 1 : Iron Armor
  **Description:** <span style="color: #645252;font-size:20px">Increases DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and gives </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> extra HP for Pikemen.</span><span style="color: black">
 
-### 3 Skill: Dragon Slayer
+### Regular Skill 2 : Dragon Slayer
  **Description:** <span style="color: #645252;font-size:20px">When facing a 1-man or 4-man units, pikemen's CRIT Hit is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Inspiring
+### Regular Skill 3 : Inspiring
  **Description:** <span style="color: #645252;font-size:20px">Increases Pikemen's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+18}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Siege Combat
+### Faction Special Skill I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Defense Resonance
+### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Picchiere"
 permalink: /it/units/Pikeman/
 excerpt: "Unità I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione."
 unitID: 101
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Picchiere"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
 ## Skills
-### 1 Skill: Muro di lance
+### Tecnica suprema: Muro di lance
  **Description:** <span style="color: #645252;font-size:20px">I Picchieri infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
 
-### 2 Skill: Armatura di ferro
+### Tecnica normale 1 : Armatura di ferro
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la DIF di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, e aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> i PF dei Picchieri.</span><span style="color: black">
 
-### 3 Skill: Ammazzadraghi
+### Tecnica normale 2 : Ammazzadraghi
  **Description:** <span style="color: #645252;font-size:20px">Contro unità da 1 o 4 membri, il CRIT dei Picchieri aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Motivazione
+### Tecnica normale 3 : Motivazione
  **Description:** <span style="color: #645252;font-size:20px">Aumenta l'ATT dei Picchieri (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+18}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

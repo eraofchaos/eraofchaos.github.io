@@ -3,7 +3,7 @@ title: "Drago nero"
 permalink: /it/units/Black Dragon/
 excerpt: "Unità Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Drago nero"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
 ## Skills
-### 1 Skill: Soffio del drago
+### Tecnica suprema: Soffio del drago
  **Description:** <span style="color: #645252;font-size:20px">Il Drago nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 15 secondi a tutte le unità ostili in un'ampia area, provocando danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi alle unità circostanti e infliggendo loro <span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
-### 2 Skill: Squama di Drago nero
+### Tecnica normale 1 : Squama di Drago nero
  **Description:** <span style="color: #645252;font-size:20px">Il Drago nero è immune a <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e <span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando subisce un colpo critico, recupera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi. Recupero: 6 secondi.</span><span style="color: black">
 
-### 3 Skill: Immunità alla magia
+### Tecnica normale 2 : Immunità alla magia
  **Description:** <span style="color: #645252;font-size:20px">Immune al danno magico degli eroi. Ogni volta che lancia &lt;Soffio del drago&gt;, aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia. Cumulabile fino a 4 volte.</span><span style="color: black">
 
-### 4 Skill: Resistenza al calore
+### Tecnica normale 3 : Resistenza al calore
  **Description:** <span style="color: #645252;font-size:20px">Il Drago nero gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Rid DAN ulteriormente raddoppiata quando affronta unità affette da <span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando il Drago nero affronta unità Torre, il suo danno aumenta del 50%.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

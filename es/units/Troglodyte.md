@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /es/units/Troglodyte/
 excerpt: "Unidades Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato."
 unitID: 701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Troglodita"
 toc: true
@@ -62,22 +62,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
-### 1 Skill: Formación de lanzas
+### Habilidad definitiva: Formación de lanzas
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Trogloditas inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo y lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
 
-### 2 Skill: Agudo
+### Habilidad normal 1 : Agudo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del Troglodita.</span><span style="color: black">
 
-### 3 Skill: Olor de rompehechizos
+### Habilidad normal 2 : Olor de rompehechizos
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica y la reducción de daño de la unidad de Trogloditas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s. Este efecto se duplica cada vez que un Héroe hostil lanza un hechizo.</span><span style="color: black">
 
-### 4 Skill: Lanza envenenada
+### Habilidad normal 3 : Lanza envenenada
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los ataques normales del Troglodita un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño contra objetivos con <span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

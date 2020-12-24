@@ -3,7 +3,7 @@ title: "Elemental de Hielo"
 permalink: /es/units/Ice Elemental/
 excerpt: "Unidades Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Elemental de Hielo"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
-### 1 Skill: Muro de hielo
+### Habilidad definitiva: Muro de hielo
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Elemental de Hielo crea un muro de hielo delante de ella, lo que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congela&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a los objetivos en una fila horizontal en una zona grande durante <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 2 Skill: Sujeción helada
+### Habilidad normal 1 : Sujeción helada
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de la Elemental de Hielo tienen una probabilidad de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 15 s. Además, reduce la velocidad de ataque del objetivo un <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s, hasta un máximo de 5 acumulaciones.</span><span style="color: black">
 
-### 3 Skill: Fuerza elemental
+### Habilidad normal 2 : Fuerza elemental
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Elementales de Hielo en el campo de batalla, aumenta la reducción de daño contra hechizos de agua de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la reducción de daño contra hechizos de agua de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una Elemental de Hielo en el campo de batalla, aumenta la regeneración de maná del Héroe amistoso un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: null
+### Habilidad normal 3 : null
  **Description:** 
 
-### 5 Skill: Afinidad elemental
+### Habilidad especial de la facción I : Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflicto elemental
+### Habilidad especial de la facción II : Conflicto elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /es/units/Giant/
 excerpt: "Unidades Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
 unitID: 607
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Gigante"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
 
 ## Skills
-### 1 Skill: null
+### Habilidad definitiva: null
  **Description:** 
 
-### 2 Skill: Furia del trueno
+### Habilidad normal 1 : Furia del trueno
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Gigantes inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a todas las unidades hostiles, y reduce el ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
-### 3 Skill: Fuerza de Gigante
+### Habilidad normal 2 : Fuerza de Gigante
  **Description:** <span style="color: #645252;font-size:20px">Cuanto más lejos esté el Gigante de su objetivo, mayor es su ataque. Aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> el ataque por cada 100 de alcance. Cuando se activa &lt;Despertar mágico&gt;, se disipan las penalizaciones de los Gigantes (salvo los efectos de auras)</span><span style="color: black">
 
-### 4 Skill: null
+### Habilidad normal 3 : null
  **Description:** 
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

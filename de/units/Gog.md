@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /de/units/Gog/
 excerpt: "Einheiten Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Gog"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
-### 1 Skill: Feuerwand
+### Ultimative Fähigkeit: Feuerwand
  **Description:** <span style="color: #645252;font-size:20px">Die Gog beschwört vor sich eine Feuerwand, die gegnerischen Einheiten, die von ihr umgeben sind, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Die Feuerwand bleibt 8 Sek. lang bestehen.</span><span style="color: black">
 
-### 2 Skill: Flammende Explosion
+### Gewöhnliche Fähigkeit 1 : Flammende Explosion
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Gog hat eine gewisse Wahrscheinlichkeit, 3 Zielen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zuzufügen. Möglicherweise erleiden die Ziele 6 Sek. lang </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Einäscherung
+### Gewöhnliche Fähigkeit 2 : Einäscherung
  **Description:** <span style="color: #645252;font-size:20px">Der ANG der Gog steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Feuerphantom
+### Gewöhnliche Fähigkeit 3 : Feuerphantom
  **Description:** <span style="color: #645252;font-size:20px">Die LP der Gog werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Schadensreduzierung gegen Feuerzauber wird erhöht um 40 %.</span><span style="color: black">
 
-### 5 Skill: Sengender Angriff
+### Fraktions-Spezialfähigkeit I : Sengender Angriff
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Magieresistenz-Resonanz
+### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

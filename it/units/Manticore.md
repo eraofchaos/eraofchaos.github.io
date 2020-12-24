@@ -3,7 +3,7 @@ title: "Manticora"
 permalink: /it/units/Manticore/
 excerpt: "Unità Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Manticora"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
-### 1 Skill: Veleno paralizzante
+### Tecnica suprema: Veleno paralizzante
  **Description:** <span style="color: #645252;font-size:20px">La Manticora attacca l'unità bersaglio ogni 20 secondi, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e alle unità nemiche circostanti e riducendone la DIF del 30% per 10 secondi.</span><span style="color: black">
 
-### 2 Skill: Scelta tattica
+### Tecnica normale 1 : Scelta tattica
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base della Manticora ha una probabilità del 25% di ridurre la Rid DAN delle unità da mischia (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità a distanza o incantatori, l'attacco base ha una probabilità del 25% di aumentare il CRIT delle unità alleate di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. Cumulabile fino a 8 volte.</span><span style="color: black">
 
-### 3 Skill: null
+### Tecnica normale 2 : null
  **Description:** 
 
-### 4 Skill: Spruzzo di sangue avvelenato
+### Tecnica normale 3 : Spruzzo di sangue avvelenato
  **Description:** <span style="color: #645252;font-size:20px">Quando il suo bersaglio viene abbattuto, causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche e ne riduce del 30% la DIF per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec. Utilizzabile una sola volta per battaglia.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

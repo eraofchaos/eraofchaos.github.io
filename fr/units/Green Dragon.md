@@ -3,7 +3,7 @@ title: "Dragon vert"
 permalink: /fr/units/Green Dragon/
 excerpt: "Unités Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Dragon vert"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
 ## Skills
-### 1 Skill: Torrent empoisonné
+### Capacité ultime: Torrent empoisonné
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon vert peut cracher du venin dans une large zone devant lui toutes les 30 secondes, ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités terrestres ennemies touchées. Les dégâts infligés aux cibles victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 50 %.</span><span style="color: black">
 
-### 2 Skill: Souffle venimeux
+### Compétence normale 1 : Souffle venimeux
  **Description:** <span style="color: #645252;font-size:20px">Quand cette unité fait face à une unité de 9 combattants, son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts de zone à 3 cibles.</span><span style="color: black">
 
-### 3 Skill: Écaille de Dragon vert
+### Compétence normale 2 : Écaille de Dragon vert
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon vert est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la résistance des unités alliées aux sorts d'eau est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand le Dragon vert bénéficie d'un &lt;bouclier&gt;, sa vitesse d'attaque augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet dure 15 secondes. Pour chaque unité volante déployée, le Dragon vert augmente les dégâts de 3 %.</span><span style="color: black">
 
-### 4 Skill: Renfort céleste
+### Compétence normale 3 : Renfort céleste
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon vert inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies sur la ligne arrière. Les dégâts infligés aux cibles victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

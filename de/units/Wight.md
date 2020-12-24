@@ -3,7 +3,7 @@ title: "Geist"
 permalink: /de/units/Wight/
 excerpt: "Einheiten Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Geist"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
-### 1 Skill: Grauenhaftes Kreischen
+### Ultimative Fähigkeit: Grauenhaftes Kreischen
  **Description:** <span style="color: #645252;font-size:20px">Auf dem Schlachtfeld verursacht der erste Angriff eines Geistes mit hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Stille“</span><span style="color: black"><span style="color: #645252;font-size:20px"> bei einer gegnerischen Einheit im Weg. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
-### 2 Skill: Inkarnation des Schreckens
+### Gewöhnliche Fähigkeit 1 : Inkarnation des Schreckens
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Erhöht den ANG um 8 % für jede verbündete Einheit, die auf dem Schlachtfeld stirbt. Wirkt die ganze Schlacht über, maximal 10 Stapel.</span><span style="color: black">
 
-### 3 Skill: Fluch des Missgeschicks
+### Gewöhnliche Fähigkeit 2 : Fluch des Missgeschicks
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Geist besiegt wird, wirkt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stille&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle gegnerischen Einheiten. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
-### 4 Skill: Unsichtbarkeit
+### Gewöhnliche Fähigkeit 3 : Unsichtbarkeit
  **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn er Schaden durch einen gegnerischen Zauber erleidet, erhält der Held 10 Mana zurück.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Medusa"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Stone Gaze
+### Ultimate Skill: Stone Gaze
  **Description:** <span style="color: #645252;font-size:20px">The Medusa unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 random hostile unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 2 Skill: Snake Venom Arrow
+### Regular Skill 1 : Snake Venom Arrow
  **Description:** <span style="color: #645252;font-size:20px">Increases Medusa's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets increases by 30%.</span><span style="color: black">
 
-### 3 Skill: Spell Breaker's Skin
+### Regular Skill 2 : Spell Breaker's Skin
  **Description:** <span style="color: #645252;font-size:20px">Medusa's magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever a hostile hero casts a spell, Medusa's unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
 
-### 4 Skill: Reflex Blast
+### Regular Skill 3 : Reflex Blast
  **Description:** <span style="color: #645252;font-size:20px">Medusa's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases unit's damage by 2% throughout the entire battle whenever a Crit Hit is landed, up to 10 stacks.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Dark Conflict
+### Faction Special Skill II : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

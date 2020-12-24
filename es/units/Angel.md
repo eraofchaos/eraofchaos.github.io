@@ -3,7 +3,7 @@ title: "Ángel"
 permalink: /es/units/Angel/
 excerpt: "Unidades Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados."
 unitID: 107
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Ángel"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Condenar
+### Habilidad definitiva: Condenar
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Ángel inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades hostiles al azar, y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
 
-### 2 Skill: Resurrección
+### Habilidad normal 1 : Resurrección
  **Description:** <span style="color: #645252;font-size:20px">El Ángel revive a 1 de tus unidades y restablece un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV de esa unidad.</span><span style="color: black">
 
-### 3 Skill: Resplandor
+### Habilidad normal 2 : Resplandor
  **Description:** <span style="color: #645252;font-size:20px">Si el Ángel está en el campo de batalla, todas las unidades aliadas reciben regeneración de PV adicional cada 2 s igual a un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos.</span><span style="color: black">
 
-### 4 Skill: Francotirador obcecado
+### Habilidad normal 3 : Francotirador obcecado
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ del Ángel un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño un 10%. Cuando el Ángel luche contra la facción de Infierno, el daño de unidad que inflige aumenta un 50%.</span><span style="color: black">
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ## Talent

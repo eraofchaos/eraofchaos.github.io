@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
-### 1 Skill: Ice Wall
+### Ultimate Skill: Ice Wall
  **Description:** <span style="color: #645252;font-size:20px">The Ice Elemental unit builds an icy wall in front of the target, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;freezing&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets along a horizontal row within a large range for <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 2 Skill: Cold Grip
+### Regular Skill 1 : Cold Grip
  **Description:** <span style="color: #645252;font-size:20px">Ice Elemental's normal attack has a chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 15s. In addition, decreases ATK speed of the target by <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s, up to 5 stacks.</span><span style="color: black">
 
-### 3 Skill: Elemental Force
+### Regular Skill 2 : Elemental Force
  **Description:** <span style="color: #645252;font-size:20px">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces water magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: null
+### Regular Skill 3 : null
  **Description:** 
 
-### 5 Skill: Elemental Affinity
+### Faction Special Skill I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Elemental Conflict
+### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

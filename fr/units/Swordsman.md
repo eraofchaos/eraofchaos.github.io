@@ -3,7 +3,7 @@ title: "Spadassin"
 permalink: /fr/units/Swordsman/
 excerpt: "Unités Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Spadassin"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Encouragement
+### Compétence normale 1 : Encouragement
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts des Spadassins augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double en cas d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Double frappe
+### Compétence normale 2 : Double frappe
  **Description:** <span style="color: #645252;font-size:20px">Les Spadassins ont </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'attaquer la cible deux fois lors d'une attaque normale. La 2e attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible. Quand ils affrontent des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, les chances de déclencher &lt;Double frappe&gt; passent à 100 %.</span><span style="color: black">
 
-### 4 Skill: Salut
+### Compétence normale 3 : Salut
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Spadassins a une grande chance de leur rendre une quantité de PV égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max.</span><span style="color: black">
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

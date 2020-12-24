@@ -3,7 +3,7 @@ title: "Мечник"
 permalink: /ru/units/Swordsman/
 excerpt: "Отряды В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Мечник"
 toc: true
@@ -24,8 +24,6 @@ toc: true
  **Rank:** SR
 
  **Unit description:** Божественная защита снижает получаемый урон.
-
- **Recommend:** null
 
  **Info:** В начале игры наносит огромный урон. Наносит двойной удар и может исцеляться.
 
@@ -61,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: Воодушевление
+### Обычное умение 1 : Воодушевление
  **Description:** 
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать цель 2 раза. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** 
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
 ## Talent

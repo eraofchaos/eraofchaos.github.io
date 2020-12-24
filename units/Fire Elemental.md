@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Units An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
-### 1 Skill: Heavenly Fire
+### Ultimate Skill: Heavenly Fire
  **Description:** <span style="color: #645252;font-size:20px">The Fire Elemental unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 1 hostile unit, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> it for 15s.</span><span style="color: black">
 
-### 2 Skill: null
+### Regular Skill 1 : null
  **Description:** 
 
-### 3 Skill: Elemental Force
+### Regular Skill 2 : Elemental Force
  **Description:** <span style="color: #645252;font-size:20px">When Fire Elemental unit is on the battlefield, it increases magic resistance of fire spells for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces magic resistance of fire spells for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Fire Elemental is on the battlefield, reduces enemy hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Fire Energy Conductor
+### Regular Skill 3 : Fire Energy Conductor
  **Description:** <span style="color: #645252;font-size:20px">Fire Elemental restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Max HP for each hostile unit it kills   and increases its ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Works throughout the entire battle, up to 3 stacks.</span><span style="color: black">
 
-### 5 Skill: Elemental Affinity
+### Faction Special Skill I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Elemental Conflict
+### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

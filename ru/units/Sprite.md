@@ -3,7 +3,7 @@ title: "Unknown_TEAM_901"
 permalink: /ru/units/Sprite/
 excerpt: "Отряды null"
 unitID: 901
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_901"
 toc: true
@@ -22,10 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** R
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** После гибели взрывается, вызывает немоту у цели, увеличивает начальную ману героя.
 
@@ -62,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
-### 1 Skill: Энергетическое разбивание
+### Совершенное умение: Энергетическое разбивание
  **Description:** <span style="color: #645252;font-size:20px">Когда феи погибают, они наносят урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ цели. Максимальный урон при этом равен 1000% от ее АТК.</span><span style="color: black">
 
-### 2 Skill: Благословение фей
+### Обычное умение 1 : Благословение фей
  **Description:** <span style="color: #645252;font-size:20px">Когда начинается бой, феи повышают сопротивление магии всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект также удваивается для фей.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** 
 
-### 4 Skill: Преданность
+### Обычное умение 3 : Преданность
  **Description:** 
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ## Talent
@@ -97,7 +93,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

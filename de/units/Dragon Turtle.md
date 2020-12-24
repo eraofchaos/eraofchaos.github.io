@@ -3,7 +3,7 @@ title: "Drachenschildkröte"
 permalink: /de/units/Dragon Turtle/
 excerpt: "Einheiten Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Drachenschildkröte"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
-### 1 Skill: Schmetterrolle
+### Ultimative Fähigkeit: Schmetterrolle
  **Description:** 
 
-### 2 Skill: Giftodem St. 2
+### Gewöhnliche Fähigkeit 1 : Giftodem St. 2
  **Description:** 
 
-### 3 Skill: Schutzwall der Wellen
+### Gewöhnliche Fähigkeit 2 : Schutzwall der Wellen
  **Description:** <span style="color: #645252;font-size:20px">Sobald die Drachenschildkröte das Schlachtfeld betritt, </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie gegnerische Einheiten in hohem Radius 2 Sek. lang. Nachdem &lt;Panzerschild&gt; 20 Sek. lang aktiv war, stellt die Drachenschildkröte 15 % LP wieder her, und sie erhält einen ABW-Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für die gesamte Schlacht.</span><span style="color: black">
 
-### 4 Skill: Verstärkung
+### Gewöhnliche Fähigkeit 3 : Verstärkung
  **Description:** <span style="color: #645252;font-size:20px">Die Drachenschildkröte erzeugt einen Verstärkungsschild, der die Schadensreduzierung für sie und alle verbündeten Bucht-Einheiten alle 20 Sek. um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Wirkungsdauer 8 Sek. (Dieser Effekt kann nicht gebannt werden).</span><span style="color: black">
 
-### 5 Skill: Ruhiger Körper
+### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### 6 Skill: Piratenoffensive
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ## Talent

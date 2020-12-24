@@ -3,7 +3,7 @@ title: "Cavaliere nero"
 permalink: /it/units/Black Knight/
 excerpt: "Unità I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Cavaliere nero"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Attacco critico
+### Tecnica suprema: Attacco critico
  **Description:** <span style="color: #645252;font-size:20px">Il Cavaliere nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio, applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 10 secondi.</span><span style="color: black">
 
-### 2 Skill: Carica mortale
+### Tecnica normale 1 : Carica mortale
  **Description:** <span style="color: #645252;font-size:20px">Quando il bersaglio del Cavaliere nero viene sconfitto, aumenta ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 5 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
-### 3 Skill: Abilità a cavallo
+### Tecnica normale 2 : Abilità a cavallo
  **Description:** <span style="color: #645252;font-size:20px">L'unità gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN aumentata (</span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Repressione terrificante
+### Tecnica normale 3 : Repressione terrificante
  **Description:** <span style="color: #645252;font-size:20px">Il Cavaliere nero gode di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo DAN CRIT aumenta del 50%.</span><span style="color: black">
 
-### 5 Skill: Difesa funerea
+### Tecnica speciale fazione I : Difesa funerea
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Armonia magica
+### Tecnica speciale fazione II : Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent

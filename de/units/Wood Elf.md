@@ -3,7 +3,7 @@ title: "Waldelfe"
 permalink: /de/units/Wood Elf/
 excerpt: "Einheiten Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
 unitID: 203
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Waldelfe"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Doppelschlag
+### Gewöhnliche Fähigkeit 1 : Doppelschlag
  **Description:** <span style="color: #645252;font-size:20px">Die Waldelfe schießt bei Standardangriffen mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> 2 Pfeile. Der zweite Pfeil verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;verlangsamte&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit für &lt;Doppelschlag&gt; auf 100 %.</span><span style="color: black">
 
-### 3 Skill: Elfenschutz
+### Gewöhnliche Fähigkeit 2 : Elfenschutz
  **Description:** <span style="color: #645252;font-size:20px">Jede Waldelfe erhält jedes Mal, wenn ein gegnerischer Held einen Zauber wirkt, den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Schild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, der 5 Sek. lang Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der LP absorbiert. Die Abklingzeit beträgt 10 Sek.</span><span style="color: black">
 
-### 4 Skill: Feuer auf Anführer konzentrieren
+### Gewöhnliche Fähigkeit 3 : Feuer auf Anführer konzentrieren
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Waldelfe steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Waldelfe erhält zusätzlich 40 Kritischer Treffer für jede verbündete Fernkampf-Einheit auf dem Schlachtfeld.</span><span style="color: black">
 
-### 5 Skill: Ruhige Robustheit
+### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Hasszeichen
+### Fraktions-Spezialfähigkeit II : Hasszeichen
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Gárgola de Piedra"
 permalink: /es/units/Stone Gargoyle/
 excerpt: "Unidades Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate."
 unitID: 602
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Gárgola de Piedra"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
-### 1 Skill: Forma de piedra
+### Habilidad definitiva: Forma de piedra
  **Description:** <span style="color: #645252;font-size:20px">La Gárgola de Piedra entra en &lt;Forma de Piedra&gt; durante 10 s cada 20 s. Durante ese periodo, aumenta el ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Represión alta
+### Habilidad normal 1 : Represión alta
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrentan a una unidad que no puede volar, el ataque de las Gárgolas de Piedra aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%,</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Garra afilada
+### Habilidad normal 2 : Garra afilada
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la penetración de defensa de la Gárgola de Piedra en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica contra unidades defensivas.</span><span style="color: black">
 
-### 4 Skill: Refuerzos pétreos
+### Habilidad normal 3 : Refuerzos pétreos
  **Description:** <span style="color: #645252;font-size:20px">Cuando la Gárgola de Piedra está en &lt;Forma de Piedra&gt;, la reducción de daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

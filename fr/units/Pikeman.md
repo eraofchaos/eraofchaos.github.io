@@ -3,7 +3,7 @@ title: "Lancier"
 permalink: /fr/units/Pikeman/
 excerpt: "Unités Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Lancier"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
 ## Skills
-### 1 Skill: Nuée de lances
+### Capacité ultime: Nuée de lances
  **Description:** <span style="color: #645252;font-size:20px">Les Lanciers infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
-### 2 Skill: Armure en fer
+### Compétence normale 1 : Armure en fer
  **Description:** <span style="color: #645252;font-size:20px">Augmente la DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et rend </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV aux Lanciers.</span><span style="color: black">
 
-### 3 Skill: Tueur de Dragons
+### Compétence normale 2 : Tueur de Dragons
  **Description:** <span style="color: #645252;font-size:20px">Quand ils font face à des unités de 1 ou de 4 combattants, les coups critiques des Lanciers augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Encouragement
+### Compétence normale 3 : Encouragement
  **Description:** <span style="color: #645252;font-size:20px">Augmente l'ATQ des Lanciers de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+18} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double en cas d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

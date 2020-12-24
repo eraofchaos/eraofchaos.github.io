@@ -3,7 +3,7 @@ title: "Vampir"
 permalink: /de/units/Vampire/
 excerpt: "Einheiten Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Vampir"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Lebensentzug
+### Ultimative Fähigkeit: Lebensentzug
  **Description:** <span style="color: #645252;font-size:20px">Alle 12 Sekunden fügt die Vampir-Einheit einer zufälligen Einheit in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und entzieht ihr </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP.</span><span style="color: black">
 
-### 2 Skill: Lebensentzug
+### Gewöhnliche Fähigkeit 1 : Lebensentzug
  **Description:** <span style="color: #645252;font-size:20px">Der Lebensentzug des Vampirs wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> stärker.</span><span style="color: black">
 
-### 3 Skill: Anschwellen
+### Gewöhnliche Fähigkeit 2 : Anschwellen
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Vampir &lt;Lebensentzug&gt; wirkt, wird der Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verstärkt. Wirkt bis zum Ende der Schlacht, max. 3 Stapel.</span><span style="color: black">
 
-### 4 Skill: Blutjagd
+### Gewöhnliche Fähigkeit 3 : Blutjagd
  **Description:** <span style="color: #645252;font-size:20px">Wenn er ein Ziel angreift, dessen LP-Prozentsatz niedriger als deiner ist, steigen der ANG des Vampirs um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

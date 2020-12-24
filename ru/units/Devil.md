@@ -3,7 +3,7 @@ title: "Дьявол"
 permalink: /ru/units/Devil/
 excerpt: "Отряды null"
 unitID: 507
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Дьявол"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Жнец мучений
+### Совершенное умение: Жнец мучений
  **Description:** <span style="color: #645252;font-size:20px">Как только начинается бой, выполняется атака на самый дальний отряд в переднем ряду или, если подходящей цели нет, случайный отряд в заднем ряду с нанесением </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и вызов огненной бездны, которая наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона каждые 0,5 сек. в течение 6 сек. Вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. в первый раз. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">Возможно использование в любой позиции. В случае гибели отряда происходит сброс умения.</span><span style="color: black">
 
-### 2 Skill: Жестокая пытка
+### Обычное умение 1 : Жестокая пытка
  **Description:** 
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Когда этот отряд находится на поле боя, он наносит урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ всем вражеским отрядам каждые 2 сек.</span><span style="color: black">
 
-### 4 Skill: Душегубство
+### Обычное умение 3 : Душегубство
  **Description:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. В бою против отряда из Замка урон увеличивается на 50%.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Mantícora"
 permalink: /es/units/Manticore/
 excerpt: "Unidades Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Mantícora"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
-### 1 Skill: Veneno paralizante
+### Habilidad definitiva: Veneno paralizante
  **Description:** <span style="color: #645252;font-size:20px">Las Mantícoras atacan a la unidad objetivo cada 20 s e infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo y a los enemigos a su alrededor a cierta distancia y reduce la DEF un 30% durante 10 s.</span><span style="color: black">
 
-### 2 Skill: Decisión táctica
+### Habilidad normal 1 : Decisión táctica
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de la Mantícora tienen un 25% de probabilidades de disminuir la reducción de daño de las unidades cuerpo a cuerpo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a unidades a distancia o lanzadoras, los ataques normales tienen una probabilidad del 25% de aumentar el golpe crítico de las unidades amistosas en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. Se acumula 8 veces.</span><span style="color: black">
 
-### 3 Skill: null
+### Habilidad normal 2 : null
  **Description:** 
 
-### 4 Skill: Sangre envenenada salpicada
+### Habilidad normal 3 : Sangre envenenada salpicada
  **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota al objetivo, la DEF de todas las unidades hostiles se reduce un 30% y quedan <span style="color: #48b946;font-size:20px">&lt;silenciadas&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Solo se activa una vez por batalla.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

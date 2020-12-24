@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /it/units/Storm Elemental/
 excerpt: "Unità Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Elementale tempesta"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Segnale folgorante
+### Tecnica suprema: Segnale folgorante
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Elementale della tempesta causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche di fronte a sé per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 2 Skill: Fulmine rimbalzante
+### Tecnica normale 1 : Fulmine rimbalzante
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale della tempesta ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di colpire il bersaglio con un fulmine che infligge il 300% dei danni.</span><span style="color: black">
 
-### 3 Skill: Forza elementale
+### Tecnica normale 2 : Forza elementale
  **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale della tempesta è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Aria (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), riduce la resistenza dei nemici agli incantesimi di tipo Aria (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e aumenta il mana iniziale dell'eroe alleato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Perforazione folgorante
+### Tecnica normale 3 : Perforazione folgorante
  **Description:** <span style="color: #645252;font-size:20px">Danno dell'Elementale della tempesta aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Affinità elementale
+### Tecnica speciale fazione I : Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Conflitto elementale
+### Tecnica speciale fazione II : Conflitto elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

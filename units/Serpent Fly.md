@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Units Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Serpent Fly"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
 ## Skills
-### 1 Skill: Marsh Plague
+### Ultimate Skill: Marsh Plague
  **Description:** <span style="color: #645252;font-size:20px">The Serpent Fly unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target unit, and makes them suffer from <span style="color: #48b946;font-size:20px">&lt;plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### 2 Skill: Flies in the Air
+### Regular Skill 1 : Flies in the Air
  **Description:** <span style="color: #645252;font-size:20px">Serpent Fly's ATK Speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Plague Symbiosis
+### Regular Skill 2 : Plague Symbiosis
  **Description:** <span style="color: #645252;font-size:20px">Serpent Fly's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Serpent Fly's Crit Hit will be increased by 75 further for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
-### 4 Skill: Weakness
+### Regular Skill 3 : Weakness
  **Description:** <span style="color: #645252;font-size:20px">When the Serpent Fly lands a Crit Hit, it has an 8% chance to decrease unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}</span><span style="color: black"><span style="color: #645252;font-size:20px"> of hostile units within a certain area for 10s, up to 3 stacks.</span><span style="color: black">
 
-### 5 Skill: Plague Strike
+### Faction Special Skill I : Plague Strike
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
 
-### 6 Skill: Rise of Vitality
+### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent

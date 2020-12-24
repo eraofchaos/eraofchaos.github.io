@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Minotaur"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
-### 1 Skill: Whirlwind
+### Ultimate Skill: Whirlwind
  **Description:** <span style="color: #645252;font-size:20px">The Minotaur unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> to 3 random hostile units within a large range and decreases their </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK speed for 6s.</span><span style="color: black">
 
-### 2 Skill: Advanced Ferocity
+### Regular Skill 1 : Advanced Ferocity
  **Description:** <span style="color: #645252;font-size:20px">Minotaur's ATK increased by an extra </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### 3 Skill: Spell Breaker's Physique
+### Regular Skill 2 : Spell Breaker's Physique
  **Description:** <span style="color: #645252;font-size:20px">Increases the Minotaur's magic resistance and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> over the next 10s. The effect doubles every time a hostile hero casts a spell.</span><span style="color: black">
 
-### 4 Skill: Tactical Decision
+### Regular Skill 3 : Tactical Decision
  **Description:** <span style="color: #645252;font-size:20px">When taking unit's damage dealt by 1-man or 4-man units, defense will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When attacks a 9-man unit, Crit Hit will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Dark Conflict
+### Faction Special Skill II : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

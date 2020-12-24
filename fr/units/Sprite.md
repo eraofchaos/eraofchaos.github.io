@@ -3,7 +3,7 @@ title: "Fée"
 permalink: /fr/units/Sprite/
 excerpt: "Unités Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
 unitID: 901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Fée"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
-### 1 Skill: Bris d'énergie
+### Capacité ultime: Bris d'énergie
  **Description:** <span style="color: #645252;font-size:20px">Quand une Fée est tuée, elle inflige une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max de la cible (jusqu'à 1 000 % de l'ATQ de la cible).</span><span style="color: black">
 
-### 2 Skill: Bénédiction de la Fée
+### Compétence normale 1 : Bénédiction de la Fée
  **Description:** <span style="color: #645252;font-size:20px">Lorsque le combat commence, la Fée augmente la résistance magique de toutes les unités alliées sur son chemin de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet est également doublé pour la Fée.</span><span style="color: black">
 
-### 3 Skill: Inspiration
+### Compétence normale 2 : Inspiration
  **Description:** <span style="color: #645252;font-size:20px">Quand une Fée est sur le champ de bataille, elle augmente les points de mana des Héros alliés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+0.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dévouement
+### Compétence normale 3 : Dévouement
  **Description:** <span style="color: #645252;font-size:20px">Quand une Fée est tuée, elle inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à la cible pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.15+1.85}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 5 Skill: Affinité élémentaire
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflit élémentaire
+### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Diablillo"
 permalink: /es/units/Imp/
 excerpt: "Unidades Puede que los Diablillos sean demonios de poca monta, pero son astutos y violentos, y muestran un desenfreno terrible en combate."
 unitID: 501
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Diablillo"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
-### 1 Skill: Impulso
+### Habilidad definitiva: Impulso
  **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota a un Diablillo, hay un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de que reviva con sus PV al máximo.</span><span style="color: black">
 
-### 2 Skill: Aniquilar
+### Habilidad normal 1 : Aniquilar
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de los Diablillos tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo y pueden </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;aturdirlo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 2 s.</span><span style="color: black">
 
-### 3 Skill: Agilidad
+### Habilidad normal 2 : Agilidad
  **Description:** <span style="color: #645252;font-size:20px">La esquiva del Diablillo aumenta </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando el Diablillo esquiva, tiene una probabilidad del 20% de reducir 5 de maná del Héroe enemigo. La habilidad tiene una recarga de 5 s.</span><span style="color: black">
 
-### 4 Skill: Esbirro del Infierno
+### Habilidad normal 3 : Esbirro del Infierno
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Diablillo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la curación un 30%.</span><span style="color: black">
 
-### 5 Skill: Golpe asador
+### Habilidad especial de la facción I : Golpe asador
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
-### 6 Skill: Resonancia de resistencia
+### Habilidad especial de la facción II : Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Hombre Lagarto"
 permalink: /es/units/Lizardman/
 excerpt: "Unidades Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa."
 unitID: 802
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Hombre Lagarto"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Dardo envenenado
+### Habilidad definitiva: Dardo envenenado
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Hombres Lagarto inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo y causa <span style="color: #48b946;font-size:20px">&lt;plaga&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
-### 2 Skill: Desgarrar
+### Habilidad normal 1 : Desgarrar
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de los ataques normales del Hombre Lagarto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño contra objetivos con <span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
-### 3 Skill: Plaga agravante
+### Habilidad normal 2 : Plaga agravante
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Hombres Lagarto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño de la unidad de Hombres Lagarto un 5% más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
-### 4 Skill: Matanza de dragones
+### Habilidad normal 3 : Matanza de dragones
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades de uno o cuatro, el daño de la unidad de Hombres Lagarto aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Golpe de la plaga
+### Habilidad especial de la facción I : Golpe de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent

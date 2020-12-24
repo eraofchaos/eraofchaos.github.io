@@ -3,7 +3,7 @@ title: "Костяной дракон"
 permalink: /ru/units/Bone Dragon/
 excerpt: "Отряды В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Костяной дракон"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Страх
+### Совершенное умение: Страх
  **Description:** <span style="color: #645252;font-size:20px">Костяные драконы накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на вражеские отряды в широком радиусе каждые </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и отнимают 20% от их сопротивления урону на 10 сек.</span><span style="color: black">
 
-### 2 Skill: Стремительный перекат
+### Обычное умение 1 : Стремительный перекат
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у костяных драконов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### 3 Skill: Пробивание
+### Обычное умение 2 : Пробивание
  **Description:** 
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">При появлении костяных драконов на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их сопротивления урону. </span><span style="color: black">
 
-### 5 Skill: Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### 6 Skill: Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /de/units/Efreeti/
 excerpt: "Einheiten Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern."
 unitID: 506
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Efreet"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Feuersturm
+### Ultimative Fähigkeit: Feuersturm
  **Description:** <span style="color: #645252;font-size:20px">Der Efreet wirkt einen Feuersturm auf einen Zielbereich, der allen gegnerischen Truppen dort </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt und 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> verursacht.</span><span style="color: black">
 
-### 2 Skill: Flammenschild
+### Gewöhnliche Fähigkeit 1 : Flammenschild
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erschafft der Efreet einen &lt;Feuerschild&gt; für alle verbündeten Inferno-Einheiten, der </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang 15 % des erlittenen Schadens reflektiert.</span><span style="color: black">
 
-### 3 Skill: Glühend heiß
+### Gewöhnliche Fähigkeit 2 : Glühend heiß
  **Description:** <span style="color: #645252;font-size:20px">Der &lt;Feuerschild&gt; des Efreet erhöht die Schadensreduzierung der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Feuergott
+### Gewöhnliche Fähigkeit 3 : Feuergott
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Efreet steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Sengender Angriff
+### Fraktions-Spezialfähigkeit I : Sengender Angriff
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Magieresistenz-Resonanz
+### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /es/units/Pegasus/
 excerpt: "Unidades Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque."
 unitID: 204
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Pegaso"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
-### 1 Skill: Guardián del Bosque
+### Habilidad definitiva: Guardián del Bosque
  **Description:** <span style="color: #645252;font-size:20px">Cuando la Pegaso muere, invoca a otra Pegaso para que siga luchando. La Pegaso invocada tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, y dura toda la batalla.</span><span style="color: black">
 
-### 2 Skill: Afilado
+### Habilidad normal 1 : Afilado
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la velocidad de ataque de la Pegaso un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales hacen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante 6 s.</span><span style="color: black">
 
-### 3 Skill: Protección de vitalidad
+### Habilidad normal 2 : Protección de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">La Pegaso crea un </span><span style="color: black"><span style="color: #48b946;font-size:20px">escudo</span><span style="color: black"><span style="color: #645252;font-size:20px"> para las unidades aliadas en una zona grande que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
-### 4 Skill: Catafracto de alas plateadas
+### Habilidad normal 3 : Catafracto de alas plateadas
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Pegaso y de la Pegaso invocada un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y los PV un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Proliferación calmada
+### Habilidad especial de la facción I : Proliferación calmada
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marca de odio
+### Habilidad especial de la facción II : Marca de odio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
 
 ## Talent

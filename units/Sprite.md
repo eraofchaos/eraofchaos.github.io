@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Units A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Sprite"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
-### 1 Skill: Energy Breakage
+### Ultimate Skill: Energy Breakage
  **Description:** <span style="color: #645252;font-size:20px">When a Sprite is downed, deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of the target's Max HP (the max damage amounts to 1000% of Sprite's ATK).</span><span style="color: black">
 
-### 2 Skill: Sprites' Blessing
+### Regular Skill 1 : Sprites' Blessing
  **Description:** <span style="color: #645252;font-size:20px">When battle starts, the Sprite unit increases all friendly units magic resistance in its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect also doubles for the Sprite unit.</span><span style="color: black">
 
-### 3 Skill: Inspiration
+### Regular Skill 2 : Inspiration
  **Description:** <span style="color: #645252;font-size:20px">When Sprite units are on the battlefield, it increases friendly heroes' basic mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+0.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dedication
+### Regular Skill 3 : Dedication
  **Description:** <span style="color: #645252;font-size:20px">When a Sprite is downed, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"silence\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.15+1.85}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 5 Skill: Elemental Affinity
+### Faction Special Skill I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Elemental Conflict
+### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

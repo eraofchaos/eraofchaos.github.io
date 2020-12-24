@@ -3,7 +3,7 @@ title: "Unknown_TEAM_208"
 permalink: /ru/units/Druid/
 excerpt: "Отряды null"
 unitID: 208
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_208"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
-### 1 Skill: Зов леса
+### Совершенное умение: Зов леса
  **Description:** <span style="color: #645252;font-size:20px">Вступив в бой, друиды создают магический круг, который существует </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Все союзные отряды , попавшие в круг, получают иммунитет к урону от заклинаний.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">Друиды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** 
 
-### 4 Skill: Сердце природы
+### Обычное умение 3 : Сердце природы
  **Description:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
 ## Talent

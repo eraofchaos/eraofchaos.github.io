@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /ru/units/Angel/
 excerpt: "Отряды Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Ангел"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Осуждение
+### Совершенное умение: Осуждение
  **Description:** 
 
-### 2 Skill: Воскрешение
+### Обычное умение 1 : Воскрешение
  **Description:** 
 
-### 3 Skill: Сияние
+### Обычное умение 2 : Сияние
  **Description:** <span style="color: #645252;font-size:20px">Когда ангелы на поле боя, все союзные отряды получают каждые 2 сек. дополнительное восстановление ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ.</span><span style="color: black">
 
-### 4 Skill: Целеустремленный снайпер
+### Обычное умение 3 : Целеустремленный снайпер
  **Description:** 
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
 ## Talent

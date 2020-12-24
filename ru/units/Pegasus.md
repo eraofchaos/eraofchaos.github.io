@@ -3,7 +3,7 @@ title: "Пегас"
 permalink: /ru/units/Pegasus/
 excerpt: "Отряды null"
 unitID: 204
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Пегас"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">После смерти пегаса призывается еще один пегас, который продолжает бой. У призванных пегасов </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
-### 2 Skill: Острота бритвы
+### Обычное умение 1 : Острота бритвы
  **Description:** <span style="color: #645252;font-size:20px">Пегасы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. В ходе обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
 
-### 3 Skill: Защита жизни
+### Обычное умение 2 : Защита жизни
  **Description:** <span style="color: #645252;font-size:20px">Пегасы создают для союзных отрядов в широком радиусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, который поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
-### 4 Skill: Конница Серебряных крыльев
+### Обычное умение 3 : Конница Серебряных крыльев
  **Description:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
 ## Talent

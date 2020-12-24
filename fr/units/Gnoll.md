@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /fr/units/Gnoll/
 excerpt: "Unités Une créature féroce qui vit dans un marais. Elle s'allie à plusieurs de ses semblables pour attraper des proies solitaires ou blessées."
 unitID: 801
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Gnoll"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.63 | 4.75 | 152.2 |
 
 ## Skills
-### 1 Skill: Coup enchaîné
+### Capacité ultime: Coup enchaîné
  **Description:** <span style="color: #645252;font-size:20px">Le Gnoll inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Étourdissement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
-### 2 Skill: Sauvagerie primitive
+### Compétence normale 1 : Sauvagerie primitive
  **Description:** <span style="color: #645252;font-size:20px">Augmente l'ATQ du Gnoll de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Grande peste
+### Compétence normale 2 : Grande peste
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts infligés par le Gnoll augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 4 Skill: Exécution
+### Compétence normale 3 : Exécution
  **Description:** <span style="color: #645252;font-size:20px">Quand un Gnoll combat une cible qui a moins de 30 % de PV, son ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Frappe pestilentielle
+### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

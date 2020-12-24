@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Confluenza -  Units"
 permalink: /it/units/Fraction Confluenza/
 excerpt: "Fraction Confluenza - List of Units in Era of Chaos"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Fraction Confluenza"
 toc: false

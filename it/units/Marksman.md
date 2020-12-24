@@ -3,7 +3,7 @@ title: "Tiratore scelto"
 permalink: /it/units/Marksman/
 excerpt: "Unità I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Tiratore scelto"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
 ## Skills
-### 1 Skill: Freccia esplosiva
+### Tecnica suprema: Freccia esplosiva
  **Description:** <span style="color: #645252;font-size:20px">I Tiratori scelti infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ai propri bersagli.</span><span style="color: black">
 
-### 2 Skill: Motivazione
+### Tecnica normale 1 : Motivazione
  **Description:** <span style="color: #645252;font-size:20px">Aumenta l'ATT dei Tiratori scelti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Colpo doppio
+### Tecnica normale 2 : Colpo doppio
  **Description:** <span style="color: #645252;font-size:20px">I Tiratori scelti hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di scoccare 2 frecce con un attacco base. La seconda freccia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Ammazzadraghi
+### Tecnica normale 3 : Ammazzadraghi
  **Description:** <span style="color: #645252;font-size:20px">Contro unità da 1 o 4 membri, il CRIT dei Tiratori scelti aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

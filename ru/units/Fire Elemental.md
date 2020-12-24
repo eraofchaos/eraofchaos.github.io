@@ -3,7 +3,7 @@ title: "Элементаль Огня"
 permalink: /ru/units/Fire Elemental/
 excerpt: "Отряды Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников."
 unitID: 904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Элементаль Огня"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
-### 1 Skill: Небесный огонь
+### Совершенное умение: Небесный огонь
  **Description:** <span style="color: #645252;font-size:20px">Элементали Огня наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду и </span><span style="color: black"><span style="color: #48b946;font-size:20px">поджигают</span><span style="color: black"><span style="color: #645252;font-size:20px"> его на 15 сек.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** 
 
-### 3 Skill: Сила элементалей
+### Обычное умение 2 : Сила элементалей
  **Description:** <span style="color: #645252;font-size:20px">Когда элементали Огня на поле боя, сопротивление магии заклинаний Огня повышается у всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и снижается у всех врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда элементали Огня на поле боя, восстановление маны вражеского героя снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Проводник энергии Огня
+### Обычное умение 3 : Проводник энергии Огня
  **Description:** <span style="color: #645252;font-size:20px">Элементали Огня восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ при убийстве вражеского отряда и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект длится в течение всего боя. Суммируется до 3 раз.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ## Talent

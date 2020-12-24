@@ -3,7 +3,7 @@ title: "Einhorn"
 permalink: /de/units/Unicorn/
 excerpt: "Einheiten Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Einhorn"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Flackernde Gestalten
+### Gewöhnliche Fähigkeit 1 : Flackernde Gestalten
  **Description:** <span style="color: #645252;font-size:20px">Jedes Mal, wenn das Einhorn ausweicht, erzeugt es mit hoher Wahrscheinlichkeit einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Schild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> für sich selbst, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP absorbiert.</span><span style="color: black">
 
-### 3 Skill: Licht der Engel
+### Gewöhnliche Fähigkeit 2 : Licht der Engel
  **Description:** <span style="color: #645252;font-size:20px">Die Fähigkeit &lt;Blenden&gt; erhöht den Schaden, den das Ziel erleidet, zusätzlich um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Tapferer Anführer
+### Gewöhnliche Fähigkeit 3 : Tapferer Anführer
  **Description:** <span style="color: #645252;font-size:20px">Ausweichen des Einhorns wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Das Einhorn erhält zusätzlich 40 Ausweichen für jede verbündete Ansturm-Einheit auf dem Schlachtfeld.</span><span style="color: black">
 
-### 5 Skill: Ruhige Robustheit
+### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Hasszeichen
+### Fraktions-Spezialfähigkeit II : Hasszeichen
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ## Talent

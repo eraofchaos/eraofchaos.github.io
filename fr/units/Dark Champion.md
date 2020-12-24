@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /fr/units/Dark Champion/
 excerpt: "Unités C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Champion des ténèbres"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 205.9 | 0.66 | 5.94 | 1900.8 |
 
 ## Skills
-### 1 Skill: Faucille du silence
+### Capacité ultime: Faucille du silence
  **Description:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts et une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max à la cible toutes les 24 secondes, tout en lui infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes. Le Champion des ténèbres restaure les PV à hauteur de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ par attaque normale.</span><span style="color: black">
 
-### 2 Skill: Fin de la destinée
+### Compétence normale 1 : Fin de la destinée
  **Description:** <span style="color: #645252;font-size:20px">Quand le Champion des ténèbres est sur le champ de bataille, les unités victimes de &lt;Démotivation&gt; sont achevées au moment où leurs PV tombent en dessous de 5 %. Lance </span><span style="color: black"><span style="color: #F0F000;font-size:20px">\"Malchance\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> toutes les 13 secondes.</span><span style="color: black">
 
-### 3 Skill: Tombes sinistres
+### Compétence normale 2 : Tombes sinistres
  **Description:** <span style="color: #645252;font-size:20px">Quand les PV de la cible sont inférieurs à 40 %, le Champion des ténèbres enterre la cible sous une pierre tombale pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. L'unité enterrée est réduite au silence et ne peut pas être soignée. Elle ne peut ni bouger, ni attaquer. Tous les dégâts qui lui seront infligés pendant ce temps seront renvoyés à 4 unités ennemies à distance. Tant que la pierre tombale n'a pas disparu, toutes les unités alliées de la Nécropole à portée bénéficieront d'une restauration de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max par seconde. Le temps de recharge est de 28 secondes.</span><span style="color: black">
 
-### 4 Skill: Monarque squelette
+### Compétence normale 3 : Monarque squelette
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les PV nécessaires pour déclencher Fin de la destinée augmentent de 4 % supplémentaires par unité de la Nécropole présente sur le champ de bataille. Ils augmentent également de 1 % supplémentaire par unité invoquée par la Nécropole sur le champ de bataille. Fin de la destinée peut se déclencher jusqu'à un maximum de 25 % de PV. Quand un Héros allié lance un sort de terre, le temps de recharge d'un sort aléatoire diminue de 4 secondes.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
-### 7 Skill: Cimetière silencieux
+### Compétence normale 6 : Cimetière silencieux
  **Description:** <span style="color: #645252;font-size:20px">Quand 3 unités de la Nécropole sont déployées, le Champion des ténèbres augmente sa propre vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand le sort &lt;Malchance&gt; est lancé, un </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Cimetière silencieux&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> apparaît pendant 15 secondes. Le domaine s'étend au fur et à mesure que le niveau de la compétence augmente. Son temps de recharge est de 30 secondes.</span><span style="color: black">
 
 ## Talent

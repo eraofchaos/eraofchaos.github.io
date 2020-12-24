@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /de/units/Medusa/
 excerpt: "Einheiten Wunderschöne Frauen mit Schlangenkörpern und Schlangenhaaren. Wer in ihre Augen schaut, wird zu Stein."
 unitID: 704
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Medusa"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Steinblick
+### Ultimative Fähigkeit: Steinblick
  **Description:** <span style="color: #645252;font-size:20px">Die Medusa <span style="color: #48b946;font-size:20px">„versteinert“</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 zufällige gegnerische Einheit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang.</span><span style="color: black">
 
-### 2 Skill: Schlangengiftpfeil
+### Gewöhnliche Fähigkeit 1 : Schlangengiftpfeil
  **Description:** <span style="color: #645252;font-size:20px">Erhöht den Schaden des Standardangriffs der Medusa um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Ziele mit <span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
 
-### 3 Skill: Haut des Zauberbrechers
+### Gewöhnliche Fähigkeit 2 : Haut des Zauberbrechers
  **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz der Medusa wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein gegnerischer Held einen Zauber wirkt, steigt der Schaden der Medusa 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Reflexangriff
+### Gewöhnliche Fähigkeit 3 : Reflexangriff
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Medusa wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Für jeden erzielten kritischen Treffer steigt der Schaden der Einheit um 2 % für die gesamte Schlacht, bis zu 10 Stapel.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

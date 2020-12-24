@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /de/units/Assassin/
 excerpt: "Einheiten Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Assassine"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
-### 1 Skill: Attentat
+### Ultimative Fähigkeit: Attentat
  **Description:** <span style="color: #645252;font-size:20px">Assassinen erhalten zu Beginn des Kampfes den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">Heimlichkeit</span><span style="color: black"><span style="color: #645252;font-size:20px"> und verlieren </span><span style="color: black"><span style="color: #48b946;font-size:20px">Heimlichkeit</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie auf Gegner treffen. Wann immer ein Assassine </span><span style="color: black"><span style="color: #48b946;font-size:20px">Heimlichkeit</span><span style="color: black"><span style="color: #645252;font-size:20px"> verliert, ist sein nächster Angriff ein „Verlorene Heimlichkeit“-Angriff, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des Angriffs zufügt und die erhaltene Heilung um 30 % reduziert. Dieser Effekt kann einmal alle 10 Sekunden ausgelöst werden.</span><span style="color: black">
 
-### 2 Skill: Instinkt des Assassinen
+### Gewöhnliche Fähigkeit 1 : Instinkt des Assassinen
  **Description:** <span style="color: #645252;font-size:20px">Der Assassine erhöht </span><span style="color: black"><span style="color: #645252;font-size:20px">den Einheitenschaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und krit. SCHD um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Dieser Bonus wird verdoppelt, wenn </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Falkenauge&gt; wirkt.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Angriffe auf </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;blinde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> Gegner erhöhen die Durchdringung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}.</span><span style="color: black">
 
-### 3 Skill: Rauchbombe
+### Gewöhnliche Fähigkeit 2 : Rauchbombe
  **Description:** <span style="color: #645252;font-size:20px">Der Assassine wirft eine Rauchbombe auf den Boden und erhöht 6 Sek. lang seine eigene ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, während alle gegnerischen Einheiten in einem großen Bereich </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;geblendet&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> werden, wodurch ihr Einheitenschaden und ihr ANG-Tempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> sinken. AKZ 18 Sek.</span><span style="color: black">
 
-### 4 Skill: Kettenangriff
+### Gewöhnliche Fähigkeit 3 : Kettenangriff
  **Description:** <span style="color: #645252;font-size:20px">Assassinen erhöhen ihren SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre krit. Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt verdreifacht sich für 20 Sekunden, wenn ein Assassine eine Zieleinheit tötet, und gewährt ihm für 5 Sekunden </span><span style="color: black"><span style="color: #48b946;font-size:20px">Heimlichkeit</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Bewaffneter Konflikt
+### Fraktions-Spezialfähigkeit I : Bewaffneter Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Neutrale Einheiten sind schlachterprobt. Beim Kampf gegen nicht-neutrale Einheiten </span><span style="color: black"><span style="color: #645252;font-size:20px">erhöht sich ihr SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %.</span><span style="color: black">
 
-### 6 Skill: Courage-Verstärkung
+### Fraktions-Spezialfähigkeit II : Courage-Verstärkung
  **Description:** <span style="color: #645252;font-size:20px">Neutrale Einheiten können sie großer Kraft widersetzen. Jedes Mal, wenn sie 10 % ihrer LP verlieren, </span><span style="color: black"><span style="color: #645252;font-size:20px">erhöht sich ihre Abwehr um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %.</span><span style="color: black">
 
 ## Talent

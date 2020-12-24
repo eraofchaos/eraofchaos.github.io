@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /it/units/Hydra/
 excerpt: "Unità Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Idra"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Nebbia del Caos
+### Tecnica suprema: Nebbia del Caos
  **Description:** <span style="color: #645252;font-size:20px">L'Idra produce una nuvola di Nebbia del Caos di fronte a sé, applicando 1 debuff casuale tra Rallentamento, Sanguinamento, Combustione, Cecità, Folgorazione, Pestilenza e Malattia a tutti i bersagli in un'ampia area per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec e infliggendo danni pari al 50% del suo ATT.</span><span style="color: black">
 
-### 2 Skill: Sequenza di testate
+### Tecnica normale 1 : Sequenza di testate
  **Description:** <span style="color: #645252;font-size:20px">L'Idra ha una possibilità di colpire con 1, 2, 3 o 4 testate dopo ogni attacco. Ogni testata infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+59)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danni. Le probabilità di ciascuna testata consecutiva sono, rispettivamente, 60%, 40%, 30% e 10%.</span><span style="color: black">
 
-### 3 Skill: Dominio sulla Pestilenza
+### Tecnica normale 2 : Dominio sulla Pestilenza
  **Description:** <span style="color: #645252;font-size:20px">Per ogni unità Fortezza schierata, l'Idra gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo CRIT aumenta di 100 per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 4 Skill: Morso del cacciatore
+### Tecnica normale 3 : Morso del cacciatore
  **Description:** <span style="color: #645252;font-size:20px">Se il suo attacco precedente è stato schivato, l'Idra attacca nuovamente infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danni. Una volta attivato &lt;Morso del cacciatore&gt;, l'Idra infligge un colpo critico garantito entro 3 secondi.</span><span style="color: black">
 
-### 5 Skill: Attacco pestilenziale
+### Tecnica speciale fazione I : Attacco pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

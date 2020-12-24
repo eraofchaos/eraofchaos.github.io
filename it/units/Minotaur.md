@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /it/units/Minotaur/
 excerpt: "Unità Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Minotauro"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
-### 1 Skill: Turbine
+### Tecnica suprema: Turbine
  **Description:** <span style="color: #645252;font-size:20px">Il Minotauro infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali in un'ampia area e ne riduce la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi.</span><span style="color: black">
 
-### 2 Skill: Ferocia avanzata
+### Tecnica normale 1 : Ferocia avanzata
  **Description:** <span style="color: #645252;font-size:20px">ATT del Minotauro aumentato ulteriormente di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gli attacchi base infliggono <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
-### 3 Skill: Costituzione dello Spezzaincantesimi
+### Tecnica normale 2 : Costituzione dello Spezzaincantesimi
  **Description:** <span style="color: #645252;font-size:20px">Il Minotauro gode di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
 
-### 4 Skill: Scelta tattica
+### Tecnica normale 3 : Scelta tattica
  **Description:** <span style="color: #645252;font-size:20px">Quando viene danneggiato da unità da 1 o 4 membri, la DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando attacca un'unità da 9 membri, il CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

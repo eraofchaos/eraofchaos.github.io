@@ -3,7 +3,7 @@ title: "Lutin"
 permalink: /fr/units/Gremlin/
 excerpt: "Unités Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Lutin"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.2 | 0.68 | 6.25 | 93.52 |
 
 ## Skills
-### 1 Skill: Boule de fer magique
+### Capacité ultime: Boule de fer magique
  **Description:** <span style="color: #645252;font-size:20px">La vitesse d'ATQ des Lutins augmente de 100 % pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Chasse au dragon
+### Compétence normale 1 : Chasse au dragon
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'il fait face à des unités de 1 ou de 4 combattant(s), l'attaque normale du Lutin a une chance d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 3 Skill: Volonté magique
+### Compétence normale 2 : Volonté magique
  **Description:** <span style="color: #645252;font-size:20px">Les PV des Lutins augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Éveil magique
+### Compétence normale 3 : Éveil magique
  **Description:** <span style="color: #645252;font-size:20px">Quand un Lutin est renforcé par le sort de soutien d'un Héros allié, son ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet peut se cumuler jusqu'à 10 fois et perdure pendant toute la durée de la bataille.</span><span style="color: black">
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

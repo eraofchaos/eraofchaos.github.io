@@ -3,7 +3,7 @@ title: "Вампир"
 permalink: /ru/units/Vampire/
 excerpt: "Отряды Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Вампир"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Высасывание жизни
+### Совершенное умение: Высасывание жизни
  **Description:** <span style="color: #645252;font-size:20px">Каждые 12 сек. вампиры случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и похищают у него </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">Вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-### 3 Skill: Разрастание
+### Обычное умение 2 : Разрастание
  **Description:** 
 
-### 4 Skill: Кровавая охота
+### Обычное умение 3 : Кровавая охота
  **Description:** 
 
-### 5 Skill: Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### 6 Skill: Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

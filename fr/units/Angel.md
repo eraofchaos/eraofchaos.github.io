@@ -3,7 +3,7 @@ title: "Ange"
 permalink: /fr/units/Angel/
 excerpt: "Unités Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Ange"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Condamnation
+### Capacité ultime: Condamnation
  **Description:** <span style="color: #645252;font-size:20px">Les Anges infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies au hasard et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
-### 2 Skill: Résurrection
+### Compétence normale 1 : Résurrection
  **Description:** <span style="color: #645252;font-size:20px">L'Ange ressuscite une de vos unités et lui rend </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV.</span><span style="color: black">
 
-### 3 Skill: Radiance
+### Compétence normale 2 : Radiance
  **Description:** <span style="color: #645252;font-size:20px">Lorsque les Anges sont sur le champ de bataille, toutes les unités alliées récupèrent des PV toutes les 2 secondes à hauteur de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max.</span><span style="color: black">
 
-### 4 Skill: Tireur résolu
+### Compétence normale 3 : Tireur résolu
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de l'Ange augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de 10 %. Quand l'Ange combat une unité de l'Hadès, ses dégâts augmentent de 50 %.</span><span style="color: black">
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

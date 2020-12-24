@@ -3,7 +3,7 @@ title: "Zyklop"
 permalink: /de/units/Cyclops/
 excerpt: "Einheiten Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Zyklop"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
-### 1 Skill: Flammenstein
+### Ultimative Fähigkeit: Flammenstein
  **Description:** <span style="color: #645252;font-size:20px">Der Zyklop schleudert einen brennenden Stein mit hoher Reichweite vor sich, der den gegnerischen Einheiten dort </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> und 8 Sek. lang alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt.</span><span style="color: black">
 
-### 2 Skill: Belagerungsangriff
+### Gewöhnliche Fähigkeit 1 : Belagerungsangriff
  **Description:** <span style="color: #645252;font-size:20px">Der Zyklop erhält einen Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf Schaden und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf Angriffstempo; wenn seine LP unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden. Wenn der Zyklop eine 9-Mann-Einheit angreift, fügt sein Standardangriff 3 gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden zu.</span><span style="color: black">
 
-### 3 Skill: Erderschütterer
+### Gewöhnliche Fähigkeit 2 : Erderschütterer
  **Description:** <span style="color: #645252;font-size:20px">Der Zyklop fügt mit einer gewissen Wahrscheinlichkeit gegnerischen Einheiten in großem Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang, wenn er angegriffen wird.</span><span style="color: black">
 
-### 4 Skill: Gigant
+### Gewöhnliche Fähigkeit 3 : Gigant
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Zyklopen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Schaden, der ihm durch 9-Mann-Einheiten zugefügt wird, wird reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Kampfzelot
+### Fraktions-Spezialfähigkeit I : Kampfzelot
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

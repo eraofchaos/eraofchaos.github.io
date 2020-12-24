@@ -3,7 +3,7 @@ title: "Revenante"
 permalink: /fr/units/Wight/
 excerpt: "Unités Les Revenantes ne convoitent qu'une chose : la vie. Elles absorbent l'énergie vitale d'autres individus dès qu'elles en ont l'occasion. Les nécromanciens les utilisent pour hanter les âmes des vivants."
 unitID: 303
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Revenante"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
-### 1 Skill: Cri effroyable
+### Capacité ultime: Cri effroyable
  **Description:** <span style="color: #645252;font-size:20px">Quand une Revenante est sur le champ de bataille, sa première attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à une unité ennemie sur son chemin et dans une large zone pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Horreur incarnée
+### Compétence normale 1 : Horreur incarnée
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Revenante augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente l'ATQ de 8 % pour chaque unité alliée morte sur le champ de bataille. L'effet est actif pendant tout le combat et peut se cumuler jusqu'à 10 fois.</span><span style="color: black">
 
-### 3 Skill: Malchance
+### Compétence normale 2 : Malchance
  **Description:** <span style="color: #645252;font-size:20px">Quand une Revenante est tuée, elle inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 4 Skill: Invisibilité
+### Compétence normale 3 : Invisibilité
  **Description:** <span style="color: #645252;font-size:20px">La résistance magique de la Revenante augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand elle subit des dégâts magiques, le Héros regagne 10 points de mana.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

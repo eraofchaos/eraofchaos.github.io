@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /de/units/Ice Elemental/
 excerpt: "Einheiten Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Eiselementar"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
-### 1 Skill: Eismauer
+### Ultimative Fähigkeit: Eismauer
  **Description:** <span style="color: #645252;font-size:20px">Der Eiselementar beschwört eine Eismauer vor dem Ziel, die die Ziele in einer horizontalen Reihe mit hoher Reichweite <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„erstarren“</span><span style="color: black"><span style="color: #645252;font-size:20px"> lässt.</span><span style="color: black">
 
-### 2 Skill: Kalte Umarmung
+### Gewöhnliche Fähigkeit 1 : Kalte Umarmung
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Eiselementars fügt dem Ziel mit einer gewissen Wahrscheinlichkeit 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verlangsamung“</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Darüber hinaus wird das Angriffstempo des Ziels 10 Sek. lang um <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert, bis 5 Stapel.</span><span style="color: black">
 
-### 3 Skill: Kraft der Elemente
+### Gewöhnliche Fähigkeit 2 : Kraft der Elemente
  **Description:** <span style="color: #645252;font-size:20px">Solange der Eiselementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Schadensreduzierung gegen Wasserzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Schadensreduzierung gegen Wasserzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird die Manaregeneration des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 4 Skill: null
+### Gewöhnliche Fähigkeit 3 : null
  **Description:** 
 
-### 5 Skill: Elementare Affinität
+### Fraktions-Spezialfähigkeit I : Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Offensive Elemente
+### Fraktions-Spezialfähigkeit II : Offensive Elemente
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

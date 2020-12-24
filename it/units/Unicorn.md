@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /it/units/Unicorn/
 excerpt: "Unità L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Unicorno"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
 ## Skills
-### 1 Skill: null
+### Tecnica suprema: null
  **Description:** 
 
-### 2 Skill: Figure evanescenti
+### Tecnica normale 1 : Figure evanescenti
  **Description:** <span style="color: #645252;font-size:20px">Ogni volta che l'Unicorno schiva un attacco, ha un'alta probabilità di creare uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> attorno a sé che assorbe danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi.</span><span style="color: black">
 
-### 3 Skill: Luce angelica
+### Tecnica normale 2 : Luce angelica
  **Description:** <span style="color: #645252;font-size:20px">La &lt;Cecità&gt; aumenta i danni subiti dall'unità bersaglio (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Capo audace
+### Tecnica normale 3 : Capo audace
  **Description:** <span style="color: #645252;font-size:20px">Schivata dell'Unicorno aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta la Schivata dell'Unicorno di 40 per ogni unità d'incursione alleata presente sul campo di battaglia.</span><span style="color: black">
 
-### 5 Skill: Proliferazione pacifica
+### Tecnica speciale fazione I : Proliferazione pacifica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Marchio dell'odio
+### Tecnica speciale fazione II : Marchio dell'odio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
 
 ## Talent

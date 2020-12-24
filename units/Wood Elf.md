@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
 ## Skills
-### 1 Skill: null
+### Ultimate Skill: null
  **Description:** 
 
-### 2 Skill: Double Strike
+### Regular Skill 1 : Double Strike
  **Description:** <span style="color: #645252;font-size:20px">The Wood Elf has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
 
-### 3 Skill: Elf Shelter
+### Regular Skill 2 : Elf Shelter
  **Description:** <span style="color: #645252;font-size:20px">Each Wood Elf gets 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time a hostile hero casts a spell, absorbing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for 5s. CD is 10s.</span><span style="color: black">
 
-### 4 Skill: Concentrate fire on their leader
+### Regular Skill 3 : Concentrate fire on their leader
  **Description:** <span style="color: #645252;font-size:20px">Wood Elf's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants 40 extra Crit Hit for the Wood Elf for every friendly Ranged unit on the battlefield.</span><span style="color: black">
 
-### 5 Skill: Calm Proliferation
+### Faction Special Skill I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Hatred Mark
+### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent

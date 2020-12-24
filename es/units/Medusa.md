@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /es/units/Medusa/
 excerpt: "Unidades Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Medusa"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Mirada petrificadora
+### Habilidad definitiva: Mirada petrificadora
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Medusas <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a una unidad hostil aleatoria durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 2 Skill: Flecha de veneno de serpiente
+### Habilidad normal 1 : Flecha de veneno de serpiente
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los ataques normales de la Medusa un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño contra objetivos con <span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
-### 3 Skill: Piel de rompehechizos
+### Habilidad normal 2 : Piel de rompehechizos
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica de la Medusa un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando un Héroe hostil lanza un hechizo, el daño de la unidad de Medusas aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
-### 4 Skill: Estallido reflejo
+### Habilidad normal 3 : Estallido reflejo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la Medusa en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño de la unidad un 2% cada vez que impacta con un golpe crítico. Dura toda la batalla y se acumula 10 veces.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

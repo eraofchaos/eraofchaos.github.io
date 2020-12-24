@@ -3,7 +3,7 @@ title: "Piquero"
 permalink: /es/units/Pikeman/
 excerpt: "Unidades Los Piqueros son la primera línea de defensa del reino. Se trata de hábiles soldados que han luchado con honor en grandes batallas y son leales al reino, lo que les ha valido el clamor del pueblo."
 unitID: 101
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Piquero"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
 ## Skills
-### 1 Skill: Formación de lanzas
+### Habilidad definitiva: Formación de lanzas
  **Description:** <span style="color: #645252;font-size:20px">Los Piqueros infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles, y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">aturde</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
 
-### 2 Skill: Armadura de hierro
+### Habilidad normal 1 : Armadura de hierro
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la DEF en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, y da </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV adicionales por Piquero.</span><span style="color: black">
 
-### 3 Skill: Matadragones
+### Habilidad normal 2 : Matadragones
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrentan a unidades de uno o cuatro, el golpe crítico de los Piqueros aumenta en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Inspiración
+### Habilidad normal 3 : Inspiración
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de los Piqueros en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+18}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">[High Morale]</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /it/units/Gorgon/
 excerpt: "Unità Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Gorgone"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
 ## Skills
-### 1 Skill: null
+### Tecnica suprema: null
  **Description:** 
 
-### 2 Skill: Signora Suprema della Palude
+### Tecnica normale 1 : Signora Suprema della Palude
  **Description:** <span style="color: #645252;font-size:20px">La Gorgone gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN unità aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Gorgone non può subire danni superiori al 15% dei propri PF massimi da un singolo attacco.</span><span style="color: black">
 
-### 3 Skill: Simbiosi pestilenziale
+### Tecnica normale 2 : Simbiosi pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Rid DAN della Gorgone aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 4 Skill: Maledizione selvaggia
+### Tecnica normale 3 : Maledizione selvaggia
  **Description:** <span style="color: #645252;font-size:20px">CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità nemiche intorno alla Gorgone.</span><span style="color: black">
 
-### 5 Skill: Attacco pestilenziale
+### Tecnica speciale fazione I : Attacco pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /fr/units/Unicorn/
 excerpt: "Unités L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Licorne"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Silhouettes scintillantes
+### Compétence normale 1 : Silhouettes scintillantes
  **Description:** <span style="color: #645252;font-size:20px">Chaque fois qu'une Licorne esquive une attaque, elle a une forte chance de créer un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bouclier&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> qui lui permet d'absorber une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max.</span><span style="color: black">
 
-### 3 Skill: Lumière angélique
+### Compétence normale 2 : Lumière angélique
  **Description:** <span style="color: #645252;font-size:20px">La compétence &lt;Cécité&gt; augmente les dégâts infligés à la cible de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> supplémentaires.</span><span style="color: black">
 
-### 4 Skill: Meneuse intrépide
+### Compétence normale 3 : Meneuse intrépide
  **Description:** <span style="color: #645252;font-size:20px">L'esquive de la Licorne augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Elle augmente de 40 points supplémentaires pour chaque unité d'assaut alliée présente sur le champ de bataille.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

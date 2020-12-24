@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /fr/units/Spartan Warriors/
 excerpt: "Unités Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Guerriers spartiates"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Coup de bouclier
+### Compétence normale 1 : Coup de bouclier
  **Description:** <span style="color: #645252;font-size:20px">Les Guerriers spartiates frappent de leur bouclier les unités ennemies dans une large zone, ce qui leur inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Étourdissement&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">pendant 5 secondes. Ensuite, ils augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} % </span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} % pendant 10 secondes. </span><span style="color: black"><span style="color: #645252;font-size:20px">Le temps de recharge est de 20 secondes.</span><span style="color: black">
 
-### 3 Skill: Lignée spartiate
+### Compétence normale 2 : Lignée spartiate
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'un Guerrier spartiate perd 5 % de ses PV, sa défense augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et son attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La première fois que ses PV passent sous les 50 %, sa vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> jusqu'à la fin du combat.</span><span style="color: black">
 
-### 4 Skill: Thermopyles
+### Compétence normale 3 : Thermopyles
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'un Guerrier spartiate meurt, les dégâts et la résistance aux dégâts des autres Guerriers spartiates augmentent de 6 %. Ils pousseront alors un cri de guerre toutes les 20 secondes pour galvaniser leurs alliés, augmentant leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} % </span><span style="color: black"><span style="color: #645252;font-size:20px">pendant 10 secondes.</span><span style="color: black">
 
-### 5 Skill: Conflit armé
+### Compétence spéciale de faction I : Conflit armé
  **Description:** <span style="color: #645252;font-size:20px">Les unités neutres sont des forces compétentes. Lorsqu'elles combattent des unités non neutres, leurs </span><span style="color: black"><span style="color: #645252;font-size:20px">dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %.</span><span style="color: black">
 
-### 6 Skill: Bonus de courage
+### Compétence spéciale de faction II : Bonus de courage
  **Description:** <span style="color: #645252;font-size:20px">Les unités neutres sont très résistantes. À chaque fois qu'elles perdent 10 % de leurs PV, leur </span><span style="color: black"><span style="color: #645252;font-size:20px">défense augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %.</span><span style="color: black">
 
 ## Talent

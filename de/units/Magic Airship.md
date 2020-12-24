@@ -3,7 +3,7 @@ title: "Magisches Luftschiff"
 permalink: /de/units/Magic Airship/
 excerpt: "Einheiten Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Magisches Luftschiff"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
 ## Skills
-### 1 Skill: Unterstützende Energie
+### Ultimative Fähigkeit: Unterstützende Energie
  **Description:** <span style="color: #645252;font-size:20px">Wenn die LP einer deiner Einheiten unter 30 % liegen, werden </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wiederhergestellt, alle Debuffs gebannt, sowie 15 Sek. lang Schadensreduzierung und Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Kann nur einmal pro Schlacht gewirkt werden.</span><span style="color: black">
 
-### 2 Skill: Frostbombe
+### Gewöhnliche Fähigkeit 1 : Frostbombe
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff hat eine Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, dem gegnerischen Ziel und benachbarten gegnerischen Einheiten 2 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Erstarren“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zuzufügen.</span><span style="color: black">
 
-### 3 Skill: Zauberfeld
+### Gewöhnliche Fähigkeit 2 : Zauberfeld
  **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Magischen Luftschiffs steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn &lt;Magisches Erwachen&gt; eingesetzt wird, verlieren gegnerische Helden 2 Mana, während verbündete Helden 3 Mana regenerieren.</span><span style="color: black">
 
-### 4 Skill: Magisches Erwachen
+### Gewöhnliche Fähigkeit 3 : Magisches Erwachen
  **Description:** <span style="color: #645252;font-size:20px">Wenn das Magische Luftschiff durch einen Zauber eines verbündeten Helden verbessert wird, erhöht es 15 Sek. lang das ANG-Tempo aller Zauberer-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Das ANG-Tempo aller Zauberer-Einheiten wird für den Rest der Schlacht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht, bis 4 Stapel.</span><span style="color: black">
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

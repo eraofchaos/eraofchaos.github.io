@@ -3,7 +3,7 @@ title: "Diavolo"
 permalink: /it/units/Devil/
 excerpt: "Unità Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Diavolo"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Mietitore sadico
+### Tecnica suprema: Mietitore sadico
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, attacca l'unità di fronte a sé più lontana (in mancanza di un bersaglio valido, un'unità casuale nelle retrovie) infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ed evocando un abisso di fuoco che infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 0,5 secondi per 6 secondi. Causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi la prima volta. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Può essere schierato in qualsiasi posizione. (La tecnica torna disponibile quando l'unità bersaglio muore)</span><span style="color: black">
 
-### 2 Skill: Tortura crudele
+### Tecnica normale 1 : Tortura crudele
  **Description:** <span style="color: #645252;font-size:20px">Infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali. Se affronta unità affette da </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il CRIT aumenta di 500.</span><span style="color: black">
 
-### 3 Skill: Appassimento
+### Tecnica normale 2 : Appassimento
  **Description:** <span style="color: #645252;font-size:20px">Mentre questa unità è sul campo di battaglia, infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi a tutte le unità nemiche ogni 2 secondi.</span><span style="color: black">
 
-### 4 Skill: Strazia-anime
+### Tecnica normale 3 : Strazia-anime
  **Description:** <span style="color: #645252;font-size:20px">ATT dell'unità aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità Castello, il suo danno aumenta del 50%.</span><span style="color: black">
 
-### 5 Skill: Attacco ustionante
+### Tecnica speciale fazione I : Attacco ustionante
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero anti-incantesimo
+### Tecnica speciale fazione II : Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

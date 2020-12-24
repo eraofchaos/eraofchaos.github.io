@@ -3,7 +3,7 @@ title: "Скелет"
 permalink: /ru/units/Skeleton/
 excerpt: "Отряды Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Скелет"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
-### 1 Skill: Костяной щит
+### Совершенное умение: Костяной щит
  **Description:** <span style="color: #645252;font-size:20px">Когда ОЗ у скелетов впервые опускается ниже 50%, они создают для себя костяной щит, который снижает урон, получаемый отрядом, на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек.</span><span style="color: black">
 
-### 2 Skill: Костяной шип
+### Обычное умение 1 : Костяной шип
  **Description:** <span style="color: #645252;font-size:20px">Скелеты отражают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> полученного урона.</span><span style="color: black">
 
-### 3 Skill: Стать камнем
+### Обычное умение 2 : Стать камнем
  **Description:** <span style="color: #645252;font-size:20px">Скелеты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и +10% к отражению урона. </span><span style="color: black">
 
-### 4 Skill: Каркас
+### Обычное умение 3 : Каркас
  **Description:** <span style="color: #645252;font-size:20px">У скелетов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от урона от стрелковых отрядов.</span><span style="color: black">
 
-### 5 Skill: Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### 6 Skill: Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

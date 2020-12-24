@@ -3,7 +3,7 @@ title: "Sabueso Infernal"
 permalink: /es/units/Hell Hound/
 excerpt: "Unidades Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Sabueso Infernal"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
 
 ## Skills
-### 1 Skill: Fuego
+### Habilidad definitiva: Fuego
  **Description:** <span style="color: #645252;font-size:20px">El Sabueso Infernal tiene garantizado impactar con un golpe crítico durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 2 Skill: Ataque tricéfalo
+### Habilidad normal 1 : Ataque tricéfalo
  **Description:** <span style="color: #645252;font-size:20px">Cuando el Sabueso Infernal se enfrenta a una unidad de 9 hombres, su ataque normal inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.08+46.17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 miembros de la unidad hostil y los hace </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;sangrar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
-### 3 Skill: Ansia de sangre
+### Habilidad normal 2 : Ansia de sangre
  **Description:** <span style="color: #645252;font-size:20px">Cuando el Sabueso Infernal se enfrenta a unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px">, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Infierno
+### Habilidad normal 3 : Infierno
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño crítico del Sabueso Infernal un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El daño crítico del Sabueso Infernal aumenta un 3% por cada unidad de la facción de Infierno desplegada.</span><span style="color: black">
 
-### 5 Skill: Golpe asador
+### Habilidad especial de la facción I : Golpe asador
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
-### 6 Skill: Resonancia de resistencia
+### Habilidad especial de la facción II : Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent

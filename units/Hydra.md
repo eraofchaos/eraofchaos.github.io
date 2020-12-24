@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Units A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Hydra"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Chaos Mist
+### Ultimate Skill: Chaos Mist
  **Description:** <span style="color: #645252;font-size:20px">Hydra blows a mass of chaos mist in its path, inflicting 1 random debuff among Slow, Bleeding, Burning, Blind, Static, Plague, and Disease to all targets in a large area for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s, and dealing damage equal to 50% of its own ATK.</span><span style="color: black">
 
-### 2 Skill: Headbutt Combo
+### Regular Skill 1 : Headbutt Combo
  **Description:** <span style="color: #645252;font-size:20px">Hydra has a chance to follow up with 1/2/3/4 headbutts when attacking, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+59)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage each time. The chances of an additional headbutt is 60%/40%/30%/10% respectively.</span><span style="color: black">
 
-### 3 Skill: Plague Dominance
+### Regular Skill 2 : Plague Dominance
  **Description:** <span style="color: #645252;font-size:20px">For every Fortress unit deployed, Hydra's unit's damage increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Hydra's Crit Hit will be increased by another 100 for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
-### 4 Skill: Chasing Bite
+### Regular Skill 3 : Chasing Bite
  **Description:** <span style="color: #645252;font-size:20px">When Hydra’s previous attack is dodged, it gains one more attack, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage. Once Chasing Bite is triggered, Hydra is guaranteed a Crit Hit within 3s.</span><span style="color: black">
 
-### 5 Skill: Plague Strike
+### Faction Special Skill I : Plague Strike
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
 
-### 6 Skill: Rise of Vitality
+### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent

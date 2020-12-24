@@ -3,7 +3,7 @@ title: "Dragon squelette"
 permalink: /fr/units/Bone Dragon/
 excerpt: "Unités Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Dragon squelette"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Effroi
+### Capacité ultime: Effroi
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon squelette inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux unités ennemies dans une large zone toutes les </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes et diminue leur résistance aux dégâts de 20 % pendant 10 secondes.</span><span style="color: black">
 
-### 2 Skill: Roulade écrasante
+### Compétence normale 1 : Roulade écrasante
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Dragons squelettes a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible et inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
-### 3 Skill: Pénétration
+### Compétence normale 2 : Pénétration
  **Description:** <span style="color: #645252;font-size:20px">La pénétration défensive du Dragon squelette augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lorsqu'il attaque des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ce bonus double.</span><span style="color: black">
 
-### 4 Skill: Vieillissement
+### Compétence normale 3 : Vieillissement
  **Description:** <span style="color: #645252;font-size:20px">Quand un Dragon squelette est sur le champ de bataille, la résistance aux dégâts de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

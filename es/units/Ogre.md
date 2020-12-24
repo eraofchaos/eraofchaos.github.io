@@ -3,7 +3,7 @@ title: "Ogro"
 permalink: /es/units/Ogre/
 excerpt: "Unidades Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Ogro"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
-### 1 Skill: Charco sangriento
+### Habilidad definitiva: Charco sangriento
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Ogros invoca un charco de sangre que mejora la absorción de vida de las unidades amistosas en una zona grande un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El charco de sangre dura 15 s.</span><span style="color: black">
 
-### 2 Skill: Piel de Hechicero
+### Habilidad normal 1 : Piel de Hechicero
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la DEF del Ogro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, la regeneración de PV en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%.</span><span style="color: black">
 
-### 3 Skill: Destrozo
+### Habilidad normal 2 : Destrozo
  **Description:** <span style="color: #645252;font-size:20px">Cuando los PV de la unidad de Ogros se reducen por debajo del 35%, aumenta el ATQ de todas las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante toda la batalla.</span><span style="color: black">
 
-### 4 Skill: Curar veneno
+### Habilidad normal 3 : Curar veneno
  **Description:** <span style="color: #645252;font-size:20px">Si hay un Ogro en el campo de batalla, la curación de las unidades amistosas aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Lucha fanática
+### Habilidad especial de la facción I : Lucha fanática
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
 
 ## Talent

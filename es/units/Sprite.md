@@ -3,7 +3,7 @@ title: "Hada"
 permalink: /es/units/Sprite/
 excerpt: "Unidades Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
 unitID: 901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Hada"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
-### 1 Skill: Quiebre de energía
+### Habilidad definitiva: Quiebre de energía
  **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota a la Hada, esta inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos del objetivo (el daño no puede superar el 1000% del ATQ).</span><span style="color: black">
 
-### 2 Skill: Bendición de las Hadas
+### Habilidad normal 1 : Bendición de las Hadas
  **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Hadas aumenta la resistencia mágica de todas las unidades amistosas que encuentra en su camino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto se duplica para la unidad de Hadas.</span><span style="color: black">
 
-### 3 Skill: Inspiración
+### Habilidad normal 2 : Inspiración
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Hadas en el campo de batalla, el maná de los Héroes amistosos aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+0.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dedicación
+### Habilidad normal 3 : Dedicación
  **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota a una Hada, esta </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.15+1.85}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 5 Skill: Afinidad elemental
+### Habilidad especial de la facción I : Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflicto elemental
+### Habilidad especial de la facción II : Conflicto elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

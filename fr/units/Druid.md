@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /fr/units/Druid/
 excerpt: "Unités Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Druidesse"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
-### 1 Skill: Appel de la forêt
+### Capacité ultime: Appel de la forêt
  **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, la Druidesse invoque un cercle magique qui dure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. Les unités alliées qui se tiennent dans ce cercle sont immunisées aux dégâts de sorts.</span><span style="color: black">
 
-### 2 Skill: Dépassement
+### Compétence normale 1 : Dépassement
  **Description:** <span style="color: #645252;font-size:20px">Augmente l'ATQ de la Druidesse de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Bénédiction de la vie
+### Compétence normale 2 : Bénédiction de la vie
  **Description:** <span style="color: #645252;font-size:20px">La Druidesse génère toutes les 30 secondes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bouclier\"</span><span style="color: black"><span style="color: #645252;font-size:20px">aléatoire pour 4 unités alliées en première ligne, qui absorbe une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max.</span><span style="color: black">
 
-### 4 Skill: Le cœur de la nature
+### Compétence normale 3 : Le cœur de la nature
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 25 secondes, la Druidesse bénit ses alliés dans une vaste zone, augmentant leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes. Ce bonus est doublé quand la Druidesse le lance pour la première fois.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

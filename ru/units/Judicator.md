@@ -1,9 +1,9 @@
 ---
 title: "Вершитель"
 permalink: /ru/units/Judicator/
-excerpt: "Отряды Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся."
+excerpt: "Отряды null"
 unitID: 109
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Вершитель"
 toc: true
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:** Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся.
+ **Description:** null
 
  **Class:** Заклинатель
 
@@ -25,10 +25,6 @@ toc: true
  **Members:** Unknown: 4 (2).
 
  **Rank:** UR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Аура группы восстанавливает ОЗ. Аура защищает от урона. Святая земля усиливает ваши союзные отряды.
 
@@ -63,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">Вершители призывают 2 луча правосудия каждые 25 сек. Когда лучи появляются, они <span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"> вражеские отряды в радиусе действия на 1 сек., наносят урон в размере <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> от максимума ОЗ и снижают исцеление у врагов на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"> на 8 сек.</span><span style="color: black">
 
-### 2 Skill: Благословение
+### Обычное умение 1 : Благословение
  **Description:** <span style="color: #645252;font-size:20px">Во время боя вершители наделяют <span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"> всех союзных отрядов на 10 сек.</span><span style="color: black"> <br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Вершители наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути каждые <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> сек. Эффект длится 10 сек.</span><span style="color: black">
 
-### 3 Skill: Благословение света
+### Обычное умение 2 : Благословение света
  **Description:** <span style="color: #645252;font-size:20px">Когда у первого союзного отряда остается менее 25% ОЗ, вершители используют <span style="color: #48b946;font-size:20px">&lt;Убежище света&gt;</span><span style="color: black"> для защиты своих спутников на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В бою против отрядов Инферно вершители получают +30% к урону отряда и +50% к сопротивлению отряда урону. </span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** 
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
-### 7 Skill: Ореол теократии
+### Обычное умение 6 : Ореол теократии
  **Description:** <span style="color: #645252;font-size:20px">Когда используются 3 отряда фракции Замка, вершители получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда вершители находятся в состоянии <span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black">, они открывают <span style="color: #F0F000;font-size:20px">&lt;Область теократии&gt;</span><span style="color: black">, которая расширяется по мере повышения уровня умения отряда. Область существует 15 сек. Перезарядка - 30 сек.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Units Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
-### 1 Skill: Poison Gas
+### Ultimate Skill: Poison Gas
  **Description:** <span style="color: #645252;font-size:20px"> Within a certain range, Walking Dead units deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all surrounding hostile units every 2s. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
-### 2 Skill: Infectious
+### Regular Skill 1 : Infectious
  **Description:** <span style="color: #645252;font-size:20px">Walking Dead's &lt;Poison Gas&gt; decreases the target's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slows&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target over time.</span><span style="color: black">
 
-### 3 Skill: Explosive
+### Regular Skill 2 : Explosive
  **Description:** <span style="color: #645252;font-size:20px">When the Walking Dead is downed, it deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a large range for 8s. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 30%.</span><span style="color: black">
 
-### 4 Skill: Barricade of Corpses
+### Regular Skill 3 : Barricade of Corpses
  **Description:** <span style="color: #645252;font-size:20px">Walking Dead's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Walking Dead is in </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Low Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
 
-### 5 Skill: Dismal Defense
+### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
-### 6 Skill: Spell Harmony
+### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /ru/units/Leprechaun/
 excerpt: "Отряды Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
 unitID: 909
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Лепрекон"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 26.9 | 0.41 | 10.0 | 632.4 |
 
 ## Skills
-### 1 Skill: Прямой удар
+### Совершенное умение: Прямой удар
  **Description:** 
 
-### 2 Skill: Фортуна
+### Обычное умение 1 : Фортуна
  **Description:** <span style="color: #645252;font-size:20px">Лепреконы каждые 10 сек. наделяют все союзные отряды Фортуной и дают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите. Эффект длится 5 сек. Для отрядов из 4 существ эффект навыка повышается в 2 раза, для отрядов из 9 и 16 существ - в 4 раза. Для самих лепреконов эффект навыка может повышаться в 3-10 раз. При повышении в 8 раз и выше дополнительно срабатывает «Прямой удар».</span><span style="color: black">
 
-### 3 Skill: Сила элементалей
+### Обычное умение 2 : Сила элементалей
  **Description:** <span style="color: #645252;font-size:20px">Лепреконы получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда лепреконы вступают в бой, все союзные отряды получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При одиночном ударе лепреконы получают иммунитет к любому урону выше 20% от их максимума ОЗ. </span><span style="color: black">
 
-### 4 Skill: Тактический блок
+### Обычное умение 3 : Тактический блок
  **Description:** <span style="color: #645252;font-size:20px">Когда лепреконам наносят критический удар, это повышает их блокирование на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и активирует «Прямой удар». Эффект длится 10 сек. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает уклонение, они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к макс. здоровью. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает блок, немедленно активируется «Прямой удар». Перезарядка 2 сек. </span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ## Talent

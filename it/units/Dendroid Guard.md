@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /it/units/Dendroid Guard/
 excerpt: "Unità Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
 unitID: 205
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Guardia Dendroide"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
-### 1 Skill: Ostacolo
+### Tecnica suprema: Ostacolo
  **Description:** <span style="color: #645252;font-size:20px">La Guardia Dendroide applica </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Rallentamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area, riducendone la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
 
-### 2 Skill: Rullo stritolante
+### Tecnica normale 1 : Rullo stritolante
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base della Guardia Dendroide ha una probabilità di creare uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> che la protegge assorbendo danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
 
-### 3 Skill: Armatura di legno fossile
+### Tecnica normale 2 : Armatura di legno fossile
  **Description:** <span style="color: #645252;font-size:20px">La Guardia Dendroide è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Paletto di legno
+### Tecnica normale 3 : Paletto di legno
  **Description:** <span style="color: #645252;font-size:20px">Quando una Guardia Dendroide subisce un attacco, riflette una quantità di danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT e infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità che l'ha attaccata per 6 secondi.</span><span style="color: black">
 
-### 5 Skill: Proliferazione pacifica
+### Tecnica speciale fazione I : Proliferazione pacifica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Marchio dell'odio
+### Tecnica speciale fazione II : Marchio dell'odio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
 
 ## Talent

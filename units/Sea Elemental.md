@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Time Spiral
+### Ultimate Skill: Time Spiral
  **Description:** <span style="color: #645252;font-size:20px">The Sea Elemental creates a 10s maelstrom on the ground every 30s, decreasing the ATK speed of all hostile units within the range by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every second. The maelstrom deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within the range when it dissipates</span><span style="color: black">
 
-### 2 Skill: Gift of Full Tide
+### Regular Skill 1 : Gift of Full Tide
  **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, Sea Elemental creates a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ice shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly units in its path,</span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Slowing\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the enemy that attacks them. The shield exists for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
-### 3 Skill: Tidal Rite
+### Regular Skill 2 : Tidal Rite
  **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Sea Elemental generates a circle to increase its HP by <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black">. Decrease healing of hostile units by 1% every 2s throughout the entire battle</span><span style="color: black">
 
-### 4 Skill: Abyss Cage
+### Regular Skill 3 : Abyss Cage
  **Description:** <span style="color: #645252;font-size:20px">The Sea Elemental's unit summons a water dungeon every 20s, which picks up 1 random enemy back-row unit, making it unable to attack or cast skills. The water dungeon lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
-### 5 Skill: Calm Body
+### Faction Special Skill I : Calm Body
  **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
-### 6 Skill: Pirate Conflict
+### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

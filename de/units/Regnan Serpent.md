@@ -3,7 +3,7 @@ title: "Regnanschlange"
 permalink: /de/units/Regnan Serpent/
 excerpt: "Einheiten Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Regnanschlange"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Meerjungfrauenrüstung
+### Gewöhnliche Fähigkeit 1 : Meerjungfrauenrüstung
  **Description:** <span style="color: #645252;font-size:20px">Erhöht Kritischer Treffer der Regnanschlange um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Ziele mit „Abschreckung“ wird der Effekt verdoppelt.</span><span style="color: black">
 
-### 3 Skill: Gezeitenkunde
+### Gewöhnliche Fähigkeit 2 : Gezeitenkunde
  **Description:** <span style="color: #645252;font-size:20px">Wähle zu Beginn der Schlacht einen von drei Buffs aus: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Zähigkeit + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ausweichen; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schadensreduzierung + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Magieresistenz; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ABW + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schadensreflexion. Der Effekt bleibt die gesamte Schlacht über bestehen. Die Regnanschlange erhält für jeden erzielten kritischen Treffer einen zufälligen Buff; jeder Effekt ist bis zu 3 Mal stapelbar.</span><span style="color: black">
 
-### 4 Skill: Kriegshorn
+### Gewöhnliche Fähigkeit 3 : Kriegshorn
  **Description:** <span style="color: #645252;font-size:20px">Wenn die Regnanschlange einen kritischen Treffer erleidet, löst sie &lt;Tiefseestampfen&gt; aus. Die AKZ der Fähigkeit beträgt 8 Sek. &lt;Tiefseestampfen&gt; wird außerdem immer ausgelöst, wenn die Regnanschlange 30 % Schaden erleidet. Alle 25 Sek. lässt die Regnanschlange ein mächtiges Brüllen ertönen, das das Angriffstempo verbündeter Einheiten um sie herum 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Für Bucht-Einheiten wird der Effekt verdoppelt.</span><span style="color: black">
 
-### 5 Skill: Ruhiger Körper
+### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### 6 Skill: Piratenoffensive
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ## Talent

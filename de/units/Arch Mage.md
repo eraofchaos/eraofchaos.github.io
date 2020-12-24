@@ -3,7 +3,7 @@ title: "Erzmagier"
 permalink: /de/units/Arch Mage/
 excerpt: "Einheiten Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Erzmagier"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Zauberdurchdringung
+### Ultimative Fähigkeit: Zauberdurchdringung
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Magierin erhöht ihren eigenen Angriff um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 20 Stapel. Die Stapel bleiben aktiv, solange das Ziel nicht gewechselt wird.</span><span style="color: black">
 
-### 2 Skill: Wirbelsturm
+### Gewöhnliche Fähigkeit 1 : Wirbelsturm
  **Description:** <span style="color: #645252;font-size:20px">Die Magierin beschwört einen Tornado, der 1 zufällige Einheit aus der hinteren Reihe umschließt; das Ziel kann weder angreifen noch Fähigkeiten wirken, und seine Schadensreduzierung sinkt um 100 %. Der Tornado fügt dem Ziel <span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Die Wirkungsdauer des Tornados und des Schocks beträgt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. Hintere Reihe bezieht sich auf gegnerische Einheiten ganz hinten in einer Reihe.</span><span style="color: black">
 
-### 3 Skill: Energieverlust
+### Gewöhnliche Fähigkeit 2 : Energieverlust
  **Description:** <span style="color: #645252;font-size:20px">Wenn Magierinnen auf dem Schlachtfeld sind, sinkt die Manaregeneration des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein verbündeter Held einen Luftzauber wirkt, gewinnt der verbündete Held 2 Mana zurück.</span><span style="color: black">
 
-### 4 Skill: Magiefeld
+### Gewöhnliche Fähigkeit 3 : Magiefeld
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Magierin den Angriff aller verbündeten Einheiten in ihrem Weg um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für Zauberer-Einheiten verdoppelt sich der Effekt.</span><span style="color: black">
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

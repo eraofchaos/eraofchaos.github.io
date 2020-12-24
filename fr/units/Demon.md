@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /fr/units/Demon/
 excerpt: "Unités Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Démon"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
 ## Skills
-### 1 Skill: Frappe brûlante
+### Capacité ultime: Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les Démons infligent aléatoirement </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie dans une large zone et augmentent leur esquive de 300 pendant 12 secondes.</span><span style="color: black">
 
-### 2 Skill: Brûlures
+### Compétence normale 1 : Brûlures
  **Description:** <span style="color: #645252;font-size:20px">Le Démon restaure <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à chaque fois qu'il esquive une attaque.</span><span style="color: black">
 
-### 3 Skill: Séide de l'Hadès
+### Compétence normale 2 : Séide de l'Hadès
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Démon augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les soins augmentent de 30 %.</span><span style="color: black">
 
-### 4 Skill: Unité (Feu)
+### Compétence normale 3 : Unité (Feu)
  **Description:** <span style="color: #645252;font-size:20px">L'esquive du Démon augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Elle augmente de 40 pour chaque nouvelle unité de l'Hadès déployée.</span><span style="color: black">
 
-### 5 Skill: Frappe brûlante
+### Compétence spéciale de faction I : Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
-### 6 Skill: Résonance magique
+### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

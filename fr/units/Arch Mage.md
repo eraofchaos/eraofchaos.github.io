@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /fr/units/Arch Mage/
 excerpt: "Unités Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Archimage"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Pénétration de sort
+### Capacité ultime: Pénétration de sort
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Mage augmente sa propre ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet, qui peut se cumuler jusqu'à 20 fois, est permanent tant que la cible ne change pas. Il se réinitialise quand le Mage attaque un nouvel ennemi.</span><span style="color: black">
 
-### 2 Skill: Ouragan
+### Compétence normale 1 : Ouragan
  **Description:** <span style="color: #645252;font-size:20px">Le Mage invoque une tornade qui emporte une unité ennemie aléatoire située sur la ligne arrière, ce qui l'empêche d'attaquer ou d'utiliser des compétences, et il augmente la résistance aux dégâts de son unité de 100 %. De plus, la tornade inflige <span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée. La tornade et Statique durent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes (la ligne arrière indique l'endroit où se trouve l'unité ennemie au bout de chaque ligne).</span><span style="color: black">
 
-### 3 Skill: Perte d'énergie
+### Compétence normale 2 : Perte d'énergie
  **Description:** <span style="color: #645252;font-size:20px">Quand un Mage est sur le champ de bataille, la vitesse de récupération du sort du Héros augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Héros allié lance un sort d'air, le Mage lui rend 2 points de mana.</span><span style="color: black">
 
-### 4 Skill: Champ magique
+### Compétence normale 3 : Champ magique
  **Description:** <span style="color: #645252;font-size:20px">Quand le combat commence, le Mage augmente les dégâts de toutes les unités alliées sur son chemin de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double pour les Lanceurs de sorts.</span><span style="color: black">
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

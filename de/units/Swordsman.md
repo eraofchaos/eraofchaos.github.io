@@ -3,7 +3,7 @@ title: "Schwertkämpfer"
 permalink: /de/units/Swordsman/
 excerpt: "Einheiten Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Schwertkämpfer"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Inspirierend
+### Gewöhnliche Fähigkeit 1 : Inspirierend
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Schwertkämpfers steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> genießt.</span><span style="color: black">
 
-### 3 Skill: Doppelschlag
+### Gewöhnliche Fähigkeit 2 : Doppelschlag
  **Description:** <span style="color: #645252;font-size:20px">Der Schwertkämpfer hat bei Standardangriffen eine Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, das Ziel zweimal anzugreifen. Der zweite Angriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Beim Angriff auf </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit auf einen &lt;Doppelschlag&gt; auf 100 %.</span><span style="color: black">
 
-### 4 Skill: Erlösung
+### Gewöhnliche Fähigkeit 3 : Erlösung
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Schwertkämpfers hat eine hohe Wahrscheinlichkeit, LP in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wiederherzustellen.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

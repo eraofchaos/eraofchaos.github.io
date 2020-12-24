@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /it/units/Orc/
 excerpt: "Unità Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
 unitID: 403
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Orco"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Eliminazione abile
+### Tecnica suprema: Eliminazione abile
  **Description:** <span style="color: #645252;font-size:20px">Quando affrontano un'unità con PF inferiori al 30%, aumenta ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) degli Orchi.</span><span style="color: black">
 
-### 2 Skill: Affilato
+### Tecnica normale 1 : Affilato
  **Description:** <span style="color: #645252;font-size:20px">Gli Orchi godono di attacco aggiuntivo aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*60+240}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
-### 3 Skill: Raptus
+### Tecnica normale 2 : Raptus
  **Description:** <span style="color: #645252;font-size:20px">CRIT degli Orchi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
-### 4 Skill: Sete di sangue
+### Tecnica normale 3 : Sete di sangue
  **Description:** <span style="color: #645252;font-size:20px">PF degli Orchi aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I colpi critici ripristinano il 2% dei PF.</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Naga"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
-### 1 Skill: Blade Dance
+### Ultimate Skill: Blade Dance
  **Description:** <span style="color: #645252;font-size:20px">Naga unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random enemy units within a large range and reduces their DEF by 10% for 10s. Stacks up to 4 times.</span><span style="color: black">
 
-### 2 Skill: Cruelty
+### Regular Skill 1 : Cruelty
  **Description:** <span style="color: #645252;font-size:20px">Naga's attack is guaranteed to hit. Increases Naga's Life Drain by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, its Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The target suffers higher damage as its HP reduces, taking up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> increased damage.</span><span style="color: black">
 
-### 3 Skill: Blade Queen
+### Regular Skill 2 : Blade Queen
  **Description:** <span style="color: #645252;font-size:20px">When a Naga unit is on the battlefield, it increases all friendly Offensive units' Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Naga's Crit DMG will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Magic Awakening
+### Regular Skill 3 : Magic Awakening
  **Description:** <span style="color: #645252;font-size:20px">When a Naga unit is enhanced by a friendly hero's support spell, it uses &lt;Blade Dance&gt; on the target unit, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and reducing their DEF by 10% for 10s. Stacks up to 4 times.</span><span style="color: black">
 
-### 5 Skill: Sober Mind
+### Faction Special Skill I : Sober Mind
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Energy Dynamite
+### Faction Special Skill II : Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

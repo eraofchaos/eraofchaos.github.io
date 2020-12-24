@@ -3,7 +3,7 @@ title: "Élémentaire de l'esprit"
 permalink: /fr/units/Psychic Elemental/
 excerpt: "Unités Une entité d'énergie créée à partir d'idées du monde matériel. Elle peut attaquer l'esprit de ses ennemis. Ceux qui n'ont pas un mental assez fort pour résister se mettront à délirer et perdront la raison."
 unitID: 906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Élémentaire de l'esprit"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
-### 1 Skill: Décharge d'énergie
+### Capacité ultime: Décharge d'énergie
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de l'esprit est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Chaque Élémentaire de l'esprit attaque 3 unités ennemies proches de la cible toutes les 4 secondes, infligeant une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ.</span><span style="color: black">
 
-### 2 Skill: Terre
+### Compétence normale 1 : Terre
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'Élémentaire de l'esprit augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La &lt;Décharge d'énergie&gt; de l'Élémentaire de l'esprit a 30 % de chance d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant 3 secondes.</span><span style="color: black">
 
-### 3 Skill: Feu
+### Compétence normale 2 : Feu
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de l'Élémentaire de l'esprit augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La &lt;Décharge d'énergie&gt; de l'Élémentaire de l'esprit a 30 % de chance de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûler&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant 6 secondes.</span><span style="color: black">
 
-### 4 Skill: Seigneur élémentaire
+### Compétence normale 3 : Seigneur élémentaire
  **Description:** <span style="color: #645252;font-size:20px">La résistance magique de l'Élémentaire de l'esprit augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Élémentaire de l'esprit meurt, les points de mana des Héros ennemis sont réduits de 20.</span><span style="color: black">
 
-### 5 Skill: Affinité élémentaire
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflit élémentaire
+### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

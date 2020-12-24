@@ -3,7 +3,7 @@ title: "Pégase"
 permalink: /fr/units/Pegasus/
 excerpt: "Unités Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Pégase"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
-### 1 Skill: Gardien de la forêt
+### Capacité ultime: Gardien de la forêt
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'une Pégase meurt, elle invoque une autre Pégase pour prendre sa place. La Pégase alors invoquée a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV. Elle demeure pendant toute la durée de la bataille.</span><span style="color: black">
 
-### 2 Skill: Tranchant
+### Compétence normale 1 : Tranchant
  **Description:** <span style="color: #645252;font-size:20px">La vitesse d'ATQ de la Pégase augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'unité ciblée pendant 6 secondes.</span><span style="color: black">
 
-### 3 Skill: Protection de vitalité
+### Compétence normale 2 : Protection de vitalité
  **Description:** <span style="color: #645252;font-size:20px">La Pégase octroie un </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bouclier\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités alliées dans une large zone. Ce bouclier absorbe une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max.</span><span style="color: black">
 
-### 4 Skill: Cavalerie des ailes d'argent
+### Compétence normale 3 : Cavalerie des ailes d'argent
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Pégase et de la Pégase invoquée augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs PV de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

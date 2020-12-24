@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /fr/units/Gorgon/
 excerpt: "Unités D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Gorgone"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Suzeraine des marais
+### Compétence normale 1 : Suzeraine des marais
  **Description:** <span style="color: #645252;font-size:20px">Augmente la DÉF de la Gorgone de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si la Gorgone est touchée par une attaque unique qui devrait lui faire perdre plus de 15 % de ses PV max, elle est immunisée contre tous les dégâts qui dépassent ces 15 %.</span><span style="color: black">
 
-### 3 Skill: Symbiose de la peste
+### Compétence normale 2 : Symbiose de la peste
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de la Gorgone est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 4 Skill: Malédiction sauvage
+### Compétence normale 3 : Malédiction sauvage
  **Description:** <span style="color: #645252;font-size:20px">Diminue les coups critiques des ennemis proches de la Gorgone de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
 
-### 5 Skill: Frappe pestilentielle
+### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

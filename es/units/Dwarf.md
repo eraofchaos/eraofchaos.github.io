@@ -3,7 +3,7 @@ title: "Enano"
 permalink: /es/units/Dwarf/
 excerpt: "Unidades Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
 unitID: 202
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Enano"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.4 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: Aullido enano
+### Habilidad definitiva: Aullido enano
  **Description:** <span style="color: #645252;font-size:20px">Al principio del combate, las unidades de Enanos aumentan los PV de todas las unidades aliadas en una zona grande un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+15.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto dura todo el combate.</span><span style="color: black">
 
-### 2 Skill: Aniquilar
+### Habilidad normal 1 : Aniquilar
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Enano tienen una probabilidad de infligir un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a sus objetivos, y los pueden </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 2 s.</span><span style="color: black">
 
-### 3 Skill: Grito de rabia
+### Habilidad normal 2 : Grito de rabia
  **Description:** <span style="color: #645252;font-size:20px">Aullido enano&gt; aumenta los PV un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+3.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Resistencia mágica
+### Habilidad normal 3 : Resistencia mágica
  **Description:** <span style="color: #645252;font-size:20px">Los Enanos ofrecen cobertura que aumenta la resistencia mágica de todas las unidades un 30% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 5 Skill: Proliferación calmada
+### Habilidad especial de la facción I : Proliferación calmada
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marca de odio
+### Habilidad especial de la facción II : Marca de odio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
 
 ## Talent

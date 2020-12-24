@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /it/units/Behemoth/
 excerpt: "Unità I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Behemoth"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
-### 1 Skill: Ruggito selvaggio
+### Tecnica suprema: Ruggito selvaggio
  **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT alle unità nemiche circostanti in un'ampia area, infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stordimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi e riducendone ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 20 secondi.</span><span style="color: black">
 
-### 2 Skill: Artigli del mietitore
+### Tecnica normale 1 : Artigli del mietitore
  **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi al proprio bersaglio, infliggendogli inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
-### 3 Skill: Raptus
+### Tecnica normale 2 : Raptus
  **Description:** <span style="color: #645252;font-size:20px">Res DAN del Behemoth aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
-### 4 Skill: Collera
+### Tecnica normale 3 : Collera
  **Description:** <span style="color: #645252;font-size:20px">Ogni volta che un'unità nemica muore, il Behemoth recupera PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e aumenta la Rid DAN del 10% per 10 secondi.</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

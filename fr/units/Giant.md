@@ -3,7 +3,7 @@ title: "Géant"
 permalink: /fr/units/Giant/
 excerpt: "Unités Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
 unitID: 607
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Géant"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Rage foudroyante
+### Compétence normale 1 : Rage foudroyante
  **Description:** <span style="color: #645252;font-size:20px">Le Géant inflige une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à toutes les unités ennemies. Il diminue leur ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
-### 3 Skill: Force titanesque
+### Compétence normale 2 : Force titanesque
  **Description:** <span style="color: #645252;font-size:20px">Plus le Géant est éloigné de sa cible, plus l'attaque est puissante. L'attaque augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par tranche de 100 points de portée. Lorsqu'&lt;Éveil magique&gt; est actif, tous les affaiblissements qui touchent le Géant sont dissipés (sauf les effets d'auras).</span><span style="color: black">
 
-### 4 Skill: null
+### Compétence normale 3 : null
  **Description:** 
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

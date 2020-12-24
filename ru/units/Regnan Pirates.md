@@ -3,7 +3,7 @@ title: "Регнанские пираты"
 permalink: /ru/units/Regnan Pirates/
 excerpt: "Отряды Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда."
 unitID: 9901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Регнанские пираты"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
-### 1 Skill: Приливный грабитель
+### Совершенное умение: Приливный грабитель
  **Description:** 
 
-### 2 Skill: Тактические навыки
+### Обычное умение 1 : Тактические навыки
  **Description:** <span style="color: #645252;font-size:20px">Регнанские пираты получают +20% к ОЗ. При любой атаке пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону на 6 сек. Эффект может суммироваться максимум до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">.
 
-### 3 Skill: Оголенный клинок
+### Обычное умение 2 : Оголенный клинок
  **Description:** <span style="color: #645252;font-size:20px">Регнанские пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. ЗЩТ выбранного целью отряда снижается на 2% на 6 сек. при каждом успешном нанесении критического удара. Эффект может суммироваться до 20%.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Регнанские пираты наносят больше урона по мере снижения ОЗ. АТК регнанских пиратов повышается по мере снижения ОЗ цели. Их АТК может повыситься максимум на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ## Talent

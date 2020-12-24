@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /ru/units/Serpent Fly/
 excerpt: "Отряды Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Летучий змей"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
 ## Skills
-### 1 Skill: Болотная чума
+### Совершенное умение: Болотная чума
  **Description:** <span style="color: #645252;font-size:20px">Летучие змеи наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и заставляют ее страдать от <span style="color: #48b946;font-size:20px">чумы</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### 2 Skill: Змей в воздухе
+### Обычное умение 1 : Змей в воздухе
  **Description:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+45}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### 3 Skill: Чумной симбиоз
+### Обычное умение 2 : Чумной симбиоз
  **Description:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Летучие змеи получают еще +75 к критическому удару за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### 4 Skill: Слабость
+### Обычное умение 3 : Слабость
  **Description:** 
 
-### 5 Skill: Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent

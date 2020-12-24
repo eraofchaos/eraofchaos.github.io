@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /fr/units/Naga/
 excerpt: "Unités Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Naga"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
-### 1 Skill: Danse tranchante
+### Capacité ultime: Danse tranchante
  **Description:** <span style="color: #645252;font-size:20px">La Naga inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies aléatoires dans une large zone et diminue leur DÉF de 10 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 4 fois.</span><span style="color: black">
 
-### 2 Skill: Cruauté
+### Compétence normale 1 : Cruauté
  **Description:** <span style="color: #645252;font-size:20px">L'attaque des Nagas ne peut pas manquer sa cible. Augmente le drain de vie des Nagas de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Moins la cible a de PV, plus elle subit de dégâts, jusqu'à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> d'augmentation de dégâts.</span><span style="color: black">
 
-### 3 Skill: Reine des lames
+### Compétence normale 2 : Reine des lames
  **Description:** <span style="color: #645252;font-size:20px">Quand une Naga est sur le champ de bataille, elle augmente les coups critiques de toutes les unités offensives alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. De même, les coups critiques de la Naga augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Éveil magique
+### Compétence normale 3 : Éveil magique
  **Description:** <span style="color: #645252;font-size:20px">Quand une Naga est renforcée par le sort de soutien d'un Héros allié, elle utilise &lt;Danse tranchante&gt; sur l'unité ciblée, ce qui lui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et réduit sa DÉF de 10 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 4 fois.</span><span style="color: black">
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

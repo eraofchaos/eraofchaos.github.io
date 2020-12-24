@@ -3,7 +3,7 @@ title: "Mumie"
 permalink: /de/units/Mummy/
 excerpt: "Einheiten Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
 unitID: 308
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Mumie"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
 ## Skills
-### 1 Skill: Fluch der Verwesung
+### Ultimative Fähigkeit: Fluch der Verwesung
  **Description:** <span style="color: #645252;font-size:20px">Die Mumie fügt gegnerischen Einheiten in einem bestimmten Radius alle 20 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit Wirkungsdauer 12 Sek.</span><span style="color: black">
 
-### 2 Skill: Leichentuch
+### Gewöhnliche Fähigkeit 1 : Leichentuch
  **Description:** <span style="color: #645252;font-size:20px">Wenn &lt;Fluch der Verwesung&gt; gewirkt wird, stellt die Fähigkeit LP in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> deiner max. LP wieder her und die Schadensreduzierung der Einheit wird 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
-### 3 Skill: Krankheitsherd
+### Gewöhnliche Fähigkeit 2 : Krankheitsherd
  **Description:** <span style="color: #645252;font-size:20px">Die Mumie ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Schadensreduzierung der Mumie steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Solange die Mumie sich auf dem Schlachtfeld befindet, wird die erhaltene Heilung aller gegnerischen Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 4 Skill: Gott der Seuche
+### Gewöhnliche Fähigkeit 3 : Gott der Seuche
  **Description:** <span style="color: #645252;font-size:20px">Die ABW der Mumie wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Gegner, der die Mumie angreift, an einer </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px"> leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

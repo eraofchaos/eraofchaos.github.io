@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /it/units/Giant/
 excerpt: "Unità Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Gigante"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
 
 ## Skills
-### 1 Skill: null
+### Tecnica suprema: null
  **Description:** 
 
-### 2 Skill: Furia del tuono
+### Tecnica normale 1 : Furia del tuono
  **Description:** <span style="color: #645252;font-size:20px">Il Gigante infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi a tutte le unità nemiche e ne riduce l'ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il CRIT di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 10 secondi.</span><span style="color: black">
 
-### 3 Skill: Forza dei giganti
+### Tecnica normale 2 : Forza dei giganti
  **Description:** <span style="color: #645252;font-size:20px">Più il Gigante è lontano dal bersaglio, maggiore è il suo ATT. Ogni 100 m di distanza l'ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando &lt;Risveglio magico&gt; viene attivato, rimuove tutti i debuff dal Gigante (esclusi gli effetti ad area).</span><span style="color: black">
 
-### 4 Skill: null
+### Tecnica normale 3 : null
  **Description:** 
 
-### 5 Skill: Mente lucida
+### Tecnica speciale fazione I : Mente lucida
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Esplosione di Energia
+### Tecnica speciale fazione II : Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

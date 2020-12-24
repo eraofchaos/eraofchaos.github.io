@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /fr/units/Serpent Fly/
 excerpt: "Unités Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Guêpe serpent"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
 ## Skills
-### 1 Skill: Peste des marais
+### Capacité ultime: Peste des marais
  **Description:** <span style="color: #645252;font-size:20px">La Guêpe serpent inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible, et lui inflige <span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
-### 2 Skill: Vol stationnaire
+### Compétence normale 1 : Vol stationnaire
  **Description:** <span style="color: #645252;font-size:20px">La vitesse d'ATQ de la Guêpe serpent augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Symbiose de la peste
+### Compétence normale 2 : Symbiose de la peste
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques de la Guêpe serpent augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 75 points supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 4 Skill: Faiblesse
+### Compétence normale 3 : Faiblesse
  **Description:** <span style="color: #645252;font-size:20px">Lorsque la Guêpe serpent inflige un coup critique, elle a 8 % de chance de diminuer pendant 10 secondes les dégâts infligés par les ennemis situés dans une certaine zone de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
 
-### 5 Skill: Frappe pestilentielle
+### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

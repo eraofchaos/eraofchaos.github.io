@@ -3,7 +3,7 @@ title: "Zwerg"
 permalink: /de/units/Dwarf/
 excerpt: "Einheiten Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Zwerg"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.4 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: Zwergengebrüll
+### Ultimative Fähigkeit: Zwergengebrüll
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöhen Zwerge die LP aller verbündeten Einheiten in einem großen Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+15.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ihre Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Bonus gilt die gesamte Schlacht über.</span><span style="color: black">
 
-### 2 Skill: Peinigen
+### Gewöhnliche Fähigkeit 1 : Peinigen
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Zwergs verursacht mit einer bestimmten Wahrscheinlichkeit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an seinen Zielen. Außerdem kann er sie 2 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäuben&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Wütender Schrei
+### Gewöhnliche Fähigkeit 2 : Wütender Schrei
  **Description:** <span style="color: #645252;font-size:20px">&lt;Zwergengebrüll&gt; erhöht die LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+3.6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und den Schaden der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Magische Resistenz
+### Gewöhnliche Fähigkeit 3 : Magische Resistenz
  **Description:** <span style="color: #645252;font-size:20px">Zwerge bieten Deckung, die deinen Einheiten dahinter einen Bonus von 30 % auf ihre Magieresistenz gewährt. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
-### 5 Skill: Ruhige Robustheit
+### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Hasszeichen
+### Fraktions-Spezialfähigkeit II : Hasszeichen
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ## Talent

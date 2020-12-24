@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Devil"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Painful Reaper
+### Ultimate Skill: Painful Reaper
  **Description:** <span style="color: #645252;font-size:20px">Strike the furthest unit in front as soon as battle starts (attack a random back-row unit if there is no valid target), dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage, and summon a chasm of fire that causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 0.5s for 6s. Causes a 6s </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the first time. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Can be deployed in any position. Skill reset when target unit dies)</span><span style="color: black">
 
-### 2 Skill: Cruel Torture
+### Regular Skill 1 : Cruel Torture
  **Description:** <span style="color: #645252;font-size:20px">Deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 radom hostile units. Critical Hit dealt to </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 500.</span><span style="color: black">
 
-### 3 Skill: Withering
+### Regular Skill 2 : Withering
  **Description:** <span style="color: #645252;font-size:20px">While the Devil is on the battlefield, it deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP to all hostile units every 2s.</span><span style="color: black">
 
-### 4 Skill: Soul-Slaying
+### Regular Skill 3 : Soul-Slaying
  **Description:** <span style="color: #645252;font-size:20px">Unit ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against the Castle unit, unit's damage is increased by 50%.</span><span style="color: black">
 
-### 5 Skill: Broiling Strike
+### Faction Special Skill I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
-### 6 Skill: Spell Resistance Resonance
+### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

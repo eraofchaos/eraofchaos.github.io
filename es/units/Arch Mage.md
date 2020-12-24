@@ -3,7 +3,7 @@ title: "Archimaga"
 permalink: /es/units/Arch Mage/
 excerpt: "Unidades El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
 unitID: 604
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Archimaga"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Penetración de hechizo
+### Habilidad definitiva: Penetración de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de la Maga aumentan el ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, hasta un máximo de 20 acumulaciones. Las acumulaciones son permanentes si no se cambia de objetivo. Se pierden en cuanto se seleccione un nuevo objetivo.</span><span style="color: black">
 
-### 2 Skill: Huracán
+### Habilidad normal 1 : Huracán
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Magas invoca un tornado que levanta a 1 unidad de la retaguardia enemiga aleatoria, lo que impide que ataque o use habilidades, pero aumenta la reducción de daño de la unidad un 100%. Un tornado inflige <span style="color: #48b946;font-size:20px">&lt;estática&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo. El tornado y el efecto de estática duran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. (La retaguardia se refiere a las unidades hostiles que se encuentran al final de cada línea).</span><span style="color: black">
 
-### 3 Skill: Pérdida de energía
+### Habilidad normal 2 : Pérdida de energía
  **Description:** <span style="color: #645252;font-size:20px">Si hay unidades de Magas en el campo de batalla, la velocidad de recuperación de hechizos del Héroe se reduce en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando un héroe aliado lanza un hechizo de aire, las Magas le restauran 2 de maná.</span><span style="color: black">
 
-### 4 Skill: Campo mágico
+### Habilidad normal 3 : Campo mágico
  **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Magas aumenta el daño de todas las unidades amistosas a su paso un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica para unidades lanzahechizos.</span><span style="color: black">
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

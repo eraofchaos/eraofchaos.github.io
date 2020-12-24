@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Units Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Griffin"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
-### 1 Skill: Diving Counterattack
+### Ultimate Skill: Diving Counterattack
  **Description:** <span style="color: #645252;font-size:20px">When Griffins are under attack, they have a chance of dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 units. (Normal attack also has a chance to trigger Dive)</span><span style="color: black">
 
-### 2 Skill: Command Tower
+### Regular Skill 1 : Command Tower
  **Description:** <span style="color: #645252;font-size:20px">When Griffins are on the battlefield, all your flying units' ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">,and Attack speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Glorious Charge
+### Regular Skill 2 : Glorious Charge
  **Description:** <span style="color: #645252;font-size:20px">When Griffin units are in </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, they receive 30 extra movement speed and increased </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">unit's damage and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">Critical Hit for 15s.</span><span style="color: black">
 
-### 4 Skill: Archangel
+### Regular Skill 3 : Archangel
  **Description:** <span style="color: #645252;font-size:20px">Griffin's HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants 10% extra HP for Griffins for every 1 friendly flying unit on the battlefield.</span><span style="color: black">
 
-### 5 Skill: Siege Combat
+### Faction Special Skill I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Defense Resonance
+### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

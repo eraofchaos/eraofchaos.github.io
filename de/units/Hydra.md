@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /de/units/Hydra/
 excerpt: "Einheiten Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Hydra"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Chaosnebel
+### Ultimative Fähigkeit: Chaosnebel
  **Description:** <span style="color: #645252;font-size:20px">Die Hydra erzeugt einen gewaltigen Chaosnebel in ihrem Weg, der allen Zielen in einem großen Wirkungsbereich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang zufällig „Verlangsamung“, „Verbrennung“, „Blutung“, „Blindheit“, „Schock“, „Seuche“ oder „Krankheit“ sowie 50 % des eigenen Angriffs als Schaden zufügt.</span><span style="color: black">
 
-### 2 Skill: Kopfstoß-Kombo
+### Gewöhnliche Fähigkeit 1 : Kopfstoß-Kombo
  **Description:** <span style="color: #645252;font-size:20px">Es besteht die Chance, dass die Hydra nach einem Angriff einen Kopfstoß 1, 2, 3 oder 4 Mal ausführt und dabei jedes Mal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+59)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Die Chance auf einen weiteren Kopfstoß erhöht sich jeweils um 60 %, 40 %, 30 % oder 10 %.</span><span style="color: black">
 
-### 3 Skill: Seuchendominanz
+### Gewöhnliche Fähigkeit 2 : Seuchendominanz
  **Description:** <span style="color: #645252;font-size:20px">Für jede eingesetzte Festung-Einheit steigt der Schaden der Hydra um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Zusätzlich steigt Kritischer Treffer der Hydra um 100 für jeden Debuff auf dem Ziel, bis zu 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Verfolgungsbiss
+### Gewöhnliche Fähigkeit 3 : Verfolgungsbiss
  **Description:** <span style="color: #645252;font-size:20px">Wenn das Ziel ihrem Angriff ausweicht, greift die Hydra ein weiteres Mal erneut an und verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Sobald der Verfolgungsbiss ausgelöst wurde, erzielt sie innerhalb von 3 Sek. einen garantierten kritischen Treffer.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

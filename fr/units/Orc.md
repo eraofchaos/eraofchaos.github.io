@@ -3,7 +3,7 @@ title: "Orque"
 permalink: /fr/units/Orc/
 excerpt: "Unités Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Orque"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Exécution experte
+### Capacité ultime: Exécution experte
  **Description:** <span style="color: #645252;font-size:20px">Quand un Orque combat une unité qui a moins de 30 % de PV, son ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses coups critiques augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Couper
+### Compétence normale 1 : Couper
  **Description:** <span style="color: #645252;font-size:20px">L'attaque supplémentaire de l'Orque est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*60+240}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sur la cible pendant 6 secondes.</span><span style="color: black">
 
-### 3 Skill: Carnage
+### Compétence normale 2 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques de l'Orque augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
-### 4 Skill: Furie sanguinaire
+### Compétence normale 3 : Furie sanguinaire
  **Description:** <span style="color: #645252;font-size:20px">Les PV de l'Orque augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il récupère 2 % de ses PV chaque fois qu'il réussit un coup critique.</span><span style="color: black">
 
-### 5 Skill: Zélote combattant
+### Compétence spéciale de faction I : Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /de/units/Monk/
 excerpt: "Einheiten Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Mönch"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Gebet
+### Ultimative Fähigkeit: Gebet
  **Description:** <span style="color: #645252;font-size:20px">Mönche stellen alle 17 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP der verbündeten Einheit wieder her, die prozentual am wenigsten LP übrig hat.</span><span style="color: black">
 
-### 2 Skill: Segnung der Tapferen
+### Gewöhnliche Fähigkeit 1 : Segnung der Tapferen
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht verleihen Mönche allen verbündeten Einheiten in ihrem Weg </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wirkungsdauer </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
-### 3 Skill: Meditation
+### Gewöhnliche Fähigkeit 2 : Meditation
  **Description:** <span style="color: #645252;font-size:20px">Wenn Mönche auf dem Schlachtfeld sind, steigt die Manaregeneration des Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Erholung
+### Gewöhnliche Fähigkeit 3 : Erholung
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Mönches steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Heilung um 50 %.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

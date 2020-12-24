@@ -3,7 +3,7 @@ title: "Schwarzer Drache"
 permalink: /de/units/Black Dragon/
 excerpt: "Einheiten Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Schwarzer Drache"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
 ## Skills
-### 1 Skill: Drachenodem
+### Ultimative Fähigkeit: Drachenodem
  **Description:** <span style="color: #645252;font-size:20px">Der Schwarze Drache fügt alle 15 Sek. allen gegnerischen Einheiten in einem sehr hohen Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu; außerdem fügt er Einheiten in der Nähe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP sowie 6 Sek. lang <span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu.</span><span style="color: black">
 
-### 2 Skill: Schwarze Drachenschuppe
+### Gewöhnliche Fähigkeit 1 : Schwarze Drachenschuppe
  **Description:** <span style="color: #645252;font-size:20px">Der Schwarze Drache ist immun gegen <span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> und <span style="color: #48b946;font-size:20px">&lt;Verbrennung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn er einen kritischen Treffer erleidet, stellt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wieder her, AKZ 6 Sek.</span><span style="color: black">
 
-### 3 Skill: Magieimmunität
+### Gewöhnliche Fähigkeit 2 : Magieimmunität
  **Description:** <span style="color: #645252;font-size:20px">Immun gegen von Helden verursachten Zauberschaden. Erhöht jedes Mal, wenn &lt;Drachenodem&gt; gewirkt wird, die Schadensreduzierung des Drachen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seinen Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht, bis zu 4 Stapel.</span><span style="color: black">
 
-### 4 Skill: Hitzebeständigkeit
+### Gewöhnliche Fähigkeit 3 : Hitzebeständigkeit
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Schwarzen Drachen wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Abwehr um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Einheiten mit <span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird die Schadensreduzierung verdoppelt. Bei Angriffen auf Turm-Einheiten steigt der Schaden der Einheit um 50 %.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Feuervogel"
 permalink: /de/units/Firebird/
 excerpt: "Einheiten Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht."
 unitID: 907
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Feuervogel"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
-### 1 Skill: Flammenodem
+### Ultimative Fähigkeit: Flammenodem
  **Description:** <span style="color: #645252;font-size:20px">Der Feuervogel dezimiert gegnerische Einheiten in einem großen Bereich vor sich und fügt ihnen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Kritischer Treffer wird gegen Einheiten mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> um 500 erhöht.</span><span style="color: black">
 
-### 2 Skill: Flammenzunge
+### Gewöhnliche Fähigkeit 1 : Flammenzunge
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Feuervogel eine 9-Mann-Einheit angreift, verursacht sein Standardangriff </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 gegnerische Einheiten.</span><span style="color: black">
 
-### 3 Skill: Auferstehung
+### Gewöhnliche Fähigkeit 2 : Auferstehung
  **Description:** <span style="color: #645252;font-size:20px">Nach seinem ersten Tod wird der Feuervogel nach 5 Sek. wiederbelebt mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner LP.</span><span style="color: black">
 
-### 4 Skill: Feuerverstärkung
+### Gewöhnliche Fähigkeit 3 : Feuerverstärkung
  **Description:** <span style="color: #645252;font-size:20px">Der Feuervogel ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Kritischer Schaden ist um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
-### 5 Skill: Elementare Affinität
+### Fraktions-Spezialfähigkeit I : Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Offensive Elemente
+### Fraktions-Spezialfähigkeit II : Offensive Elemente
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

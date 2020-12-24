@@ -3,7 +3,7 @@ title: "Kavallerist"
 permalink: /de/units/Cavalier/
 excerpt: "Einheiten Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Kavallerist"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
-### 1 Skill: Lanzengang
+### Ultimative Fähigkeit: Lanzengang
  **Description:** <span style="color: #645252;font-size:20px">Auf dem Schlachtfeld verursacht der erste Angriff eines Kavalleristen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Das Ziel wird außerdem 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Glorreicher Ansturm
+### Gewöhnliche Fähigkeit 1 : Glorreicher Ansturm
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Kavalleristen steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> genießt.</span><span style="color: black">
 
-### 3 Skill: Schneller Durchbruch
+### Gewöhnliche Fähigkeit 2 : Schneller Durchbruch
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Kavallerist sein erstes Ziel tötet, verursacht er bei seinem nächsten Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden.</span><span style="color: black">
 
-### 4 Skill: Ritter-Fertigkeiten
+### Gewöhnliche Fähigkeit 3 : Ritter-Fertigkeiten
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Kavalleristen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine Schadensreduzierung steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

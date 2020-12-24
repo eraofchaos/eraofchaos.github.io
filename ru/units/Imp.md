@@ -3,7 +3,7 @@ title: "Бес"
 permalink: /ru/units/Imp/
 excerpt: "Отряды null"
 unitID: 501
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Бес"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
-### 1 Skill: Импульс
+### Совершенное умение: Импульс
  **Description:** <span style="color: #645252;font-size:20px">Когда бесы погибают, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> шанс воскреснуть с полным запасом ОЗ.</span><span style="color: black">
 
-### 2 Skill: Карающий удар
+### Обычное умение 1 : Карающий удар
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у бесов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызвать </span><span style="color: black"><span style="color: #e07c44;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 сек.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Когда бесы уклоняются от урона врага, они с вероятностью 20% снижают ману вражеского героя на 5. Перезарядка этого умения - 5 сек. </span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 30%.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### 6 Skill: Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

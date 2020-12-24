@@ -3,7 +3,7 @@ title: "Циклоп"
 permalink: /ru/units/Cyclops/
 excerpt: "Отряды null"
 unitID: 406
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Циклоп"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
-### 1 Skill: Огненный камень
+### Совершенное умение: Огненный камень
  **Description:** 
 
-### 2 Skill: Осадный удар
+### Обычное умение 1 : Осадный удар
  **Description:** <span style="color: #645252;font-size:20px">Циклопы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости АТК. При менее 35% ОЗ циклопы могут получить двойной эффект, причем эффект сохраняется после восстановления здоровья. В бою циклопов против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : Землетрясение
  **Description:** <span style="color: #645252;font-size:20px">Когда циклопы подвергаются атаке, они получают шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам в широком радиусе и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек. </span><span style="color: black">
 
-### 4 Skill: Гигант
+### Обычное умение 3 : Гигант
  **Description:** <span style="color: #645252;font-size:20px">Циклопы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. В бою против отряда из 9 бойцов они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от получаемого урона.</span><span style="color: black">
 
-### 5 Skill: Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### 6 Skill: Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent
@@ -96,7 +96,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

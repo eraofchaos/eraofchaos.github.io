@@ -3,7 +3,7 @@ title: "Oiseau de feu"
 permalink: /fr/units/Firebird/
 excerpt: "Unités L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Oiseau de feu"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
-### 1 Skill: Souffle de feu
+### Capacité ultime: Souffle de feu
  **Description:** <span style="color: #645252;font-size:20px">L'Oiseau de feu décime les unités ennemies dans une large zone devant lui, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts. Les coups critiques infligés aux unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 500.</span><span style="color: black">
 
-### 2 Skill: Langue de feu
+### Compétence normale 1 : Langue de feu
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Oiseau de feu fait face à une unité de 9 combattants, son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts de zone à 3 unités ennemies.</span><span style="color: black">
 
-### 3 Skill: Résurrection
+### Compétence normale 2 : Résurrection
  **Description:** <span style="color: #645252;font-size:20px">L'Oiseau de feu reprend vie 5 secondes après sa première mort, récupérant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV.</span><span style="color: black">
 
-### 4 Skill: Bonus de feu
+### Compétence normale 3 : Bonus de feu
  **Description:** <span style="color: #645252;font-size:20px">L'Oiseau de feu est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts critiques augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Affinité élémentaire
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflit élémentaire
+### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

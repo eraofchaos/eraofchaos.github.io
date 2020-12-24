@@ -3,7 +3,7 @@ title: "Chevalier noir"
 permalink: /fr/units/Black Knight/
 excerpt: "Unités Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Chevalier noir"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Frappe fatale
+### Capacité ultime: Frappe fatale
  **Description:** <span style="color: #645252;font-size:20px">Le Chevalier noir inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> point de dégâts à sa cible, ainsi que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
-### 2 Skill: Charge mortelle
+### Compétence normale 1 : Charge mortelle
  **Description:** <span style="color: #645252;font-size:20px">Si sa cible meurt, l'ATQ du Chevalier noir augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet perdure pendant tout le combat et peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 3 Skill: Capacités de Chevalier
+### Compétence normale 2 : Capacités de Chevalier
  **Description:** <span style="color: #645252;font-size:20px">Les PV de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance aux dégâts de </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Suppression terrifiante
+### Compétence normale 3 : Suppression terrifiante
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques du Chevalier noir augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts critiques de 50 %.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

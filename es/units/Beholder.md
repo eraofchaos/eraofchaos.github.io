@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /es/units/Beholder/
 excerpt: "Unidades Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Observador"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
-### 1 Skill: Control mental
+### Habilidad definitiva: Control mental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Observadores controlan a una unidad hostil aleatoria. El objetivo recibe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos por segundo durante 8 s. Las unidades controladas no pueden atacar, moverse o usar habilidades.</span><span style="color: black">
 
-### 2 Skill: Penetración de hechizo
+### Habilidad normal 1 : Penetración de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Cuando las unidades de Observadores entran en el campo de batalla, estos abren sus cuatro ojos de la muerte. Cada ojo otorga un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño de unidad. Cada vez que derrota a un objetivo, uno de los ojos se cierra. Solo se pueden cerrar tres ojos.</span><span style="color: black">
 
-### 3 Skill: Debilidad
+### Habilidad normal 2 : Debilidad
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Observadores en el campo de batalla, el maná inicial de los Héroes enemigos se reduce en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada vez que se derrota a una unidad enemiga, el maná del Héroe enemigo se reduce en 10 más.</span><span style="color: black">
 
-### 4 Skill: Reunir energía
+### Habilidad normal 3 : Reunir energía
  **Description:** <span style="color: #645252;font-size:20px">Al principio del combate, las unidades de Observadores aumentan los PV de todas las unidades en una zona grande un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dura toda la batalla.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

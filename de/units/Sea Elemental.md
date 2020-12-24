@@ -3,7 +3,7 @@ title: "Meerelementar"
 permalink: /de/units/Sea Elemental/
 excerpt: "Einheiten Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
 unitID: 9903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Meerelementar"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Zeitspirale
+### Ultimative Fähigkeit: Zeitspirale
  **Description:** <span style="color: #645252;font-size:20px">Der Meerelementar erzeugt alle 30 Sek. für 10 Sek. einen Strudel am Boden, der das Angriffstempo aller gegnerischen Einheiten in Reichweite jede Sekunde um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Der Strudel fügt gegnerischen Einheiten im Wirkungsbereich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu, wenn er verschwindet.</span><span style="color: black">
 
-### 2 Skill: Geschenk der Flut
+### Gewöhnliche Fähigkeit 1 : Geschenk der Flut
  **Description:** <span style="color: #645252;font-size:20px">Sobald er das Schlachtfeld betritt, erzeugt der Meerelementar einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Eisschild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> für verbündete Einheiten in seinem Weg. Der Meereselementar </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Angreifer. Der Schild bleibt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. bestehen.</span><span style="color: black">
 
-### 3 Skill: Ritual der Gezeiten
+### Gewöhnliche Fähigkeit 2 : Ritual der Gezeiten
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erzeugt der Meerelementar einen Kreis, der seine LP um <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)} %</span><span style="color: black"> erhöht. Die Heilung gegnerischer Einheiten wird während des ganzen Kampfes alle 2 Sek. um 1 % reduziert.</span><span style="color: black">
 
-### 4 Skill: Abgrundkäfig
+### Gewöhnliche Fähigkeit 3 : Abgrundkäfig
  **Description:** <span style="color: #645252;font-size:20px">Der Meerelementar beschwört alle 20 Sek. ein Wasserverlies, das 1 zufällige gegnerische Einheit in der hinteren Reihe packt; diese kann weder angreifen noch Fähigkeiten wirken. Das Wasserverlies bleibt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang bestehen.</span><span style="color: black">
 
-### 5 Skill: Ruhiger Körper
+### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### 6 Skill: Piratenoffensive
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ## Talent

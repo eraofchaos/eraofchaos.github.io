@@ -3,7 +3,7 @@ title: "Elemental de Piedra"
 permalink: /es/units/Stone Elemental/
 excerpt: "Unidades El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Elemental de Piedra"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: Destrozar rocas
+### Habilidad definitiva: Destrozar rocas
  **Description:** <span style="color: #645252;font-size:20px">un Elemental de Piedra se divide en dos Elementales de Piedra más pequeños al morir. El Elemental de Piedra pequeño tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+17)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*120+880)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV durante toda la batalla.</span><span style="color: black">
 
-### 2 Skill: Roca sólida
+### Habilidad normal 1 : Roca sólida
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad Elemental de Piedra un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto se duplica cuando el Elemental de Piedra recibe daño de unidades a distancia.</span><span style="color: black">
 
-### 3 Skill: Fuerza elemental
+### Habilidad normal 2 : Fuerza elemental
  **Description:** <span style="color: #645252;font-size:20px">Si hay un Elemental de Piedra en el campo de batalla, este aumenta la resistencia mágica contra hechizos de tierra de las unidades aliadas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la resistencia mágica contra hechizos de tierra de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una unidad de Elementales de Piedra en el campo de batalla, el maná inicial del Héroe enemigo se reduce en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Eco terrestre
+### Habilidad normal 3 : Eco terrestre
  **Description:** <span style="color: #645252;font-size:20px">Cuando los Elementales de Piedra y los Elementales de Piedra pequeños son derrotados, infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 5 Skill: Afinidad elemental
+### Habilidad especial de la facción I : Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflicto elemental
+### Habilidad especial de la facción II : Conflicto elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

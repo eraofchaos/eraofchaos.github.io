@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /es/units/Wyvern/
 excerpt: "Unidades Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Guiverno"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
-### 1 Skill: Chorro venenoso
+### Habilidad definitiva: Chorro venenoso
  **Description:** <span style="color: #645252;font-size:20px">Cada 21 s, el Guiverno escupe veneno al objetivo, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*3+37))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles a cierta distancia y les inflige <span style="color: #48b946;font-size:20px">plaga</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. (aumenta el daño de </span><span style="color: black"><span style="color: #48b946;font-size:20px">plaga</span><span style="color: black"><span style="color: #645252;font-size:20px"> infligido por el Guiverno).</span><span style="color: black">
 
-### 2 Skill: null
+### Habilidad normal 1 : null
  **Description:** 
 
-### 3 Skill: Simbiosis de la plaga
+### Habilidad normal 2 : Simbiosis de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Guivernos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto aumenta un 5% más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
-### 4 Skill: Miasma salvaje
+### Habilidad normal 3 : Miasma salvaje
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ del Guiverno un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El Guiverno causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">[Plague]</span><span style="color: black"><span style="color: #645252;font-size:20px"> en las unidades hostiles y reduce la curación un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cada 20 s durante 10 s.</span><span style="color: black">
 
-### 5 Skill: Golpe de la plaga
+### Habilidad especial de la facción I : Golpe de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Libélula Menor"
 permalink: /es/units/Serpent Fly/
 excerpt: "Unidades Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Libélula Menor"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
 ## Skills
-### 1 Skill: Plaga de la ciénaga
+### Habilidad definitiva: Plaga de la ciénaga
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Libélulas Menores inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a la unidad objetivo y causa <span style="color: #48b946;font-size:20px">&lt;plaga&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
-### 2 Skill: Libélulas en el aire
+### Habilidad normal 1 : Libélulas en el aire
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la velocidad de ataque de la Libélula Menor un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Simbiosis de la plaga
+### Habilidad normal 2 : Simbiosis de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la Libélula Menor en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. El golpe crítico de la Libélula Menor aumenta en 75 más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
-### 4 Skill: Debilidad
+### Habilidad normal 3 : Debilidad
  **Description:** <span style="color: #645252;font-size:20px">Cuando la Libélula Menor impacta con un golpe crítico, tiene un 8% de probabilidades de reducir el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de las unidades hostiles en un área determinada durante 10 s. Se acumula 3 veces.</span><span style="color: black">
 
-### 5 Skill: Golpe de la plaga
+### Habilidad especial de la facción I : Golpe de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent

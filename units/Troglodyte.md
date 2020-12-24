@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Units A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Troglodyte"
 toc: true
@@ -62,22 +62,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
-### 1 Skill: Spear Array
+### Ultimate Skill: Spear Array
  **Description:** <span style="color: #645252;font-size:20px">The Troglodyte unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
-### 2 Skill: Keen
+### Regular Skill 1 : Keen
  **Description:** <span style="color: #645252;font-size:20px">Increases ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the Troglodyte.</span><span style="color: black">
 
-### 3 Skill: Spell Breaker's Smell
+### Regular Skill 2 : Spell Breaker's Smell
  **Description:** <span style="color: #645252;font-size:20px">Increases magic resistance and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the Troglodyte over the next 10s. The effect doubles every time a hostile hero casts a spell.</span><span style="color: black">
 
-### 4 Skill: Poisoned Spear
+### Regular Skill 3 : Poisoned Spear
  **Description:** <span style="color: #645252;font-size:20px">Increases Troglodyte's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Dark Conflict
+### Faction Special Skill II : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

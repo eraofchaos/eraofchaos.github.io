@@ -3,7 +3,7 @@ title: "Elementale della pietra"
 permalink: /it/units/Stone Elemental/
 excerpt: "Unità L'Elementale della pietra è il risultato della fusione di numerosi minerali attraverso l'intervento di processi geologici. È in grado di dividersi in Elementali più piccoli, che continuano imperterriti a combattere."
 unitID: 905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Elementale della pietra"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: Roccia frantumata
+### Tecnica suprema: Roccia frantumata
  **Description:** <span style="color: #645252;font-size:20px">Quando muore, l'Elementale della pietra si divide in 2 Elementali minori. Ciascun Elementale minore ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+17)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*120+880)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF e dura fino al termine della battaglia.</span><span style="color: black">
 
-### 2 Skill: Roccia solida
+### Tecnica normale 1 : Roccia solida
  **Description:** <span style="color: #645252;font-size:20px">Rid DAN dell'Elementale della pietra aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato quando l'Elementale della pietra subisce danno da unità a distanza.</span><span style="color: black">
 
-### 3 Skill: Forza elementale
+### Tecnica normale 2 : Forza elementale
  **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale della pietra è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Terra (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e riduce la resistenza dei nemici agli incantesimi di tipo Terra (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se l'Elementale della pietra è sul campo di battaglia, riduce il mana iniziale dell'eroe nemico di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Eco della Terra
+### Tecnica normale 3 : Eco della Terra
  **Description:** <span style="color: #645252;font-size:20px">Quando l'Elementale della pietra e gli Elementali minori vengono sconfitti, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni alle unità nemiche in un'ampia area e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 5 Skill: Affinità elementale
+### Tecnica speciale fazione I : Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Conflitto elementale
+### Tecnica speciale fazione II : Conflitto elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

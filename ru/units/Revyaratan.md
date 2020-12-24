@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /ru/units/Revyaratan/
 excerpt: "Отряды Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Левиафан"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
 
 ## Skills
-### 1 Skill: Свирепая челюсть
+### Совершенное умение: Свирепая челюсть
  **Description:** <span style="color: #645252;font-size:20px">Целям наносится дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона каждые 10 сек. со сдерживанием вражеских отрядов в том же ряду в течение 4 сек.</span><span style="color: black">
 
-### 2 Skill: Ледяной плавник
+### Обычное умение 1 : Ледяной плавник
  **Description:** <span style="color: #645252;font-size:20px">Иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозке</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Остановке времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и урону от заклинаний Воды. За каждый дополнительно размещенный отряд Убежища </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Наличие левиафанов дает всем союзным отрядам </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда, скорости атаки и КРИТ. УРН, а также на 2,5% усиливает эффект от отрядов Убежища.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">УРН отряда </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Два вражеских отряда будут отмечены в начале боя. Метка на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> снижает скорость атаки, КРИТ УРН, УРН отряда и сопротивление отряда урону, а также запрещает воскрешение ангелами первых погибших. &lt;Свирепая челюсть&gt; с шансом 30% восстанавливает </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
-### 4 Skill: Непоколебимое подводное течение
+### Обычное умение 3 : Непоколебимое подводное течение
  **Description:** <span style="color: #645252;font-size:20px">Когда союзному отряду Убежища наносится урон выше 20% от максимума ОЗ, это приводит в ярость морского монстра, который повышает урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> у союзных отрядов Убежищ на 25 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### 5 Skill: Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ## Talent

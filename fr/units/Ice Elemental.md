@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /fr/units/Ice Elemental/
 excerpt: "Unités Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
-### 1 Skill: Mur de glace
+### Capacité ultime: Mur de glace
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de glace érige un mur de glace devant la cible, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Gel&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux cibles sur la même ligne dans une large zone pendant <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Poignée congelée
+### Compétence normale 1 : Poignée congelée
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de l'Élémentaire de glace a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> à la cible pendant 15 secondes, et de ralentir la vitesse d'ATQ de la cible de <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes. Cet effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 3 Skill: Force élémentaire
+### Compétence normale 2 : Force élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de glace est sur le champ de bataille, il augmente la résistance magique aux sorts d'eau de ses alliés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et réduit la résistance magique aux sorts d'eau de ses ennemis de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. De plus, la régénération de mana du Héros allié augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: null
+### Compétence normale 3 : null
  **Description:** 
 
-### 5 Skill: Affinité élémentaire
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflit élémentaire
+### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

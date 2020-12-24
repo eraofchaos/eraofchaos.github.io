@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /it/units/Beholder/
 excerpt: "Unità Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Osservatore"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
-### 1 Skill: Controllo mentale
+### Tecnica suprema: Controllo mentale
  **Description:** <span style="color: #645252;font-size:20px">L'Osservatore prende il controllo di 1 unità nemica casuale. Il bersaglio subisce danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi al secondo per 8 secondi. Finché dura &lt;Controllo mentale&gt;, il bersaglio non può attaccare, muoversi o usare tecniche.</span><span style="color: black">
 
-### 2 Skill: Incantesimo perforante
+### Tecnica normale 1 : Incantesimo perforante
  **Description:** <span style="color: #645252;font-size:20px">Quando l'Osservatore entra in battaglia, apre i propri 4 Occhi della morte. Ogni Occhio ne aumenta il danno (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Per ogni bersaglio ucciso, l'Osservatore chiude 1 Occhio. L'Osservatore può chiudere un massimo di 3 Occhi.</span><span style="color: black">
 
-### 3 Skill: Debilitazione
+### Tecnica normale 2 : Debilitazione
  **Description:** <span style="color: #645252;font-size:20px">Quando l'Osservatore è sul campo di battaglia, il mana iniziale degli eroi nemici è ridotto di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando un'unità nemica muore, riduce di 10 il mana degli eroi nemici.</span><span style="color: black">
 
-### 4 Skill: Raccolta di energia
+### Tecnica normale 3 : Raccolta di energia
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Osservatore aumenta i PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le tue unità in un'ampia area. L'effetto dura fino al termine della battaglia.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

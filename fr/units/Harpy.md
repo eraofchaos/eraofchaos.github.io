@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /fr/units/Harpy/
 excerpt: "Unités Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Harpie"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
-### 1 Skill: Griffe tranchante de la Harpie
+### Capacité ultime: Griffe tranchante de la Harpie
  **Description:** <span style="color: #645252;font-size:20px">Quand les Harpies se font attaquer, elles ont une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à 3 unités (les attaques normales ont également une chance de déclencher cet effet).</span><span style="color: black">
 
-### 2 Skill: Suppression aigüe
+### Compétence normale 1 : Suppression aigüe
  **Description:** <span style="color: #645252;font-size:20px">Quand elle fait face à une unité terrestre, l'attaque de la Harpie augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Cri du briseur de sort
+### Compétence normale 2 : Cri du briseur de sort
  **Description:** <span style="color: #645252;font-size:20px">Quand un Héros ennemi lance un sort, la Harpie diminue la résistance aux dégâts de l'unité placé dans l'alignement de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. L'effet peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
 
-### 4 Skill: Visée aérienne
+### Compétence normale 3 : Visée aérienne
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts critiques de la Harpie augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Elle est assurée d'infliger des coups critiques aux cibles victimes d'<span style="color: #48b946;font-size:20px">&lt;Étourdissement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

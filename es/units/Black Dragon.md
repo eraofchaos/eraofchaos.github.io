@@ -3,7 +3,7 @@ title: "Dragón Negro"
 permalink: /es/units/Black Dragon/
 excerpt: "Unidades Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Dragón Negro"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
 ## Skills
-### 1 Skill: Aliento de dragón
+### Habilidad definitiva: Aliento de dragón
  **Description:** <span style="color: #645252;font-size:20px">El Dragón Negro inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a todas las unidades hostiles en una zona muy grande cada 15 s e inflige daño adicional igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a las unidades cercanas y los <span style="color: #48b946;font-size:20px">quema</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
-### 2 Skill: Escama de Dragón Negro
+### Habilidad normal 1 : Escama de Dragón Negro
  **Description:** <span style="color: #645252;font-size:20px">El Dragón Negro es inmune a <span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y a <span style="color: #48b946;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando recibe un golpe crítico, restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos. La recarga es de 6 s.</span><span style="color: black">
 
-### 3 Skill: Inmunidad mágica
+### Habilidad normal 2 : Inmunidad mágica
  **Description:** <span style="color: #645252;font-size:20px">Inmune al daño de hechizo de Héroes. Aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cada vez que se lanza &lt;Aliento de Dragón&gt;. Dura toda la batalla y se acumula 4 veces.</span><span style="color: black">
 
-### 4 Skill: Adaptación a altas temperaturas
+### Habilidad normal 3 : Adaptación a altas temperaturas
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Dragón Negro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la Defensa un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La bonificación a la reducción de daño se duplica contra unidades con <span style="color: #48b946;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando un Dragón Negro se enfrenta a una unidad de la facción de Torre, el daño de la unidad aumenta un 50%.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

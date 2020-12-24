@@ -3,7 +3,7 @@ title: "Uomo lucertola"
 permalink: /it/units/Lizardman/
 excerpt: "Unità Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
 unitID: 802
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Uomo lucertola"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Dardo avvelenato
+### Tecnica suprema: Dardo avvelenato
  **Description:** <span style="color: #645252;font-size:20px">L'Uomo lucertola infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio, applicando <span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
-### 2 Skill: Lacerazione
+### Tecnica normale 1 : Lacerazione
  **Description:** <span style="color: #645252;font-size:20px">DAN dell'attacco base dell'Uomo lucertola aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
-### 3 Skill: Pestilenza aggravata
+### Tecnica normale 2 : Pestilenza aggravata
  **Description:** <span style="color: #645252;font-size:20px">Danno dell'Uomo lucertola aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il danno dell'Uomo lucertola aumenta di un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 4 Skill: Cacciatore di Draghi
+### Tecnica normale 3 : Cacciatore di Draghi
  **Description:** <span style="color: #645252;font-size:20px">Contro unità da 1 o 4 membri, il danno dell'Uomo lucertola aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Attacco pestilenziale
+### Tecnica speciale fazione I : Attacco pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

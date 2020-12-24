@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /ru/units/Ice Elemental/
 excerpt: "Отряды Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Элементаль Льда"
 toc: true
@@ -22,10 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Специализирующийся на контроле маг, покрывает все вокруг себя льдом, возводит ледяную стену.
 
@@ -61,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
-### 1 Skill: Стена льда
+### Совершенное умение: Стена льда
  **Description:** <span style="color: #645252;font-size:20px">Элементали Льда создают ледяную стену перед целью, </span><span style="color: black"><span style="color: #48b946;font-size:20px">замораживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели в горизонтальном ряду в широком радиусе на <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 2 Skill: Холодная хватка
+### Обычное умение 1 : Холодная хватка
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Льда есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлить</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 15 сек. Кроме того, скорость атаки у цели снижается на <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### 3 Skill: Сила элементалей
+### Обычное умение 2 : Сила элементалей
  **Description:** 
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** 
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ## Talent

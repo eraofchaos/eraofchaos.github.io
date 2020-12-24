@@ -3,7 +3,7 @@ title: "Регнанский змей"
 permalink: /ru/units/Regnan Serpent/
 excerpt: "Отряды null"
 unitID: 9904
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Регнанский змей"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: Доспех русалки
+### Обычное умение 1 : Доспех русалки
  **Description:** <span style="color: #645252;font-size:20px">Регнанские змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою регнанских змеев против целей со сдерживанием эффект удваивается.</span><span style="color: black">
 
-### 3 Skill: Путеводный прилив
+### Обычное умение 2 : Путеводный прилив
  **Description:** <span style="color: #645252;font-size:20px">В начале боя выбирается одно из 3 усилений: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Эффект длится в течение всего боя. Регнанские змеи получают одно случайное усиление при нанесении критического удара. Эффект может суммироваться до 3 раз.</span><span style="color: black">
 
-### 4 Skill: Боевой рог
+### Обычное умение 3 : Боевой рог
  **Description:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют &lt;Топот глубин&gt; при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется &lt;Глубоководный топот&gt;, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
 
-### 5 Skill: Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /fr/units/Cavalier/
 excerpt: "Unités Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Cavalier"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
 ## Skills
-### 1 Skill: Joute
+### Capacité ultime: Joute
  **Description:** <span style="color: #645252;font-size:20px">Quand un Cavalier se trouve sur le champ de bataille, sa 1re attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sa cible pendant 5 secondes.</span><span style="color: black">
 
-### 2 Skill: Charge glorieuse
+### Compétence normale 1 : Charge glorieuse
  **Description:** <span style="color: #645252;font-size:20px">Augmente les coups critiques des Cavaliers de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double en cas d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Percée rapide
+### Compétence normale 2 : Percée rapide
  **Description:** <span style="color: #645252;font-size:20px">Quand un Cavalier tue une cible pour la première fois, il inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à la prochaine unité qu'il cible.</span><span style="color: black">
 
-### 4 Skill: Capacités de Chevalier
+### Compétence normale 3 : Capacités de Chevalier
  **Description:** <span style="color: #645252;font-size:20px">Les PV des Cavaliers augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La résistance aux dégâts de l'unité augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

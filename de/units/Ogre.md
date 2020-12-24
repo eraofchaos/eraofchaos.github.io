@@ -3,7 +3,7 @@ title: "Oger"
 permalink: /de/units/Ogre/
 excerpt: "Einheiten Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Oger"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
-### 1 Skill: Blutbecken
+### Ultimative Fähigkeit: Blutbecken
  **Description:** <span style="color: #645252;font-size:20px">Der Oger beschwört einen Blutteich, der den Lebensentzug aller verbündeten Einheiten in einem großen Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verbessert. Der Blutteich bleibt 15 Sek. lang bestehen.</span><span style="color: black">
 
-### 2 Skill: Haut des Hexers
+### Gewöhnliche Fähigkeit 1 : Haut des Hexers
  **Description:** <span style="color: #645252;font-size:20px">Die ABW des Ogers steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, die LP-Regeneration um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %.</span><span style="color: black">
 
-### 3 Skill: Amoklauf
+### Gewöhnliche Fähigkeit 2 : Amoklauf
  **Description:** <span style="color: #645252;font-size:20px">Wenn die LP des Ogers unter 35 % sinken, steigt der ANG aller verbündeten Einheiten für den Rest der Schlacht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Giftheilung
+### Gewöhnliche Fähigkeit 3 : Giftheilung
  **Description:** <span style="color: #645252;font-size:20px">Wenn sich ein Oger auf dem Schlachtfeld befindet, steigt die Heilung aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Kampfzelot
+### Fraktions-Spezialfähigkeit I : Kampfzelot
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

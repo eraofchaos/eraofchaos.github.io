@@ -3,7 +3,7 @@ title: "Mantikor"
 permalink: /de/units/Manticore/
 excerpt: "Einheiten Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr."
 unitID: 706
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Mantikor"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
-### 1 Skill: Paralysierendes Gift
+### Ultimative Fähigkeit: Paralysierendes Gift
  **Description:** <span style="color: #645252;font-size:20px">Der Mantikor greift das Ziel alle 20 Sek. an und fügt dem Ziel und Gegnern in einem gewissen Radius um das Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Außerdem wird die ABW dieser Einheiten 10 Sek. lang um 30 % reduziert.</span><span style="color: black">
 
-### 2 Skill: Taktische Entscheidung
+### Gewöhnliche Fähigkeit 1 : Taktische Entscheidung
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Mantikors reduziert mit 25 % Wahrscheinlichkeit die Schadensreduzierung von Nahkampfeinheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Fernkampf-/Zauberer-Einheiten besteht eine Wahrscheinlichkeit von 25 %, dass Kritischer Treffer verbündeter Einheiten 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht wird, bis 8 Stapel.</span><span style="color: black">
 
-### 3 Skill: null
+### Gewöhnliche Fähigkeit 2 : null
  **Description:** 
 
-### 4 Skill: Vergossenes giftiges Blut
+### Gewöhnliche Fähigkeit 3 : Vergossenes giftiges Blut
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Ziel stirbt, verlieren alle gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang 30 % ABW, und sie <span style="color: #48b946;font-size:20px">„verstummen“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wird nur einmal pro Schlacht ausgelöst.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

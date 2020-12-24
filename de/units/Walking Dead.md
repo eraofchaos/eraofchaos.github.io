@@ -3,7 +3,7 @@ title: "Wandelnde Tote"
 permalink: /de/units/Walking Dead/
 excerpt: "Einheiten Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
 unitID: 302
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Wandelnde Tote"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
-### 1 Skill: Giftgas
+### Ultimative Fähigkeit: Giftgas
  **Description:** <span style="color: #645252;font-size:20px">Der Wandelnde Tote fügt allen gegnerischen Zielen in einem bestimmten Radius alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Der Schaden gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
 
-### 2 Skill: Ansteckend
+### Gewöhnliche Fähigkeit 1 : Ansteckend
  **Description:** <span style="color: #645252;font-size:20px">Das &lt;Giftgas&gt; des Wandelnden Toten senkt den ANG des Ziels um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es über Zeit.</span><span style="color: black">
 
-### 3 Skill: Explosiv
+### Gewöhnliche Fähigkeit 2 : Explosiv
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Wandelnde Tote besiegt wird, fügt er gegnerischen Einheiten in hohem Radius 8 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Der Schaden gegen Einheiten mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
 
-### 4 Skill: Leichenbarrikade
+### Gewöhnliche Fähigkeit 3 : Leichenbarrikade
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Wandelnden Toten wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Feind, der den Wandelnden Toten angreift, den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Niedrige Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">, hat, wird der Effekt verdoppelt.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

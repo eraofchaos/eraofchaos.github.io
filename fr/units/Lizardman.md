@@ -3,7 +3,7 @@ title: "Homme-lézard"
 permalink: /fr/units/Lizardman/
 excerpt: "Unités Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Homme-lézard"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Fléchette empoisonnée
+### Capacité ultime: Fléchette empoisonnée
  **Description:** <span style="color: #645252;font-size:20px">L'Homme-lézard inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible, et lui inflige <span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
-### 2 Skill: Charpie
+### Compétence normale 1 : Charpie
  **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts de l'attaque normale de l'Homme-lézard de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les dégâts infligés aux cibles victimes de <span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
-### 3 Skill: Grande peste
+### Compétence normale 2 : Grande peste
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts infligés par l'Homme-lézard augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 4 Skill: Chasse au dragon
+### Compétence normale 3 : Chasse au dragon
  **Description:** <span style="color: #645252;font-size:20px">Quand il fait face à des unités de 1 ou de 4 combattants, les dégâts infligés par l'Homme-lézard augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Frappe pestilentielle
+### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

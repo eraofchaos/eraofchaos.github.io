@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /fr/units/Storm Elemental/
 excerpt: "Unités Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Marqueur statique
+### Capacité ultime: Marqueur statique
  **Description:** <span style="color: #645252;font-size:20px">Lorsque le combat commence, les Élémentaires de tempête infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies sur leur chemin pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Rebond électrique
+### Compétence normale 1 : Rebond électrique
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de l'Élémentaire de tempête a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance de projeter un éclair sur la cible, infligeant 300 % de dégâts.</span><span style="color: black">
 
-### 3 Skill: Force élémentaire
+### Compétence normale 2 : Force élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de tempête est sur le champ de bataille, il augmente la résistance aux dégâts des sorts d'air de ses alliés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et réduit la résistance aux dégâts des sorts d'air de ses ennemis de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. De plus, les points de mana initiaux du Héros allié augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Percée statique
+### Compétence normale 3 : Percée statique
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts de l'Élémentaire de tempête augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double si la cible est victime de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Affinité élémentaire
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflit élémentaire
+### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

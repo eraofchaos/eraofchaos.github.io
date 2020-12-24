@@ -3,7 +3,7 @@ title: "Spadaccino"
 permalink: /it/units/Swordsman/
 excerpt: "Unità I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Spadaccino"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: null
+### Tecnica suprema: null
  **Description:** 
 
-### 2 Skill: Motivazione
+### Tecnica normale 1 : Motivazione
  **Description:** <span style="color: #645252;font-size:20px">La Rid DAN degli Spadaccini aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Colpo doppio
+### Tecnica normale 2 : Colpo doppio
  **Description:** <span style="color: #645252;font-size:20px">Gli Spadaccini hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Salvezza
+### Tecnica normale 3 : Salvezza
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base degli Spadaccini ha una probabilità elevata di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

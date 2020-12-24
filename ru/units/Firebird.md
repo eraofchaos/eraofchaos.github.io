@@ -3,7 +3,7 @@ title: "Жар-птица"
 permalink: /ru/units/Firebird/
 excerpt: "Отряды Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Жар-птица"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
-### 1 Skill: Огненное дыхание
+### Совершенное умение: Огненное дыхание
  **Description:** <span style="color: #645252;font-size:20px">Жар-птицы истребляют вражеские отряды в широком радиусе перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона. Критический удар по </span><span style="color: black"><span style="color: #48b946;font-size:20px">горящим</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядам повышается на 500.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">В бою жар-птиц против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### 3 Skill: Воскрешение
+### Обычное умение 2 : Воскрешение
  **Description:** 
 
-### 4 Skill: Огненное усиление
+### Обычное умение 3 : Огненное усиление
  **Description:** <span style="color: #645252;font-size:20px">У жар-птиц иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ## Talent

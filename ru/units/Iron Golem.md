@@ -3,7 +3,7 @@ title: "Железный голем"
 permalink: /ru/units/Iron Golem/
 excerpt: "Отряды Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Железный голем"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
 ## Skills
-### 1 Skill: Резонанс металла
+### Совершенное умение: Резонанс металла
  **Description:** <span style="color: #645252;font-size:20px">Железные големы поднимают покров, повышая сопротивление урону союзных отрядов на 30% на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 2 Skill: Сила
+### Обычное умение 1 : Сила
  **Description:** <span style="color: #645252;font-size:20px">Железные големы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
 
-### 3 Skill: Железное тело
+### Обычное умение 2 : Железное тело
  **Description:** <span style="color: #645252;font-size:20px">У железных големов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда железные големы получают урон от заклинаний героя, они получают +100% к сопротивлению магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 4 Skill: Магическое пробуждение
+### Обычное умение 3 : Магическое пробуждение
  **Description:** <span style="color: #645252;font-size:20px">При усилении железных големов заклинанием поддержки союзного героя восстанавливаются </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ. В то же самое время отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект длится в течение всего боя. Суммируется до 3 раз. </span><span style="color: black">
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

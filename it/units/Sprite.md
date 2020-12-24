@@ -3,7 +3,7 @@ title: "Driade"
 permalink: /it/units/Sprite/
 excerpt: "Unità Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Driade"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
-### 1 Skill: Frammentazione energetica
+### Tecnica suprema: Frammentazione energetica
  **Description:** <span style="color: #645252;font-size:20px">Quando una Driade viene abbattuta, infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi del bersaglio (fino a un massimo del 1000% del suo ATT).</span><span style="color: black">
 
-### 2 Skill: Benedizione della Driade
+### Tecnica normale 1 : Benedizione della Driade
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, la Driade aumenta la resistenza magica di tutte le unità alleate davanti a sé (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato per la Driade stessa.</span><span style="color: black">
 
-### 3 Skill: Ispirazione
+### Tecnica normale 2 : Ispirazione
  **Description:** <span style="color: #645252;font-size:20px">Se la Driade è sul campo di battaglia, aumenta il mana base degli eroi alleati di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+0.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dedizione
+### Tecnica normale 3 : Dedizione
  **Description:** <span style="color: #645252;font-size:20px">Quando una Driade viene abbattuta, infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità bersaglio </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.15+1.85}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 5 Skill: Affinità elementale
+### Tecnica speciale fazione I : Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Conflitto elementale
+### Tecnica speciale fazione II : Conflitto elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

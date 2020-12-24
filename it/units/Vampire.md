@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /it/units/Vampire/
 excerpt: "Unità I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Vampiro"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Assorbimento
+### Tecnica suprema: Assorbimento
  **Description:** <span style="color: #645252;font-size:20px">Il Vampiro infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 1 unità nemica casuale in un'ampia area ogni 12 secondi, assorbendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF.</span><span style="color: black">
 
-### 2 Skill: Sanguinario
+### Tecnica normale 1 : Sanguinario
  **Description:** <span style="color: #645252;font-size:20px">Assorbimento del Vampiro aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Rigonfiamento
+### Tecnica normale 2 : Rigonfiamento
  **Description:** <span style="color: #645252;font-size:20px">Quando un Vampiro lancia &lt;Assorbimento&gt;, il suo assorbimento aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
-### 4 Skill: Brama di sangue
+### Tecnica normale 3 : Brama di sangue
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta un avversario la cui percentuale di PF è inferiore alla propria, il Vampiro gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Difesa funerea
+### Tecnica speciale fazione I : Difesa funerea
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Armonia magica
+### Tecnica speciale fazione II : Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent

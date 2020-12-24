@@ -3,7 +3,7 @@ title: "Scharfschütze"
 permalink: /de/units/Marksman/
 excerpt: "Einheiten Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Scharfschütze"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
 ## Skills
-### 1 Skill: Sprengpfeil
+### Ultimative Fähigkeit: Sprengpfeil
  **Description:** <span style="color: #645252;font-size:20px">Scharfschützen verursachen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an einem Ziel.</span><span style="color: black">
 
-### 2 Skill: Inspirierend
+### Gewöhnliche Fähigkeit 1 : Inspirierend
  **Description:** <span style="color: #645252;font-size:20px">Erhöht ANG von Scharfschützen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> hat.</span><span style="color: black">
 
-### 3 Skill: Doppelschlag
+### Gewöhnliche Fähigkeit 2 : Doppelschlag
  **Description:** <span style="color: #645252;font-size:20px">Scharfschützen schießen bei Standardangriffen mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Wahrscheinlichkeit 2 Pfeile ab. Der zweite Pfeil verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit eines &lt;Doppelschlags&gt; auf 100 %.</span><span style="color: black">
 
-### 4 Skill: Drachentöter
+### Gewöhnliche Fähigkeit 3 : Drachentöter
  **Description:** <span style="color: #645252;font-size:20px">Gegen 1- oder 4- Mann-Einheiten steigt Kritischer Treffer für Scharfschützen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /it/units/Regnan Archer/
 excerpt: "Unità Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Arciere di Regna"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
-### 1 Skill: Freccia letale
+### Tecnica suprema: Freccia letale
  **Description:** <span style="color: #645252;font-size:20px">Gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN, più DAN aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi quando infligge un colpo critico. Infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ogni 5 secondi alle unità nemiche nella stessa fila, e ne riduce la DIF del 10% per 15 secondi. Cumulabile fino a 3 volte.</span><span style="color: black">
 
-### 2 Skill: Addestramento tattico
+### Tecnica normale 1 : Addestramento tattico
  **Description:** <span style="color: #645252;font-size:20px">Aumenta Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> quando un'unità sul campo viene abbattuta. L'effetto è cumulabile fino a 4 volte. Gode di Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e infligge un colpo critico garantito quando i PF scendono sotto il 30%. L'effetto dura 7 secondi e può essere attivato una sola volta.</span><span style="color: black">
 
-### 3 Skill: Balestra gigante delle maree
+### Tecnica normale 2 : Balestra gigante delle maree
  **Description:** <span style="color: #645252;font-size:20px">Danno dell'Arciere di Regna aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). All'inizio della battaglia, infligge DAN pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT, più DAN aggiuntivi pari a 25% dei PF massimi a 2 unità casuali, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentandole&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 8 secondi.</span><span style="color: black">
 
-### 4 Skill: Supporto a distanza
+### Tecnica normale 3 : Supporto a distanza
  **Description:** <span style="color: #645252;font-size:20px">Attacca l'unità nemica con la percentuale più bassa di PF, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN e riducendone la DIF del 30%.</span><span style="color: black">
 
-### 5 Skill: Pace interiore
+### Tecnica speciale fazione I : Pace interiore
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### 6 Skill: Conflitto piratesco
+### Tecnica speciale fazione II : Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

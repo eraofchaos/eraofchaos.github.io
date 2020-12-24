@@ -3,7 +3,7 @@ title: "Monje"
 permalink: /es/units/Monk/
 excerpt: "Unidades Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Monje"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Plegaria
+### Habilidad definitiva: Plegaria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Monjes restablecen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV a la unidad amistosa con el porcentaje de PV más bajo cada 17 s.</span><span style="color: black">
 
-### 2 Skill: Bendiciones del valiente
+### Habilidad normal 1 : Bendiciones del valiente
  **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, las unidades de Monjes proporcionan </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades amistosas a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 3 Skill: Meditación
+### Habilidad normal 2 : Meditación
  **Description:** <span style="color: #645252;font-size:20px">Si hay unidades de Monjes en el campo de batalla, la velocidad de recuperación de hechizos del Héroe aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Recuperación
+### Habilidad normal 3 : Recuperación
  **Description:** <span style="color: #645252;font-size:20px">Los PV del Monje aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la curación un 50%.</span><span style="color: black">
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ## Talent

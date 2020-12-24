@@ -3,7 +3,7 @@ title: "Feuerelementar"
 permalink: /de/units/Fire Elemental/
 excerpt: "Einheiten Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Feuerelementar"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
-### 1 Skill: Himmelsfeuer
+### Ultimative Fähigkeit: Himmelsfeuer
  **Description:** <span style="color: #645252;font-size:20px">Der Feuerelementar fügt einem gegnerischen Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: null
+### Gewöhnliche Fähigkeit 1 : null
  **Description:** 
 
-### 3 Skill: Kraft der Elemente
+### Gewöhnliche Fähigkeit 2 : Kraft der Elemente
  **Description:** <span style="color: #645252;font-size:20px">Solange der Feuerelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 4 Skill: Feuerenergie-Übertragung
+### Gewöhnliche Fähigkeit 3 : Feuerenergie-Übertragung
  **Description:** <span style="color: #645252;font-size:20px">Der Feuerelementar stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP wieder her, wenn es eine gegnerische Einheit tötet. Außerdem wird dann sein ANG um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Ist die gesamte Schlacht über aktiv, bis 3 Stapel.</span><span style="color: black">
 
-### 5 Skill: Elementare Affinität
+### Fraktions-Spezialfähigkeit I : Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Offensive Elemente
+### Fraktions-Spezialfähigkeit II : Offensive Elemente
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

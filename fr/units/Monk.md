@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /fr/units/Monk/
 excerpt: "Unités Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Moine"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Faveur divine
+### Capacité ultime: Faveur divine
  **Description:** <span style="color: #645252;font-size:20px">Les Moines rendent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV à l'unité alliée qui a le pourcentage le moins élevé de PV toutes les 17 secondes.</span><span style="color: black">
 
-### 2 Skill: Bénédiction des courageux
+### Compétence normale 1 : Bénédiction des courageux
  **Description:** <span style="color: #645252;font-size:20px">Lorsque le combat commence, les Moines octroient </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités alliées sur leur chemin pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 3 Skill: Méditation
+### Compétence normale 2 : Méditation
  **Description:** <span style="color: #645252;font-size:20px">Quand les Moines sont sur le champ de bataille, la vitesse de récupération du sort du Héros augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Récupération
+### Compétence normale 3 : Récupération
  **Description:** <span style="color: #645252;font-size:20px">Les PV des Moines augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et les soins de 50 %.</span><span style="color: black">
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

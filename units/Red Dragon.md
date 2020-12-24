@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Red Dragon"
 toc: true
@@ -56,22 +56,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
-### 1 Skill: Roaring Blaze
+### Ultimate Skill: Roaring Blaze
  **Description:** <span style="color: #645252;font-size:20px">Red Dragon roars every 15s, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK to all enemy Ranged/Caster units, while dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to all enemy Melee units while adding a Hatred mark, which stacks up to 4 times. Damage dealt by &lt;Roaring Blaze&gt; increases by 20% for every Hatred mark an enemy unit has. Increases Red Dragon's Unit DMG by 50% when fighting against Tower units.</span><span style="color: black">
 
-### 2 Skill: Blazebreath
+### Regular Skill 1 : Blazebreath
  **Description:** <span style="color: #645252;font-size:20px">Red Dragon unit's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> extra damage to 2 units around the target within a certain range, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 8s. For Tower Faction units, red Dragon's damage will increase 50%</span><span style="color: black">
 
-### 3 Skill: Mighty Spell Breaker
+### Regular Skill 2 : Mighty Spell Breaker
  **Description:** <span style="color: #645252;font-size:20px">When an enemy hero casts a spell, Red Dragon unleashes its might, increasing Unit DMG of friendly non-Defensive Dungeon units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, as well as increasing Shield of friendly defensive Dungeon units by a value equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of HP and Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 8s and stacks up to 2 times.</span><span style="color: black">
 
-### 4 Skill: Dragon's Majesty
+### Regular Skill 3 : Dragon's Majesty
  **Description:** <span style="color: #645252;font-size:20px">Red Dragon is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Burn</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Bleed</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Plague</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Red Dragon is on the battlefield, decreases enemies' Magic Resistance to fire-type spells by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect is doubled against Tower units. When casting &lt;Roaring Blaze&gt;, Red Dragon has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to trigger &lt;Dragon Resonance&gt; in which Dragon units will cast one more specified non-awakening skill (Green Dragon/Gold Dragon - &lt;Reinforcement from the Skies&gt;; Bone Dragon/Ghost Dragon - &lt;Fear&gt;; Hydra - &lt;Chaos Mist&gt;; Black Dragon/Black Dragon King - &lt;Dragon Breath&gt;; Wyvern/Wyvern Monarch - &lt;Wild Swag&gt;; Dragon Turtle - &lt;Tidal Rampart&gt;).</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Dark Conflict
+### Faction Special Skill II : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Pikenier"
 permalink: /de/units/Pikeman/
 excerpt: "Einheiten Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie."
 unitID: 101
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Pikenier"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
 ## Skills
-### 1 Skill: Speerformation
+### Ultimative Fähigkeit: Speerformation
  **Description:** <span style="color: #645252;font-size:20px">Pikeniere verursachen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäuben“</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihr Ziel 3 Sek. lang.</span><span style="color: black">
 
-### 2 Skill: Eisenrüstung
+### Gewöhnliche Fähigkeit 1 : Eisenrüstung
  **Description:** <span style="color: #645252;font-size:20px">Erhöht ABW von Pikenieren um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Drachentöter
+### Gewöhnliche Fähigkeit 2 : Drachentöter
  **Description:** <span style="color: #645252;font-size:20px">Gegen 1- oder 4- Mann-Einheiten steigt Kritischer Treffer für Pikeniere um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Inspirierend
+### Gewöhnliche Fähigkeit 3 : Inspirierend
  **Description:** <span style="color: #645252;font-size:20px">Erhöht ANG von Pikenieren um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+18} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, falls die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> hat.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /fr/units/Red Dragon/
 excerpt: "Unités C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Dragon rouge"
 toc: true
@@ -56,22 +56,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
-### 1 Skill: Brasier rugissant
+### Capacité ultime: Brasier rugissant
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon rouge rugit toutes les 15 secondes, infligeant des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à toutes les unités ennemies à distance et de Lanceurs de sorts, tout en infligeant des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ et des dégâts supplémentaires équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à toutes les unités de mêlée ennemies. Une marque de haine sera également infligée aux cibles. Cet effet peut se cumuler jusqu'à 4 fois. Les dégâts infligés par &lt;Brasier rugissant&gt; augmenteront de 20 % par marque de haine sur l'unité ennemie. Les dégâts du Dragon rouge augmentent de 50 % lorsqu'il combat des unités de la Tour.</span><span style="color: black">
 
-### 2 Skill: Souffle incandescent
+### Compétence normale 1 : Souffle incandescent
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts du Dragon rouge augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ses attaques normales infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts supplémentaires à 2 unités dans un certain rayon autour de la cible, et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûlent&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 8 secondes. Les dégâts du Dragon rouge augmentent de 50 % contre les unités de la Tour.</span><span style="color: black">
 
-### 3 Skill: Puissant briseur de sort
+### Compétence normale 2 : Puissant briseur de sort
  **Description:** <span style="color: #645252;font-size:20px">Quand un Héros ennemi jette un sort, le Dragon rouge libère toute sa puissance et augmente les dégâts des unités non défensives du Donjon alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ainsi que leur vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il augmente également le bouclier des unités défensives du Donjon alliées d'une valeur équivalente à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV et leur résistance aux dégâts d'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet dure 8 secondes, et peut se cumuler 2 fois.</span><span style="color: black">
 
-### 4 Skill: Majesté du Dragon
+### Compétence normale 3 : Majesté du Dragon
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon rouge est immunisé aux effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Brûlure</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Saignement</span><span style="color: black"><span style="color: #645252;font-size:20px"> et </span><span style="color: black"><span style="color: #48b946;font-size:20px">Peste</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand le Dragon rouge se trouve sur le champ de bataille, il diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> la résistance magique des ennemis aux sorts de feu. L'effet est doublé contre les unités de la Tour. Lorsqu'il lance &lt;Brasier rugissant&gt;, le Dragon rouge a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance de déclencher &lt;Résonance draconique&gt;. Les unités de Dragon lanceront alors une compétence spécifique supplémentaire (hors éveil) (Dragon vert/Dragon d'or - &lt;Renfort céleste&gt; ; Dragon squelette/Dragon fantôme - &lt;Effroi&gt; ; Hydre - &lt;Brume du chaos&gt; ; Dragon noir/Roi Dragon noir - &lt;Souffle du Dragon&gt; ; Wivern/Monarque Wivern - &lt;Miasme sauvage&gt; ; Tortue dragon - &lt;Rempart des marées&gt;).</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

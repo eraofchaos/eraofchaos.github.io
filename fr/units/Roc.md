@@ -3,7 +3,7 @@ title: "Rock"
 permalink: /fr/units/Roc/
 excerpt: "Unités Les Rocks apparaissent souvent lors des nuits d'orage. Ils volent aux côtés du tonnerre et des éclairs. Beaucoup les considèrent comme des messagers des dieux."
 unitID: 405
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Rock"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
 ## Skills
-### 1 Skill: Tonnerre
+### Capacité ultime: Tonnerre
  **Description:** <span style="color: #645252;font-size:20px">Le Rock inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies dans une large zone devant lui et diminue leur précision de 200 pendant 10 secondes.</span><span style="color: black">
 
-### 2 Skill: Frappe de boule électrique
+### Compétence normale 1 : Frappe de boule électrique
  **Description:** <span style="color: #645252;font-size:20px">Quand un Rock fait face à une unité de 9 combattants, son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts de zone à 3 unités ennemies.</span><span style="color: black">
 
-### 3 Skill: Carnage
+### Compétence normale 2 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques du Rock augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
-### 4 Skill: Ouragan protecteur
+### Compétence normale 3 : Ouragan protecteur
  **Description:** <span style="color: #645252;font-size:20px">Quand le Rock est sur le champ de bataille, la précision de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Zélote combattant
+### Compétence spéciale de faction I : Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Units Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Genie"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
 ## Skills
-### 1 Skill: Spell Gift
+### Ultimate Skill: Spell Gift
  **Description:** <span style="color: #645252;font-size:20px">When the Genie's attack switches to healing, it restores the HP of the friendly unit with the lowest HP percentage by 80% of the Genie's ATK. Genie's healing is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Three Wishes
+### Regular Skill 1 : Three Wishes
  **Description:** <span style="color: #645252;font-size:20px">When a Genie unit is on the battlefield, they will bless 3 random friendly units, granting them 1 of the following effects: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage reduction, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage, or </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK speed.</span><span style="color: black">
 
-### 3 Skill: Magic Wick
+### Regular Skill 2 : Magic Wick
  **Description:** <span style="color: #645252;font-size:20px">Genie's HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, its magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and its unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Magic Awakening
+### Regular Skill 3 : Magic Awakening
  **Description:** <span style="color: #645252;font-size:20px">When a Genie unit is enhanced by a friendly hero's support spell, it restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for the unit with the lowest HP percentage.</span><span style="color: black">
 
-### 5 Skill: Sober Mind
+### Faction Special Skill I : Sober Mind
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Energy Dynamite
+### Faction Special Skill II : Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

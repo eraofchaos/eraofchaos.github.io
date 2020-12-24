@@ -3,7 +3,7 @@ title: "Eisengolem"
 permalink: /de/units/Iron Golem/
 excerpt: "Einheiten Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Eisengolem"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
 ## Skills
-### 1 Skill: Metallresonanz
+### Ultimative Fähigkeit: Metallresonanz
  **Description:** <span style="color: #645252;font-size:20px">Der Eisengolem öffnet ein Schutzfeld, das die Schadensreduzierung verbündeter Einheiten in sich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 30 % erhöht.</span><span style="color: black">
 
-### 2 Skill: Stark
+### Gewöhnliche Fähigkeit 1 : Stark
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Eisengolems werden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht, seine Schadensreduzierung steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Eisenkörper
+### Gewöhnliche Fähigkeit 2 : Eisenkörper
  **Description:** <span style="color: #645252;font-size:20px">Der Eisengolem ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein Eisengolem Zauberschaden durch einen Helden erleidet, steigt seine Magieresistenz </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 100 %.</span><span style="color: black">
 
-### 4 Skill: Magisches Erwachen
+### Gewöhnliche Fähigkeit 3 : Magisches Erwachen
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Eisengolem durch den Hilfszauber eines verbündeten Helden verstärkt wird, werden </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP wiederhergestellt. Außerdem steigt seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv, bis zu 3 Stapel.</span><span style="color: black">
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

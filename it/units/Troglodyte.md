@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /it/units/Troglodyte/
 excerpt: "Unità Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Troglodita"
 toc: true
@@ -62,22 +62,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
-### 1 Skill: Muro di lance
+### Tecnica suprema: Muro di lance
  **Description:** <span style="color: #645252;font-size:20px">I Trogloditi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni all'unità bersaglio e la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
 
-### 2 Skill: Acutezza
+### Tecnica normale 1 : Acutezza
  **Description:** <span style="color: #645252;font-size:20px">I Trogloditi godono di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Olfatto dello Spezzaincantesimi
+### Tecnica normale 2 : Olfatto dello Spezzaincantesimi
  **Description:** <span style="color: #645252;font-size:20px">I Trogloditi godono di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
 
-### 4 Skill: Lancia avvelenata
+### Tecnica normale 3 : Lancia avvelenata
  **Description:** <span style="color: #645252;font-size:20px">DAN dell'attacco base dei Trogloditi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

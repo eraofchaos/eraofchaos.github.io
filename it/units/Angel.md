@@ -3,7 +3,7 @@ title: "Angelo"
 permalink: /it/units/Angel/
 excerpt: "Unità Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Angelo"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Condanna
+### Tecnica suprema: Condanna
  **Description:** <span style="color: #645252;font-size:20px">L'Angelo infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
 
-### 2 Skill: Resurrezione
+### Tecnica normale 1 : Resurrezione
  **Description:** <span style="color: #645252;font-size:20px">L'Angelo rianima 1 delle tue unità, curando </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF.</span><span style="color: black">
 
-### 3 Skill: Splendore
+### Tecnica normale 2 : Splendore
  **Description:** <span style="color: #645252;font-size:20px">Se l'Angelo è sul campo di battaglia, tutte le unità alleate ottengono rigenerazione extra dei PF ogni 2 secondi, pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi.</span><span style="color: black">
 
-### 4 Skill: Cecchino implacabile
+### Tecnica normale 3 : Cecchino implacabile
  **Description:** <span style="color: #645252;font-size:20px">L'Angelo gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN aumentato del 10%. Quando affronta la fazione Inferno, i danni dell'Angelo aumentano del 50%.</span><span style="color: black">
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

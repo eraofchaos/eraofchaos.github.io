@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /it/units/Waspwort/
 excerpt: "Unità Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Erbavespa"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
 ## Skills
-### 1 Skill: Pungiglione pestilenziale
+### Tecnica suprema: Pungiglione pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">L'Erbavespa emette una scarica di pungiglioni velenosi ogni 12 secondi, che infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN al bersaglio e causano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. I colpi critici inflitti con attacchi base aumentano la Vel ATT dell'Erbavespa del 5% per 10 secondi. Cumulabile fino a 20 volte.</span><span style="color: black">
 
-### 2 Skill: Vespa pestilenziale
+### Tecnica normale 1 : Vespa pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Erbavespa ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di evocare 1 Vespa pestilenziale. Ogni evocazione fornisce un bonus del 2% al DAN di tutte le unità Fortezza alleate. Cumulabile fino a 8 volte. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quando attacca, l'Erbavespa ha una probabilità del 20% di evocare un'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ape pestilenziale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e una probabilità del 30% di rimuovere i buff del bersaglio. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black">[]L'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ape pestilenziale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Paralisi&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> o </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al bersaglio. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Le Vespe durano 40 secondi. Quando una Vespa muore, infligge danni pari al 4% dei PF massimi alle unità nemiche nell'area.</span><span style="color: black">
 
-### 3 Skill: Pestilenza aggravata
+### Tecnica normale 2 : Pestilenza aggravata
  **Description:** <span style="color: #645252;font-size:20px">CRIT dell'Erbavespa aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più 75 per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 4 Skill: Incubatrice dello sciame
+### Tecnica normale 3 : Incubatrice dello sciame
  **Description:** <span style="color: #645252;font-size:20px">L'Erbavespa è circondata da vespe che aumentano i suoi danni (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gli sciami di vespe infliggono danni pari al 0,2% dei PF massimi alle unità nemiche nell'area ogni 0,1 secondi e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paralizzano&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Infliggendo danni, c'è una probabilità del 5% di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i nemici per 1 secondo. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Gli sciami di vespe aumentano la riduzione del danno delle unità Fortezza amiche (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il loro assorbimento (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) </span><span style="color: black">
 
-### 5 Skill: Attacco pestilenziale
+### Tecnica speciale fazione I : Attacco pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

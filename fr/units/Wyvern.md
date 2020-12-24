@@ -3,7 +3,7 @@ title: "Wivern"
 permalink: /fr/units/Wyvern/
 excerpt: "Unités Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Wivern"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
 ## Skills
-### 1 Skill: Crachat de venin
+### Capacité ultime: Crachat de venin
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 21 secondes, la Wivern crache son venin sur sa cible, causant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*3+37))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies situées dans un certain rayon, et leur infligeant <span style="color: #48b946;font-size:20px">Peste</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. (Les dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Peste</span><span style="color: black"><span style="color: #645252;font-size:20px"> infligés par la Vouivre augmentent.)</span><span style="color: black">
 
-### 2 Skill: null
+### Compétence normale 1 : null
  **Description:** 
 
-### 3 Skill: Symbiose de la peste
+### Compétence normale 2 : Symbiose de la peste
  **Description:** <span style="color: #645252;font-size:20px">Les dégâts infligés par la Wivern augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 4 Skill: Miasme sauvage
+### Compétence normale 3 : Miasme sauvage
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Wivern augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La Wivern inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à tous les ennemis proches et diminue leurs soins de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+19} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> toutes les 20 secondes pendant 10 secondes.</span><span style="color: black">
 
-### 5 Skill: Frappe pestilentielle
+### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

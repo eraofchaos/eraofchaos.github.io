@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /es/units/Mummy/
 excerpt: "Unidades Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Momia"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
 ## Skills
-### 1 Skill: Maldición de putrefacción
+### Habilidad definitiva: Maldición de putrefacción
  **Description:** <span style="color: #645252;font-size:20px">La Momia inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que estén a cierta distancia a su alrededor cada 20 s y provoca una </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 12 s.</span><span style="color: black">
 
-### 2 Skill: Velo
+### Habilidad normal 1 : Velo
  **Description:** <span style="color: #645252;font-size:20px">Cuando se lanza &lt;Maldición de Putrefacción&gt;, recupera PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de tus PV máximos y aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
-### 3 Skill: Fuente de enfermedades
+### Habilidad normal 2 : Fuente de enfermedades
  **Description:** <span style="color: #645252;font-size:20px">La Momia es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de la Momia un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una Momia en el campo de batalla, los efectos curativos que reciben las unidades enemigas se reducen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dios de la plaga
+### Habilidad normal 3 : Dios de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la DEF de la Momia un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si el enemigo al que está atacando la Momia tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, el efecto se duplica.</span><span style="color: black">
 
-### 5 Skill: Defensa lúgubre
+### Habilidad especial de la facción I : Defensa lúgubre
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonía de hechizo
+### Habilidad especial de la facción II : Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
 ## Talent

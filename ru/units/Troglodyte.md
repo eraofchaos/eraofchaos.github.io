@@ -3,7 +3,7 @@ title: "Троглодит"
 permalink: /ru/units/Troglodyte/
 excerpt: "Отряды Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась."
 unitID: 701
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Троглодит"
 toc: true
@@ -62,22 +62,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">Троглодиты наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
-### 2 Skill: Острота
+### Обычное умение 1 : Острота
  **Description:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
 
-### 4 Skill: Отравленное копье
+### Обычное умение 3 : Отравленное копье
  **Description:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Темный конфликт
+### Эксклюзивное умение фракции II : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent

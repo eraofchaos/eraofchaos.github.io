@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /it/units/Pit Fiend/
 excerpt: "Unità I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Demone dell'abisso"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
-### 1 Skill: Fontana di fuoco
+### Tecnica suprema: Fontana di fuoco
  **Description:** <span style="color: #645252;font-size:20px">Il Demone dell'abisso evoca 1 &lt;Sorgente di fuoco&gt;, che ripristina </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi delle unità alleate in un'ampia area di fronte a sé ogni 2 secondi, per 8 secondi.</span><span style="color: black">
 
-### 2 Skill: Evocazione del Signore
+### Tecnica normale 1 : Evocazione del Signore
  **Description:** <span style="color: #645252;font-size:20px">Quando un Demone dell'abisso entra in battaglia, evoca 4 Demoni al proprio fianco. I Demoni evocati hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF, 700 DIF e 500 CRIT e durano fino al termine della battaglia.</span><span style="color: black">
 
-### 3 Skill: Calore
+### Tecnica normale 2 : Calore
  **Description:** <span style="color: #645252;font-size:20px">L'efficacia curativa della &lt;Sorgente di fuoco&gt; del Demone dell'abisso aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto curativo di &lt;Sorgente di fuoco&gt; aumenta ulteriormente del 5% per ogni unità Inferno schierata.</span><span style="color: black">
 
-### 4 Skill: Volontà del Signore
+### Tecnica normale 3 : Volontà del Signore
  **Description:** <span style="color: #645252;font-size:20px">Quando il Demone dell'abisso entra in battaglia, PF e ATT delle unità Folletto, Demone ed Elementale del fuoco alleate aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Attacco ustionante
+### Tecnica speciale fazione I : Attacco ustionante
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero anti-incantesimo
+### Tecnica speciale fazione II : Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Gobelin"
 permalink: /fr/units/Goblin/
 excerpt: "Unités Les Gobelins portent des armures légères et emploient des armes lourdes. Ces guerriers violents et impitoyables anéantissent rapidement les défenses de leurs ennemis."
 unitID: 401
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Gobelin"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
 ## Skills
-### 1 Skill: Tempête guerrière
+### Capacité ultime: Tempête guerrière
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Gobelin a une chance d'infliger une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+52} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à 3 membres d'une unité ennemie.</span><span style="color: black">
 
-### 2 Skill: Carnage
+### Compétence normale 1 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques du Gobelin augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
-### 3 Skill: Exécution
+### Compétence normale 2 : Exécution
  **Description:** <span style="color: #645252;font-size:20px">Quand un Gobelin combat une unité qui a moins de 30 % de PV, son ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Furie sanguinaire
+### Compétence normale 3 : Furie sanguinaire
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Gobelin augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il récupère 2 % de ses PV chaque fois qu'il réussit un coup critique.</span><span style="color: black">
 
-### 5 Skill: Zélote combattant
+### Compétence spéciale de faction I : Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

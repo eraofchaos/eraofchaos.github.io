@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Marksman"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
 ## Skills
-### 1 Skill: Exploding arrow
+### Ultimate Skill: Exploding arrow
  **Description:** <span style="color: #645252;font-size:20px">Marksman units deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target.</span><span style="color: black">
 
-### 2 Skill: Inspiring
+### Regular Skill 1 : Inspiring
  **Description:** <span style="color: #645252;font-size:20px">Increases Marksman's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if in </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Double Strike
+### Regular Skill 2 : Double Strike
  **Description:** <span style="color: #645252;font-size:20px">Marksman has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage on the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Slow\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
 
-### 4 Skill: Dragon Slayer
+### Regular Skill 3 : Dragon Slayer
  **Description:** <span style="color: #645252;font-size:20px">When facing a 1-man or 4-man units, marksmen's critical hit is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Siege Combat
+### Faction Special Skill I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Defense Resonance
+### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

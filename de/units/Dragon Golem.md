@@ -3,7 +3,7 @@ title: "Drachengolem"
 permalink: /de/units/Dragon Golem/
 excerpt: "Einheiten Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Drachengolem"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
 ## Skills
-### 1 Skill: Puls-Vertigo
+### Ultimative Fähigkeit: Puls-Vertigo
  **Description:** <span style="color: #645252;font-size:20px">Der Drachengolem wirkt alle 15 Sek einen Puls-Vertigo, der allen gegnerischen Nahkampfeinheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt und sie 2 Sek. lang <span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"> sowie 5 Sek. lang <span style="color: #48b946;font-size:20px">„lähmt“</span><span style="color: black">.</span><span style="color: black">
 
-### 2 Skill: Eisernes Bauwerk
+### Gewöhnliche Fähigkeit 1 : Eisernes Bauwerk
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Drachengolems steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+150)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Dungeon-Einheiten wird um 100 % erhöht. Zu Beginn der Schlacht erzeugt der Drachengolem ein <span style="color: #F0F000;font-size:20px">&lt;Eisernes Bauwerk&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Magisches Erwachen
+### Gewöhnliche Fähigkeit 2 : Magisches Erwachen
  **Description:** <span style="color: #645252;font-size:20px">Wenn er vom Hilfszauber eines verbündeten Helden erweckt wird, wird ein &lt;Magiesturm&gt; ausgelöst, der alle gegnerischen Einheiten innerhalb der Reichweite 2 Sek. lang &lt;verstummen&gt; lässt und sie 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;lähmt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Außerdem steigt die ABW des Drachengolems um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+14.9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+9.9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht über an, bis zu 3 Stapel. Der Drachengolem erweckt sich alle 25 Sek. selbst.</span><span style="color: black">
 
-### 4 Skill: Magische Reparatur
+### Gewöhnliche Fähigkeit 3 : Magische Reparatur
  **Description:** <span style="color: #645252;font-size:20px">Bei 40 % und 20 % seiner LP erzeugt der Drachengolem eine Schlachtfeldreparatur, die </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2.8)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang anhält. Während der Reparatur wird Schaden, den der Drachengolem erleidet, in LP-Regeneration umgewandelt. Wenn der Drachengolem getötet wird, fügt die entweichende Energie gegnerische Einheiten in einem hohen Radius 30 % der max. LP als Schaden zu; außerdem verursacht sie bei den Zielen 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Zeitstopp&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 7 Skill: Rad der Zeit
+### Gewöhnliche Fähigkeit 6 : Rad der Zeit
  **Description:** <span style="color: #645252;font-size:20px">Wenn 3 Turm-Einheiten eingesetzt werden, wird die Schadensreduzierung des Drachengolems erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Drachengolem &lt;Magisches Erwachen&gt; auslöst, kann er eine </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Domäne der Zeit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> wirken, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne bleibt 15 Sek. lang bestehen, AKZ 30 Sek.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /de/units/Regnan Pirates/
 excerpt: "Einheiten Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Regnanpirat"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
-### 1 Skill: Gezeitenbeute
+### Ultimative Fähigkeit: Gezeitenbeute
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Regnanpiraten kann zweimal Schaden verursachen. Zu Beginn der Schlacht landen Regnanpiraten einen garantierten Treffer. Außerdem steigt ihr Schaden </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 30 %.</span><span style="color: black">
 
-### 2 Skill: Taktische Fähigkeiten
+### Gewöhnliche Fähigkeit 1 : Taktische Fähigkeiten
  **Description:** <span style="color: #645252;font-size:20px">Der ANG der Regnanpiraten steigt um 20 %. Außerdem steigt ihre Schadensreduzierung jedes Mal, wenn sie angegriffen wird, um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt ist stapelbar bis </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Nackte Klinge
+### Gewöhnliche Fähigkeit 2 : Nackte Klinge
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Regnanpiraten wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jeden gelandeten kritischen Treffer wird die ABW des Ziels 6 Sek. lang um 2 % reduziert. Der Effekt ist stapelbar bis 20 %.</span><span style="color: black">
 
-### 4 Skill: Vorsicht und Gier
+### Gewöhnliche Fähigkeit 3 : Vorsicht und Gier
  **Description:** <span style="color: #645252;font-size:20px">Je niedriger die LP ihres Ziels, desto mehr Schaden verursachen die Regnanpiraten. Der ANG kann maximal um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht werden.</span><span style="color: black">
 
-### 5 Skill: Ruhiger Körper
+### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### 6 Skill: Piratenoffensive
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ## Talent

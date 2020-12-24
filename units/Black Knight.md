@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Black Knight"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Critical Strike
+### Ultimate Skill: Critical Strike
  **Description:** <span style="color: #645252;font-size:20px">Black Knight deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and causes them </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Low Morale\" </span><span style="color: black"><span style="color: #645252;font-size:20px">for 10s.</span><span style="color: black">
 
-### 2 Skill: Death Charge
+### Regular Skill 1 : Death Charge
  **Description:** <span style="color: #645252;font-size:20px">If the target is downed, the Black Knight's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit value is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. It works throughout the battle, up to 5 stacks.</span><span style="color: black">
 
-### 3 Skill: Knight Abilities
+### Regular Skill 2 : Knight Abilities
  **Description:** <span style="color: #645252;font-size:20px">Unit HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and unit damage reduction is increased by </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Terrifying Suppression
+### Regular Skill 3 : Terrifying Suppression
  **Description:** <span style="color: #645252;font-size:20px">Black Knight's Critical Hit is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical DMG is increased by 50%.</span><span style="color: black">
 
-### 5 Skill: Dismal Defense
+### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
-### 6 Skill: Spell Harmony
+### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent

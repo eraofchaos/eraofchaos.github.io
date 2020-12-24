@@ -3,7 +3,7 @@ title: "Dendroidenwache"
 permalink: /de/units/Dendroid Guard/
 excerpt: "Einheiten Dendroidenwachen sind die Verkörperung ihrer bewaldeten Heimat. Sie sind nicht sonderlich geschickt, aber extrem hart im Nehmen. Mit den Ranken des Waldes erwürgen sie arglose Gegner."
 unitID: 205
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Dendroidenwache"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
-### 1 Skill: Fessel
+### Ultimative Fähigkeit: Fessel
  **Description:** <span style="color: #645252;font-size:20px">Die Dendroidenwache fügt Gegnern in hohem Radius den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verlangsamung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu und reduziert ihr Angriffstempo 10 Sek lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Schmetterrolle
+### Gewöhnliche Fähigkeit 1 : Schmetterrolle
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Dendroidenwache erzeugt mit einer gewissen Wahrscheinlichkeit einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Schild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> für sich selbst, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
 
-### 3 Skill: Steinwaldrüstung
+### Gewöhnliche Fähigkeit 2 : Steinwaldrüstung
  **Description:** <span style="color: #645252;font-size:20px">Die Dendroidenwache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre LP steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Holzpflock
+### Gewöhnliche Fähigkeit 3 : Holzpflock
  **Description:** <span style="color: #645252;font-size:20px">Wenn eine Dendroidenwache angegriffen wird, reflektiert sie Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ihres Angriffs, und der Angreifer erleidet 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Ruhige Robustheit
+### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Hasszeichen
+### Fraktions-Spezialfähigkeit II : Hasszeichen
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ## Talent

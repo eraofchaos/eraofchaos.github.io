@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /es/units/Gremlin/
 excerpt: "Unidades Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Gremlin"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.2 | 0.68 | 6.25 | 93.52 |
 
 ## Skills
-### 1 Skill: Bola de hierro mágica
+### Habilidad definitiva: Bola de hierro mágica
  **Description:** <span style="color: #645252;font-size:20px">La velocidad de ataque del Gremlin aumenta un 100% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 2 Skill: Matanza de dragones
+### Habilidad normal 1 : Matanza de dragones
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades de uno o cuatro, los ataques normales del Gremlin tienen una probabilidad de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 3 Skill: Voluntad mágica
+### Habilidad normal 2 : Voluntad mágica
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Gremlin un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Despertar mágico
+### Habilidad normal 3 : Despertar mágico
  **Description:** <span style="color: #645252;font-size:20px">Cuando las unidades de Gremlins están amplificadas por un hechizo de apoyo de un Héroe amistoso, su ATQ aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 10 veces.</span><span style="color: black">
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /fr/units/Medusa/
 excerpt: "Unités De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Méduse"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Regard pétrifiant
+### Capacité ultime: Regard pétrifiant
  **Description:** <span style="color: #645252;font-size:20px">La Méduse <span style="color: #48b946;font-size:20px">&lt;pétrifie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> une unité ennemie aléatoire pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Flèche de serpent venimeux
+### Compétence normale 1 : Flèche de serpent venimeux
  **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts de l'attaque normale de la Méduse de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les dégâts infligés aux cibles victimes de <span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
-### 3 Skill: Peau du briseur de sort
+### Compétence normale 2 : Peau du briseur de sort
  **Description:** <span style="color: #645252;font-size:20px">La résistance magique de la Méduse augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Chaque fois qu'un Héros ennemi lance un sort, les dégâts de la Méduse augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
-### 4 Skill: Coup réflexe
+### Compétence normale 3 : Coup réflexe
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques de la Méduse augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente les dégâts de l'unité de 2 % pendant toute la durée de la bataille quand un coup critique touche sa cible. L'effet peut se cumuler jusqu'à 10 fois.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

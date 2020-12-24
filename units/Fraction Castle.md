@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Castle -  Units"
 permalink: /units/Fraction Castle/
 excerpt: "Fraction Castle - List of Units in Era of Chaos"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Fraction Castle"
 toc: false

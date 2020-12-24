@@ -3,7 +3,7 @@ title: "Гарпия"
 permalink: /ru/units/Harpy/
 excerpt: "Отряды Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Гарпия"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x9
 
  **Rank:** SR
-
- **Unit description:** null
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
@@ -61,22 +59,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
-### 1 Skill: Острый коготь гарпии
+### Совершенное умение: Острый коготь гарпии
  **Description:** <span style="color: #645252;font-size:20px">Когда гарпии подвергаются атаке, они получают шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урон 3 отрядам. Шанс активации имеется и при обычной атаке.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">В бою против нелетающего отряда гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
-### 3 Skill: Крик разрушителя магии
+### Обычное умение 2 : Крик разрушителя магии
  **Description:** 
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Гарпии гарантированно выполняют критические удары по <span style="color: #48b946;font-size:20px">оглушенным</span><span style="color: black"><span style="color: #645252;font-size:20px"> целям.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Темный конфликт
+### Эксклюзивное умение фракции II : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent
@@ -96,7 +91,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

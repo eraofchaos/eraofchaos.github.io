@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /es/units/Orc/
 excerpt: "Unidades Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Orco"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Ejecución experta
+### Habilidad definitiva: Ejecución experta
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el ATQ del Orco aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Cortante
+### Habilidad normal 1 : Cortante
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ataque adicional del Orco en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*60+240}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a su objetivo durante 6 s.</span><span style="color: black">
 
-### 3 Skill: Destrozo
+### Habilidad normal 2 : Destrozo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Orco en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando sus PV están por debajo del 35%, el efecto se duplica. (Sigue teniendo efecto aunque se recuperen PV).</span><span style="color: black">
 
-### 4 Skill: Ansia de sangre
+### Habilidad normal 3 : Ansia de sangre
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Orco un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Recupera 2% de los PV por cada golpe crítico.</span><span style="color: black">
 
-### 5 Skill: Lucha fanática
+### Habilidad especial de la facción I : Lucha fanática
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
 
 ## Talent

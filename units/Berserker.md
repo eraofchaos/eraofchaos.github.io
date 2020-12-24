@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Units Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Berserker"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
 ## Skills
-### 1 Skill: null
+### Ultimate Skill: null
  **Description:** 
 
-### 2 Skill: War Fury
+### Regular Skill 1 : War Fury
  **Description:** <span style="color: #645252;font-size:20px">The Berserker's attack can increase by up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> as its HP reduces. The Berserker cries out every 20s, increasing his own unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;deterring&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all hostile units for 10s.</span><span style="color: black">
 
-### 3 Skill: Rampage
+### Regular Skill 2 : Rampage
  **Description:** <span style="color: #645252;font-size:20px">The Berserker is immune to &lt;petrification&gt; and&lt;stun&gt;. Berserker's ATK speed increased by <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)</span><span style="color: black">
 
-### 4 Skill: Immortal War God
+### Regular Skill 3 : Immortal War God
  **Description:** <span style="color: #645252;font-size:20px">For each additional Stronghold unit deployed, increases Berserker's unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and regenerating </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### 5 Skill: Fight Zealot
+### Faction Special Skill I : Fight Zealot
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
-### 6 Skill: Rise of Vitality
+### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent

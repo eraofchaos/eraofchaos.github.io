@@ -3,7 +3,7 @@ title: "Aeronave Mágica"
 permalink: /es/units/Magic Airship/
 excerpt: "Unidades La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Aeronave Mágica"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
 ## Skills
-### 1 Skill: Apoyo de energía
+### Habilidad definitiva: Apoyo de energía
  **Description:** <span style="color: #645252;font-size:20px">Cuando los PV de una de tus unidades se reduce por debajo del 30%, restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos, disipa todas las penalizaciones y aumenta la reducción de daño de la unidad y la resistencia mágica de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s. Solo se puede lanzar una vez por batalla.</span><span style="color: black">
 
-### 2 Skill: Bombardeo de escarcha
+### Habilidad normal 1 : Bombardeo de escarcha
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo y a las unidades hostiles a su alrededor durante 2 s.</span><span style="color: black">
 
-### 3 Skill: Campo de hechizos
+### Habilidad normal 2 : Campo de hechizos
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica de la Aeronave Mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se usa &lt;Despertar mágico&gt;, los Héroes hostiles pierden 2 de maná y los Héroes amistosos restauran 3 de maná.</span><span style="color: black">
 
-### 4 Skill: Despertar mágico
+### Habilidad normal 3 : Despertar mágico
  **Description:** <span style="color: #645252;font-size:20px">Cuando la unidad de Aeronave Mágica está amplificada por un hechizo secundario de un Héroe amistoso, aumenta la velocidad de ataque de todas las unidades lanzadoras un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s. Aumenta la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de las unidades lanzadoras durante toda la batalla. Se acumula 4 veces</span><span style="color: black">
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

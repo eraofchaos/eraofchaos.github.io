@@ -3,7 +3,7 @@ title: "Diable"
 permalink: /fr/units/Devil/
 excerpt: "Unités Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Diable"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Mort douloureuse
+### Capacité ultime: Mort douloureuse
  **Description:** <span style="color: #645252;font-size:20px">Frappe l'unité la plus lointaine de la zone de front dès que le combat commence (attaque une unité aléatoire sur la ligne arrière s'il n'y a aucune cible valide), ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et invoque un gouffre enflammé qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts toute les 0,5 seconde pendant 6 secondes. Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes la première fois. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">Peut être déployé dans n'importe quelle position. Cette compétence se réinitialise quand la cible meurt.</span><span style="color: black">
 
-### 2 Skill: Torture cruelle
+### Compétence normale 1 : Torture cruelle
  **Description:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies aléatoires. Les coups critiques infligés aux unités victimes de </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 500.</span><span style="color: black">
 
-### 3 Skill: Décadence
+### Compétence normale 2 : Décadence
  **Description:** <span style="color: #645252;font-size:20px">Quand cette unité est sur le champ de bataille, elle inflige une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à toutes les unités ennemies toutes les 2 secondes.</span><span style="color: black">
 
-### 4 Skill: Destruction d'âmes
+### Compétence normale 3 : Destruction d'âmes
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de l'unité augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand elle combat une unité du Château, les dégâts augmentent de 50 %.</span><span style="color: black">
 
-### 5 Skill: Frappe brûlante
+### Compétence spéciale de faction I : Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
-### 6 Skill: Résonance magique
+### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

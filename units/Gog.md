@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Units Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Gog"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
-### 1 Skill: Fire Wall
+### Ultimate Skill: Fire Wall
  **Description:** <span style="color: #645252;font-size:20px">Gog builds a fire wall in front of her, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units surrounded by it. The fire wall exists for 8s.</span><span style="color: black">
 
-### 2 Skill: Flaming Explosion
+### Regular Skill 1 : Flaming Explosion
  **Description:** <span style="color: #645252;font-size:20px">Gog's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets, and may </span><span style="color: black"><span style="color: #e07c44;font-size:20px">\"Burn\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
 
-### 3 Skill: Incineration
+### Regular Skill 2 : Incineration
  **Description:** <span style="color: #645252;font-size:20px">Gog's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Fire Phantom
+### Regular Skill 3 : Fire Phantom
  **Description:** <span style="color: #645252;font-size:20px">Gog's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and damage reduction of fire spells is increased by 40%.</span><span style="color: black">
 
-### 5 Skill: Broiling Strike
+### Faction Special Skill I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
-### 6 Skill: Spell Resistance Resonance
+### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

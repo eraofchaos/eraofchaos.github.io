@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /es/units/Gorgon/
 excerpt: "Unidades Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Gorgona"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
 ## Skills
-### 1 Skill: null
+### Habilidad definitiva: null
  **Description:** 
 
-### 2 Skill: Adalid de la ciénaga
+### Habilidad normal 1 : Adalid de la ciénaga
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la DEF de la Gorgona un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si el daño que la Gorgona recibe de un solo ataque excede el 15% de sus PV máximos, se hace inmune al daño más allá de ese 15%.</span><span style="color: black">
 
-### 3 Skill: Simbiosis de la plaga
+### Habilidad normal 2 : Simbiosis de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de la Gorgona un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto aumenta un 5% más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
-### 4 Skill: Maldición salvaje
+### Habilidad normal 3 : Maldición salvaje
  **Description:** <span style="color: #645252;font-size:20px">Reduce el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">% de las unidades hostiles alrededor de la Gorgona.</span><span style="color: black">
 
-### 5 Skill: Golpe de la plaga
+### Habilidad especial de la facción I : Golpe de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /it/units/Ogre/
 excerpt: "Unità Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Ogre"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
 ## Skills
-### 1 Skill: Pozza di sangue
+### Tecnica suprema: Pozza di sangue
  **Description:** <span style="color: #645252;font-size:20px">L'Ogre evoca una pozza di sangue che aumenta l'assorbimento delle unità alleate in un'ampia area (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La pozza rimane attiva per 15 secondi.</span><span style="color: black">
 
-### 2 Skill: Pelle dello Stregone
+### Tecnica normale 1 : Pelle dello Stregone
  **Description:** <span style="color: #645252;font-size:20px">L'Ogre gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">), rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%).</span><span style="color: black">
 
-### 3 Skill: Raptus
+### Tecnica normale 2 : Raptus
  **Description:** <span style="color: #645252;font-size:20px">Quando i PF dell'Ogre sono inferiori al 35%, l'ATT delle unità alleate aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
 
-### 4 Skill: Cura veleno
+### Tecnica normale 3 : Cura veleno
  **Description:** <span style="color: #645252;font-size:20px">Se un Ogre è sul campo di battaglia, gli effetti curativi sulle unità alleate sono più efficaci (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

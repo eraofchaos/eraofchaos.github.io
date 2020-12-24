@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /de/units/Angel/
 excerpt: "Einheiten Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Engel"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Verurteilen
+### Ultimative Fähigkeit: Verurteilen
  **Description:** <span style="color: #645252;font-size:20px">Der Engel verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an 3 zufälligen gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang.</span><span style="color: black">
 
-### 2 Skill: Auferstehung
+### Gewöhnliche Fähigkeit 1 : Auferstehung
  **Description:** <span style="color: #645252;font-size:20px">Der Engel erweckt 1 deiner Einheiten wieder und stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP dieser Einheit wieder her.</span><span style="color: black">
 
-### 3 Skill: Strahlkraft
+### Gewöhnliche Fähigkeit 2 : Strahlkraft
  **Description:** <span style="color: #645252;font-size:20px">Wenn sich ein Engel auf dem Schlachtfeld befindet, regenerieren alle verbündeten Einheiten alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP.</span><span style="color: black">
 
-### 4 Skill: Konzentrierter Scharfschütze
+### Gewöhnliche Fähigkeit 3 : Konzentrierter Scharfschütze
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Engels steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Schaden wird um 10 % erhöht. Gegen Einheiten der Inferno-Fraktion wird der Schaden der Einheit um 50 % erhöht.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

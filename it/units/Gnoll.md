@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /it/units/Gnoll/
 excerpt: "Unità Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Gnoll"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.63 | 4.75 | 152.2 |
 
 ## Skills
-### 1 Skill: Colpo di catena
+### Tecnica suprema: Colpo di catena
  **Description:** <span style="color: #645252;font-size:20px">Lo Gnoll infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni all'unità bersaglio e la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
 
-### 2 Skill: Ferocia primitiva
+### Tecnica normale 1 : Ferocia primitiva
  **Description:** <span style="color: #645252;font-size:20px">Lo Gnoll gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Pestilenza aggravata
+### Tecnica normale 2 : Pestilenza aggravata
  **Description:** <span style="color: #645252;font-size:20px">Danno dello Gnoll aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 4 Skill: Colpo di grazia
+### Tecnica normale 3 : Colpo di grazia
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta un bersaglio con PF inferiori al 30%, l'ATT dello Gnoll aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Attacco pestilenziale
+### Tecnica speciale fazione I : Attacco pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

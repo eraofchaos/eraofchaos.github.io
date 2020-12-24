@@ -3,7 +3,7 @@ title: "Бехолдер"
 permalink: /ru/units/Beholder/
 excerpt: "Отряды Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Бехолдер"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">Бехолдеры контролируют 1 случайный вражеский отряд. Цель получает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду в течение 8 сек. Находясь под контролем, выбранный целью отряд не может атаковать, двигаться и использовать умения.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">Когда бехолдеры появляются на поле боя, они открывают 4 глаза смерти. Каждый глаз дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. С каждой убитой целью закрывается 1 глаз. Могут быть закрыты максимум 3 глаза.</span><span style="color: black">
 
-### 3 Skill: Бессилие
+### Обычное умение 2 : Бессилие
  **Description:** <span style="color: #645252;font-size:20px">Когда бехолдеры на поле боя, исходная мана вражеских героев снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда погибает вражеский отряд, мана вражеских героев снижается еще на 10.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** 
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Темный конфликт
+### Эксклюзивное умение фракции II : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Elementale psichico"
 permalink: /it/units/Psychic Elemental/
 excerpt: "Unità Un'entità nata dalla forza delle idee del mondo materiale. È in grado di colpire direttamente la mente dei propri nemici. Chi non possiede forza mentale sufficiente a resistergli viene risucchiato in una spirale di caos e delirio."
 unitID: 906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Elementale psichico"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
-### 1 Skill: Scoppio di energia
+### Tecnica suprema: Scoppio di energia
  **Description:** <span style="color: #645252;font-size:20px">L'Elementale psichico è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ogni Elementale psichico attacca 3 unità nemiche ogni 4 secondi, infliggendo danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT.</span><span style="color: black">
 
-### 2 Skill: Terra
+### Tecnica normale 1 : Terra
  **Description:** <span style="color: #645252;font-size:20px">Danno dell'Elementale psichico aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Lo &lt;Scoppio di energia&gt; dell'Elementale psichico ha una probabilità del 30% di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per 3 secondi.</span><span style="color: black">
 
-### 3 Skill: Fuoco
+### Tecnica normale 2 : Fuoco
  **Description:** <span style="color: #645252;font-size:20px">Rid DAN dell'Elementale psichico aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Lo &lt;Scoppio di energia&gt; dell'Elementale psichico ha una probabilità del 30% di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al bersaglio per 6 secondi.</span><span style="color: black">
 
-### 4 Skill: Signore degli elementi
+### Tecnica normale 3 : Signore degli elementi
  **Description:** <span style="color: #645252;font-size:20px">L'Elementale psichico gode di resistenza magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando l'Elementale psichico muore, riduce di 20 il mana degli eroi nemici.</span><span style="color: black">
 
-### 5 Skill: Affinità elementale
+### Tecnica speciale fazione I : Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Conflitto elementale
+### Tecnica speciale fazione II : Conflitto elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

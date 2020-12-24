@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /fr/units/Wolf Rider/
 excerpt: "Unités Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Chevaucheur de loup"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
-### 1 Skill: Bête de compagnie
+### Capacité ultime: Bête de compagnie
  **Description:** <span style="color: #645252;font-size:20px">Quand il meurt, le Chevaucheur de loup invoque un Warg pour combattre à sa place. Le Warg a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV. Il demeure pendant toute la durée de la bataille.</span><span style="color: black">
 
-### 2 Skill: Double frappe
+### Compétence normale 1 : Double frappe
  **Description:** <span style="color: #645252;font-size:20px">Les Chevaucheurs de loup ont </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance d'attaquer deux fois lors d'une attaque normale. La 2e attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible. Quand ils affrontent des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, les chances de déclencher &lt;Double frappe&gt; passent à 100 %.</span><span style="color: black">
 
-### 3 Skill: Carnage
+### Compétence normale 2 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques du Chevaucheur de loup augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
-### 4 Skill: Furie sanguinaire
+### Compétence normale 3 : Furie sanguinaire
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Chevaucheur de loup augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il récupère 2 % de ses PV chaque fois qu'il réussit un coup critique.</span><span style="color: black">
 
-### 5 Skill: Zélote combattant
+### Compétence spéciale de faction I : Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Servante des Abîmes"
 permalink: /fr/units/Pit Fiend/
 excerpt: "Unités Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage."
 unitID: 505
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Servante des Abîmes"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
-### 1 Skill: Cercle de feu
+### Capacité ultime: Cercle de feu
  **Description:** <span style="color: #645252;font-size:20px">La Servante des Abîmes lance Cercle de feu, ce qui rend une quantité de PV égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max à toutes les unités alliées dans une large zone toutes les 2 secondes pendant 8 secondes.</span><span style="color: black">
 
-### 2 Skill: Invocation du Seigneur
+### Compétence normale 1 : Invocation du Seigneur
  **Description:** <span style="color: #645252;font-size:20px">Quand une Servante des Abîmes est sur le champ de bataille, elle invoque 4 démons pour se battre à ses côtés. Les démons ont </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, 700 en DÉF et 500 en coup critique. Ils demeurent pendant toute la durée de la bataille.</span><span style="color: black">
 
-### 3 Skill: Chaleur
+### Compétence normale 2 : Chaleur
  **Description:** <span style="color: #645252;font-size:20px">La compétence &lt;Cercle de feu&gt; de la Servante des Abîmes augmente les soins de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les soins de &lt;Cercle de feu&gt; augmentent de 5 % pour chaque unité de l'Hadès déployée.</span><span style="color: black">
 
-### 4 Skill: Volonté du Seigneur
+### Compétence normale 3 : Volonté du Seigneur
  **Description:** <span style="color: #645252;font-size:20px">Quand une Servante des Abîmes se joint au combat, les PV et l'ATQ des Diablotins, Démons et Élémentaires de feu alliés augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Frappe brûlante
+### Compétence spéciale de faction I : Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
-### 6 Skill: Résonance magique
+### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

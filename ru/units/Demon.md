@@ -3,7 +3,7 @@ title: "Демон"
 permalink: /ru/units/Demon/
 excerpt: "Отряды Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов."
 unitID: 504
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Демон"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
@@ -61,24 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
 ## Skills
-### 1 Skill: Ошпаривающий удар
+### Совершенное умение: Ошпаривающий удар
  **Description:** <span style="color: #645252;font-size:20px">Демоны случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и получают +300 к уклонению на 12 сек.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">Демоны восстанавливают <span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ за каждое уклонение.</span><span style="color: black">
 
-### 3 Skill: Слуга Инферно
+### Обычное умение 2 : Слуга Инферно
  **Description:** <span style="color: #645252;font-size:20px">Демоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 30%.</span><span style="color: black">
 
-### 4 Skill: Отряд Огня
+### Обычное умение 3 : Отряд Огня
  **Description:** <span style="color: #645252;font-size:20px">Демоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Также их уклонение повышается на 40 за каждый участвующий в бою отряд Инферно.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### 6 Skill: Резонанс антимагии
- **Description:** 
-
+### Эксклюзивное умение фракции II : Резонанс антимагии
 ## Talent
 
 * Атака
@@ -96,7 +92,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

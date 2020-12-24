@@ -3,7 +3,7 @@ title: "Дендроид-страж"
 permalink: /ru/units/Dendroid Guard/
 excerpt: "Отряды Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов."
 unitID: 205
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Дендроид-страж"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">Дендроиды-стражи </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> окружающие вражеские отряды в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### 2 Skill: Стремительный перекат
+### Обычное умение 1 : Стремительный перекат
  **Description:** 
 
-### 3 Skill: Доспехи из окам. дерева
+### Обычное умение 2 : Доспехи из окам. дерева
  **Description:** <span style="color: #645252;font-size:20px">У дендроидов-стражей иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. </span><span style="color: black">
 
-### 4 Skill: Деревянный кол
+### Обычное умение 3 : Деревянный кол
  **Description:** 
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
 ## Talent

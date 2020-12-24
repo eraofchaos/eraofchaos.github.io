@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /de/units/Gnoll/
 excerpt: "Einheiten Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
 unitID: 801
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Gnoll"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.63 | 4.75 | 152.2 |
 
 ## Skills
-### 1 Skill: Kettenschlag
+### Ultimative Fähigkeit: Kettenschlag
  **Description:** <span style="color: #645252;font-size:20px">Der Gnoll fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es 3 Sek. lang.</span><span style="color: black">
 
-### 2 Skill: Primitive Wildnis
+### Gewöhnliche Fähigkeit 1 : Primitive Wildnis
  **Description:** <span style="color: #645252;font-size:20px">Erhöht den ANG des Gnoll um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und sein Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Seuchensucher
+### Gewöhnliche Fähigkeit 2 : Seuchensucher
  **Description:** <span style="color: #645252;font-size:20px">Der Schaden des Gnolls wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Hinrichtung
+### Gewöhnliche Fähigkeit 3 : Hinrichtung
  **Description:** <span style="color: #645252;font-size:20px">Bei Angriffen auf eine Einheit, die weniger als 30 % ihrer LP hat, steigt der ANG des Gnoll um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

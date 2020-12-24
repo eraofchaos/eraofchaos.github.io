@@ -3,7 +3,7 @@ title: "Echsenmensch"
 permalink: /de/units/Lizardman/
 excerpt: "Einheiten Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Echsenmensch"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Giftwurfpfeil
+### Ultimative Fähigkeit: Giftwurfpfeil
  **Description:** <span style="color: #645252;font-size:20px">Der Echsenmensch fügt seinem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 6 Sek. lang <span style="color: #48b946;font-size:20px">„Seuche“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Tiefe Wunde
+### Gewöhnliche Fähigkeit 1 : Tiefe Wunde
  **Description:** <span style="color: #645252;font-size:20px">Erhöht den Schaden des Standardangriffs des Echsenmenschen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Ziele mit <span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
 
-### 3 Skill: Seuchensucher
+### Gewöhnliche Fähigkeit 2 : Seuchensucher
  **Description:** <span style="color: #645252;font-size:20px">Der Schaden des Echsenmenschen wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Drachentöter
+### Gewöhnliche Fähigkeit 3 : Drachentöter
  **Description:** <span style="color: #645252;font-size:20px">Gegen 1- oder 4- Mann-Einheiten steigt Kritischer Treffer von Echsenmenschen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

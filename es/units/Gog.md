@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /es/units/Gog/
 excerpt: "Unidades Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Gog"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
-### 1 Skill: Muro de fuego
+### Habilidad definitiva: Muro de fuego
  **Description:** <span style="color: #645252;font-size:20px">La Gog crea un Muro de fuego delante de ella que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles a su alrededor. El Muro de fuego dura 8 s.</span><span style="color: black">
 
-### 2 Skill: Deflagración
+### Habilidad normal 1 : Deflagración
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de las Gog tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 objetivos y los pueden </span><span style="color: black"><span style="color: #e07c44;font-size:20px">quemar</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
-### 3 Skill: Incineración
+### Habilidad normal 2 : Incineración
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de las Gog un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Fantasma de fuego
+### Habilidad normal 3 : Fantasma de fuego
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV de las Gog un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de los hechizos de fuego un 40%.</span><span style="color: black">
 
-### 5 Skill: Golpe asador
+### Habilidad especial de la facción I : Golpe asador
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
-### 6 Skill: Resonancia de resistencia
+### Habilidad especial de la facción II : Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Grottenteufel"
 permalink: /de/units/Pit Fiend/
 excerpt: "Einheiten Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
 unitID: 505
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Grottenteufel"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
-### 1 Skill: Feuerquell
+### Ultimative Fähigkeit: Feuerquell
  **Description:** <span style="color: #645252;font-size:20px">Der Grottenteufel beschwört 1 &lt;Feuerquell&gt; in seinem Weg, der in einem großen Bereich vor ihm 8 Sek. lang alle 2 Sek. LP in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP verbündeter Einheiten wiederherstellt.</span><span style="color: black">
 
-### 2 Skill: Beschwörung des Lords
+### Gewöhnliche Fähigkeit 1 : Beschwörung des Lords
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Grottenteufel auf dem Schlachtfeld steht, beschwört er 4 Dämonen. Dämonen haben </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP, 700 ABW und 500 Kritischer Treffer. Sie kämpfen die gesamte Schlacht über.</span><span style="color: black">
 
-### 3 Skill: Hitze
+### Gewöhnliche Fähigkeit 2 : Hitze
  **Description:** <span style="color: #645252;font-size:20px">Der &lt;Feuerquell&gt; des Grottenteufels erhöht Heilung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Heilung durch &lt;Feuerquell&gt; steigt um 5 % je eingesetzter Inferno-Einheit.</span><span style="color: black">
 
-### 4 Skill: Wille des Lords
+### Gewöhnliche Fähigkeit 3 : Wille des Lords
  **Description:** <span style="color: #645252;font-size:20px">Wenn sich ein Grottenteufel auf dem Schlachtfeld befindet, erhalten verbündete Imps, Dämonen und Feuerelementare einen Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf LP und Angriff.</span><span style="color: black">
 
-### 5 Skill: Sengender Angriff
+### Fraktions-Spezialfähigkeit I : Sengender Angriff
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Magieresistenz-Resonanz
+### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

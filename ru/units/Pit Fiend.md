@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /ru/units/Pit Fiend/
 excerpt: "Отряды null"
 unitID: 505
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Порождение зла"
 toc: true
@@ -61,24 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
-### 1 Skill: Огненный источник
+### Совершенное умение: Огненный источник
  **Description:** <span style="color: #645252;font-size:20px">Порождения зла применяют 1 Огненный источник у них на пути, восстанавливая ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у союзных отрядов в широком радиусе перед собой каждые 2 сек. в течение 8 сек.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** 
 
-### 3 Skill: Жар
+### Обычное умение 2 : Жар
  **Description:** <span style="color: #645252;font-size:20px">&lt;Огненный источник&gt; порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от &lt;Огненного источника&gt; повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">Когда порождения зла участвуют в бою, ваши бесы, демоны и элементали Огня получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+13)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к здоровью и атаке.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### 6 Skill: Резонанс антимагии
- **Description:** 
-
+### Эксклюзивное умение фракции II : Резонанс антимагии
 ## Talent
 
 * Атака

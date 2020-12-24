@@ -3,7 +3,7 @@ title: "Unknown_TEAM_9902"
 permalink: /ru/units/Regnan Archer/
 excerpt: "Отряды Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_9902"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
-### 1 Skill: Смертоносная стрела
+### Совершенное умение: Смертоносная стрела
  **Description:** 
 
-### 2 Skill: Обучение тактике
+### Обычное умение 1 : Обучение тактике
  **Description:** 
 
-### 3 Skill: Приливный гигантский арбалет
+### Обычное умение 2 : Приливный гигантский арбалет
  **Description:** <span style="color: #645252;font-size:20px">Регнанские лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к урону. В начале боя наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере 25% от максимума ОЗ 2 случайным отрядам с их </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлением</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 8 сек.</span><span style="color: black">
 
-### 4 Skill: Огневая поддержка
+### Обычное умение 3 : Огневая поддержка
  **Description:** <span style="color: #645252;font-size:20px">Выполняется атака на вражеский отряд с самым низким процентом ОЗ, наносящая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и снижающая ЗЩТ цели на 30%.</span><span style="color: black">
 
-### 5 Skill: Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ## Talent

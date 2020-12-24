@@ -3,7 +3,7 @@ title: "Assassino"
 permalink: /it/units/Assassin/
 excerpt: "Unità Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Assassino"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
-### 1 Skill: Assassinio
+### Tecnica suprema: Assassinio
  **Description:** <span style="color: #645252;font-size:20px">L'Assassino comincia la battaglia con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> attiva, e perde la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> quando attacca per la prima volta. Quando un Assassino perde la propria </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il suo attacco successivo sarà un attacco da &lt;Furtività persa&gt; e infliggerà danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT, riducendo le cure ricevute del 30%. L'effetto può attivarsi una volta ogni 10 secondi.</span><span style="color: black">
 
-### 2 Skill: Istinto dell'Assassino
+### Tecnica normale 1 : Istinto dell'Assassino
  **Description:** <span style="color: #645252;font-size:20px">L'Assassino gode di </span><span style="color: black"><span style="color: #645252;font-size:20px">DAN aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%).</span><span style="color: black"><span style="color: #645252;font-size:20px">Bonus raddoppiato sotto l'effetto di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Occhio di Falco&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Quando attacca unità affette da</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cecità&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">la Perforazione aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}).</span><span style="color: black">
 
-### 3 Skill: Bomba fumogena
+### Tecnica normale 2 : Bomba fumogena
  **Description:** <span style="color: #645252;font-size:20px">L'Assassino lancia ai suoi piedi una Bomba fumogena che ne aumenta la DIF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e applica </span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cecità&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche in un'ampia area, riducendone DAN e Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi. Recupero: 18 secondi.</span><span style="color: black">
 
-### 4 Skill: Attacco a catena
+### Tecnica normale 3 : Attacco a catena
  **Description:** <span style="color: #645252;font-size:20px">L'Assassino gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando un Assassino uccide un'unità bersaglio, l'effetto è triplicato per 20 secondi; inoltre, l'Assassino entra in </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 secondi.</span><span style="color: black">
 
-### 5 Skill: Conflitto armato
+### Tecnica speciale fazione I : Conflitto armato
  **Description:** <span style="color: #645252;font-size:20px">Le unità neutrali sono molti efficaci. Quando affrontano unità non neutrali, il loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%).</span><span style="color: black">
 
-### 6 Skill: Incoraggiamento
+### Tecnica speciale fazione II : Incoraggiamento
  **Description:** <span style="color: #645252;font-size:20px">Le unità neutrali possono resistere ad attacchi estremamente potenti. Ogni volta che perdono il 10% dei propri PF, la loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Units Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Efreeti"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Firestorm
+### Ultimate Skill: Firestorm
  **Description:** <span style="color: #645252;font-size:20px">Efreeti casts Firestorm on a target area, which will deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all enemy units within the area, and cause </span><span style="color: black"><span style="color: #48b946;font-size:20px">burning</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15 seconds.</span><span style="color: black">
 
-### 2 Skill: Flaming Shield
+### Regular Skill 1 : Flaming Shield
  **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 3 Skill: Red-hot
+### Regular Skill 2 : Red-hot
  **Description:** <span style="color: #645252;font-size:20px">Efreeti's &lt;Fire Shield&gt; increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: God of Fire
+### Regular Skill 3 : God of Fire
  **Description:** <span style="color: #645252;font-size:20px">Efreeti's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Broiling Strike
+### Faction Special Skill I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
-### 6 Skill: Spell Resistance Resonance
+### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /fr/units/Imp/
 excerpt: "Unités Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Diablotin"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
-### 1 Skill: Impulsion
+### Capacité ultime: Impulsion
  **Description:** <span style="color: #645252;font-size:20px">Quand un Diablotin meurt, il a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chances de ressusciter avec tous ses PV.</span><span style="color: black">
 
-### 2 Skill: Martelage
+### Compétence normale 1 : Martelage
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Diablotins a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible et peut l'</span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes.</span><span style="color: black">
 
-### 3 Skill: Agilité
+### Compétence normale 2 : Agilité
  **Description:** <span style="color: #645252;font-size:20px">L'esquive du Diablotin augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il esquive une attaque ennemie, le Diablotin a 20 % de chance de réduire le mana du Héros de 5. Cette compétence a un temps de recharge de 5 secondes.</span><span style="color: black">
 
-### 4 Skill: Séide de l'Hadès
+### Compétence normale 3 : Séide de l'Hadès
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Diablotin augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les soins augmentent de 30 %.</span><span style="color: black">
 
-### 5 Skill: Frappe brûlante
+### Compétence spéciale de faction I : Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
-### 6 Skill: Résonance magique
+### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Dämon"
 permalink: /de/units/Demon/
 excerpt: "Einheiten Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
 unitID: 504
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Dämon"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
 ## Skills
-### 1 Skill: Versengender Schlag
+### Ultimative Fähigkeit: Versengender Schlag
  **Description:** <span style="color: #645252;font-size:20px">Der Dämonen fügt einer zufälligen gegnerischen Einheit in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und erhöht seinen eigenen Ausweichwert 12 Sek. lang um 300.</span><span style="color: black">
 
-### 2 Skill: Verbrennungen
+### Gewöhnliche Fähigkeit 1 : Verbrennungen
  **Description:** <span style="color: #645252;font-size:20px">Der Dämon stellt bei jedem erfolgreichen Ausweichen <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner LP wieder her.</span><span style="color: black">
 
-### 3 Skill: Inferno-Scherge
+### Gewöhnliche Fähigkeit 2 : Inferno-Scherge
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Dämonen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Heilung steigt um 30 %.</span><span style="color: black">
 
-### 4 Skill: Feuereinheit
+### Gewöhnliche Fähigkeit 3 : Feuereinheit
  **Description:** <span style="color: #645252;font-size:20px">Ausweichen des Dämons wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ausweichen steigt um 40 für jede eingesetzte Inferno-Einheit.</span><span style="color: black">
 
-### 5 Skill: Sengender Angriff
+### Fraktions-Spezialfähigkeit I : Sengender Angriff
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Magieresistenz-Resonanz
+### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

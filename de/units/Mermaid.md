@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /de/units/Mermaid/
 excerpt: "Einheiten Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Meerjungfrau"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
-### 1 Skill: D-Akkord
+### Ultimative Fähigkeit: D-Akkord
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Angriff der Meerjungfrau auf Heilung wechselt, werden bei der verbündeten Einheit mit den niedrigsten prozentualen LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG der Meerjungfrau geheilt; zusätzlich wird 1 zufällige andere Einheit geheilt. Der Zusatzeffekt kann 3 Mal ausgelöst werden. Die Heilung entspricht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG der Meerjungfrau.</span><span style="color: black">
 
-### 2 Skill: Portato
+### Gewöhnliche Fähigkeit 1 : Portato
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Meerjungfrau den Schaden aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. 10 Sek. lang gehen alle 2 Sek. 2 % Schaden und 50 Kritischer Treffer verloren. Für Bucht-Einheiten werden Wirkungsdauer und Abzug halbiert.</span><span style="color: black">
 
-### 3 Skill: null
+### Gewöhnliche Fähigkeit 2 : null
  **Description:** 
 
-### 4 Skill: Azurblaues Lied
+### Gewöhnliche Fähigkeit 3 : Azurblaues Lied
  **Description:** <span style="color: #645252;font-size:20px">Die Heilung der Meerjungfrau wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die Meerjungfrau &lt;D-Akkord&gt; wird, entfernt sie alle Debuffs von der verbündeten Einheit mit den prozentual niedrigsten LP.</span><span style="color: black">
 
-### 5 Skill: Ruhiger Körper
+### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### 6 Skill: Piratenoffensive
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ## Talent

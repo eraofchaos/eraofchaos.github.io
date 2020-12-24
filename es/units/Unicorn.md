@@ -3,7 +3,7 @@ title: "Unicornio"
 permalink: /es/units/Unicorn/
 excerpt: "Unidades La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario."
 unitID: 206
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Unicornio"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
 ## Skills
-### 1 Skill: null
+### Habilidad definitiva: null
  **Description:** 
 
-### 2 Skill: Figuras titilantes
+### Habilidad normal 1 : Figuras titilantes
  **Description:** <span style="color: #645252;font-size:20px">Cada vez que el Unicornio esquiva, tiene una probabilidad alta de crear un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;escudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
-### 3 Skill: Luz angelical
+### Habilidad normal 2 : Luz angelical
  **Description:** <span style="color: #645252;font-size:20px">La habilidad &lt;Ceguera&gt; aumenta el daño que recibe la unidad del objetivo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Líder osado
+### Habilidad normal 3 : Líder osado
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la esquiva del Unicornio un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga al Unicornio 40 de esquiva adicional por cada unidad arquera aliada en el campo de batalla.</span><span style="color: black">
 
-### 5 Skill: Proliferación calmada
+### Habilidad especial de la facción I : Proliferación calmada
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marca de odio
+### Habilidad especial de la facción II : Marca de odio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
 
 ## Talent

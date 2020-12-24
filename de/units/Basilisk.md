@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /de/units/Basilisk/
 excerpt: "Einheiten Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
 unitID: 804
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Basilisk"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
-### 1 Skill: Versteinernder Biss
+### Ultimative Fähigkeit: Versteinernder Biss
  **Description:** <span style="color: #645252;font-size:20px">Der Basilisk <span style="color: #48b946;font-size:20px">„versteinert“</span><span style="color: black"><span style="color: #645252;font-size:20px"> das Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang.</span><span style="color: black">
 
-### 2 Skill: Gehärtete Schuppe
+### Gewöhnliche Fähigkeit 1 : Gehärtete Schuppe
  **Description:** <span style="color: #645252;font-size:20px">Erhöht die ABW des Basilisken um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Seuchensymbiose
+### Gewöhnliche Fähigkeit 2 : Seuchensymbiose
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Basilisken wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Versteinernder Tod
+### Gewöhnliche Fähigkeit 3 : Versteinernder Tod
  **Description:** <span style="color: #645252;font-size:20px">Basilisken <span style="color: #48b946;font-size:20px">„versteinern“</span><span style="color: black"><span style="color: #645252;font-size:20px"> bei ihrem Tod benachbarte Gegner </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

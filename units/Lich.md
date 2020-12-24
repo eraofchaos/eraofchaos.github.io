@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Units Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Lich"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
 ## Skills
-### 1 Skill: Sacrifice
+### Ultimate Skill: Sacrifice
  **Description:** <span style="color: #645252;font-size:20px">If the target is downed, Lich has a chance of summoning 1 Skeleton with </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP that lasts the entire battle.</span><span style="color: black">
 
-### 2 Skill: Poisonous Cloud
+### Regular Skill 1 : Poisonous Cloud
  **Description:** <span style="color: #645252;font-size:20px">Lich's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
-### 3 Skill: Dark Boost
+### Regular Skill 2 : Dark Boost
  **Description:** <span style="color: #645252;font-size:20px">Lich's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Lich's attack range will be increased by 50 for every Necropolis unit on the battlefield.</span><span style="color: black">
 
-### 4 Skill: Skeletal Sacrifice
+### Regular Skill 3 : Skeletal Sacrifice
  **Description:** <span style="color: #645252;font-size:20px">When Lich is on the battlefield, HP and ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for Skeletons and Bone Dragons.</span><span style="color: black">
 
-### 5 Skill: Dismal Defense
+### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
-### 6 Skill: Spell Harmony
+### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent

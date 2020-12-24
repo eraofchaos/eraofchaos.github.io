@@ -3,7 +3,7 @@ title: "Cyclope"
 permalink: /fr/units/Cyclops/
 excerpt: "Unités Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Cyclope"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
-### 1 Skill: Pierre de feu
+### Capacité ultime: Pierre de feu
  **Description:** <span style="color: #645252;font-size:20px">Les Cyclopes lancent des explosifs dans une large zone devant eux, ce qui </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies touchées et leur inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts toutes les 2 secondes pendant 8 secondes.</span><span style="color: black">
 
-### 2 Skill: Frappe de siège
+### Compétence normale 1 : Frappe de siège
  **Description:** <span style="color: #645252;font-size:20px">Le Cyclope augmente les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV. Quand un Cyclope fait face à une unité de 9 combattants, son attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts de zone à 3 unités ennemies.</span><span style="color: black">
 
-### 3 Skill: Trembleterre
+### Compétence normale 2 : Trembleterre
  **Description:** <span style="color: #645252;font-size:20px">Quand on l'attaque, le Cyclope a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies dans une large zone et de les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
 
-### 4 Skill: Géant
+### Compétence normale 3 : Géant
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Cyclope augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il fait face à une unité de 9 combattants, les dégâts subis par l'unité sont diminués de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Zélote combattant
+### Compétence spéciale de faction I : Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

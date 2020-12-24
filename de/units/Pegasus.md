@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /de/units/Pegasus/
 excerpt: "Einheiten Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Pegasus"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
-### 1 Skill: Waldwächter
+### Ultimative Fähigkeit: Waldwächter
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Pegasus stirbt, beschwört er 1 zusätzlichen Pegasus, der weiterkämpft. Der beschworene Pegasus hat </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP und bleibt die gesamte Schlacht über bestehen.</span><span style="color: black">
 
-### 2 Skill: Rasiermesserscharf
+### Gewöhnliche Fähigkeit 1 : Rasiermesserscharf
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Pegasus steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Sein Standardangriff verursacht 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
 
-### 3 Skill: Lebensschutz
+### Gewöhnliche Fähigkeit 2 : Lebensschutz
  **Description:** <span style="color: #645252;font-size:20px">Der Pegasus erschafft einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schild“</span><span style="color: black"><span style="color: #645252;font-size:20px"> für verbündete Einheiten in einem hohen Radius, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
 
-### 4 Skill: Kavallerie der Silberflügel
+### Gewöhnliche Fähigkeit 3 : Kavallerie der Silberflügel
  **Description:** <span style="color: #645252;font-size:20px">Der ANG des Pegasus und des beschworenen Pegasus steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Ruhige Robustheit
+### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Hasszeichen
+### Fraktions-Spezialfähigkeit II : Hasszeichen
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ## Talent

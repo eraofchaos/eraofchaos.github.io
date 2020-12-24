@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Mummy"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
 ## Skills
-### 1 Skill: Decaying Curse
+### Ultimate Skill: Decaying Curse
  **Description:** <span style="color: #645252;font-size:20px">Within a certain range, Mummy deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to surrounding hostile units every 20s, and makes them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 12s.</span><span style="color: black">
 
-### 2 Skill: Shroud
+### Regular Skill 1 : Shroud
  **Description:** <span style="color: #645252;font-size:20px">When &lt;Decaying Curse&gt; is cast, restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
 
-### 3 Skill: Source of Disease
+### Regular Skill 2 : Source of Disease
  **Description:** <span style="color: #645252;font-size:20px">Mummy is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Mummy's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Mummy is on the battlefield, all healing effects received by enemy units are reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: God of Plague
+### Regular Skill 3 : God of Plague
  **Description:** <span style="color: #645252;font-size:20px">Mummy's DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Mummy is suffering from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
 
-### 5 Skill: Dismal Defense
+### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
-### 6 Skill: Spell Harmony
+### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent

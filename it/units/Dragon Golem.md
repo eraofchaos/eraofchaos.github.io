@@ -3,7 +3,7 @@ title: "Golem draconico"
 permalink: /it/units/Dragon Golem/
 excerpt: "Unità L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile."
 unitID: 609
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Golem draconico"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
 ## Skills
-### 1 Skill: Impulso disorientante
+### Tecnica suprema: Impulso disorientante
  **Description:** <span style="color: #645252;font-size:20px">Il Golem draconico emette un &lt;Impulso disorientante&gt; ogni 15 secondi, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN a tutte le unità da mischia nemiche, <span style="color: #48b946;font-size:20px">&lt;stordendole&gt;</span><span style="color: black"> per 2 secondi e applicando 5 secondi di <span style="color: #48b946;font-size:20px">&lt;Paralisi&gt;</span><span style="color: black">.</span><span style="color: black">
 
-### 2 Skill: Palazzo di ferro
+### Tecnica normale 1 : Palazzo di ferro
  **Description:** <span style="color: #645252;font-size:20px">Il Golem draconico gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Tenacia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+150)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Danno aumentato del 100% contro le unità Dungeon. All'inizio della battaglia, il Golem draconico lancia <span style="color: #F0F000;font-size:20px">&lt;Palazzo di ferro&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Risveglio magico
+### Tecnica normale 2 : Risveglio magico
  **Description:** <span style="color: #645252;font-size:20px">Quando viene risvegliato dall'incantesimo di supporto di un eroe alleato, lancia &lt;Tempesta magica&gt;, che causa &lt;Silenzio&gt; per 2 secondi alle unità nemiche nell'area e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paralizza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 secondi. Inoltre, ottiene DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+14.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+9.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia. Il Golem draconico si risveglia ogni 25 secondi.</span><span style="color: black">
 
-### 4 Skill: Ritorno magico
+### Tecnica normale 3 : Ritorno magico
  **Description:** <span style="color: #645252;font-size:20px">Quando i suoi PF scendono al 40% e al 20%, il Golem draconico evoca un campo rigenerante della durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2.8)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi. Finché il campo rimane attivo, tutti i danni subiti dal Golem draconico vengono convertiti in PF. Quando il Golem draconico viene sconfitto, l'energia temporale che emana infligge danni pari al 30% dei PF massimi alle unità nemiche in un'ampia area e infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ai bersagli per 5 secondi.</span><span style="color: black">
 
-### 5 Skill: Mente lucida
+### Tecnica speciale fazione I : Mente lucida
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Esplosione di Energia
+### Tecnica speciale fazione II : Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 7 Skill: Ruota del tempo
+### Tecnica normale 6 : Ruota del tempo
  **Description:** <span style="color: #645252;font-size:20px">Il Golem draconico gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Tenacia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) quando vengono schierate 3 unità Torre. Quando il Golem draconico attiva il &lt;Risveglio magico&gt;, può evocare un'</span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Aura temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> di dimensioni crescenti in base al livello. L'Aura ha una durata di 15 secondi. Recupero: 30 secondi.</span><span style="color: black">
 
 ## Talent

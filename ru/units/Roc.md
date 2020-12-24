@@ -3,7 +3,7 @@ title: "Рух"
 permalink: /ru/units/Roc/
 excerpt: "Отряды null"
 unitID: 405
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Рух"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
@@ -61,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
 ## Skills
-### 1 Skill: Гром
+### Совершенное умение: Гром
  **Description:** <span style="color: #645252;font-size:20px">Рух наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам перед собой в широком радиусе и снижает их точность на 200 на 10 сек.</span><span style="color: black">
 
-### 2 Skill: Удар шаровой молнии
+### Обычное умение 1 : Удар шаровой молнии
  **Description:** <span style="color: #645252;font-size:20px">В бою птиц Рух против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Рух получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### 4 Skill: null
- **Description:** <span style="color: #645252;font-size:20px">При появлении Рух на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от удара. </span><span style="color: black">
+### Обычное умение 3 : null
+ **Description:** 
 
-### 5 Skill: Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### 6 Skill: Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent

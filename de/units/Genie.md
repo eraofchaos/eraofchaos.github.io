@@ -3,7 +3,7 @@ title: "Dschinn"
 permalink: /de/units/Genie/
 excerpt: "Einheiten Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Dschinn"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
 ## Skills
-### 1 Skill: Zaubergeschenk
+### Ultimative Fähigkeit: Zaubergeschenk
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Angriff des Dschinns auf Heilung wechselt, werden die LP der Einheit mit den prozentual geringsten LP um 80 % des ANG des Dschinns wiederhergestellt. Die Heilung des Dschinns wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verbessert.</span><span style="color: black">
 
-### 2 Skill: Drei Wünsche
+### Gewöhnliche Fähigkeit 1 : Drei Wünsche
  **Description:** <span style="color: #645252;font-size:20px">Solange sich ein Dschinn auf dem Schlachtfeld befindet, segnet er 3 zufällige verbündete Einheiten mit einem der folgenden Effekte: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Schadensreduzierung, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Schaden oder </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Angriffstempo.</span><span style="color: black">
 
-### 3 Skill: Magischer Docht
+### Gewöhnliche Fähigkeit 2 : Magischer Docht
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Dschinns steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Magisches Erwachen
+### Gewöhnliche Fähigkeit 3 : Magisches Erwachen
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Dschinn durch den Hilfszauber eines Helden verbessert wird, stellt er bei der Einheit mit den prozentual niedrigsten LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wieder her.</span><span style="color: black">
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

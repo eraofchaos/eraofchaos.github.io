@@ -3,7 +3,7 @@ title: "Campeón Oscuro"
 permalink: /es/units/Dark Champion/
 excerpt: "Unidades Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
 unitID: 309
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Campeón Oscuro"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 205.9 | 0.66 | 5.94 | 1900.8 |
 
 ## Skills
-### 1 Skill: Hoz del silencio
+### Habilidad definitiva: Hoz del silencio
  **Description:** <span style="color: #645252;font-size:20px">Inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño y daño adicional igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos al objetivo cada 24 s y lo hace </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrar</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s. El Campeón Oscuro restaura PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ATQ con cada ataque normal.</span><span style="color: black">
 
-### 2 Skill: El fin del destino
+### Habilidad normal 1 : El fin del destino
  **Description:** <span style="color: #645252;font-size:20px">Si hay un Campeón Oscuro en el campo de batalla, las unidades con «Moral baja» mueren si sus PV están por debajo del 5% en ese momento. Lanza </span><span style="color: black"><span style="color: #F0F000;font-size:20px">«Maldición de infortunio»</span><span style="color: black"><span style="color: #645252;font-size:20px"> cada 13 s.</span><span style="color: black">
 
-### 3 Skill: Tumbas sombrías
+### Habilidad normal 2 : Tumbas sombrías
  **Description:** <span style="color: #645252;font-size:20px">Si los PV del objetivo están por debajo del 40%, el Campeón Oscuro entierra a la unidad objetivo bajo una lápida durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. La unidad enterrada está silenciada y no puede recibir curación, moverse o atacar. Durante la duración, el daño recibido se traslada a 4 unidades enemigas a distancia aleatorias. Mientras la lápida exista, todas las unidades de Necrópolis amistosas dentro del alcance restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos por segundo. La recarga es de 28 s</span><span style="color: black">
 
-### 4 Skill: Monarca de huesos
+### Habilidad normal 3 : Monarca de huesos
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los PV otorgados por El fin del destino aumentan un 4% más por cada unidad de Necrópolis en el campo de batalla. Los PV otorgados por El fin del destino aumentan un 1% más por cada unidad que la Necrópolis invoque al campo de batalla. Los PV otorgados por El fin del destino aumentan hasta un máximo de un 25%. Cuando un Héroe amistoso lanza un conjuro de tierra, reduce el tiempo de recarga de un hechizo aleatorio en 4 s.</span><span style="color: black">
 
-### 5 Skill: Defensa lúgubre
+### Habilidad especial de la facción I : Defensa lúgubre
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonía de hechizo
+### Habilidad especial de la facción II : Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
-### 7 Skill: Cementerio silencioso
+### Habilidad normal 6 : Cementerio silencioso
  **Description:** <span style="color: #645252;font-size:20px">Cuando se despliegan tres unidades de Necrópolis, el Campeón Oscuro aumenta su propia velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se lanza [Misfortune Curse], aparece un </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que dura 15 s. Su dominio se expande a medida que aumenta el nivel de la habilidad. La recarga es de 30 s.</span><span style="color: black">
 
 ## Talent

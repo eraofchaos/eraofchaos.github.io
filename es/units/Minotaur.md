@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /es/units/Minotaur/
 excerpt: "Unidades El oscuro laberinto oculta a una fuerte criatura. Su enorme hacha corta en pedazos a cualquier enemigo extraviado."
 unitID: 705
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Minotauro"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
-### 1 Skill: Torbellino
+### Habilidad definitiva: Torbellino
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Minotauros inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a tres unidades hostiles aleatorias en una zona grande y reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> la velocidad de ataque durante 6 s.</span><span style="color: black">
 
-### 2 Skill: Ferocidad avanzada
+### Habilidad normal 1 : Ferocidad avanzada
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ del Minotauro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px"> extra. Los ataques normales causan <span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 6 s.</span><span style="color: black">
 
-### 3 Skill: Físico del rompehechizos
+### Habilidad normal 2 : Físico del rompehechizos
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica y la reducción de daño de la unidad de Minotauros un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante los siguientes 10 s. Este efecto se duplica cada vez que un Héroe hostil lanza un hechizo.</span><span style="color: black">
 
-### 4 Skill: Decisión táctica
+### Habilidad normal 3 : Decisión táctica
  **Description:** <span style="color: #645252;font-size:20px">Cuando recibe daño de unidades de uno o cuatro, la defensa aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando ataca a una unidad de 9 hombres, el golpe crítico aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

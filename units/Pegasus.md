@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Units Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Pegasus"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
 ## Skills
-### 1 Skill: Forest Guardian
+### Ultimate Skill: Forest Guardian
  **Description:** <span style="color: #645252;font-size:20px">When Pegasus dies, it summons another Pegasus to keep fighting. The summoned Pegasus has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, and exists throughout the entire battle.</span><span style="color: black">
 
-### 2 Skill: Razor-sharp
+### Regular Skill 1 : Razor-sharp
  **Description:** <span style="color: #645252;font-size:20px">Pegasus' ATK speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target unit </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleed\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### 3 Skill: Vitality Protection
+### Regular Skill 2 : Vitality Protection
  **Description:** <span style="color: #645252;font-size:20px">Pegasus creates a </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly units within a large range that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### 4 Skill: Cavalry of Silver Wings
+### Regular Skill 3 : Cavalry of Silver Wings
  **Description:** <span style="color: #645252;font-size:20px">Pegasus and the summoned Pegasus' ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Calm Proliferation
+### Faction Special Skill I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Hatred Mark
+### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent

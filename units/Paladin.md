@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Units Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Paladin"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
 ## Skills
-### 1 Skill: null
+### Ultimate Skill: null
  **Description:** 
 
-### 2 Skill: Leadership
+### Regular Skill 1 : Leadership
  **Description:** <span style="color: #645252;font-size:20px">Paladin unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if under </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect.</span><span style="color: black">
 
-### 3 Skill: Incentive
+### Regular Skill 2 : Incentive
  **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Low Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Paladin gives himself and friendly units within a large range </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and 500 Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 4 Skill: Innocent Domain
+### Regular Skill 3 : Innocent Domain
  **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases all friendly units' damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when the Paladin is on the battlefield.</span><span style="color: black">
 
-### 5 Skill: Siege Combat
+### Faction Special Skill I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Defense Resonance
+### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Unknown_TEAM_407"
 permalink: /ru/units/Behemoth/
 excerpt: "Отряды null"
 unitID: 407
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_407"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
-### 1 Skill: Дикий рев
+### Совершенное умение: Дикий рев
  **Description:** <span style="color: #645252;font-size:20px">Чудища наносят урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК окружающим врагам в широком радиусе, </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушая</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 6 сек., снижая их атаку на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в течение 20 сек. </span><span style="color: black">
 
-### 2 Skill: Разрывание когтями
+### Обычное умение 1 : Разрывание когтями
  **Description:** <span style="color: #645252;font-size:20px">Чудища наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели каждые 20 сек. и вызывают у нее </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### 3 Skill: Буйство
+### Обычное умение 2 : Буйство
  **Description:** <span style="color: #645252;font-size:20px">Чудища получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к сопротивлению урону. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### 4 Skill: Бешенство
+### Обычное умение 3 : Бешенство
  **Description:** <span style="color: #645252;font-size:20px">За гибель каждого вражеского отряда чудища восстанавливают ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ и получают +10% к урону отряда на 10 сек. </span><span style="color: black">
 
-### 5 Skill: Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### 6 Skill: Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent

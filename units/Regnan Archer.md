@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
 ## Skills
-### 1 Skill: Deadly Arrow
+### Ultimate Skill: Deadly Arrow
  **Description:** <span style="color: #645252;font-size:20px">Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP if a Crit Hit is landed. Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units on the same path every 5s, and decreases their DEF by 10% for 15s, up to 3 stacks</span><span style="color: black">
 
-### 2 Skill: Tactics Training
+### Regular Skill 1 : Tactics Training
  **Description:** <span style="color: #645252;font-size:20px">Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> when any unit is downed on the battlefield. The effect can be stacked up to 4 times. Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and is guaranteed to deal a Crit Hit when its HP is less than 30%. This effect lasts for 7s and can only be triggered once</span><span style="color: black">
 
-### 3 Skill: Tidal Giant Crossbow
+### Regular Skill 2 : Tidal Giant Crossbow
  **Description:** <span style="color: #645252;font-size:20px">Regnan Archer's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. At the beginning of battle, deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and additional damage equal to 25% of Max HP to 2 random units while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slowing&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 8s</span><span style="color: black">
 
-### 4 Skill: Shooting Support
+### Regular Skill 3 : Shooting Support
  **Description:** <span style="color: #645252;font-size:20px">Attacks the hostile unit with the lowest HP percentage, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and decreasing the target's DEF by 30%</span><span style="color: black">
 
-### 5 Skill: Calm Body
+### Faction Special Skill I : Calm Body
  **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
-### 6 Skill: Pirate Conflict
+### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

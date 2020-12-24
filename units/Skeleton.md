@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Units These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Skeleton"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
-### 1 Skill: Bone Shield
+### Ultimate Skill: Bone Shield
  **Description:** <span style="color: #645252;font-size:20px">The Skeleton generates a bone shield for itself when its HP falls below 50% for the first time. The shield decreases unit damage taken by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s.</span><span style="color: black">
 
-### 2 Skill: Bone Thorn
+### Regular Skill 1 : Bone Thorn
  **Description:** <span style="color: #645252;font-size:20px">Skeleton reflects </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of damage taken.</span><span style="color: black">
 
-### 3 Skill: Turn to Stone
+### Regular Skill 2 : Turn to Stone
  **Description:** <span style="color: #645252;font-size:20px">Skeleton's HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ,and damage reflection increased by 10%.</span><span style="color: black">
 
-### 4 Skill: Rib Cage
+### Regular Skill 3 : Rib Cage
  **Description:** <span style="color: #645252;font-size:20px">Skeletons are immune to</span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and damage taken from Ranged units is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Dismal Defense
+### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
-### 6 Skill: Spell Harmony
+### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent

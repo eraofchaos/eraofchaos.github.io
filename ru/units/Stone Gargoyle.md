@@ -3,7 +3,7 @@ title: "Unknown_TEAM_602"
 permalink: /ru/units/Stone Gargoyle/
 excerpt: "Отряды Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов."
 unitID: 602
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_602"
 toc: true
@@ -22,8 +22,6 @@ toc: true
  **Members:** x9
 
  **Rank:** SR
-
- **Unit description:** null
 
  **Recommend:** Воин, маг и священник хорошо работают в команде.
 
@@ -61,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
-### 1 Skill: Каменное обличье
+### Совершенное умение: Каменное обличье
  **Description:** <span style="color: #645252;font-size:20px">Каменные горгульи приобретают &lt;Каменное обличье&gt; на 10 сек. каждые 20 сек. На это время они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### 2 Skill: Высокое подавление
+### Обычное умение 1 : Высокое подавление
  **Description:** <span style="color: #645252;font-size:20px">В бою с отрядом, не умеющим летать, каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
-### 3 Skill: Острый коготь
+### Обычное умение 2 : Острый коготь
  **Description:** <span style="color: #645252;font-size:20px">Каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к пробиванию защиты. Для оборонительных отрядов эффект удваивается.</span><span style="color: black">
 
-### 4 Skill: Каменное подкрепление
+### Обычное умение 3 : Каменное подкрепление
  **Description:** <span style="color: #645252;font-size:20px">Когда каменные горгульи находятся в &lt;Каменном обличье&gt;, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
@@ -96,7 +94,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

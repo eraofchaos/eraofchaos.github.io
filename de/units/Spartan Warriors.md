@@ -3,7 +3,7 @@ title: "Spartaner"
 permalink: /de/units/Spartan Warriors/
 excerpt: "Einheiten Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Spartaner"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Schildhieb
+### Gewöhnliche Fähigkeit 1 : Schildhieb
  **Description:** <span style="color: #645252;font-size:20px">Die Spartaner schlagen mit ihrem Schild auf ihre Gegner ein und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäuben&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">gegnerische Einheiten in großem Umkreis 5 Sek. lang. Die nächsten 10 Sek. steigt ihr eigener Einscheitenschaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr ANG-Tempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %. </span><span style="color: black"><span style="color: #645252;font-size:20px">AKZ 20 Sek.</span><span style="color: black">
 
-### 3 Skill: Erbe der Spartaner
+### Gewöhnliche Fähigkeit 2 : Erbe der Spartaner
  **Description:** <span style="color: #645252;font-size:20px">Wenn die Spartaner 5 % ihrer LP verlieren, steigen ihre Abwehr um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0,2+1} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriff um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ihre LP das erste Mal auf 50 % sinken, steigen für den Rest des Kampfes ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Thermopylen
+### Gewöhnliche Fähigkeit 3 : Thermopylen
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Spartaner stirbt, erhöht sein Tod den Einheitenschaden und die Schadensreduzierung der verbleibenden Spartaner um 6 %. Die Spartaner stoßen alle 20 Sek. einen Kriegsruf aus, der andere verbündete Einheiten inspiriert und ihr ANG-Tempo 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
-### 5 Skill: Bewaffneter Konflikt
+### Fraktions-Spezialfähigkeit I : Bewaffneter Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Neutrale Einheiten sind schlachterprobt. Beim Kampf gegen nicht-neutrale Einheiten </span><span style="color: black"><span style="color: #645252;font-size:20px">erhöht sich ihr SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %.</span><span style="color: black">
 
-### 6 Skill: Courage-Verstärkung
+### Fraktions-Spezialfähigkeit II : Courage-Verstärkung
  **Description:** <span style="color: #645252;font-size:20px">Neutrale Einheiten können sie großer Kraft widersetzen. Jedes Mal, wenn sie 10 % ihrer LP verlieren, </span><span style="color: black"><span style="color: #645252;font-size:20px">erhöht sich ihre Abwehr um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %.</span><span style="color: black">
 
 ## Talent

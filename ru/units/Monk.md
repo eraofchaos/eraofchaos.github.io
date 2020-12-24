@@ -3,7 +3,7 @@ title: "Монах"
 permalink: /ru/units/Monk/
 excerpt: "Отряды Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения."
 unitID: 105
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Монах"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Молитва
+### Совершенное умение: Молитва
  **Description:** <span style="color: #645252;font-size:20px">Монахи восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ у союзного отряда с самым низким процентом ОЗ каждые 17 сек.</span><span style="color: black">
 
-### 2 Skill: Благословения отважного
+### Обычное умение 1 : Благословения отважного
  **Description:** <span style="color: #645252;font-size:20px">После начала боя монахи наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Когда монахи на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости восстановления заклинаний.</span><span style="color: black">
 
-### 4 Skill: Восстановление
+### Обычное умение 3 : Восстановление
  **Description:** <span style="color: #645252;font-size:20px">Монахи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 50%.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /it/units/Genie/
 excerpt: "Unità Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Genio"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
 ## Skills
-### 1 Skill: Dono magico
+### Tecnica suprema: Dono magico
  **Description:** <span style="color: #645252;font-size:20px">Quando l'attacco del Genio usa la tecnica curativa, ripristina i PF dell'unità alleata con la minore percentuale di PF di una quantità pari all'80% dell'ATT del Genio. Cure del Genio aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 2 Skill: Tre desideri
+### Tecnica normale 1 : Tre desideri
  **Description:** <span style="color: #645252;font-size:20px">Quando un Genio entra in battaglia, benedice 3 unità alleate casuali applicando 1 dei seguenti effetti: Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) o Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Nucleo magico
+### Tecnica normale 2 : Nucleo magico
  **Description:** <span style="color: #645252;font-size:20px">Il Genio gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), resistenza magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Risveglio magico
+### Tecnica normale 3 : Risveglio magico
  **Description:** <span style="color: #645252;font-size:20px">Se il Genio è potenziato dall'incantesimo di supporto di un eroe alleato, ripristina </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi all'unità con la minore percentuale di PF.</span><span style="color: black">
 
-### 5 Skill: Mente lucida
+### Tecnica speciale fazione I : Mente lucida
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Esplosione di Energia
+### Tecnica speciale fazione II : Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

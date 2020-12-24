@@ -3,7 +3,7 @@ title: "Domatore di lupi"
 permalink: /it/units/Wolf Rider/
 excerpt: "Unità I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Domatore di lupi"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
-### 1 Skill: Compagno animale
+### Tecnica suprema: Compagno animale
  **Description:** <span style="color: #645252;font-size:20px">Quando viene sconfitto, un Domatore di lupi richiama 1 Warg sul campo di battaglia. Il Warg evocato ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF e dura fino al termine della battaglia.</span><span style="color: black">
 
-### 2 Skill: Colpo doppio
+### Tecnica normale 1 : Colpo doppio
  **Description:** <span style="color: #645252;font-size:20px">Il Domatore di lupi ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Raptus
+### Tecnica normale 2 : Raptus
  **Description:** <span style="color: #645252;font-size:20px">CRIT del Domatore di lupi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
-### 4 Skill: Sete di sangue
+### Tecnica normale 3 : Sete di sangue
  **Description:** <span style="color: #645252;font-size:20px">PF del Domatore di lupi aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I colpi critici ripristinano il 2% dei PF.</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

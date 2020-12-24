@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /fr/units/Judicator/
 excerpt: "Unités Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Adjudicatrice"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
-### 1 Skill: Rayon du jugement
+### Capacité ultime: Rayon du jugement
  **Description:** <span style="color: #645252;font-size:20px">L'Adjudicatrice invoque deux Rayons du jugement toutes les 25 secondes. Quand les rayons apparaissent, ils <span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"> les ennemis à portée pendant 1 seconde, infligent une quantité de dégâts égale à <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)} %</span><span style="color: black"> des PV max de l'unité, et diminuent les soins des ennemis de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"> pendant 8 secondes.</span><span style="color: black">
 
-### 2 Skill: Bénédiction
+### Compétence normale 1 : Bénédiction
  **Description:** <span style="color: #645252;font-size:20px">Au début d'un combat, l'Adjudicatrice confère <span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"> à tous les alliés pendant 10 secondes. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">L'Adjudicatrice confère </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à tous les alliés sur son chemin toutes les <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> secondes. Cet effet dure 10 secondes.</span><span style="color: black">
 
-### 3 Skill: Bénédiction de lumière
+### Compétence normale 2 : Bénédiction de lumière
  **Description:** <span style="color: #645252;font-size:20px">Quand les PV d'une unité alliée sont réduits à moins de 25 % pour la première fois, l'Adjudicatrice lance <span style="color: #48b946;font-size:20px">&lt;Abri de lumière&gt;</span><span style="color: black"> pour protéger ses compagnons pendant <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> secondes. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quand elle combat des unités de l'Hadès, les dégâts infligés par l'Adjudicatrice augmentent de 30 %, et sa résistance aux dégâts de 50 %.</span><span style="color: black">
 
-### 4 Skill: null
+### Compétence normale 3 : null
  **Description:** 
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
-### 7 Skill: Halo de théocratie
+### Compétence normale 6 : Halo de théocratie
  **Description:** <span style="color: #645252;font-size:20px">Quand trois unités du Château sont déployées, les dégâts infligés par l'Adjudicatrice augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quand l'Adjudicatrice est en <span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black">, elle peut révéler un <span style="color: #F0F000;font-size:20px">&lt;Domaine théocratique&gt;</span><span style="color: black">, qui s'élargit au fur et à mesure que le niveau des compétences de l'unité augmente. Le domaine existe pendant 15 secondes, et a un temps de recharge de 30 secondes.</span><span style="color: black">
 
 ## Talent

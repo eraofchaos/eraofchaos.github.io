@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /fr/units/Gog/
 excerpt: "Unités Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Gog"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
-### 1 Skill: Mur de flammes
+### Capacité ultime: Mur de flammes
  **Description:** <span style="color: #645252;font-size:20px">La Gog crée un mur de flammes devant elle et inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies autour. Le mur de flammes dure 8 secondes.</span><span style="color: black">
 
-### 2 Skill: Explosion enflammée
+### Compétence normale 1 : Explosion enflammée
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Gogs a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à 3 cibles et de les </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;brûler&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
-### 3 Skill: Incinération
+### Compétence normale 2 : Incinération
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ de la Gog augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Fantôme de feu
+### Compétence normale 3 : Fantôme de feu
  **Description:** <span style="color: #645252;font-size:20px">Les PV de la Gog augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la résistance aux dégâts causés par le feu de 40 %.</span><span style="color: black">
 
-### 5 Skill: Frappe brûlante
+### Compétence spéciale de faction I : Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
-### 6 Skill: Résonance magique
+### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

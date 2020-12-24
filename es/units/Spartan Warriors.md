@@ -3,7 +3,7 @@ title: "Guerreros espartanos"
 permalink: /es/units/Spartan Warriors/
 excerpt: "Unidades ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Guerreros espartanos"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: null
+### Habilidad definitiva: null
  **Description:** 
 
-### 2 Skill: Golpe de Escudo
+### Habilidad normal 1 : Golpe de Escudo
  **Description:** <span style="color: #645252;font-size:20px">Los Guerreros Espartanos embisten con su escudo al adversario, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdiendo&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">a las unidades enemigas en una zona grande delante de ellas durante 5 s. Después, aumentan su propio daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% durante los próximos 10 s. </span><span style="color: black"><span style="color: #645252;font-size:20px">La recarga es de 20 s.</span><span style="color: black">
 
-### 3 Skill: Linaje Espartano
+### Habilidad normal 2 : Linaje Espartano
  **Description:** <span style="color: #645252;font-size:20px">Cuando una unidad espartana pierde el 5% de sus PV, su propia defensa aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando los PV se reducen al 50% por primera vez, su velocidad de ataque aumenta en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de unidad aumenta en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante el resto del combate.</span><span style="color: black">
 
-### 4 Skill: Termópilas
+### Habilidad normal 3 : Termópilas
  **Description:** <span style="color: #645252;font-size:20px">Cuando muere un Guerrero Espartano, la muerte aumenta el daño de unidad y la reducción de daño de la unidad del resto de Guerreros Espartanos un 6%. Los Guerreros Espartanos emitirán un grito de guerra cada 20 s para inspirar a otras unidades amistosas, aumentando su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px">durante 10 s.</span><span style="color: black">
 
-### 5 Skill: Conflicto armado
+### Habilidad especial de la facción I : Conflicto armado
  **Description:** <span style="color: #645252;font-size:20px">Las unidades neutrales son una fuerza competente. Al luchar contra unidades neutrales, su </span><span style="color: black"><span style="color: #645252;font-size:20px">daño de unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%.</span><span style="color: black">
 
-### 6 Skill: Potenciador de coraje
+### Habilidad especial de la facción II : Potenciador de coraje
  **Description:** <span style="color: #645252;font-size:20px">Las unidades neutrales pueden resistir una gran cantidad de fuerza. Cada vez que pierden el 10% de sus PV, su </span><span style="color: black"><span style="color: #645252;font-size:20px">defensa aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
 
 ## Talent

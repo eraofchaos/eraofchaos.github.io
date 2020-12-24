@@ -3,7 +3,7 @@ title: "Minotaure"
 permalink: /fr/units/Minotaur/
 excerpt: "Unités Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare."
 unitID: 705
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Minotaure"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
-### 1 Skill: Tourbillon
+### Capacité ultime: Tourbillon
  **Description:** <span style="color: #645252;font-size:20px">Le Minotaure inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies dans une large zone et diminue leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
 
-### 2 Skill: Férocité brutale
+### Compétence normale 1 : Férocité brutale
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ du Minotaure augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320} </span><span style="color: black"><span style="color: #645252;font-size:20px"> supplémentaires. Son attaque normale applique un effet de <span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sur la cible pendant 6 secondes.</span><span style="color: black">
 
-### 3 Skill: Physique du briseur de sort
+### Compétence normale 2 : Physique du briseur de sort
  **Description:** <span style="color: #645252;font-size:20px">Augmente la résistance magique du Minotaure et la résistance aux dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant les 10 prochaines secondes. L'effet double chaque fois qu'un Héros ennemi lance un sort.</span><span style="color: black">
 
-### 4 Skill: Choix tactique
+### Compétence normale 3 : Choix tactique
  **Description:** <span style="color: #645252;font-size:20px">Quand il subit des dégâts de la part d'une unité de 1 ou de 4 combattant(s), sa défense augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il attaque une unité de 9 combattants, ses coups critiques augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

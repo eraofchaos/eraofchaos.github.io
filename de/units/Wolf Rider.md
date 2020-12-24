@@ -3,7 +3,7 @@ title: "Wolfsreiter"
 permalink: /de/units/Wolf Rider/
 excerpt: "Einheiten Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
 unitID: 402
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Wolfsreiter"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
-### 1 Skill: Tiergefährte
+### Ultimative Fähigkeit: Tiergefährte
  **Description:** <span style="color: #645252;font-size:20px">Nach seinem Tod beschwört der Wolfsreiter 1 Warg. Warge haben </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP. Sie kämpfen bis zum Ende der Schlacht.</span><span style="color: black">
 
-### 2 Skill: Doppelschlag
+### Gewöhnliche Fähigkeit 1 : Doppelschlag
  **Description:** <span style="color: #645252;font-size:20px">Bei seinem Standardangriff greift der Wolfsreiter mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> zweimal hintereinander an. Der zweite Angriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit auf einen &lt;Doppelschlag&gt; auf 100 %.</span><span style="color: black">
 
-### 3 Skill: Amoklauf
+### Gewöhnliche Fähigkeit 2 : Amoklauf
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Wolfsreiters steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Wolfsreiters unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
-### 4 Skill: Blutdurst
+### Gewöhnliche Fähigkeit 3 : Blutdurst
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Wolfsreiters werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jeder verursachte kritische Treffer stellt 2 % der LP wieder her.</span><span style="color: black">
 
-### 5 Skill: Kampfzelot
+### Fraktions-Spezialfähigkeit I : Kampfzelot
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

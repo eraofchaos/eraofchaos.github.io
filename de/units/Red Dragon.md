@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /de/units/Red Dragon/
 excerpt: "Einheiten Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Roter Drache"
 toc: true
@@ -56,22 +56,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
-### 1 Skill: Tosende Feuersbrunst
+### Ultimative Fähigkeit: Tosende Feuersbrunst
  **Description:** <span style="color: #645252;font-size:20px">Der Rote Drache brüllt alle 15 Sekunden und fügt allen gegnerischen Fernkampf-/Zauberer-Einheiten Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG zu, während er Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG sowie allen gegnerischen Nahkampfeinheiten Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP zufügt und sie mit einem Hasszeichen versieht, das bis zu 4 Mal stapelbar ist. Der zugefügte Schaden durch &lt;Tosende Feuersbrunst&gt; wird mit jedem Hasszeichen auf einer gegnerischen Einheit um 20 % erhöht. Erhöht den SCHD (Einheit) von Roter Drache im Kampf gegen Turm-Einheiten um 50 %.</span><span style="color: black">
 
-### 2 Skill: Brandodem
+### Gewöhnliche Fähigkeit 1 : Brandodem
  **Description:** <span style="color: #645252;font-size:20px">Der Schaden des Roten Drachen wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Standardangriff fügt zusätzlich 2 Einheiten in einem gewissen Radius um das Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu; außerdem erleiden diese Einheiten 8 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Turm-Einheiten wird der Schaden um 50 % erhöht.</span><span style="color: black">
 
-### 3 Skill: Mächtiger Zauberbrecher
+### Gewöhnliche Fähigkeit 2 : Mächtiger Zauberbrecher
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein gegnerischer Held einen Zauber wirkt, zeigt der Rote Drache seine Macht und erhöht bei verbündeten Dungeon-Einheiten – außer Abwehreinheiten – den SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Angriffsgeschwindigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Krit. Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sowie bei verbündeten Dungeon-Abwehr-Einheiten den Schild um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der LP und SCHD-Reduzierung (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt dauert 8 Sekunden an und ist bis zu 2 Mal stapelbar.</span><span style="color: black">
 
-### 4 Skill: Majestät des Drachen
+### Gewöhnliche Fähigkeit 3 : Majestät des Drachen
  **Description:** <span style="color: #645252;font-size:20px">Der Rote Drache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">Verbrennung</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Blutung</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">Seuche</span><span style="color: black"><span style="color: #645252;font-size:20px">. Solange sich der Rote Drache auf dem Schlachtfeld befindet, wird die gegnerische Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Dieser Effekt wird gegen Turm-Einheiten verdoppelt. Wenn der Rote Drache &lt;Tosende Feuersbrunst&gt; wirkt, wird mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> &lt;Resonanz des Drachen&gt; gewirkt, bei der Drachen-Einheiten eine weitere vorgegebene Nicht-Erwachen-Fähigkeit wirken (Grüner Drache/Goldener Drache: &lt;Verstärkung aus der Luft&gt;; Knochendrache/Geisterdrache: &lt;Angst&gt;; Hydra: &lt;Chaosnebel&gt;; Schwarzer Drache/Schwarzer Drachenkönig: &lt;Drachenodem&gt;; Wyvern/Wyvernkönig: &lt;Wildes Miasma&gt;; Drachenschildkröte: &lt;Schutzwall der Wellen&gt;).</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

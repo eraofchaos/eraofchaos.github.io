@@ -3,7 +3,7 @@ title: "Gnomo"
 permalink: /it/units/Dwarf/
 excerpt: "Unità Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
 unitID: 202
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Gnomo"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.4 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: Urlo dello Gnomo
+### Tecnica suprema: Urlo dello Gnomo
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, gli Gnomi aumentano PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+15.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le unità alleate in un'ampia area. L'effetto dura fino al termine della battaglia.</span><span style="color: black">
 
-### 2 Skill: Urto
+### Tecnica normale 1 : Urto
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base dello Gnomo ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli per 2 sec.</span><span style="color: black">
 
-### 3 Skill: Grido furibondo
+### Tecnica normale 2 : Grido furibondo
  **Description:** <span style="color: #645252;font-size:20px">&lt;Urlo dello Gnomo&gt; aumenta PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+3.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) dell'unità.</span><span style="color: black">
 
-### 4 Skill: Resistenza magica
+### Tecnica normale 3 : Resistenza magica
  **Description:** <span style="color: #645252;font-size:20px">Gli Gnomi offrono protezione alle tue unità, aumentandone la resistenza magica del 30% per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 5 Skill: Proliferazione pacifica
+### Tecnica speciale fazione I : Proliferazione pacifica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Marchio dell'odio
+### Tecnica speciale fazione II : Marchio dell'odio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
 
 ## Talent

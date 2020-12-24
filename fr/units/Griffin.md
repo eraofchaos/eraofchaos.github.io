@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /fr/units/Griffin/
 excerpt: "Unités Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Griffon"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
 ## Skills
-### 1 Skill: Contre-attaque en piqué
+### Capacité ultime: Contre-attaque en piqué
  **Description:** <span style="color: #645252;font-size:20px">Quand les Griffons se font attaquer, ils ont une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à 3 unités (les attaques normales ont également une chance de déclencher Plongeon).</span><span style="color: black">
 
-### 2 Skill: Tour de commandement
+### Compétence normale 1 : Tour de commandement
  **Description:** <span style="color: #645252;font-size:20px">Quand les Griffons sont sur le champ de bataille, l'ATQ de toutes vos autres unités volantes augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leur vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Charge glorieuse
+### Compétence normale 2 : Charge glorieuse
  **Description:** <span style="color: #645252;font-size:20px">Quand les Griffons sont en </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ils gagnent 30 en vitesse de déplacement. Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
-### 4 Skill: Archange
+### Compétence normale 3 : Archange
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Griffon augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Octroie au Griffon 10 % de PV supplémentaires pour chaque unité alliée volante sur le champ de bataille.</span><span style="color: black">
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

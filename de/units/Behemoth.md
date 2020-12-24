@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /de/units/Behemoth/
 excerpt: "Einheiten Behemoths gehören zu den wenigen urtümlichen Kreaturen, die noch aus der Zeit vor den Drachen stammen. Ihre gewaltigen Leiber sind immun gegen die Angriffe ihrer Feinde."
 unitID: 407
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Behemoth"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
-### 1 Skill: Wildes Brüllen
+### Ultimative Fähigkeit: Wildes Brüllen
  **Description:** <span style="color: #645252;font-size:20px">Der Behemoth fügt gegnerischen Einheiten in der Umgebung in großem Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seines Angriffs als Schaden zu und</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;betäubt&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">sie 6 Sek. lang; außerdem sinkt 20 Sek. lang der Angriff der Ziele um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> sowie die Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Scharfe Krallenhiebe
+### Gewöhnliche Fähigkeit 1 : Scharfe Krallenhiebe
  **Description:** <span style="color: #645252;font-size:20px">Der Behemoth fügt seinem Ziel alle 20 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Amoklauf
+### Gewöhnliche Fähigkeit 2 : Amoklauf
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Behemoth steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Behemoth unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
-### 4 Skill: Erzürnen
+### Gewöhnliche Fähigkeit 3 : Erzürnen
  **Description:** <span style="color: #645252;font-size:20px">Für jede gegnerische Einheit, die stirbt, regeneriert der Behemoth </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP, und seine Schadensreduzierung von Einheiten steigt 10 Sek. lang um 10 %.</span><span style="color: black">
 
-### 5 Skill: Kampfzelot
+### Fraktions-Spezialfähigkeit I : Kampfzelot
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

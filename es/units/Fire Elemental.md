@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /es/units/Fire Elemental/
 excerpt: "Unidades Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Elemental de Fuego"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
-### 1 Skill: Fuego divino
+### Habilidad definitiva: Fuego divino
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Elementales de Fuego inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a una unidad hostil y la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quema&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
-### 2 Skill: null
+### Habilidad normal 1 : null
  **Description:** 
 
-### 3 Skill: Fuerza elemental
+### Habilidad normal 2 : Fuerza elemental
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Elementales de Fuego en el campo de batalla, esta aumenta la resistencia mágica contra hechizos de fuego de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la resistencia mágica contra hechizos de fuego de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay un Elemental de Fuego en el campo de batalla, la regeneración de maná del Héroe enemigo se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Conductor de energía de fuego
+### Habilidad normal 3 : Conductor de energía de fuego
  **Description:** <span style="color: #645252;font-size:20px">El Elemental de Fuego restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos cuando derrota a una unidad enemiga y aumenta su ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
 
-### 5 Skill: Afinidad elemental
+### Habilidad especial de la facción I : Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflicto elemental
+### Habilidad especial de la facción II : Conflicto elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

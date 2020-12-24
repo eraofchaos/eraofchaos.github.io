@@ -3,7 +3,7 @@ title: "Elemental Psíquico"
 permalink: /es/units/Psychic Elemental/
 excerpt: "Unidades Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Elemental Psíquico"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
-### 1 Skill: Estallido de energía
+### Habilidad definitiva: Estallido de energía
  **Description:** <span style="color: #645252;font-size:20px">Los Elementales Psíquicos son inmunes al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada Elemental Psíquico ataca a 3 unidades hostiles de la unidad objetivo cada 4 s e inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ATQ.</span><span style="color: black">
 
-### 2 Skill: Tierra
+### Habilidad normal 1 : Tierra
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Elementales Psíquicos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El &lt;Estallido de Energía&gt; de los Elementales Psíquicos tiene un 30% de probabilidades de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante 3 s.</span><span style="color: black">
 
-### 3 Skill: Fuego
+### Habilidad normal 2 : Fuego
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Elementales Psíquicos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El &lt;Estallido de Energía&gt; de los Elementales Psíquicos tiene un 30% de probabilidades de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quemar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 6 s.</span><span style="color: black">
 
-### 4 Skill: Señor de los elementos
+### Habilidad normal 3 : Señor de los elementos
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica del Elemental Psíquico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se derrota a un Elemental Psíquico, el maná de los Héroes enemigos se reduce en 20.</span><span style="color: black">
 
-### 5 Skill: Afinidad elemental
+### Habilidad especial de la facción I : Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflicto elemental
+### Habilidad especial de la facción II : Conflicto elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

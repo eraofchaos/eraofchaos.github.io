@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /de/units/Gorgon/
 excerpt: "Einheiten Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Gorgone"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Sumpf-Overlord
+### Gewöhnliche Fähigkeit 1 : Sumpf-Overlord
  **Description:** <span style="color: #645252;font-size:20px">Die ABW der Gorgone wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ihre Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Schaden, den die Gorgone durch einen einzelnen Angriff erleidet, 15 % ihrer max. LP übersteigt, wird sie immun gegen den Schaden, der diese 15 % übersteigt.</span><span style="color: black">
 
-### 3 Skill: Seuchensymbiose
+### Gewöhnliche Fähigkeit 2 : Seuchensymbiose
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung der Gorgone wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Wilder Fluch
+### Gewöhnliche Fähigkeit 3 : Wilder Fluch
  **Description:** <span style="color: #645252;font-size:20px">Senkt Kritischer Treffer von benachbarten gegnerischen Einheiten der Gorgone um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

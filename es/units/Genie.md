@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /es/units/Genie/
 excerpt: "Unidades Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Genio"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
 ## Skills
-### 1 Skill: Obsequio hechizado
+### Habilidad definitiva: Obsequio hechizado
  **Description:** <span style="color: #645252;font-size:20px">Cuando los ataques de la Genio cambian a curación, restauran PV igual al 80% del ATQ de la Genio a la unidad amistosa con el porcentaje de PV más bajo. La curación de la Genio aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Tres deseos
+### Habilidad normal 1 : Tres deseos
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Genios en el campo de batalla, esta bendecirá a tres unidades amistosas aleatorias, lo que les concede uno de los siguientes efectos: un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de reducción de daño de la unidad, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño o un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> velocidad de ataque.</span><span style="color: black">
 
-### 3 Skill: Pabilo mágico
+### Habilidad normal 2 : Pabilo mágico
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV de la Genio un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Despertar mágico
+### Habilidad normal 3 : Despertar mágico
  **Description:** <span style="color: #645252;font-size:20px">Cuando la unidad de Genio está amplificada por un hechizo de apoyo de un Héroe amistoso, restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a la unidad con el porcentaje de PV más bajo.</span><span style="color: black">
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

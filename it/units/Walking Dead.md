@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /it/units/Walking Dead/
 excerpt: "Unità Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Morto vivente"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
-### 1 Skill: Gas velenoso
+### Tecnica suprema: Gas velenoso
  **Description:** <span style="color: #645252;font-size:20px">I Morti viventi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 2 secondi a tutte le unità nemiche circostanti. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
-### 2 Skill: Contagio
+### Tecnica normale 1 : Contagio
  **Description:** <span style="color: #645252;font-size:20px">Il &lt;Gas velenoso&gt; dei Morti viventi riduce l'ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) del bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallenta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Esplosivo
+### Tecnica normale 2 : Esplosivo
  **Description:** <span style="color: #645252;font-size:20px">Quando i Morti viventi vengono sconfitti, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area per 8 secondi. Se i bersagli sono affetti da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
-### 4 Skill: Barricata di cadaveri
+### Tecnica normale 3 : Barricata di cadaveri
  **Description:** <span style="color: #645252;font-size:20px">La Rid DAN dei Morti viventi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Difesa funerea
+### Tecnica speciale fazione I : Difesa funerea
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Armonia magica
+### Tecnica speciale fazione II : Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent

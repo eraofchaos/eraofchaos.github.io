@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /de/units/Naga/
 excerpt: "Einheiten Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Naga"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
-### 1 Skill: Klingentanz
+### Ultimative Fähigkeit: Klingentanz
  **Description:** <span style="color: #645252;font-size:20px">Die Naga fügt 3 zufälligen gegnerischen Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre ABW 10 Sek. lang um 10 %. Bis zu 4 Stapel.</span><span style="color: black">
 
-### 2 Skill: Grausamkeit
+### Gewöhnliche Fähigkeit 1 : Grausamkeit
  **Description:** <span style="color: #645252;font-size:20px">Der Angriff der Naga trifft immer. Erhöht den Lebensentzug der Naga um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Je weniger LP das Ziel hat, desto mehr Schaden erleidet es, bis hin zu einem Schadensbonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Klingenkönigin
+### Gewöhnliche Fähigkeit 2 : Klingenkönigin
  **Description:** <span style="color: #645252;font-size:20px">Solange sich eine Naga auf dem Schlachtfeld befindet, steigt Kritischer Treffer aller verbündeten Offensiv-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gleichzeitig steigt Kritischer Treffer der Naga um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Magisches Erwachen
+### Gewöhnliche Fähigkeit 3 : Magisches Erwachen
  **Description:** <span style="color: #645252;font-size:20px">Wenn eine Naga durch den Hilfszauber eines verbündeten Helden verbessert wird, wirkt sie &lt;Klingentanz&gt; auf das Ziel, das dadurch </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden erleidet und 10 Sek. lang 10 % ABW verliert. Bis zu 4 Mal stapelbar.</span><span style="color: black">
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

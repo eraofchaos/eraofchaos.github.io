@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Forteresse -  Units"
 permalink: /fr/units/Fraction Forteresse/
 excerpt: "Fraction Forteresse - List of Units in Era of Chaos"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Fraction Forteresse"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Battle Formation](/Battle Formation/Battle Formation Fraction Forteresse)
 
- [Château](/fr/units/Fraction Château){: .btn .btn--primary} [Rempart](/fr/units/Fraction Rempart){: .btn .btn--success} [Forteresse](/fr/units/Fraction Forteresse){: .btn .btn--warning} [Conflux](/fr/units/Fraction Conflux){: .btn .btn--danger} [Bastion](/fr/units/Fraction Bastion){: .btn .btn--info} [Hadès](/fr/units/Fraction Hadès){: .btn .btn--primary} [Crique](/fr/units/Fraction Crique){: .btn .btn--success} [Nécropole](/fr/units/Fraction Nécropole){: .btn .btn--warning} [Armée neutre](/fr/units/Fraction Armée neutre){: .btn .btn--danger} [Tour](/fr/units/Fraction Tour){: .btn .btn--info} [Donjon](/fr/units/Fraction Donjon){: .btn .btn--primary} 
+ [Nécropole](/fr/units/Fraction Nécropole){: .btn .btn--primary} [Rempart](/fr/units/Fraction Rempart){: .btn .btn--success} [Forteresse](/fr/units/Fraction Forteresse){: .btn .btn--warning} [Conflux](/fr/units/Fraction Conflux){: .btn .btn--danger} [Hadès](/fr/units/Fraction Hadès){: .btn .btn--info} [Château](/fr/units/Fraction Château){: .btn .btn--primary} [Bastion](/fr/units/Fraction Bastion){: .btn .btn--success} [Crique](/fr/units/Fraction Crique){: .btn .btn--warning} [Armée neutre](/fr/units/Fraction Armée neutre){: .btn .btn--danger} [Tour](/fr/units/Fraction Tour){: .btn .btn--info} [Donjon](/fr/units/Fraction Donjon){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|

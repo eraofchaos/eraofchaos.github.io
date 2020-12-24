@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Units They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Druid"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
-### 1 Skill: Call of the Forest
+### Ultimate Skill: Call of the Forest
  **Description:** <span style="color: #645252;font-size:20px">After entering battle, the Druid summons a magic circle that lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. All friendly units standing in the circle are immune to spell damage.</span><span style="color: black">
 
-### 2 Skill: Outgrowing
+### Regular Skill 1 : Outgrowing
  **Description:** <span style="color: #645252;font-size:20px">Increased Druid's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Blessing of Life
+### Regular Skill 2 : Blessing of Life
  **Description:** <span style="color: #645252;font-size:20px">The Druid unit randomly generates </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 4 friendly units in the front row every 30s that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### 4 Skill: Heart of Nature
+### Regular Skill 3 : Heart of Nature
  **Description:** <span style="color: #645252;font-size:20px">Druid units bless friendly units within a large area every 25s, increasing their Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. The bonus doubles when the Druid casts it for the first time.</span><span style="color: black">
 
-### 5 Skill: Calm Proliferation
+### Faction Special Skill I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Hatred Mark
+### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent

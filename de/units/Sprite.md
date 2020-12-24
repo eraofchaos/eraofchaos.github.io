@@ -3,7 +3,7 @@ title: "Pixie"
 permalink: /de/units/Sprite/
 excerpt: "Einheiten Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Pixie"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
 ## Skills
-### 1 Skill: Energiebruch
+### Ultimative Fähigkeit: Energiebruch
  **Description:** <span style="color: #645252;font-size:20px">Wenn eine Pixie-Einheit stirbt, verursacht sie Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP seines Ziels (bis zu 1.000 % des ANG des Pixies).</span><span style="color: black">
 
-### 2 Skill: Koboldsegen
+### Gewöhnliche Fähigkeit 1 : Koboldsegen
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Pixie-Einheit die Magieresistenz aller verbündeten Einheiten in ihrem Weg um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt wird für die Pixie-Einheit verdoppelt.</span><span style="color: black">
 
-### 3 Skill: Inspiration
+### Gewöhnliche Fähigkeit 2 : Inspiration
  **Description:** <span style="color: #645252;font-size:20px">Solange eine Pixie-Einheit auf dem Schlachtfeld ist, erhöht sie das Anfangsmana verbündeter Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+0.2}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Hingabe
+### Gewöhnliche Fähigkeit 3 : Hingabe
  **Description:** <span style="color: #645252;font-size:20px">Wenn eine Pixie-Einheit getötet wird, lässt sie die Zieleinheit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.15+1.85}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verstummen“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Elementare Affinität
+### Fraktions-Spezialfähigkeit I : Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Offensive Elemente
+### Fraktions-Spezialfähigkeit II : Offensive Elemente
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

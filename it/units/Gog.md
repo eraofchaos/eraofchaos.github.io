@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /it/units/Gog/
 excerpt: "Unità I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Gog"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
 ## Skills
-### 1 Skill: Muro di fuoco
+### Tecnica suprema: Muro di fuoco
  **Description:** <span style="color: #645252;font-size:20px">La Gog circonda le unità nemiche con un muro di fiamme infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni. Il muro di fuoco dura 8 secondi.</span><span style="color: black">
 
-### 2 Skill: Esplosione fiammeggiante
+### Tecnica normale 1 : Esplosione fiammeggiante
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base della Gog ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 bersagli e causare </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
-### 3 Skill: Incenerimento
+### Tecnica normale 2 : Incenerimento
  **Description:** <span style="color: #645252;font-size:20px">ATT della Gog aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Spirito infuocato
+### Tecnica normale 3 : Spirito infuocato
  **Description:** <span style="color: #645252;font-size:20px">PF della Gog aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Rid DAN degli incantesimi del Fuoco aumentata del 40%.</span><span style="color: black">
 
-### 5 Skill: Attacco ustionante
+### Tecnica speciale fazione I : Attacco ustionante
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero anti-incantesimo
+### Tecnica speciale fazione II : Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

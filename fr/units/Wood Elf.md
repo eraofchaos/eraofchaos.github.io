@@ -3,7 +3,7 @@ title: "Elfe sylvaine"
 permalink: /fr/units/Wood Elf/
 excerpt: "Unités Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches."
 unitID: 203
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Elfe sylvaine"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Double frappe
+### Compétence normale 1 : Double frappe
  **Description:** <span style="color: #645252;font-size:20px">Les Elfes sylvaines ont </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chance de tirer 2 flèches lors d'une attaque normale. La 2e flèche inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible. Quand elles affrontent des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, les chances de déclencher &lt;Double frappe&gt; passent à 100 %.</span><span style="color: black">
 
-### 3 Skill: Sanctuaire elfique
+### Compétence normale 2 : Sanctuaire elfique
  **Description:** <span style="color: #645252;font-size:20px">Chaque Elfe sylvaine obtient 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bouclier&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> chaque fois qu'un Héros ennemi lance un sort, ce qui absorbe une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max pendant 5 secondes. Temps de recharge de 10 secondes.</span><span style="color: black">
 
-### 4 Skill: Concentration de feu sur leur meneur
+### Compétence normale 3 : Concentration de feu sur leur meneur
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques des Elfes sylvaines augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Octroie un bonus supplémentaire de 40 aux coups critiques de l'Elfe sylvaine pour chaque unité à distance alliée présente sur le champ de bataille.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

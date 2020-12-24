@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
 ## Skills
-### 1 Skill: Energy Support
+### Ultimate Skill: Energy Support
  **Description:** <span style="color: #645252;font-size:20px">When any of friendly unit's HP is lower than 30%, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, dispels all debuffs, increases unit's damage reduction and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. Can only be cast once per battle.</span><span style="color: black">
 
-### 2 Skill: Frost Bombing
+### Regular Skill 1 : Frost Bombing
  **Description:** <span style="color: #645252;font-size:20px">Normal attacks have a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Freeze&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target and the hostile units around it for 2s.</span><span style="color: black">
 
-### 3 Skill: Spell Field
+### Regular Skill 2 : Spell Field
  **Description:** <span style="color: #645252;font-size:20px">The Magic Airship's magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When &lt;Magic Awakening&gt; is used, the hostile hero loses 2 mana and friendly hero restores 3 mana.</span><span style="color: black">
 
-### 4 Skill: Magic Awakening
+### Regular Skill 3 : Magic Awakening
  **Description:** <span style="color: #645252;font-size:20px">When the Magic Airship unit is enhanced by a friendly hero's spell, it increases all Caster Units' ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for all Caster Units throughout the entire battle, up to 4 stacks</span><span style="color: black">
 
-### 5 Skill: Sober Mind
+### Faction Special Skill I : Sober Mind
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Energy Dynamite
+### Faction Special Skill II : Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

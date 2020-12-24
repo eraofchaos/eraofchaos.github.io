@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /de/units/Druid/
 excerpt: "Einheiten Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Druidin"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
 ## Skills
-### 1 Skill: Ruf des Waldes
+### Ultimative Fähigkeit: Ruf des Waldes
  **Description:** <span style="color: #645252;font-size:20px">Sobald die das Schlachtfeld betritt, beschwört die Druidin einen magischen Kreis, der </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang andauert. Alle verbündeten Einheiten im Kreis sind immun gegen Zauberschaden.</span><span style="color: black">
 
-### 2 Skill: Überwuchern
+### Gewöhnliche Fähigkeit 1 : Überwuchern
  **Description:** <span style="color: #645252;font-size:20px">Erhöht den ANG der Druidin um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Segen des Lebens
+### Gewöhnliche Fähigkeit 2 : Segen des Lebens
  **Description:** <span style="color: #645252;font-size:20px">Die Druidin wirkt alle 30 Sek. auf 4 zufällige Einheiten in der vorderen Reihe einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schild“</span><span style="color: black"><span style="color: #645252;font-size:20px">, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
 
-### 4 Skill: Herz der Natur
+### Gewöhnliche Fähigkeit 3 : Herz der Natur
  **Description:** <span style="color: #645252;font-size:20px">Die Druidin segnet alle 25 Sek. verbündete Einheiten in einem großen Radius, wodurch 15 Sek. lang Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> steigen. Der Bonus wird verdoppelt, wenn die Druidin die Fähigkeit das erste Mal wirkt.</span><span style="color: black">
 
-### 5 Skill: Ruhige Robustheit
+### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Hasszeichen
+### Fraktions-Spezialfähigkeit II : Hasszeichen
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ## Talent

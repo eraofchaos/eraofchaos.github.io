@@ -3,7 +3,7 @@ title: "Tartaruga draconica"
 permalink: /it/units/Dragon Turtle/
 excerpt: "Unità Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico."
 unitID: 9906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Tartaruga draconica"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
-### 1 Skill: Rullo stritolante
+### Tecnica suprema: Rullo stritolante
  **Description:** 
 
-### 2 Skill: Soffio velenoso liv. 2
+### Tecnica normale 1 : Soffio velenoso liv. 2
  **Description:** 
 
-### 3 Skill: Baluardo delle maree
+### Tecnica normale 2 : Baluardo delle maree
  **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, la Tartaruga draconica </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> le unità nemiche in un'ampia area per 2 secondi. Se &lt;Scudo corazzato&gt; è attivo da più di 20 secondi, la Tartaruga draconica recupera il 15% dei PF e gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
 
-### 4 Skill: Rinforzo
+### Tecnica normale 3 : Rinforzo
  **Description:** <span style="color: #645252;font-size:20px">La Tartaruga draconica crea uno scudo rinforzato che aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e la resistenza magica (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per se stessa e per tutte le unità Baia alleate ogni 20 secondi. L'effetto dura 8 secondi e non può essere rimosso.</span><span style="color: black">
 
-### 5 Skill: Pace interiore
+### Tecnica speciale fazione I : Pace interiore
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### 6 Skill: Conflitto piratesco
+### Tecnica speciale fazione II : Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /it/units/Mermaid/
 excerpt: "Unità Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Sirena"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
-### 1 Skill: Accordo di Re
+### Tecnica suprema: Accordo di Re
  **Description:** <span style="color: #645252;font-size:20px">L'attacco della Sirena ha effetti curativi: cura l'unità alleata con la percentuale di PF più bassa di una quantità di PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT della Sirena. Inoltre, cura 1 unità casuale. L'effetto aggiuntivo può essere attivato 3 volte. L'effetto di cura è pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT della Sirena.</span><span style="color: black">
 
-### 2 Skill: Canto imperituro
+### Tecnica normale 1 : Canto imperituro
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, la Sirena aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le unità alleate. Ogni 2 secondi, il DAN si riduce del 2% e il CRIT di 50, fino a un massimo di 10 volte. L'effetto dura 20 secondi. Durata raddoppiata e riduzione dimezzata per le unità Baia.</span><span style="color: black">
 
-### 3 Skill: null
+### Tecnica normale 2 : null
  **Description:** 
 
-### 4 Skill: Canto ceruleo
+### Tecnica normale 3 : Canto ceruleo
  **Description:** <span style="color: #645252;font-size:20px">Guarigione della Sirena aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando la Sirena emette un &lt;Accordo di Re&gt;, rimuove tutti i debuff dall'unità alleata con la percentuale di PF minore.</span><span style="color: black">
 
-### 5 Skill: Pace interiore
+### Tecnica speciale fazione I : Pace interiore
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### 6 Skill: Conflitto piratesco
+### Tecnica speciale fazione II : Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Лич"
 permalink: /ru/units/Lich/
 excerpt: "Отряды Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Лич"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
 ## Skills
-### 1 Skill: Жертвоприношение
+### Совершенное умение: Жертвоприношение
  **Description:** <span style="color: #645252;font-size:20px">Если цель погибает, у личей есть шанс призвать 1 скелета с </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, который будет существовать в течение всего боя.</span><span style="color: black">
 
-### 2 Skill: Ядовитое облако
+### Обычное умение 1 : Ядовитое облако
  **Description:** <span style="color: #645252;font-size:20px">Обычная атака личей с вероятностью </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит урон 3 целям. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Темное усиление
+### Обычное умение 2 : Темное усиление
  **Description:** <span style="color: #645252;font-size:20px">Личи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Дальность атаки у личей повышается на 50% за каждый отряд Некрополя на поле боя.</span><span style="color: black">
 
-### 4 Skill: Жертвоприношение скелета
+### Обычное умение 3 : Жертвоприношение скелета
  **Description:** <span style="color: #645252;font-size:20px">Когда личи на поле боя, скелеты и костяные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и АТК.</span><span style="color: black">
 
-### 5 Skill: Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### 6 Skill: Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

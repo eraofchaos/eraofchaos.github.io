@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
-### 1 Skill: Crushing Roll
+### Ultimate Skill: Crushing Roll
  **Description:** 
 
-### 2 Skill: Venomous Breath lvl2
+### Regular Skill 1 : Venomous Breath lvl2
  **Description:** 
 
-### 3 Skill: Tidal Rampart
+### Regular Skill 2 : Tidal Rampart
  **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, the Dragon Turtle </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units within a large range for 2s. After &lt;Armoured Shield&gt; has been triggered over 20s, the Dragon Turtle restores 15% HP, and receives a DEF increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle</span><span style="color: black">
 
-### 4 Skill: Reinforcement
+### Regular Skill 3 : Reinforcement
  **Description:** <span style="color: #645252;font-size:20px">The Dragon Turtle creates a shield of reinforcement while increasing unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself and all friendly Cove units every 20s. The effect lasts 8s (This effect cannot be dispelled)</span><span style="color: black">
 
-### 5 Skill: Calm Body
+### Faction Special Skill I : Calm Body
  **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
-### 6 Skill: Pirate Conflict
+### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

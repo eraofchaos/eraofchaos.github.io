@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /es/units/Vampire/
 excerpt: "Unidades Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte."
 unitID: 304
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Vampiro"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Absorción de vida
+### Habilidad definitiva: Absorción de vida
  **Description:** <span style="color: #645252;font-size:20px">Cada 12 segundos, la unidad de Vampiro inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 1 unidad enemiga en una zona grande y le roba </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV.</span><span style="color: black">
 
-### 2 Skill: Sediento de sangre
+### Habilidad normal 1 : Sediento de sangre
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la absorción de vida del Vampiro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Crecimiento
+### Habilidad normal 2 : Crecimiento
  **Description:** <span style="color: #645252;font-size:20px">Cuando el Vampiro lanza &lt;Absorción de vida&gt;, aumenta la absorción de vida un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
 
-### 4 Skill: Caza de sangre
+### Habilidad normal 3 : Caza de sangre
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con un porcentaje de PV inferior al suyo, el ATQ del Vampiro aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Defensa lúgubre
+### Habilidad especial de la facción I : Defensa lúgubre
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonía de hechizo
+### Habilidad especial de la facción II : Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
 ## Talent

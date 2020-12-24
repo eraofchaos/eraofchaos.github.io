@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /fr/units/Sea Elemental/
 excerpt: "Unités Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Élémentaire de mer"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Spirale temporelle
+### Capacité ultime: Spirale temporelle
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de mer crée sur le sol un maelstrom de 10 secondes toutes les 30 secondes, diminuant la vitesse d'ATQ des ennemis à portée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par seconde. Le maelstrom inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts aux ennemis lorsqu'il se dissipe.</span><span style="color: black">
 
-### 2 Skill: Présent des flots
+### Compétence normale 1 : Présent des flots
  **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, l'Élémentaire de mer crée un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bouclier de glace&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour les unités alliées sur son chemin. L'Élémentaire de mer </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"ralentira\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis qui l'attaquent. Le bouclier dure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 3 Skill: Rite des marées
+### Compétence normale 2 : Rite des marées
  **Description:** <span style="color: #645252;font-size:20px">Au début de la bataille, l'Élémentaire de mer génère un cercle qui augmente ses PV de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)} %</span><span style="color: black">. Diminue les soins des ennemis de 1 % toutes les 2 secondes pour toute la durée de la bataille.</span><span style="color: black">
 
-### 4 Skill: Cage abyssale
+### Compétence normale 3 : Cage abyssale
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de mer invoque un donjon aqueux toutes les 20 secondes, qui piège une unité aléatoire sur la ligne arrière ennemie, l'empêchant d'attaquer ou d'utiliser des compétences. Le donjon aqueux dure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 5 Skill: Zen
+### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### 6 Skill: Conflit de pirates
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

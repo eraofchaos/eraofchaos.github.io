@@ -3,7 +3,7 @@ title: "Гигант"
 permalink: /ru/units/Giant/
 excerpt: "Отряды null"
 unitID: 607
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Гигант"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: Гнев грома
+### Обычное умение 1 : Гнев грома
  **Description:** <span style="color: #645252;font-size:20px">Гиганты наносят урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ всем вражеским отрядам, снижая их АТК на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** <span style="color: #645252;font-size:20px">Чем ближе гигант к цели, тем выше у него АТК. Он получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК за каждые 100 ед. расстояния до цели. Когда активируется «Магическое пробуждение», с гиганта снимаются все ослабления, за исключением эффектов ауры.</span><span style="color: black">
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** 
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

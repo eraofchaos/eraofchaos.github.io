@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /fr/units/Genie/
 excerpt: "Unités Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Djinn"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
 ## Skills
-### 1 Skill: Don magique
+### Capacité ultime: Don magique
  **Description:** <span style="color: #645252;font-size:20px">Quand l'attaque de la Djinn se change en soin, elle rend une quantité de PV égale à 80 % de l'ATQ de la Djinn à l'unité alliée qui possède le pourcentage de PV le moins élevé. Les soins de la Djinn augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Trois vœux
+### Compétence normale 1 : Trois vœux
  **Description:** <span style="color: #645252;font-size:20px">Quand une Djinn se trouve sur le champ de bataille, elle bénit 3 unités alliées aléatoires et leur octroient l'un des effets suivants : </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de résistance aux dégâts, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts ou </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de vitesse d'ATQ.</span><span style="color: black">
 
-### 3 Skill: Mèche magique
+### Compétence normale 2 : Mèche magique
  **Description:** <span style="color: #645252;font-size:20px">Les PV de la Djinn augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sa résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Éveil magique
+### Compétence normale 3 : Éveil magique
  **Description:** <span style="color: #645252;font-size:20px">Quand une Djinn est renforcée par le sort de soutien d'un Héros allié, elle rend </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à l'unité qui a le pourcentage le moins élevé de PV.</span><span style="color: black">
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

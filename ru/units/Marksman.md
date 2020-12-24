@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /ru/units/Marksman/
 excerpt: "Отряды Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Лучник"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
 ## Skills
-### 1 Skill: Разрывная стрела
+### Совершенное умение: Разрывная стрела
  **Description:** 
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">Лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Двойной удар
+### Обычное умение 2 : Двойной удар
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у лучников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### 4 Skill: Драконоубийца
+### Обычное умение 3 : Драконоубийца
  **Description:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
 ## Talent

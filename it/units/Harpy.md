@@ -3,7 +3,7 @@ title: "Arpia"
 permalink: /it/units/Harpy/
 excerpt: "Unità Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Arpia"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
-### 1 Skill: Artiglio affilato di Arpia
+### Tecnica suprema: Artiglio affilato di Arpia
  **Description:** <span style="color: #645252;font-size:20px">Quando l'Arpia viene attaccata, ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 unità. (L'effetto può essere attivato anche dagli attacchi base)</span><span style="color: black">
 
-### 2 Skill: Repressione superiore
+### Tecnica normale 1 : Repressione superiore
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità non volanti, l'Arpia gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Urlo dello Spezzaincantesimi
+### Tecnica normale 2 : Urlo dello Spezzaincantesimi
  **Description:** <span style="color: #645252;font-size:20px">Quando un eroe nemico lancia un incantesimo, l'Arpia riduce la Rid DAN delle unità nemiche sulla stessa linea (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi. Cumulabile fino a 3 volte.</span><span style="color: black">
 
-### 4 Skill: Mira a mezz'aria
+### Tecnica normale 3 : Mira a mezz'aria
  **Description:** <span style="color: #645252;font-size:20px">DAN CRIT dell'Arpia aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se il bersaglio è <span style="color: #48b946;font-size:20px">&lt;stordito&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, tutti gli attacchi dell'Arpia sono colpi critici.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

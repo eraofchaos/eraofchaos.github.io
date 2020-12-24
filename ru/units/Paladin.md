@@ -3,7 +3,7 @@ title: "Паладин"
 permalink: /ru/units/Paladin/
 excerpt: "Отряды null"
 unitID: 108
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Паладин"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: Лидерство
+### Обычное умение 1 : Лидерство
  **Description:** 
 
-### 3 Skill: Побуждение
+### Обычное умение 2 : Побуждение
  **Description:** 
 
-### 4 Skill: null
+### Обычное умение 3 : null
  **Description:** <span style="color: #645252;font-size:20px">У паладинов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда паладины на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
 ## Talent

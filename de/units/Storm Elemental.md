@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /de/units/Storm Elemental/
 excerpt: "Einheiten Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Sturmelementar"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Statische Markierung
+### Ultimative Fähigkeit: Statische Markierung
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht verursacht ein Sturmelementar </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> bei allen gegnerischen Einheiten in seinem Weg. Dauer </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
-### 2 Skill: Entfesselter Blitz
+### Gewöhnliche Fähigkeit 1 : Entfesselter Blitz
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Sturmelementars wirkt mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> einen Blitzschlag auf das Ziel, der 300 % Schaden verursacht.</span><span style="color: black">
 
-### 3 Skill: Kraft der Elemente
+### Gewöhnliche Fähigkeit 2 : Kraft der Elemente
  **Description:** <span style="color: #645252;font-size:20px">Solange der Sturmelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Schadensreduzierung gegen Luftzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Schadensreduzierung gegen Luftzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 4 Skill: Schock-Durchdringung
+### Gewöhnliche Fähigkeit 3 : Schock-Durchdringung
  **Description:** <span style="color: #645252;font-size:20px">Der Schaden des Sturmelementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die gegnerische Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> hat.</span><span style="color: black">
 
-### 5 Skill: Elementare Affinität
+### Fraktions-Spezialfähigkeit I : Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Offensive Elemente
+### Fraktions-Spezialfähigkeit II : Offensive Elemente
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

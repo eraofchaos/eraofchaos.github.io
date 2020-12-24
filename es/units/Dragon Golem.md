@@ -3,7 +3,7 @@ title: "Gólem Dragón"
 permalink: /es/units/Dragon Golem/
 excerpt: "Unidades Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
 unitID: 609
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Gólem Dragón"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
 ## Skills
-### 1 Skill: Pulso de vértigo
+### Habilidad definitiva: Pulso de vértigo
  **Description:** <span style="color: #645252;font-size:20px">El Gólem Dragón lanza un pulso de vértigo cada 15 s que inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a todas las unidades cuerpo a cuerpo hostiles y que puede <span style="color: #48b946;font-size:20px">aturdirlas</span><span style="color: black"> durante 2 s y causar <span style="color: #48b946;font-size:20px">[parálisis]</span><span style="color: black"> durante 5 s.</span><span style="color: black">
 
-### 2 Skill: Edificio de hierro
+### Habilidad normal 1 : Edificio de hierro
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV máximos del Gólem Dragón un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, su tenacidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+150)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El daño de la unidad aumenta un 100% cuando se enfrenta a unidades de Mazmorra. Al principio de la batalla, el Gólem Dragón crea un <span style="color: #F0F000;font-size:20px">[Iron Building]</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Despertar mágico
+### Habilidad normal 2 : Despertar mágico
  **Description:** <span style="color: #645252;font-size:20px">Cuando se despierta con un hechizo de apoyo de un Héroe amistoso, activa &lt;Tormenta mágica&gt; para &lt;silenciar&gt; a las unidades hostiles dentro del alcance durante 2 s y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paraliza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s. Al mismo tiempo, aumenta su propia DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+14.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+9.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces. El Gólem Dragón se despierta a sí mismo cada 25 s.</span><span style="color: black">
 
-### 4 Skill: Molde mágico
+### Habilidad normal 3 : Molde mágico
  **Description:** <span style="color: #645252;font-size:20px">Cuando los PV del Gólem Dragón se reducen al 40% y al 20%, este crea un campo de batalla de fuerza de reparación que dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2.8)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Durante la reparación, el daño que reciba el Gólem Dragón se convierte en regeneración de PV. Cuando se derrota al Gólem Dragón, el escape de la energía temporal inflige daño igual al 30% de los PV máximos a las unidades hostiles en una zona grande y causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">[Time Stop]</span><span style="color: black"><span style="color: #645252;font-size:20px"> en los objetivos durante 5 s.</span><span style="color: black">
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 7 Skill: Rueda del tiempo
+### Habilidad normal 6 : Rueda del tiempo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Gólem Dragón un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y la tenacidad en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se despliegan 3 unidades de Torre. Cuando el Gólem Dragón activa &lt;Magic Awakening&gt;, puede revelar un </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Time Domain&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que se expande a medida que aumenta el nivel de la habilidad. El dominio dura 15 s. La recarga es de 30 s.</span><span style="color: black">
 
 ## Talent

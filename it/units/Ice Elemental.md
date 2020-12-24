@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /it/units/Ice Elemental/
 excerpt: "Unità Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
 ## Skills
-### 1 Skill: Muro di ghiaccio
+### Tecnica suprema: Muro di ghiaccio
  **Description:** <span style="color: #645252;font-size:20px">L'Elementale del ghiaccio erige un muro ghiacciato di fronte al bersaglio, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelando&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli lungo una fila orizzontale per <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 2 Skill: Morsa gelida
+### Tecnica normale 1 : Morsa gelida
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale del ghiaccio ha una probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentare&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per 15 secondi. Inoltre, riduce la Vel ATT del bersaglio (<span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 3 Skill: Forza elementale
+### Tecnica normale 2 : Forza elementale
  **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e riduce la resistenza dei nemici agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la rigenerazione del mana dell'eroe alleato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: null
+### Tecnica normale 3 : null
  **Description:** 
 
-### 5 Skill: Affinità elementale
+### Tecnica speciale fazione I : Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Conflitto elementale
+### Tecnica speciale fazione II : Conflitto elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

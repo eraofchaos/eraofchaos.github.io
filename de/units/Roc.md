@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /de/units/Roc/
 excerpt: "Einheiten Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Roc"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
 ## Skills
-### 1 Skill: Donner
+### Ultimative Fähigkeit: Donner
  **Description:** <span style="color: #645252;font-size:20px">Der Roc fügt Feinden in einem großen Bereich vor sich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre Präzision 10 Sek. lang um 200.</span><span style="color: black">
 
-### 2 Skill: Kugelblitz-Attacke
+### Gewöhnliche Fähigkeit 1 : Kugelblitz-Attacke
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Roc eine 9-Mann-Einheit angreift, verursacht der Standardangriff des Roc </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 gegnerische Einheiten.</span><span style="color: black">
 
-### 3 Skill: Amoklauf
+### Gewöhnliche Fähigkeit 2 : Amoklauf
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Roc steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Roc unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
-### 4 Skill: Wirbelsturmbarriere
+### Gewöhnliche Fähigkeit 3 : Wirbelsturmbarriere
  **Description:** <span style="color: #645252;font-size:20px">Solange ein Roc sich auf dem Schlachtfeld befindet, ist die Präzision aller gegnerischen Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 5 Skill: Kampfzelot
+### Fraktions-Spezialfähigkeit I : Kampfzelot
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

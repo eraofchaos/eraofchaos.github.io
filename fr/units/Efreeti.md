@@ -3,7 +3,7 @@ title: "Effrit"
 permalink: /fr/units/Efreeti/
 excerpt: "Unités Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Effrit"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Tempête de feu
+### Capacité ultime: Tempête de feu
  **Description:** <span style="color: #645252;font-size:20px">L'Effrit lance Tempête de feu sur une zone cible, ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à tous les ennemis qui s'y trouve et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">brûle</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
-### 2 Skill: Bouclier enflammé
+### Compétence normale 1 : Bouclier enflammé
  **Description:** <span style="color: #645252;font-size:20px">Au début du combat, l'Effrit crée un &lt;Bouclier de flammes&gt; pour toutes les unités alliées de l'Hadès. Ce bouclier renvoie 15 % des dégâts subis pendant les </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> prochaines secondes.</span><span style="color: black">
 
-### 3 Skill: Brûlant
+### Compétence normale 2 : Brûlant
  **Description:** <span style="color: #645252;font-size:20px">Le &lt;Bouclier de flammes&gt; de l'Effrit augmente la résistance aux dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dieu du feu
+### Compétence normale 3 : Dieu du feu
  **Description:** <span style="color: #645252;font-size:20px">Les PV de l'Effrit augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Les dégâts de l'unité augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Frappe brûlante
+### Compétence spéciale de faction I : Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
-### 6 Skill: Résonance magique
+### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

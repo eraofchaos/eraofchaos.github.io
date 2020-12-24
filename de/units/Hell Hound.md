@@ -3,7 +3,7 @@ title: "Höllenhund"
 permalink: /de/units/Hell Hound/
 excerpt: "Einheiten Höllenhunde greifen den Feind mit drei Köpfen an. Ihr Körper ist von glühend heißer Lava überzogen, und ihre Spuren hinterlassen Flammen."
 unitID: 503
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Höllenhund"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
 
 ## Skills
-### 1 Skill: Feuer
+### Ultimative Fähigkeit: Feuer
  **Description:** <span style="color: #645252;font-size:20px">Der Höllenhund verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang garantierte kritische Treffer.</span><span style="color: black">
 
-### 2 Skill: Dreiköpfiger Angriff
+### Gewöhnliche Fähigkeit 1 : Dreiköpfiger Angriff
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Höllenhund eine 9-Mann-Einheit angreift, fügt sein Standardangriff 3 Mitgliedern der gegnerischen Einheit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.08+46.17} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu, und er verursacht 6 Sek. lang </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Blutdurst
+### Gewöhnliche Fähigkeit 2 : Blutdurst
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Höllenhund Einheiten mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> angreift, wird sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
-### 4 Skill: Inferno
+### Gewöhnliche Fähigkeit 3 : Inferno
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Schaden des Höllenhunds steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Kritischer Schaden des Höllenhunds steigt um 3 % für jede eingesetzte Einheit der Inferno-Fraktion.</span><span style="color: black">
 
-### 5 Skill: Sengender Angriff
+### Fraktions-Spezialfähigkeit I : Sengender Angriff
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Magieresistenz-Resonanz
+### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

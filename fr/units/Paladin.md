@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /fr/units/Paladin/
 excerpt: "Unités Le Paladin est le soutien principal de la faction du Château. Il est capable de motiver les unités, leur permettant de développer leur plein potentiel."
 unitID: 108
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Paladin"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Charisme
+### Compétence normale 1 : Charisme
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts des Paladins augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double en cas d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Motivation
+### Compétence normale 2 : Motivation
  **Description:** <span style="color: #645252;font-size:20px">Le Paladin est immunisé aux effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Le Paladin et les unités alliées dans une large zone autour de lui profitent d'un effet d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et d'un bonus de coups critiques de 500 pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 4 Skill: Domaine innocent
+### Compétence normale 3 : Domaine innocent
  **Description:** <span style="color: #645252;font-size:20px">Le Paladin est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Maladie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. La résistance aux dégâts des unités alliées augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> si le Paladin se trouve sur le champ de bataille.</span><span style="color: black">
 
-### 5 Skill: Combat de siège
+### Compétence spéciale de faction I : Combat de siège
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues au combat contre les Dragons. Lorsqu'elles affrontent une unité à 1 combattant, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Résonance défensive
+### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /fr/units/Berserker/
 excerpt: "Unités Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Berserker"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
 ## Skills
-### 1 Skill: null
+### Capacité ultime: null
  **Description:** 
 
-### 2 Skill: Furie guerrière
+### Compétence normale 1 : Furie guerrière
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ du Berserker peut augmenter jusqu'à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> quand ses PV diminuent. Le Berserker hurle toutes les 20 secondes, augmentant ses propres dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, tout en </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;décourageant&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> toutes les unités ennemies pendant 10 secondes.</span><span style="color: black">
 
-### 3 Skill: Carnage
+### Compétence normale 2 : Carnage
  **Description:** <span style="color: #645252;font-size:20px">Le Berserker est immunisé contre &lt;Pétrification&gt; et &lt;Étourdissement&gt;. La vitesse d'ATQ du Berserker augmente de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black">. L'effet double quand ses PV tombent sous la barre des 35 % et perdure même si l'unité regagne des PV.</span><span style="color: black">
 
-### 4 Skill: Dieu de la guerre immortel
+### Compétence normale 3 : Dieu de la guerre immortel
  **Description:** <span style="color: #645252;font-size:20px">Augmente les dégâts du Berserker de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour chaque unité du Bastion supplémentaire déployée. Le Berserker se transforme en statue à sa mort, augmentant les dégâts des unités du Bastion alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et régénérant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max.</span><span style="color: black">
 
-### 5 Skill: Zélote combattant
+### Compétence spéciale de faction I : Zélote combattant
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont connues pour mener des batailles de longue haleine. Leur vitesse d'ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> tous les 15 % PV perdus.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

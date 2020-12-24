@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /es/units/Naga/
 excerpt: "Unidades El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Naga"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
-### 1 Skill: Danza de hojas
+### Habilidad definitiva: Danza de hojas
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Nagas inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades enemigas aleatorias en una zona grande y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 capas.</span><span style="color: black">
 
-### 2 Skill: Crueldad
+### Habilidad normal 1 : Crueldad
  **Description:** <span style="color: #645252;font-size:20px">El ataque de la Naga impactará. Aumenta la absorción de vida de la Naga un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El objetivo recibe más daño a medida que los PV disminuyen; hasta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> más de daño.</span><span style="color: black">
 
-### 3 Skill: Reina de Hojas
+### Habilidad normal 2 : Reina de Hojas
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Nagas en el campo de batalla, el golpe crítico de todas las unidades ofensivas amistosas aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Al mismo tiempo, el golpe crítico de la Naga aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Despertar mágico
+### Habilidad normal 3 : Despertar mágico
  **Description:** <span style="color: #645252;font-size:20px">Cuando la unidad de Naga está amplificada por un hechizo de apoyo de un Héroe amistoso, usa &lt;Danza de hojas&gt; contra la unidad objetivo, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 veces.</span><span style="color: black">
 
-### 5 Skill: Mente sobria
+### Habilidad especial de la facción I : Mente sobria
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dinamita de energía
+### Habilidad especial de la facción II : Dinamita de energía
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

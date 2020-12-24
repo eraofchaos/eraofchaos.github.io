@@ -3,7 +3,7 @@ title: "Черный рыцарь"
 permalink: /ru/units/Black Knight/
 excerpt: "Отряды На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Черный рыцарь"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Критическая схватка
+### Совершенное умение: Критическая схватка
  **Description:** <span style="color: #645252;font-size:20px">Черные рыцари наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### 2 Skill: Смертельный штурм
+### Обычное умение 1 : Смертельный штурм
  **Description:** 
 
-### 3 Skill: Умения рыцаря
+### Обычное умение 2 : Умения рыцаря
  **Description:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
-### 4 Skill: Ужасающее подавление
+### Обычное умение 3 : Ужасающее подавление
  **Description:** 
 
-### 5 Skill: Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### 6 Skill: Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ## Talent

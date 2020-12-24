@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Units Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Behemoth"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
-### 1 Skill: Wild Roar
+### Ultimate Skill: Wild Roar
  **Description:** <span style="color: #645252;font-size:20px">Behemoth deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Attack to surrounding enemy units within a large range, inflicting </span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;stun&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> on them for 6s, and reducing their attack by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">and damage reduction by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 20s.</span><span style="color: black">
 
-### 2 Skill: Sharp-Claw Threshing
+### Regular Skill 1 : Sharp-Claw Threshing
  **Description:** <span style="color: #645252;font-size:20px">Behemoth deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px">damage to its target every 20s, and makes them </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### 3 Skill: Rampage
+### Regular Skill 2 : Rampage
  **Description:** <span style="color: #645252;font-size:20px">Behemoth's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles when HP is below 35%. (It still works after HP is restored)</span><span style="color: black">
 
-### 4 Skill: Infuriate
+### Regular Skill 3 : Infuriate
  **Description:** <span style="color: #645252;font-size:20px">For every hostile unit's death, Behemoth restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of max HP, and increases unit damage reduction by 10% for 10s.</span><span style="color: black">
 
-### 5 Skill: Fight Zealot
+### Faction Special Skill I : Fight Zealot
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
-### 6 Skill: Rise of Vitality
+### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent

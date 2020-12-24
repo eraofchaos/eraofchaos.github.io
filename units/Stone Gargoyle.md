@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
-### 1 Skill: Stone Form
+### Ultimate Skill: Stone Form
  **Description:** <span style="color: #645252;font-size:20px">The Stone Gargoyle will be in &lt;Stone Form&gt; for 10s every 20s. During this time, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its ATK speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: High Suppression
+### Regular Skill 1 : High Suppression
  **Description:** <span style="color: #645252;font-size:20px">When facing a unit that cannot fly, the stone gargoyles' attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Sharp Claw
+### Regular Skill 2 : Sharp Claw
  **Description:** <span style="color: #645252;font-size:20px">The Stone Gargoyle's defense penetration is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. For Defensive units, the effect doubles.</span><span style="color: black">
 
-### 4 Skill: Stone Reinforcement
+### Regular Skill 3 : Stone Reinforcement
  **Description:** <span style="color: #645252;font-size:20px">When the Stone Gargoyle is in &lt;Stone Form&gt;, unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Sober Mind
+### Faction Special Skill I : Sober Mind
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Energy Dynamite
+### Faction Special Skill II : Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

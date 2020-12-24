@@ -3,7 +3,7 @@ title: "Gargouille"
 permalink: /fr/units/Stone Gargoyle/
 excerpt: "Unités Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat."
 unitID: 602
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Gargouille"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
-### 1 Skill: Forme de pierre
+### Capacité ultime: Forme de pierre
  **Description:** <span style="color: #645252;font-size:20px">La Gargouille passe en &lt;Forme de pierre&gt; pendant 10 secondes toutes les 20 secondes. Son ATQ augmente alors de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Suppression aigüe
+### Compétence normale 1 : Suppression aigüe
  **Description:** <span style="color: #645252;font-size:20px">Quand elle fait face à une unité qui ne peut pas voler, l'attaque de la Gargouille augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Griffe tranchante
+### Compétence normale 2 : Griffe tranchante
  **Description:** <span style="color: #645252;font-size:20px">La pénétration défensive de la Gargouille augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double pour les unités défensives.</span><span style="color: black">
 
-### 4 Skill: Renfort de pierre
+### Compétence normale 3 : Renfort de pierre
  **Description:** <span style="color: #645252;font-size:20px">Quand une Gargouille est en &lt;Forme de pierre&gt;, la résistance aux dégâts de l'unité augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

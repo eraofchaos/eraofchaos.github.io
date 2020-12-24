@@ -3,7 +3,7 @@ title: "Ciclope"
 permalink: /it/units/Cyclops/
 excerpt: "Unità I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Ciclope"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
-### 1 Skill: Pietra focaia
+### Tecnica suprema: Pietra focaia
  **Description:** <span style="color: #645252;font-size:20px">Il Ciclope scaglia pietre infuocate che applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche in un'ampia area, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 2 secondi per 8 secondi.</span><span style="color: black">
 
-### 2 Skill: Attacco da assedio
+### Tecnica normale 1 : Attacco da assedio
  **Description:** <span style="color: #645252;font-size:20px">Il Ciclope gode di danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35% (rimane attivo anche se i PF vengono ripristinati). Quando affronta unità da 9 membri, gli attacchi base del Ciclope infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danno ad area a 3 unità nemiche.</span><span style="color: black">
 
-### 3 Skill: Scossa tellurica
+### Tecnica normale 2 : Scossa tellurica
  **Description:** <span style="color: #645252;font-size:20px">Quando viene attaccato, il Ciclope ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordirle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
 
-### 4 Skill: Gigante
+### Tecnica normale 3 : Gigante
  **Description:** <span style="color: #645252;font-size:20px">PF del Ciclope aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità da 9 membri, subisce danni ridotti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

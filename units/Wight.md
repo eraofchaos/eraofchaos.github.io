@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Units Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Wight"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
-### 1 Skill: Horrific Shrieking
+### Ultimate Skill: Horrific Shrieking
  **Description:** <span style="color: #645252;font-size:20px">When a Wight unit is on the battlefield, their 1st attack </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silences&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> enemy units in its path within a large range for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 2 Skill: Incarnation of Horror
+### Regular Skill 1 : Incarnation of Horror
  **Description:** <span style="color: #645252;font-size:20px">Wight's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases ATK by 8% for every friendly unit's death on the battlefield, lasting throughout the entire battle, up to 10 stacks.</span><span style="color: black">
 
-### 3 Skill: Misfortune Curse
+### Regular Skill 2 : Misfortune Curse
  **Description:** <span style="color: #645252;font-size:20px">When a Wight unit is downed, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silences&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 4 Skill: Invisibility
+### Regular Skill 3 : Invisibility
  **Description:** <span style="color: #645252;font-size:20px">Wight's magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever it takes enemy spell damage, the hero restores 10 mana.</span><span style="color: black">
 
-### 5 Skill: Dismal Defense
+### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
-### 6 Skill: Spell Harmony
+### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Красный дракон"
 permalink: /ru/units/Red Dragon/
 excerpt: "Отряды Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Красный дракон"
 toc: true
@@ -56,22 +56,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
-### 1 Skill: Ревущее пламя
+### Совершенное умение: Ревущее пламя
  **Description:** <span style="color: #645252;font-size:20px">Красные драконы испускают рев каждые 15 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона всем вражеским отрядам стрелков/заклинателей, а также </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона от АТК и дополнительный урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ вражеским отрядам ближнего боя. Кроме того, на цели ставится 1 отметка ненависти. Эффект суммируется до 4 раз. Нанесенный Ревущим пламенем урон повышается на 20% за каждую отметку ненависти, поставленную на вражеский отряд. В бою красных драконов против отряда фракции Башни они получают +50% к урону отряда.</span><span style="color: black">
 
-### 2 Skill: Пламенное дыхание
+### Обычное умение 1 : Пламенное дыхание
  **Description:** 
 
-### 3 Skill: Могучий разрушитель магии
+### Обычное умение 2 : Могучий разрушитель магии
  **Description:** <span style="color: #645252;font-size:20px">Когда вражеский герой применяет заклинание, красные драконы показывают свою силу, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> у не оборонительных союзных отрядов из Подземелья, а также повышая щит ОЗ </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> у союзных оборонительных отрядов Подземелья. Эффект длится 8 сек. Суммируется до 2 раз.</span><span style="color: black">
 
-### 4 Skill: Великолепие дракона
+### Обычное умение 3 : Великолепие дракона
  **Description:** <span style="color: #645252;font-size:20px">У красных драконов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;горению&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;кровотечению&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;чуме&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда красные драконы на поле боя, сопротивление магии заклинаний Огня у врагов снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Для отрядов фракции Башни эффект удваивается. При использовании Ревущего пламени у красного дракона есть </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> шанс активировать Драконий резонанс. Драконы используют еще одно умение пробуждения: зеленые и золотые драконы - Подкрепление с небес; костяные и призрачные драконы - Страх; гидры - Туман Хаоса; черные драконы и король черных драконов - Дыхание дракона; виверны - Дикие миазмы; панцирные драконы - Оплот прилива.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Темный конфликт
+### Эксклюзивное умение фракции II : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent

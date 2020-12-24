@@ -3,7 +3,7 @@ title: "Arcimago"
 permalink: /it/units/Arch Mage/
 excerpt: "Unità Solo gli incantatori più potenti possono fregiarsi del titolo di Mago. I loro incantesimi danno un vantaggio notevole ai loro alleati."
 unitID: 604
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Arcimago"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Incantesimo perforante
+### Tecnica suprema: Incantesimo perforante
  **Description:** <span style="color: #645252;font-size:20px">Gli attacchi base dei Maghi ne aumentano l'ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Cumulabile fino a 20 volte. L'effetto continua finché il bersaglio non cambia. L'effetto si annulla quando il bersaglio cambia.</span><span style="color: black">
 
-### 2 Skill: Uragano
+### Tecnica normale 1 : Uragano
  **Description:** <span style="color: #645252;font-size:20px">I Maghi evocano un tornado che solleva 1 unità casuale nelle retrovie nemiche; l'unità non può attaccare né usare tecniche, ma la sua Rid DAN aumenta del 100%. Il tornado applica <span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità bersaglio. Il tornado e la &lt;Folgorazione&gt; durano </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec. (La retrovia è composta dalle unità nemiche in fondo a ciascuna colonna)</span><span style="color: black">
 
-### 3 Skill: Fiacchezza
+### Tecnica normale 2 : Fiacchezza
  **Description:** <span style="color: #645252;font-size:20px">Se i Maghi sono sul campo di battaglia, il tempo di recupero degli incantesimi degli eroi nemici aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando un eroe alleato lancia un incantesimo, recupera 2 punti mana.</span><span style="color: black">
 
-### 4 Skill: Campo magico
+### Tecnica normale 3 : Campo magico
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia i Maghi aumentano il danno di tutte le unità alleate di fronte a loro (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato per gli incantatori.</span><span style="color: black">
 
-### 5 Skill: Mente lucida
+### Tecnica speciale fazione I : Mente lucida
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Esplosione di Energia
+### Tecnica speciale fazione II : Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Guerrieri spartani"
 permalink: /it/units/Spartan Warriors/
 excerpt: "Unità Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Guerrieri spartani"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: null
+### Tecnica suprema: null
  **Description:** 
 
-### 2 Skill: Attacco con scudo
+### Tecnica normale 1 : Attacco con scudo
  **Description:** <span style="color: #645252;font-size:20px">I Guerrieri spartani attaccano con i propri scudi, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordendo&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">le unità nemiche in un'ampia area per 5 secondi. Dopo l'attacco, godono di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}% </span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%) per i 10 secondi successivi. </span><span style="color: black"><span style="color: #645252;font-size:20px">Recupero: 20 secondi.</span><span style="color: black">
 
-### 3 Skill: Stirpe spartana
+### Tecnica normale 2 : Stirpe spartana
  **Description:** <span style="color: #645252;font-size:20px">Quando i Guerrieri spartani perdono il 5% dei propri PF, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il loro ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La prima volta che i loro PF scendono a 50%, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il loro DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
 
-### 4 Skill: Termopili
+### Tecnica normale 3 : Termopili
  **Description:** <span style="color: #645252;font-size:20px">Quando uno dei Guerrieri spartani viene sconfitto, DAN e Rid DAN dei restanti aumentano del 6%. I Guerrieri spartani emettono un grido di guerra ogni 20 secondi per motivare le unità alleate, aumentandone la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
 
-### 5 Skill: Conflitto armato
+### Tecnica speciale fazione I : Conflitto armato
  **Description:** <span style="color: #645252;font-size:20px">Le unità neutrali sono molti efficaci. Quando affrontano unità non neutrali, il loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%).</span><span style="color: black">
 
-### 6 Skill: Incoraggiamento
+### Tecnica speciale fazione II : Incoraggiamento
  **Description:** <span style="color: #645252;font-size:20px">Le unità neutrali possono resistere ad attacchi estremamente potenti. Ogni volta che perdono il 10% dei propri PF, la loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%).</span><span style="color: black">
 
 ## Talent

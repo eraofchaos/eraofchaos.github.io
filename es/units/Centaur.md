@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /es/units/Centaur/
 excerpt: "Unidades Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración."
 unitID: 201
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Centauro"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
 ## Skills
-### 1 Skill: Pisotón de batalla
+### Habilidad definitiva: Pisotón de batalla
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Centauros inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles a su alrededor y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizaciones&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
-### 2 Skill: Fuerte
+### Habilidad normal 1 : Fuerte
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Centauro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Ferocidad
+### Habilidad normal 2 : Ferocidad
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el Ataque adicional del Centauro en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales hacen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 6 s.</span><span style="color: black">
 
-### 4 Skill: Líder intrépido
+### Habilidad normal 3 : Líder intrépido
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Centauros un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga al Centauro un 2% más de reducción de daño de la unidad por cada unidad aliada defensiva en el campo de batalla.</span><span style="color: black">
 
-### 5 Skill: Proliferación calmada
+### Habilidad especial de la facción I : Proliferación calmada
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marca de odio
+### Habilidad especial de la facción II : Marca de odio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
 
 ## Talent

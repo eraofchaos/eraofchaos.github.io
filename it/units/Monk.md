@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /it/units/Monk/
 excerpt: "Unità I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Monaco"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Preghiera
+### Tecnica suprema: Preghiera
  **Description:** <span style="color: #645252;font-size:20px">I Monaci curano di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF l'unità alleata con la percentuale di PF minore ogni 17 secondi.</span><span style="color: black">
 
-### 2 Skill: Benedizione del valoroso
+### Tecnica normale 1 : Benedizione del valoroso
  **Description:** <span style="color: #645252;font-size:20px">All'inizio del combattimento, i Monaci applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate sul proprio percorso per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 3 Skill: Meditazione
+### Tecnica normale 2 : Meditazione
  **Description:** <span style="color: #645252;font-size:20px">Se i Monaci sono sul campo di battaglia, il tasso di recupero degli incantesimi degli eroi aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Rigenerazione
+### Tecnica normale 3 : Rigenerazione
  **Description:** <span style="color: #645252;font-size:20px">PF dei Monaci aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 50%.</span><span style="color: black">
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

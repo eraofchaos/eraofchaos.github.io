@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
 ## Skills
-### 1 Skill: Flood of Poison
+### Ultimate Skill: Flood of Poison
  **Description:** <span style="color: #645252;font-size:20px">The Green Dragon unit spits venom within a vast range in front of it every 30s, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to non-flying hostile units within range. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> target units is increased by 50%.</span><span style="color: black">
 
-### 2 Skill: Venomous Breath
+### Regular Skill 1 : Venomous Breath
  **Description:** <span style="color: #645252;font-size:20px">When fighting against a 9-man unit, a normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 targets.</span><span style="color: black">
 
-### 3 Skill: Green Dragon Scale
+### Regular Skill 2 : Green Dragon Scale
  **Description:** <span style="color: #645252;font-size:20px">The Green Dragon is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and all friendly units' damage reduction to water spells is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Green Dragon gets &lt;Shield&gt;, it will increase attack speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, this effect will last for 15s. For each flying unit deployed, Green Dragon will increase unit's damage by 3%.</span><span style="color: black">
 
-### 4 Skill: Reinforcement from the Skies
+### Regular Skill 3 : Reinforcement from the Skies
  **Description:** <span style="color: #645252;font-size:20px">The Green Dragon unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 back-row enemy units. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
-### 5 Skill: Calm Proliferation
+### Faction Special Skill I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Hatred Mark
+### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ## Talent

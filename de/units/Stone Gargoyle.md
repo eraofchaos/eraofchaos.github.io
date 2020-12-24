@@ -3,7 +3,7 @@ title: "Stein-Wasserspeier"
 permalink: /de/units/Stone Gargoyle/
 excerpt: "Einheiten Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
 unitID: 602
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Stein-Wasserspeier"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
 ## Skills
-### 1 Skill: Steingestalt
+### Ultimative Fähigkeit: Steingestalt
  **Description:** <span style="color: #645252;font-size:20px">Alle 20 Sek. nimmt der Stein-Wasserspeier 10 Sek. lang &lt;Steingestalt&gt; an. In diesem Stadium steigt sein ANG um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und sein Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Starke Unterdrückung
+### Gewöhnliche Fähigkeit 1 : Starke Unterdrückung
  **Description:** <span style="color: #645252;font-size:20px">Gegen eine Einheit, die nicht fliegen kann, steigt der Angriff des Stein-Wasserspeiers um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Scharfe Krallen
+### Gewöhnliche Fähigkeit 2 : Scharfe Krallen
  **Description:** <span style="color: #645252;font-size:20px">Die Abwehrdurchdringung des Stein-Wasserspeiers wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Abwehr-Einheiten wird der Effekt verdoppelt.</span><span style="color: black">
 
-### 4 Skill: Bastion aus Stein
+### Gewöhnliche Fähigkeit 3 : Bastion aus Stein
  **Description:** <span style="color: #645252;font-size:20px">Solange der Stein-Wasserspeier in &lt;Steingestalt&gt; ist, steigt seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+28} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

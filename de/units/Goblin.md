@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /de/units/Goblin/
 excerpt: "Einheiten Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Goblin"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
 ## Skills
-### 1 Skill: Kriegssturm
+### Ultimative Fähigkeit: Kriegssturm
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Goblins fügt mit einer gewissen Wahrscheinlichkeit 3 Mitgliedern einer gegnerischen Einheit Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+52} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG zu.</span><span style="color: black">
 
-### 2 Skill: Amoklauf
+### Gewöhnliche Fähigkeit 1 : Amoklauf
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Goblins steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Goblins unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
-### 3 Skill: Hinrichtung
+### Gewöhnliche Fähigkeit 2 : Hinrichtung
  **Description:** <span style="color: #645252;font-size:20px">Bei Angriffen auf eine Einheit, die weniger als 30 % ihrer LP hat, steigt der ANG des Goblins um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Blutdurst
+### Gewöhnliche Fähigkeit 3 : Blutdurst
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Goblins werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jeder verursachte kritische Treffer stellt 2 % der LP wieder her.</span><span style="color: black">
 
-### 5 Skill: Kampfzelot
+### Fraktions-Spezialfähigkeit I : Kampfzelot
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

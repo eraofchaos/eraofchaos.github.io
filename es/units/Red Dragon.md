@@ -3,7 +3,7 @@ title: "Dragón Rojo"
 permalink: /es/units/Red Dragon/
 excerpt: "Unidades Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones."
 unitID: 708
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Dragón Rojo"
 toc: true
@@ -56,22 +56,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
-### 1 Skill: Llamarada ardiente
+### Habilidad definitiva: Llamarada ardiente
  **Description:** <span style="color: #645252;font-size:20px">El Dragón Rojo ruge cada 15 s e inflige un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ a todas las unidades lanzadoras/a distancia enemigas, así como un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ más un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a todas las unidades cuerpo a cuerpo enemigas. Además, añade una Marca de odio que se acumula hasta 4 veces. El daño infligido por &lt;Llamarada ardiente&gt; aumenta un 20% por cada Marca de odio que tenga la unidad enemiga. El daño de unidad del Dragón Rojo aumenta un 50% al luchar contra unidades de Torre.</span><span style="color: black">
 
-### 2 Skill: Aliento de llamaradas
+### Habilidad normal 1 : Aliento de llamaradas
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Dragón Rojo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño adicional a 2 unidades a cierta distancia alrededor del objetivo y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">quema</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 8 s. Para unidades de la facción de Torre, el daño del Dragón Rojo aumenta un 50%.</span><span style="color: black">
 
-### 3 Skill: Rompehechizos poderoso
+### Habilidad normal 2 : Rompehechizos poderoso
  **Description:** <span style="color: #645252;font-size:20px">Cuando un héroe enemigo lanza un hechizo, el Dragón Rojo da rienda suelta a su poder e incrementa el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> para todas las unidades de Mazmorra amistosas no defensivas. Además, incrementa el escudo en un valor equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV y la reducción de daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> para todas de las unidades de Mazmorra defensivas amistosas. El efecto dura 8 s y se puede acumular hasta 2 veces.</span><span style="color: black">
 
-### 4 Skill: Esplendor del dragón
+### Habilidad normal 3 : Esplendor del dragón
  **Description:** <span style="color: #645252;font-size:20px">El Dragón Rojo es inmune a las </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemaduras</span><span style="color: black"><span style="color: #645252;font-size:20px">, al </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> y a la </span><span style="color: black"><span style="color: #48b946;font-size:20px">plaga</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay un Dragón Rojo en el campo de batalla, la resistencia mágica contra hechizos de fuego del enemigo se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica contra unidades de Torre. Al lanzar &lt;Llamarada ardiente&gt;, el Dragón Rojo tiene un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de activar &lt;Resonancia de Dragón&gt;, que provoca que las unidades de Dragón lancen una habilidad no despertada específica más (Dragón Verde/Dorado - &lt;Refuerzo celestial&gt;; Dragón de Hueso/Fantasma - &lt;Miedo&gt;; Hidra - &lt;Niebla caótica&gt;; Dragón Negro/Rey Dragón Negro - &lt;Aliento de dragón&gt;; Guiverno/Guiverno Monarca - &lt;Estilo salvaje&gt;; Tortuga Dragón - &lt;Muralla de marea&gt;).</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflicto oscuro
+### Habilidad especial de la facción II : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

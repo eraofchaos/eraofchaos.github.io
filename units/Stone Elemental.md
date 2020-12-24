@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Units The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Stone Elemental"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: Shatter Rocks
+### Ultimate Skill: Shatter Rocks
  **Description:** <span style="color: #645252;font-size:20px">One Stone Elemental will split into 2 smaller Stone Elementals after it dies. The smaller Stone Elemental has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+17)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*120+880)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, and exists throughout the entire battle.</span><span style="color: black">
 
-### 2 Skill: Rock Solid
+### Regular Skill 1 : Rock Solid
  **Description:** <span style="color: #645252;font-size:20px">Stone Elemental's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles when the Stone Elemental takes unit's damage from Ranged units.</span><span style="color: black">
 
-### 3 Skill: Elemental Force
+### Regular Skill 2 : Elemental Force
  **Description:** <span style="color: #645252;font-size:20px">When Stone Elemental is on the battlefield, it increases magic resistance of earth spells for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces magic resistance of earth spells for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Stone Elemental unit is on the battlefield, reduces enemy hero's initial Mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Earth Echo
+### Regular Skill 3 : Earth Echo
  **Description:** <span style="color: #645252;font-size:20px">When the Stone Elemental and smaller Stone Elementals are killed, they deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a large range and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stun&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 5 Skill: Elemental Affinity
+### Faction Special Skill I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 6 Skill: Elemental Conflict
+### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

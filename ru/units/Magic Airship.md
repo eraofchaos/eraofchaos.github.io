@@ -3,7 +3,7 @@ title: "Магический корабль"
 permalink: /ru/units/Magic Airship/
 excerpt: "Отряды Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов."
 unitID: 608
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Магический корабль"
 toc: true
@@ -22,10 +22,6 @@ toc: true
  **Members:** x4
 
  **Rank:** SR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Поддержка магов. Увеличивает АТК отряда заклинателей и замораживает атаки врага.
 
@@ -60,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">При менее 30% ОЗ у любого из ваших отрядов восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ, рассеиваются все ослабления, а сопротивление урону и сопротивление магии повышаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. Можно использовать только один раз за бой.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель и вражеские отряды вокруг нее на 2 сек.</span><span style="color: black">
 
-### 3 Skill: Поле заклинания
+### Обычное умение 2 : Поле заклинания
  **Description:** <span style="color: #645252;font-size:20px">Магические корабли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда используется «Магическое пробуждение», вражеские герои теряют 2 ед. маны, а союзные герои восстанавливают 3 ед. маны. </span><span style="color: black">
 
-### 4 Skill: Магическое пробуждение
+### Обычное умение 3 : Магическое пробуждение
  **Description:** <span style="color: #645252;font-size:20px">При усилении магических кораблей заклинанием союзного героя скорость атаки у всех отрядов заклинателей повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а урон отряда - на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. Скорость атаки повышается у всех отрядов заклинателей на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в течение всего боя. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent
@@ -95,7 +91,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

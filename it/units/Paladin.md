@@ -3,7 +3,7 @@ title: "Paladino"
 permalink: /it/units/Paladin/
 excerpt: "Unità I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Paladino"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
 ## Skills
-### 1 Skill: null
+### Tecnica suprema: null
  **Description:** 
 
-### 2 Skill: Comando
+### Tecnica normale 1 : Comando
  **Description:** <span style="color: #645252;font-size:20px">La riduzione danno del Paladino aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Incentivo
+### Tecnica normale 2 : Incentivo
  **Description:** <span style="color: #645252;font-size:20px">Il Paladino è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il Paladino e le unità alleate in un'ampia area ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">Morale alto</span><span style="color: black"><span style="color: #645252;font-size:20px"> e 500 CRIT per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 4 Skill: Aura d'innocenza
+### Tecnica normale 3 : Aura d'innocenza
  **Description:** <span style="color: #645252;font-size:20px">Il Paladino è immune alle </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Se il Paladino è sul campo di battaglia, la riduzione danno delle unità alleate aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Assedio
+### Tecnica speciale fazione I : Assedio
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero difensivo
+### Tecnica speciale fazione II : Riverbero difensivo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

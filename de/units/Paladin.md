@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /de/units/Paladin/
 excerpt: "Einheiten Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
 unitID: 108
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Paladin"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Führungskraft
+### Gewöhnliche Fähigkeit 1 : Führungskraft
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Paladins steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> genießt.</span><span style="color: black">
 
-### 3 Skill: Ansporn
+### Gewöhnliche Fähigkeit 2 : Ansporn
  **Description:** <span style="color: #645252;font-size:20px">Der Paladin ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Niedrige Moral&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Paladin verleiht sich und verbündeten Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> und 500 Krit. Treffer. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
-### 4 Skill: Domäne der Unschuld
+### Gewöhnliche Fähigkeit 3 : Domäne der Unschuld
  **Description:** <span style="color: #645252;font-size:20px">Der Paladin ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Krankheit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Erhöht die Schadensreduzierung aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, solange er auf dem Schlachtfeld ist.</span><span style="color: black">
 
-### 5 Skill: Belagerungskampf
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Abwehr-Resonanz
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

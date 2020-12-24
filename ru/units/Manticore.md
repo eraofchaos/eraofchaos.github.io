@@ -3,7 +3,7 @@ title: "Мантикора"
 permalink: /ru/units/Manticore/
 excerpt: "Отряды null"
 unitID: 706
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Мантикора"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
-### 1 Skill: Парализующий яд
+### Совершенное умение: Парализующий яд
  **Description:** <span style="color: #645252;font-size:20px">Мантикоры атакуют выбранный отряд каждые 20 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и окружающим ее врагам в определенном радиусе и снижая их ЗЩТ на 30% на 10 сек.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у мантикор есть шанс 25% уменьшить сопротивление урону у отрядов ближнего боя на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При обычной атаке в бою против стрелковых отрядов и заклинателей есть шанс 25% повысить критический удар у союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Эффект суммируется до 8 раз.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** 
 
-### 4 Skill: Брызги ядовитой крови
+### Обычное умение 3 : Брызги ядовитой крови
  **Description:** 
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Темный конфликт
+### Эксклюзивное умение фракции II : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent

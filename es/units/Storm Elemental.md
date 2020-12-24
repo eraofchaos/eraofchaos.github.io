@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /es/units/Storm Elemental/
 excerpt: "Unidades Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Marcador de estática
+### Habilidad definitiva: Marcador de estática
  **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, las unidades de Elementales de Tormenta causan </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;estática&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades enemigas a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 2 Skill: Rebote de relámpagos
+### Habilidad normal 1 : Rebote de relámpagos
  **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Elemental de Tormenta tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de lanzar relámpagos al objetivo, lo que inflige 300% del daño.</span><span style="color: black">
 
-### 3 Skill: Fuerza elemental
+### Habilidad normal 2 : Fuerza elemental
  **Description:** <span style="color: #645252;font-size:20px">Si hay un Elemental de Tormenta en el campo de batalla, este aumenta la reducción de daño contra los hechizos de aire de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la reducción de daño contra hechizos de aire de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay un Elemental de Tormenta en el campo de batalla, el maná inicial del Héroe amistoso aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Perforación estática
+### Habilidad normal 3 : Perforación estática
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Elemental de Tormenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si el objetivo está afectado por </span><span style="color: black"><span style="color: #48b946;font-size:20px">estática</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Afinidad elemental
+### Habilidad especial de la facción I : Afinidad elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflicto elemental
+### Habilidad especial de la facción II : Conflicto elemental
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

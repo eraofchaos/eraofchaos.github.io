@@ -3,7 +3,7 @@ title: "Steinelementar"
 permalink: /de/units/Stone Elemental/
 excerpt: "Einheiten Der Steinelementar ist das Ergebnis geologischer Verschmelzung mehrerer Mineralien. Teilt sich in kleinere Steinelementare auf, die weiterkämpfen."
 unitID: 905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Steinelementar"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: Schmetterfelsen
+### Ultimative Fähigkeit: Schmetterfelsen
  **Description:** <span style="color: #645252;font-size:20px">Ein Steinelementar teilt sich bei seinem Tod auf in 2 kleinere Steinelementare. Ein kleinerer Steinelementar hat </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+17)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*120+880)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP und kämpft die gesamte Schlacht über.</span><span style="color: black">
 
-### 2 Skill: Felsenfest
+### Gewöhnliche Fähigkeit 1 : Felsenfest
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Steinelementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn der Steinelementar von Fernkampf-Einheiten angegriffen wird.</span><span style="color: black">
 
-### 3 Skill: Kraft der Elemente
+### Gewöhnliche Fähigkeit 2 : Kraft der Elemente
  **Description:** <span style="color: #645252;font-size:20px">Solange der Steinelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Magieresistenz gegen Erdzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Magieresistenz gegen Erdzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 4 Skill: Echo der Erde
+### Gewöhnliche Fähigkeit 3 : Echo der Erde
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Steinelementar und die kleineren Steinelementare sterben, fügen sie allen gegnerischen Einheiten in großem Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Diese Einheiten sind </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Elementare Affinität
+### Fraktions-Spezialfähigkeit I : Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Offensive Elemente
+### Fraktions-Spezialfähigkeit II : Offensive Elemente
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Orc"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
 ## Skills
-### 1 Skill: Expert Execution
+### Ultimate Skill: Expert Execution
  **Description:** <span style="color: #645252;font-size:20px">When fighting against a target with HP lower than 30%, Orc's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px">,crit damage increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Cutting
+### Regular Skill 1 : Cutting
  **Description:** <span style="color: #645252;font-size:20px">Orc's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*60+240}</span><span style="color: black"><span style="color: #645252;font-size:20px">,unit's damage increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### 3 Skill: Rampage
+### Regular Skill 2 : Rampage
  **Description:** <span style="color: #645252;font-size:20px">Orc's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. When its HP is lower than 35%, the effect doubles. (It still works after HP is restored)</span><span style="color: black">
 
-### 4 Skill: Bloodlust
+### Regular Skill 3 : Bloodlust
  **Description:** <span style="color: #645252;font-size:20px">Orc's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. 2% of HP will be restored for every Crit Hit.</span><span style="color: black">
 
-### 5 Skill: Fight Zealot
+### Faction Special Skill I : Fight Zealot
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
-### 6 Skill: Rise of Vitality
+### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent

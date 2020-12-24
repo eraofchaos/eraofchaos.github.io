@@ -3,7 +3,7 @@ title: "Demonio del Abismo"
 permalink: /es/units/Pit Fiend/
 excerpt: "Unidades Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Demonio del Abismo"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
 ## Skills
-### 1 Skill: Fuente ígnea
+### Habilidad definitiva: Fuente ígnea
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Demonios del Abismo dejan un Manantial de fuego a su paso que restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos de las unidades amistosas en una zona grande delante de ellas cada 2 s durante 8 s.</span><span style="color: black">
 
-### 2 Skill: Invocación del Señor
+### Habilidad normal 1 : Invocación del Señor
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Demonios del Abismo en el campo de batalla, esta invoca 4 Demonios para que luchen. Los Demonios tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4.5+30.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*100+700)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, 700 de DEF y 500 de índice de golpe crítico, y duran toda la batalla.</span><span style="color: black">
 
-### 3 Skill: Calor
+### Habilidad normal 2 : Calor
  **Description:** <span style="color: #645252;font-size:20px">La &lt;Fuente Ígnea&gt; de la Demonio del Abismo aumenta la curación un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La curación de &lt;Fuente Ígnea&gt; aumenta un 5% por cada unidad del Infierno desplegada.</span><span style="color: black">
 
-### 4 Skill: Voluntad del Señor
+### Habilidad normal 3 : Voluntad del Señor
  **Description:** <span style="color: #645252;font-size:20px">Si hay Demonios del Abismo en la batalla, los PV y el ATQ de los Diablillos, Demonios y Elementales de Fuego aliados aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Golpe asador
+### Habilidad especial de la facción I : Golpe asador
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
-### 6 Skill: Resonancia de resistencia
+### Habilidad especial de la facción II : Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent

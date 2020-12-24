@@ -3,7 +3,7 @@ title: "Dragón Verde"
 permalink: /es/units/Green Dragon/
 excerpt: "Unidades Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Dragón Verde"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
 ## Skills
-### 1 Skill: Inundación de veneno
+### Habilidad definitiva: Inundación de veneno
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Dragón Verde escupe veneno en una zona enorme delante de él cada 30 s, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que no sean aéreas dentro del alcance. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 50%.</span><span style="color: black">
 
-### 2 Skill: Aliento ponzoñoso
+### Habilidad normal 1 : Aliento ponzoñoso
  **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades de nueve, los ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a 3 objetivos.</span><span style="color: black">
 
-### 3 Skill: Escama de Dragón Verde
+### Habilidad normal 2 : Escama de Dragón Verde
  **Description:** <span style="color: #645252;font-size:20px">El Dragón Verde es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y aumenta la reducción de daño contra hechizos de agua de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando el Dragón Verde consigue un &lt;escudo&gt;, aumenta su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto dura 15 s. Por cada unidad voladora desplegada, el Dragón Verde aumentará su daño de unidad un 3%.</span><span style="color: black">
 
-### 4 Skill: Refuerzo celestial
+### Habilidad normal 3 : Refuerzo celestial
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Dragón Verde inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a tres unidades enemigas en la retaguardia. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
-### 5 Skill: Proliferación calmada
+### Habilidad especial de la facción I : Proliferación calmada
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marca de odio
+### Habilidad especial de la facción II : Marca de odio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
 
 ## Talent

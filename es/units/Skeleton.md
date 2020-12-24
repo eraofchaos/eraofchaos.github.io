@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /es/units/Skeleton/
 excerpt: "Unidades Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Esqueleto"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
-### 1 Skill: Escudo óseo
+### Habilidad definitiva: Escudo óseo
  **Description:** <span style="color: #645252;font-size:20px">El Esqueleto genera un escudo de huesos para sí mismo cuando sus PV se reducen por debajo del 50% por primera; el escudo reduce el daño que recibe la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
-### 2 Skill: Espina ósea
+### Habilidad normal 1 : Espina ósea
  **Description:** <span style="color: #645252;font-size:20px">El Esqueleto refleja un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del daño recibido.</span><span style="color: black">
 
-### 3 Skill: Convertir en piedra
+### Habilidad normal 2 : Convertir en piedra
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Esqueleto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el reflejo de daño un 10%.</span><span style="color: black">
 
-### 4 Skill: Caja torácica
+### Habilidad normal 3 : Caja torácica
  **Description:** <span style="color: #645252;font-size:20px">Los Esqueletos son inmunes a </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño que reciben de las unidades a distancia se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Defensa lúgubre
+### Habilidad especial de la facción I : Defensa lúgubre
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonía de hechizo
+### Habilidad especial de la facción II : Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
 ## Talent

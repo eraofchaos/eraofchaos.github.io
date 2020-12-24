@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /it/units/Demon/
 excerpt: "Unità I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Demone"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
 ## Skills
-### 1 Skill: Attacco scottante
+### Tecnica suprema: Attacco scottante
  **Description:** <span style="color: #645252;font-size:20px">Il Demone infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 1 unità nemica casuale in un'ampia area, e la sua Schivata aumenta di 300 per 12 secondi.</span><span style="color: black">
 
-### 2 Skill: Ustione
+### Tecnica normale 1 : Ustione
  **Description:** <span style="color: #645252;font-size:20px">Il Demone recupera <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi con ogni schivata.</span><span style="color: black">
 
-### 3 Skill: Scagnozzo infernale
+### Tecnica normale 2 : Scagnozzo infernale
  **Description:** <span style="color: #645252;font-size:20px">PF del Demone aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 30%.</span><span style="color: black">
 
-### 4 Skill: Unità di fuoco
+### Tecnica normale 3 : Unità di fuoco
  **Description:** <span style="color: #645252;font-size:20px">Schivata del Demone aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Schivata del Demone aumenta di 40 per ogni unità Inferno schierata.</span><span style="color: black">
 
-### 5 Skill: Attacco ustionante
+### Tecnica speciale fazione I : Attacco ustionante
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero anti-incantesimo
+### Tecnica speciale fazione II : Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Harpyie"
 permalink: /de/units/Harpy/
 excerpt: "Einheiten Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Harpyie"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
 ## Skills
-### 1 Skill: Scharfe Harpyienkralle
+### Ultimative Fähigkeit: Scharfe Harpyienkralle
  **Description:** <span style="color: #645252;font-size:20px">Wenn die Harpyie angegriffen wird, besteht eine Wahrscheinlichkeit, dass sie 3 Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Standardangriffe haben ebenfalls eine Chance, dies auszulösen.</span><span style="color: black">
 
-### 2 Skill: Starke Unterdrückung
+### Gewöhnliche Fähigkeit 1 : Starke Unterdrückung
  **Description:** <span style="color: #645252;font-size:20px">Gegen Einheiten, die nicht fliegen können, wird der Angriff der Harpyie um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
-### 3 Skill: Schrei des Zauberbrechers
+### Gewöhnliche Fähigkeit 2 : Schrei des Zauberbrechers
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein gegnerischer Held einen Zauber wirkt, reduziert die Harpyie die Schadensreduzierung der Einheiten im selben Weg 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 3 Stapel.</span><span style="color: black">
 
-### 4 Skill: Zielen im Flug
+### Gewöhnliche Fähigkeit 3 : Zielen im Flug
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Schaden der Harpyie steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Harpyie fügt <span style="color: #48b946;font-size:20px">„betäubten“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Zielen immer kritische Treffer zu.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

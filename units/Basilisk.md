@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Units Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Basilisk"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
-### 1 Skill: Petrifying Bite
+### Ultimate Skill: Petrifying Bite
  **Description:** <span style="color: #645252;font-size:20px">The Basilisk unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 2 Skill: Adamantine Flake
+### Regular Skill 1 : Adamantine Flake
  **Description:** <span style="color: #645252;font-size:20px">Increase Basilisk's DE by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Plague Symbiosis
+### Regular Skill 2 : Plague Symbiosis
  **Description:** <span style="color: #645252;font-size:20px">Basilisk's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Basilisk's unit's damage reduction will be increased by 5% further for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
-### 4 Skill: Petrifying Impact
+### Regular Skill 3 : Petrifying Impact
  **Description:** <span style="color: #645252;font-size:20px">Every Basilisk <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> surrounding enemies when it dies. The effect lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 5 Skill: Plague Strike
+### Faction Special Skill I : Plague Strike
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
 
-### 6 Skill: Rise of Vitality
+### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Talent

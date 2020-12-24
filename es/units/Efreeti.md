@@ -3,7 +3,7 @@ title: "Efrit"
 permalink: /es/units/Efreeti/
 excerpt: "Unidades Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Efrit"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Tormenta de fuego
+### Habilidad definitiva: Tormenta de fuego
  **Description:** <span style="color: #645252;font-size:20px">El Efrit lanza una Tormenta de fuego en una zona que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a todas las tropas enemigas en la zona y causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
-### 2 Skill: Escudo llameante
+### Habilidad normal 1 : Escudo llameante
  **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Efrit crea un &lt;Escudo de Fuego&gt; en todas las unidades amistosas del Infierno que refleja un 15% del daño recibido durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 3 Skill: Rojo vivo
+### Habilidad normal 2 : Rojo vivo
  **Description:** <span style="color: #645252;font-size:20px">El &lt;Escudo de Fuego&gt; del Efrit aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Dios del fuego
+### Habilidad normal 3 : Dios del fuego
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Efrit un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Golpe asador
+### Habilidad especial de la facción I : Golpe asador
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
-### 6 Skill: Resonancia de resistencia
+### Habilidad especial de la facción II : Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent

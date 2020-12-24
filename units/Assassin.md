@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Assassin"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
-### 1 Skill: Assassination
+### Ultimate Skill: Assassination
  **Description:** <span style="color: #645252;font-size:20px">Assassins enter </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> status at the beginning of battle, and they lose </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> once engaged. Whenever an Assassin loses </span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px">, their next attack will be a Broken Stealth attack, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Attack and reducing their healing received by 30%. This effect can trigger once every 10s.</span><span style="color: black">
 
-### 2 Skill: Assassin Instinct
+### Regular Skill 1 : Assassin Instinct
  **Description:** <span style="color: #645252;font-size:20px">Assassin increases </span><span style="color: black"><span style="color: #645252;font-size:20px">unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%.</span><span style="color: black"><span style="color: #645252;font-size:20px"> This bonus doubles when under the effect of </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Hawkeye&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Attacking</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;blind&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">enemies increases penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}.</span><span style="color: black">
 
-### 3 Skill: Smoke Bomb
+### Regular Skill 2 : Smoke Bomb
  **Description:** <span style="color: #645252;font-size:20px">Assassins throw a smoke bomb at their feet and increase their own DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> while</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;blinding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all enemy units within a large range, reducing unit damage and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. CD is 18s.</span><span style="color: black">
 
-### 4 Skill: Chain Attack
+### Regular Skill 3 : Chain Attack
  **Description:** <span style="color: #645252;font-size:20px">Assassins increase their attack speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and their Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect triples for 20s after an Assassin kills a target unit and enters into </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> mode for 5s.</span><span style="color: black">
 
-### 5 Skill: Armed Conflict
+### Faction Special Skill I : Armed Conflict
  **Description:** <span style="color: #645252;font-size:20px">Neutral units are a proficient force. When fighting against non-Neutral units, their </span><span style="color: black"><span style="color: #645252;font-size:20px">Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%.</span><span style="color: black">
 
-### 6 Skill: Courage Boost
+### Faction Special Skill II : Courage Boost
  **Description:** <span style="color: #645252;font-size:20px">Neutral units are able to resist a great amount of force. Each time they lose 10% of their HP, their </span><span style="color: black"><span style="color: #645252;font-size:20px">Defense increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
 
 ## Talent

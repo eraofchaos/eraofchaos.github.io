@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /es/units/Basilisk/
 excerpt: "Unidades Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad."
 unitID: 804
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Basilisco"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
-### 1 Skill: Mordisco petrificante
+### Habilidad definitiva: Mordisco petrificante
  **Description:** <span style="color: #645252;font-size:20px">La unidad de Basiliscos <span style="color: #48b946;font-size:20px">&lt;petrifica&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a su objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### 2 Skill: Copo de adamanto
+### Habilidad normal 1 : Copo de adamanto
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la DEF del Basilisco un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Simbiosis de la plaga
+### Habilidad normal 2 : Simbiosis de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Basiliscos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de la unidad de Basiliscos un 5% más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
-### 4 Skill: Impacto petrificador
+### Habilidad normal 3 : Impacto petrificador
  **Description:** <span style="color: #645252;font-size:20px">Cada Basilisco <span style="color: #48b946;font-size:20px">&lt;petrifica&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a los enemigos alrededor cuando muere durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 5 Skill: Golpe de la plaga
+### Habilidad especial de la facción I : Golpe de la plaga
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ## Talent

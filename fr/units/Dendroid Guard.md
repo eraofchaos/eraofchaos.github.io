@@ -3,7 +3,7 @@ title: "Garde sylvanien"
 permalink: /fr/units/Dendroid Guard/
 excerpt: "Unités Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Garde sylvanien"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
 ## Skills
-### 1 Skill: Engourdissement
+### Capacité ultime: Engourdissement
  **Description:** <span style="color: #645252;font-size:20px">Le Garde sylvanien </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies dans une large zone autour de lui et réduit leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
 
-### 2 Skill: Roulade écrasante
+### Compétence normale 1 : Roulade écrasante
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Garde sylvanien a une chance de créer un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bouclier&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> qui lui permettra d'absorber une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max.</span><span style="color: black">
 
-### 3 Skill: Armure du chêne sacré
+### Compétence normale 2 : Armure du chêne sacré
  **Description:** <span style="color: #645252;font-size:20px">Le Garde sylvanien est immunisé contre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Rigidité
+### Compétence normale 3 : Rigidité
  **Description:** <span style="color: #645252;font-size:20px">Quand un Garde sylvanien subit une attaque, il renvoie une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ et inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à l'ennemi qui l'a attaqué pendant 6 secondes.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

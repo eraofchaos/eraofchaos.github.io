@@ -3,7 +3,7 @@ title: "Schlangenfliege"
 permalink: /de/units/Serpent Fly/
 excerpt: "Einheiten Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
 unitID: 803
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Schlangenfliege"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
 ## Skills
-### 1 Skill: Sumpfseuche
+### Ultimative Fähigkeit: Sumpfseuche
  **Description:** <span style="color: #645252;font-size:20px">Die Schlangenfliege fügt ihrem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 6 Sek. lang <span style="color: #48b946;font-size:20px">„Seuche“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Luft voller Fliegen
+### Gewöhnliche Fähigkeit 1 : Luft voller Fliegen
  **Description:** <span style="color: #645252;font-size:20px">Das Angriffstempo der Schlangenfliege wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht, Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45} </span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Seuchensymbiose
+### Gewöhnliche Fähigkeit 2 : Seuchensymbiose
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Schlangenfliege wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 75 pro Debuff auf dem Ziel, bis zu 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Schwäche
+### Gewöhnliche Fähigkeit 3 : Schwäche
  **Description:** <span style="color: #645252;font-size:20px">Wenn die Schlangenfliege einen kritischen Treffer landet, wird mit 8 % Wahrscheinlichkeit der Schaden gegnerischer Einheiten in einem bestimmten Radius 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert sowie Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 3 Stapel.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

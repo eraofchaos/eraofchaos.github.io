@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /ru/units/Green Dragon/
 excerpt: "Отряды Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2020-12-17
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Зеленый дракон"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
 ## Skills
-### 1 Skill: Волна яда
+### Совершенное умение: Волна яда
  **Description:** <span style="color: #645252;font-size:20px">Зеленые драконы плюются перед собой ядом в широком радиусе каждые 30 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона нелетающим вражеским отрядам в пределах досягаемости. Наносят на 50% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Ядовитое дыхание
+### Обычное умение 1 : Ядовитое дыхание
  **Description:** 
 
-### 3 Skill: Чешуя Зеленого дракона
+### Обычное умение 2 : Чешуя Зеленого дракона
  **Description:** 
 
-### 4 Skill: Подкрепление с небес
+### Обычное умение 3 : Подкрепление с небес
  **Description:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
 ## Talent
@@ -101,7 +101,7 @@ toc: true
 
  3. null
 
- 4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз, используя зеленых драконов.</span>
+ 4. null
 
 ## Awaken Skills
 

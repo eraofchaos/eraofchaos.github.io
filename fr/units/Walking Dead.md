@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /fr/units/Walking Dead/
 excerpt: "Unités Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Trépassé"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
 ## Skills
-### 1 Skill: Gaz toxique
+### Capacité ultime: Gaz toxique
  **Description:** <span style="color: #645252;font-size:20px">Les Trépassés infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à toutes les unités ennemies dans un certain rayon autour d'eux toutes les 2 secondes. Les dégâts infligés aux cibles victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
-### 2 Skill: Infection
+### Compétence normale 1 : Infection
  **Description:** <span style="color: #645252;font-size:20px">La compétence &lt;Gaz toxique&gt; des Trépassés diminue l'ATQ de la cible de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et lui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Lenteur&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sur la durée.</span><span style="color: black">
 
-### 3 Skill: Détonation
+### Compétence normale 2 : Détonation
  **Description:** <span style="color: #645252;font-size:20px">Lorsque le Trépassé est tué, il inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à toutes les unités ennemies dans une large zone pendant 8 secondes. Les dégâts infligés aux unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
 
-### 4 Skill: Montagne de corps
+### Compétence normale 3 : Montagne de corps
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts subis par les Trépassés augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si l'ennemi qui attaque le Mort-vivant est dans un état de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, l'effet double.</span><span style="color: black">
 
-### 5 Skill: Défense sinistre
+### Compétence spéciale de faction I : Défense sinistre
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole connaissent bien les environnements sinistres. Leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités &lt;démotivées&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonie du sortilège
+### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Панцирный дракон"
 permalink: /ru/units/Dragon Turtle/
 excerpt: "Отряды У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Панцирный дракон"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
-### 1 Skill: Стремительный перекат
+### Совершенное умение: Стремительный перекат
  **Description:** 
 
-### 2 Skill: Ядовитое дыхание, ур. 2
+### Обычное умение 1 : Ядовитое дыхание, ур. 2
  **Description:** 
 
-### 3 Skill: Оплот прилива
+### Обычное умение 2 : Оплот прилива
  **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования &lt;Бронированного щита&gt; в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
 
-### 4 Skill: Подкрепление
+### Обычное умение 3 : Подкрепление
  **Description:** <span style="color: #645252;font-size:20px">Панцирные драконы создают щит подкрепления, повышая сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> для себя и всех союзных отрядов Убежища каждые 20 сек. Эффект длится 8 сек. и не может быть рассеян.</span><span style="color: black">
 
-### 5 Skill: Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ## Talent

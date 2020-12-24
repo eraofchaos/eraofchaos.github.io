@@ -3,7 +3,7 @@ title: "Aparición"
 permalink: /es/units/Wight/
 excerpt: "Unidades Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Aparición"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
-### 1 Skill: Chillido horripilante
+### Habilidad definitiva: Chillido horripilante
  **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Apariciones en el campo de batalla, su primer ataque </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades enemigas en una zona grande a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 2 Skill: Encarnación del horror
+### Habilidad normal 1 : Encarnación del horror
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el ATQ un 8% por cada unidad aliada que muera en el campo de batalla. Tiene efecto toda la batalla y se acumula hasta 10 veces.</span><span style="color: black">
 
-### 3 Skill: Maldición de infortunio
+### Habilidad normal 2 : Maldición de infortunio
  **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota a una Aparición, esta </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 4 Skill: Invisibilidad
+### Habilidad normal 3 : Invisibilidad
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando recibe daño de hechizo enemigo, el Héroe restaura 10 de maná.</span><span style="color: black">
 
-### 5 Skill: Defensa lúgubre
+### Habilidad especial de la facción I : Defensa lúgubre
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
-### 6 Skill: Harmonía de hechizo
+### Habilidad especial de la facción II : Harmonía de hechizo
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
 
 ## Talent

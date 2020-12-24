@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /it/units/Goblin/
 excerpt: "Unità I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Goblin"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
 ## Skills
-### 1 Skill: Tempesta di guerra
+### Tecnica suprema: Tempesta di guerra
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base dei Goblin ha una probabilità di infliggere danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+52}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT a 3 membri di un'unità nemica.</span><span style="color: black">
 
-### 2 Skill: Raptus
+### Tecnica normale 1 : Raptus
  **Description:** <span style="color: #645252;font-size:20px">CRIT dei Goblin aumentato di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
-### 3 Skill: Colpo di grazia
+### Tecnica normale 2 : Colpo di grazia
  **Description:** <span style="color: #645252;font-size:20px">Quando affrontano un'unità con PF inferiori al 30%, l'ATT dei Goblin aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Sete di sangue
+### Tecnica normale 3 : Sete di sangue
  **Description:** <span style="color: #645252;font-size:20px">PF dei Goblin aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I colpi critici ripristinano il 2% dei PF.</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Cíclope"
 permalink: /es/units/Cyclops/
 excerpt: "Unidades Los Cíclopes son famosos por su único ojo y su enorme cuerpo. Son irascibles y fieros. Su linaje se remonta a los Demonios."
 unitID: 406
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Cíclope"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
 ## Skills
-### 1 Skill: Piedra de la llama
+### Habilidad definitiva: Piedra de la llama
  **Description:** <span style="color: #645252;font-size:20px">El Cíclope lanza rocas de fuego en una zona grande delante de él, lo que provoca </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles e inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada 2 s durante 8 s.</span><span style="color: black">
 
-### 2 Skill: Golpe de asedio
+### Habilidad normal 1 : Golpe de asedio
  **Description:** <span style="color: #645252;font-size:20px">El Cíclope aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> el daño de la unidad y un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> la velocidad de ataque. El efecto se duplica para el Cíclope si sus PV se reducen por debajo del 35% (funciona aunque se recupere vida). Cuando el Cíclope se enfrenta a unidades de nueve, los ataques normales inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a tres unidades hostiles.</span><span style="color: black">
 
-### 3 Skill: Sacudida de tierra
+### Habilidad normal 2 : Sacudida de tierra
  **Description:** <span style="color: #645252;font-size:20px">El Cíclope tiene una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande y las puede </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s cuando le ataquen.</span><span style="color: black">
 
-### 4 Skill: Gigante
+### Habilidad normal 3 : Gigante
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Cíclope un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a unidades de nueve, se reduce el daño que recibe la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Lucha fanática
+### Habilidad especial de la facción I : Lucha fanática
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
 
 ## Talent

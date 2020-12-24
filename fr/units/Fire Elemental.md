@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /fr/units/Fire Elemental/
 excerpt: "Unités Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -57,22 +57,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
 ## Skills
-### 1 Skill: Feu céleste
+### Capacité ultime: Feu céleste
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de feu inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie, et la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
 
-### 2 Skill: null
+### Compétence normale 1 : null
  **Description:** 
 
-### 3 Skill: Force élémentaire
+### Compétence normale 2 : Force élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de feu est sur le champ de bataille, il augmente la résistance magique aux sorts de feu de ses alliés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et réduit la résistance magique aux sorts de feu de ses ennemis de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. De plus, les points de mana initiaux du Héros ennemi diminuent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Conducteur d'énergie ardente
+### Compétence normale 3 : Conducteur d'énergie ardente
  **Description:** <span style="color: #645252;font-size:20px">Quand un Élémentaire de feu tue un ennemi, il regagne </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max et son ATQ est augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet est actif pendant tout le combat et peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
 
-### 5 Skill: Affinité élémentaire
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflit élémentaire
+### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Wespenwurz"
 permalink: /de/units/Waspwort/
 excerpt: "Einheiten Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
 unitID: 808
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Wespenwurz"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
 ## Skills
-### 1 Skill: Seuchennadel
+### Ultimative Fähigkeit: Seuchennadel
  **Description:** <span style="color: #645252;font-size:20px">Der Wespenwurz speit alle 12 Sek. einen Hagel von Giftstacheln, die dem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügen und 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Seuche“</span><span style="color: black"><span style="color: #645252;font-size:20px"> verursachen. Wenn der Wespenwurz bei einem Standardangriff einen kritischen Treffer landet, wird sein Angriffstempo 10 Sek. lang um 5 % erhöht; bis 20 Stapel.</span><span style="color: black">
 
-### 2 Skill: Seuchenwespe
+### Gewöhnliche Fähigkeit 1 : Seuchenwespe
  **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Wespenwurzes beschwört mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 Seuchenwespe. Für jede Beschwörung steigt der Schaden aller verbündeten Festung-Einheiten um 2 %, bis 8 Stapel. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn der Wespenwurz angreift, wird mit einer Wahrscheinlichkeit von 20 % eine </span><span style="color: black"><span style="color: #48b946;font-size:20px">Seuchenwespe</span><span style="color: black"><span style="color: #645252;font-size:20px"> herbeigerufen, und zu 30 % werden die Buffs des Ziels gebannt. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">Seuchenwespen</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black"><span style="color: #48b946;font-size:20px">„lähmen“</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihr Ziel oder fügen ihm </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wespen bleiben 40 Sek. lang bestehen. Wenn eine Wespe stirbt, fügt sie gegnerischen Einheiten in Reichweite 4 % der max. LP als Schaden zu.</span><span style="color: black">
 
-### 3 Skill: Seuchensucher
+### Gewöhnliche Fähigkeit 2 : Seuchensucher
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Wespenwurzes wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 75 für jeden Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
-### 4 Skill: Schwarmstock
+### Gewöhnliche Fähigkeit 3 : Schwarmstock
  **Description:** <span style="color: #645252;font-size:20px">Der Wespenwurz ist umgeben von Wespen, die seinen Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöhen. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wespenschwärme fügen gegnerischen Zeilen in Reichweite alle 0,1 Sek. Schaden in Höhe von 0,2 % der max. LP zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;lähmen&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie. Ziele, denen sie Schaden zufügen, werden mit einer Wahrscheinlichkeit von 5 % 1 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wespenschwärme erhöhen die Schadensreduzierung verbündeter Festung-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Seuchenangriff
+### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### 6 Skill: Erhöhte Vitalität
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Diablo"
 permalink: /es/units/Devil/
 excerpt: "Unidades El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Diablo"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
 ## Skills
-### 1 Skill: Segador doloroso
+### Habilidad definitiva: Segador doloroso
  **Description:** <span style="color: #645252;font-size:20px">Ataca a la unidad más alejada que se encuentra delante al principio de la batalla (ataca a una unidad aleatoria en la retaguardia si no hay objetivos válidos). Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño e invoca una sima de fuego que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada 0,5 s durante 6 s. Causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s la primera vez. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Puede desplegarse en cualquier posición. La habilidad se restablece cuando la unidad objetivo muere).</span><span style="color: black">
 
-### 2 Skill: Tortura cruel
+### Habilidad normal 1 : Tortura cruel
  **Description:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades hostiles aleatorias. El golpe crítico aumenta en 500 contra unidades con </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Marchitamiento
+### Habilidad normal 2 : Marchitamiento
  **Description:** <span style="color: #645252;font-size:20px">Si esta unidad está en el campo de batalla, inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a todas las unidades hostiles durante 2 s.</span><span style="color: black">
 
-### 4 Skill: Mataalmas
+### Habilidad normal 3 : Mataalmas
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a una unidad de Castillo, el daño aumenta un 50%.</span><span style="color: black">
 
-### 5 Skill: Golpe asador
+### Habilidad especial de la facción I : Golpe asador
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
-### 6 Skill: Resonancia de resistencia
+### Habilidad especial de la facción II : Resonancia de resistencia
  **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
 
 ## Talent

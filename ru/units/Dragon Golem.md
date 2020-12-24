@@ -1,9 +1,9 @@
 ---
 title: "Драконий голем"
 permalink: /ru/units/Dragon Golem/
-excerpt: "Отряды Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
+excerpt: "Отряды null"
 unitID: 609
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Драконий голем"
 toc: true
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:** Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой.
+ **Description:** null
 
  **Class:** Защита
 
@@ -25,10 +25,6 @@ toc: true
  **Members:** Unknown: 4 (2).
 
  **Rank:** UR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** В начале боя защищает войска, уменьшая получаемый урон. Самый лучший вариант защиты заднего ряда. Контроль дальнего боя, пугает все отряды на поле боя.
 
@@ -63,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
 ## Skills
-### 1 Skill: Головокружительный импульс
+### Совершенное умение: Головокружительный импульс
  **Description:** <span style="color: #645252;font-size:20px">Драконьи големы применяют Головокружительный импульс каждые 15 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона всем вражеским отрядам ближнего боя с <span style="color: #48b946;font-size:20px">оглушением</span><span style="color: black"> на 2 сек. и <span style="color: #48b946;font-size:20px">параличом</span><span style="color: black"> на 5 сек.</span><span style="color: black">
 
-### 2 Skill: Железное строение
+### Обычное умение 1 : Железное строение
  **Description:** <span style="color: #645252;font-size:20px">Драконьи големы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*10+150)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою против отрядов Подземелья урон отряда увеличивается на 100%. В начале боя драконьи големы создают <span style="color: #F0F000;font-size:20px">&lt;Железное строение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Магическое пробуждение
+### Обычное умение 2 : Магическое пробуждение
  **Description:** <span style="color: #645252;font-size:20px">При пробуждении под действием заклинания поддержки союзного героя активируется &lt;Магическая буря&gt;, которая вызывает немоту у вражеских отрядов в радиусе действия на 2 сек. и </span><span style="color: black"><span style="color: #48b946;font-size:20px">парализует</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 5 сек. В то же самое время они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.1+14.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.1+9.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект длится в течение всего боя. Суммируется до 3 раз. Драконьи големы пробуждаются каждые 25 сек. </span><span style="color: black">
 
-### 4 Skill: Повторная магия
+### Обычное умение 3 : Повторная магия
  **Description:** <span style="color: #645252;font-size:20px">Если у драконьих големов остается 40% или 20% ОЗ, они создают силовое поле для починки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2.8)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Во время починки урон, полученный драконьими големами, преобразуется в восстановление ОЗ. Когда драконьи големы погибают, вытекшая временная энергия наносит урон в размере 30% максимума ОЗ вражеским отрядам в широком радиусе и применяет </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Остановку времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> к целям на 5 сек.</span><span style="color: black">
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 7 Skill: Колесо времени
+### Обычное умение 6 : Колесо времени
  **Description:** <span style="color: #645252;font-size:20px">Драконьи големы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*20+100)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости, если используются 3 башни. Когда драконьи големы активируют &lt;Магическое пробуждение&gt;, они открывают </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Временную область&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Область существует 15 сек. Перезарядка - 30 сек.</span><span style="color: black">
 
 ## Talent

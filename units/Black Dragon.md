@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Units A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Black Dragon"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
 ## Skills
-### 1 Skill: Dragon Breath
+### Ultimate Skill: Dragon Breath
  **Description:** <span style="color: #645252;font-size:20px">The Black Dragon deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all hostile units in a very large area every 15s, while causing additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to nearby units and <span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
 
-### 2 Skill: Black Dragon Scale
+### Regular Skill 1 : Black Dragon Scale
  **Description:** <span style="color: #645252;font-size:20px">The Black Dragon is immune to <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and <span style="color: #48b946;font-size:20px">&lt;Burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. When hit by a Crit Hit, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. CD is 6s.</span><span style="color: black">
 
-### 3 Skill: Magic Immunity
+### Regular Skill 2 : Magic Immunity
  **Description:** <span style="color: #645252;font-size:20px">Immune to spell damage done by all heroes. Increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time &lt;Dragon Breath&gt; is cast throughout the entire battle, up to 4 stacks.</span><span style="color: black">
 
-### 4 Skill: Heat Resistance
+### Regular Skill 3 : Heat Resistance
  **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px">&lt;Burned&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit's damage is increased by 50%.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Dark Conflict
+### Faction Special Skill II : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

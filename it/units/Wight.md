@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /it/units/Wight/
 excerpt: "Unità Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Anima"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
 ## Skills
-### 1 Skill: Strillo raccapricciante
+### Tecnica suprema: Strillo raccapricciante
  **Description:** <span style="color: #645252;font-size:20px">Quando un'Anima entra in battaglia, il suo primo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche sul suo percorso in un'ampia area per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 2 Skill: Incarnazione dell'orrore
+### Tecnica normale 1 : Incarnazione dell'orrore
  **Description:** <span style="color: #645252;font-size:20px">ATT delle Anime aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'ATT aumenta dell'8% per ogni unità alleata uccisa in battaglia. Il bonus è cumulabile fino a 10 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
-### 3 Skill: Malocchio
+### Tecnica normale 2 : Malocchio
  **Description:** <span style="color: #645252;font-size:20px">Quando un'Anima viene sconfitta, infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 4 Skill: Invisibilità
+### Tecnica normale 3 : Invisibilità
  **Description:** <span style="color: #645252;font-size:20px">Resistenza magica dell'Anima aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando subisce danni magici, l'eroe recupera 10 mana.</span><span style="color: black">
 
-### 5 Skill: Difesa funerea
+### Tecnica speciale fazione I : Difesa funerea
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Armonia magica
+### Tecnica speciale fazione II : Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent

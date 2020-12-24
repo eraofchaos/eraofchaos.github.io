@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /ru/units/Wood Elf/
 excerpt: "Отряды Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Лесной эльф"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у лесных эльфов есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### 3 Skill: Убежище эльфа
+### Обычное умение 2 : Убежище эльфа
  **Description:** <span style="color: #645252;font-size:20px">Каждый лесной эльф получает 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждый раз, как вражеский герой применяет заклинание, и поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в течение 5 сек. Перезарядка - 10 сек.</span><span style="color: black">
 
-### 4 Skill: Сосредоточить огонь на вражеском лидере
+### Обычное умение 3 : Сосредоточить огонь на вражеском лидере
  **Description:** <span style="color: #645252;font-size:20px">Лесные эльфы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Лесным эльфам дается дополнительно 40 ед. критического удара за каждый стрелковый отряд на поле боя.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
 ## Talent

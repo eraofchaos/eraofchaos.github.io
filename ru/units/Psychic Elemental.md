@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /ru/units/Psychic Elemental/
 excerpt: "Отряды Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">У элементалей Мысли иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый элементаль Мысли атакует 3 вражеских существ из выбранного отряда каждые 4 сек., нанося урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от его АТК.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 3 сек.</span><span style="color: black">
 
-### 3 Skill: Огонь
+### Обычное умение 2 : Огонь
  **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 6 сек.</span><span style="color: black">
 
-### 4 Skill: Владыка стихии
+### Обычное умение 3 : Владыка стихии
  **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Когда погибает элементаль Мысли, мана вражеских героев снижается на 20.</span><span style="color: black">
 
-### 5 Skill: null
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ## Talent

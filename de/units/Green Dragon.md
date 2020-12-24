@@ -3,7 +3,7 @@ title: "Grüner Drache"
 permalink: /de/units/Green Dragon/
 excerpt: "Einheiten Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Grüner Drache"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
 ## Skills
-### 1 Skill: Giftflut
+### Ultimative Fähigkeit: Giftflut
  **Description:** <span style="color: #645252;font-size:20px">Der Grüne Drache speit alle 30 Sek. frontal Gift mit hoher Reichweite und fügt allen nicht fliegenden gegnerischen Einheiten in Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Sein Schaden gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> ist erhöht um 50 %.</span><span style="color: black">
 
-### 2 Skill: Giftodem
+### Gewöhnliche Fähigkeit 1 : Giftodem
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Einhorn eine 9-Mann-Einheit angreift, verursachen Standardangriffe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 Ziele.</span><span style="color: black">
 
-### 3 Skill: Grüne Drachenschuppe
+### Gewöhnliche Fähigkeit 2 : Grüne Drachenschuppe
  **Description:** <span style="color: #645252;font-size:20px">Der Grüne Drache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Schadensreduzierung aller verbündeten Einheiten gegen Wasserzauber steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Grüne Drache einen &lt;Schild&gt; erhält, steigt sein Angriffstempo 15 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jede eingesetzte Flugeinheit erhöht der Grüne Drache den Einheitenschaden um 3 %.</span><span style="color: black">
 
-### 4 Skill: Verstärkung aus der Luft
+### Gewöhnliche Fähigkeit 3 : Verstärkung aus der Luft
  **Description:** <span style="color: #645252;font-size:20px">Der Grüne Drache fügt 3 Einheiten in der hinteren Reihe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> steigt der Schaden um 30 %.</span><span style="color: black">
 
-### 5 Skill: Ruhige Robustheit
+### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Hasszeichen
+### Fraktions-Spezialfähigkeit II : Hasszeichen
  **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ## Talent

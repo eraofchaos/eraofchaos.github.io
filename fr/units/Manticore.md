@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /fr/units/Manticore/
 excerpt: "Unités Une créature monstrueuse au corps en forme de lion, aux ailes de chauve-souris, et à la queue de scorpion. Une fois que ses proies ont été piquées par son dard, elles n'ont plus aucune chance de survie."
 unitID: 706
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Manticore"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
 ## Skills
-### 1 Skill: Venin paralysant
+### Capacité ultime: Venin paralysant
  **Description:** <span style="color: #645252;font-size:20px">Les Manticores attaquent l'unité ciblée toutes les 20 secondes. Elles infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à leur cible, ainsi qu'aux ennemis dans une certaine zone autour d'elle, tout en diminuant leur DÉF de 30 % pendant 10 secondes.</span><span style="color: black">
 
-### 2 Skill: Choix tactique
+### Compétence normale 1 : Choix tactique
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale de la Manticore a 25 % de chances de diminuer la résistance aux dégâts des unités de mêlée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand elle affronte des unités à distance ou des Lanceurs de sorts, son attaque normale a 25 % de chances d'augmenter les coups critiques des unités alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. L'effet peut se cumuler jusqu'à 8 fois.</span><span style="color: black">
 
-### 3 Skill: null
+### Compétence normale 2 : null
  **Description:** 
 
-### 4 Skill: Giclée de sang empoisonnée
+### Compétence normale 3 : Giclée de sang empoisonnée
  **Description:** <span style="color: #645252;font-size:20px">Quand une cible meurt, la DÉF de toutes les unités ennemies diminue de 30 % et elles souffrent de <span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. Ne peut se déclencher qu'une seule fois par bataille.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflit des ténèbres
+### Compétence spéciale de faction II : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

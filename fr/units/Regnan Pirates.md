@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /fr/units/Regnan Pirates/
 excerpt: "Unités Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Pirates de Regna"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
-### 1 Skill: Pilleur des marées
+### Capacité ultime: Pilleur des marées
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Pirates de Regna peut infliger des dégâts deux fois. Au début de la bataille, les Pirates de Regna ont 100 % de chance de toucher la cible en attaquant. Les dégâts de l'unité augmentent également de 30 % pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Compétence tactique
+### Compétence normale 1 : Compétence tactique
  **Description:** <span style="color: #645252;font-size:20px">L'ATQ des Pirates de Regna augmente de 20 %. Leur résistance aux dégâts augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes lorsqu'ils sont attaqués. L'effet peut se cumuler jusqu'à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Lame nue
+### Compétence normale 2 : Lame nue
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques des Pirates de Regna augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. La DÉF de la cible diminue de 2 % pendant 6 secondes pour chaque coup critique subi. L'effet peut se cumuler jusqu'à 20 %.</span><span style="color: black">
 
-### 4 Skill: Prudence et Avarice
+### Compétence normale 3 : Prudence et Avarice
  **Description:** <span style="color: #645252;font-size:20px">Plus les Pirates de Regna perdent de PV, plus ils infligent de dégâts. Leur ATQ augmente lorsque les PV de la cible baissent. Leur ATQ peut augmenter jusqu'à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Zen
+### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### 6 Skill: Conflit de pirates
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /es/units/Behemoth/
 excerpt: "Unidades Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos."
 unitID: 407
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Behemoth"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
 ## Skills
-### 1 Skill: Rugido salvaje
+### Habilidad definitiva: Rugido salvaje
  **Description:** <span style="color: #645252;font-size:20px">El Behemoth inflige un daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su Ataque a las unidades enemigas circundantes en una zona grande, las </span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;aturde&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s, reduce su ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px">y su resistencia al daño un</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 20 s.</span><span style="color: black">
 
-### 2 Skill: Garras despedazadoras
+### Habilidad normal 1 : Garras despedazadoras
  **Description:** <span style="color: #645252;font-size:20px">El Behemoth inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo cada 20 s y lo hace </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
-### 3 Skill: Destrozo
+### Habilidad normal 2 : Destrozo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia al daño del Behemoth un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica cuando sus PV se reducen por debajo del 35%. (Sigue teniendo efecto aunque se recuperen PV).</span><span style="color: black">
 
-### 4 Skill: Enfurecer
+### Habilidad normal 3 : Enfurecer
  **Description:** <span style="color: #645252;font-size:20px">Cada vez que una unidad hostil muere, el Behemoth restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos y aumenta un 10% la reducción de daño de la unidad durante 10 s.</span><span style="color: black">
 
-### 5 Skill: Lucha fanática
+### Habilidad especial de la facción I : Lucha fanática
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
 
 ## Talent

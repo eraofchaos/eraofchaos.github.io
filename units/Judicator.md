@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Judicator"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
-### 1 Skill: Ray of Judgment
+### Ultimate Skill: Ray of Judgment
  **Description:** <span style="color: #645252;font-size:20px">The Judicator summons 2 Rays of Judgment every 25s. When the rays appear, they <span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"> hostile units within range for 1s and cause damage equal to <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> of Max HP, and decrease hostiles' healing by <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"> for 8s</span><span style="color: black">
 
-### 2 Skill: Blessing
+### Regular Skill 1 : Blessing
  **Description:** <span style="color: #645252;font-size:20px">When engaged, the Judicator applies <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> to all friendly units for 10s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">The Judicator applies </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all friendly units in his path every <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black">s. The effect lasts for 10s.</span><span style="color: black">
 
-### 3 Skill: Blessing of Light
+### Regular Skill 2 : Blessing of Light
  **Description:** <span style="color: #645252;font-size:20px">When a friendly unit's HP is lower than 25% for the first time, the Judicator casts <span style="color: #48b946;font-size:20px">&lt;Light Shelter&gt;</span><span style="color: black"> to protect companions for <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> seconds. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When fighting Inferno units, Judicator gains an additional 30% Unit DMG and 50% Unit DMG Reduction.</span><span style="color: black">
 
-### 4 Skill: null
+### Regular Skill 3 : null
  **Description:** 
 
-### 5 Skill: Siege Combat
+### Faction Special Skill I : Siege Combat
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
-### 6 Skill: Defense Resonance
+### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-### 7 Skill: Halo of Theocracy
+### Regular Skill 6 : Halo of Theocracy
  **Description:** <span style="color: #645252;font-size:20px">When 3 Castle Faction units are deployed, the Judicator increases unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and his own Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Judicator is in <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> state, he can reveal a <span style="color: #F0F000;font-size:20px">[Theocratic Domain]</span><span style="color: black"> which expands as the unit skill levels up. The domain exists for 15. CD is 30s.</span><span style="color: black">
 
 ## Talent

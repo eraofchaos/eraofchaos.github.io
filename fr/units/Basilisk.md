@@ -3,7 +3,7 @@ title: "Basilic"
 permalink: /fr/units/Basilisk/
 excerpt: "Unités Des prédateurs subaquatiques. Ils sont dépourvus de tout sentiment, mais sont très patients. Ils sont habitués à attendre que leurs proies soient prises au piège dans l'obscurité."
 unitID: 804
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Basilic"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
-### 1 Skill: Morsure pétrifiante
+### Capacité ultime: Morsure pétrifiante
  **Description:** <span style="color: #645252;font-size:20px">Le Basilic <span style="color: #48b946;font-size:20px">&lt;pétrifie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> la cible pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Écaille en adamantine
+### Compétence normale 1 : Écaille en adamantine
  **Description:** <span style="color: #645252;font-size:20px">Augmente la DÉF du Basilic de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Symbiose de la peste
+### Compétence normale 2 : Symbiose de la peste
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Basilic est augmentée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, puis de 5 % supplémentaires pour chaque affaiblissement dont la cible est victime. L'effet peut se cumuler jusqu'à 5 fois.</span><span style="color: black">
 
-### 4 Skill: Impact pétrifiant
+### Compétence normale 3 : Impact pétrifiant
  **Description:** <span style="color: #645252;font-size:20px">À sa mort, le Basilic <span style="color: #48b946;font-size:20px">&lt;pétrifie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les ennemis proches pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 5 Skill: Frappe pestilentielle
+### Compétence spéciale de faction I : Frappe pestilentielle
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse savent répandre la peste, et augmentent leurs dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités ennemies qui souffrent de la &lt;Peste&gt;.</span><span style="color: black">
 
-### 6 Skill: Essor de vitalité
+### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
 
 ## Talent

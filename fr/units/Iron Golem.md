@@ -3,7 +3,7 @@ title: "Golem de fer"
 permalink: /fr/units/Iron Golem/
 excerpt: "Unités Les Golems de fer ont été créés par des Mages. Ils doivent leur existence à une combinaison précise de savoir-faire et de magie complexe, ce qui leur accorde une résistance extraordinaire à celle-ci."
 unitID: 603
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Golem de fer"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
 ## Skills
-### 1 Skill: Résonance métallique
+### Capacité ultime: Résonance métallique
  **Description:** <span style="color: #645252;font-size:20px">Le Golem de fer génère un voile, ce qui augmente de 30 % la résistance aux dégâts des unités qui s'y trouvent pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Force brute
+### Compétence normale 1 : Force brute
  **Description:** <span style="color: #645252;font-size:20px">Les PV du Golem de fer augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. La résistance aux dégâts de l'unité augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Défense de fer
+### Compétence normale 2 : Défense de fer
  **Description:** <span style="color: #645252;font-size:20px">Le Golem de fer est immunisé contre les effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand un Héros lui inflige des dégâts magiques, sa résistance magique augmente de 100 % pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 4 Skill: Éveil magique
+### Compétence normale 3 : Éveil magique
  **Description:** <span style="color: #645252;font-size:20px">Quand un Golem de fer est renforcé par le sort de soutien d'un Héros allié, il récupère </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max. Par ailleurs, la résistance aux dégâts de l'unité augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet peut se cumuler jusqu'à 3 fois et perdure pendant toute la durée de la bataille.</span><span style="color: black">
 
-### 5 Skill: Esprit clair
+### Compétence spéciale de faction I : Esprit clair
  **Description:** <span style="color: #645252;font-size:20px">Difficile de faire taire les unités de la Tour. La durée du &lt;Silence&gt; qui leur est infligé diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Dynamite énergétique
+### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Jinete Lupino"
 permalink: /es/units/Wolf Rider/
 excerpt: "Unidades Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Jinete Lupino"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
 ## Skills
-### 1 Skill: Bestia compañera
+### Habilidad definitiva: Bestia compañera
  **Description:** <span style="color: #645252;font-size:20px">El Jinete Lupino invoca un Huargo al morir. Los Huargos tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV y duran toda la batalla.</span><span style="color: black">
 
-### 2 Skill: Golpe doble
+### Habilidad normal 1 : Golpe doble
  **Description:** <span style="color: #645252;font-size:20px">El Jinete Lupino tiene un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar dos veces cuando usa su ataque normal. El segundo ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrenta a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizados&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe Doble&gt; aumenta al 100%.</span><span style="color: black">
 
-### 3 Skill: Destrozo
+### Habilidad normal 2 : Destrozo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Jinete Lupino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando sus PV están por debajo del 35%, el efecto se duplica. (Sigue teniendo efecto aunque se recuperen PV).</span><span style="color: black">
 
-### 4 Skill: Ansia de sangre
+### Habilidad normal 3 : Ansia de sangre
  **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Jinete Lupino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Recupera 2% de los PV por cada golpe crítico.</span><span style="color: black">
 
-### 5 Skill: Lucha fanática
+### Habilidad especial de la facción I : Lucha fanática
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
-### 6 Skill: Aumento de vitalidad
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
 
 ## Talent

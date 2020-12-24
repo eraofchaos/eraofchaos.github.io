@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /de/units/
 excerpt: "List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "index.md"
 toc: false

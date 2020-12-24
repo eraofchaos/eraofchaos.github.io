@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /fr/units/Dragon Turtle/
 excerpt: "Unités Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Tortue dragon"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
 ## Skills
-### 1 Skill: Roulade écrasante
+### Capacité ultime: Roulade écrasante
  **Description:** 
 
-### 2 Skill: Souffle venimeux niv 2
+### Compétence normale 1 : Souffle venimeux niv 2
  **Description:** 
 
-### 3 Skill: Rempart des marées
+### Compétence normale 2 : Rempart des marées
  **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, la Tortue dragon </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies dans une large zone pendant 2 secondes. Si &lt;Bouclier impénétrable&gt; reste actif pendant 20 secondes, la Tortue dragon regagne 15 % de ses PV, et sa DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pour toute la durée de la bataille.</span><span style="color: black">
 
-### 4 Skill: Renforcement
+### Compétence normale 3 : Renforcement
  **Description:** <span style="color: #645252;font-size:20px">La Tortue dragon génère un bouclier de renforcement qui augmente sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ainsi que celles des unités de la Crique alliées toutes les 20 secondes. Cet effet dure 8 secondes et ne peut pas être dissipé.</span><span style="color: black">
 
-### 5 Skill: Zen
+### Compétence spéciale de faction I : Zen
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique sont rompues aux tempêtes. Leurs PV augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et elles ont 40 % de chance d'être immunisées contre l'&lt;Étourdissement&gt; lorsqu'elles portent un Emblème sacré.</span><span style="color: black">
 
-### 6 Skill: Conflit de pirates
+### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /it/units/Basilisk/
 excerpt: "Unità Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Basilisco"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
 ## Skills
-### 1 Skill: Morso pietrificante
+### Tecnica suprema: Morso pietrificante
  **Description:** <span style="color: #645252;font-size:20px">Il Basilisco <span style="color: #48b946;font-size:20px">&lt;pietrifica&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
-### 2 Skill: Squama indistruttibile
+### Tecnica normale 1 : Squama indistruttibile
  **Description:** <span style="color: #645252;font-size:20px">Il Basilisco gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 3 Skill: Simbiosi pestilenziale
+### Tecnica normale 2 : Simbiosi pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">La Rid DAN del Basilisco aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Rid DAN del Basilisco aumenta di un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
-### 4 Skill: Impatto pietrificante
+### Tecnica normale 3 : Impatto pietrificante
  **Description:** <span style="color: #645252;font-size:20px">Quando muore, il Basilisco <span style="color: #48b946;font-size:20px">&lt;pietrifica&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i nemici circostanti per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
-### 5 Skill: Attacco pestilenziale
+### Tecnica speciale fazione I : Attacco pestilenziale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Units Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Imp"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
-### 1 Skill: Impulse
+### Ultimate Skill: Impulse
  **Description:** <span style="color: #645252;font-size:20px">When an Imp is downed, it has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to revive with full HP.</span><span style="color: black">
 
-### 2 Skill: Smite
+### Regular Skill 1 : Smite
  **Description:** <span style="color: #645252;font-size:20px">The Imp's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target and may </span><span style="color: black"><span style="color: #e07c44;font-size:20px">\"stun\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 2s.</span><span style="color: black">
 
-### 3 Skill: Agility
+### Regular Skill 2 : Agility
  **Description:** <span style="color: #645252;font-size:20px">Imp's dodge is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Imp dodges an attack, it has 20% chance to reduce mana of the enemy hero by 5, this skill has 5s cooldown </span><span style="color: black">
 
-### 4 Skill: Inferno Minion
+### Regular Skill 3 : Inferno Minion
  **Description:** <span style="color: #645252;font-size:20px">Imp's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Healing increased by 30%.</span><span style="color: black">
 
-### 5 Skill: Broiling Strike
+### Faction Special Skill I : Broiling Strike
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
-### 6 Skill: Spell Resistance Resonance
+### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

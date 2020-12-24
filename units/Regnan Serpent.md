@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Units The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Regnan Serpent"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
 ## Skills
-### 1 Skill: null
+### Ultimate Skill: null
  **Description:** 
 
-### 2 Skill: Serpent's Scale Armor
+### Regular Skill 1 : Serpent's Scale Armor
  **Description:** <span style="color: #645252;font-size:20px">Increases Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the Regnan Serpent. When the Regnan Serpent is fighting against &lt;deterred&gt; targets, the effect doubles.</span><span style="color: black">
 
-### 3 Skill: Tidal Guide
+### Regular Skill 2 : Tidal Guide
  **Description:** <span style="color: #645252;font-size:20px">Choose one of 3 buffs at the beginning of battle (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">Tenacity + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> dodge; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">unit's damage reduction + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> magic resistance; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DEF + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage reflection). The effect works throughout the entire battle. The Regnan Serpent gets one random buff when dealing a Crit Hit. Each effect can be stacked up to 3 times</span><span style="color: black">
 
-### 4 Skill: Battle Horn
+### Regular Skill 3 : Battle Horn
  **Description:** <span style="color: #645252;font-size:20px">The Regnan Serpent triggers &lt;Deep-sea Stomp&gt; when taking a Crit Hit. The skill CD is 8s. It's guaranteed to trigger &lt;Deep-sea Stomp&gt; 1 time whenever the Regnan Serpent takes 30% damage. The Regnan Serpent roars a mighty battle cry once every 25s, increasing ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly units within a large range around him for 10s. For Cove Faction units, the effect doubles</span><span style="color: black">
 
-### 5 Skill: Calm Body
+### Faction Special Skill I : Calm Body
  **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
-### 6 Skill: Pirate Conflict
+### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

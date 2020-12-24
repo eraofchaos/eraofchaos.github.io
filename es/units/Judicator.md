@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /es/units/Judicator/
 excerpt: "Unidades Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Adjudicadora"
 toc: true
@@ -59,25 +59,25 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
 ## Skills
-### 1 Skill: Rayo del juicio
+### Habilidad definitiva: Rayo del juicio
  **Description:** <span style="color: #645252;font-size:20px">La Adjudicadora invoca 2 Rayos del juicio cada 25 s. Los rayos <span style="color: #48b946;font-size:20px">aturden</span><span style="color: black"> a las unidades hostiles dentro del alcance durante 1 s cuando aparecen, e infligen daño igual al <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> de los PV máximos y reducen la curación hostil un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"> durante 8 s.</span><span style="color: black">
 
-### 2 Skill: Bendición
+### Habilidad normal 1 : Bendición
  **Description:** <span style="color: #645252;font-size:20px">Al entablar combate, la Adjudicadora otorga <span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"> a todas las unidades amistosas durante 10 s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">La Adjudicadora otorga </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades amistosas a su paso cada <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black">s. El efecto dura 10 s.</span><span style="color: black">
 
-### 3 Skill: Bendición de la Luz
+### Habilidad normal 2 : Bendición de la Luz
  **Description:** <span style="color: #645252;font-size:20px">Cuando los PV de una unidad amistosa están por debajo del 25% por primera vez, la Adjudicadora lanza <span style="color: #48b946;font-size:20px">&lt;Refugio de Luz&gt;</span><span style="color: black"> para proteger a los compañeros durante <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> segundos. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Al luchar contra unidades del Infierno, la Adjudicadora gana un 30% más de daño de unidad y un 50% de reducción de daño de unidad.</span><span style="color: black">
 
-### 4 Skill: null
+### Habilidad normal 3 : null
  **Description:** 
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
-### 7 Skill: Halo de teocracia
+### Habilidad normal 6 : Halo de teocracia
  **Description:** <span style="color: #645252;font-size:20px">Cuando se despliegan 3 unidades de la facción de Castillo, la Adjudicadora aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su propio golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando la Adjudicadora tiene un estado de <span style="color: #48b946;font-size:20px">[High Morale]</span><span style="color: black">, puede revelar un <span style="color: #F0F000;font-size:20px">[Theocratic Domain]</span><span style="color: black"> que se expande a medida que aumenta el nivel de la habilidad de la unidad. El dominio dura 15 s. La recarga es de 30 s.</span><span style="color: black">
 
 ## Talent

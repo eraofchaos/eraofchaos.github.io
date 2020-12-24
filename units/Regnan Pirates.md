@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Units They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
 ## Skills
-### 1 Skill: Tidal Plunder
+### Ultimate Skill: Tidal Plunder
  **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
-### 2 Skill: Tactical Skill
+### Regular Skill 1 : Tactical Skill
  **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' ATK increases by 20%. Pirates receive an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage reduction for 6s whenever they're attacked. The effect can stack up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Naked Blade
+### Regular Skill 2 : Naked Blade
  **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Decreases target unit's DEF by 2% for 6s whenever a Crit Hit is landed. The effect can be stacked up to 20%</span><span style="color: black">
 
-### 4 Skill: Prudence and Greed
+### Regular Skill 3 : Prudence and Greed
  **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates cause more damage as their HP reduces. Regnan Pirates' ATK increases as the target's HP decreases. Their ATK can increase by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> at most</span><span style="color: black">
 
-### 5 Skill: Calm Body
+### Faction Special Skill I : Calm Body
  **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
-### 6 Skill: Pirate Conflict
+### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Talent

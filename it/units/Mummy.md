@@ -3,7 +3,7 @@ title: "Mummia"
 permalink: /it/units/Mummy/
 excerpt: "Unità I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Mummia"
 toc: true
@@ -58,22 +58,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
 ## Skills
-### 1 Skill: Decomposizione
+### Tecnica suprema: Decomposizione
  **Description:** <span style="color: #645252;font-size:20px">La Mummia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi a tutte le unità nemiche circostanti, applicando inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 12 secondi.</span><span style="color: black">
 
-### 2 Skill: Sudario
+### Tecnica normale 1 : Sudario
  **Description:** <span style="color: #645252;font-size:20px">Quando lancia &lt;Decomposizione&gt;, ripristina una quantità di PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e aumenta la Rid DAN dell'unità (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
 
-### 3 Skill: Ricettacolo di Malattie
+### Tecnica normale 2 : Ricettacolo di Malattie
  **Description:** <span style="color: #645252;font-size:20px">La Mummia è immune alle </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Rid DAN della Mummia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se la Mummia è sul campo di battaglia, l'efficacia degli effetti curativi sulle unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Dio della Pestilenza
+### Tecnica normale 3 : Dio della Pestilenza
  **Description:** <span style="color: #645252;font-size:20px">DIF della Mummia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante è affetta da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: Difesa funerea
+### Tecnica speciale fazione I : Difesa funerea
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Armonia magica
+### Tecnica speciale fazione II : Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Psy-Elementar"
 permalink: /de/units/Psychic Elemental/
 excerpt: "Einheiten Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Psy-Elementar"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
 ## Skills
-### 1 Skill: Energie-Explosion
+### Ultimative Fähigkeit: Energie-Explosion
  **Description:** <span style="color: #645252;font-size:20px">Psy-Elementare sind immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Stille“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psy-Elementare greifen alle 4 Sek. 3 gegnerische Einheiten der Zieleinheit an und verursachen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihres ANG als Schaden.</span><span style="color: black">
 
-### 2 Skill: Erde
+### Gewöhnliche Fähigkeit 1 : Erde
  **Description:** <span style="color: #645252;font-size:20px">Der Angriff des Psy-Elementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die &lt;Energie-Explosion&gt; des Psy-Elementars </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit einer Wahrscheinlichkeit von 30 % das Ziel 3 Sek. lang.</span><span style="color: black">
 
-### 3 Skill: Feuer
+### Gewöhnliche Fähigkeit 2 : Feuer
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Psy-Elementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die &lt;Energie-Explosion&gt; des Psy-Elementars verursacht mit einer Wahrscheinlichkeit von 30 % 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
 
-### 4 Skill: Herr der Elemente
+### Gewöhnliche Fähigkeit 3 : Herr der Elemente
  **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Psy-Elementars wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein Psy-Elementar stirbt, verlieren gegnerische Helden 20 Mana.</span><span style="color: black">
 
-### 5 Skill: Elementare Affinität
+### Fraktions-Spezialfähigkeit I : Elementare Affinität
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Offensive Elemente
+### Fraktions-Spezialfähigkeit II : Offensive Elemente
  **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

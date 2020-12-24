@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /it/units/Bone Dragon/
 excerpt: "Unità I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Drago scheletrico"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Paura
+### Tecnica suprema: Paura
  **Description:** <span style="color: #645252;font-size:20px">Il Drago scheletrico causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area ogni </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec, e ne riduce la Rid DAN del 20% per 10 secondi.</span><span style="color: black">
 
-### 2 Skill: Rullo stritolante
+### Tecnica normale 1 : Rullo stritolante
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Drago scheletrico ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e causare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ai bersagli per 10 secondi.</span><span style="color: black">
 
-### 3 Skill: Perforazione
+### Tecnica normale 2 : Perforazione
  **Description:** <span style="color: #645252;font-size:20px">La Perforazione del Drago scheletrico aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è raddoppiato quando attacca unità con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Invecchiamento
+### Tecnica normale 3 : Invecchiamento
  **Description:** <span style="color: #645252;font-size:20px">Se il Drago scheletrico è sul campo di battaglia, riduce la Rid DAN di tutte le unità nemiche (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Difesa funerea
+### Tecnica speciale fazione I : Difesa funerea
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Armonia magica
+### Tecnica speciale fazione II : Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent

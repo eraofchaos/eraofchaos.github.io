@@ -3,7 +3,7 @@ title: "Paladín"
 permalink: /es/units/Paladin/
 excerpt: "Unidades El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: es
 ref: "Paladín"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
 ## Skills
-### 1 Skill: null
+### Habilidad definitiva: null
  **Description:** 
 
-### 2 Skill: Liderazgo
+### Habilidad normal 1 : Liderazgo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Paladines un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Incentivo
+### Habilidad normal 2 : Incentivo
  **Description:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. El Paladín otorga a las unidades amistosas en una zona grande y a sí mismo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y 500 de golpe crítico durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### 4 Skill: Dominio inocente
+### Habilidad normal 3 : Dominio inocente
  **Description:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de todas las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> si el Paladín está en el campo de batalla.</span><span style="color: black">
 
-### 5 Skill: Combate de asedio
+### Habilidad especial de la facción I : Combate de asedio
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### 6 Skill: Resonancia de defensa
+### Habilidad especial de la facción II : Resonancia de defensa
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Nain"
 permalink: /fr/units/Dwarf/
 excerpt: "Unités Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Nain"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.4 | 9.13 | 264.8 |
 
 ## Skills
-### 1 Skill: Hurlement du Nain
+### Capacité ultime: Hurlement du Nain
  **Description:** <span style="color: #645252;font-size:20px">Au début du combat, les Nains augmentent les PV de toutes les unités alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+15.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> dans une large zone. La résistance aux dégâts de l'unité augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant toute la durée du combat.</span><span style="color: black">
 
-### 2 Skill: Martelage
+### Compétence normale 1 : Martelage
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Nains a une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible et peut l'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes.</span><span style="color: black">
 
-### 3 Skill: Cri enragé
+### Compétence normale 2 : Cri enragé
  **Description:** <span style="color: #645252;font-size:20px">&lt;Hurlement du Nain&gt; augmente les PV de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+3.6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, la vitesse d'attaque de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts de l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Résistance magique
+### Compétence normale 3 : Résistance magique
  **Description:** <span style="color: #645252;font-size:20px">Les Nains offrent une zone protectrice à leurs alliés et augmente la résistance magique des unités qui s'y trouvent de 30 % pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 5 Skill: Prolifération paisible
+### Compétence spéciale de faction I : Prolifération paisible
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart sont rompues aux champs de bataille. La durée de l'&lt;Étourdissement&gt; et de la &lt;Pétrification&gt; dont elles sont victimes diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Marque de haine
+### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
 
 ## Talent

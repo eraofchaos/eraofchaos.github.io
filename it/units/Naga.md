@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /it/units/Naga/
 excerpt: "Unità Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
 unitID: 606
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Naga"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
-### 1 Skill: Danza delle lame
+### Tecnica suprema: Danza delle lame
  **Description:** <span style="color: #645252;font-size:20px">La Naga infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità casuali in un'ampia area e ne riduce la DIF del 10% per 10 secondi. Cumulabile fino a 4 volte.</span><span style="color: black">
 
-### 2 Skill: Crudeltà
+### Tecnica normale 1 : Crudeltà
  **Description:** <span style="color: #645252;font-size:20px">Gli attacchi della Naga vanno sempre a segno. La Naga gode di assorbimento aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bersaglio subisce sempre più danni al ridursi dei suoi PF, fino a un massimo di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni.</span><span style="color: black">
 
-### 3 Skill: Regina delle lame
+### Tecnica normale 2 : Regina delle lame
  **Description:** <span style="color: #645252;font-size:20px">Se la Naga è sul campo di battaglia, il CRIT di tutte le unità d'attacco alleate aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Inoltre, il CRIT della Naga aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 4 Skill: Risveglio magico
+### Tecnica normale 3 : Risveglio magico
  **Description:** <span style="color: #645252;font-size:20px">Se la Naga è potenziata dall'incantesimo di supporto di un eroe alleato, lancia &lt;Danza delle lame&gt; infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni e riducendo la DIF del bersaglio del 10% per 10 secondi. Cumulabile fino a 4 volte.</span><span style="color: black">
 
-### 5 Skill: Mente lucida
+### Tecnica speciale fazione I : Mente lucida
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Esplosione di Energia
+### Tecnica speciale fazione II : Esplosione di Energia
  **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Unknown_TEAM_9905"
 permalink: /ru/units/Mermaid/
 excerpt: "Отряды null"
 unitID: 9905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_9905"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** <span style="color: #645252;font-size:20px">Когда атака русалок переключается на исцеление, они восстанавливают ОЗ союзного отряда с самым низким процентом ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% от АТК русалок и исцеляют еще 1 случайный отряд. Дополнительный эффект можно активировать 3 раза. Исцеление равно </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК русалок.</span><span style="color: black">
 
-### 2 Skill: Безграничное звучание
+### Обычное умение 1 : Безграничное звучание
  **Description:** <span style="color: #645252;font-size:20px">В начале боя русалки повышают урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> у всех союзных отрядов. Урон отряда снижается на 2% и критический удар - на 50 каждые 2 сек., что происходит не более 10 раз. Эффект длится 20 сек. Для отрядов Убежища длительность удваивается, а сам эффект снижается вдвое.</span><span style="color: black">
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** 
 
-### 4 Skill: Лазурная песня
+### Обычное умение 3 : Лазурная песня
  **Description:** <span style="color: #645252;font-size:20px">Русалки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению. Когда русалки используют &lt;Ре мажор&gt;, снимаются все ослабления с союзного отряда с самым низким процентом ОЗ.</span><span style="color: black">
 
-### 5 Skill: Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ## Talent

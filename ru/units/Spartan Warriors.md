@@ -3,7 +3,7 @@ title: "Спартанец"
 permalink: /ru/units/Spartan Warriors/
 excerpt: "Отряды null"
 unitID: 9702
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Спартанец"
 toc: true
@@ -22,10 +22,6 @@ toc: true
  **Members:** x1
 
  **Rank:** SSR
-
- **Unit description:** null
-
- **Recommend:** null
 
  **Info:** Удар щитом вызывает оглушение, смерть одного - вдохновляет соратников.
 
@@ -60,24 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: null
+### Совершенное умение: null
  **Description:** 
 
-### 2 Skill: Удар щитом
+### Обычное умение 1 : Удар щитом
  **Description:** <span style="color: #645252;font-size:20px">Спартанцы яростно бьют щитами противников в большой области, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушая&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 5 сек. На следующие 10 сек. собственный урон повышен на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а скорость атаки - на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Восстановление - 20 сек. </span><span style="color: black">
 
-### 3 Skill: Братья по крови
+### Обычное умение 2 : Братья по крови
  **Description:** <span style="color: #645252;font-size:20px">С каждой потерей 5% ОЗ спартанцы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Когда здоровье впервые опускается до 50%, на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается скорость атаки и на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - урон отряда. Эффект длится до конца боя.</span><span style="color: black">
 
-### 4 Skill: Фермопилы
+### Обычное умение 3 : Фермопилы
  **Description:** <span style="color: #645252;font-size:20px">С каждым павшим спартанцем УРН и ЗЩТ всех союзных отрядов повышаются на 5% до конца боя. Каждые 20 сек. спартанцы выкрикивают боевой клич, повышающий на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> скорость атаки союзников на 10 сек.</span><span style="color: black">
 
-### 5 Skill: Столкновение сил
+### Эксклюзивное умение фракции I : Столкновение сил
  **Description:** <span style="color: #645252;font-size:20px">Нейтральные отряды - искусные воины. В бою против других фракций они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### 6 Skill: Набор сил
- **Description:** 
-
+### Эксклюзивное умение фракции II : Набор сил
 ## Talent
 
 * Атака
@@ -95,7 +89,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

@@ -3,7 +3,7 @@ title: "Elementale del mare"
 permalink: /it/units/Sea Elemental/
 excerpt: "Unità Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Elementale del mare"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
 ## Skills
-### 1 Skill: Spirale temporale
+### Tecnica suprema: Spirale temporale
  **Description:** <span style="color: #645252;font-size:20px">Ogni 30 secondi, l'Elementale del mare evoca un vortice della durata di 10 secondi che riduce la Vel ATT di tutte le unità nemiche nell'area (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> al secondo). Quando svanisce, il vortice infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni alle unità nemiche nell'area.</span><span style="color: black">
 
-### 2 Skill: Dono delle maree
+### Tecnica normale 1 : Dono delle maree
  **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, l'Elementale del mare protegge le unità alleate di fronte a sé con uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Scudo di ghiaccio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'Elementale del mare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallenta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> le unità che lo attaccano. Lo scudo ha una durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 3 Skill: Rito delle maree
+### Tecnica normale 2 : Rito delle maree
  **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Elementale del mare evoca un circolo che ne aumenta i PF (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black">). Riduce gli effetti di cura delle unità nemiche dell'1% ogni 2 secondi fino al termine della battaglia.</span><span style="color: black">
 
-### 4 Skill: Gabbia abissale
+### Tecnica normale 3 : Gabbia abissale
  **Description:** <span style="color: #645252;font-size:20px">Ogni 20 secondi, l'Elementale del mare evoca una prigione d'acqua che intrappola 1 unità casuale nelle retrovie nemiche e le impedisce di attaccare o usare tecniche. La prigione ha una durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### 5 Skill: Pace interiore
+### Tecnica speciale fazione I : Pace interiore
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### 6 Skill: Conflitto piratesco
+### Tecnica speciale fazione II : Conflitto piratesco
  **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

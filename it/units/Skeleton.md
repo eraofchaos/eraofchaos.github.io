@@ -3,7 +3,7 @@ title: "Scheletro"
 permalink: /it/units/Skeleton/
 excerpt: "Unità Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Scheletro"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
 ## Skills
-### 1 Skill: Scudo d'ossa
+### Tecnica suprema: Scudo d'ossa
  **Description:** <span style="color: #645252;font-size:20px">Quando i PF di uno Scheletro scendono sotto il 50% per la prima volta, esso crea uno scudo d'ossa che riduce i danni subiti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 15 secondi.</span><span style="color: black">
 
-### 2 Skill: Punta d'ossa
+### Tecnica normale 1 : Punta d'ossa
  **Description:** <span style="color: #645252;font-size:20px">Lo Scheletro riflette </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del danno ricevuto.</span><span style="color: black">
 
-### 3 Skill: Pietrificazione
+### Tecnica normale 2 : Pietrificazione
  **Description:** <span style="color: #645252;font-size:20px">Negli Scheletri, aumenta i PF di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DIF di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> e i danni riflessi del 10%.</span><span style="color: black">
 
-### 4 Skill: Gabbia toracica
+### Tecnica normale 3 : Gabbia toracica
  **Description:** <span style="color: #645252;font-size:20px">Lo Scheletro è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e subisce danni ridotti dalle unità a distanza (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Difesa funerea
+### Tecnica speciale fazione I : Difesa funerea
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Armonia magica
+### Tecnica speciale fazione II : Armonia magica
  **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
 
 ## Talent

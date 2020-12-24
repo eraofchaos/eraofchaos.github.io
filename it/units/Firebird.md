@@ -3,7 +3,7 @@ title: "Rapace di fuoco"
 permalink: /it/units/Firebird/
 excerpt: "Unità Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Rapace di fuoco"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
 ## Skills
-### 1 Skill: Soffio infuocato
+### Tecnica suprema: Soffio infuocato
  **Description:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco devasta le unità nemiche in un'ampia area di fronte a sé, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN. Se affronta unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il CRIT aumenta di 500.</span><span style="color: black">
 
-### 2 Skill: Lingua fiammeggiante
+### Tecnica normale 1 : Lingua fiammeggiante
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base del Rapace di fuoco infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ad area a 3 unità nemiche.</span><span style="color: black">
 
-### 3 Skill: Resurrezione
+### Tecnica normale 2 : Resurrezione
  **Description:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco torna in vita 5 secondi dopo essere stato sconfitto per la prima volta, recuperando </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF.</span><span style="color: black">
 
-### 4 Skill: Potenziamento di fuoco
+### Tecnica normale 3 : Potenziamento di fuoco
  **Description:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco è immune alla </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e gode di DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Affinità elementale
+### Tecnica speciale fazione I : Affinità elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Conflitto elementale
+### Tecnica speciale fazione II : Conflitto elementale
  **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

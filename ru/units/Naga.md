@@ -3,7 +3,7 @@ title: "Нага"
 permalink: /ru/units/Naga/
 excerpt: "Отряды null"
 unitID: 606
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Нага"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
 ## Skills
-### 1 Skill: Танец клинков
+### Совершенное умение: Танец клинков
  **Description:** <span style="color: #645252;font-size:20px">Нага наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным врагам в широком радиусе и снижают их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">При атаке нага гарантируется попадание. Нага получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. По мере снижения ОЗ цель получает более высокий урон в размере до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Королева клинков
+### Обычное умение 2 : Королева клинков
  **Description:** <span style="color: #645252;font-size:20px">Когда нага на поле боя, все союзные атакующие отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. В то же самое время нага получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### 4 Skill: Магическое пробуждение
+### Обычное умение 3 : Магическое пробуждение
  **Description:** <span style="color: #645252;font-size:20px">При усилении нага заклинанием поддержки союзного героя они применяют &lt;Танец клинков&gt; к выбранному отряду, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и снижая их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз. </span><span style="color: black">
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

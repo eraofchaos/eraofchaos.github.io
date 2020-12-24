@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /fr/units/Assassin/
 excerpt: "Unités Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Assassin"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
 ## Skills
-### 1 Skill: Assassinat
+### Capacité ultime: Assassinat
  **Description:** <span style="color: #645252;font-size:20px">Les Assassins entrent en mode </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px"> au début de la bataille, et perdent cet avantage à l'engagement. Lorsqu'un Assassin perd les effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px">, il lance Brise-furtivité, une attaque qui inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son attaque et réduit les soins reçus de 30 %. Cet effet peut être activé une fois toutes les 10 secondes.</span><span style="color: black">
 
-### 2 Skill: Instinct d'Assassin
+### Compétence normale 1 : Instinct d'Assassin
  **Description:** <span style="color: #645252;font-size:20px">L'Assassin augmente </span><span style="color: black"><span style="color: #645252;font-size:20px">les dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et les dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ce bonus est doublé sous l'effet d'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Œil de faucon&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Attaquer les ennemis souffrant de</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cécité&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">augmente la pénétration de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50} .</span><span style="color: black">
 
-### 3 Skill: Bombe fumante
+### Compétence normale 2 : Bombe fumante
  **Description:** <span style="color: #645252;font-size:20px">L'Assassin lance une bombe fumante par terre, augmentant sa DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Inflige également </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Cécité&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies dans une large zone et réduit leurs dégâts et leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. Le temps de recharge est de 18 secondes.</span><span style="color: black">
 
-### 4 Skill: Attaque en chaîne
+### Compétence normale 3 : Attaque en chaîne
  **Description:** <span style="color: #645252;font-size:20px">Les Assassins voient leurs dégâts augmenter de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet est triplé pendant 20 secondes lorsqu'un Assassin tue une unité cible. De plus, l'Assassin passe en mode </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 5 secondes.</span><span style="color: black">
 
-### 5 Skill: Conflit armé
+### Compétence spéciale de faction I : Conflit armé
  **Description:** <span style="color: #645252;font-size:20px">Les unités neutres sont des forces compétentes. Lorsqu'elles combattent des unités non neutres, leurs </span><span style="color: black"><span style="color: #645252;font-size:20px">dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %.</span><span style="color: black">
 
-### 6 Skill: Bonus de courage
+### Compétence spéciale de faction II : Bonus de courage
  **Description:** <span style="color: #645252;font-size:20px">Les unités neutres sont très résistantes. À chaque fois qu'elles perdent 10 % de leurs PV, leur </span><span style="color: black"><span style="color: #645252;font-size:20px">défense augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %.</span><span style="color: black">
 
 ## Talent

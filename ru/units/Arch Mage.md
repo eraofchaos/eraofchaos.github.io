@@ -3,7 +3,7 @@ title: "Unknown_TEAM_604"
 permalink: /ru/units/Arch Mage/
 excerpt: "Отряды null"
 unitID: 604
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Unknown_TEAM_604"
 toc: true
@@ -59,22 +59,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
 ## Skills
-### 1 Skill: Пробивание заклинания
+### Совершенное умение: Пробивание заклинания
  **Description:** <span style="color: #645252;font-size:20px">При обычной атаке маги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к собственной АТК. Эффект суммируется до 20 раз. Суммирование сохраняется, если цель не меняется. Оно будет сброшено при выборе новой цели.</span><span style="color: black">
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения, и получают +100% к сопротивлению урона. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
 
-### 3 Skill: Потеря энергии
+### Обычное умение 2 : Потеря энергии
  **Description:** <span style="color: #645252;font-size:20px">Когда маги на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> от скорости восстановления заклинаний. Если союзный герой использует заклинание Воздуха, маги восстанавливают ему 2 ед. маны.</span><span style="color: black">
 
-### 4 Skill: Магическое поле
+### Обычное умение 3 : Магическое поле
  **Description:** <span style="color: #645252;font-size:20px">Когда начинается бой, маги повышают урон у всех союзных отрядов на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Для отрядов заклинателей эффект удваивается.</span><span style="color: black">
 
-### 5 Skill: Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
-### 6 Skill: Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

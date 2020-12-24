@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /de/units/Beholder/
 excerpt: "Einheiten Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Betrachter"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
 ## Skills
-### 1 Skill: Gedankenkontrolle
+### Ultimative Fähigkeit: Gedankenkontrolle
  **Description:** <span style="color: #645252;font-size:20px">Der Betrachter übernimmt die Kontrolle über 1 zufällige gegnerische Einheit. Das Ziel erleidet 8 Sek. lang Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP. Solange eine Einheit kontrolliert wird, kann sie weder angreifen noch sich bewegen oder Fähigkeiten wirken.</span><span style="color: black">
 
-### 2 Skill: Zauberdurchdringung
+### Gewöhnliche Fähigkeit 1 : Zauberdurchdringung
  **Description:** <span style="color: #645252;font-size:20px">Wenn der Betrachter das Schlachtfeld betritt, öffnet er seine 4 Augen des Todes. Jedes Auge erhöht den Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jedes getötete Ziel wird ein Auge des Todes geschlossen, ein Auge bleibt jedoch mindestens offen.</span><span style="color: black">
 
-### 3 Skill: Kraftlosigkeit
+### Gewöhnliche Fähigkeit 2 : Kraftlosigkeit
  **Description:** <span style="color: #645252;font-size:20px">Solange sich ein Betrachter auf dem Schlachtfeld befindet, sinkt das Anfangsmana gegnerischer Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jedes Mal, wenn eine gegnerische Einheit stirbt, verlieren gegnerische Helden weitere 10 Mana.</span><span style="color: black">
 
-### 4 Skill: Energie sammeln
+### Gewöhnliche Fähigkeit 3 : Energie sammeln
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht der Betrachter die LP deiner Einheiten in hohem Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /de/units/Black Knight/
 excerpt: "Einheiten Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Schwarzer Ritter"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
 ## Skills
-### 1 Skill: Kritischer Angriff
+### Ultimative Fähigkeit: Kritischer Angriff
  **Description:** <span style="color: #645252;font-size:20px">Der Schwarze Ritter fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 10 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Niedrige Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Todesansturm
+### Gewöhnliche Fähigkeit 1 : Todesansturm
  **Description:** <span style="color: #645252;font-size:20px">Wenn er sein Ziel tötet, steigt der ANG des Schwarzen Ritters um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Wert „Kritischer Treffer“ um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die ganze Schlacht über, bis zu 5 Stapel.</span><span style="color: black">
 
-### 3 Skill: Ritter-Fertigkeiten
+### Gewöhnliche Fähigkeit 2 : Ritter-Fertigkeiten
  **Description:** <span style="color: #645252;font-size:20px">Die LP des Schwarzen Ritters steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Schadensreduzierung steigt um </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Furcht einflößende Unterdrückung
+### Gewöhnliche Fähigkeit 3 : Furcht einflößende Unterdrückung
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Schwarzen Ritters steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">, Kritischer Schaden um 50 %.</span><span style="color: black">
 
-### 5 Skill: Trostlose Verteidigung
+### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
-### 6 Skill: Magische Harmonie
+### Fraktions-Spezialfähigkeit II : Magische Harmonie
  **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ## Talent

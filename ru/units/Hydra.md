@@ -3,7 +3,7 @@ title: "Гидра"
 permalink: /ru/units/Hydra/
 excerpt: "Отряды null"
 unitID: 807
-last_modified_at: 2020-12-15
+last_modified_at: 2020-12-24
 lang: ru
 ref: "Гидра"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
 ## Skills
-### 1 Skill: Туман Хаоса
+### Совершенное умение: Туман Хаоса
  **Description:** <span style="color: #645252;font-size:20px">Гидры создают Туман Хаоса на своем пути, накладывая на все цели в широком радиусе случайное ослабление: замедление, кровотечение, горение, ослепление, разряд, чуму или болезнь - на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и нанося урон в размере 50% от их АТК.</span><span style="color: black"> 
 
-### 2 Skill: null
+### Обычное умение 1 : null
  **Description:** 
 
-### 3 Skill: null
+### Обычное умение 2 : null
  **Description:** 
 
-### 4 Skill: Неотступный укус
+### Обычное умение 3 : Неотступный укус
  **Description:** <span style="color: #645252;font-size:20px">Если от предыдущей атаки гидр уклонились, они атакуют еще раз, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона. Когда гидры начинают кусать, они гарантированно наносят критический удар в течение 3 сек. </span><span style="color: black">
 
-### 5 Skill: Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### 6 Skill: null
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ## Talent
@@ -95,7 +95,7 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. null
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 

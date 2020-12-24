@@ -3,7 +3,7 @@ title: "Folletto"
 permalink: /it/units/Imp/
 excerpt: "Unità Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Folletto"
 toc: true
@@ -62,22 +62,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
 ## Skills
-### 1 Skill: Impulso
+### Tecnica suprema: Impulso
  **Description:** <span style="color: #645252;font-size:20px">Quando un Folletto viene ucciso, ha una probabilità di tornare in vita con il massimo dei PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 2 Skill: Urto
+### Tecnica normale 1 : Urto
  **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Folletto ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli per 2 secondi.</span><span style="color: black">
 
-### 3 Skill: Agilità
+### Tecnica normale 2 : Agilità
  **Description:** <span style="color: #645252;font-size:20px">Schivata del Folletto aumentata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando il Folletto schiva un attacco, ha una probabilità del 20% di ridurre il mana dell'eroe nemico di 5. Questa tecnica ha un recupero di 5 secondi.</span><span style="color: black">
 
-### 4 Skill: Scagnozzo infernale
+### Tecnica normale 3 : Scagnozzo infernale
  **Description:** <span style="color: #645252;font-size:20px">PF del Folletto aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 30%.</span><span style="color: black">
 
-### 5 Skill: Attacco ustionante
+### Tecnica speciale fazione I : Attacco ustionante
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Riverbero anti-incantesimo
+### Tecnica speciale fazione II : Riverbero anti-incantesimo
  **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

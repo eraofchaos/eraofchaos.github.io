@@ -3,7 +3,7 @@ title: "Minotaurus"
 permalink: /de/units/Minotaur/
 excerpt: "Einheiten Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Minotaurus"
 toc: true
@@ -61,22 +61,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
 ## Skills
-### 1 Skill: Wirbelwind
+### Ultimative Fähigkeit: Wirbelwind
  **Description:** <span style="color: #645252;font-size:20px">Der Minotaurus fügt 3 zufälligen gegnerischen Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihr Angriffstempo 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 2 Skill: Höhere Wildheit
+### Gewöhnliche Fähigkeit 1 : Höhere Wildheit
  **Description:** <span style="color: #645252;font-size:20px">Der Angriff des Minotaurus steigt um zusätzliche </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Standardangriff verursacht 6 Sek. lang <span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
 
-### 3 Skill: Konstitution des Zauberbrechers
+### Gewöhnliche Fähigkeit 2 : Konstitution des Zauberbrechers
  **Description:** <span style="color: #645252;font-size:20px">Erhöht Magieresistenz und Schadensreduzierung des Minotaurus 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird jedes Mal verdoppelt, wenn ein gegnerischer Held einen Zauber wirkt.</span><span style="color: black">
 
-### 4 Skill: Taktische Entscheidung
+### Gewöhnliche Fähigkeit 3 : Taktische Entscheidung
  **Description:** <span style="color: #645252;font-size:20px">Gegen Angriffe von 1- oder 4-Mann-Einheiten wird die Abwehr erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Beim Angriff auf 9-Mann-Einheiten steigt Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Finsterer Konflikt
+### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

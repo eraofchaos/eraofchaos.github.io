@@ -3,7 +3,7 @@ title: "Drago rosso"
 permalink: /it/units/Red Dragon/
 excerpt: "Unità Il Signore Supremo dei Draghi. Il suo ruggito, unico per potenza e solennità, richiama i suoi simili alla battaglia."
 unitID: 708
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Drago rosso"
 toc: true
@@ -56,22 +56,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
 ## Skills
-### 1 Skill: Fiamma divampante
+### Tecnica suprema: Fiamma divampante
  **Description:** <span style="color: #645252;font-size:20px">Ogni 15 secondi, il Drago rosso ruggisce infliggendo danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT a tutte le unità a distanza e gli incantatori nemici, e infliggendo danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT più </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi a tutte le unità da mischia nemiche, applicando su di esse un &lt;Marchio dell'odio&gt;, cumulabile fino a 4 volte. I danni inflitti da &lt;Fiamma divampante&gt; aumentano del 20% per ogni Marchio d'odio presente sul bersaglio. Quando affronta unità Torre, il Drago rosso gode di DAN aumentato del 50%.</span><span style="color: black">
 
-### 2 Skill: Soffio bruciante
+### Tecnica normale 1 : Soffio bruciante
  **Description:** <span style="color: #645252;font-size:20px">Danno del Drago rosso aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.3+5.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN extra a 2 unità nelle vicinanze del bersaglio, causando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 8 secondi. Quando il Drago rosso affronta unità Torre, il suo danno aumenta del 50%.</span><span style="color: black">
 
-### 3 Skill: Possente Spezzaincantesimi
+### Tecnica normale 2 : Possente Spezzaincantesimi
  **Description:** <span style="color: #645252;font-size:20px">Quando un eroe nemico lancia un incantesimo, il Drago rosso scatena il proprio potere, aumentando DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+40)}</span><span style="color: black"><span style="color: #645252;font-size:20px">); inoltre, aumenta lo &lt;scudo&gt; delle unità di difesa Dungeon alleate di un valore pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF e fornisce loro un aumento della Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto dura 8 secondi ed è cumulabile fino a 2 volte.</span><span style="color: black">
 
-### 4 Skill: Maestosità del Drago
+### Tecnica normale 3 : Maestosità del Drago
  **Description:** <span style="color: #645252;font-size:20px">Il Drago rosso è immune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Pestilenza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Se il Drago rosso è sul campo di battaglia, riduce la resistenza dei nemici agli incantesimi di tipo Fuoco (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+20)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato contro le unità Torre. Quando lancia &lt;Fiamma divampante&gt;, il Drago rosso ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attivare &lt;Riverbero del Drago&gt;, a causa del quale le unità Drago attivano una tecnica Risveglio extra in base al tipo (Drago verde/Drago d'oro: &lt;Rinforzi volanti&gt;; Drago scheletrico/Drago fantasma: &lt;Paura&gt;; Idra: &lt;Nebbia del Caos&gt;; Drago nero/Re dei Draghi neri: &lt;Soffio del drago&gt;; Viverna/Viverna Monarca: &lt;Miasma selvaggio&gt;; Tartaruga draconica: &lt;Baluardo delle maree&gt;).</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

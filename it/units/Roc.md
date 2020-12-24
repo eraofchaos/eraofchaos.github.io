@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /it/units/Roc/
 excerpt: "Unità I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
 unitID: 405
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Roc"
 toc: true
@@ -61,22 +61,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
 ## Skills
-### 1 Skill: Tuono
+### Tecnica suprema: Tuono
  **Description:** <span style="color: #645252;font-size:20px">Il Roc infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area di fronte a sé, riducendo la MIRA dei bersagli di 200 per 10 secondi.</span><span style="color: black">
 
-### 2 Skill: Fulmine globulare
+### Tecnica normale 1 : Fulmine globulare
  **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base del Roc infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danno ad area a 3 unità nemiche.</span><span style="color: black">
 
-### 3 Skill: Raptus
+### Tecnica normale 2 : Raptus
  **Description:** <span style="color: #645252;font-size:20px">CRIT del Roc aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
-### 4 Skill: Barriera ciclonica
+### Tecnica normale 3 : Barriera ciclonica
  **Description:** <span style="color: #645252;font-size:20px">Se il Roc è sul campo di battaglia, la MIRA di tutte le unità nemiche diminuisce (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent

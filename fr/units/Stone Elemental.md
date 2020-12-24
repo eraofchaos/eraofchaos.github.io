@@ -3,7 +3,7 @@ title: "Élémentaire de pierre"
 permalink: /fr/units/Stone Elemental/
 excerpt: "Unités L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre."
 unitID: 905
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Élémentaire de pierre"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
 ## Skills
-### 1 Skill: Rochers brisés
+### Capacité ultime: Rochers brisés
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de pierre se sépare en deux Élémentaires de pierre inférieurs à sa mort. L'Élémentaire de pierre inférieur a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+17)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*120+880)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, et demeure pendant toute la durée de la bataille.</span><span style="color: black">
 
-### 2 Skill: Dur comme la pierre
+### Compétence normale 1 : Dur comme la pierre
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts de l'Élémentaire de pierre augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet double si l'Élémentaire de pierre est blessé par des unités à distance.</span><span style="color: black">
 
-### 3 Skill: Force élémentaire
+### Compétence normale 2 : Force élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de pierre est sur le champ de bataille, il augmente la résistance magique aux sorts de terre de ses alliés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et réduit la résistance magique aux sorts de terre de ses ennemis de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. De plus, les points de mana initiaux du Héros ennemi diminuent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 4 Skill: Écho de la terre
+### Compétence normale 3 : Écho de la terre
  **Description:** <span style="color: #645252;font-size:20px">Quand l'Élémentaire de pierre et les Élémentaires de pierre inférieurs sont tués, ils infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+38} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts aux ennemis dans une large zone, et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 5 Skill: Affinité élémentaire
+### Compétence spéciale de faction I : Affinité élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux sont connues pour leur maîtrise des arcanes magiques du Conflux, et augmentent la résistance magique des Héros de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 6 Skill: Conflit élémentaire
+### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /fr/units/Nightmare/
 excerpt: "Unités Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: fr
 ref: "Cauchemar"
 toc: true
@@ -56,22 +56,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
 ## Skills
-### 1 Skill: En plein cauchemar
+### Capacité ultime: En plein cauchemar
  **Description:** <span style="color: #645252;font-size:20px">Le Cauchemar maudit les unités ennemies à une certaine distance une fois toutes les 30 secondes. L'unité ciblée est incendiée pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. De plus, les unités ennemies présentes à une certaine distance de l'unité ciblée voient leurs soins reçus réduits de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
 
-### 2 Skill: Attrape-rêves
+### Compétence normale 1 : Attrape-rêves
  **Description:** <span style="color: #645252;font-size:20px">Augmente la DÉF du Cauchemar de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Chaque fois qu'il attaque un ennemi, la résistance aux dégâts de ce dernier est réduite de 2 % pendant 10 secondes. Cet effet peut se cumuler 15 fois et ne peut être dissipé.</span><span style="color: black">
 
-### 3 Skill: null
+### Compétence normale 2 : null
  **Description:** 
 
-### 4 Skill: null
+### Compétence normale 3 : null
  **Description:** 
 
-### 5 Skill: Frappe brûlante
+### Compétence spéciale de faction I : Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la maîtrise du feu, et augmentent leurs coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> et leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> lorsqu'elles affrontent des unités victimes de &lt;Brûlure&gt;.</span><span style="color: black">
 
-### 6 Skill: Résonance magique
+### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
 
 ## Talent

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /it/units/Medusa/
 excerpt: "Unità Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Medusa"
 toc: true
@@ -60,22 +60,19 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
 ## Skills
-### 1 Skill: Sguardo pietrificante
+### Tecnica suprema: Sguardo pietrificante
  **Description:** <span style="color: #645252;font-size:20px">La Medusa <span style="color: #48b946;font-size:20px">&lt;pietrifica&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 unità nemica casuale per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
-### 2 Skill: Freccia con veleno di serpente
+### Tecnica normale 1 : Freccia con veleno di serpente
  **Description:** <span style="color: #645252;font-size:20px">DAN dell'attacco base della Medusa aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
-### 3 Skill: Pelle dello Spezzaincantesimi
+### Tecnica normale 2 : Pelle dello Spezzaincantesimi
  **Description:** <span style="color: #645252;font-size:20px">Resistenza magica della Medusa aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando un eroe nemico lancia un incantesimo, il danno della Medusa aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
 
-### 4 Skill: Riflessi fulminei
+### Tecnica normale 3 : Riflessi fulminei
  **Description:** <span style="color: #645252;font-size:20px">CRIT della Medusa aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta il danno del 2% fino al termine della battaglia ogni volta che un'unità infligge un colpo critico. Cumulabile fino a 10 volte.</span><span style="color: black">
 
-### 5 Skill: null
- **Description:** 
-
-### 6 Skill: Conflitto oscuro
+### Tecnica speciale fazione II : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

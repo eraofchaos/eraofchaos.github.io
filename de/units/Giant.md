@@ -3,7 +3,7 @@ title: "Gigant"
 permalink: /de/units/Giant/
 excerpt: "Einheiten Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: de
 ref: "Gigant"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
 
 ## Skills
-### 1 Skill: null
+### Ultimative Fähigkeit: null
  **Description:** 
 
-### 2 Skill: Zorn des Donners
+### Gewöhnliche Fähigkeit 1 : Zorn des Donners
  **Description:** <span style="color: #645252;font-size:20px">Der Gigant fügt allen gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP zu und reduziert 10 Sek. lang ihren ANG um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> sowie Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### 3 Skill: Gigantenstärke
+### Gewöhnliche Fähigkeit 2 : Gigantenstärke
  **Description:** <span style="color: #645252;font-size:20px">Je weiter der Gigant von seinem Ziel entfernt ist, desto höher ist sein Angriff. Er erhält </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Angriffsbonus für je 100 Reichweite. Wenn &lt;Magisches Erwachen&gt; aktiviert wird, werden alle Debuffs vom Giganten entfernt (mit Ausnahme von Aura-Effekten).</span><span style="color: black">
 
-### 4 Skill: null
+### Gewöhnliche Fähigkeit 3 : null
  **Description:** 
 
-### 5 Skill: Nüchterner Geist
+### Fraktions-Spezialfähigkeit I : Nüchterner Geist
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
-### 6 Skill: Explosive Energie
+### Fraktions-Spezialfähigkeit II : Explosive Energie
  **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ## Talent

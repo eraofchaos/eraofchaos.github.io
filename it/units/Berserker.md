@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /it/units/Berserker/
 excerpt: "Unità I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
 unitID: 408
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-24
 lang: it
 ref: "Berserker"
 toc: true
@@ -60,22 +60,22 @@ toc: true
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
 ## Skills
-### 1 Skill: null
+### Tecnica suprema: null
  **Description:** 
 
-### 2 Skill: Furia bellica
+### Tecnica normale 1 : Furia bellica
  **Description:** <span style="color: #645252;font-size:20px">L'ATT dei Berserker aumenta al ridursi dei loro PF (fino a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Ogni 20 secondi, i Berserker lanciano un urlo di guerra, ottenendo DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Impedimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche per 10 secondi.</span><span style="color: black">
 
-### 3 Skill: Raptus
+### Tecnica normale 2 : Raptus
  **Description:** <span style="color: #645252;font-size:20px">I Berserker sono immuni a &lt;Pietrificazione&gt; e &lt;Stordimento&gt;. Vel ATT dei Berserker aumentata (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">). Effetto raddoppiato con PF inferiori al 35% (rimane attivo anche quando i PF vengono ripristinati).</span><span style="color: black">
 
-### 4 Skill: Dio della Guerra immortale
+### Tecnica normale 3 : Dio della Guerra immortale
  **Description:** <span style="color: #645252;font-size:20px">Per ogni unità Roccaforte extra schierata, i Berserker godono di danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando vengono sconfitti, i Berserker si trasformano in una Statua di Marte che aumenta il DAN delle unità Roccaforte alleate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e rigenera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei loro PF massimi.</span><span style="color: black">
 
-### 5 Skill: Combattenti devoti
+### Tecnica speciale fazione I : Combattenti devoti
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### 6 Skill: Vitalità aumentata
+### Tecnica speciale fazione II : Vitalità aumentata
  **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
 ## Talent
