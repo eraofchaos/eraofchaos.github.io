@@ -72,7 +72,7 @@ toc: true
 ### Обычное умение 3 : null
  **Description:** 
 
-### Эксклюзивное умение фракции II : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent

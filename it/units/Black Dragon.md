@@ -72,7 +72,7 @@ toc: true
 ### Tecnica normale 3 : Resistenza al calore
  **Description:** <span style="color: #645252;font-size:20px">Il Drago nero gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Rid DAN ulteriormente raddoppiata quando affronta unità affette da <span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando il Drago nero affronta unità Torre, il suo danno aumenta del 50%.</span><span style="color: black">
 
-### Tecnica speciale fazione II : Conflitto oscuro
+### Tecnica speciale fazione : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

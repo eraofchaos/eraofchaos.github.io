@@ -72,7 +72,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 3 : Energie sammeln
  **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht der Betrachter die LP deiner Einheiten in hohem Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
+### Fraktions-Spezialfähigkeit : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

@@ -72,7 +72,7 @@ toc: true
 ### Regular Skill 3 : Reflex Blast
  **Description:** <span style="color: #645252;font-size:20px">Medusa's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases unit's damage by 2% throughout the entire battle whenever a Crit Hit is landed, up to 10 stacks.</span><span style="color: black">
 
-### Faction Special Skill II : Dark Conflict
+### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

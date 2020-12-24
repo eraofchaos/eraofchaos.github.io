@@ -73,7 +73,7 @@ toc: true
 ### Habilidad normal 3 : Decisión táctica
  **Description:** <span style="color: #645252;font-size:20px">Cuando recibe daño de unidades de uno o cuatro, la defensa aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando ataca a una unidad de 9 hombres, el golpe crítico aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Conflicto oscuro
+### Habilidad especial de la facción : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

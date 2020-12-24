@@ -71,7 +71,7 @@ toc: true
 ### Habilidad normal 3 : Teletransporte
  **Description:** <span style="color: #645252;font-size:20px">Attack speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Dungeon Assault Corps has a 5% chance to stun </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"poisoned\" </span><span style="color: black"><span style="color: #645252;font-size:20px"> targets for 2 seconds during a dungeon assault. The witch increases the attack speed of her assault troops by 15% 4 seconds after the start of the game, which lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> seconds. Evil witch walks between shadow and reality, immune to corps damage but cannot be healed while in shadow, lasts 2 seconds, cooldown 8 seconds</span><span style="color: black">
 
-### Habilidad especial de la facción II : Conflicto oscuro
+### Habilidad especial de la facción : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ### Habilidad normal 6 :  Bloody Dungeon

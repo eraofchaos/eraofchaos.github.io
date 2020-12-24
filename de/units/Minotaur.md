@@ -73,7 +73,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 3 : Taktische Entscheidung
  **Description:** <span style="color: #645252;font-size:20px">Gegen Angriffe von 1- oder 4-Mann-Einheiten wird die Abwehr erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Beim Angriff auf 9-Mann-Einheiten steigt Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
+### Fraktions-Spezialfähigkeit : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

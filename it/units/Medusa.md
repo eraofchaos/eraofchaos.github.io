@@ -72,7 +72,7 @@ toc: true
 ### Tecnica normale 3 : Riflessi fulminei
  **Description:** <span style="color: #645252;font-size:20px">CRIT della Medusa aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta il danno del 2% fino al termine della battaglia ogni volta che un'unità infligge un colpo critico. Cumulabile fino a 10 volte.</span><span style="color: black">
 
-### Tecnica speciale fazione II : Conflitto oscuro
+### Tecnica speciale fazione : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

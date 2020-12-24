@@ -72,7 +72,7 @@ toc: true
 ### Habilidad normal 3 : Estallido reflejo
  **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la Medusa en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño de la unidad un 2% cada vez que impacta con un golpe crítico. Dura toda la batalla y se acumula 10 veces.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Conflicto oscuro
+### Habilidad especial de la facción : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

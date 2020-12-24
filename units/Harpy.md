@@ -73,7 +73,7 @@ toc: true
 ### Regular Skill 3 : Aiming in Mid Air
  **Description:** <span style="color: #645252;font-size:20px">Harpy's Crit DMG increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Harpy is guaranteed to cause Crit Hits on <span style="color: #48b946;font-size:20px">stunned</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets.</span><span style="color: black">
 
-### Faction Special Skill II : Dark Conflict
+### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

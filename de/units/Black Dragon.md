@@ -72,7 +72,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 3 : Hitzebeständigkeit
  **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Schwarzen Drachen wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Abwehr um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Einheiten mit <span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird die Schadensreduzierung verdoppelt. Bei Angriffen auf Turm-Einheiten steigt der Schaden der Einheit um 50 %.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
+### Fraktions-Spezialfähigkeit : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

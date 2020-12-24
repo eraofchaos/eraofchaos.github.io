@@ -72,7 +72,7 @@ toc: true
 ### Regular Skill 3 : Heat Resistance
  **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px">&lt;Burned&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit's damage is increased by 50%.</span><span style="color: black">
 
-### Faction Special Skill II : Dark Conflict
+### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Talent

@@ -72,7 +72,7 @@ toc: true
 ### Compétence normale 3 : Amas d'énergie
  **Description:** <span style="color: #645252;font-size:20px">Au début du combat, l'Œil maléfique augmente </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> les PV de toutes vos unités dans une large zone. L'effet dure pendant toute la bataille.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Conflit des ténèbres
+### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

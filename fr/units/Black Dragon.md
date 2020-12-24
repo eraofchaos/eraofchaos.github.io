@@ -72,7 +72,7 @@ toc: true
 ### Compétence normale 3 : Adaptation aux températures extrêmes
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Dragon noir augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa défense de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand il affronte des unités victimes de <span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, l'effet de résistance aux dégâts double. Quand un Dragon noir affronte une unité de la Tour, ses dégâts augmentent de 50 %.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Conflit des ténèbres
+### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

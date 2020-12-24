@@ -72,7 +72,7 @@ toc: true
 ### Compétence normale 3 : Coup réflexe
  **Description:** <span style="color: #645252;font-size:20px">Les coups critiques de la Méduse augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Augmente les dégâts de l'unité de 2 % pendant toute la durée de la bataille quand un coup critique touche sa cible. L'effet peut se cumuler jusqu'à 10 fois.</span><span style="color: black">
 
-### Compétence spéciale de faction II : Conflit des ténèbres
+### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
 
 ## Talent

@@ -70,7 +70,7 @@ toc: true
 ### Обычное умение 3 : Адаптация к высоким температурам
  **Description:** <span style="color: #645252;font-size:20px">Черные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. В бою против <span style="color: #48b946;font-size:20px">горящих</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядов эффект сопротивления урону удваивается. В бою черных драконов против отряда фракции Башни они получают +50% к урону.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ## Talent

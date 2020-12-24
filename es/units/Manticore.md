@@ -72,7 +72,7 @@ toc: true
 ### Habilidad normal 3 : Sangre envenenada salpicada
  **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota al objetivo, la DEF de todas las unidades hostiles se reduce un 30% y quedan <span style="color: #48b946;font-size:20px">&lt;silenciadas&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Solo se activa una vez por batalla.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Conflicto oscuro
+### Habilidad especial de la facción : Conflicto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ## Talent

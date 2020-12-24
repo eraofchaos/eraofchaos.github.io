@@ -72,7 +72,7 @@ toc: true
 ### Tecnica normale 3 : Spruzzo di sangue avvelenato
  **Description:** <span style="color: #645252;font-size:20px">Quando il suo bersaglio viene abbattuto, causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche e ne riduce del 30% la DIF per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec. Utilizzabile una sola volta per battaglia.</span><span style="color: black">
 
-### Tecnica speciale fazione II : Conflitto oscuro
+### Tecnica speciale fazione : Conflitto oscuro
  **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ## Talent

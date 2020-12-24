@@ -72,7 +72,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 3 : Vergossenes giftiges Blut
  **Description:** <span style="color: #645252;font-size:20px">Wenn ein Ziel stirbt, verlieren alle gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang 30 % ABW, und sie <span style="color: #48b946;font-size:20px">„verstummen“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wird nur einmal pro Schlacht ausgelöst.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
+### Fraktions-Spezialfähigkeit : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent

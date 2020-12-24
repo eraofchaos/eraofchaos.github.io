@@ -71,7 +71,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 3 : Teleport
  **Description:** <span style="color: #645252;font-size:20px">Attack speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Dungeon Assault Corps has a 5% chance to stun </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"poisoned\" </span><span style="color: black"><span style="color: #645252;font-size:20px"> targets for 2 seconds during a dungeon assault. The witch increases the attack speed of her assault troops by 15% 4 seconds after the start of the game, which lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> seconds. Evil witch walks between shadow and reality, immune to corps damage but cannot be healed while in shadow, lasts 2 seconds, cooldown 7 seconds</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
+### Fraktions-Spezialfähigkeit : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 6 :  Bloody Dungeon

@@ -72,7 +72,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 3 : Reflexangriff
  **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Medusa wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Für jeden erzielten kritischen Treffer steigt der Schaden der Einheit um 2 % für die gesamte Schlacht, bis zu 10 Stapel.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Finsterer Konflikt
+### Fraktions-Spezialfähigkeit : Finsterer Konflikt
  **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ## Talent
