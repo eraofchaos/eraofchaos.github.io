@@ -2,7 +2,7 @@
 title: "Formación de batalla Castillo"
 permalink: /es/Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Formación de batalla Castillo"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Castillo](/units/Fraction Castle)
 
-  **Description:** Por el honor, el orden y el deber.
+  **Descripción:** Por el honor, el orden y el deber.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Castillo** 
 {: .notice--danger}

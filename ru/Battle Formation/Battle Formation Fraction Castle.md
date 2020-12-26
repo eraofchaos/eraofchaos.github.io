@@ -2,7 +2,7 @@
 title: "Боевое построение Замок"
 permalink: /ru/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Боевое построение Замок"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Замок](/units/Fraction Castle)
 
-  **Description:** Честь, порядок и долг!
+  **Описание:** Честь, порядок и долг!
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Замок** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **null** |
   | **5** | **При высоком боевом духе все отряды Замка получают +5% к сопротивлению урону** |
   | **6** | **Усиливает АТК всех отрядов Замка на 10%** |
+  | **7** | **Повышает сопротивление магии всех отрядов Замка на 10%** |
+  | **8** | **При высоком боевом духе все отряды Замка получают +12% к КРИТ. УРН** |
+  | **9** | **Ускоряет атаку всех отрядов Замка на 4%** |
 
 ## Боевое построение Circle 1:
 

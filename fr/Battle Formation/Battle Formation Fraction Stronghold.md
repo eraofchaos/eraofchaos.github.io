@@ -2,7 +2,7 @@
 title: "Formation de combat Bastion"
 permalink: /fr/Battle Formation/Battle Formation Fraction Stronghold
 excerpt: "Formation de combat Bastion"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités du Bastion de 8 %.** |
   | **5** | **Le drain de vie des unités du Bastion augmente de 5 % quand leurs PV passent en dessous de 50 %.** |
   | **6** | **Augmente l'ATQ de toutes les unités du Bastion de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités du Bastion de 10 %.** |
+  | **8** | **Les coups critiques des unités du Bastion augmentent de 50 quand leurs PV passent en dessous de 55 %.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités du Bastion de 4 %.** |
 
 ## Formation de combat Circle 1:
 

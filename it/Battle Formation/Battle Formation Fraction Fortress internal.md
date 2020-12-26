@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Fortezza"
 permalink: /it/Battle Formation/Battle Formation Fraction Fortress internal
 excerpt: "Formazione di battaglia Fortezza"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Fortezza](/units/Fraction Fortress)
 
-  **Description:** Unità e solidarietà. Siamo tutti nati liberi.
+  **Descrizione:** Unità e solidarietà. Siamo tutti nati liberi.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Fortezza** 
 {: .notice--danger}

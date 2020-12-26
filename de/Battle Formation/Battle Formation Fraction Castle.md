@@ -2,7 +2,7 @@
 title: "Kampfformation Schloss"
 permalink: /de/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Kampfformation Schloss"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Schloss](/units/Fraction Castle)
 
-  **Description:** Für Ehre, Ordnung und Pflicht.
+  **Beschreibung:** Für Ehre, Ordnung und Pflicht.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Schloss** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Schloss-Einheiten um 8 %.** |
   | **5** | **Bei Hoher Moral erhöht sich die Einheitenschadensreduzierung von allen Schloss-Einheiten um 5 %.** |
   | **6** | **Erhöht den ANG aller Schloss-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Schloss-Einheiten um 10 %.** |
+  | **8** | **Bei Hoher Moral erhöht sich der KRIT. SCHD aller Schloss-Einheiten um 12 %.** |
+  | **9** | **Erhöht das Angriffstempo aller Schloss-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

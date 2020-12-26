@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Confluenza"
 permalink: /it/Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Formazione di battaglia Confluenza"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Confluenza](/units/Fraction Conflux)
 
-  **Description:** Il cielo e la terra sono una cosa sola; due mondi inestricabili.
+  **Descrizione:** Il cielo e la terra sono una cosa sola; due mondi inestricabili.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Confluenza** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Confluenza** |
   | **5** | **Contro unità <congelate>, il DAN CRIT delle unità Confluenza aumenta del 12%** |
   | **6** | **Aumenta del 10% l'ATT delle unità Confluenza** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Confluenza** |
+  | **8** | **Contro unità affette da <Stordimento>, il Colpo critico delle unità Confluenza aumenta di 80** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Confluenza** |
 
 ## Formazione di battaglia Circle 1:
 

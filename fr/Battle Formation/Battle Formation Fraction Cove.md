@@ -2,7 +2,7 @@
 title: "Formation de combat Crique"
 permalink: /fr/Battle Formation/Battle Formation Fraction Cove
 excerpt: "Formation de combat Crique"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionCove"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités de la Crique de 8 %.** |
   | **5** | **Pour chaque unité de la Crique supplémentaire déployée, la résistance aux dégâts des unités de la Crique augmente de 3 %** |
   | **6** | **Augmente l'ATQ de toutes les unités de la Crique de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités de la Crique de 10 %.** |
+  | **8** | **Pour chaque unité de la Crique supplémentaire déployée, l'ATQ des unités de la Crique augmente de 8 %.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Crique de 4 %.** |
 
 ## Formation de combat Circle 1:
 

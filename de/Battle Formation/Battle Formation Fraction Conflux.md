@@ -2,7 +2,7 @@
 title: "Kampfformation Konflux"
 permalink: /de/Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Kampfformation Konflux"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Konflux](/units/Fraction Conflux)
 
-  **Description:** Himmel und Erde wurden gemeinsam erschaffen und sind eins.
+  **Beschreibung:** Himmel und Erde wurden gemeinsam erschaffen und sind eins.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Konflux** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Konflux-Einheiten um 8 %.** |
   | **5** | **Wenn Konflux-Einheiten gefrorenen Einheiten gegenüberstehen, erhöht sich ihr KRIT. SCHD um 12 %.** |
   | **6** | **Erhöht den ANG aller Konflux-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Konflux-Einheiten um 10 %.** |
+  | **8** | **Wenn Konflux-Einheiten betäubten Einheiten gegenüberstehen, erhöht sich ihr Kritischer Treffer um 80.** |
+  | **9** | **Erhöht das Angriffstempo aller Konflux-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

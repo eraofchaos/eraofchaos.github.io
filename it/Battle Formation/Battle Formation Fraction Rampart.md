@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Baluardo"
 permalink: /it/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Formazione di battaglia Baluardo"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Baluardo](/units/Fraction Rampart)
 
-  **Description:** Balliamo al ritmo del mondo.
+  **Descrizione:** Balliamo al ritmo del mondo.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Baluardo** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Baluardo** |
   | **5** | **Quando affrontano unità affette da <Sanguinamento> e <Rallentamento>, il Colpo critico delle unità Baluardo aumenta di 25 per ogni effetto attivo** |
   | **6** | **Aumenta del 10% l'ATT delle unità Baluardo** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Baluardo** |
+  | **8** | **Quando affrontano unità affette da <Sanguinamento> e <Rallentamento>, la DIF delle unità Baluardo aumenta del 4% per ogni effetto attivo** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Baluardo** |
 
 ## Formazione di battaglia Circle 1:
 

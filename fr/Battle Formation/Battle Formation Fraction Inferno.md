@@ -2,7 +2,7 @@
 title: "Formation de combat Hadès"
 permalink: /fr/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Formation de combat Hadès"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités de l'Hadès de 8 %.** |
   | **5** | **L'esquive des unités de l'Hadès augmente de 30 pour chaque unité de l'Hadès présente sur le champ de bataille.** |
   | **6** | **Augmente l'ATQ de toutes les unités de l'Hadès de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités de l'Hadès de 10 %.** |
+  | **8** | **Les coups critiques des unités de l'Hadès augmentent de 50 contre les unités ennemies victimes de Brûlure.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités de l'Hadès de 4 %.** |
 
 ## Formation de combat Circle 1:
 

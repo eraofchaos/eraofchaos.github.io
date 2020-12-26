@@ -2,7 +2,7 @@
 title: "Kampfformation Bucht"
 permalink: /de/Battle Formation/Battle Formation Fraction Cove
 excerpt: "Kampfformation Bucht"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionCove"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Bucht](/units/Fraction Cove)
 
-  **Description:** Ich bin ein Glücksritter und muss mein Glück suchen.
+  **Beschreibung:** Ich bin ein Glücksritter und muss mein Glück suchen.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Bucht** 
 {: .notice--danger}
@@ -29,6 +29,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Bucht-Einheiten um 8 %.** |
   | **5** | **Für jede zusätzlich aufgestellte Bucht-Einheit erhöht sich die Schadensreduzierung von Bucht-Einheiten um 3 %.** |
   | **6** | **Erhöht den ANG aller Bucht-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Bucht-Einheiten um 10 %.** |
+  | **8** | **Für jede zusätzlich aufgestellte Bucht-Einheit erhöht sich der ANG von Bucht-Einheiten um 8 %.** |
+  | **9** | **Erhöht das Angriffstempo aller Bucht-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

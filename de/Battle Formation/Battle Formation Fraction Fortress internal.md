@@ -2,7 +2,7 @@
 title: "Kampfformation Festung"
 permalink: /de/Battle Formation/Battle Formation Fraction Fortress internal
 excerpt: "Kampfformation Festung"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Festung](/units/Fraction Fortress)
 
-  **Description:** Einigkeit und Solidarität für alle, die in Freiheit geboren sind.
+  **Beschreibung:** Einigkeit und Solidarität für alle, die in Freiheit geboren sind.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Festung** 
 {: .notice--danger}

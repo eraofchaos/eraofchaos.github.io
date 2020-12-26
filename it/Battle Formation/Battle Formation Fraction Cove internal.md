@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Baia"
 permalink: /it/Battle Formation/Battle Formation Fraction Cove internal
 excerpt: "Formazione di battaglia Baia"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionCove"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
   **Fraction:** [Baia](/units/Fraction Cove)
 
-  **Description:** Sono costantemente alla ricerca della mia fortuna.
+  **Descrizione:** Sono costantemente alla ricerca della mia fortuna.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Baia** 
 {: .notice--danger}

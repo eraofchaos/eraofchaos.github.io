@@ -2,7 +2,7 @@
 title: "Formación de batalla Infierno"
 permalink: /es/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Formación de batalla Infierno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Infierno](/units/Fraction Inferno)
 
-  **Description:** Baila alrededor de un mundo en llamas.
+  **Descripción:** Baila alrededor de un mundo en llamas.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Infierno** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades del Infierno** |
   | **5** | **La esquiva de las unidades del Infierno aumenta en 30 puntos por cada unidad del Infierno que haya en el campo** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades del Infierno** |
+  | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades del Infierno** |
+  | **8** | **Los golpes críticos de las unidades del Infierno aumentan en 50 puntos cuando luchan contra unidades enemigas que sufren quemaduras** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades del Infierno** |
 
 ## Formación de batalla Circle 1:
 

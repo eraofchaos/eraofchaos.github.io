@@ -2,7 +2,7 @@
 title: "Боевое построение Dungeon"
 permalink: /ru/Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Боевое построение Dungeon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
-  **Description:** Владыка тени правит всем.
+  **Описание:** Владыка тени правит всем.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Dungeon** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Усиливает ЗЩТ всех отрядов Подземелья на 8%** |
   | **5** | **null** |
   | **6** | **null** |
+  | **7** | **null** |
+  | **8** | **Когда вражеский герой творит заклинание, КРИТ. УРН отрядов Подземелья увеличивается на 12% на 6 сек.** |
+  | **9** | **Ускоряет атаку всех отрядов Подземелья на 4%** |
 
 ## Боевое построение Circle 1:
 

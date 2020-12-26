@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Dungeon"
 permalink: /it/Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Formazione di battaglia Dungeon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
-  **Description:** Il Signore delle Ombre domina ogni cosa.
+  **Descrizione:** Il Signore delle Ombre domina ogni cosa.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Dungeon** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Dungeon** |
   | **5** | **Contro unità affette da <Sanguinamento>, la DIF delle unità Dungeon aumenta del 6%** |
   | **6** | **Aumenta del 10% l'ATT delle unità Dungeon** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Dungeon** |
+  | **8** | **Quando un eroe nemico lancia un incantesimo, il DAN CRIT delle unità Dungeon aumenta del 12% per 6 secondi** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Dungeon** |
 
 ## Formazione di battaglia Circle 1:
 

@@ -2,7 +2,7 @@
 title: "Battle Formation Castle"
 permalink: /Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Battle Formation Castle"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionCastle"
 toc: false

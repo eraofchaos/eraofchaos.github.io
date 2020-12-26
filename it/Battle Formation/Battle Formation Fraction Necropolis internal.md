@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Necropoli"
 permalink: /it/Battle Formation/Battle Formation Fraction Necropolis internal
 excerpt: "Formazione di battaglia Necropoli"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Necropoli](/units/Fraction Necropolis)
 
-  **Description:** Percorriamo solitari il sentiero della nostra vita.
+  **Descrizione:** Percorriamo solitari il sentiero della nostra vita.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Necropoli** 
 {: .notice--danger}

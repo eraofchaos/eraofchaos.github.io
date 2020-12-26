@@ -2,7 +2,7 @@
 title: "Kampfformation Burg"
 permalink: /de/Battle Formation/Battle Formation Fraction Stronghold internal
 excerpt: "Kampfformation Burg"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Burg](/units/Fraction Stronghold)
 
-  **Description:** Das Leben ist vergänglich. Nur der Tod hat Bedeutung.
+  **Beschreibung:** Das Leben ist vergänglich. Nur der Tod hat Bedeutung.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Burg** 
 {: .notice--danger}

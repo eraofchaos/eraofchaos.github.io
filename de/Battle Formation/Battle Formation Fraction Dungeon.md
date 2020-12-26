@@ -2,7 +2,7 @@
 title: "Kampfformation Dungeon"
 permalink: /de/Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Kampfformation Dungeon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
-  **Description:** Der Herr der Schatten gebietet über alles.
+  **Beschreibung:** Der Herr der Schatten gebietet über alles.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Dungeon** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Dungeon-Einheiten um 8 %.** |
   | **5** | **Wenn Dungeon-Einheiten blutenden Einheiten gegenüberstehen, erhöht sich ihre ABW um 6 %.** |
   | **6** | **Erhöht den ANG aller Dungeon-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Dungeon-Einheiten um 10 %.** |
+  | **8** | **Wenn ein gegnerischer Held einen Zauber wirkt, erhöht sich der KRIT. SCHD von Dungeon-Einheiten 6 Sekunden lang um 12 %.** |
+  | **9** | **Erhöht das Angriffstempo aller Dungeon-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

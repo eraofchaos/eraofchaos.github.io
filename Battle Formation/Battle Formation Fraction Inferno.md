@@ -2,7 +2,7 @@
 title: "Battle Formation Inferno"
 permalink: /Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Battle Formation Inferno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Inferno Units** |
   | **5** | **Inferno Units receive an increases of 30 Dodge for every Inferno Unit on the field** |
   | **6** | **Increases 10% ATK for all Inferno Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Inferno Units** |
+  | **8** | **Inferno units receive an increase of 50 Critical Hit when against the burning enemy units** |
+  | **9** | **Increases 4% attack speed for all Inferno Units** |
 
 ## Battle Formation Circle 1:
 

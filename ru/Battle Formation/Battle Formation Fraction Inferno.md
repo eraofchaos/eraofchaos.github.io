@@ -2,7 +2,7 @@
 title: "Боевое построение Inferno"
 permalink: /ru/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Боевое построение Inferno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Inferno](/units/Fraction Inferno)
 
-  **Description:** И мы танцуем, пока весь мир объят пламенем.
+  **Описание:** И мы танцуем, пока весь мир объят пламенем.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Inferno** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Усиливает ЗЩТ всех отрядов Инферно на 8%** |
   | **5** | **Отряды Инферно получают +30 к уклонению за каждый отряд Инферно на поле** |
   | **6** | **Усиливает АТК всех отрядов Инферно на 10%** |
+  | **7** | **null** |
+  | **8** | **null** |
+  | **9** | **Ускоряет атаку всех отрядов Инферно на 4%** |
 
 ## Боевое построение Circle 1:
 

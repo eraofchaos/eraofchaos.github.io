@@ -2,7 +2,7 @@
 title: "Боевое построение Цитадель"
 permalink: /ru/Battle Formation/Battle Formation Fraction Stronghold internal
 excerpt: "Боевое построение Цитадель"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Цитадель](/units/Fraction Stronghold)
 
-  **Description:** Жизнь - цепь перемен, лишь в смерти есть смысл.
+  **Описание:** Жизнь - цепь перемен, лишь в смерти есть смысл.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Цитадель** 
 {: .notice--danger}

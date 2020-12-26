@@ -2,7 +2,7 @@
 title: "Formación de batalla Fortaleza"
 permalink: /es/Battle Formation/Battle Formation Fraction Fortress internal
 excerpt: "Formación de batalla Fortaleza"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Fortaleza](/units/Fraction Fortress)
 
-  **Description:** Unidad y solidaridad, las personas nacen libres.
+  **Descripción:** Unidad y solidaridad, las personas nacen libres.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Fortaleza** 
 {: .notice--danger}

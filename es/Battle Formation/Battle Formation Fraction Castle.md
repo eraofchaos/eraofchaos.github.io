@@ -2,7 +2,7 @@
 title: "Formación de batalla Castillo"
 permalink: /es/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Formación de batalla Castillo"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Castillo](/units/Fraction Castle)
 
-  **Description:** Por el honor, el orden y el deber.
+  **Descripción:** Por el honor, el orden y el deber.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Castillo** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Castillo** |
   | **5** | **Todas las unidades de Castillo reciben un aumento de reducción de daño de unidad del 5% cuando tienen moral alta** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Castillo** |
+  | **7** | **Aumenta la resistencia mágica de unidad un 10% para todas las unidades de Castillo** |
+  | **8** | **Todas las unidades de Castillo reciben un aumento de daño crítico del 12% cuando tienen moral alta** |
+  | **9** | **Aumenta la velocidad de ataque en un 4% para todas las unidades de Castillo** |
 
 ## Formación de batalla Circle 1:
 

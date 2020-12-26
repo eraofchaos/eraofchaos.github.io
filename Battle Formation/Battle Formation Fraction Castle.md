@@ -2,7 +2,7 @@
 title: "Battle Formation Castle"
 permalink: /Battle Formation/Battle Formation Fraction Castle
 excerpt: "Battle Formation Castle"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Castle Units** |
   | **5** | **All Castle units receive an increase of 5% unit damage reduction when in High Morale** |
   | **6** | **Increases 10% ATK for all Castle Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Castle Units** |
+  | **8** | **All Castle Units receive an increase of 12% CRIT DMG when in High Morale** |
+  | **9** | **Increases 4% attack speed for all Castle Units** |
 
 ## Battle Formation Circle 1:
 

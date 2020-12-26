@@ -2,7 +2,7 @@
 title: "Formation de combat Conflux"
 permalink: /fr/Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Formation de combat Conflux"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités du Conflux de 8 %.** |
   | **5** | **Les dégâts critiques des unités du Conflux augmentent de 12 % contre des unités victimes de Gel.** |
   | **6** | **Augmente l'ATQ de toutes les unités du Conflux de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités du Conflux de 10 %.** |
+  | **8** | **Les coups critiques des unités du Conflux augmentent de 80 contre des unités victimes d'Étourdissement.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités du Conflux de 4 %.** |
 
 ## Formation de combat Circle 1:
 

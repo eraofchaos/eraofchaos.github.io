@@ -2,7 +2,7 @@
 title: "Боевое построение Замок"
 permalink: /ru/Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Боевое построение Замок"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Замок](/units/Fraction Castle)
 
-  **Description:** Честь, порядок и долг!
+  **Описание:** Честь, порядок и долг!
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Замок** 
 {: .notice--danger}

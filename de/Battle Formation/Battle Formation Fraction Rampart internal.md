@@ -2,7 +2,7 @@
 title: "Kampfformation Schutzwall"
 permalink: /de/Battle Formation/Battle Formation Fraction Rampart internal
 excerpt: "Kampfformation Schutzwall"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Schutzwall](/units/Fraction Rampart)
 
-  **Description:** Wir tanzen zum Takt der Welt.
+  **Beschreibung:** Wir tanzen zum Takt der Welt.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Schutzwall** 
 {: .notice--danger}

@@ -2,7 +2,7 @@
 title: "Formación de batalla Cala"
 permalink: /es/Battle Formation/Battle Formation Fraction Cove
 excerpt: "Formación de batalla Cala"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionCove"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Cala](/units/Fraction Cove)
 
-  **Description:** Soy un hombre de fortuna, debo perseguir la fortuna
+  **Descripción:** Soy un hombre de fortuna, debo perseguir la fortuna
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Cala** 
 {: .notice--danger}
@@ -29,6 +29,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Cala** |
   | **5** | **La reducción de daño de las unidades de Cala aumentará un 3% por cada unidad de Cala adicional desplegada** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Cala** |
+  | **7** | **Aumenta la resistencia mágica de todas las unidades de Cala un 10%** |
+  | **8** | **La ATQ de las unidades de Cala aumentará un 8% por cada unidad de Cala adicional desplegada** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Cala** |
 
 ## Formación de batalla Circle 1:
 

@@ -2,7 +2,7 @@
 title: "Kampfformation Dungeon"
 permalink: /de/Battle Formation/Battle Formation Fraction Dungeon internal
 excerpt: "Kampfformation Dungeon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
-  **Description:** Der Herr der Schatten gebietet über alles.
+  **Beschreibung:** Der Herr der Schatten gebietet über alles.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Dungeon** 
 {: .notice--danger}

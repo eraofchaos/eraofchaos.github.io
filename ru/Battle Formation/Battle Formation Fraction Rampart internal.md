@@ -2,7 +2,7 @@
 title: "Боевое построение Rampart"
 permalink: /ru/Battle Formation/Battle Formation Fraction Rampart internal
 excerpt: "Боевое построение Rampart"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Rampart](/units/Fraction Rampart)
 
-  **Description:** Мы танцуем в ритме мира.
+  **Описание:** Мы танцуем в ритме мира.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Rampart** 
 {: .notice--danger}

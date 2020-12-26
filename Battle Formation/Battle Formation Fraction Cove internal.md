@@ -2,7 +2,7 @@
 title: "Battle Formation Cove"
 permalink: /Battle Formation/Battle Formation Fraction Cove internal
 excerpt: "Battle Formation Cove"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionCove"
 toc: false

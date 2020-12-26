@@ -2,7 +2,7 @@
 title: "Formación de batalla Cala"
 permalink: /es/Battle Formation/Battle Formation Fraction Cove internal
 excerpt: "Formación de batalla Cala"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionCove"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
   **Fraction:** [Cala](/units/Fraction Cove)
 
-  **Description:** Soy un hombre de fortuna, debo perseguir la fortuna
+  **Descripción:** Soy un hombre de fortuna, debo perseguir la fortuna
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Cala** 
 {: .notice--danger}

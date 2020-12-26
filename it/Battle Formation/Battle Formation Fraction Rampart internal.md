@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Baluardo"
 permalink: /it/Battle Formation/Battle Formation Fraction Rampart internal
 excerpt: "Formazione di battaglia Baluardo"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Baluardo](/units/Fraction Rampart)
 
-  **Description:** Balliamo al ritmo del mondo.
+  **Descrizione:** Balliamo al ritmo del mondo.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Baluardo** 
 {: .notice--danger}

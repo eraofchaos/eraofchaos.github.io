@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Inferno"
 permalink: /it/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Formazione di battaglia Inferno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Inferno](/units/Fraction Inferno)
 
-  **Description:** Balla mentre il mondo brucia!
+  **Descrizione:** Balla mentre il mondo brucia!
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Inferno** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Inferno** |
   | **5** | **Per ogni unità Inferno sul campo, la Schivata delle unità Inferno aumenta di 30** |
   | **6** | **Aumenta del 10% l'ATT delle unità Inferno** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Inferno** |
+  | **8** | **Contro unità affette da <Combustione>, il Colpo critico delle unità Inferno aumenta di 50** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Inferno** |
 
 ## Formazione di battaglia Circle 1:
 

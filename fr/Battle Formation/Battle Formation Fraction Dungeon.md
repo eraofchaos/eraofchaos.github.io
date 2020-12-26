@@ -2,7 +2,7 @@
 title: "Formation de combat Donjon"
 permalink: /fr/Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Formation de combat Donjon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités du Donjon de 8 %.** |
   | **5** | **La DÉF des unités du Donjon augmente de 6 % contre les unités ennemies victimes de Saignement.** |
   | **6** | **Augmente l'ATQ de toutes les unités du Donjon de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités du Donjon de 10 %.** |
+  | **8** | **Quand un Héros ennemi lance un sort, les dégâts critiques des unités du Donjon augmente de 12 % pendant 6 secondes.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités du Donjon de 4 %.** |
 
 ## Formation de combat Circle 1:
 

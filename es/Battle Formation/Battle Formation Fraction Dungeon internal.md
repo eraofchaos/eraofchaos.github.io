@@ -2,7 +2,7 @@
 title: "Formación de batalla Mazmorra"
 permalink: /es/Battle Formation/Battle Formation Fraction Dungeon internal
 excerpt: "Formación de batalla Mazmorra"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Mazmorra](/units/Fraction Dungeon)
 
-  **Description:** El Señor de las Sombras reina sobre todo.
+  **Descripción:** El Señor de las Sombras reina sobre todo.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Mazmorra** 
 {: .notice--danger}

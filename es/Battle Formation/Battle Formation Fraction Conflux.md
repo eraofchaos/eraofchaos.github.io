@@ -2,7 +2,7 @@
 title: "Formación de batalla Conflujo"
 permalink: /es/Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Formación de batalla Conflujo"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Conflujo](/units/Fraction Conflux)
 
-  **Description:** El cielo y la tierra nacen como uno, ambos mundos están entrelazados.
+  **Descripción:** El cielo y la tierra nacen como uno, ambos mundos están entrelazados.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Conflujo** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Conflujo** |
   | **5** | **El daño crítico de las unidades de Conflujo aumenta un 12% cuando luchan contra unidades congeladas** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Conflujo** |
+  | **7** | **Aumenta la resistencia mágica de todas las unidades de Conflujo un 10%** |
+  | **8** | **El golpe crítico de las unidades de Conflujo aumenta en 80 cuando luchan contra unidades aturdidas** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Conflujo** |
 
 ## Formación de batalla Circle 1:
 

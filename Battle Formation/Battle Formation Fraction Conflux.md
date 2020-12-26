@@ -2,7 +2,7 @@
 title: "Battle Formation Conflux"
 permalink: /Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Battle Formation Conflux"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Conflux Units** |
   | **5** | **Conflux Units will receive an increase of 12% CRIT DMG when against frozen units** |
   | **6** | **Increases 10% ATK for all Conflux Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Conflux Units** |
+  | **8** | **Conflux Units will receive an increase of 80 Critical Hit when against stunned units** |
+  | **9** | **Increases 4% attack speed for all Conflux Units** |
 
 ## Battle Formation Circle 1:
 

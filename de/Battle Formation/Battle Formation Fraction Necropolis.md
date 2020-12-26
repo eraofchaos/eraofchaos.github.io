@@ -2,7 +2,7 @@
 title: "Kampfformation Nekropolis"
 permalink: /de/Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Kampfformation Nekropolis"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Nekropolis](/units/Fraction Necropolis)
 
-  **Description:** Wir gehen alleine auf unserem Weg.
+  **Beschreibung:** Wir gehen alleine auf unserem Weg.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Nekropolis** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Nekropolis-Einheiten um 8 %.** |
   | **5** | **Erhöht den KRIT. SCHD aller verbündeten Nekropolis-Einheiten 6 Sekunden lang um 12 %, wenn ein verbündeter Held einen Erdzauber wirkt.** |
   | **6** | **Erhöht den ANG aller Nekropolis-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Nekropolis-Einheiten um 10 %.** |
+  | **8** | **Wenn Nekropolis-Einheiten gegnerischen Einheiten mit „Niedriger Moral“ gegenüberstehen, erhöht sich der Einheitenschaden gegen sie um 5 %.** |
+  | **9** | **Erhöht das Angriffstempo aller Nekropolis-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

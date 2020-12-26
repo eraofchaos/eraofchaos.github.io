@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Confluenza"
 permalink: /it/Battle Formation/Battle Formation Fraction Conflux internal
 excerpt: "Formazione di battaglia Confluenza"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Confluenza](/units/Fraction Conflux)
 
-  **Description:** Il cielo e la terra sono una cosa sola; due mondi inestricabili.
+  **Descrizione:** Il cielo e la terra sono una cosa sola; due mondi inestricabili.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Confluenza** 
 {: .notice--danger}

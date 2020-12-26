@@ -2,7 +2,7 @@
 title: "Formation de combat Rempart"
 permalink: /fr/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Formation de combat Rempart"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités du Rempart de 8 %.** |
   | **5** | **Quand les unités du Rempart se battent contre des unités affectées par Saignement ou Lenteur, leurs coups critiques augmentent de 25 par effet.** |
   | **6** | **Augmente l'ATQ de toutes les unités du Rempart de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités du Rempart de 10 %.** |
+  | **8** | **Quand les unités du Rempart se battent contre des unités affectées par Saignement ou Lenteur, leur DÉF augmente de 4 % par effet actif.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités du Rempart de 4 %.** |
 
 ## Formation de combat Circle 1:
 

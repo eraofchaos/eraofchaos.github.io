@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Castello"
 permalink: /it/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Formazione di battaglia Castello"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Castello](/units/Fraction Castle)
 
-  **Description:** Per l'onore, il dovere e l'ordine.
+  **Descrizione:** Per l'onore, il dovere e l'ordine.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Castello** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Castello** |
   | **5** | **Con <Morale alto>, la Riduzione danno delle unità Castello aumenta del 5%** |
   | **6** | **Aumenta del 10% l'ATT delle unità Castello** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Castello** |
+  | **8** | **Con <Morale alto>, il DAN CRIT delle unità Castello aumenta del 12%** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Castello** |
 
 ## Formazione di battaglia Circle 1:
 

@@ -2,7 +2,7 @@
 title: "Боевое построение Conflux"
 permalink: /ru/Battle Formation/Battle Formation Fraction Conflux
 excerpt: "Боевое построение Conflux"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Conflux](/units/Fraction Conflux)
 
-  **Description:** Небо и земля едины, оба мира переплетены.
+  **Описание:** Небо и земля едины, оба мира переплетены.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Conflux** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Усиливает ЗЩТ всех отрядов Гармонии на 8%** |
   | **5** | **Сражаясь с замерзшими отрядами, отряды Гармонии получают +12% к КРИТ. УРН** |
   | **6** | **null** |
+  | **7** | **null** |
+  | **8** | **null** |
+  | **9** | **Ускоряет атаку всех отрядов Гармонии на 4%** |
 
 ## Боевое построение Circle 1:
 

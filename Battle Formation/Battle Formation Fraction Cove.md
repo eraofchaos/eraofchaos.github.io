@@ -2,7 +2,7 @@
 title: "Battle Formation Cove"
 permalink: /Battle Formation/Battle Formation Fraction Cove
 excerpt: "Battle Formation Cove"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionCove"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Cove Units** |
   | **5** | **For each additional Cove unit deployed, Cove Units' damage reduction will be increased by 3%** |
   | **6** | **Increases 10% ATK for all Cove Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Cove Units** |
+  | **8** | **For each additional Cove unit deployed, Cove Units' ATK will be increased by 8%** |
+  | **9** | **Increases 4% attack speed for all Cove Units** |
 
 ## Battle Formation Circle 1:
 

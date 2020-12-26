@@ -2,7 +2,7 @@
 title: "Battle Formation Rampart"
 permalink: /Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Battle Formation Rampart"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Rampart Units** |
   | **5** | **When Rampart units are against bleeding and slowed units, 25 Critical Hit will be increased for them per effect** |
   | **6** | **Increases 10% ATK for all Rampart Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Rampart Units** |
+  | **8** | **When Rampart units are against bleeding and slowed units, 4% DEF will be increased for them per effect active** |
+  | **9** | **Increases 4% attack speed for all Rampart Units** |
 
 ## Battle Formation Circle 1:
 

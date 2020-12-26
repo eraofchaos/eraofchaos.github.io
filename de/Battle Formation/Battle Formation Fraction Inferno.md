@@ -2,7 +2,7 @@
 title: "Kampfformation Inferno"
 permalink: /de/Battle Formation/Battle Formation Fraction Inferno
 excerpt: "Kampfformation Inferno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Inferno](/units/Fraction Inferno)
 
-  **Description:** Tanzet, während die ganze Welt brennt.
+  **Beschreibung:** Tanzet, während die ganze Welt brennt.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Inferno** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Inferno-Einheiten um 8 %.** |
   | **5** | **Inferno-Einheiten erhalten pro Inferno-Einheit auf dem Feld +30 auf Ausweichen.** |
   | **6** | **Erhöht den ANG aller Inferno-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Inferno-Einheiten um 10 %.** |
+  | **8** | **Wenn Inferno-Einheiten brennenden gegnerischen Einheiten gegenüberstehen, erhöht sich der Kritische Treffer um 50.** |
+  | **9** | **Erhöht das Angriffstempo aller Inferno-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

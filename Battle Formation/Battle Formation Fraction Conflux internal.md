@@ -2,7 +2,7 @@
 title: "Battle Formation Conflux"
 permalink: /Battle Formation/Battle Formation Fraction Conflux internal
 excerpt: "Battle Formation Conflux"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionConflux"
 toc: false

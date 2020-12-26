@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Dungeon"
 permalink: /it/Battle Formation/Battle Formation Fraction Dungeon internal
 excerpt: "Formazione di battaglia Dungeon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
-  **Description:** Il Signore delle Ombre domina ogni cosa.
+  **Descrizione:** Il Signore delle Ombre domina ogni cosa.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Dungeon** 
 {: .notice--danger}

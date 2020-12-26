@@ -2,7 +2,7 @@
 title: "Formación de batalla Infierno"
 permalink: /es/Battle Formation/Battle Formation Fraction Inferno internal
 excerpt: "Formación de batalla Infierno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Infierno](/units/Fraction Inferno)
 
-  **Description:** Baila alrededor de un mundo en llamas.
+  **Descripción:** Baila alrededor de un mundo en llamas.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Infierno** 
 {: .notice--danger}

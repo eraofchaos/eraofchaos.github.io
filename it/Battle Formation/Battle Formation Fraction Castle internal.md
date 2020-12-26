@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Castello"
 permalink: /it/Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Formazione di battaglia Castello"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Castello](/units/Fraction Castle)
 
-  **Description:** Per l'onore, il dovere e l'ordine.
+  **Descrizione:** Per l'onore, il dovere e l'ordine.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Castello** 
 {: .notice--danger}

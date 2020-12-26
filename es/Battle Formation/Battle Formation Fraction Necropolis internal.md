@@ -2,7 +2,7 @@
 title: "Formación de batalla Necrópolis"
 permalink: /es/Battle Formation/Battle Formation Fraction Necropolis internal
 excerpt: "Formación de batalla Necrópolis"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Necrópolis](/units/Fraction Necropolis)
 
-  **Description:** Caminamos a solas el camino que se nos presenta.
+  **Descripción:** Caminamos a solas el camino que se nos presenta.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Necrópolis** 
 {: .notice--danger}

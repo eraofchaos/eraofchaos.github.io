@@ -2,7 +2,7 @@
 title: "Kampfformation Konflux"
 permalink: /de/Battle Formation/Battle Formation Fraction Conflux internal
 excerpt: "Kampfformation Konflux"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Konflux](/units/Fraction Conflux)
 
-  **Description:** Himmel und Erde wurden gemeinsam erschaffen und sind eins.
+  **Beschreibung:** Himmel und Erde wurden gemeinsam erschaffen und sind eins.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Konflux** 
 {: .notice--danger}

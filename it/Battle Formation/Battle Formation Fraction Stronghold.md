@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Roccaforte"
 permalink: /it/Battle Formation/Battle Formation Fraction Stronghold
 excerpt: "Formazione di battaglia Roccaforte"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Roccaforte](/units/Fraction Stronghold)
 
-  **Description:** La vita è cambiamento; solo la morte è eterna.
+  **Descrizione:** La vita è cambiamento; solo la morte è eterna.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Roccaforte** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Roccaforte** |
   | **5** | **<Assorbimento> delle unità Roccaforte aumenta del 5% quando i loro PF scendono sotto il 50%** |
   | **6** | **Aumenta del 10% l'ATT delle unità Roccaforte** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Roccaforte** |
+  | **8** | **Il Colpo critico delle unità Roccaforte aumenta di 50 quando i loro PF scendono sotto il 55%** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Roccaforte** |
 
 ## Formazione di battaglia Circle 1:
 

@@ -2,7 +2,7 @@
 title: "Kampfformation Turm"
 permalink: /de/Battle Formation/Battle Formation Fraction Tower
 excerpt: "Kampfformation Turm"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionTower"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Turm](/units/Fraction Tower)
 
-  **Description:** Alle Geheimnisse werden gemeistert, alle Geheimnisse werden enthüllt.
+  **Beschreibung:** Alle Geheimnisse werden gemeistert, alle Geheimnisse werden enthüllt.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Turm** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Turm-Einheiten um 8 %.** |
   | **5** | **Turm-Einheiten erhalten pro Turm-Einheit auf dem Feld +30 auf Ausweichen.** |
   | **6** | **Erhöht den ANG aller Turm-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Turm-Einheiten um 10 %.** |
+  | **8** | **Erhöht den KRIT. SCHD aller verbündeten Turm-Einheiten 6 Sekunden lang um 12 %, wenn ein verbündeter Held einen Hilfszauber wirkt.** |
+  | **9** | **Erhöht das Angriffstempo aller Turm-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

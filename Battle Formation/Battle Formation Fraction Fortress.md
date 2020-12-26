@@ -2,7 +2,7 @@
 title: "Battle Formation Fortress"
 permalink: /Battle Formation/Battle Formation Fraction Fortress
 excerpt: "Battle Formation Fortress"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Fortress Units** |
   | **5** | **Fortress units will receive an increase of 5% unit damage when against units suffering from the disease** |
   | **6** | **Increases 10% ATK for all Fortress Units** |
+  | **7** | **Increases 10% unitMagic resistance for all Fortress Units** |
+  | **8** | **Fortress units will receive an increase of 12% CRIT DMG when against the units suffering from disease** |
+  | **9** | **Increases 4% attack speed for all Fortress Units** |
 
 ## Battle Formation Circle 1:
 

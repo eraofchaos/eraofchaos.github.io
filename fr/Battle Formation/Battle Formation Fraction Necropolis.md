@@ -2,7 +2,7 @@
 title: "Formation de combat Nécropole"
 permalink: /fr/Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Formation de combat Nécropole"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités de la Nécropole de 8 %.** |
   | **5** | **Les dégâts critiques de toutes les unités de la Nécropole alliées augmentent de 12 % pendant 6 secondes quand un Héros allié lance un sort de terre.** |
   | **6** | **Augmente l'ATQ de toutes les unités de la Nécropole de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités de la Nécropole de 10 %.** |
+  | **8** | **Les unités de la Nécropole reçoivent une augmentation de 5 % de dégâts d'unité contre les unités ennemies affectées de Démotivation** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Nécropole de 4 %.** |
 
 ## Formation de combat Circle 1:
 

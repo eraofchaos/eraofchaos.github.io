@@ -2,7 +2,7 @@
 title: "Formación de batalla Mazmorra"
 permalink: /es/Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Formación de batalla Mazmorra"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Mazmorra](/units/Fraction Dungeon)
 
-  **Description:** El Señor de las Sombras reina sobre todo.
+  **Descripción:** El Señor de las Sombras reina sobre todo.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Mazmorra** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Mazmorra** |
   | **5** | **La DEF de las unidades de Mazmorra aumenta un 6% cuando luchan contra unidades que estén sangrando** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Mazmorra** |
+  | **7** | **Aumenta la resistencia mágica de todas las unidades de Mazmorra un 10%** |
+  | **8** | **Cuando un Héroe enemigo lance un hechizo, el daño crítico de las unidades de Mazmorra aumenta un 12% durante 6 segundos** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Mazmorra** |
 
 ## Formación de batalla Circle 1:
 

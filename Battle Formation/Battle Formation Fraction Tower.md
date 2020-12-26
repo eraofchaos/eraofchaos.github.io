@@ -2,7 +2,7 @@
 title: "Battle Formation Tower"
 permalink: /Battle Formation/Battle Formation Fraction Tower
 excerpt: "Battle Formation Tower"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionTower"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Tower Units** |
   | **5** | **Tower Units receive an increases of 30 Dodge for every Tower Unit on the field** |
   | **6** | **Increases 10% ATK for all Tower Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Tower Units** |
+  | **8** | **Increases Crit DMG of all friendly Tower units by 12% for 6 seconds when a friendly hero casts a support spell.** |
+  | **9** | **Increases 4% attack speed for all Tower Units** |
 
 ## Battle Formation Circle 1:
 

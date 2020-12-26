@@ -2,7 +2,7 @@
 title: "Formación de batalla Necrópolis"
 permalink: /es/Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Formación de batalla Necrópolis"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Necrópolis](/units/Fraction Necropolis)
 
-  **Description:** Caminamos a solas el camino que se nos presenta.
+  **Descripción:** Caminamos a solas el camino que se nos presenta.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Necrópolis** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Necrópolis** |
   | **5** | **Aumenta el daño crítico un 12% para todas las unidades de Necrópolis amistosas durante 6 segundos cuando un Héroe amistoso lance un hechizo de tierra** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Necrópolis** |
+  | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades de Necrópolis** |
+  | **8** | **El daño de las unidades de Necrópolis aumentará un 5% cuando luchen contra unidades enemigas con la moral baja** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Necrópolis** |
 
 ## Formación de batalla Circle 1:
 

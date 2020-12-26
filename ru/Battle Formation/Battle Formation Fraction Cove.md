@@ -2,7 +2,7 @@
 title: "Боевое построение Cove"
 permalink: /ru/Battle Formation/Battle Formation Fraction Cove
 excerpt: "Боевое построение Cove"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionCove"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Cove](/units/Fraction Cove)
 
-  **Description:** Я - человек удачи, и свою удачу я ищу.
+  **Описание:** Я - человек удачи, и свою удачу я ищу.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Cove** 
 {: .notice--danger}
@@ -29,6 +29,9 @@ classes: wide
   | **4** | **Усиливает ЗЩТ всех отрядов Убежища на 8%** |
   | **5** | **За каждый размещенный отряд Убежища сопротивление урону отрядов Убежища растет на 3%** |
   | **6** | **null** |
+  | **7** | **Повышает сопротивление магии всех отрядов Убежища на 10%** |
+  | **8** | **За каждый размещенный отряд Убежища АТК отрядов Убежища увеличивается на 8%** |
+  | **9** | **null** |
 
 ## Боевое построение Circle 1:
 

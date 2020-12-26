@@ -2,7 +2,7 @@
 title: "Battle Formation Stronghold"
 permalink: /Battle Formation/Battle Formation Fraction Stronghold
 excerpt: "Battle Formation Stronghold"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Stronghold Units** |
   | **5** | **Stronghold units will receive an increase of 5% Life Drain when their HP is less than 50%** |
   | **6** | **Increases 10% ATK for all Stronghold Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Stronghold Units** |
+  | **8** | **Stronghold units will receive an increase of 50 Critical Hit when their HP is less than 55%** |
+  | **9** | **Increases 4% attack speed for all Stronghold Units** |
 
 ## Battle Formation Circle 1:
 

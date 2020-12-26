@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Baia"
 permalink: /it/Battle Formation/Battle Formation Fraction Cove
 excerpt: "Formazione di battaglia Baia"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionCove"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Baia](/units/Fraction Cove)
 
-  **Description:** Sono costantemente alla ricerca della mia fortuna.
+  **Descrizione:** Sono costantemente alla ricerca della mia fortuna.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Baia** 
 {: .notice--danger}
@@ -29,6 +29,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Baia** |
   | **5** | **Per ogni unità Baia schierata, la Riduzione danno delle unità Baia aumenta del 3%** |
   | **6** | **Aumenta del 10% l'ATT delle unità Baia** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Baia** |
+  | **8** | **Per ogni unità Baia schierata, l'ATT delle unità Baia aumenta dell'8%** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Baia** |
 
 ## Formazione di battaglia Circle 1:
 

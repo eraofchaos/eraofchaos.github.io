@@ -2,7 +2,7 @@
 title: "Kampfformation Inferno"
 permalink: /de/Battle Formation/Battle Formation Fraction Inferno internal
 excerpt: "Kampfformation Inferno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Inferno](/units/Fraction Inferno)
 
-  **Description:** Tanzet, während die ganze Welt brennt.
+  **Beschreibung:** Tanzet, während die ganze Welt brennt.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Inferno** 
 {: .notice--danger}

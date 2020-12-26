@@ -2,7 +2,7 @@
 title: "Kampfformation Burg"
 permalink: /de/Battle Formation/Battle Formation Fraction Stronghold
 excerpt: "Kampfformation Burg"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Burg](/units/Fraction Stronghold)
 
-  **Description:** Das Leben ist vergänglich. Nur der Tod hat Bedeutung.
+  **Beschreibung:** Das Leben ist vergänglich. Nur der Tod hat Bedeutung.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Burg** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Burg-Einheiten um 8 %.** |
   | **5** | **Der Lebensentzug von Burg-Einheiten erhöht sich um 5 %, wenn sie über weniger als 50 % LP verfügen.** |
   | **6** | **Erhöht den ANG aller Burg-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Burg-Einheiten um 10 %.** |
+  | **8** | **Der Kritische Treffer von Burg-Einheiten erhöht sich um 50, wenn sie über weniger als 55 % LP verfügen.** |
+  | **9** | **Erhöht das Angriffstempo aller Burg-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

@@ -2,7 +2,7 @@
 title: "Formation de combat Forteresse"
 permalink: /fr/Battle Formation/Battle Formation Fraction Fortress
 excerpt: "Formation de combat Forteresse"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités de la Forteresse de 8 %.** |
   | **5** | **Les dégâts des unités de la Forteresse augmentent de 5 % contre des unités victimes de Maladie.** |
   | **6** | **Augmente l'ATQ de toutes les unités de la Forteresse de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités de la Forteresse de 10 %.** |
+  | **8** | **Les dégâts critiques des unités de la Forteresse augmentent de 12 % contre des unités victimes de Maladie.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités de la Forteresse de 4 %.** |
 
 ## Formation de combat Circle 1:
 

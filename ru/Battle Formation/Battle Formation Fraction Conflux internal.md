@@ -2,7 +2,7 @@
 title: "Боевое построение Conflux"
 permalink: /ru/Battle Formation/Battle Formation Fraction Conflux internal
 excerpt: "Боевое построение Conflux"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Conflux](/units/Fraction Conflux)
 
-  **Description:** Небо и земля едины, оба мира переплетены.
+  **Описание:** Небо и земля едины, оба мира переплетены.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Conflux** 
 {: .notice--danger}

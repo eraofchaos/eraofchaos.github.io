@@ -2,7 +2,7 @@
 title: "Formación de batalla Murallas"
 permalink: /es/Battle Formation/Battle Formation Fraction Rampart internal
 excerpt: "Formación de batalla Murallas"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Murallas](/units/Fraction Rampart)
 
-  **Description:** Bailamos al son del mundo.
+  **Descripción:** Bailamos al son del mundo.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Murallas** 
 {: .notice--danger}

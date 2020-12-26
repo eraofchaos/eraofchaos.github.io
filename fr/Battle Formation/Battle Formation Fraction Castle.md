@@ -2,7 +2,7 @@
 title: "Formation de combat Château"
 permalink: /fr/Battle Formation/Battle Formation Fraction Castle
 excerpt: "Formation de combat Château"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Augmente la DÉF de toutes les unités du Château de 8 %.** |
   | **5** | **La résistance aux dégâts de toutes les unités du Château augmente de 5 % en cas d'Exaltation.** |
   | **6** | **Augmente l'ATQ de toutes les unités du Château de 10 %.** |
+  | **7** | **Augmente la résistance magique de toutes les unités du Château de 10 %.** |
+  | **8** | **Les dégâts critiques de toutes les unités du Château augmentent de 12 % en cas d'Exaltation.** |
+  | **9** | **Augmente la vitesse d'attaque de toutes les unités du Château de 4 %.** |
 
 ## Formation de combat Circle 1:
 

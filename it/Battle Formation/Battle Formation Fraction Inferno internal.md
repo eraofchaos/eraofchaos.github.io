@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Inferno"
 permalink: /it/Battle Formation/Battle Formation Fraction Inferno internal
 excerpt: "Formazione di battaglia Inferno"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionInferno"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Inferno](/units/Fraction Inferno)
 
-  **Description:** Balla mentre il mondo brucia!
+  **Descrizione:** Balla mentre il mondo brucia!
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Inferno** 
 {: .notice--danger}

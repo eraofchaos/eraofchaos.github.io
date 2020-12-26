@@ -2,7 +2,7 @@
 title: "Боевое построение Dungeon"
 permalink: /ru/Battle Formation/Battle Formation Fraction Dungeon internal
 excerpt: "Боевое построение Dungeon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Dungeon](/units/Fraction Dungeon)
 
-  **Description:** Владыка тени правит всем.
+  **Описание:** Владыка тени правит всем.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Dungeon** 
 {: .notice--danger}

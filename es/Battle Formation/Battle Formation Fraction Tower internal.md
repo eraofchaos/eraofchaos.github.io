@@ -2,7 +2,7 @@
 title: "Formación de batalla Torre"
 permalink: /es/Battle Formation/Battle Formation Fraction Tower internal
 excerpt: "Formación de batalla Torre"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionTower"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Torre](/units/Fraction Tower)
 
-  **Description:** Dominaremos los secretos; conoceremos los secretos.
+  **Descripción:** Dominaremos los secretos; conoceremos los secretos.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Torre** 
 {: .notice--danger}

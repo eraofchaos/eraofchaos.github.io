@@ -2,7 +2,7 @@
 title: "Formación de batalla Murallas"
 permalink: /es/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Formación de batalla Murallas"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Murallas](/units/Fraction Rampart)
 
-  **Description:** Bailamos al son del mundo.
+  **Descripción:** Bailamos al son del mundo.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Murallas** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Murallas** |
   | **5** | **Cuando las unidades de Murallas luchan contra unidades que estén sangrando y ralentizadas, sus golpes críticos aumentarán 25 por efecto** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Murallas** |
+  | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades de Murallas** |
+  | **8** | **Cuando las unidades de Murallas luchan contra unidades que estén sangrando y ralentizadas, su DEF aumentará un 4% por efecto activo** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Murallas** |
 
 ## Formación de batalla Circle 1:
 

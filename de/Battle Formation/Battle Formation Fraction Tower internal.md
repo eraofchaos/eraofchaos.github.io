@@ -2,7 +2,7 @@
 title: "Kampfformation Turm"
 permalink: /de/Battle Formation/Battle Formation Fraction Tower internal
 excerpt: "Kampfformation Turm"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionTower"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Turm](/units/Fraction Tower)
 
-  **Description:** Alle Geheimnisse werden gemeistert, alle Geheimnisse werden enthüllt.
+  **Beschreibung:** Alle Geheimnisse werden gemeistert, alle Geheimnisse werden enthüllt.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Turm** 
 {: .notice--danger}

@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Roccaforte"
 permalink: /it/Battle Formation/Battle Formation Fraction Stronghold internal
 excerpt: "Formazione di battaglia Roccaforte"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Roccaforte](/units/Fraction Stronghold)
 
-  **Description:** La vita è cambiamento; solo la morte è eterna.
+  **Descrizione:** La vita è cambiamento; solo la morte è eterna.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Roccaforte** 
 {: .notice--danger}

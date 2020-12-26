@@ -2,7 +2,7 @@
 title: "Kampfformation Schloss"
 permalink: /de/Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Kampfformation Schloss"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionCastle"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Schloss](/units/Fraction Castle)
 
-  **Description:** Für Ehre, Ordnung und Pflicht.
+  **Beschreibung:** Für Ehre, Ordnung und Pflicht.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Schloss** 
 {: .notice--danger}

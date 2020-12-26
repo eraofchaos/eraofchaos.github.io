@@ -2,7 +2,7 @@
 title: "Formación de batalla Conflujo"
 permalink: /es/Battle Formation/Battle Formation Fraction Conflux internal
 excerpt: "Formación de batalla Conflujo"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionConflux"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Conflujo](/units/Fraction Conflux)
 
-  **Description:** El cielo y la tierra nacen como uno, ambos mundos están entrelazados.
+  **Descripción:** El cielo y la tierra nacen como uno, ambos mundos están entrelazados.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Conflujo** 
 {: .notice--danger}

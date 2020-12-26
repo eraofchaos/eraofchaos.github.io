@@ -2,7 +2,7 @@
 title: "Боевое построение Necropolis"
 permalink: /ru/Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Боевое построение Necropolis"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Necropolis](/units/Fraction Necropolis)
 
-  **Description:** Мы - одинокие путники, и дорога ведет нас вперед.
+  **Описание:** Мы - одинокие путники, и дорога ведет нас вперед.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Necropolis** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Усиливает ЗЩТ всех отрядов Некрополя на 8%** |
   | **5** | **Когда союзный герой творит заклинание Земли, увеличивает на 12% КРИТ. УРН для всех союзных отрядов Некрополя на 6 сек.** |
   | **6** | **null** |
+  | **7** | **Повышает сопротивление магии всех отрядов Некрополя на 10%** |
+  | **8** | **Отряды Некрополя, сражаясь с вражескими отрядами с низким боевым духом, получают +5% к урону отряда** |
+  | **9** | **Ускоряет атаку всех отрядов Некрополя на 4%** |
 
 ## Боевое построение Circle 1:
 

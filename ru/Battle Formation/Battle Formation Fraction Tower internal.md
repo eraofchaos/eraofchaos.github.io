@@ -2,7 +2,7 @@
 title: "Боевое построение Tower"
 permalink: /ru/Battle Formation/Battle Formation Fraction Tower internal
 excerpt: "Боевое построение Tower"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionTower"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Tower](/units/Fraction Tower)
 
-  **Description:** Все тайное станет явным, и секретов больше нет.
+  **Описание:** Все тайное станет явным, и секретов больше нет.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Tower** 
 {: .notice--danger}

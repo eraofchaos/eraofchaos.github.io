@@ -2,7 +2,7 @@
 title: "Formation de combat Château"
 permalink: /fr/Battle Formation/Battle Formation Fraction Castle internal
 excerpt: "Formation de combat Château"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionCastle"
 toc: false

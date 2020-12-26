@@ -2,7 +2,7 @@
 title: "Formación de batalla Torre"
 permalink: /es/Battle Formation/Battle Formation Fraction Tower
 excerpt: "Formación de batalla Torre"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionTower"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Torre](/units/Fraction Tower)
 
-  **Description:** Dominaremos los secretos; conoceremos los secretos.
+  **Descripción:** Dominaremos los secretos; conoceremos los secretos.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Torre** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Torre** |
   | **5** | **La esquiva de las unidades de Torre aumenta en 30 puntos por cada unidad de Torre que haya en el campo** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Torre** |
+  | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades de Torre** |
+  | **8** | **Aumenta el daño crítico en un 12% para todas las unidades de Torre amistosas durante 6 segundos cuando un Héroe amistoso lanza un hechizo de apoyo.** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Torre** |
 
 ## Formación de batalla Circle 1:
 

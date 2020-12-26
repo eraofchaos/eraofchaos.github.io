@@ -2,7 +2,7 @@
 title: "Formation de combat Donjon"
 permalink: /fr/Battle Formation/Battle Formation Fraction Dungeon internal
 excerpt: "Formation de combat Donjon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: fr
 ref: "BattleFormationFractionDungeon"
 toc: false

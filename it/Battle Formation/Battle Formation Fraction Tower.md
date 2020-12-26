@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Torre"
 permalink: /it/Battle Formation/Battle Formation Fraction Tower
 excerpt: "Formazione di battaglia Torre"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionTower"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Torre](/units/Fraction Tower)
 
-  **Description:** Ogni segreto può essere svelato. Ogni segreto può essere appreso.
+  **Descrizione:** Ogni segreto può essere svelato. Ogni segreto può essere appreso.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Torre** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Torre** |
   | **5** | **Per ogni unità Torre sul campo, la Schivata delle unità Torre aumenta di 30** |
   | **6** | **Aumenta del 10% l'ATT delle unità Torre** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Torre** |
+  | **8** | **Quando un eroe alleato lancia un incantesimo di supporto, il DAN CRIT di tutte le unità Torre alleate aumenta del 12% per 6 secondi.** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Torre** |
 
 ## Formazione di battaglia Circle 1:
 

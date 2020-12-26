@@ -2,7 +2,7 @@
 title: "Kampfformation Nekropolis"
 permalink: /de/Battle Formation/Battle Formation Fraction Necropolis internal
 excerpt: "Kampfformation Nekropolis"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Nekropolis](/units/Fraction Necropolis)
 
-  **Description:** Wir gehen alleine auf unserem Weg.
+  **Beschreibung:** Wir gehen alleine auf unserem Weg.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Nekropolis** 
 {: .notice--danger}

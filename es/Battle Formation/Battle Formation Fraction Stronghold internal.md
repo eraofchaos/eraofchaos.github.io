@@ -2,7 +2,7 @@
 title: "Formación de batalla Bastión"
 permalink: /es/Battle Formation/Battle Formation Fraction Stronghold internal
 excerpt: "Formación de batalla Bastión"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionStronghold"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Bastión](/units/Fraction Stronghold)
 
-  **Description:** La vida es cambio; solo la muerte tiene significado.
+  **Descripción:** La vida es cambio; solo la muerte tiene significado.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Bastión** 
 {: .notice--danger}

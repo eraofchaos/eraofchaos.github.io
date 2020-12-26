@@ -2,7 +2,7 @@
 title: "Battle Formation Dungeon"
 permalink: /Battle Formation/Battle Formation Fraction Dungeon
 excerpt: "Battle Formation Dungeon"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionDungeon"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Dungeon Units** |
   | **5** | **Dungeon units receive an increase of 6% DEF when against the bleeding units** |
   | **6** | **Increases 10% ATK for all Dungeon Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Dungeon Units** |
+  | **8** | **Whenever a hostile hero casts a spell, Dungeon Units' CRIT DMG is increased by 12% for 6 seconds** |
+  | **9** | **Increases 4% attack speed for all Dungeon Units** |
 
 ## Battle Formation Circle 1:
 

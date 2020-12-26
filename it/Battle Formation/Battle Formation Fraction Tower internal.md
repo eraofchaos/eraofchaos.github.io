@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Torre"
 permalink: /it/Battle Formation/Battle Formation Fraction Tower internal
 excerpt: "Formazione di battaglia Torre"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionTower"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Torre](/units/Fraction Tower)
 
-  **Description:** Ogni segreto può essere svelato. Ogni segreto può essere appreso.
+  **Descrizione:** Ogni segreto può essere svelato. Ogni segreto può essere appreso.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Torre** 
 {: .notice--danger}

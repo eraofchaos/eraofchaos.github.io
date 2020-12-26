@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Necropoli"
 permalink: /it/Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Formazione di battaglia Necropoli"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: it
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Necropoli](/units/Fraction Necropolis)
 
-  **Description:** Percorriamo solitari il sentiero della nostra vita.
+  **Descrizione:** Percorriamo solitari il sentiero della nostra vita.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Necropoli** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta dell'8% la DIF delle unità Necropoli** |
   | **5** | **Quando un eroe alleato lancia un incantesimo di Terra, il DAN CRIT delle unità Necropoli aumenta del 12% per 6 secondi** |
   | **6** | **Aumenta del 10% l'ATT delle unità Necropoli** |
+  | **7** | **Aumenta del 10% la Resistenza magica delle unità Necropoli** |
+  | **8** | **Contro unità dal <Morale basso>, il Danno delle unità Necropoli aumenta del 5%** |
+  | **9** | **Aumenta del 4% la VEL ATT delle unità Necropoli** |
 
 ## Formazione di battaglia Circle 1:
 

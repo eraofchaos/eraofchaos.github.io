@@ -2,7 +2,7 @@
 title: "Kampfformation Bucht"
 permalink: /de/Battle Formation/Battle Formation Fraction Cove internal
 excerpt: "Kampfformation Bucht"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionCove"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
   **Fraction:** [Bucht](/units/Fraction Cove)
 
-  **Description:** Ich bin ein Glücksritter und muss mein Glück suchen.
+  **Beschreibung:** Ich bin ein Glücksritter und muss mein Glück suchen.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Bucht** 
 {: .notice--danger}

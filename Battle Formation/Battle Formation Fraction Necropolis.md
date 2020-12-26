@@ -2,7 +2,7 @@
 title: "Battle Formation Necropolis"
 permalink: /Battle Formation/Battle Formation Fraction Necropolis
 excerpt: "Battle Formation Necropolis"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: en
 ref: "BattleFormationFractionNecropolis"
 toc: false
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Increases 8% DEF for all Necropolis Units** |
   | **5** | **Increases 12% CRIT DMG for all friendly Necropolis Units for 6 seconds when a friendly hero casts an earth spell** |
   | **6** | **Increases 10% ATK for all Necropolis Units** |
+  | **7** | **Increases 10% unit Magic resistance for all Necropolis Units** |
+  | **8** | **Necropolis units will receive an increase of 5% unit damage when against enemy units in Low Morale** |
+  | **9** | **Increases 4% attack speed for all Necropolis Units** |
 
 ## Battle Formation Circle 1:
 

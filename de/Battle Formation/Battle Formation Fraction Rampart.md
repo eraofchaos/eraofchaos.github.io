@@ -2,7 +2,7 @@
 title: "Kampfformation Schutzwall"
 permalink: /de/Battle Formation/Battle Formation Fraction Rampart
 excerpt: "Kampfformation Schutzwall"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionRampart"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Schutzwall](/units/Fraction Rampart)
 
-  **Description:** Wir tanzen zum Takt der Welt.
+  **Beschreibung:** Wir tanzen zum Takt der Welt.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Schutzwall** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Schutzwall-Einheiten um 8 %.** |
   | **5** | **Wenn Schutzwall-Einheiten blutenden oder verlangsamten Einheiten gegenüberstehen, erhöht sich ihr Kritischer Treffer pro aktivem Effekt um 25.** |
   | **6** | **Erhöht den ANG aller Schutzwall-Einheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Schutzwall-Einheiten um 10 %.** |
+  | **8** | **Wenn Schutzwall-Einheiten blutenden oder verlangsamten Einheiten gegenüberstehen, erhöht sich ihre ABW pro aktivem Effekt um 4 %.** |
+  | **9** | **Erhöht das Angriffstempo aller Schutzwall-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

@@ -2,7 +2,7 @@
 title: "Formación de batalla Fortaleza"
 permalink: /es/Battle Formation/Battle Formation Fraction Fortress
 excerpt: "Formación de batalla Fortaleza"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: es
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Fortaleza](/units/Fraction Fortress)
 
-  **Description:** Unidad y solidaridad, las personas nacen libres.
+  **Descripción:** Unidad y solidaridad, las personas nacen libres.
 
 **Info** You can find this feature under **Arsenal** -> **Formación de batalla** -> **Fortaleza** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Fortaleza** |
   | **5** | **El daño de las unidades de Fortaleza aumenta un 5% cuando luchan contra unidades que sufren enfermedad** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Fortaleza** |
+  | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades de Fortaleza** |
+  | **8** | **El daño crítico de las unidades de Fortaleza aumenta un 12% cuando luchan contra unidades que sufren enfermedad** |
+  | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Fortaleza** |
 
 ## Formación de batalla Circle 1:
 

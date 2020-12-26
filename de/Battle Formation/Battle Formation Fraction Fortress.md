@@ -2,7 +2,7 @@
 title: "Kampfformation Festung"
 permalink: /de/Battle Formation/Battle Formation Fraction Fortress
 excerpt: "Kampfformation Festung"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: de
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Festung](/units/Fraction Fortress)
 
-  **Description:** Einigkeit und Solidarität für alle, die in Freiheit geboren sind.
+  **Beschreibung:** Einigkeit und Solidarität für alle, die in Freiheit geboren sind.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Festung** 
 {: .notice--danger}
@@ -26,6 +26,9 @@ classes: wide
   | **4** | **Erhöht die ABW aller Festungseinheiten um 8 %.** |
   | **5** | **Wenn Festungseinheiten kranken Einheiten gegenüberstehen, erhöht sich ihr Einheitenschaden um 5 %.** |
   | **6** | **Erhöht den ANG aller Festungseinheiten um 10 %.** |
+  | **7** | **Erhöht die Einheitenmagieresistenz aller Festungseinheiten um 10 %.** |
+  | **8** | **Wenn Festungseinheiten kranken Einheiten gegenüberstehen, erhöht sich ihr KRIT. SCHD um 12 %.** |
+  | **9** | **Erhöht das Angriffstempo aller Festungseinheiten um 4 %.** |
 
 ## Kampfformation Circle 1:
 

@@ -2,7 +2,7 @@
 title: "Боевое построение Крепость"
 permalink: /ru/Battle Formation/Battle Formation Fraction Fortress internal
 excerpt: "Боевое построение Крепость"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-26
 lang: ru
 ref: "BattleFormationFractionFortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   **Fraction:** [Крепость](/units/Fraction Fortress)
 
-  **Description:** Единство и сплоченность, люди рождены свободными.
+  **Описание:** Единство и сплоченность, люди рождены свободными.
 
 **Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Крепость** 
 {: .notice--danger}
