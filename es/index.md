@@ -8,6 +8,15 @@ sidebar:
   nav: "docs_es"
 ---
 
+{% capture notice-update20201224 %}
+![image-center](/assets/images/xmass2021.jpg){: .align-center}
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">24 Dec 2020 Update:</h4>
+  {{ notice-update20201224 | markdownify }}
+</div>
+
 This information portal contains information about "Era Of Chaos" mobile game.
 
 

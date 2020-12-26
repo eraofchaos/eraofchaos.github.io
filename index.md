@@ -48,6 +48,18 @@ Currently in the development:
 
 
 ## History
+{% capture notice-update20201222 %}
+Updated Units with Holy Emblems and Relevance.
+Updated all Items, Heores, Units, etc for actual game state.
+
+Actual development: Adapt translation, General Game info (like level, exp, equipment), Rosters
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">22 Dec 2020 Update:</h4>
+  {{ notice-update20201222 | markdownify }}
+</div>
+
 {% capture notice-update20201214 %}
 By community request, we did [Holy Emblem](/Emblem/) in your language:
 * <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
