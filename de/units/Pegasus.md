@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Waldwächter
@@ -92,6 +92,10 @@ toc: true
 * Bogenschütze (Fernkampf-Kader)
 
 ### Heldenbonus
+* [Gelu](/de/heroes/Gelu/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

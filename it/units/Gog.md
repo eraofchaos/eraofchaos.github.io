@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Superbia](/it/Emblem/Arrogance/) - Caos
-* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Skills
 ### Tecnica suprema: Muro di fuoco
@@ -93,6 +93,8 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Xeron](/it/heroes/Xeron/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

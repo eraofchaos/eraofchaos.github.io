@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
-* [Envidia](/es/Emblem/Jealousy/) - Caos
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Bestia compañera
@@ -93,6 +93,12 @@ toc: true
 * Carga (Lista de unidades de carga)
 
 ### Bonificación de Héroe
+* [Mullich](/es/heroes/Mullich/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

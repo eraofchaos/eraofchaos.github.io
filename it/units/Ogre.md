@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
-* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
-* [Lussuria](/it/Emblem/Lust/) - Caos
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Pozza di sangue
@@ -92,6 +92,12 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -58,9 +58,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
-* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Muro di ghiaccio
@@ -88,6 +88,10 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Dracon](/it/heroes/Dracon/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

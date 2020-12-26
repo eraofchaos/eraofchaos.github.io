@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Jealousy](/Emblem/Jealousy/) - Chaos
-* [Arrogance](/Emblem/Arrogance/) - Chaos
-* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
+* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Marsh Plague
@@ -92,6 +92,12 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/heroes/Tazar/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/heroes/Korbac/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
-* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
-* [Enfado](/es/Emblem/Anger/) - Caos
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: null
@@ -91,6 +91,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

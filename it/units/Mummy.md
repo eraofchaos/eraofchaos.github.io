@@ -59,9 +59,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Lussuria](/it/Emblem/Lust/) - Caos
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Decomposizione
@@ -89,6 +89,12 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

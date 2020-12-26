@@ -62,9 +62,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Огненный источник
@@ -90,6 +90,10 @@ toc: true
 * Атакующий отряд (Дозор атакующих отрядов)
 
 ### Бонус героя
+* [null](/ru/heroes/Kendal/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Xeron/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

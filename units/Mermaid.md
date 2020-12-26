@@ -57,9 +57,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
-* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
-* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
+* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: D Chord
@@ -87,6 +87,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/heroes/Cassanbel/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

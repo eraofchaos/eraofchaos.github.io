@@ -62,9 +62,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Signe inquiétant](/fr/Emblem/Ominous Sign/) - Mauvais
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Signe inquiétant](/fr/Emblem/Ominous Sign/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: null
@@ -92,6 +92,10 @@ toc: true
 * Assaut (Groupement - Assaut)
 
 ### Bonus de héros
+* [Mullich](/fr/heroes/Mullich/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

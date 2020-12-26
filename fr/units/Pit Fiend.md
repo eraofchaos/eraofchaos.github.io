@@ -62,9 +62,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Cercle de feu
@@ -92,6 +92,10 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

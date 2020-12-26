@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
-* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
-* [Habgier](/de/Emblem/Greed/) - Chaos
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: null
@@ -92,6 +92,12 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Catherine](/de/heroes/Catherine/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

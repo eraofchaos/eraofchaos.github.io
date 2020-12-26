@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Assorbimento
@@ -92,6 +92,12 @@ toc: true
 * Incursione (Roster unità di incursione)
 
 ### Bonus eroe
+* [Mullich](/it/heroes/Mullich/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Gear of Time](/Emblem/Gear of Time/) - Goodness
-* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
-* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+* [Gear of Time](/Emblem/Gear of Time/) (Goodness)
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
+* [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 
 ## Skills
 ### Ultimate Skill: null
@@ -91,6 +91,10 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/heroes/Cassanbel/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

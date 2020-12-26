@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) - Neutral
-* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Magische Eisenkugel
@@ -93,6 +93,10 @@ toc: true
 * Bogenschütze (Fernkampf-Kader)
 
 ### Heldenbonus
+* [Gelu](/de/heroes/Gelu/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/de/heroes/Astral/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

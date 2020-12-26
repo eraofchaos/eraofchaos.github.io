@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Tecnica suprema:  Glacial Spur
@@ -93,6 +93,10 @@ toc: true
 * A distanza (Roster unità a distanza)
 
 ### Bonus eroe
+* [Gelu](/it/heroes/Gelu/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

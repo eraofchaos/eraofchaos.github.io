@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Enfado](/es/Emblem/Anger/) - Caos
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Penetración de hechizo
@@ -92,6 +92,10 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Dracon](/es/heroes/Dracon/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

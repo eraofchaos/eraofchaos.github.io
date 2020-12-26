@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema:  Soul Burst
@@ -90,6 +90,12 @@ toc: true
 * Incursione (Roster unità di incursione)
 
 ### Bonus eroe
+* [Mullich](/it/heroes/Mullich/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

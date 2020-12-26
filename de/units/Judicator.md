@@ -60,9 +60,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Zorn](/de/Emblem/Anger/) - Chaos
-* [Habgier](/de/Emblem/Greed/) - Chaos
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Strahl des Gerichts
@@ -93,6 +93,10 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Dracon](/de/heroes/Dracon/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

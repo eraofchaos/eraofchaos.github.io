@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Green Prophet](/Emblem/Green Prophet/) - Goodness
-* [Anger](/Emblem/Anger/) - Chaos
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Green Prophet](/Emblem/Green Prophet/) (Goodness)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Horrific Shrieking
@@ -92,6 +92,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Sandro](/heroes/Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

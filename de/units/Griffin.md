@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Zeuge](/de/Emblem/Witness/) - Gut
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zeuge](/de/Emblem/Witness/) (Gut)
 
 ## Skills
 ### Ultimative Fähigkeit: Sturzangriff-Konter
@@ -92,6 +92,10 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

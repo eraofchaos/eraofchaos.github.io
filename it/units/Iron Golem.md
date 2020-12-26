@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
-* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
-* [Lussuria](/it/Emblem/Lust/) - Caos
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Riverbero metallico
@@ -92,6 +92,10 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

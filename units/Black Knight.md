@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Witness](/Emblem/Witness/) - Goodness
-* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Witness](/Emblem/Witness/) (Goodness)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Critical Strike
@@ -91,6 +91,14 @@ toc: true
 * Charging (Charging Roster)
 
 ### Hero Bonus
+* [Lord Haart](/heroes/Lord Haart/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/heroes/Mullich/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Envidia](/es/Emblem/Jealousy/) - Caos
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
-* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Plaga de la ciénaga
@@ -92,6 +92,12 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Dracon](/es/heroes/Dracon/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/es/heroes/Korbac/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

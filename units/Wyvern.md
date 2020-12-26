@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Anger](/Emblem/Anger/) - Chaos
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Venomous Spurt
@@ -91,6 +91,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/heroes/Tazar/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

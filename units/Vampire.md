@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Life Drain
@@ -92,6 +92,12 @@ toc: true
 * Charging (Charging Roster)
 
 ### Hero Bonus
+* [Mullich](/heroes/Mullich/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

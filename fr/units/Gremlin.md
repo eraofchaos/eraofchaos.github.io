@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
-* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Boule de fer magique
@@ -93,6 +93,10 @@ toc: true
 * À distance (Groupement - À distance)
 
 ### Bonus de héros
+* [Gelu](/fr/heroes/Gelu/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

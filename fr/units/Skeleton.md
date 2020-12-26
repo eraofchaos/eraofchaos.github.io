@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
-* [Avarice](/fr/Emblem/Greed/) - Chaos
-* [Luxure](/fr/Emblem/Lust/) - Chaos
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Bouclier d'os
@@ -93,6 +93,14 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/fr/heroes/Vidomina/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

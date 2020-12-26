@@ -59,9 +59,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Зеленый пророк](/ru/Emblem/Green Prophet/) - Добро
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Дар заклинания
@@ -89,6 +89,10 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [Дракон](/ru/heroes/Dracon/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Astral/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

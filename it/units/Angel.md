@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Profeta verde](/it/Emblem/Green Prophet/) - Bontà
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Profeta verde](/it/Emblem/Green Prophet/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Condanna
@@ -91,6 +91,10 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

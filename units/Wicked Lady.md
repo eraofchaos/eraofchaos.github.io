@@ -60,9 +60,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Anger](/Emblem/Anger/) - Chaos
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill:  Soul Burst
@@ -90,6 +90,12 @@ toc: true
 * Charging (Charging Roster)
 
 ### Hero Bonus
+* [Mullich](/heroes/Mullich/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

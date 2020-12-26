@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Zauberdurchdringung
@@ -92,6 +92,10 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Dracon](/de/heroes/Dracon/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/de/heroes/Astral/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

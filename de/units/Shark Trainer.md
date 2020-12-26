@@ -60,9 +60,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
-* [Neid](/de/Emblem/Jealousy/) - Chaos
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
 
 ## Skills
 ### Ultimative Fähigkeit: Blutrünstiger Hai
@@ -90,6 +90,10 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

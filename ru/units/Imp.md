@@ -63,9 +63,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) - Добро
-* [Гнев](/ru/Emblem/Anger/) - Хаос
-* [Похоть](/ru/Emblem/Lust/) - Хаос
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Импульс
@@ -93,6 +93,10 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Xeron/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

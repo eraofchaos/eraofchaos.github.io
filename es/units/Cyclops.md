@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) - Neutral
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
-* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Piedra de la llama
@@ -92,6 +92,12 @@ toc: true
 * Arquero (Lista de unidades a distancia)
 
 ### Bonificación de Héroe
+* [Gelu](/es/heroes/Gelu/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/es/heroes/Yog/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

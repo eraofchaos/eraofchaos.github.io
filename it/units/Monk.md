@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Ira](/it/Emblem/Anger/) - Caos
-* [Avarizia](/it/Emblem/Greed/) - Caos
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Preghiera
@@ -93,6 +93,10 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Roland](/it/heroes/Roland/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

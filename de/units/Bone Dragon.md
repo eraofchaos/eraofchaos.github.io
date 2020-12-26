@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
-* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Angst
@@ -91,6 +91,12 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Vidomina](/de/heroes/Vidomina/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/de/heroes/Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mensch Sandro](/de/heroes/Human Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

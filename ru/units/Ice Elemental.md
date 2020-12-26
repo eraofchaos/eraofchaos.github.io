@@ -58,9 +58,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Стена льда
@@ -88,6 +88,10 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [Дракон](/ru/heroes/Dracon/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Ciele/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

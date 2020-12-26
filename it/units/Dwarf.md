@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Angelo custode](/it/Emblem/Guardian Angel/) - Bontà
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Urlo dello Gnomo
@@ -92,6 +92,10 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

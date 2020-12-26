@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/es/Emblem/Guardian Angel/) - Bien
-* [Enfado](/es/Emblem/Anger/) - Caos
-* [Lujuria](/es/Emblem/Lust/) - Caos
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Impulso
@@ -93,6 +93,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

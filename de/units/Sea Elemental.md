@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
-* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
-* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Zeitspirale
@@ -91,6 +91,10 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Dracon](/de/heroes/Dracon/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

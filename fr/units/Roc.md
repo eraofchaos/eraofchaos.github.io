@@ -62,9 +62,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Tonnerre
@@ -92,6 +92,12 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Shiva](/fr/heroes/Shiva/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

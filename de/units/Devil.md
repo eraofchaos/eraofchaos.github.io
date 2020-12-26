@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
-* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Schmerzhafter Schnitter
@@ -91,6 +91,10 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -57,9 +57,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Zeuge](/de/Emblem/Witness/) - Gut
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zeuge](/de/Emblem/Witness/) (Gut)
 
 ## Skills
 ### Ultimative Fähigkeit: null
@@ -87,6 +87,10 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kassandra](/de/heroes/Kassandra/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

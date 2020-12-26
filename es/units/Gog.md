@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
-* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Muro de fuego
@@ -93,6 +93,8 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Xeron](/es/heroes/Xeron/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

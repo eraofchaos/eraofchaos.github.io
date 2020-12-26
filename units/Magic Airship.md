@@ -57,9 +57,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Anger](/Emblem/Anger/) - Chaos
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Energy Support
@@ -87,6 +87,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

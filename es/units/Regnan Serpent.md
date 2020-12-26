@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
-* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
-* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
 
 ## Skills
 ### Habilidad definitiva: null
@@ -91,6 +91,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

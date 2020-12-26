@@ -60,9 +60,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Colère](/fr/Emblem/Anger/) - Chaos
-* [Avarice](/fr/Emblem/Greed/) - Chaos
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Capacité ultime: The wrath of Toad Mountain
@@ -93,6 +93,10 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

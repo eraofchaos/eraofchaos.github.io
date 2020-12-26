@@ -63,8 +63,8 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
 
 ## Skills
 ### Capacité ultime: Flèche explosive
@@ -92,6 +92,10 @@ toc: true
 * À distance (Groupement - À distance)
 
 ### Bonus de héros
+* [Roland](/fr/heroes/Roland/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

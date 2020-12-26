@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
-* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
-* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
 
 ## Skills
 ### Capacité ultime: null
@@ -91,6 +91,10 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Prophète vert](/fr/Emblem/Green Prophet/) - Bonté
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Prophète vert](/fr/Emblem/Green Prophet/) (Bonté)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Danse tranchante
@@ -91,6 +91,10 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/fr/heroes/Astral/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

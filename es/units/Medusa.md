@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
-* [Envidia](/es/Emblem/Jealousy/) - Caos
-* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Mirada petrificadora
@@ -88,6 +88,14 @@ toc: true
 * Arquero (Lista de unidades a distancia)
 
 ### Bonificación de Héroe
+* [Gelu](/es/heroes/Gelu/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sephinroth](/es/heroes/Sephinroth/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

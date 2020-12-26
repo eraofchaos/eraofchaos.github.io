@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) - Neutral
-* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
-* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Speerformation
@@ -90,6 +90,12 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/de/heroes/Mutare/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

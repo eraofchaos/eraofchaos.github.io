@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Skills
 ### Совершенное умение:  Glacial Spur
@@ -93,6 +93,10 @@ toc: true
 * Стрелок (Дозор стрелковых отрядов)
 
 ### Бонус героя
+* [Джелу](/ru/heroes/Gelu/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Ciele/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

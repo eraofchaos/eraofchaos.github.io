@@ -57,9 +57,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Testigo](/es/Emblem/Witness/) - Bien
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Testigo](/es/Emblem/Witness/) (Bien)
 
 ## Skills
 ### Habilidad definitiva: null
@@ -87,6 +87,10 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Kassandra](/es/heroes/Kassandra/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

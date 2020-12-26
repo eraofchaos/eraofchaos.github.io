@@ -57,9 +57,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
-* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
-* [Wollust](/de/Emblem/Lust/) - Chaos
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Schmetterfelsen
@@ -87,6 +87,12 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Erdamon](/de/heroes/Erdamon/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Forma de piedra
@@ -92,6 +92,10 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

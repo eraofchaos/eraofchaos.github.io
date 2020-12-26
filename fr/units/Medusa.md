@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
-* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Regard pétrifiant
@@ -88,6 +88,14 @@ toc: true
 * À distance (Groupement - À distance)
 
 ### Bonus de héros
+* [Gelu](/fr/heroes/Gelu/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sephinroth](/fr/heroes/Sephinroth/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

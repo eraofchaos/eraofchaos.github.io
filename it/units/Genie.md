@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Profeta verde](/it/Emblem/Green Prophet/) - Bontà
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Profeta verde](/it/Emblem/Green Prophet/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Dono magico
@@ -91,6 +91,10 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Dracon](/it/heroes/Dracon/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

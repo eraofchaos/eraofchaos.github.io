@@ -59,9 +59,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Luxure](/fr/Emblem/Lust/) - Chaos
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Malédiction putride
@@ -89,6 +89,12 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

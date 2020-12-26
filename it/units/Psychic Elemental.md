@@ -57,9 +57,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Profeta verde](/it/Emblem/Green Prophet/) - Bontà
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Profeta verde](/it/Emblem/Green Prophet/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Scoppio di energia
@@ -87,6 +87,12 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Monere](/it/heroes/Monere/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

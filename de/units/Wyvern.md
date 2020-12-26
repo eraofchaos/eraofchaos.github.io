@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Giftspucke
@@ -91,6 +91,10 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
-* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Griffe tranchante de la Harpie
@@ -89,6 +89,12 @@ toc: true
 * Assaut (Groupement - Assaut)
 
 ### Bonus de héros
+* [Mullich](/fr/heroes/Mullich/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

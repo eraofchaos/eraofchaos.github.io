@@ -60,9 +60,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Aiguillon de pestilence
@@ -90,6 +90,10 @@ toc: true
 * À distance (Groupement - À distance)
 
 ### Bonus de héros
+* [Gelu](/fr/heroes/Gelu/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

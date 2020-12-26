@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) - Maligno
-* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
-* [Envidia](/es/Emblem/Jealousy/) - Caos
+* [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) (Maligno)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Saqueo de la marea
@@ -90,6 +90,12 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [PeterLee](/es/heroes/Peter Lee/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

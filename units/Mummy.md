@@ -59,9 +59,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Lust](/Emblem/Lust/) - Chaos
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Lust](/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Decaying Curse
@@ -89,6 +89,12 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

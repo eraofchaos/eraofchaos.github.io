@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Steingestalt
@@ -92,6 +92,10 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/de/heroes/Astral/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

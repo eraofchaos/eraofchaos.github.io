@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) - Neutrale
-* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Pungiglione pestilenziale
@@ -90,6 +90,10 @@ toc: true
 * A distanza (Roster unità a distanza)
 
 ### Bonus eroe
+* [Gelu](/it/heroes/Gelu/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

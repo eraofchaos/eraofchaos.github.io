@@ -60,9 +60,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Grüner Prophet](/de/Emblem/Green Prophet/) (Gut)
 
 ## Skills
 ### Ultimative Fähigkeit: sonic cutting
@@ -93,6 +93,10 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

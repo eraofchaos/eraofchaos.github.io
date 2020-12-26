@@ -61,9 +61,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение: null
@@ -88,6 +88,12 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [Дракон](/ru/heroes/Dracon/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Dragon Mutare/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

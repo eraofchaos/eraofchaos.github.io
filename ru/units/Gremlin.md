@@ -63,9 +63,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) - Нейтральный
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Магический железный шар
@@ -93,6 +93,10 @@ toc: true
 * Стрелок (Дозор стрелковых отрядов)
 
 ### Бонус героя
+* [Джелу](/ru/heroes/Gelu/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Astral/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

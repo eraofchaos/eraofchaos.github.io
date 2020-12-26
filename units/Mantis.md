@@ -60,9 +60,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Green Prophet](/Emblem/Green Prophet/) - Goodness
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Green Prophet](/Emblem/Green Prophet/) (Goodness)
 
 ## Skills
 ### Ultimate Skill: sonic cutting
@@ -93,6 +93,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/heroes/Gem/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

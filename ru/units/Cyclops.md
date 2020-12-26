@@ -62,9 +62,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) - Нейтральный
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
-* [Королевская беда](/ru/Emblem/King's Calamity/) - Злой
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Skills
 ### Совершенное умение: Огненный камень
@@ -92,6 +92,12 @@ toc: true
 * Стрелок (Дозор стрелковых отрядов)
 
 ### Бонус героя
+* [Джелу](/ru/heroes/Gelu/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Yog/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Kilgor/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

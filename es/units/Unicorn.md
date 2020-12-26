@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Señal ominosa](/es/Emblem/Ominous Sign/) - Maligno
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Señal ominosa](/es/Emblem/Ominous Sign/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: null
@@ -92,6 +92,10 @@ toc: true
 * Carga (Lista de unidades de carga)
 
 ### Bonificación de Héroe
+* [Mullich](/es/heroes/Mullich/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

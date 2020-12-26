@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Habgier](/de/Emblem/Greed/) - Chaos
-* [Wollust](/de/Emblem/Lust/) - Chaos
-* [Ominöses Zeichen](/de/Emblem/Ominous Sign/) - Böse
+* [Habgier](/de/Emblem/Greed/) (Chaos)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
+* [Ominöses Zeichen](/de/Emblem/Ominous Sign/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Versengender Schlag
@@ -92,6 +92,10 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
-* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Tiergefährte
@@ -93,6 +93,12 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/de/heroes/Crag Hack/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

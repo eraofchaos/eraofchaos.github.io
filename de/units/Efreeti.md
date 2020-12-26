@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Zorn](/de/Emblem/Anger/) - Chaos
-* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Feuersturm
@@ -92,6 +92,10 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Rashka](/de/heroes/Rashka/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

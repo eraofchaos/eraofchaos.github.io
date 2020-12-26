@@ -59,9 +59,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Enfado](/es/Emblem/Anger/) - Caos
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Quiebre de energía
@@ -89,6 +89,10 @@ toc: true
 * Carga (Lista de unidades de carga)
 
 ### Bonificación de Héroe
+* [Mullich](/es/heroes/Mullich/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

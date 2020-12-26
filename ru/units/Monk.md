@@ -61,9 +61,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Гнев](/ru/Emblem/Anger/) - Хаос
-* [Алчность](/ru/Emblem/Greed/) - Хаос
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Молитва
@@ -91,6 +91,10 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [Роланд](/ru/heroes/Roland/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

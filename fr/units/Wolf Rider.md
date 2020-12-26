@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Bête de compagnie
@@ -93,6 +93,12 @@ toc: true
 * Assaut (Groupement - Assaut)
 
 ### Bonus de héros
+* [Mullich](/fr/heroes/Mullich/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/fr/heroes/Crag Hack/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
-* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Mort douloureuse
@@ -91,6 +91,10 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

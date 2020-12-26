@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
-* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
-* [Wollust](/de/Emblem/Lust/) - Chaos
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Wildes Brüllen
@@ -91,6 +91,12 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/de/heroes/Crag Hack/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

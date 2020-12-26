@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
-* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: null
@@ -91,6 +91,10 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

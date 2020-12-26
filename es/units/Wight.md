@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Profeta Verde](/es/Emblem/Green Prophet/) - Bien
-* [Enfado](/es/Emblem/Anger/) - Caos
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Profeta Verde](/es/Emblem/Green Prophet/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Chillido horripilante
@@ -92,6 +92,10 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Sandro](/es/heroes/Sandro/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

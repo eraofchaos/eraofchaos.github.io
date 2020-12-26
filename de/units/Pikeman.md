@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
-* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) - Neutral
-* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Speerformation
@@ -93,6 +93,10 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

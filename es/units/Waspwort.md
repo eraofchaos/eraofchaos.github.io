@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Aguja de pestilencia
@@ -90,6 +90,10 @@ toc: true
 * Arquero (Lista de unidades a distancia)
 
 ### Bonificación de Héroe
+* [Gelu](/es/heroes/Gelu/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

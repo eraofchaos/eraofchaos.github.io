@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Forma di pietra
@@ -92,6 +92,10 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

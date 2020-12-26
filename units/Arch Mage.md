@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Anger](/Emblem/Anger/) - Chaos
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Spell Penetration
@@ -92,6 +92,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

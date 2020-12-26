@@ -60,9 +60,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Zorn](/de/Emblem/Anger/) - Chaos
-* [Habgier](/de/Emblem/Greed/) - Chaos
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Puls-Vertigo
@@ -93,6 +93,10 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/de/heroes/Astral/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

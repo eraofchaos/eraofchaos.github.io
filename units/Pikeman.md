@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Guardian Angel](/Emblem/Guardian Angel/) - Goodness
-* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
-* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Spear Array
@@ -93,6 +93,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

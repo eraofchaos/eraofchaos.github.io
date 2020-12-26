@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Inundación de veneno
@@ -91,6 +91,12 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Dracon](/es/heroes/Dracon/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

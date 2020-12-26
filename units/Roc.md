@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Jealousy](/Emblem/Jealousy/) - Chaos
-* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Thunder
@@ -92,6 +92,12 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Shiva](/heroes/Shiva/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/heroes/Crag Hack/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Torrent empoisonné
@@ -91,6 +91,12 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Dracon](/fr/heroes/Dracon/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

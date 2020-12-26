@@ -60,9 +60,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Capacité ultime:  Soul Burst
@@ -90,6 +90,12 @@ toc: true
 * Assaut (Groupement - Assaut)
 
 ### Bonus de héros
+* [Mullich](/fr/heroes/Mullich/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

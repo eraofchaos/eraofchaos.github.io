@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Arrogance](/Emblem/Arrogance/) - Chaos
-* [King's Calamity](/Emblem/King's Calamity/) - Evil
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
+* [King's Calamity](/Emblem/King's Calamity/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Fire Wall
@@ -93,6 +93,8 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Xeron](/heroes/Xeron/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

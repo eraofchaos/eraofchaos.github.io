@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Guardian Angel](/Emblem/Guardian Angel/) - Goodness
-* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
-* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Jousting
@@ -93,6 +93,10 @@ toc: true
 * Charging (Charging Roster)
 
 ### Hero Bonus
+* [Mullich](/heroes/Mullich/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

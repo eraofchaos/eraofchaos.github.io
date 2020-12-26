@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
-* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Mur de flammes
@@ -93,6 +93,8 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Xeron](/fr/heroes/Xeron/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

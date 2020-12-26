@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Segno infausto](/it/Emblem/Ominous Sign/) - Malvagio
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Segno infausto](/it/Emblem/Ominous Sign/) (Malvagio)
 
 ## Skills
 ### Tecnica suprema: null
@@ -92,6 +92,10 @@ toc: true
 * Incursione (Roster unità di incursione)
 
 ### Bonus eroe
+* [Mullich](/it/heroes/Mullich/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

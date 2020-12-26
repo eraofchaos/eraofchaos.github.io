@@ -61,9 +61,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Ум](/ru/Emblem/Witness/) - Добро
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ум](/ru/Emblem/Witness/) (Добро)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Критическая схватка
@@ -91,6 +91,14 @@ toc: true
 * Штурмовой отряд (Дозор штурмовых отрядов)
 
 ### Бонус героя
+* [null](/ru/heroes/Lord Haart/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

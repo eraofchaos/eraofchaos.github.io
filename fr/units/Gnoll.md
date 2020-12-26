@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Coup enchaîné
@@ -93,6 +93,10 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

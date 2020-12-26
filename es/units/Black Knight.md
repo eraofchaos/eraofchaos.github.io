@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Testigo](/es/Emblem/Witness/) - Bien
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Testigo](/es/Emblem/Witness/) (Bien)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Golpe crítico
@@ -91,6 +91,14 @@ toc: true
 * Carga (Lista de unidades de carga)
 
 ### Bonificación de Héroe
+* [Lord Haart](/es/heroes/Lord Haart/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

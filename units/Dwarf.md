@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Guardian Angel](/Emblem/Guardian Angel/) - Goodness
-* [Anger](/Emblem/Anger/) - Chaos
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Dwarf Howl
@@ -92,6 +92,10 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/heroes/Gem/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

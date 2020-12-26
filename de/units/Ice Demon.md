@@ -60,9 +60,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit:  Glacial Spur
@@ -93,6 +93,10 @@ toc: true
 * Bogenschütze (Fernkampf-Kader)
 
 ### Heldenbonus
+* [Gelu](/de/heroes/Gelu/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

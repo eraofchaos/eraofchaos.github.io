@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
-* [Anger](/Emblem/Anger/) - Chaos
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Magic Ironball
@@ -93,6 +93,10 @@ toc: true
 * Ranged (Ranged Roster)
 
 ### Hero Bonus
+* [Gelu](/heroes/Gelu/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

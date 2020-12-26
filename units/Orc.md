@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
-* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Expert Execution
@@ -92,6 +92,12 @@ toc: true
 * Ranged (Ranged Roster)
 
 ### Hero Bonus
+* [Gelu](/heroes/Gelu/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/heroes/Crag Hack/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

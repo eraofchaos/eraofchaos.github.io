@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
-* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) - Neutral
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Lanzengang
@@ -93,6 +93,10 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

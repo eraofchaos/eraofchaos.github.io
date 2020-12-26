@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Green Prophet](/Emblem/Green Prophet/) - Goodness
-* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Green Prophet](/Emblem/Green Prophet/) (Goodness)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Blade Dance
@@ -91,6 +91,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

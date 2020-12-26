@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Ángel Guardián](/es/Emblem/Guardian Angel/) - Bien
-* [Enfado](/es/Emblem/Anger/) - Caos
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Aullido enano
@@ -92,6 +92,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

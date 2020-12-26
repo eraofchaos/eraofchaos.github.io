@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
-* [Jealousy](/Emblem/Jealousy/) - Chaos
-* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
+* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Fire
@@ -92,6 +92,10 @@ toc: true
 * Charging (Charging Roster)
 
 ### Hero Bonus
+* [Mullich](/heroes/Mullich/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

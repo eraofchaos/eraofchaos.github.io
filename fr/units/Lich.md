@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
-* [Autonyme oublié](/fr/Emblem/Forgotten Autonym/) - Mauvais
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) (Neutre)
+* [Autonyme oublié](/fr/Emblem/Forgotten Autonym/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Sacrifice
@@ -91,6 +91,12 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Vidomina](/fr/heroes/Vidomina/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/fr/heroes/Sandro/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (humain)](/fr/heroes/Human Sandro/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

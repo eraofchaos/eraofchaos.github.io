@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
-* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
-* [Habgier](/de/Emblem/Greed/) - Chaos
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Fessel
@@ -92,6 +92,10 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Ryland](/de/heroes/Ryland/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

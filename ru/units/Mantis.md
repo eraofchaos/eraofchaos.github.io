@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Зеленый пророк](/ru/Emblem/Green Prophet/) - Добро
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
 
 ## Skills
 ### Совершенное умение: null
@@ -93,6 +93,10 @@ toc: true
 * Атакующий отряд (Дозор атакующих отрядов)
 
 ### Бонус героя
+* [null](/ru/heroes/Kendal/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -58,9 +58,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
-* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Fuego divino
@@ -88,6 +88,12 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Fiur](/es/heroes/Fiur/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

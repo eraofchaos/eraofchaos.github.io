@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Contrôle mental
@@ -88,6 +88,12 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Dracon](/fr/heroes/Dracon/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

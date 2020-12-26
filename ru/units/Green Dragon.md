@@ -61,9 +61,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Волна яда
@@ -91,6 +91,12 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [Дракон](/ru/heroes/Dracon/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Dragon Mutare/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

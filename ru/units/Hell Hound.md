@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
-* [Ревность](/ru/Emblem/Jealousy/) - Хаос
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Skills
 ### Совершенное умение: Огонь
@@ -90,6 +90,10 @@ toc: true
 * Штурмовой отряд (Дозор штурмовых отрядов)
 
 ### Бонус героя
+* [Мюллих](/ru/heroes/Mullich/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Xeron/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

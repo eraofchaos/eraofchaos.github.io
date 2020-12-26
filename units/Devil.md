@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Arrogance](/Emblem/Arrogance/) - Chaos
-* [King's Calamity](/Emblem/King's Calamity/) - Evil
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
+* [King's Calamity](/Emblem/King's Calamity/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Painful Reaper
@@ -91,6 +91,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
-* [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) - Böse
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Opfer
@@ -91,6 +91,12 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Vidomina](/de/heroes/Vidomina/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/de/heroes/Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mensch Sandro](/de/heroes/Human Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

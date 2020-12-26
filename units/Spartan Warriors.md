@@ -57,9 +57,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Witness](/Emblem/Witness/) - Goodness
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Witness](/Emblem/Witness/) (Goodness)
 
 ## Skills
 ### Ultimate Skill: null
@@ -87,6 +87,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kassandra](/heroes/Kassandra/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

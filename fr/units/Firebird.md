@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
-* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
-* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Souffle de feu
@@ -91,6 +91,10 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Luna](/fr/heroes/Luna/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/fr/heroes/Dracon/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

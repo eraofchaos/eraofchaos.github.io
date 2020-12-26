@@ -63,8 +63,8 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
 
 ## Skills
 ### Ultimative Fähigkeit: Sprengpfeil
@@ -92,6 +92,10 @@ toc: true
 * Bogenschütze (Fernkampf-Kader)
 
 ### Heldenbonus
+* [Roland](/de/heroes/Roland/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

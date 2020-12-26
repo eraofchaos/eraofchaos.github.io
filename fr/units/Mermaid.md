@@ -57,9 +57,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
-* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Accord de sol
@@ -87,6 +87,10 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Dracon](/fr/heroes/Dracon/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

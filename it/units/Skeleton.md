@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
-* [Avarizia](/it/Emblem/Greed/) - Caos
-* [Lussuria](/it/Emblem/Lust/) - Caos
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Scudo d'ossa
@@ -93,6 +93,14 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/it/heroes/Vidomina/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

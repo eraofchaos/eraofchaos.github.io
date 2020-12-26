@@ -59,9 +59,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
-* [Алчность](/ru/Emblem/Greed/) - Хаос
-* [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) - Нейтральный
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
+* [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) (Нейтральный)
 
 ## Skills
 ### Совершенное умение: Стремительный перекат
@@ -89,6 +89,10 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Cassanbel/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

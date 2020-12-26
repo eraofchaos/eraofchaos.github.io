@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: null
@@ -91,6 +91,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Enfado](/es/Emblem/Anger/) - Caos
-* [Avaricia](/es/Emblem/Greed/) - Caos
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Rayo del juicio
@@ -93,6 +93,10 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Dracon](/es/heroes/Dracon/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
-* [Королевская беда](/ru/Emblem/King's Calamity/) - Злой
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Skills
 ### Совершенное умение: null
@@ -93,6 +93,8 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [null](/ru/heroes/Xeron/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

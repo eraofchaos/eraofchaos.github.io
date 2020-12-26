@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
-* [Gear of Time](/Emblem/Gear of Time/) - Goodness
-* [Anger](/Emblem/Anger/) - Chaos
+* [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
+* [Gear of Time](/Emblem/Gear of Time/) (Goodness)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: null
@@ -91,6 +91,10 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/heroes/Tazar/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

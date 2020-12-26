@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Envidia](/es/Emblem/Jealousy/) - Caos
-* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Tormenta bélica
@@ -93,6 +93,12 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Crag Hack](/es/heroes/Crag Hack/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

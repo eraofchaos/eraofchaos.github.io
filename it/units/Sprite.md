@@ -59,9 +59,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Frammentazione energetica
@@ -89,6 +89,10 @@ toc: true
 * Incursione (Roster unità di incursione)
 
 ### Bonus eroe
+* [Mullich](/it/heroes/Mullich/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

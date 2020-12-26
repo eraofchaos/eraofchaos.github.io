@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Гнев](/ru/Emblem/Anger/) - Хаос
-* [Алчность](/ru/Emblem/Greed/) - Хаос
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Skills
 ### Совершенное умение: null
@@ -91,6 +91,10 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Xeron/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

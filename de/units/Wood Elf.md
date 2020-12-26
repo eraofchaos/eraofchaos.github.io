@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
-* [Neid](/de/Emblem/Jealousy/) - Chaos
-* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: null
@@ -92,6 +92,10 @@ toc: true
 * Bogenschütze (Fernkampf-Kader)
 
 ### Heldenbonus
+* [Gelu](/de/heroes/Gelu/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Green Prophet](/Emblem/Green Prophet/) - Goodness
-* [Anger](/Emblem/Anger/) - Chaos
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Green Prophet](/Emblem/Green Prophet/) (Goodness)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Condemn
@@ -91,6 +91,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

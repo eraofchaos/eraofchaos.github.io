@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение:  Soul Burst
@@ -90,6 +90,12 @@ toc: true
 * Штурмовой отряд (Дозор штурмовых отрядов)
 
 ### Бонус героя
+* [Мюллих](/ru/heroes/Mullich/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Dragon Mutare/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

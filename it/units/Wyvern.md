@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Ira](/it/Emblem/Anger/) - Caos
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Spruzzo velenoso
@@ -91,6 +91,10 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

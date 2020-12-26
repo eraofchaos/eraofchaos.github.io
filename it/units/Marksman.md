@@ -63,8 +63,8 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
 
 ## Skills
 ### Tecnica suprema: Freccia esplosiva
@@ -92,6 +92,10 @@ toc: true
 * A distanza (Roster unità a distanza)
 
 ### Bonus eroe
+* [Roland](/it/heroes/Roland/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

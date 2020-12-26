@@ -59,9 +59,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Dragon King's Breath](/ru/Emblem/Dragon King's Breath/) - Злой
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
-* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Dragon King's Breath](/ru/Emblem/Dragon King's Breath/) (Злой)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Свирепая челюсть
@@ -89,6 +89,10 @@ toc: true
 * Атакующий отряд (Дозор атакующих отрядов)
 
 ### Бонус героя
+* [null](/ru/heroes/Kendal/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Cassanbel/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
-* [Zorn](/de/Emblem/Anger/) - Chaos
-* [Wollust](/de/Emblem/Lust/) - Chaos
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Impuls
@@ -93,6 +93,10 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

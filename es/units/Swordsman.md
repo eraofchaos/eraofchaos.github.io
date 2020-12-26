@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
-* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
-* [Avaricia](/es/Emblem/Greed/) - Caos
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: null
@@ -92,6 +92,12 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Catherine](/es/heroes/Catherine/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -57,9 +57,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Green Prophet](/Emblem/Green Prophet/) - Goodness
-* [Anger](/Emblem/Anger/) - Chaos
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Green Prophet](/Emblem/Green Prophet/) (Goodness)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Energy Blast
@@ -87,6 +87,12 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Monere](/heroes/Monere/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Profeta Verde](/es/Emblem/Green Prophet/) - Bien
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Profeta Verde](/es/Emblem/Green Prophet/) (Bien)
 
 ## Skills
 ### Habilidad definitiva: sonic cutting
@@ -93,6 +93,10 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/it/Emblem/Guardian Angel/) - Bontà
-* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) - Neutrale
-* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Tecnica suprema: A cavallo
@@ -93,6 +93,10 @@ toc: true
 * Incursione (Roster unità di incursione)
 
 ### Bonus eroe
+* [Mullich](/it/heroes/Mullich/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Jealousy](/Emblem/Jealousy/) - Chaos
-* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
+* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 
 ## Skills
 ### Ultimate Skill: null
@@ -91,6 +91,12 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Crag Hack](/heroes/Crag Hack/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

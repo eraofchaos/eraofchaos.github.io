@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
-* [Neid](/de/Emblem/Jealousy/) - Chaos
-* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Scharfe Harpyienkralle
@@ -89,6 +89,12 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/de/heroes/Mutare/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

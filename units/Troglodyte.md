@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
-* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
-* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Spear Array
@@ -90,6 +90,12 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

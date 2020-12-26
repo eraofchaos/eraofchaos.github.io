@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
-* [Greed](/Emblem/Greed/) - Chaos
-* [Lust](/Emblem/Lust/) - Chaos
+* [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
+* [Greed](/Emblem/Greed/) (Chaos)
+* [Lust](/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Bone Shield
@@ -93,6 +93,14 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/heroes/Vidomina/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Zeuge](/de/Emblem/Witness/) - Gut
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Zeuge](/de/Emblem/Witness/) (Gut)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Kritischer Angriff
@@ -91,6 +91,14 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Lord Haart](/de/heroes/Lord Haart/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/de/heroes/Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mensch Sandro](/de/heroes/Human Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

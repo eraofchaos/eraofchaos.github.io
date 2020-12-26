@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Skills
 ### Совершенное умение: null
@@ -90,6 +90,12 @@ toc: true
 * Стрелок (Дозор стрелковых отрядов)
 
 ### Бонус героя
+* [Джелу](/ru/heroes/Gelu/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Tazar/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Вестан](/ru/heroes/Wystan/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) - Добро
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Гномий вой
@@ -92,6 +92,10 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

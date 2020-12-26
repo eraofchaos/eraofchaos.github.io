@@ -57,9 +57,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
-* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
-* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) (Ordre)
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) (Ordre)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Capacité ultime: En plein cauchemar
@@ -87,6 +87,10 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

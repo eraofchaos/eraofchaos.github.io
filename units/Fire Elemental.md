@@ -58,9 +58,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Arrogance](/Emblem/Arrogance/) - Chaos
-* [King's Calamity](/Emblem/King's Calamity/) - Evil
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
+* [King's Calamity](/Emblem/King's Calamity/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Heavenly Fire
@@ -88,6 +88,12 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Fiur](/heroes/Fiur/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
-* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
-* [Avaricia](/es/Emblem/Greed/) - Caos
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Atadura
@@ -92,6 +92,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Ryland](/es/heroes/Ryland/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

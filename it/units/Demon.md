@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Avarizia](/it/Emblem/Greed/) - Caos
-* [Lussuria](/it/Emblem/Lust/) - Caos
-* [Segno infausto](/it/Emblem/Ominous Sign/) - Malvagio
+* [Avarizia](/it/Emblem/Greed/) (Caos)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
+* [Segno infausto](/it/Emblem/Ominous Sign/) (Malvagio)
 
 ## Skills
 ### Tecnica suprema: Attacco scottante
@@ -92,6 +92,10 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

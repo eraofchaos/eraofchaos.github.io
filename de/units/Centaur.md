@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
-* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
-* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
 
 ## Skills
 ### Ultimative Fähigkeit: Kampfstampfer
@@ -93,6 +93,10 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/es/Emblem/Guardian Angel/) - Bien
-* [Envidia](/es/Emblem/Jealousy/) - Caos
-* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Garra afilada de Arpía
@@ -89,6 +89,12 @@ toc: true
 * Carga (Lista de unidades de carga)
 
 ### Bonificación de Héroe
+* [Mullich](/es/heroes/Mullich/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

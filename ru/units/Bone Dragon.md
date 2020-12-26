@@ -61,9 +61,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
-* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Страх
@@ -91,6 +91,12 @@ toc: true
 * Атакующий отряд (Дозор атакующих отрядов)
 
 ### Бонус героя
+* [null](/ru/heroes/Vidomina/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

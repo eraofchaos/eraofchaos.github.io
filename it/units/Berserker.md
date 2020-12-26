@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Invidia](/it/Emblem/Jealousy/) - Caos
-* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Skills
 ### Tecnica suprema: null
@@ -91,6 +91,12 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Crag Hack](/it/heroes/Crag Hack/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

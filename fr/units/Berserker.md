@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
-* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: null
@@ -91,6 +91,12 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Crag Hack](/fr/heroes/Crag Hack/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/fr/heroes/Kilgor/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

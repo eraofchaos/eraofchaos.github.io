@@ -63,9 +63,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) - Нейтральный
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Удар цепью
@@ -93,6 +93,10 @@ toc: true
 * Атакующий отряд (Дозор атакующих отрядов)
 
 ### Бонус героя
+* [null](/ru/heroes/Kendal/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Tazar/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

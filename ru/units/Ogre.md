@@ -62,9 +62,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
-* [Похоть](/ru/Emblem/Lust/) - Хаос
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Skills
 ### Совершенное умение: null
@@ -92,6 +92,12 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Crag Hack/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Kilgor/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

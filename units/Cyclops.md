@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
-* [Arrogance](/Emblem/Arrogance/) - Chaos
-* [King's Calamity](/Emblem/King's Calamity/) - Evil
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
+* [King's Calamity](/Emblem/King's Calamity/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Flamestone
@@ -92,6 +92,12 @@ toc: true
 * Ranged (Ranged Roster)
 
 ### Hero Bonus
+* [Gelu](/heroes/Gelu/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/heroes/Yog/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

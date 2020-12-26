@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Witness](/Emblem/Witness/) - Goodness
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Witness](/Emblem/Witness/) (Goodness)
 
 ## Skills
 ### Ultimate Skill: Diving Counterattack
@@ -92,6 +92,10 @@ toc: true
 * Charging (Charging Roster)
 
 ### Hero Bonus
+* [Mullich](/heroes/Mullich/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
-* [Neid](/de/Emblem/Jealousy/) - Chaos
-* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Feuer
@@ -92,6 +92,10 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

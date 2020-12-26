@@ -63,8 +63,8 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
 
 ## Skills
 ### Совершенное умение: Разрывная стрела
@@ -92,6 +92,10 @@ toc: true
 * Стрелок (Дозор стрелковых отрядов)
 
 ### Бонус героя
+* [Роланд](/ru/heroes/Roland/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

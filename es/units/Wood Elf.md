@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
-* [Envidia](/es/Emblem/Jealousy/) - Caos
-* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: null
@@ -92,6 +92,10 @@ toc: true
 * Arquero (Lista de unidades a distancia)
 
 ### Bonificación de Héroe
+* [Gelu](/es/heroes/Gelu/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

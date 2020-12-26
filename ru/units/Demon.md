@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Алчность](/ru/Emblem/Greed/) - Хаос
-* [Похоть](/ru/Emblem/Lust/) - Хаос
-* [Зловещий знак](/ru/Emblem/Ominous Sign/) - Злой
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
+* [Зловещий знак](/ru/Emblem/Ominous Sign/) (Злой)
 
 ## Skills
 ### Совершенное умение: Ошпаривающий удар
@@ -88,6 +88,10 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Xeron/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

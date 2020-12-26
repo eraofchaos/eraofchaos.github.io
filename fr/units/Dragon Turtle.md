@@ -59,9 +59,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
-* [Avarice](/fr/Emblem/Greed/) - Chaos
-* [Noyau du réseau global](/fr/Emblem/Core of the Global Network/) - Neutre
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
+* [Noyau du réseau global](/fr/Emblem/Core of the Global Network/) (Neutre)
 
 ## Skills
 ### Capacité ultime: Roulade écrasante
@@ -89,6 +89,10 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
-* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Grüner Prophet](/de/Emblem/Green Prophet/) (Gut)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Klingentanz
@@ -91,6 +91,10 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/de/heroes/Astral/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

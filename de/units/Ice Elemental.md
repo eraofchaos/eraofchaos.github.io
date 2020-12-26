@@ -58,9 +58,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
-* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
-* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Eismauer
@@ -88,6 +88,10 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Dracon](/de/heroes/Dracon/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

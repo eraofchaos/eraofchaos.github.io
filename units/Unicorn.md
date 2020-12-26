@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Ominous Sign](/Emblem/Ominous Sign/) - Evil
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Ominous Sign](/Emblem/Ominous Sign/) (Evil)
 
 ## Skills
 ### Ultimate Skill: null
@@ -92,6 +92,10 @@ toc: true
 * Charging (Charging Roster)
 
 ### Hero Bonus
+* [Mullich](/heroes/Mullich/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/heroes/Gem/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

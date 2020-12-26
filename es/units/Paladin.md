@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
-* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
-* [Lujuria](/es/Emblem/Lust/) - Caos
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: null
@@ -91,6 +91,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Roland](/es/heroes/Roland/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

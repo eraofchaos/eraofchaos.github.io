@@ -59,9 +59,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
-* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
-* [Lujuria](/es/Emblem/Lust/) - Caos
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Maldición de putrefacción
@@ -89,6 +89,12 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

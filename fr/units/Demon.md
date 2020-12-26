@@ -62,9 +62,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Avarice](/fr/Emblem/Greed/) - Chaos
-* [Luxure](/fr/Emblem/Lust/) - Chaos
-* [Signe inquiétant](/fr/Emblem/Ominous Sign/) - Mauvais
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
+* [Signe inquiétant](/fr/Emblem/Ominous Sign/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Frappe brûlante
@@ -92,6 +92,10 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

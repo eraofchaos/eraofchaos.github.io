@@ -58,9 +58,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
-* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
-* [Anger](/Emblem/Anger/) - Chaos
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
+* [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Ice Wall
@@ -88,6 +88,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

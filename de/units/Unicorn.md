@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Ominöses Zeichen](/de/Emblem/Ominous Sign/) - Böse
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Ominöses Zeichen](/de/Emblem/Ominous Sign/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: null
@@ -92,6 +92,10 @@ toc: true
 * Ansturm (Ansturm-Kader)
 
 ### Heldenbonus
+* [Mullich](/de/heroes/Mullich/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

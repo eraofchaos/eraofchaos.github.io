@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
-* [Jealousy](/Emblem/Jealousy/) - Chaos
-* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
+* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Stone Gaze
@@ -88,6 +88,14 @@ toc: true
 * Ranged (Ranged Roster)
 
 ### Hero Bonus
+* [Gelu](/heroes/Gelu/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sephinroth](/heroes/Sephinroth/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

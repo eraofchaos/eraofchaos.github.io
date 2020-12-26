@@ -63,8 +63,8 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 
 ## Skills
 ### Ultimate Skill: Exploding arrow
@@ -92,6 +92,10 @@ toc: true
 * Ranged (Ranged Roster)
 
 ### Hero Bonus
+* [Roland](/heroes/Roland/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/heroes/Gelu/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

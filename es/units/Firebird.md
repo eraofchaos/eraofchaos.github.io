@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
-* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
-* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Aliento de llamas
@@ -91,6 +91,10 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Luna](/es/heroes/Luna/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

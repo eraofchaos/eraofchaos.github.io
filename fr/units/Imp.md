@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
-* [Colère](/fr/Emblem/Anger/) - Chaos
-* [Luxure](/fr/Emblem/Lust/) - Chaos
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Colère](/fr/Emblem/Anger/) (Chaos)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Impulsion
@@ -93,6 +93,10 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/fr/heroes/Xeron/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

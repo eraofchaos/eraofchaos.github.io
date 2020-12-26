@@ -57,9 +57,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
-* [Ум](/ru/Emblem/Witness/) - Добро
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Ум](/ru/Emblem/Witness/) (Добро)
 
 ## Skills
 ### Совершенное умение: null
@@ -85,6 +85,10 @@ toc: true
 * Штурмовой отряд (Дозор штурмовых отрядов)
 
 ### Бонус героя
+* [Эцио](/ru/heroes/Ezio/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

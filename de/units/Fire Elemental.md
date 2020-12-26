@@ -58,9 +58,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
-* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Himmelsfeuer
@@ -88,6 +88,12 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Fiur](/de/heroes/Fiur/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

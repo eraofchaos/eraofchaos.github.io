@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
-* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Joute
@@ -93,6 +93,10 @@ toc: true
 * Assaut (Groupement - Assaut)
 
 ### Bonus de héros
+* [Mullich](/fr/heroes/Mullich/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

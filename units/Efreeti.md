@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Anger](/Emblem/Anger/) - Chaos
-* [King's Calamity](/Emblem/King's Calamity/) - Evil
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Anger](/Emblem/Anger/) (Chaos)
+* [King's Calamity](/Emblem/King's Calamity/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Firestorm
@@ -92,6 +92,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Rashka](/heroes/Rashka/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

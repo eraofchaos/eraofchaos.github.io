@@ -60,9 +60,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
-* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
-* [Prophète vert](/fr/Emblem/Green Prophet/) - Bonté
+* [Feu ancien](/fr/Emblem/Ancient Fire/) (Ordre)
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) (Ordre)
+* [Prophète vert](/fr/Emblem/Green Prophet/) (Bonté)
 
 ## Skills
 ### Capacité ultime: sonic cutting
@@ -93,6 +93,10 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/fr/heroes/Gem/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

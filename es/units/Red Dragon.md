@@ -57,9 +57,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) - Neutral
-* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
-* [Envidia](/es/Emblem/Jealousy/) - Caos
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Llamarada ardiente
@@ -84,6 +84,12 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

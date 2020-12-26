@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) - Neutral
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
-* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Flammenstein
@@ -92,6 +92,12 @@ toc: true
 * Bogenschütze (Fernkampf-Kader)
 
 ### Heldenbonus
+* [Gelu](/de/heroes/Gelu/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/de/heroes/Yog/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

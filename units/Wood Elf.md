@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
-* [Jealousy](/Emblem/Jealousy/) - Chaos
-* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
+* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 
 ## Skills
 ### Ultimate Skill: null
@@ -92,6 +92,10 @@ toc: true
 * Ranged (Ranged Roster)
 
 ### Hero Bonus
+* [Gelu](/heroes/Gelu/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/heroes/Gem/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -59,9 +59,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Gear of Time](/Emblem/Gear of Time/) - Goodness
-* [Greed](/Emblem/Greed/) - Chaos
-* [Core of the Global Network](/Emblem/Core of the Global Network/) - Neutral
+* [Gear of Time](/Emblem/Gear of Time/) (Goodness)
+* [Greed](/Emblem/Greed/) (Chaos)
+* [Core of the Global Network](/Emblem/Core of the Global Network/) (Neutral)
 
 ## Skills
 ### Ultimate Skill: Crushing Roll
@@ -89,6 +89,10 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/heroes/Cassanbel/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

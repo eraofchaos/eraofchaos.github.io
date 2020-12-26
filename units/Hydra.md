@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 
 ## Skills
 ### Ultimate Skill: Chaos Mist
@@ -91,6 +91,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/heroes/Tazar/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/it/Emblem/Guardian Angel/) - Bontà
-* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) - Neutrale
-* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Muro di lance
@@ -93,6 +93,10 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

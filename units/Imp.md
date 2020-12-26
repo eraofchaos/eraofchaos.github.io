@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Guardian Angel](/Emblem/Guardian Angel/) - Goodness
-* [Anger](/Emblem/Anger/) - Chaos
-* [Lust](/Emblem/Lust/) - Chaos
+* [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
+* [Anger](/Emblem/Anger/) (Chaos)
+* [Lust](/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Impulse
@@ -93,6 +93,10 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

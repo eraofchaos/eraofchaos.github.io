@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
-* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Skills
 ### Tecnica suprema: Soffio infuocato
@@ -91,6 +91,10 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Luna](/it/heroes/Luna/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

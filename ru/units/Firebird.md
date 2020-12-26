@@ -59,9 +59,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
-* [Королевская беда](/ru/Emblem/King's Calamity/) - Злой
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Skills
 ### Совершенное умение: Огненное дыхание
@@ -89,6 +89,10 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [null](/ru/heroes/Luna/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

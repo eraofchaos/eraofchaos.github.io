@@ -62,9 +62,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
-* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
-* [Avarice](/fr/Emblem/Greed/) - Chaos
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) (Neutre)
+* [Avarice](/fr/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Capacité ultime: null
@@ -92,6 +92,12 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Catherine](/fr/heroes/Catherine/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

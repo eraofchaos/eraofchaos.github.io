@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
-* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
-* [Envidia](/es/Emblem/Jealousy/) - Caos
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Espiral temporal
@@ -91,6 +91,10 @@ toc: true
 * Magia (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
+* [Dracon](/es/heroes/Dracon/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

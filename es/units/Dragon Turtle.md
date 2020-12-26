@@ -59,9 +59,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
-* [Avaricia](/es/Emblem/Greed/) - Caos
-* [Núcleo de la red global](/es/Emblem/Core of the Global Network/) - Neutral
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
+* [Núcleo de la red global](/es/Emblem/Core of the Global Network/) (Neutral)
 
 ## Skills
 ### Habilidad definitiva: Giro aplastante
@@ -89,6 +89,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

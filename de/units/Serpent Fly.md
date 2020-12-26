@@ -62,9 +62,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Neid](/de/Emblem/Jealousy/) - Chaos
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
-* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Sumpfseuche
@@ -92,6 +92,12 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Dracon](/de/heroes/Dracon/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/de/heroes/Korbac/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

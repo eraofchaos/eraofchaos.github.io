@@ -61,9 +61,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
-* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) - Neutrale
-* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
 
 ## Skills
 ### Tecnica suprema: null
@@ -91,6 +91,10 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

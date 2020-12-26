@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
-* [Invidia](/it/Emblem/Jealousy/) - Caos
-* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Tuono
@@ -92,6 +92,12 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Shiva](/it/heroes/Shiva/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

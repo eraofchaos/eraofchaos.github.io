@@ -63,9 +63,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
-* [Алчность](/ru/Emblem/Greed/) - Хаос
-* [Похоть](/ru/Emblem/Lust/) - Хаос
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Костяной щит
@@ -93,6 +93,14 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Vidomina/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

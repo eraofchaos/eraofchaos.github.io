@@ -60,9 +60,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
-* [Алчность](/ru/Emblem/Greed/) - Хаос
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Skills
 ### Совершенное умение: null
@@ -90,6 +90,12 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [null](/ru/heroes/Catherine/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

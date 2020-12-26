@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Greed](/Emblem/Greed/) - Chaos
-* [Lust](/Emblem/Lust/) - Chaos
-* [Ominous Sign](/Emblem/Ominous Sign/) - Evil
+* [Greed](/Emblem/Greed/) (Chaos)
+* [Lust](/Emblem/Lust/) (Chaos)
+* [Ominous Sign](/Emblem/Ominous Sign/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Scalding Strike
@@ -92,6 +92,10 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

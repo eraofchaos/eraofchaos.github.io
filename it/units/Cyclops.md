@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) - Neutrale
-* [Superbia](/it/Emblem/Arrogance/) - Caos
-* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Skills
 ### Tecnica suprema: Pietra focaia
@@ -92,6 +92,12 @@ toc: true
 * A distanza (Roster unità a distanza)
 
 ### Bonus eroe
+* [Gelu](/it/heroes/Gelu/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/it/heroes/Yog/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

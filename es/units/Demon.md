@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Avaricia](/es/Emblem/Greed/) - Caos
-* [Lujuria](/es/Emblem/Lust/) - Caos
-* [Señal ominosa](/es/Emblem/Ominous Sign/) - Maligno
+* [Avaricia](/es/Emblem/Greed/) (Caos)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
+* [Señal ominosa](/es/Emblem/Ominous Sign/) (Maligno)
 
 ## Skills
 ### Habilidad definitiva: Golpe hirviente
@@ -92,6 +92,10 @@ toc: true
 * Defensa (Lista de unidades defensivas)
 
 ### Bonificación de Héroe
+* [Mephala](/es/heroes/Mephala/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

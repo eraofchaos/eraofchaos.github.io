@@ -61,9 +61,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
-* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
-* [Luxure](/fr/Emblem/Lust/) - Chaos
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) (Ordre)
+* [Roue du temps](/fr/Emblem/Gear of Time/) (Bonté)
+* [Luxure](/fr/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Capacité ultime: null
@@ -91,6 +91,10 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
+* [Roland](/fr/heroes/Roland/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

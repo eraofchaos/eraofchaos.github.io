@@ -59,9 +59,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
-* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
-* [Wollust](/de/Emblem/Lust/) - Chaos
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Fluch der Verwesung
@@ -89,6 +89,12 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mensch Sandro](/de/heroes/Human Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/de/heroes/Sandro/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

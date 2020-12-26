@@ -62,9 +62,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
-* [Ревность](/ru/Emblem/Jealousy/) - Хаос
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Skills
 ### Совершенное умение: null
@@ -92,6 +92,10 @@ toc: true
 * Стрелок (Дозор стрелковых отрядов)
 
 ### Бонус героя
+* [Джелу](/ru/heroes/Gelu/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/es/Emblem/Guardian Angel/) - Bien
-* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) - Neutral
-* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Justa
@@ -93,6 +93,10 @@ toc: true
 * Carga (Lista de unidades de carga)
 
 ### Bonificación de Héroe
+* [Mullich](/es/heroes/Mullich/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

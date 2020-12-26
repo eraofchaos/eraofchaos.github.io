@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Griffin Wings](/Emblem/Griffin Wings/) - Order
-* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
-* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogance](/Emblem/Arrogance/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Chain Slap
@@ -93,6 +93,10 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/heroes/Tazar/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) - Order
-* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
-* [King's Calamity](/Emblem/King's Calamity/) - Evil
+* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
+* [King's Calamity](/Emblem/King's Calamity/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Flame Breath
@@ -91,6 +91,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Luna](/heroes/Luna/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/es/Emblem/Guardian Angel/) - Bien
-* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) - Neutral
-* [Envidia](/es/Emblem/Jealousy/) - Caos
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Habilidad definitiva: Formación de lanzas
@@ -93,6 +93,10 @@ toc: true
 * Ofensa (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
+* [Kendal](/es/heroes/Kendal/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -62,9 +62,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
-* [Алчность](/ru/Emblem/Greed/) - Хаос
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Skills
 ### Совершенное умение: null
@@ -92,6 +92,10 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Риланд](/ru/heroes/Ryland/) 
+*   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

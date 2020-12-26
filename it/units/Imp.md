@@ -63,9 +63,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/it/Emblem/Guardian Angel/) - Bontà
-* [Ira](/it/Emblem/Anger/) - Caos
-* [Lussuria](/it/Emblem/Lust/) - Caos
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Impulso
@@ -93,6 +93,10 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

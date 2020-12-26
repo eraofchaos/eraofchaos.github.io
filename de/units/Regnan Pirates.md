@@ -60,9 +60,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) - Böse
-* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
-* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) (Böse)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimative Fähigkeit: Gezeitenbeute
@@ -90,6 +90,12 @@ toc: true
 * Offensiv (Offensiv-Kader)
 
 ### Heldenbonus
+* [Kendal](/de/heroes/Kendal/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/de/heroes/Peter Lee/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

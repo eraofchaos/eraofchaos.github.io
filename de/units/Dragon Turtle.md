@@ -59,9 +59,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
-* [Habgier](/de/Emblem/Greed/) - Chaos
-* [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) - Neutral
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
+* [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) (Neutral)
 
 ## Skills
 ### Ultimative Fähigkeit: Schmetterrolle
@@ -89,6 +89,10 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
+* [Mephala](/de/heroes/Mephala/) 
+*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

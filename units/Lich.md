@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
-* [Forgotten Autonym](/Emblem/Forgotten Autonym/) - Evil
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
+* [Forgotten Autonym](/Emblem/Forgotten Autonym/) (Evil)
 
 ## Skills
 ### Ultimate Skill: Sacrifice
@@ -91,6 +91,12 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Vidomina](/heroes/Vidomina/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
-* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Ange gardien](/fr/Emblem/Guardian Angel/) (Bonté)
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Nuée de lances
@@ -93,6 +93,10 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -57,9 +57,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
-* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
-* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Accordo di Re
@@ -87,6 +87,10 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Dracon](/it/heroes/Dracon/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

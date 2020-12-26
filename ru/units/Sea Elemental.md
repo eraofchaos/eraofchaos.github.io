@@ -61,9 +61,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
-* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Skills
 ### Совершенное умение: Спираль времени
@@ -91,6 +91,10 @@ toc: true
 * Заклинатель (Дозор отрядов заклинателей)
 
 ### Бонус героя
+* [Дракон](/ru/heroes/Dracon/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Cassanbel/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

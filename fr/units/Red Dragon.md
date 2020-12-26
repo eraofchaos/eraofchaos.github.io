@@ -57,9 +57,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
-* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) (Neutre)
+* [Calamité du roi](/fr/Emblem/King's Calamity/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Brasier rugissant
@@ -84,6 +84,12 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/fr/heroes/Mutare/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (dragon)](/fr/heroes/Dragon Mutare/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
-* [Hochmut](/de/Emblem/Arrogance/) - Chaos
-* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Skills
 ### Ultimative Fähigkeit: Feuerwand
@@ -93,6 +93,8 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
+* [Xeron](/de/heroes/Xeron/) 
+*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

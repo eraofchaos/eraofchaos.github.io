@@ -57,9 +57,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
-* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
-* [Testimonianza](/it/Emblem/Witness/) - Bontà
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Testimonianza](/it/Emblem/Witness/) (Bontà)
 
 ## Skills
 ### Tecnica suprema: Assassinio
@@ -87,6 +87,10 @@ toc: true
 * Incursione (Roster unità di incursione)
 
 ### Bonus eroe
+* [Ezio](/it/heroes/Ezio/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

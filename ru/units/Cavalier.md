@@ -63,9 +63,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) - Добро
-* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) - Нейтральный
-* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Skills
 ### Совершенное умение: null
@@ -93,6 +93,10 @@ toc: true
 * Штурмовой отряд (Дозор штурмовых отрядов)
 
 ### Бонус героя
+* [Мюллих](/ru/heroes/Mullich/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

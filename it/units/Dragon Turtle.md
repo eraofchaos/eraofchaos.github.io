@@ -59,9 +59,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
-* [Avarizia](/it/Emblem/Greed/) - Caos
-* [Nucleo della Rete Globale](/it/Emblem/Core of the Global Network/) - Neutrale
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
+* [Nucleo della Rete Globale](/it/Emblem/Core of the Global Network/) (Neutrale)
 
 ## Skills
 ### Tecnica suprema: Rullo stritolante
@@ -89,6 +89,10 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
+* [Mephala](/it/heroes/Mephala/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -57,9 +57,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) - Neutrale
-* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
-* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Fiamma divampante
@@ -84,6 +84,12 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

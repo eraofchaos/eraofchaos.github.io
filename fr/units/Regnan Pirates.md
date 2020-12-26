@@ -60,9 +60,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) - Mauvais
-* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) (Mauvais)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Capacité ultime: Pilleur des marées
@@ -90,6 +90,12 @@ toc: true
 * Offensive (Groupement - Offensive)
 
 ### Bonus de héros
+* [Kendal](/fr/heroes/Kendal/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/fr/heroes/Cassanbel/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [PeterLee](/fr/heroes/Peter Lee/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

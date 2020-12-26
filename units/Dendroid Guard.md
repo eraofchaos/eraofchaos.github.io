@@ -62,9 +62,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
-* [Gear of Time](/Emblem/Gear of Time/) - Goodness
-* [Greed](/Emblem/Greed/) - Chaos
+* [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
+* [Gear of Time](/Emblem/Gear of Time/) (Goodness)
+* [Greed](/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Bind
@@ -92,6 +92,10 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Ryland](/heroes/Ryland/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

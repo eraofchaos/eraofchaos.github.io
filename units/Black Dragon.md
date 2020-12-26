@@ -61,9 +61,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
-* [Gear of Time](/Emblem/Gear of Time/) - Goodness
-* [Lust](/Emblem/Lust/) - Chaos
+* [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
+* [Gear of Time](/Emblem/Gear of Time/) (Goodness)
+* [Lust](/Emblem/Lust/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Dragon Breath
@@ -88,6 +88,12 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
+* [Mephala](/heroes/Mephala/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

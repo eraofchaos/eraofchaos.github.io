@@ -63,8 +63,8 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
-* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
 
 ## Skills
 ### Habilidad definitiva: Flecha explosiva
@@ -92,6 +92,10 @@ toc: true
 * Arquero (Lista de unidades a distancia)
 
 ### Bonificación de Héroe
+* [Roland](/es/heroes/Roland/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/) 
+*   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

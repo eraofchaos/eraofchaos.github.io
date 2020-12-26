@@ -62,9 +62,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Invidia](/it/Emblem/Jealousy/) - Caos
-* [Superbia](/it/Emblem/Arrogance/) - Caos
-* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Skills
 ### Tecnica suprema: Pestilenza palustre
@@ -92,6 +92,12 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
+* [Dracon](/it/heroes/Dracon/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/it/heroes/Korbac/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

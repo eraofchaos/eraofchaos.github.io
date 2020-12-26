@@ -60,9 +60,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Dragon King's Breath](/Emblem/Dragon King's Breath/) - Evil
-* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
-* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Dragon King's Breath](/Emblem/Dragon King's Breath/) (Evil)
+* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Tidal Plunder
@@ -90,6 +90,12 @@ toc: true
 * Offensive (Offensive Unit Roster)
 
 ### Hero Bonus
+* [Kendal](/heroes/Kendal/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/heroes/Cassanbel/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/heroes/Peter Lee/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

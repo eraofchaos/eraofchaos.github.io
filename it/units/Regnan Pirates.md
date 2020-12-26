@@ -60,9 +60,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) - Malvagio
-* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
-* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) (Malvagio)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Skills
 ### Tecnica suprema: Terrore delle maree
@@ -90,6 +90,12 @@ toc: true
 * Attacco (Roster unità d'attacco)
 
 ### Bonus eroe
+* [Kendal](/it/heroes/Kendal/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/) 
+*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/it/heroes/Peter Lee/) 
+*   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

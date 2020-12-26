@@ -62,9 +62,9 @@ toc: true
 
 ## Emblèmes sacrés recommandés
 
-* [Envie](/fr/Emblem/Jealousy/) - Chaos
-* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
-* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Envie](/fr/Emblem/Jealousy/) (Chaos)
+* [Orgueil](/fr/Emblem/Arrogance/) (Chaos)
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) (Mauvais)
 
 ## Skills
 ### Capacité ultime: Peste des marais
@@ -92,6 +92,12 @@ toc: true
 * Lanceur de sorts (Groupement - Lanceur de sorts)
 
 ### Bonus de héros
+* [Dracon](/fr/heroes/Dracon/) 
+*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/fr/heroes/Tazar/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/fr/heroes/Korbac/) 
+*   Spécialité :<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -63,9 +63,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
-* [Anger](/Emblem/Anger/) - Chaos
-* [Greed](/Emblem/Greed/) - Chaos
+* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Anger](/Emblem/Anger/) (Chaos)
+* [Greed](/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Prayer
@@ -93,6 +93,10 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
+* [Roland](/heroes/Roland/) 
+*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/heroes/Dracon/) 
+*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

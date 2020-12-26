@@ -61,9 +61,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
 
 ## Skills
 ### Совершенное умение: null
@@ -91,6 +91,10 @@ toc: true
 * Оборонительный отряд (Дозор оборонительных отрядов)
 
 ### Бонус героя
+* [Мефала](/ru/heroes/Mephala/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Cassanbel/) 
+*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
