@@ -89,10 +89,8 @@ toc: true
 * Атакующий отряд (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [null](/ru/heroes/Kendal/) 
-*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/ru/heroes/Roland/) 
-*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -91,10 +91,8 @@ toc: true
 * Défense (Groupement - Défense)
 
 ### Bonus de héros
-* [Roland](/fr/heroes/Roland/) 
-*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/fr/heroes/Mephala/) 
-*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/) *   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/fr/heroes/Mephala/) *   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

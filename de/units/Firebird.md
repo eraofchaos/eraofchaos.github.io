@@ -91,10 +91,8 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
-* [Luna](/de/heroes/Luna/) 
-*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/de/heroes/Dracon/) 
-*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Luna](/de/heroes/Luna/) *   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/) *   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

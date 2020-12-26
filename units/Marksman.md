@@ -92,10 +92,8 @@ toc: true
 * Ranged (Ranged Roster)
 
 ### Hero Bonus
-* [Roland](/heroes/Roland/) 
-*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/) 
-*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/heroes/Gelu/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

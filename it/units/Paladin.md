@@ -91,10 +91,8 @@ toc: true
 * Difesa (Roster unità di difesa)
 
 ### Bonus eroe
-* [Roland](/it/heroes/Roland/) 
-*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/it/heroes/Mephala/) 
-*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/) *   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/) *   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

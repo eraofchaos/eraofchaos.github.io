@@ -93,10 +93,8 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
-* [Dracon](/it/heroes/Dracon/) 
-*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/it/heroes/Roland/) 
-*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/) *   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/) *   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

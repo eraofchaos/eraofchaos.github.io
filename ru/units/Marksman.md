@@ -92,10 +92,8 @@ toc: true
 * Стрелок (Дозор стрелковых отрядов)
 
 ### Бонус героя
-* [Роланд](/ru/heroes/Roland/) 
-*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джелу](/ru/heroes/Gelu/) 
-*   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

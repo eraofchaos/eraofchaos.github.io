@@ -93,10 +93,8 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
-* [Roland](/heroes/Roland/) 
-*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/) 
-*   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/heroes/Dracon/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

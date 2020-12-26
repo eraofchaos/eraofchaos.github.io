@@ -93,8 +93,7 @@ toc: true
 * Incantatore (Roster incantatori)
 
 ### Bonus eroe
-* [Xeron](/it/heroes/Xeron/) 
-*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/) *   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

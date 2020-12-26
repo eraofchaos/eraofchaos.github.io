@@ -92,10 +92,8 @@ toc: true
 * À distance (Groupement - À distance)
 
 ### Bonus de héros
-* [Roland](/fr/heroes/Roland/) 
-*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/fr/heroes/Gelu/) 
-*   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/fr/heroes/Roland/) *   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/fr/heroes/Gelu/) *   Spécialité :<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

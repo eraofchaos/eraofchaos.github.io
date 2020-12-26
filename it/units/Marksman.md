@@ -92,10 +92,8 @@ toc: true
 * A distanza (Roster unità a distanza)
 
 ### Bonus eroe
-* [Roland](/it/heroes/Roland/) 
-*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/it/heroes/Gelu/) 
-*   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/) *   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/) *   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -92,12 +92,9 @@ toc: true
 * Abwehr (Abwehr-Kader)
 
 ### Heldenbonus
-* [Catherine](/de/heroes/Catherine/) 
-*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/de/heroes/Roland/) 
-*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/de/heroes/Mephala/) 
-*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Catherine](/de/heroes/Catherine/) *   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/) *   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/) *   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

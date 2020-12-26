@@ -93,8 +93,7 @@ toc: true
 * Caster (Caster Roster)
 
 ### Hero Bonus
-* [Xeron](/heroes/Xeron/) 
-*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

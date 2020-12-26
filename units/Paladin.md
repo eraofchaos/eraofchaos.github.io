@@ -91,10 +91,8 @@ toc: true
 * Defensive (Defensive Unit Roster)
 
 ### Hero Bonus
-* [Roland](/heroes/Roland/) 
-*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/) 
-*   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/heroes/Mephala/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

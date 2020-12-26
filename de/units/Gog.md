@@ -93,8 +93,7 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
-* [Xeron](/de/heroes/Xeron/) 
-*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/) *   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

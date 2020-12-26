@@ -93,10 +93,8 @@ toc: true
 * Magie (Zauberer-Kader)
 
 ### Heldenbonus
-* [Roland](/de/heroes/Roland/) 
-*   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/de/heroes/Dracon/) 
-*   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/) *   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/) *   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
