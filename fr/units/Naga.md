@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /fr/units/Naga/
 excerpt: "Unités Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente."
 unitID: 606
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Naga"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Ces monstres à bras multiples sont nés pour combattre. Plus leur ennemi est faible, plus leur soif de sang augmente.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** L'unité infligeant le plus de dégâts. Cause des dégâts de zone. Les sorts de Héros augmentent son attaque.
 
-## Basic stats
+## Stats de base
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Prophète vert](/fr/Emblem/Green Prophet/) - Bonté
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Danse tranchante
  **Description:** <span style="color: #645252;font-size:20px">La Naga inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies aléatoires dans une large zone et diminue leur DÉF de 10 % pendant 10 secondes. L'effet peut se cumuler jusqu'à 4 fois.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

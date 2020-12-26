@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Units They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
+## Recommended Holy Emblems
+
+* [Dragon King's Breath](/Emblem/Dragon King's Breath/) - Evil
+* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Tidal Plunder
  **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

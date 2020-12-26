@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Units Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Pit Fiend"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
+## Recommended Holy Emblems
+
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Firespring
  **Description:** <span style="color: #645252;font-size:20px">Pit Fiend units cast 1 Fire Spring in their path, restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP of friendly units in a large area in front of them every 2s for 8s.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Inferno (Inferno Roster)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

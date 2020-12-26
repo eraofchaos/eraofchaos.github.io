@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Marksman"
 toc: true
@@ -61,6 +61,11 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+
 ## Skills
 ### Ultimate Skill: Exploding arrow
  **Description:** <span style="color: #645252;font-size:20px">Marksman units deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target.</span><span style="color: black">
@@ -79,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Castle (Castle Roster)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Aeronave magica"
 permalink: /it/units/Magic Airship/
 excerpt: "Unità L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Aeronave magica"
 toc: true
 ---
 ## General information
- **Description:** L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida.
+ **Descrizione:** L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Torre](/it/units/Fraction Torre)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Supporto magico. Aumenta la Vel ATT degli incantatori e blocca gli attacchi nemici.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1715.0
 
  **Base ATK:** 208.5
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 37.53 | 0.5 | 3.8 | 308.7 |
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
+## Emblemi sacri consigliati
+
+* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: Supporto energetico
- **Description:** <span style="color: #645252;font-size:20px">Se i PF di una tua unità scendono sotto il 30%, ripristina </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi, elimina tutti i debuff e aumenta Rid DAN e resistenza magica (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 15 secondi. Può essere lanciato una sola volta per battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se i PF di una tua unità scendono sotto il 30%, ripristina </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi, elimina tutti i debuff e aumenta Rid DAN e resistenza magica (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 15 secondi. Può essere lanciato una sola volta per battaglia.</span><span style="color: black">
 
 ### Tecnica normale 1 : Bombardamento congelante
- **Description:** <span style="color: #645252;font-size:20px">Gli attacchi base hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelare&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio e le unità nemiche circostanti per 2 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Gli attacchi base hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelare&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio e le unità nemiche circostanti per 2 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Campo magico
- **Description:** <span style="color: #645252;font-size:20px">Resistenza magica dell'Aeronave magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando viene utilizzato il &lt;Risveglio magico&gt;, gli eroi nemici perdono 2 punti mana e gli eroi alleati guadagnano 3 punti mana.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Resistenza magica dell'Aeronave magica aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando viene utilizzato il &lt;Risveglio magico&gt;, gli eroi nemici perdono 2 punti mana e gli eroi alleati guadagnano 3 punti mana.</span><span style="color: black">
 
 ### Tecnica normale 3 : Risveglio magico
- **Description:** <span style="color: #645252;font-size:20px">Se l'Aeronave magica è potenziata dall'incantesimo di un eroe alleato, aumenta Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutti gli incantatori alleati per 15 secondi. Aumenta la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutti gli incantatori. Il bonus è cumulabile fino a 4 volte e dura fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se l'Aeronave magica è potenziata dall'incantesimo di un eroe alleato, aumenta Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutti gli incantatori alleati per 15 secondi. Aumenta la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+3.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutti gli incantatori. Il bonus è cumulabile fino a 4 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Mente lucida
- **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Esplosione di Energia
- **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Torre (Roster Torre)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
+## Recommended Holy Emblems
+
+* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Time Spiral
  **Description:** <span style="color: #645252;font-size:20px">The Sea Elemental creates a 10s maelstrom on the ground every 30s, decreasing the ATK speed of all hostile units within the range by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every second. The maelstrom deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within the range when it dissipates</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

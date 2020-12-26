@@ -3,17 +3,17 @@ title: "Einhorn"
 permalink: /de/units/Unicorn/
 excerpt: "Einheiten Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Einhorn"
 toc: true
 ---
 ## General information
- **Description:** Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf.
+ **Beschreibung:** Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf.
 
- **Class:** Ansturm
+ **Klasse:** Ansturm
 
- **Class Description:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
+ **Klasse Beschreibung:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
 
  **Fraction:** [Schutzwall](/de/units/Fraction Schutzwall)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Reduziert die gegnerische Präzision, hoher Ausweichwert.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Ominöses Zeichen](/de/Emblem/Ominous Sign/) - Böse
+
 ## Skills
 ### Ultimative Fähigkeit: null
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 1 : Flackernde Gestalten
- **Description:** <span style="color: #645252;font-size:20px">Jedes Mal, wenn das Einhorn ausweicht, erzeugt es mit hoher Wahrscheinlichkeit einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Schild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> für sich selbst, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP absorbiert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Jedes Mal, wenn das Einhorn ausweicht, erzeugt es mit hoher Wahrscheinlichkeit einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Schild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> für sich selbst, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP absorbiert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Licht der Engel
- **Description:** <span style="color: #645252;font-size:20px">Die Fähigkeit &lt;Blenden&gt; erhöht den Schaden, den das Ziel erleidet, zusätzlich um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Fähigkeit &lt;Blenden&gt; erhöht den Schaden, den das Ziel erleidet, zusätzlich um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Tapferer Anführer
- **Description:** <span style="color: #645252;font-size:20px">Ausweichen des Einhorns wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Das Einhorn erhält zusätzlich 40 Ausweichen für jede verbündete Ansturm-Einheit auf dem Schlachtfeld.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Ausweichen des Einhorns wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Das Einhorn erhält zusätzlich 40 Ausweichen für jede verbündete Ansturm-Einheit auf dem Schlachtfeld.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Hasszeichen
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schutzwall (Schutzwall-Kader)
+* Ansturm (Ansturm-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Gleißen des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Präzision von Feinden mit „Blindheit“ zusätzlich um 1.000.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Präzision von Feinden mit „Blindheit“ zusätzlich um 1.000.</span>
 
 ### 2nd Skill (or 1st): Wille des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Wirkt im Gefecht „Blenden“.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Wirkt im Gefecht „Blenden“.</span>
 
 ### 3rd Skill (or 4th): Sechster Sinn
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit des Schilds wird auf 200 % der Wahrscheinlichkeit der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit des Schilds wird auf 200 % der Wahrscheinlichkeit der vorherigen Fähigkeit erhöht.</span>
 
 ### 4th Skill (or 3rd): Macht der Koordination
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 5th Skill (or 6th): Führung des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Das Einhorn erhöht den Schaden aller verbündeter Einheiten 20 Sek. lang um 10 %, wenn die Zieleinheit getötet wird. Der Effekt ist 3 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Das Einhorn erhöht den Schaden aller verbündeter Einheiten 20 Sek. lang um 10 %, wenn die Zieleinheit getötet wird. Der Effekt ist 3 Mal stapelbar.</span>
 
 ### 6th Skill (or 5th): Schutz des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit getötet wird, verleiht das Einhorn allen verbündeten Einheiten einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit getötet wird, verleiht das Einhorn allen verbündeten Einheiten einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
 
 ## Technical info
  **runart:** 1

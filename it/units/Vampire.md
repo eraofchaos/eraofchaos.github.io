@@ -3,17 +3,17 @@ title: "Vampiro"
 permalink: /it/units/Vampire/
 excerpt: "Unità I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Vampiro"
 toc: true
 ---
 ## General information
- **Description:** I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte.
+ **Descrizione:** I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte.
 
- **Class:** Incursione
+ **Classe:** Incursione
 
- **Class Description:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
+ **Classe Descrizione:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
 
  **Fraction:** [Necropoli](/it/units/Fraction Necropoli)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge danni notevoli quando ha più PF dei nemici.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Superbia](/it/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Tecnica suprema: Assorbimento
- **Description:** <span style="color: #645252;font-size:20px">Il Vampiro infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 1 unità nemica casuale in un'ampia area ogni 12 secondi, assorbendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Vampiro infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 1 unità nemica casuale in un'ampia area ogni 12 secondi, assorbendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF.</span><span style="color: black">
 
 ### Tecnica normale 1 : Sanguinario
- **Description:** <span style="color: #645252;font-size:20px">Assorbimento del Vampiro aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Assorbimento del Vampiro aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 2 : Rigonfiamento
- **Description:** <span style="color: #645252;font-size:20px">Quando un Vampiro lancia &lt;Assorbimento&gt;, il suo assorbimento aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un Vampiro lancia &lt;Assorbimento&gt;, il suo assorbimento aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica normale 3 : Brama di sangue
- **Description:** <span style="color: #645252;font-size:20px">Quando affronta un avversario la cui percentuale di PF è inferiore alla propria, il Vampiro gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando affronta un avversario la cui percentuale di PF è inferiore alla propria, il Vampiro gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+
+## Connessione
+### Connessione roster
+
+* Necropoli (Roster Necropoli)
+* Incursione (Roster unità di incursione)
+
+### Bonus eroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Eco di sangue
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Assorbimento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%, cura le unità alleate in un'ampia area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Assorbimento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%, cura le unità alleate in un'ampia area.</span>
 
 ### 2nd Skill (or 1st): Vendetta atroce
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Assorbimento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%. La prima volta che i PF scendono sotto il 50%, usa &lt;Assorbimento&gt; una volta.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Assorbimento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150%. La prima volta che i PF scendono sotto il 50%, usa &lt;Assorbimento&gt; una volta.</span>
 
 ### 3rd Skill (or 4th): Abbraccio dei morti
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Brama di sangue&gt;</span><span style="color: #645252;font-size:18px">: aumenta il danno del 10% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Brama di sangue&gt;</span><span style="color: #645252;font-size:18px">: aumenta il danno del 10% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
 
 ### 4th Skill (or 3rd): Protezione dei morti
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Brama di sangue&gt;</span><span style="color: #645252;font-size:18px">: aumenta la resistenza magica del 20% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Brama di sangue&gt;</span><span style="color: #645252;font-size:18px">: aumenta la resistenza magica del 20% quando l'unità bersaglio viene sconfitta. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia</span>
 
 ### 5th Skill (or 6th): Desiderio scarlatto
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sanguinario&gt;</span><span style="color: #645252;font-size:18px">: immune alle &lt;Malattie&gt;. Aumenta l'assorbimento del 50% quando i PF scendono sotto il 50%. L'effetto dura fino al termine della battaglia. (Rimane attivo quando i PF vengono ripristinati)</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sanguinario&gt;</span><span style="color: #645252;font-size:18px">: immune alle &lt;Malattie&gt;. Aumenta l'assorbimento del 50% quando i PF scendono sotto il 50%. L'effetto dura fino al termine della battaglia. (Rimane attivo quando i PF vengono ripristinati)</span>
 
 ### 6th Skill (or 5th): Bacio immortale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sanguinario&gt;</span><span style="color: #645252;font-size:18px">: rende immune alle &lt;Malattie&gt; e aumenta la guarigione del 50%</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sanguinario&gt;</span><span style="color: #645252;font-size:18px">: rende immune alle &lt;Malattie&gt; e aumenta la guarigione del 50%</span>
 
 ## Technical info
  **runart:** 1

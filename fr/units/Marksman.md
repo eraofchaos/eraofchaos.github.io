@@ -3,7 +3,7 @@ title: "Grand Arbalétrier"
 permalink: /fr/units/Marksman/
 excerpt: "Unités Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis."
 unitID: 102
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Grand Arbalétrier"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Grands Arbalétriers sont des soldats expérimentés, qui affaiblissent leurs ennemis avant même de passer au corps à corps. Leurs redoutables arbalètes instillent la terreur dans le cœur de leurs ennemis.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige de lourds dégâts directs et une double frappe. Surtout efficace sur les grandes unités.
 
-## Basic stats
+## Stats de base
  **Base HP:** 438.4
 
  **Base ATK:** 85.3
@@ -61,6 +61,11 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+
 ## Skills
 ### Capacité ultime: Flèche explosive
  **Description:** <span style="color: #645252;font-size:20px">Les Grands Arbalétriers infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à leur cible.</span><span style="color: black">
@@ -79,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

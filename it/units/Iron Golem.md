@@ -3,17 +3,17 @@ title: "Golem di ferro"
 permalink: /it/units/Iron Golem/
 excerpt: "Unità I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia."
 unitID: 603
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Golem di ferro"
 toc: true
 ---
 ## General information
- **Description:** I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia.
+ **Descrizione:** I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Torre](/it/units/Fraction Torre)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Immune agli incantesimi degli eroi. Gli incantesimi degli eroi ripristinano i suoi PF.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 24.3 | 0.35 | 8.0 | 460.08 |
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
+## Emblemi sacri consigliati
+
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
+* [Lussuria](/it/Emblem/Lust/) - Caos
+
 ## Skills
 ### Tecnica suprema: Riverbero metallico
- **Description:** <span style="color: #645252;font-size:20px">Il Golem di ferro protegge le unità alleate con il proprio corpo, aumentandone la Rid DAN del 30% per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Golem di ferro protegge le unità alleate con il proprio corpo, aumentandone la Rid DAN del 30% per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Forza
- **Description:** <span style="color: #645252;font-size:20px">Il Golem di ferro gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Golem di ferro gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 2 : Corpo di ferro
- **Description:** <span style="color: #645252;font-size:20px">Il Golem di ferro è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando subisce danno dall'incantesimo di un eroe, la sua resistenza magica aumenta del 100% per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Golem di ferro è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando subisce danno dall'incantesimo di un eroe, la sua resistenza magica aumenta del 100% per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### Tecnica normale 3 : Risveglio magico
- **Description:** <span style="color: #645252;font-size:20px">Se il Golem di ferro è potenziato dall'incantesimo di supporto di un eroe alleato, recupera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi. Inoltre, la sua Rid DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se il Golem di ferro è potenziato dall'incantesimo di supporto di un eroe alleato, recupera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi. Inoltre, la sua Rid DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 3 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Mente lucida
- **Description:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Torre resistono con maggiore efficacia al &lt;Silenzio&gt;. La durata del &lt;Silenzio&gt; inflitto su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Esplosione di Energia
- **Description:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Torre sono esperte nella conversione dell'energia. Il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Torre (Roster Torre)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Protezione dei simili
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Riverbero metallico&gt;</span><span style="color: #645252;font-size:18px"> viene lanciato all'inizio del combattimento. La Rid DAN delle unità Torre aumenta del 10%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Riverbero metallico&gt;</span><span style="color: #645252;font-size:18px"> viene lanciato all'inizio del combattimento. La Rid DAN delle unità Torre aumenta del 10%.</span>
 
 ### 2nd Skill (or 1st): Protezione del guerriero
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Riverbero metallico&gt;</span><span style="color: #645252;font-size:18px"> viene lanciato all'inizio del combattimento. L'effetto si applica a tutte le unità d'attacco alleate.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Riverbero metallico&gt;</span><span style="color: #645252;font-size:18px"> viene lanciato all'inizio del combattimento. L'effetto si applica a tutte le unità d'attacco alleate.</span>
 
 ### 3rd Skill (or 4th): Corpo anti-magie
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Corpo di ferro&gt;</span><span style="color: #645252;font-size:18px"> Quando il Golem di ferro subisce danno magico da un eroe, la sua DIF aumenta del 30% per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Corpo di ferro&gt;</span><span style="color: #645252;font-size:18px"> Quando il Golem di ferro subisce danno magico da un eroe, la sua DIF aumenta del 30% per 10 secondi.</span>
 
 ### 4th Skill (or 3rd): Corpo d'acciaio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Corpo di ferro&gt;</span><span style="color: #645252;font-size:18px"> DIF del Golem di ferro aumentata del 20%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Corpo di ferro&gt;</span><span style="color: #645252;font-size:18px"> DIF del Golem di ferro aumentata del 20%.</span>
 
 ### 5th Skill (or 6th): Potenziamento estremo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px"> Rigenerazione dovuta al &lt;Risveglio magico&gt; aumentata del 30%, Rid DAN accumulata aumentata del 30%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px"> Rigenerazione dovuta al &lt;Risveglio magico&gt; aumentata del 30%, Rid DAN accumulata aumentata del 30%.</span>
 
 ### 6th Skill (or 5th): Risveglio dei simili
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la DIF delle tue unità Torre del 5%. L'effetto è cumulabile fino a 3 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la DIF delle tue unità Torre del 5%. L'effetto è cumulabile fino a 3 volte.</span>
 
 ## Technical info
  **runart:** 1

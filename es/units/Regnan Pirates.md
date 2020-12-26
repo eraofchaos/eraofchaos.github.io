@@ -3,17 +3,17 @@ title: "Piratas Regnan"
 permalink: /es/units/Regnan Pirates/
 excerpt: "Unidades Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Piratas Regnan"
 toc: true
 ---
 ## General information
- **Description:** Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición.
+ **Descripción:** Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición.
 
- **Class:** Ofensa
+ **Clase:** Ofensa
 
- **Class Description:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
+ **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
  **Fraction:** [Cala](/es/units/Fraction Cala)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Usa Destrozo al inicio. DPS potente. Reduce la DEF de los enemigos.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) - Maligno
+* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Envidia](/es/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Saqueo de la marea
- **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de los Piratas Regnan pueden infligir daño dos veces. Los Piratas Regnan impactan al objetivo con un golpe crítico al principio de la batalla. Además, el daño de la unidad aumenta un 30% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales de los Piratas Regnan pueden infligir daño dos veces. Los Piratas Regnan impactan al objetivo con un golpe crítico al principio de la batalla. Además, el daño de la unidad aumenta un 30% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Habilidad táctica
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de los Piratas Regnan un 20%. La reducción de daño de la unidad de los Piratas aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s cuando reciben un ataque. El efecto se acumula hasta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de los Piratas Regnan un 20%. La reducción de daño de la unidad de los Piratas aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s cuando reciben un ataque. El efecto se acumula hasta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Hoja desnuda
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de los Piratas Regnan en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Reduce la DEF de la unidad objetivo un 2% durante 6 s cuando se impacta con un golpe crítico. El efecto se acumula hasta un 20%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de los Piratas Regnan en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Reduce la DEF de la unidad objetivo un 2% durante 6 s cuando se impacta con un golpe crítico. El efecto se acumula hasta un 20%.</span><span style="color: black">
 
 ### Habilidad normal 3 : Prudencia y avaricia
- **Description:** <span style="color: #645252;font-size:20px">El daño de los Piratas Regnan aumenta a medida que los PV disminuyen. El ATQ de los Piratas Regnan aumenta a medida que los PV del objetivo disminuyen. El ATQ aumenta hasta un máximo de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El daño de los Piratas Regnan aumenta a medida que los PV disminuyen. El ATQ de los Piratas Regnan aumenta a medida que los PV del objetivo disminuyen. El ATQ aumenta hasta un máximo de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Cuerpo calmado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto pirata
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Cala (Lista de Cala)
+* Ofensa (Lista de unidades ofensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Descripción:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Descripción:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Descripción:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Descripción:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Descripción:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Descripción:** 
 
 ## Technical info
  **runart:** 1

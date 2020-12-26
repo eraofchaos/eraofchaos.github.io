@@ -3,17 +3,17 @@ title: "Копейщик"
 permalink: /ru/units/Pikeman/
 excerpt: "Отряды Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе."
 unitID: 101
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Копейщик"
 toc: true
 ---
 ## General information
- **Description:** Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе.
+ **Описание:** Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе.
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [Замок](/ru/units/Fraction Замок)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Оглушает врага. Эффективнее всего против крупных отрядов.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 645.0
 
  **Base ATK:** 84.4
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.192 | 0.53 | 6.2 | 116.1 |
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) - Добро
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) - Нейтральный
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">Копейщики наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Копейщики наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Железные доспехи
- **Description:** <span style="color: #645252;font-size:20px">Копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
 ### Обычное умение 3 : Воодушевление
- **Description:** <span style="color: #645252;font-size:20px">Копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+18}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+18}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Замок (Дозор отрядов Замка)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

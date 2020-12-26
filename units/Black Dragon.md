@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Units A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Black Dragon"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 77.4 | 0.44 | 8.96 | 1568.16 |
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
+## Recommended Holy Emblems
+
+* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
+* [Gear of Time](/Emblem/Gear of Time/) - Goodness
+* [Lust](/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Dragon Breath
  **Description:** <span style="color: #645252;font-size:20px">The Black Dragon deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all hostile units in a very large area every 15s, while causing additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to nearby units and <span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Dungeon (Dungeon Rosters)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

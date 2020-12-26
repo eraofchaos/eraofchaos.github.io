@@ -3,7 +3,7 @@ title: "Fée"
 permalink: /fr/units/Sprite/
 excerpt: "Unités Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse."
 unitID: 901
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Fée"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Une magnifique Fée qui n'existe que dans les légendes et les contes. Tout personnage qui lui manquera de respect ne sera pas apprécié des lecteurs, et ne connaîtra pas de fin heureuse.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Explose en mourant, inflige Silence, augmente le mana de départ des Héros.
 
-## Basic stats
+## Stats de base
  **Base HP:** 993.0
 
  **Base ATK:** 69.5
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 12.51 | 0.58 | 3.8 | 178.74 |
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Bris d'énergie
  **Description:** <span style="color: #645252;font-size:20px">Quand une Fée est tuée, elle inflige une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max de la cible (jusqu'à 1 000 % de l'ATQ de la cible).</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Conflux (Groupement - Conflux)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

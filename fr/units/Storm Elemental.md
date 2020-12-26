@@ -3,7 +3,7 @@ title: "Élémentaire de tempête"
 permalink: /fr/units/Storm Elemental/
 excerpt: "Unités Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique."
 unitID: 902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Élémentaire de tempête"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Une entité d'énergie née d'un combat entre les Élémentaires d'air. Tout ennemi qui osera lui faire face ne se remettra pas facilement de son attaque électrique.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Inflige statique, des dégâts supplémentaires, et des attaques multiples sur une cible unique.
 
-## Basic stats
+## Stats de base
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
@@ -56,6 +56,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Marqueur statique
  **Description:** <span style="color: #645252;font-size:20px">Lorsque le combat commence, les Élémentaires de tempête infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Statique&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> à toutes les unités ennemies sur leur chemin pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Conflux (Groupement - Conflux)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

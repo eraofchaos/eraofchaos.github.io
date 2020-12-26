@@ -3,17 +3,17 @@ title: "Берсерк"
 permalink: /ru/units/Berserker/
 excerpt: "Отряды Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
 unitID: 408
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Берсерк"
 toc: true
 ---
 ## General information
- **Description:** Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами.
+ **Описание:** Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами.
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** null
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 5317.0
 
  **Base ATK:** 678.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+
 ## Skills
 ### Совершенное умение: null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Боевая ярость
- **Description:** <span style="color: #645252;font-size:20px">АТК берсерка может повыситься до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> по мере уменьшения ОЗ. Берсерки кричат каждые 20 сек., получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> все вражеские отряды в течение 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">АТК берсерка может повыситься до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> по мере уменьшения ОЗ. Берсерки кричат каждые 20 сек., получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> все вражеские отряды в течение 10 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Бессмертный бог войны
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Рост живучести
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Цитадель (Дозор отрядов Цитадели)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Смертоносный топор
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: урон &lt;Несравненного танца&gt;, связанный с максимумом ОЗ, удваивается. При успешном снятии наносится 200% дополнительного урона</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: урон &lt;Несравненного танца&gt;, связанный с максимумом ОЗ, удваивается. При успешном снятии наносится 200% дополнительного урона</span>
 
 ### 2nd Skill (or 1st): Боевой топор жажды крови
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: берсерк получает +20% к высасыванию жизни. При успешном снятии наносится 200% дополнительного урона</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: берсерк получает +20% к высасыванию жизни. При успешном снятии наносится 200% дополнительного урона</span>
 
 ### 3rd Skill (or 4th): Бескрайняя ярость
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Боевая ярость&gt;</span><span style="color: #645252;font-size:18px">: длительность увеличена на 15 сек. Ярость повышается на 50%. КРИТ. УРН в дальнейшем повышается на 30%. Эффекты не могут быть рассеяны.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевая ярость&gt;</span><span style="color: #645252;font-size:18px">: длительность увеличена на 15 сек. Ярость повышается на 50%. КРИТ. УРН в дальнейшем повышается на 30%. Эффекты не могут быть рассеяны.</span>
 
 ### 4th Skill (or 3rd): Убийство на войне
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Боевая ярость&gt;</span><span style="color: #645252;font-size:18px">: боевая ярость на 10 сек. дает всем союзным отрядам Цитадели +5% к урону и +10 к скорости АТК</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевая ярость&gt;</span><span style="color: #645252;font-size:18px">: боевая ярость на 10 сек. дает всем союзным отрядам Цитадели +5% к урону и +10 к скорости АТК</span>
 
 ### 5th Skill (or 6th): Благословение бога войны
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бессмертный бог войны&gt;</span><span style="color: #645252;font-size:18px">: в начале боя призывает маленькую статую Марса, которая дает вашим войскам Цитадели +8% к урону и восстанавливает 1,5% от макс. ОЗ за 2 секунды. При уничтожении отрядов берсерка колосс исчезает. Статуя Марса на поле боя отбрасывает врагов каждые 15 секунд. Эффект длится 6 секунд</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессмертный бог войны&gt;</span><span style="color: #645252;font-size:18px">: в начале боя призывает маленькую статую Марса, которая дает вашим войскам Цитадели +8% к урону и восстанавливает 1,5% от макс. ОЗ за 2 секунды. При уничтожении отрядов берсерка колосс исчезает. Статуя Марса на поле боя отбрасывает врагов каждые 15 секунд. Эффект длится 6 секунд</span>
 
 ### 6th Skill (or 5th): Огромная статуя
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бессмертный бог войны&gt;</span><span style="color: #645252;font-size:18px">: усиление от статуи Марса повышается на 50%. Статуя Марса на поле боя отбрасывает врагов каждые 15 секунд. Эффект длится 6 секунд</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессмертный бог войны&gt;</span><span style="color: #645252;font-size:18px">: усиление от статуи Марса повышается на 50%. Статуя Марса на поле боя отбрасывает врагов каждые 15 секунд. Эффект длится 6 секунд</span>
 
 ## Technical info
  **runart:** 1

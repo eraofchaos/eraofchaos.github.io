@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Units A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Waspwort"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 171.054 | 0.6 | 6.56 | 997.74 |
   | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Arrogance](/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Pestilence Needle
  **Description:** <span style="color: #645252;font-size:20px">Waspwort spits a rain of poison stingers every 12s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target and making them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. When causing a Crit hit during a normal attack, Waspwort increases its ATK speed by 5% for the next 10s, up to 20 stacks.</span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Fortress (Fortress Rosters)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

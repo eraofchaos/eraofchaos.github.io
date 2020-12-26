@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Units Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Paladin"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 23.04 | 0.41 | 8.48 | 466.02 |
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
+## Recommended Holy Emblems
+
+* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
+* [Gear of Time](/Emblem/Gear of Time/) - Goodness
+* [Lust](/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimate Skill: null
  **Description:** 
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Castle (Castle Roster)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

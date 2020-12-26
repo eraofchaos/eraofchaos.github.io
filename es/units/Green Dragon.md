@@ -3,17 +3,17 @@ title: "Dragón Verde"
 permalink: /es/units/Green Dragon/
 excerpt: "Unidades Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Dragón Verde"
 toc: true
 ---
 ## General information
- **Description:** Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles.
+ **Descripción:** Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Murallas](/es/units/Fraction Murallas)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Ataca a las tropas de retaguardia e inflige daño mágico de agua en una gran área.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 4525.0
 
  **Base ATK:** 1018.2
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Inundación de veneno
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Dragón Verde escupe veneno en una zona enorme delante de él cada 30 s, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que no sean aéreas dentro del alcance. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 50%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Dragón Verde escupe veneno en una zona enorme delante de él cada 30 s, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que no sean aéreas dentro del alcance. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 50%.</span><span style="color: black">
 
 ### Habilidad normal 1 : Aliento ponzoñoso
- **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades de nueve, los ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a 3 objetivos.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades de nueve, los ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a 3 objetivos.</span><span style="color: black">
 
 ### Habilidad normal 2 : Escama de Dragón Verde
- **Description:** <span style="color: #645252;font-size:20px">El Dragón Verde es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y aumenta la reducción de daño contra hechizos de agua de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando el Dragón Verde consigue un &lt;escudo&gt;, aumenta su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto dura 15 s. Por cada unidad voladora desplegada, el Dragón Verde aumentará su daño de unidad un 3%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Dragón Verde es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y aumenta la reducción de daño contra hechizos de agua de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando el Dragón Verde consigue un &lt;escudo&gt;, aumenta su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto dura 15 s. Por cada unidad voladora desplegada, el Dragón Verde aumentará su daño de unidad un 3%.</span><span style="color: black">
 
 ### Habilidad normal 3 : Refuerzo celestial
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Dragón Verde inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a tres unidades enemigas en la retaguardia. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Dragón Verde inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a tres unidades enemigas en la retaguardia. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Proliferación calmada
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Marca de odio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Murallas (Lista de Murallas)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Veneno espectral
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flood of Poison&gt;</span><span style="color: #645252;font-size:18px">Ahora lo lanza cada 20 s. Reduce la curación de las unidades hostiles afectadas por Inundación de veneno un 30%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flood of Poison&gt;</span><span style="color: #645252;font-size:18px">Ahora lo lanza cada 20 s. Reduce la curación de las unidades hostiles afectadas por Inundación de veneno un 30%</span>
 
 ### 2nd Skill (or 1st): Propagación de malaria
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flood of Poison&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flood of Poison&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior</span>
 
 ### 3rd Skill (or 4th): Escama de Dragón antimagia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Escama de Dragón Verde&gt;</span> <span style="color: #645252;font-size:18px">aumenta la resistencia mágica en lugar de la reducción de daño de agua. Durante los primeros 30 s tras desplegar al Dragón Dorado, las unidades amistosas de Murallas y Mazmorra aumentan un 20% su reducción de daño de unidad y adquieren inmunidad a sangrado.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Escama de Dragón Verde&gt;</span> <span style="color: #645252;font-size:18px">aumenta la resistencia mágica en lugar de la reducción de daño de agua. Durante los primeros 30 s tras desplegar al Dragón Dorado, las unidades amistosas de Murallas y Mazmorra aumentan un 20% su reducción de daño de unidad y adquieren inmunidad a sangrado.</span>
 
 ### 4th Skill (or 3rd): Viento natural
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Green Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de agua convirtiéndola en resistencia mágica. Además, aumenta la velocidad de ataque un 50% de la velocidad de ataque de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Green Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de agua convirtiéndola en resistencia mágica. Además, aumenta la velocidad de ataque un 50% de la velocidad de ataque de la habilidad anterior</span>
 
 ### 5th Skill (or 6th): Furia del cielo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcement from the Skies&gt;</span><span style="color: #645252;font-size:18px">Lanza un Refuerzo celestial que inflige daño a los enemigos y disminuye su curación un 30% durante 30 s cuando entablen combate</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcement from the Skies&gt;</span><span style="color: #645252;font-size:18px">Lanza un Refuerzo celestial que inflige daño a los enemigos y disminuye su curación un 30% durante 30 s cuando entablen combate</span>
 
 ### 6th Skill (or 5th): Cuidados de ninfa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcement from the Skies&gt;</span><span style="color: #645252;font-size:18px">Crea un &lt;shield&gt; para todas tus unidades amistosas que absorbe daño igual al 10% de los PV máximos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcement from the Skies&gt;</span><span style="color: #645252;font-size:18px">Crea un &lt;shield&gt; para todas tus unidades amistosas que absorbe daño igual al 10% de los PV máximos</span>
 
 ## Technical info
  **runart:** 0

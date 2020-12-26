@@ -3,7 +3,7 @@ title: "Chien de l'Enfer"
 permalink: /fr/units/Hell Hound/
 excerpt: "Unités Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage."
 unitID: 503
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Chien de l'Enfer"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Chiens de l'Enfer attaquent leurs ennemis avec chacune de leurs trois têtes. De la lave brûlante coule le long de leurs corps et embrase tout sur leur passage.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige des coups critiques. En provoquant Saignement, est capable d'infliger de lourds dégâts en peu de temps.
 
-## Basic stats
+## Stats de base
  **Base HP:** 827.0
 
  **Base ATK:** 77.8
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.004 | 0.6 | 5.12 | 148.86 |
   | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Feu
  **Description:** <span style="color: #645252;font-size:20px">Le Chien de l'Enfer est assuré de faire un coup critique pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Василиск"
 permalink: /ru/units/Basilisk/
 excerpt: "Отряды Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети."
 unitID: 804
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Василиск"
 toc: true
 ---
 ## General information
- **Description:** Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети.
+ **Описание:** Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [Крепость](/ru/units/Fraction Крепость)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Танк, мастерски владеющий эффектами контроля. В момент гибели превращает всех окружающих врагов в камень.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 2859.0
 
  **Base ATK:** 121.1
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 8.72 | 514.62 |
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
+* [Похоть](/ru/Emblem/Lust/) - Хаос
+
 ## Skills
 ### Совершенное умение: Окаменение
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">Василиски получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Василиски получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
 
 ### Обычное умение 2 : Чумной симбиоз
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Воздействие с окаменением
- **Description:** <span style="color: #645252;font-size:20px">В случае смерти каждый василиск вызывает <span style="color: #48b946;font-size:20px">окаменение</span><span style="color: black"><span style="color: #645252;font-size:20px"> окружающих врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В случае смерти каждый василиск вызывает <span style="color: #48b946;font-size:20px">окаменение</span><span style="color: black"><span style="color: #645252;font-size:20px"> окружающих врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+3.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Чумной удар
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Крепость (Дозор отрядов Крепости)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

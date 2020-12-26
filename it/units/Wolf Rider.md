@@ -3,17 +3,17 @@ title: "Domatore di lupi"
 permalink: /it/units/Wolf Rider/
 excerpt: "Unità I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Domatore di lupi"
 toc: true
 ---
 ## General information
- **Description:** I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie.
+ **Descrizione:** I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie.
 
- **Class:** Incursione
+ **Classe:** Incursione
 
- **Class Description:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
+ **Classe Descrizione:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
 
  **Fraction:** [Roccaforte](/it/units/Fraction Roccaforte)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Evoca un compagno animale. L'ATT cresce al diminuire dei PF.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) - Neutrale
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Tecnica suprema: Compagno animale
- **Description:** <span style="color: #645252;font-size:20px">Quando viene sconfitto, un Domatore di lupi richiama 1 Warg sul campo di battaglia. Il Warg evocato ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF e dura fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando viene sconfitto, un Domatore di lupi richiama 1 Warg sul campo di battaglia. Il Warg evocato ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica normale 1 : Colpo doppio
- **Description:** <span style="color: #645252;font-size:20px">Il Domatore di lupi ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Domatore di lupi ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 2 : Raptus
- **Description:** <span style="color: #645252;font-size:20px">CRIT del Domatore di lupi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">CRIT del Domatore di lupi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
 ### Tecnica normale 3 : Sete di sangue
- **Description:** <span style="color: #645252;font-size:20px">PF del Domatore di lupi aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I colpi critici ripristinano il 2% dei PF.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">PF del Domatore di lupi aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I colpi critici ripristinano il 2% dei PF.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Combattenti devoti
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Vitalità aumentata
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Roccaforte (Roster Roccaforte)
+* Incursione (Roster unità di incursione)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Stirpe bestiale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Compagno animale&gt;</span><span style="color: #645252;font-size:18px">: aumenta il CRIT degli Warg evocati di 400. Quando il bersaglio viene sconfitto, il Domatore di Lupi evoca un altro Warg.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Compagno animale&gt;</span><span style="color: #645252;font-size:18px">: aumenta il CRIT degli Warg evocati di 400. Quando il bersaglio viene sconfitto, il Domatore di Lupi evoca un altro Warg.</span>
 
 ### 2nd Skill (or 1st): Vita di branco
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Compagno animale&gt;</span><span style="color: #645252;font-size:18px">: evoca uno Warg che aumenta il danno del 10%. All'inizio della battaglia, evoca 9 Warg.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Compagno animale&gt;</span><span style="color: #645252;font-size:18px">: evoca uno Warg che aumenta il danno del 10%. All'inizio della battaglia, evoca 9 Warg.</span>
 
 ### 3rd Skill (or 4th): Entusiasmo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Raptus&gt;, la Vel ATT del Domatore di lupi aumenta del 30% per 20 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Raptus&gt;, la Vel ATT del Domatore di lupi aumenta del 30% per 20 secondi</span>
 
 ### 4th Skill (or 3rd): Raptus sanguinario
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Raptus&gt;, il CRIT del Domatore di Lupi aumenta di 400 (rimane attivo quando i PF vengono ripristinati)</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Raptus&gt;, il CRIT del Domatore di Lupi aumenta di 400 (rimane attivo quando i PF vengono ripristinati)</span>
 
 ### 5th Skill (or 6th): Istinto bestiale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: la rigenerazione dei PF aumenta del 5% quando infligge un colpo critico.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: la rigenerazione dei PF aumenta del 5% quando infligge un colpo critico.</span>
 
 ### 6th Skill (or 5th): Sempre al comando
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: ogni colpo critico aumenta il CRIT di 30.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sete di sangue&gt;</span><span style="color: #645252;font-size:18px">: ogni colpo critico aumenta il CRIT di 30.</span>
 
 ## Technical info
  **runart:** 1

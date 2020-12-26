@@ -3,17 +3,17 @@ title: "Cavaliere nero"
 permalink: /it/units/Black Knight/
 excerpt: "Unità I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Cavaliere nero"
 toc: true
 ---
 ## General information
- **Description:** I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino.
+ **Descrizione:** I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino.
 
- **Class:** Incursione
+ **Classe:** Incursione
 
- **Class Description:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
+ **Classe Descrizione:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
 
  **Fraction:** [Necropoli](/it/units/Fraction Necropoli)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** L'unità da incursione più potente. Danni istantanei elevati. Il suo potere aumenta con il proseguire della battaglia.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Testimonianza](/it/Emblem/Witness/) - Bontà
+* [Superbia](/it/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Tecnica suprema: Attacco critico
- **Description:** <span style="color: #645252;font-size:20px">Il Cavaliere nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio, applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Cavaliere nero infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio, applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Carica mortale
- **Description:** <span style="color: #645252;font-size:20px">Quando il bersaglio del Cavaliere nero viene sconfitto, aumenta ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 5 volte e dura fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando il bersaglio del Cavaliere nero viene sconfitto, aumenta ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è cumulabile fino a 5 volte e dura fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica normale 2 : Abilità a cavallo
- **Description:** <span style="color: #645252;font-size:20px">L'unità gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN aumentata (</span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'unità gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN aumentata (</span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 3 : Repressione terrificante
- **Description:** <span style="color: #645252;font-size:20px">Il Cavaliere nero gode di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo DAN CRIT aumenta del 50%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Cavaliere nero gode di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo DAN CRIT aumenta del 50%.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+
+## Connessione
+### Connessione roster
+
+* Necropoli (Roster Necropoli)
+* Incursione (Roster unità di incursione)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Marcia oscura
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Attacco critico&gt;</span><span style="color: #645252;font-size:18px">: vengono colpite 2 unità nemiche in un'ampia area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Attacco critico&gt;</span><span style="color: #645252;font-size:18px">: vengono colpite 2 unità nemiche in un'ampia area.</span>
 
 ### 2nd Skill (or 1st): Esplosione di paura
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Attacco critico&gt;</span><span style="color: #645252;font-size:18px">: danni inflitti aumentati del 50%. Durata estesa a 20 secondi con &lt;Morale basso&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Attacco critico&gt;</span><span style="color: #645252;font-size:18px">: danni inflitti aumentati del 50%. Durata estesa a 20 secondi con &lt;Morale basso&gt;.</span>
 
 ### 3rd Skill (or 4th): Prosciugamento
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Carica mortale&gt;</span><span style="color: #645252;font-size:18px">: ripristina PF pari al 30% dei PF massimi e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Carica mortale&gt;</span><span style="color: #645252;font-size:18px">: ripristina PF pari al 30% dei PF massimi e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
 
 ### 4th Skill (or 3rd): Scudo spettrale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Carica mortale&gt;</span><span style="color: #645252;font-size:18px">: ripristina l'80% della Rid DAN e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Carica mortale&gt;</span><span style="color: #645252;font-size:18px">: ripristina l'80% della Rid DAN e rende immune ai danni magici per 7 secondi quando il bersaglio muore.</span>
 
 ### 5th Skill (or 6th): Terrore assoluto
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Repressione terrificante&gt;</span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da &lt;Morale basso&gt;, il DAN CRIT aumenta del 50%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Repressione terrificante&gt;</span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da &lt;Morale basso&gt;, il DAN CRIT aumenta del 50%.</span>
 
 ### 6th Skill (or 5th): Pugno di ferro
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Repressione terrificante&gt;</span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da &lt;Morale basso&gt;, l'assorbimento aumenta del 20%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Repressione terrificante&gt;</span><span style="color: #645252;font-size:18px">: se il bersaglio è affetto da &lt;Morale basso&gt;, l'assorbimento aumenta del 20%.</span>
 
 ## Technical info
  **runart:** 1

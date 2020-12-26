@@ -3,17 +3,17 @@ title: "Пегас"
 permalink: /ru/units/Pegasus/
 excerpt: "Отряды null"
 unitID: 204
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Пегас"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Стрелковый
+ **Класс:** Стрелковый
 
- **Class Description:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Укрывает отряды щитом и вызывает Пегаса.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1144.0
 
  **Base ATK:** 195.1
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">После смерти пегаса призывается еще один пегас, который продолжает бой. У призванных пегасов </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">После смерти пегаса призывается еще один пегас, который продолжает бой. У призванных пегасов </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 1 : Острота бритвы
- **Description:** <span style="color: #645252;font-size:20px">Пегасы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. В ходе обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Пегасы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. В ходе обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Защита жизни
- **Description:** <span style="color: #645252;font-size:20px">Пегасы создают для союзных отрядов в широком радиусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, который поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Пегасы создают для союзных отрядов в широком радиусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, который поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
 ### Обычное умение 3 : Конница Серебряных крыльев
- **Description:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Бастион (Дозор отрядов Бастиона)
+* Стрелок (Дозор стрелковых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лесная хроносфера
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): Благословение леса
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Защита жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается до 200% от эффекта предыдущего умения. В начале боя пегас применяет &lt;Защиту жизни&gt;</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Защита жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается до 200% от эффекта предыдущего умения. В начале боя пегас применяет &lt;Защиту жизни&gt;</span>
 
 ### 3rd Skill (or 4th): Дикий клинок
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Острота бритвы&gt;</span><span style="color: #645252;font-size:18px">: скорость ATK пегаса увеличивается на 100% на 10 сек. при наличии щита</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Острота бритвы&gt;</span><span style="color: #645252;font-size:18px">: скорость ATK пегаса увеличивается на 100% на 10 сек. при наличии щита</span>
 
 ### 4th Skill (or 3rd): Терновый меч
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Острота бритвы&gt;</span><span style="color: #645252;font-size:18px">: обычные атаки уменьшают сопротивление цели урону на 10%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Острота бритвы&gt;</span><span style="color: #645252;font-size:18px">: обычные атаки уменьшают сопротивление цели урону на 10%</span>
 
 ### 5th Skill (or 6th): Мышление лидера
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Среброкрылая кавалерия&gt;</span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого отряда Бастиона на поле боя.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Среброкрылая кавалерия&gt;</span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого отряда Бастиона на поле боя.</span>
 
 ### 6th Skill (or 5th): Крылья вдохновения
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Среброкрылая кавалерия&gt;</span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого летающего отряда на поле боя.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Среброкрылая кавалерия&gt;</span><span style="color: #645252;font-size:18px">: урон отряда пегасов повышается на 5% для каждого летающего отряда на поле боя.</span>
 
 ## Technical info
  **runart:** 0

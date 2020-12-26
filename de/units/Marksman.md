@@ -3,17 +3,17 @@ title: "Scharfschütze"
 permalink: /de/units/Marksman/
 excerpt: "Einheiten Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Scharfschütze"
 toc: true
 ---
 ## General information
- **Description:** Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet.
+ **Beschreibung:** Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet.
 
- **Class:** Fernkampf
+ **Klasse:** Fernkampf
 
- **Class Description:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
+ **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
  **Fraction:** [Schloss](/de/units/Fraction Schloss)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Verursacht kolossale Schadensspitzen und verfügt über Doppelschlag. Besonders effektiv gegen große Einheiten.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 438.4
 
  **Base ATK:** 85.3
@@ -61,24 +61,37 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
+
 ## Skills
 ### Ultimative Fähigkeit: Sprengpfeil
- **Description:** <span style="color: #645252;font-size:20px">Scharfschützen verursachen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an einem Ziel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Scharfschützen verursachen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an einem Ziel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Inspirierend
- **Description:** <span style="color: #645252;font-size:20px">Erhöht ANG von Scharfschützen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> hat.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht ANG von Scharfschützen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> hat.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Doppelschlag
- **Description:** <span style="color: #645252;font-size:20px">Scharfschützen schießen bei Standardangriffen mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Wahrscheinlichkeit 2 Pfeile ab. Der zweite Pfeil verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit eines &lt;Doppelschlags&gt; auf 100 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Scharfschützen schießen bei Standardangriffen mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Wahrscheinlichkeit 2 Pfeile ab. Der zweite Pfeil verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit eines &lt;Doppelschlags&gt; auf 100 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Drachentöter
- **Description:** <span style="color: #645252;font-size:20px">Gegen 1- oder 4- Mann-Einheiten steigt Kritischer Treffer für Scharfschützen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Gegen 1- oder 4- Mann-Einheiten steigt Kritischer Treffer für Scharfschützen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schloss (Schloss-Kader)
+* Bogenschütze (Fernkampf-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Pfeil des Gerichts
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sprengpfeil&gt;</span><span style="color: #645252;font-size:18px"> Fügt gegnerischen Einheiten in einem größeren Bereich Zusatzschaden entsprechend 40 % des SCHD von &lt;Sprengpfeil&gt; zu, während ihre SCHD-Reduzierung (Einheit) für 10 Sekunden um 15 % verringert wird.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sprengpfeil&gt;</span><span style="color: #645252;font-size:18px"> Fügt gegnerischen Einheiten in einem größeren Bereich Zusatzschaden entsprechend 40 % des SCHD von &lt;Sprengpfeil&gt; zu, während ihre SCHD-Reduzierung (Einheit) für 10 Sekunden um 15 % verringert wird.</span>
 
 ### 2nd Skill (or 1st): Pfeil der Gerechtigkeit
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sprengpfeil&gt;</span><span style="color: #645252;font-size:18px"> Fügt zwei zufälligen gegnerischen Einheiten Zusatzschaden entsprechend 30 % des SCHD von &lt;Sprengpfeil&gt; zu, während ihr SCHD (Einheit) für 10 Sekunden um 15 % verringert wird.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sprengpfeil&gt;</span><span style="color: #645252;font-size:18px"> Fügt zwei zufälligen gegnerischen Einheiten Zusatzschaden entsprechend 30 % des SCHD von &lt;Sprengpfeil&gt; zu, während ihr SCHD (Einheit) für 10 Sekunden um 15 % verringert wird.</span>
 
 ### 3rd Skill (or 4th): Tempelschutz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Bonus von Hohe Moral wirkt, wird für 5 Sekunden ein Schild gewährt, der 10 % deiner max. LP entspricht. Bis zu 2 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Bonus von Hohe Moral wirkt, wird für 5 Sekunden ein Schild gewährt, der 10 % deiner max. LP entspricht. Bis zu 2 Mal stapelbar.</span>
 
 ### 4th Skill (or 3rd): Gesegneter Schutz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Bonus von Hohe Moral wirkt, werden für 10 Sekunden die eigene SCHD-Reduzierung (Einheit) und die Magieresistenz um 2 % erhöht. Bis zu 10 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Bonus von Hohe Moral wirkt, werden für 10 Sekunden die eigene SCHD-Reduzierung (Einheit) und die Magieresistenz um 2 % erhöht. Bis zu 10 Mal stapelbar.</span>
 
 ### 5th Skill (or 6th): Schussfähigkeiten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf 1-Mann- oder 4-Mann-Einheiten werden der eigene Krit. Gesamt-SCHD um 10 % und Krit. Treffer um 100 erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf 1-Mann- oder 4-Mann-Einheiten werden der eigene Krit. Gesamt-SCHD um 10 % und Krit. Treffer um 100 erhöht.</span>
 
 ### 6th Skill (or 5th): Scharfschütze-Fertigkeiten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf 1-Mann- oder 4-Mann-Einheiten werden der eigene SCHD (Einheit) um 10 % und die Durchdringung um 100 erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf 1-Mann- oder 4-Mann-Einheiten werden der eigene SCHD (Einheit) um 10 % und die Durchdringung um 100 erhöht.</span>
 
 ## Technical info
  **runart:** 0

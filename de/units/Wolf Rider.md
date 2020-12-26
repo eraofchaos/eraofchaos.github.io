@@ -3,17 +3,17 @@ title: "Wolfsreiter"
 permalink: /de/units/Wolf Rider/
 excerpt: "Einheiten Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
 unitID: 402
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Wolfsreiter"
 toc: true
 ---
 ## General information
- **Description:** Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen.
+ **Beschreibung:** Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen.
 
- **Class:** Ansturm
+ **Klasse:** Ansturm
 
- **Class Description:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
+ **Klasse Beschreibung:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
 
  **Fraction:** [Burg](/de/units/Fraction Burg)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Beschwört einen Tierbegleiter. Je niedriger die Gesundheit, desto höher der Angriff.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Tiergefährte
- **Description:** <span style="color: #645252;font-size:20px">Nach seinem Tod beschwört der Wolfsreiter 1 Warg. Warge haben </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP. Sie kämpfen bis zum Ende der Schlacht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nach seinem Tod beschwört der Wolfsreiter 1 Warg. Warge haben </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP. Sie kämpfen bis zum Ende der Schlacht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Doppelschlag
- **Description:** <span style="color: #645252;font-size:20px">Bei seinem Standardangriff greift der Wolfsreiter mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> zweimal hintereinander an. Der zweite Angriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit auf einen &lt;Doppelschlag&gt; auf 100 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bei seinem Standardangriff greift der Wolfsreiter mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> zweimal hintereinander an. Der zweite Angriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamte“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ziele steigt die Wahrscheinlichkeit auf einen &lt;Doppelschlag&gt; auf 100 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Amoklauf
- **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Wolfsreiters steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Wolfsreiters unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Wolfsreiters steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Wolfsreiters unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Blutdurst
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Wolfsreiters werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jeder verursachte kritische Treffer stellt 2 % der LP wieder her.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Wolfsreiters werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jeder verursachte kritische Treffer stellt 2 % der LP wieder her.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Kampfzelot
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Burg (Burg-Kader)
+* Ansturm (Ansturm-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Tierische Abstammung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tiergefährte&gt;</span><span style="color: #645252;font-size:18px">Erhöht Kritischer Treffer beschworener Warge um 400. Der Wolfsreiter beschwört einen weiteren Warg, wenn sein Ziel getötet wird.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tiergefährte&gt;</span><span style="color: #645252;font-size:18px">Erhöht Kritischer Treffer beschworener Warge um 400. Der Wolfsreiter beschwört einen weiteren Warg, wenn sein Ziel getötet wird.</span>
 
 ### 2nd Skill (or 1st): Mit den Wölfen heulen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tiergefährte&gt;</span><span style="color: #645252;font-size:18px">Beschwört einen Warg, der den Schaden der Einheit um 10 % erhöht. Zu Beginn der Schlacht werden 9 Warge beschworen.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tiergefährte&gt;</span><span style="color: #645252;font-size:18px">Beschwört einen Warg, der den Schaden der Einheit um 10 % erhöht. Zu Beginn der Schlacht werden 9 Warge beschworen.</span>
 
 ### 3rd Skill (or 4th): Enthusiasmus
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Wenn &lt;Amoklauf&gt; ausgelöst wird, wird das Angriffstempo des Wolfsreiters 20 Sek. lang um 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Wenn &lt;Amoklauf&gt; ausgelöst wird, wird das Angriffstempo des Wolfsreiters 20 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Blutrünstiger Amoklauf
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Wenn &lt;Amoklauf&gt; ausgelöst wird, wird Kritischer Treffer des Wolfsreiters um 400 erhöht (bleibt auch bestehen, nachdem LP geheilt wurden).</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Wenn &lt;Amoklauf&gt; ausgelöst wird, wird Kritischer Treffer des Wolfsreiters um 400 erhöht (bleibt auch bestehen, nachdem LP geheilt wurden).</span>
 
 ### 5th Skill (or 6th): Animalische Instinkte
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 5 % erhöht, wenn ein Kritischer Treffer verursacht wird.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 5 % erhöht, wenn ein Kritischer Treffer verursacht wird.</span>
 
 ### 6th Skill (or 5th): Die Führung ausbauen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Jeder kritische Treffer erhöht Kritischer Treffer um 30.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Jeder kritische Treffer erhöht Kritischer Treffer um 30.</span>
 
 ## Technical info
  **runart:** 1

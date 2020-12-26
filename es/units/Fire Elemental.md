@@ -3,17 +3,17 @@ title: "Elemental de Fuego"
 permalink: /es/units/Fire Elemental/
 excerpt: "Unidades Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Elemental de Fuego"
 toc: true
 ---
 ## General information
- **Description:** Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo.
+ **Descripción:** Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo.
 
- **Class:** Ofensa
+ **Clase:** Ofensa
 
- **Class Description:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
+ **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
  **Fraction:** [Conflujo](/es/units/Fraction Conflujo)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Otorga quemaduras, vuela por los aires todo el campo de batalla, se amplifica al matar enemigos.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+
 ## Skills
 ### Habilidad definitiva: Fuego divino
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Elementales de Fuego inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a una unidad hostil y la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quema&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Elementales de Fuego inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a una unidad hostil y la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quema&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad normal 2 : Fuerza elemental
- **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Elementales de Fuego en el campo de batalla, esta aumenta la resistencia mágica contra hechizos de fuego de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la resistencia mágica contra hechizos de fuego de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay un Elemental de Fuego en el campo de batalla, la regeneración de maná del Héroe enemigo se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Elementales de Fuego en el campo de batalla, esta aumenta la resistencia mágica contra hechizos de fuego de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la resistencia mágica contra hechizos de fuego de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay un Elemental de Fuego en el campo de batalla, la regeneración de maná del Héroe enemigo se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Conductor de energía de fuego
- **Description:** <span style="color: #645252;font-size:20px">El Elemental de Fuego restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos cuando derrota a una unidad enemiga y aumenta su ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Elemental de Fuego restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos cuando derrota a una unidad enemiga y aumenta su ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Afinidad elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Conflujo (Lista de Conflujo)
+* Ofensa (Lista de unidades ofensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fuego celestial ardiente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de habilidad al 200% del daño de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de habilidad al 200% del daño de la habilidad anterior</span>
 
 ### 2nd Skill (or 1st): Fuego rápido
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px">Inflige daño a dos unidades hostiles aleatorias</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Heavenly Fire&gt;</span><span style="color: #645252;font-size:18px">Inflige daño a dos unidades hostiles aleatorias</span>
 
 ### 3rd Skill (or 4th): Inyección elemental
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ un 50% y la absorción de vida un 10% para dos unidades ofensivas aleatorias durante 10 s cuando un Héroe lance un hechizo de fuego</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ un 50% y la absorción de vida un 10% para dos unidades ofensivas aleatorias durante 10 s cuando un Héroe lance un hechizo de fuego</span>
 
 ### 4th Skill (or 3rd): Frenesí elemental
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Tiene una probabilidad del 30% de activar &lt;Fuego Divino&gt; sobre 1 unidad hostil aleatoria cuando un Héroe amistoso lance un hechizo de fuego</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Tiene una probabilidad del 30% de activar &lt;Fuego Divino&gt; sobre 1 unidad hostil aleatoria cuando un Héroe amistoso lance un hechizo de fuego</span>
 
 ### 5th Skill (or 6th): Maldición de la llama furiosa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Duplica las bonificaciones. Las acumulaciones se mantienen</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Duplica las bonificaciones. Las acumulaciones se mantienen</span>
 
 ### 6th Skill (or 5th): Armonía de las llamas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Su efecto adicional afecta a las unidades amistosas en un área determinada</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Su efecto adicional afecta a las unidades amistosas en un área determinada</span>
 
 ## Technical info
  **runart:** 1

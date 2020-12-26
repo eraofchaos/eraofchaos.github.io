@@ -3,17 +3,17 @@ title: "Paladín"
 permalink: /es/units/Paladin/
 excerpt: "Unidades El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Paladín"
 toc: true
 ---
 ## General information
- **Description:** El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales.
+ **Descripción:** El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Castillo](/es/units/Fraction Castillo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Invoca una Comitiva de Refugio para potenciar la moral en una zona grande.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 2589.0
 
  **Base ATK:** 128.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 23.04 | 0.41 | 8.48 | 466.02 |
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
 
+## Emblemas Sagrados recomendados
+
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
+* [Lujuria](/es/Emblem/Lust/) - Caos
+
 ## Skills
 ### Habilidad definitiva: null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad normal 1 : Liderazgo
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Paladines un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Paladines un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Incentivo
- **Description:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. El Paladín otorga a las unidades amistosas en una zona grande y a sí mismo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y 500 de golpe crítico durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. El Paladín otorga a las unidades amistosas en una zona grande y a sí mismo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y 500 de golpe crítico durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Dominio inocente
- **Description:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de todas las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> si el Paladín está en el campo de batalla.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de todas las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> si el Paladín está en el campo de batalla.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Combate de asedio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de defensa
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Castillo (Lista de Castillo)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ejecución intrépida
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Por cada Supervisor del Refugio en el campo de batalla, el Supervisor del Refugio aumenta la DEF del Paladín Supremo un 15%. El Refugio restablecerá un 10% de los PV durante las 3 primera invocaciones</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Por cada Supervisor del Refugio en el campo de batalla, el Supervisor del Refugio aumenta la DEF del Paladín Supremo un 15%. El Refugio restablecerá un 10% de los PV durante las 3 primera invocaciones</span>
 
 ### 2nd Skill (or 1st): Gloria de Refugio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Para las 3 primeras invocaciones, el daño de tus unidades y la reducción de daño aumentarán un 10% durante 30 s. El Paladín Supremo invoca un Supervisor del Refugio al entrar en el campo de batalla por primera vez</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Para las 3 primeras invocaciones, el daño de tus unidades y la reducción de daño aumentarán un 10% durante 30 s. El Paladín Supremo invoca un Supervisor del Refugio al entrar en el campo de batalla por primera vez</span>
 
 ### 3rd Skill (or 4th): Lealtad y fe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Paladín aumenta un 22%. No se ve afectado por «moral alta»</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Paladín aumenta un 22%. No se ve afectado por «moral alta»</span>
 
 ### 4th Skill (or 3rd): Fe inquebrantable
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:20px">Aumenta la reducción de daño de unidad de la unidad de Paladín un 15% adicional</span><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: #645252;font-size:20px"></span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:20px">Aumenta la reducción de daño de unidad de la unidad de Paladín un 15% adicional</span><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: #645252;font-size:20px"></span>
 
 ### 5th Skill (or 6th): Perseverancia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño crítico un 50% y la tenacidad en 150. La duración de moral alta aumenta en 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño crítico un 50% y la tenacidad en 150. La duración de moral alta aumenta en 10 s</span>
 
 ### 6th Skill (or 5th): Estocada ágil
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño de unidad un 15% y la tenacidad en 150 para todas las unidades dentro del alcance. La duración de moral alta aumenta en 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño de unidad un 15% y la tenacidad en 150 para todas las unidades dentro del alcance. La duración de moral alta aumenta en 10 s</span>
 
 ## Technical info
  **runart:** 1

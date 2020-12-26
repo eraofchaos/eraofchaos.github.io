@@ -3,7 +3,7 @@ title: "Pégase"
 permalink: /fr/units/Pegasus/
 excerpt: "Unités Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire."
 unitID: 204
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Pégase"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Pégases sont des créatures légendaires de la forêt. Ce sont les compagnons des meilleurs Elfes et leur principal objectif est de garantir la paix sur leur territoire.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Protège les unités à proximité et invoque une Pégase pour vous aider.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1144.0
 
  **Base ATK:** 195.1
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Gardien de la forêt
  **Description:** <span style="color: #645252;font-size:20px">Lorsqu'une Pégase meurt, elle invoque une autre Pégase pour prendre sa place. La Pégase alors invoquée a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV. Elle demeure pendant toute la durée de la bataille.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

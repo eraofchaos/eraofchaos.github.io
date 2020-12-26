@@ -3,7 +3,7 @@ title: "Dragon vert"
 permalink: /fr/units/Green Dragon/
 excerpt: "Unités Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles."
 unitID: 207
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Dragon vert"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Dragons verts sont les gardiens de la forêt. Leur haleine acide et leurs corps imposants les rendent pratiquement invincibles.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Attaque les troupes de la ligne arrière en causant des dégâts de magie d'eau dans une large zone.
 
-## Basic stats
+## Stats de base
  **Base HP:** 4525.0
 
  **Base ATK:** 1018.2
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Torrent empoisonné
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon vert peut cracher du venin dans une large zone devant lui toutes les 30 secondes, ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités terrestres ennemies touchées. Les dégâts infligés aux cibles victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 50 %.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

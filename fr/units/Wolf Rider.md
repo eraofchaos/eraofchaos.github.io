@@ -3,7 +3,7 @@ title: "Chevaucheur de loup"
 permalink: /fr/units/Wolf Rider/
 excerpt: "Unités Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis."
 unitID: 402
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Chevaucheur de loup"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Pillards travaillent en équipe avec les loups géants apprivoisés qu'ils chevauchent. Les griffes et crocs pointus de ces bêtes terrifient encore plus leurs ennemis.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Bastion](/fr/units/Fraction Bastion)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Invoque une bête de compagnie. Plus sa santé est basse, plus son attaque est puissante.
 
-## Basic stats
+## Stats de base
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Bête de compagnie
  **Description:** <span style="color: #645252;font-size:20px">Quand il meurt, le Chevaucheur de loup invoque un Warg pour combattre à sa place. Le Warg a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV. Il demeure pendant toute la durée de la bataille.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Bastion (Groupement - Bastion)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Units Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Demon"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.592 | 0.38 | 9.2 | 448.02 |
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
+## Recommended Holy Emblems
+
+* [Greed](/Emblem/Greed/) - Chaos
+* [Lust](/Emblem/Lust/) - Chaos
+* [Ominous Sign](/Emblem/Ominous Sign/) - Evil
+
 ## Skills
 ### Ultimate Skill: Scalding Strike
  **Description:** <span style="color: #645252;font-size:20px">Demon units randomly deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> DMG to 1 hostile unit within a large range and increase their own dodge by 300 for 12s.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Inferno (Inferno Roster)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

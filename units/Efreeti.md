@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Units Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Efreeti"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
+## Recommended Holy Emblems
+
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+* [King's Calamity](/Emblem/King's Calamity/) - Evil
+
 ## Skills
 ### Ultimate Skill: Firestorm
  **Description:** <span style="color: #645252;font-size:20px">Efreeti casts Firestorm on a target area, which will deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all enemy units within the area, and cause </span><span style="color: black"><span style="color: #48b946;font-size:20px">burning</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15 seconds.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Inferno (Inferno Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

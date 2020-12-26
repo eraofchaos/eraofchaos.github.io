@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /fr/units/Gog/
 excerpt: "Unités Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat."
 unitID: 502
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Gog"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Gogs semblent peut-être douces, mais elles peuvent être très agressives en combat.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige des dégâts magiques renforcés par du feu dans une large zone.
 
-## Basic stats
+## Stats de base
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Mur de flammes
  **Description:** <span style="color: #645252;font-size:20px">La Gog crée un mur de flammes devant elle et inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies autour. Le mur de flammes dure 8 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Sirène"
 permalink: /fr/units/Mermaid/
 excerpt: "Unités Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans."
 unitID: 9905
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Sirène"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Fille de la mer, protégée par celle-ci, elle guérit ses compagnons grâce au pouvoir des océans.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Puissant guérisseur. Donne d'excellents bonus en début de combat.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
+## Emblèmes sacrés recommandés
+
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Accord de sol
  **Description:** <span style="color: #645252;font-size:20px">Lorsque la Sirène passe de l'attaque aux soins, elle restaure les PV de l'unité alliée ayant le pourcentage de PV le plus bas à hauteur de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de l'ATQ de la Sirène, et soigne une autre unité au hasard. L'effet supplémentaire peut être déclenché 3 fois. Les soins sont équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de l'ATQ de la Sirène.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Медуза"
 permalink: /ru/units/Medusa/
 excerpt: "Отряды null"
 unitID: 704
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Медуза"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Стрелковый
+ **Класс:** Стрелковый
 
- **Class Description:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Эффект окаменения. Высокий урон увеличивается с ростом вероятности критического удара.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1144.0
 
  **Base ATK:** 202.0
@@ -59,21 +59,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.36 | 0.73 | 4.16 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+
 ## Skills
 ### Совершенное умение: Каменный взгляд
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Стрела со змеиным ядом
- **Description:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Кожа разрушителя магии
- **Description:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда вражеский герой применяет заклинание, урон отряда у медуз повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда вражеский герой применяет заклинание, урон отряда у медуз повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Обратный удар
- **Description:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Урон отряда повышается на 2% в течение всего боя при каждом успешном нанесении критического удара. Эффект суммируется до 10 раз.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Урон отряда повышается на 2% в течение всего боя при каждом успешном нанесении критического удара. Эффект суммируется до 10 раз.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Подземелье (Дозор отрядов Подземелья)
+* Стрелок (Дозор стрелковых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 0

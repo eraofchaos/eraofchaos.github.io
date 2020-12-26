@@ -3,17 +3,17 @@ title: "Grifo"
 permalink: /es/units/Griffin/
 excerpt: "Unidades Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Grifo"
 toc: true
 ---
 ## General information
- **Description:** Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento.
+ **Descripción:** Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento.
 
- **Class:** Carga
+ **Clase:** Carga
 
- **Class Description:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
+ **Clase Descripción:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
 
  **Fraction:** [Castillo](/es/units/Fraction Castillo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige daño rápido al inicio de la partida. Contraataca frecuentemente e inflige daño de área.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Testigo](/es/Emblem/Witness/) - Bien
+
 ## Skills
 ### Habilidad definitiva: Contraataque en picado
- **Description:** <span style="color: #645252;font-size:20px">Cuando se ataca a los Grifos, estos tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades (el ataque normal tiene una probabilidad de activar Picado).</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se ataca a los Grifos, estos tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades (el ataque normal tiene una probabilidad de activar Picado).</span><span style="color: black">
 
 ### Habilidad normal 1 : Torre del comandante
- **Description:** <span style="color: #645252;font-size:20px">Cuando los Grifos están en el campo de batalla, el ATQ de todas tus unidades voladoras aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y su velocidad de ataque, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando los Grifos están en el campo de batalla, el ATQ de todas tus unidades voladoras aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y su velocidad de ataque, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Carga gloriosa
- **Description:** <span style="color: #645252;font-size:20px">Cuando las unidades de Grifos tengan </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">, obtienen 30 de velocidad de movimiento adicional. Aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> el daño de unidad y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> puntos el valor de golpe crítico durante 15 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando las unidades de Grifos tengan </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">, obtienen 30 de velocidad de movimiento adicional. Aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> el daño de unidad y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> puntos el valor de golpe crítico durante 15 s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Arcángel
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Grifo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga un 10% de PV adicionales a los Grifos por cada unidad voladora amistosa en el campo de batalla.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Grifo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga un 10% de PV adicionales a los Grifos por cada unidad voladora amistosa en el campo de batalla.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Combate de asedio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de defensa
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Castillo (Lista de Castillo)
+* Carga (Lista de unidades de carga)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 1

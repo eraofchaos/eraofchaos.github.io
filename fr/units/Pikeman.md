@@ -3,7 +3,7 @@ title: "Lancier"
 permalink: /fr/units/Pikeman/
 excerpt: "Unités Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple."
 unitID: 101
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Lancier"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Lanciers sont la première ligne de défense du royaume. Soldats expérimentés et fidèles à la couronne, ils ont combattu honorablement lors de grandes batailles, ce qui leur a valu les éloges du peuple.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Étourdit vos ennemis. Surtout efficace sur les grandes unités.
 
-## Basic stats
+## Stats de base
  **Base HP:** 645.0
 
  **Base ATK:** 84.4
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.192 | 0.53 | 6.2 | 116.1 |
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Nuée de lances
  **Description:** <span style="color: #645252;font-size:20px">Les Lanciers infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

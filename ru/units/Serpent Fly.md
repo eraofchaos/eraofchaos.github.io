@@ -3,17 +3,17 @@ title: "Летучий змей"
 permalink: /ru/units/Serpent Fly/
 excerpt: "Отряды Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Летучий змей"
 toc: true
 ---
 ## General information
- **Description:** Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства.
+ **Описание:** Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [Крепость](/ru/units/Fraction Крепость)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Отряды заклинателей - эксперты контроля. Уменьшает УВС врага.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1615.0
 
  **Base ATK:** 178.3
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 32.094 | 0.6 | 3.92 | 290.7 |
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+
 ## Skills
 ### Совершенное умение: Болотная чума
- **Description:** <span style="color: #645252;font-size:20px">Летучие змеи наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и заставляют ее страдать от <span style="color: #48b946;font-size:20px">чумы</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Летучие змеи наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и заставляют ее страдать от <span style="color: #48b946;font-size:20px">чумы</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Змей в воздухе
- **Description:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+45}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+45}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
 ### Обычное умение 2 : Чумной симбиоз
- **Description:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Летучие змеи получают еще +75 к критическому удару за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Летучие змеи получают еще +75 к критическому удару за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
 ### Обычное умение 3 : Слабость
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Чумной удар
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Крепость (Дозор отрядов Крепости)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 0

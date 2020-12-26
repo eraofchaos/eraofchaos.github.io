@@ -3,17 +3,17 @@ title: "Mönch"
 permalink: /de/units/Monk/
 excerpt: "Einheiten Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Mönch"
 toc: true
 ---
 ## General information
- **Description:** Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht.
+ **Beschreibung:** Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Schloss](/de/units/Fraction Schloss)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Gewährt Hohe Moral, verfügt über mächtige Heilfertigkeit.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.54 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Habgier](/de/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Gebet
- **Description:** <span style="color: #645252;font-size:20px">Mönche stellen alle 17 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP der verbündeten Einheit wieder her, die prozentual am wenigsten LP übrig hat.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Mönche stellen alle 17 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP der verbündeten Einheit wieder her, die prozentual am wenigsten LP übrig hat.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Segnung der Tapferen
- **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht verleihen Mönche allen verbündeten Einheiten in ihrem Weg </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wirkungsdauer </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht verleihen Mönche allen verbündeten Einheiten in ihrem Weg </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wirkungsdauer </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Meditation
- **Description:** <span style="color: #645252;font-size:20px">Wenn Mönche auf dem Schlachtfeld sind, steigt die Manaregeneration des Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn Mönche auf dem Schlachtfeld sind, steigt die Manaregeneration des Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Erholung
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Mönches steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Heilung um 50 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Mönches steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Heilung um 50 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schloss (Schloss-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Inquisition des Heiligen Lichts
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Segnung der Tapferen&gt;</span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Zu Beginn des Kampfes erhöht der Mönch den Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 60 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes fügt jede Mönch-Einheit gegnerischen Inferno-Einheiten ein Mal alle 2 Sekunden Schaden in Höhe von 10 % ihres ANG zu.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Segnung der Tapferen&gt;</span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Zu Beginn des Kampfes erhöht der Mönch den Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 60 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes fügt jede Mönch-Einheit gegnerischen Inferno-Einheiten ein Mal alle 2 Sekunden Schaden in Höhe von 10 % ihres ANG zu.</span>
 
 ### 2nd Skill (or 1st): Segen des Heiligen Lichts
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Segnung der Tapferen&gt;</span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Ist der Mönch auf dem Schlachtfeld anwesend, erhöht sich der Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 120 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes heilt jede Mönch-Einheit bei verbündeten Schloss-Einheiten ein Mal alle 2 Sekunden LP in Höhe von 10 % ihres ANG.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Segnung der Tapferen&gt;</span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Ist der Mönch auf dem Schlachtfeld anwesend, erhöht sich der Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 120 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes heilt jede Mönch-Einheit bei verbündeten Schloss-Einheiten ein Mal alle 2 Sekunden LP in Höhe von 10 % ihres ANG.</span>
 
 ### 3rd Skill (or 4th): Strahlender Segen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch das Mana der Helden um 10. Die AKZ beträgt 3 Sekunden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch das Mana der Helden um 10. Die AKZ beträgt 3 Sekunden.</span>
 
 ### 4th Skill (or 3rd): Majestätische Gnade
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch die Mana-Erholung um 0,5. Die AKZ beträgt 3 Sekunden. Der Mana-Erholung-Buff kann bis zu 4 Mal ausgelöst werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch die Mana-Erholung um 0,5. Die AKZ beträgt 3 Sekunden. Der Mana-Erholung-Buff kann bis zu 4 Mal ausgelöst werden.</span>
 
 ### 5th Skill (or 6th): Weises Urteil
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Erholung&gt;</span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, beginnt zudem ein 3-stufiger Angriff gegen die gegnerische Einheit mit den geringsten LP, der Schaden in Höhe von 150 % des eigenen ANG zufügt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erholung&gt;</span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, beginnt zudem ein 3-stufiger Angriff gegen die gegnerische Einheit mit den geringsten LP, der Schaden in Höhe von 150 % des eigenen ANG zufügt.</span>
 
 ### 6th Skill (or 5th): Psalm der Messe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Erholung&gt;</span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, wird außerdem die verbündete Einheit mit den geringsten LP in 3 Stufen um LP in Höhe von 150 % des eigenen ANG geheilt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erholung&gt;</span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, wird außerdem die verbündete Einheit mit den geringsten LP in 3 Stufen um LP in Höhe von 150 % des eigenen ANG geheilt.</span>
 
 ## Technical info
  **runart:** 0

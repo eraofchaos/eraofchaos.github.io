@@ -3,17 +3,17 @@ title: "Unknown_TEAM_9902"
 permalink: /ru/units/Regnan Archer/
 excerpt: "Отряды Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Unknown_TEAM_9902"
 toc: true
 ---
 ## General information
- **Description:** Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир.
+ **Описание:** Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир.
 
- **Class:** Стрелковый
+ **Класс:** Стрелковый
 
- **Class Description:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Критические удары и пробивание. Боевой жнец.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1245.0
 
  **Base ATK:** 235.5
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: Смертоносная стрела
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Обучение тактике
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : Приливный гигантский арбалет
- **Description:** <span style="color: #645252;font-size:20px">Регнанские лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к урону. В начале боя наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере 25% от максимума ОЗ 2 случайным отрядам с их </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлением</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 8 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1.5+3.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к урону. В начале боя наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере 25% от максимума ОЗ 2 случайным отрядам с их </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлением</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 8 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Огневая поддержка
- **Description:** <span style="color: #645252;font-size:20px">Выполняется атака на вражеский отряд с самым низким процентом ОЗ, наносящая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и снижающая ЗЩТ цели на 30%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Выполняется атака на вражеский отряд с самым низким процентом ОЗ, наносящая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и снижающая ЗЩТ цели на 30%.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Отряд Убежища (Дозор отрядов Убежища)
+* Стрелок (Дозор стрелковых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 0

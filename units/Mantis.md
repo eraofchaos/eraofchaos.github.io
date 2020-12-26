@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Units  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force."
 unitID: 209
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Mantis"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
   | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Green Prophet](/Emblem/Green Prophet/) - Goodness
+
 ## Skills
 ### Ultimate Skill: sonic cutting
  **Description:** <span style="color: #645252;font-size:20px">Every three normal attacks will deal an additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack damage and </span><span style="color: black"> <span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Max life damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"Bleed\"</span><span style="color: black">[ color=645252,fontsize=20]Increase damage dealt by units by 50% and reduce their defense by 120 points and 4% Corps Immunity and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable. Stacks up to 10 layers and deals an additional 40% attack damage to enemy regiments within the target area</span><span style="color: black">.
@@ -79,6 +85,14 @@ toc: true
 
 ### Regular Skill 6 :  Forest of Spirituality
  **Description:** <span style="color: #645252;font-size:20px">Increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 Barricade Corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*20+300}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value. At the 6th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Forest of Spiritual Source\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field The effect grows with skill level, lasts 15 seconds, and is triggered every 30 seconds thereafter</span><span style="color: black">.
+
+## Relevance
+### Roster Connection
+
+* Rampart (Rampart Roster)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

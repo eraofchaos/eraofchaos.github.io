@@ -3,17 +3,17 @@ title: "Zwerg"
 permalink: /de/units/Dwarf/
 excerpt: "Einheiten Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Zwerg"
 toc: true
 ---
 ## General information
- **Description:** Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen.
+ **Beschreibung:** Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Schutzwall](/de/units/Fraction Schutzwall)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Erhöht die Gesundheit der gesamten Einheit und reduziert den magischen Schaden, den deine Einheiten um sie herum erleiden.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.38 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.4 | 9.13 | 264.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Zwergengebrüll
- **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöhen Zwerge die LP aller verbündeten Einheiten in einem großen Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+15.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ihre Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Bonus gilt die gesamte Schlacht über.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöhen Zwerge die LP aller verbündeten Einheiten in einem großen Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+15.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ihre Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Bonus gilt die gesamte Schlacht über.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Peinigen
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Zwergs verursacht mit einer bestimmten Wahrscheinlichkeit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an seinen Zielen. Außerdem kann er sie 2 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäuben&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff des Zwergs verursacht mit einer bestimmten Wahrscheinlichkeit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an seinen Zielen. Außerdem kann er sie 2 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäuben&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Wütender Schrei
- **Description:** <span style="color: #645252;font-size:20px">&lt;Zwergengebrüll&gt; erhöht die LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+3.6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und den Schaden der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">&lt;Zwergengebrüll&gt; erhöht die LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+3.6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und den Schaden der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Magische Resistenz
- **Description:** <span style="color: #645252;font-size:20px">Zwerge bieten Deckung, die deinen Einheiten dahinter einen Bonus von 30 % auf ihre Magieresistenz gewährt. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zwerge bieten Deckung, die deinen Einheiten dahinter einen Bonus von 30 % auf ihre Magieresistenz gewährt. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Hasszeichen
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schutzwall (Schutzwall-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 1

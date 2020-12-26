@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
+## Recommended Holy Emblems
+
+* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+
 ## Skills
 ### Ultimate Skill: null
  **Description:** 
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Rampart (Rampart Roster)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

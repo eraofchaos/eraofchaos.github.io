@@ -3,7 +3,7 @@ title: "Golem dragon"
 permalink: /fr/units/Dragon Golem/
 excerpt: "Unités L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable."
 unitID: 609
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Golem dragon"
 toc: true
@@ -14,9 +14,9 @@ toc: true
 ## General information
  **Description:** L'invention ultime, fruit du savoir-faire des Nains. Chaque partie est une combinaison parfaite entre technologie et magie, et est remplie d'un pouvoir inépuisable.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Protection de groupe en début de combat qui réduit les dégâts subis. La défense ultime et indestructible de la ligne arrière. Contrôle à distance et intimide toutes les unités sur le champ de bataille.
 
-## Basic stats
+## Stats de base
  **Base HP:** 9616.7
 
  **Base ATK:** 396.0
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 71.28 | 0.48 | 9.92 | 1731.006 |
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Capacité ultime: Vertige pulsatoire
  **Description:** <span style="color: #645252;font-size:20px">Le Golem dragon lance Vertige pulsatoire toutes les 15 secondes, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à toutes les unités de mêlée ennemies, ainsi qu'un <span style="color: #48b946;font-size:20px">&lt;Étourdissement&gt;</span><span style="color: black"> de 2 secondes et une <span style="color: #48b946;font-size:20px">&lt;Paralysie&gt;</span><span style="color: black"> de 5 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence normale 6 : Roue du temps
  **Description:** <span style="color: #645252;font-size:20px">La résistance aux dégâts du Golem dragon augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et sa ténacité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"> quand 3 unités de la Tour sont déployées. Quand le Golem dragon déclenche <span style="color: #645252;font-size:20px">&lt;Éveil magique&gt;, il peut révéler un </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Domaine temporel&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> qui s'étend au fur et à mesure que le niveau de la compétence augmente. Le domaine disparaît après 15 secondes. Le temps de recharge est de 30 secondes.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Élémentaire de mer"
 permalink: /fr/units/Sea Elemental/
 excerpt: "Unités Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis."
 unitID: 9903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Élémentaire de mer"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Né dans l'immensité de la mer, l'esprit des profondeurs contrôle le pouvoir des océans et peut l'employer pour détruire ses ennemis.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Puissant contrôle de combat. Affaiblit constamment les ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1446.0
 
  **Base ATK:** 201.8
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Spirale temporelle
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de mer crée sur le sol un maelstrom de 10 secondes toutes les 30 secondes, diminuant la vitesse d'ATQ des ennemis à portée de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par seconde. Le maelstrom inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts aux ennemis lorsqu'il se dissipe.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

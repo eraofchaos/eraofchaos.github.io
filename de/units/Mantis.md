@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /de/units/Mantis/
 excerpt: "Einheiten  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force."
 unitID: 209
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Mantis"
 toc: true
@@ -12,11 +12,11 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:**  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force.
+ **Beschreibung:**  A huge, snowy, razor-sharp creature of pride as a legendary creature, the elves of Woori gave the mantis a strong and resilient life force.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Schutzwall](/de/units/Fraction Schutzwall)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** 
 
-## Basic stats
+## Grundwerte
  **Base HP:** 6336.0
 
  **Base ATK:** 1140.4
@@ -58,27 +58,41 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
   | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
+
 ## Skills
 ### Ultimative Fähigkeit: sonic cutting
- **Description:** <span style="color: #645252;font-size:20px">Every three normal attacks will deal an additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack damage and </span><span style="color: black"> <span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Max life damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"Bleed\"</span><span style="color: black">[ color=645252,fontsize=20]Increase damage dealt by units by 50% and reduce their defense by 120 points and 4% Corps Immunity and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable. Stacks up to 10 layers and deals an additional 42% attack damage to enemy regiments within the target area</span><span style="color: black">.
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Every three normal attacks will deal an additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack damage and </span><span style="color: black"> <span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Max life damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"Bleed\"</span><span style="color: black">[ color=645252,fontsize=20]Increase damage dealt by units by 50% and reduce their defense by 120 points and 4% Corps Immunity and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable. Stacks up to 10 layers and deals an additional 42% attack damage to enemy regiments within the target area</span><span style="color: black">.
 
 ### Gewöhnliche Fähigkeit 1 :  Attack first
- **Description:** <span style="color: #645252;font-size:20px">Corps damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, armor break value increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. =48b946,fontsize=20]{($level+$ulevel)*15+75}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Add 4 seconds to the cooldown of the enemy hero's move spells. Praying Mantis has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+14}%</span><span style="color: black"><span style="color: #645252;font-size:22px">probability of being immune to damage caused by Ground Corps</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Corps damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, armor break value increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. =48b946,fontsize=20]{($level+$ulevel)*15+75}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Add 4 seconds to the cooldown of the enemy hero's move spells. Praying Mantis has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+14}%</span><span style="color: black"><span style="color: #645252;font-size:22px">probability of being immune to damage caused by Ground Corps</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 :  Hegemony
- **Description:** <span style="color: #645252;font-size:20px">Praying Mantis Immunity</span><span style="color: black"><span style="color: #48b946;font-size:20px">Petrify</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Disease</span><span style="color: black"> <span style="color: #645252;font-size:20px">Effect. For each Barrier Corps present, Mantis increases </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack Speed and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage. When attacking, it disperses the negative status of itself and one of its own Barrier Corps within a certain range and provides </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+3}%</span><span style="color: black"><span style="color: #645252;font-size:20px">%</span><span style="color: black"><span style="color: #645252;font-size:20px">of the maximum life value of the </span><span style="color: black"><span style="color: #48b946;font-size:20px">Corps. 48b946,fontsize=20] Shield of Hegemony </span><span style="color: black"><span style="color: #645252;font-size:20px"> (cannot be dispelled), up to 3 layers, cooldown 8 seconds. The mantis provides itself with </span><span style="color: black"><span style="color: #48b946;font-size:22px">\"Shield of Dominance\"</span><span style="color: black"> at the start of the game.
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Praying Mantis Immunity</span><span style="color: black"><span style="color: #48b946;font-size:20px">Petrify</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Disease</span><span style="color: black"> <span style="color: #645252;font-size:20px">Effect. For each Barrier Corps present, Mantis increases </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack Speed and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage. When attacking, it disperses the negative status of itself and one of its own Barrier Corps within a certain range and provides </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+3}%</span><span style="color: black"><span style="color: #645252;font-size:20px">%</span><span style="color: black"><span style="color: #645252;font-size:20px">of the maximum life value of the </span><span style="color: black"><span style="color: #48b946;font-size:20px">Corps. 48b946,fontsize=20] Shield of Hegemony </span><span style="color: black"><span style="color: #645252;font-size:20px"> (cannot be dispelled), up to 3 layers, cooldown 8 seconds. The mantis provides itself with </span><span style="color: black"><span style="color: #48b946;font-size:22px">\"Shield of Dominance\"</span><span style="color: black"> at the start of the game.
 
 ### Gewöhnliche Fähigkeit 3 :  Stalking
- **Description:** <span style="color: #645252;font-size:20px">When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"slowdown\" </span><span style="color: black"><span style="color: #645252;font-size:20px">status targets, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Chances are <span style="color: #48b946;font-size:20px">Stalking</span><span style="color: black"> effect lasts for 3 seconds and cools down for 6 seconds on 2 enemy corps within its small area. When a Barrier Corps gains </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"Shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, it will increase Mantis Corps damage by 0.5%, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack speed and</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value for 10 seconds, this effect can be stacked up to 50 layers </span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"slowdown\" </span><span style="color: black"><span style="color: #645252;font-size:20px">status targets, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Chances are <span style="color: #48b946;font-size:20px">Stalking</span><span style="color: black"> effect lasts for 3 seconds and cools down for 6 seconds on 2 enemy corps within its small area. When a Barrier Corps gains </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"Shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, it will increase Mantis Corps damage by 0.5%, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack speed and</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value for 10 seconds, this effect can be stacked up to 50 layers </span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Hasszeichen
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 6 :  Forest of Spirituality
- **Description:** <span style="color: #645252;font-size:20px">Increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 Barricade Corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*20+300}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value. At the 6th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Forest of Spiritual Source\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field The effect grows with skill level, lasts 15 seconds, and is triggered every 32 seconds thereafter</span><span style="color: black">.
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 Barricade Corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*20+300}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value. At the 6th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Forest of Spiritual Source\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field The effect grows with skill level, lasts 15 seconds, and is triggered every 32 seconds thereafter</span><span style="color: black">.
+
+## Relevanz
+### Kaderverbindung
+
+* Schutzwall (Schutzwall-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Gleißen des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Präzision von Feinden mit „Blindheit“ zusätzlich um 1.000.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Präzision von Feinden mit „Blindheit“ zusätzlich um 1.000.</span>
 
 ### 2nd Skill (or 1st): Wille des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Wirkt im Gefecht „Blenden“.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blenden&gt;</span><span style="color: #645252;font-size:18px">Wirkt im Gefecht „Blenden“.</span>
 
 ### 3rd Skill (or 4th): Sechster Sinn
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit des Schilds wird auf 200 % der Wahrscheinlichkeit der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit des Schilds wird auf 200 % der Wahrscheinlichkeit der vorherigen Fähigkeit erhöht.</span>
 
 ### 4th Skill (or 3rd): Macht der Koordination
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schimmernde Silhouette&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 5th Skill (or 6th): Führung des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Das Einhorn erhöht den Schaden aller verbündeter Einheiten 20 Sek. lang um 10 %, wenn die Zieleinheit getötet wird. Der Effekt ist 3 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Das Einhorn erhöht den Schaden aller verbündeter Einheiten 20 Sek. lang um 10 %, wenn die Zieleinheit getötet wird. Der Effekt ist 3 Mal stapelbar.</span>
 
 ### 6th Skill (or 5th): Schutz des heiligen Geists
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit getötet wird, verleiht das Einhorn allen verbündeten Einheiten einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tapferer Anführer&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit getötet wird, verleiht das Einhorn allen verbündeten Einheiten einen Schild, der Schaden in Höhe von 6 % der max. LP absorbiert.</span>
 
 ## Technical info
  **runart:** 1

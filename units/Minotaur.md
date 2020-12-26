@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Minotaur"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
+## Recommended Holy Emblems
+
+* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
+* [Gear of Time](/Emblem/Gear of Time/) - Goodness
+* [Lust](/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Whirlwind
  **Description:** <span style="color: #645252;font-size:20px">The Minotaur unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> to 3 random hostile units within a large range and decreases their </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK speed for 6s.</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Dungeon (Dungeon Rosters)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Units  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
 unitID: 908
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Ice Demon"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.54 | 8.12 | 1079.334 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.56 | 8.88 | 1199.26 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Arrogance](/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimate Skill:  Glacial Spur
  **Description:** <span style="color: #645252;font-size:20px">Ice Demon releases Glacier's Thorn every 11 seconds, dealing 3 </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack Damage, Glacier's Thorn Blast deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">additional attack damage to 3 enemy regiments in a larger area with </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} 48b946,fontsize=20]\"Frostbite\" </span><span style="color: black"><span style="color: #645252;font-size:20px"> effect, lasting 6 seconds. </span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Regular Skill 6 :  Arctic Field
  **Description:** <span style="color: #645252;font-size:20px">Ice Demon increases its own </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage when fighting 3 elemental camp corps. and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack Speed; </span><span style="color: black"></span><span style="color: black"><span style="color: #ffff,f"> </span><span style="color: black"></span><span style="color: black">[ color=645252,fontsize=20]At the 8th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> the \"Extreme Cold Field\" </span><span style="color: black"><span style="color: #645252;font-size:20px">Field </span><span style="color: black">[ color=645252,fontsize=20], the field effect grows with skill level and lasts 15 seconds, then triggers every 30 seconds. </span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Conflux (Conflux Roster)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

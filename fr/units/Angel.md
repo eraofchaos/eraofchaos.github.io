@@ -3,7 +3,7 @@ title: "Ange"
 permalink: /fr/units/Angel/
 excerpt: "Unités Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat."
 unitID: 107
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Ange"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Archanges, appréciés à travers le royaume, sont des symboles de force et de lumière. Capables de terrasser leurs ennemis et de ramener leurs alliés à la vie, ils sont redoutables au combat.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Ranime des troupes abattues, restaure entièrement la santé d'une unité et inflige de lourds dégâts.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Prophète vert](/fr/Emblem/Green Prophet/) - Bonté
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Condamnation
  **Description:** <span style="color: #645252;font-size:20px">Les Anges infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies au hasard et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

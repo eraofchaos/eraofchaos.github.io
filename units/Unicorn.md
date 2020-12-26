@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Unicorn"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Ominous Sign](/Emblem/Ominous Sign/) - Evil
+
 ## Skills
 ### Ultimate Skill: null
  **Description:** 
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Rampart (Rampart Roster)
+* Charging (Charging Roster)
+
+### Hero Bonus
 
 ## Talent
 

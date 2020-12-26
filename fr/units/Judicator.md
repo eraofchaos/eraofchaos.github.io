@@ -3,7 +3,7 @@ title: "Adjudicatrice"
 permalink: /fr/units/Judicator/
 excerpt: "Unités Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin."
 unitID: 109
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Adjudicatrice"
 toc: true
@@ -14,9 +14,9 @@ toc: true
 ## General information
  **Description:** Les Adjudicatrices d'Erathia dédient leurs vies à la Sainte Lumière. Ces femmes sont choisies pour leurs dons, et bénissent de lumière et de chaleur ceux qui sont dans le besoin.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Aura de groupe qui sert à restaurer les PV. L'aura protège contre les dégâts. Le sol sacré renforce vos alliés.
 
-## Basic stats
+## Stats de base
  **Base HP:** 6109.4
 
  **Base ATK:** 565.7
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Capacité ultime: Rayon du jugement
  **Description:** <span style="color: #645252;font-size:20px">L'Adjudicatrice invoque deux Rayons du jugement toutes les 25 secondes. Quand les rayons apparaissent, ils <span style="color: #48b946;font-size:20px">&lt;étourdissent&gt;</span><span style="color: black"> les ennemis à portée pendant 1 seconde, infligent une quantité de dégâts égale à <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)} %</span><span style="color: black"> des PV max de l'unité, et diminuent les soins des ennemis de <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"> pendant 8 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence normale 6 : Halo de théocratie
  **Description:** <span style="color: #645252;font-size:20px">Quand trois unités du Château sont déployées, les dégâts infligés par l'Adjudicatrice augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, et ses coups critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quand l'Adjudicatrice est en <span style="color: #48b946;font-size:20px">&lt;Exaltation&gt;</span><span style="color: black">, elle peut révéler un <span style="color: #F0F000;font-size:20px">&lt;Domaine théocratique&gt;</span><span style="color: black">, qui s'élargit au fur et à mesure que le niveau des compétences de l'unité augmente. Le domaine existe pendant 15 secondes, et a un temps de recharge de 30 secondes.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

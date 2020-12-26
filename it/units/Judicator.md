@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /it/units/Judicator/
 excerpt: "Unità Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Giudice"
 toc: true
@@ -12,11 +12,11 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:** Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi.
+ **Descrizione:** Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Castello](/it/units/Fraction Castello)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Un'Aura in grado di ripristinare PF a gruppi di unità. L'Aura protegge dai danni. Il terreno sacro potenzia i tuoi alleati.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 6109.4
 
  **Base ATK:** 565.7
@@ -58,27 +58,41 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
+## Emblemi sacri consigliati
+
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+* [Avarizia](/it/Emblem/Greed/) - Caos
+
 ## Skills
 ### Tecnica suprema: Raggio del Giudizio
- **Description:** <span style="color: #645252;font-size:20px">Il Giudice evoca 2 &lt;Raggi del Giudizio&gt; ogni 25 secondi. I Raggi <span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"> le unità nemiche nell'area per 1 secondo, infliggono danni pari a <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> dei PF massimi, e riducono le cure ricevute dalle unità nemiche (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black">) per 8 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Giudice evoca 2 &lt;Raggi del Giudizio&gt; ogni 25 secondi. I Raggi <span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"> le unità nemiche nell'area per 1 secondo, infliggono danni pari a <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> dei PF massimi, e riducono le cure ricevute dalle unità nemiche (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black">) per 8 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Benedizione
- **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, il Giudice applica <span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"> a tutte le unità alleate per 10 secondi. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Il Giudice applica </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate di fronte a sé ogni <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> secondi. L'effetto dura 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, il Giudice applica <span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"> a tutte le unità alleate per 10 secondi. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Il Giudice applica </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate di fronte a sé ogni <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> secondi. L'effetto dura 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Benedizione della luce
- **Description:** <span style="color: #645252;font-size:20px">La prima volta che i PF di un'unità alleata scendono sotto il 25%, il Giudice lancia <span style="color: #48b946;font-size:20px">&lt;Luce protettrice&gt;</span><span style="color: black"> per difendere i compagni per <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> secondi. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Contro le unità Inferno, il Giudice ottiene DAN aumentato del 30% e Rid DAN aumentata del 50%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La prima volta che i PF di un'unità alleata scendono sotto il 25%, il Giudice lancia <span style="color: #48b946;font-size:20px">&lt;Luce protettrice&gt;</span><span style="color: black"> per difendere i compagni per <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> secondi. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Contro le unità Inferno, il Giudice ottiene DAN aumentato del 30% e Rid DAN aumentata del 50%.</span><span style="color: black">
 
 ### Tecnica normale 3 : null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica speciale fazione I : Assedio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero difensivo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 6 : Aura della Teocrazia
- **Description:** <span style="color: #645252;font-size:20px">Se 3 unità Castello sono sul campo di battaglia, il Giudice gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo CRIT aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Se il Giudice ha <span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black">, può evocare un'<span style="color: #F0F000;font-size:20px">&lt;Aura divina&gt;</span><span style="color: black">, la cui dimensione dipende dal livello della tecnica. L'Aura ha una durata di 15 secondi. Recupero: 30 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se 3 unità Castello sono sul campo di battaglia, il Giudice gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo CRIT aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Se il Giudice ha <span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black">, può evocare un'<span style="color: #F0F000;font-size:20px">&lt;Aura divina&gt;</span><span style="color: black">, la cui dimensione dipende dal livello della tecnica. L'Aura ha una durata di 15 secondi. Recupero: 30 secondi.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Castello (Roster Castello)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Eliminazione temeraria
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi del valoroso&gt;</span><span style="color: #645252;font-size:18px">: i Seguaci del Santuario vengono promossi a Custodi del Santuario. Per ogni Custode del Santuario presente sul campo di battaglia, la DIF del Paladino Supremo aumenta del 15%. Il Santuario ripristina il 10% dei PF per le prime 3 evocazioni.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi del valoroso&gt;</span><span style="color: #645252;font-size:18px">: i Seguaci del Santuario vengono promossi a Custodi del Santuario. Per ogni Custode del Santuario presente sul campo di battaglia, la DIF del Paladino Supremo aumenta del 15%. Il Santuario ripristina il 10% dei PF per le prime 3 evocazioni.</span>
 
 ### 2nd Skill (or 1st): Gloria del Santuario
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi del valoroso&gt;</span><span style="color: #645252;font-size:18px">: i Seguaci del Santuario vengono promossi a Custodi del Santuario. Le prime 3 evocazioni aumentano del 10% DAN e Rid DAN delle tue unità per 30 secondi. Quando entra in battaglia, il Paladino Supremo evoca un Custode del Santuario.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi del valoroso&gt;</span><span style="color: #645252;font-size:18px">: i Seguaci del Santuario vengono promossi a Custodi del Santuario. Le prime 3 evocazioni aumentano del 10% DAN e Rid DAN delle tue unità per 30 secondi. Quando entra in battaglia, il Paladino Supremo evoca un Custode del Santuario.</span>
 
 ### 3rd Skill (or 4th): Fede e lealtà
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN del Paladino aumentata del 22%. Il &lt;Morale alto&gt; non modifica questo effetto.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN del Paladino aumentata del 22%. Il &lt;Morale alto&gt; non modifica questo effetto.</span>
 
 ### 4th Skill (or 3rd): Fede incrollabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:20px">: Rid DAN del Paladino aumentata di un ulteriore 15%</span><span style="color: #645252;font-size:20px">. Effetto raddoppiato con </span><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: #645252;font-size:20px">.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:20px">: Rid DAN del Paladino aumentata di un ulteriore 15%</span><span style="color: #645252;font-size:20px">. Effetto raddoppiato con </span><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: #645252;font-size:20px">.</span>
 
 ### 5th Skill (or 6th): Perseveranza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentivo&gt;</span><span style="color: #645252;font-size:18px">: si applica a tutte le unità alleate. Aumenta il DAN CRIT del 50% e la Tenacia di 150. Durata di &lt;Morale alto&gt; aumentata di 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incentivo&gt;</span><span style="color: #645252;font-size:18px">: si applica a tutte le unità alleate. Aumenta il DAN CRIT del 50% e la Tenacia di 150. Durata di &lt;Morale alto&gt; aumentata di 10 secondi.</span>
 
 ### 6th Skill (or 5th): Contrattacco agile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentivo&gt;</span><span style="color: #645252;font-size:18px">: si applica a tutte le unità alleate. Aumenta il DAN del 15% e la Tenacia di 150 per tutte le unità nell'area. Durata di &lt;Morale alto&gt; aumentata di 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incentivo&gt;</span><span style="color: #645252;font-size:18px">: si applica a tutte le unità alleate. Aumenta il DAN del 15% e la Tenacia di 150 per tutte le unità nell'area. Durata di &lt;Morale alto&gt; aumentata di 10 secondi.</span>
 
 ## Technical info
  **runart:** 0

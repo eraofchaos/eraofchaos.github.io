@@ -3,17 +3,17 @@ title: "Aparición"
 permalink: /es/units/Wight/
 excerpt: "Unidades Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Aparición"
 toc: true
 ---
 ## General information
- **Description:** Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos.
+ **Descripción:** Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Necrópolis](/es/units/Fraction Necrópolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Silencia al enemigo que tiene delante y a todos los enemigos al morir.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 662.0
 
  **Base ATK:** 107.5
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.35 | 0.52 | 4.16 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Profeta Verde](/es/Emblem/Green Prophet/) - Bien
+* [Enfado](/es/Emblem/Anger/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Chillido horripilante
- **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Apariciones en el campo de batalla, su primer ataque </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades enemigas en una zona grande a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Apariciones en el campo de batalla, su primer ataque </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades enemigas en una zona grande a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Encarnación del horror
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el ATQ un 8% por cada unidad aliada que muera en el campo de batalla. Tiene efecto toda la batalla y se acumula hasta 10 veces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el ATQ un 8% por cada unidad aliada que muera en el campo de batalla. Tiene efecto toda la batalla y se acumula hasta 10 veces.</span><span style="color: black">
 
 ### Habilidad normal 2 : Maldición de infortunio
- **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota a una Aparición, esta </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se derrota a una Aparición, esta </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Invisibilidad
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando recibe daño de hechizo enemigo, el Héroe restaura 10 de maná.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando recibe daño de hechizo enemigo, el Héroe restaura 10 de maná.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+
+## Relevancia
+### Conexión de lista
+
+* Necrópolis (Lista de Necrópolis)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Maldición de los no muertos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Invisibilidad&gt;</span><span style="color: #645252;font-size:18px">Se duplica la resistencia mágica a la Invisibilidad. Al recibir daño de hechizo enemigo, la Aparición lanza una onda de sonido letal que inflige daño igual al 5% de los PV máximos de las unidades hostiles que no sean de Necrópolis de su fila</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Invisibilidad&gt;</span><span style="color: #645252;font-size:18px">Se duplica la resistencia mágica a la Invisibilidad. Al recibir daño de hechizo enemigo, la Aparición lanza una onda de sonido letal que inflige daño igual al 5% de los PV máximos de las unidades hostiles que no sean de Necrópolis de su fila</span>
 
 ### 2nd Skill (or 1st): Bendición letal
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Invisibility&gt;</span><span style="color: #645252;font-size:18px">Duplica la resistencia mágica de Invisibilidad. Cuando la Aparición reciba daño de hechizo de los enemigos, lanza una bendición letal que aumenta la reducción de daño de la unidad para las unidades de Necrópolis amistosas un 10%. Dura toda la batalla y se acumula hasta 3 veces</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Invisibility&gt;</span><span style="color: #645252;font-size:18px">Duplica la resistencia mágica de Invisibilidad. Cuando la Aparición reciba daño de hechizo de los enemigos, lanza una bendición letal que aumenta la reducción de daño de la unidad para las unidades de Necrópolis amistosas un 10%. Dura toda la batalla y se acumula hasta 3 veces</span>
 
 ### 3rd Skill (or 4th): Trastorno de pánico
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Las unidades silenciadas por Chillido horripilante reciben una reducción de resistencia mágica del 50% durante el silencio</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Las unidades silenciadas por Chillido horripilante reciben una reducción de resistencia mágica del 50% durante el silencio</span>
 
 ### 4th Skill (or 3rd): Dominio del chillido
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica adicional un 50% para las unidades de Necrópolis amistosas en la misma fila durante los próximos 25 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica adicional un 50% para las unidades de Necrópolis amistosas en la misma fila durante los próximos 25 s</span>
 
 ### 5th Skill (or 6th): Alma trémula
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">Cuando un Héroe amistoso lance un hechizo de tierra, la Aparición recupera 5 de maná a los Héroes y disminuye la resistencia mágica de tierra de todas las unidades hostiles un 8%. Dura toda la batalla y se acumula hasta 20 veces. El efecto no se puede disipar</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">Cuando un Héroe amistoso lance un hechizo de tierra, la Aparición recupera 5 de maná a los Héroes y disminuye la resistencia mágica de tierra de todas las unidades hostiles un 8%. Dura toda la batalla y se acumula hasta 20 veces. El efecto no se puede disipar</span>
 
 ### 6th Skill (or 5th): Escena horrorosa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">Cuando un Héroe amistoso lance un hechizo de tierra, la Aparición recupera 5 de maná a los Héroes y disminuye la resistencia mágica de tierra de los enemigos un 16%. Dura toda la batalla y se acumula hasta 6 veces. Este efecto no se puede disipar.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">Cuando un Héroe amistoso lance un hechizo de tierra, la Aparición recupera 5 de maná a los Héroes y disminuye la resistencia mágica de tierra de los enemigos un 16%. Dura toda la batalla y se acumula hasta 6 veces. Este efecto no se puede disipar.</span>
 
 ## Technical info
  **runart:** 0

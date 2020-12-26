@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Medusa"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.36 | 0.73 | 4.16 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
+## Recommended Holy Emblems
+
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+
 ## Skills
 ### Ultimate Skill: Stone Gaze
  **Description:** <span style="color: #645252;font-size:20px">The Medusa unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 random hostile unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Dungeon (Dungeon Rosters)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

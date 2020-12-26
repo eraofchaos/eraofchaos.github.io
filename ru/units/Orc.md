@@ -3,17 +3,17 @@ title: "Орк"
 permalink: /ru/units/Orc/
 excerpt: "Отряды Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Орк"
 toc: true
 ---
 ## General information
- **Description:** Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны.
+ **Описание:** Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны.
 
- **Class:** Стрелковый
+ **Класс:** Стрелковый
 
- **Class Description:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
  **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** При атаке вызывает кровотечение. Наносит высокий урон. Чем ниже здоровье, тем выше показатель атаки.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 662.0
 
  **Base ATK:** 82.7
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.73 | 4.4 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">В бою против цели с ОЗ менее 30% орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против цели с ОЗ менее 30% орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому урону.</span><span style="color: black">
 
 ### Обычное умение 1 : Срезание
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается, когда ОЗ падают ниже 35%, и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается, когда ОЗ падают ниже 35%, и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Рост живучести
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Цитадель (Дозор отрядов Цитадели)
+* Стрелок (Дозор стрелковых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 0

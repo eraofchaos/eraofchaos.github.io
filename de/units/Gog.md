@@ -3,17 +3,17 @@ title: "Gog"
 permalink: /de/units/Gog/
 excerpt: "Einheiten Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Gog"
 toc: true
 ---
 ## General information
- **Description:** Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden.
+ **Beschreibung:** Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Inferno](/de/units/Fraction Inferno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Verursacht Magieschaden in einem großen Bereich, der durch Feuer verstärkt wird.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+
 ## Skills
 ### Ultimative Fähigkeit: Feuerwand
- **Description:** <span style="color: #645252;font-size:20px">Die Gog beschwört vor sich eine Feuerwand, die gegnerischen Einheiten, die von ihr umgeben sind, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Die Feuerwand bleibt 8 Sek. lang bestehen.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Gog beschwört vor sich eine Feuerwand, die gegnerischen Einheiten, die von ihr umgeben sind, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Die Feuerwand bleibt 8 Sek. lang bestehen.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Flammende Explosion
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Gog hat eine gewisse Wahrscheinlichkeit, 3 Zielen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zuzufügen. Möglicherweise erleiden die Ziele 6 Sek. lang </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff der Gog hat eine gewisse Wahrscheinlichkeit, 3 Zielen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zuzufügen. Möglicherweise erleiden die Ziele 6 Sek. lang </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Einäscherung
- **Description:** <span style="color: #645252;font-size:20px">Der ANG der Gog steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der ANG der Gog steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Feuerphantom
- **Description:** <span style="color: #645252;font-size:20px">Die LP der Gog werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Schadensreduzierung gegen Feuerzauber wird erhöht um 40 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP der Gog werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Schadensreduzierung gegen Feuerzauber wird erhöht um 40 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Sengender Angriff
- **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
- **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Inferno (Inferno-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Brandsatz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerwand&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Dauer wird um 4 Sek. erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerwand&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Dauer wird um 4 Sek. erhöht.</span>
 
 ### 2nd Skill (or 1st): Feuerflut
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerwand&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Reichweite der Feuerwand steigt mit der Zeit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerwand&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird auf 150 % erhöht. Die Reichweite der Feuerwand steigt mit der Zeit.</span>
 
 ### 3rd Skill (or 4th): Glüh. Geheimzauber
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerphantom&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 10 % erhöht. Der Bonus wird verdoppelt gegen Einheiten mit &lt;Verbrennung&gt;.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerphantom&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 10 % erhöht. Der Bonus wird verdoppelt gegen Einheiten mit &lt;Verbrennung&gt;.</span>
 
 ### 4th Skill (or 3rd): Glühender Einblick
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerphantom&gt;</span><span style="color: #645252;font-size:18px">Die Gog erzielt einen garantierten kritischen Treffer gegen Einheiten mit „Verbrennung“.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerphantom&gt;</span><span style="color: #645252;font-size:18px">Die Gog erzielt einen garantierten kritischen Treffer gegen Einheiten mit „Verbrennung“.</span>
 
 ### 5th Skill (or 6th): Inferno-Vorhut
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Einäscherung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede Inferno-Einheit auf dem Schlachtfeld.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Einäscherung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede Inferno-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Zaubergeflecht
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Einäscherung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede verbündete Zauberer-Einheit auf dem Schlachtfeld.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Einäscherung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Gog wird um 5 % erhöht für jede verbündete Zauberer-Einheit auf dem Schlachtfeld.</span>
 
 ## Technical info
  **runart:** 0

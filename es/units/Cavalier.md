@@ -3,17 +3,17 @@ title: "Catafracto"
 permalink: /es/units/Cavalier/
 excerpt: "Unidades Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Catafracto"
 toc: true
 ---
 ## General information
- **Description:** Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo.
+ **Descripción:** Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo.
 
- **Class:** Carga
+ **Clase:** Carga
 
- **Class Description:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
+ **Clase Descripción:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
 
  **Fraction:** [Castillo](/es/units/Fraction Castillo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Carga contra tus enemigos al inicio de la batalla, dándote una ventaja.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) - Bien
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) - Neutral
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Justa
- **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Catafractos en el campo de batalla, su primer ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo, y los </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Catafractos en el campo de batalla, su primer ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo, y los </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Carga gloriosa
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la unidad de Catafractos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la unidad de Catafractos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Aniquilación rápida
- **Description:** <span style="color: #645252;font-size:20px">Cuando una unidad de Catafractos mata a un objetivo por primera vez, inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su siguiente unidad objetivo.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando una unidad de Catafractos mata a un objetivo por primera vez, inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su siguiente unidad objetivo.</span><span style="color: black">
 
 ### Habilidad normal 3 : Habilidades de Caballero
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Catafracto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y la reducción de daño de la unidad, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Catafracto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y la reducción de daño de la unidad, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Combate de asedio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de defensa
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Castillo (Lista de Castillo)
+* Carga (Lista de unidades de carga)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Habilidades de supervivencia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta los PV y la resistencia mágica un 30%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta los PV y la resistencia mágica un 30%</span>
 
 ### 2nd Skill (or 1st): Habilidades de guerra
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ y la resistencia mágica un 30% más</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ y la resistencia mágica un 30% más</span>
 
 ### 3rd Skill (or 4th): Acometida de caballero con armadura ligera
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Aniquilación rápida&gt;</span><span style="color: #645252;font-size:18px">Activa Aniquilación rápida cuando muere una unidad objetivo (excluyendo los monstruos invocados)</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Aniquilación rápida&gt;</span><span style="color: #645252;font-size:18px">Activa Aniquilación rápida cuando muere una unidad objetivo (excluyendo los monstruos invocados)</span>
 
 ### 4th Skill (or 3rd): Carga con armadura pesada
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fast Breaching&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño al 150%, tras otro asalto, y &lt;stuns&gt; a los enemigos durante 5 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fast Breaching&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño al 150%, tras otro asalto, y &lt;stuns&gt; a los enemigos durante 5 s.</span>
 
 ### 5th Skill (or 6th): Fanatismo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 20% adicional. El efecto se duplica si tiene «Moral alta»</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 20% adicional. El efecto se duplica si tiene «Moral alta»</span>
 
 ### 6th Skill (or 5th): Pensamiento apacible
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Al combatir, entra en estado de «Moral alta». Golpe crítico garantizado. El efecto dura 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Al combatir, entra en estado de «Moral alta». Golpe crítico garantizado. El efecto dura 10 s</span>
 
 ## Technical info
  **runart:** 1

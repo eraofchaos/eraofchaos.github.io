@@ -3,17 +3,17 @@ title: "Caballero Negro"
 permalink: /es/units/Black Knight/
 excerpt: "Unidades Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Caballero Negro"
 toc: true
 ---
 ## General information
- **Description:** Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino.
+ **Descripción:** Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino.
 
- **Class:** Carga
+ **Clase:** Carga
 
- **Class Description:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
+ **Clase Descripción:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
 
  **Fraction:** [Necrópolis](/es/units/Fraction Necrópolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** La mejor unidad de carga. Tiene habilidades que infligen mucho daño rápido y se hace cada vez más poderoso en combate.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Testigo](/es/Emblem/Witness/) - Bien
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Golpe crítico
- **Description:** <span style="color: #645252;font-size:20px">El Caballero Negro inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo y le inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Caballero Negro inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo y le inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Carga mortal
- **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota a un objetivo, aumenta el ATQ del Caballero Negro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el valor de golpe crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 5 veces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se derrota a un objetivo, aumenta el ATQ del Caballero Negro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el valor de golpe crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 5 veces.</span><span style="color: black">
 
 ### Habilidad normal 2 : Habilidades de Caballero
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia al daño un </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia al daño un </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Supresión terrorífica
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Caballero Negro en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un 50%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Caballero Negro en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un 50%.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+
+## Relevancia
+### Conexión de lista
+
+* Necrópolis (Lista de Necrópolis)
+* Carga (Lista de unidades de carga)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Propagación de oscuridad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Golpe Crítico&gt;</span><span style="color: #645252;font-size:18px">El objetivo aumenta a 2 unidades hostiles en una zona grande.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe Crítico&gt;</span><span style="color: #645252;font-size:18px">El objetivo aumenta a 2 unidades hostiles en una zona grande.</span>
 
 ### 2nd Skill (or 1st): Explosión de miedo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Golpe crítico&gt;</span><span style="color: #645252;font-size:18px">: El daño que inflige aumenta un 50%. Con «Moral baja», la duración aumenta a 20 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe crítico&gt;</span><span style="color: #645252;font-size:18px">: El daño que inflige aumenta un 50%. Con «Moral baja», la duración aumenta a 20 s</span>
 
 ### 3rd Skill (or 4th): Cosechar vida
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Death Charge&gt;</span><span style="color: #645252;font-size:18px">Recupera un 30% de los PV máximos y se vuelve inmune al daño de hechizo durante 7 s al matar a la unidad objetivo.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Death Charge&gt;</span><span style="color: #645252;font-size:18px">Recupera un 30% de los PV máximos y se vuelve inmune al daño de hechizo durante 7 s al matar a la unidad objetivo.</span>
 
 ### 4th Skill (or 3rd): Escudo fantasmal
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Death Charge&gt;</span><span style="color: #645252;font-size:18px">Recupera un 80% de la reducción de daño de la unidad y se vuelve inmune al daño de hechizo durante 7 s al matar a la unidad objetivo.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Death Charge&gt;</span><span style="color: #645252;font-size:18px">Recupera un 80% de la reducción de daño de la unidad y se vuelve inmune al daño de hechizo durante 7 s al matar a la unidad objetivo.</span>
 
 ### 5th Skill (or 6th): Miedo absoluto
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Supresión terrorífica&gt;</span><span style="color: #645252;font-size:18px">: Si la unidad objetivo tiene «Moral baja», el daño crítico aumenta un 50%.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Supresión terrorífica&gt;</span><span style="color: #645252;font-size:18px">: Si la unidad objetivo tiene «Moral baja», el daño crítico aumenta un 50%.</span>
 
 ### 6th Skill (or 5th): Represión sangrienta
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Supresión terrorífica&gt;</span><span style="color: #645252;font-size:18px">: Si el objetivo tiene «Moral baja», se concede un 20% adicional de absorción de vida.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Supresión terrorífica&gt;</span><span style="color: #645252;font-size:18px">: Si el objetivo tiene «Moral baja», se concede un 20% adicional de absorción de vida.</span>
 
 ## Technical info
  **runart:** 1

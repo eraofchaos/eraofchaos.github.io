@@ -3,7 +3,7 @@ title: "Druidesse"
 permalink: /fr/units/Druid/
 excerpt: "Unités Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt."
 unitID: 208
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Druidesse"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Des Elfes ayant hérité de la volonté de la nature, qui leur donne la force de protéger tous ceux qui se battent pour la forêt.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Soutient les troupes de la ligne arrière, améliore les DPS des unités alliées et immunise contre les dégâts magiques.
 
-## Basic stats
+## Stats de base
  **Base HP:** 844.0
 
  **Base ATK:** 102.6
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Capacité ultime: Appel de la forêt
  **Description:** <span style="color: #645252;font-size:20px">Après avoir rejoint la bataille, la Druidesse invoque un cercle magique qui dure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. Les unités alliées qui se tiennent dans ce cercle sont immunisées aux dégâts de sorts.</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

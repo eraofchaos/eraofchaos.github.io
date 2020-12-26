@@ -3,7 +3,7 @@ title: "Cauchemar"
 permalink: /fr/units/Nightmare/
 excerpt: "Unités Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses."
 unitID: 508
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Cauchemar"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Cauchemars vous montreront le pouvoir de l'Hadès. De telles horreurs vous hanteront jusqu'à la fin de vos jours. Ils affaiblissent leurs ennemis jusqu'à ce que ceux-ci soient envoyés dans les abysses.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Soutient les unités de défense. Améliore la puissance des unités de l'Hadès.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2691.0
 
  **Base ATK:** 84.1
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: En plein cauchemar
  **Description:** <span style="color: #645252;font-size:20px">Le Cauchemar maudit les unités ennemies à une certaine distance une fois toutes les 30 secondes. L'unité ciblée est incendiée pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes. De plus, les unités ennemies présentes à une certaine distance de l'unité ciblée voient leurs soins reçus réduits de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

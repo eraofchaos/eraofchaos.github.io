@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Naga"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Green Prophet](/Emblem/Green Prophet/) - Goodness
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Blade Dance
  **Description:** <span style="color: #645252;font-size:20px">Naga unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random enemy units within a large range and reduces their DEF by 10% for 10s. Stacks up to 4 times.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Tower (Tower Roster)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

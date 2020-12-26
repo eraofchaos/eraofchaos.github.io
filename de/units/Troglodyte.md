@@ -3,17 +3,17 @@ title: "Troglodyt"
 permalink: /de/units/Troglodyte/
 excerpt: "Einheiten Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Troglodyt"
 toc: true
 ---
 ## General information
- **Description:** Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf.
+ **Beschreibung:** Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Dungeon](/de/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Abwehr und Angriff. Verursacht zusätzlichen Schaden bei blutenden Einheiten.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
@@ -61,21 +61,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) - Neutral
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Speerformation
- **Description:** <span style="color: #645252;font-size:20px">Der Troglodyt fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es 3 Sek. lang.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Troglodyt fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es 3 Sek. lang.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Geschärft
- **Description:** <span style="color: #645252;font-size:20px">Erhöht ANG des Troglodyten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht ANG des Troglodyten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Witterung des Zauberbrechers
- **Description:** <span style="color: #645252;font-size:20px">Erhöht Magieresistenz und Schadensreduzierung des Troglodyten 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird jedes Mal verdoppelt, wenn ein gegnerischer Held einen Zauber wirkt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht Magieresistenz und Schadensreduzierung des Troglodyten 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird jedes Mal verdoppelt, wenn ein gegnerischer Held einen Zauber wirkt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Vergifteter Speer
- **Description:** <span style="color: #645252;font-size:20px">Erhöht den Schaden des Standardangriffs des Troglodyten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Ziele mit <span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht den Schaden des Standardangriffs des Troglodyten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Ziele mit <span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird um 30 % erhöht.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit : Finsterer Konflikt
- **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Dungeon (Dungeon-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Grausames Attentat
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Schadenseffekt um 50 % und das Angriffstempo um 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Schadenseffekt um 50 % und das Angriffstempo um 30 %.</span>
 
 ### 2nd Skill (or 1st): Speerformation-Schock
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Betäubungseffekt um 50 % und ABW um 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Betäubungseffekt um 50 % und ABW um 30 %.</span>
 
 ### 3rd Skill (or 4th): Scharfsinnige Berührung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Verlangsamung für den Troglodyten um 1 Sek. Während Verlangsamung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und die eigene ABW um 15 % erhöht. AKZ 15 Sek.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Verlangsamung für den Troglodyten um 1 Sek. Während Verlangsamung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und die eigene ABW um 15 % erhöht. AKZ 15 Sek.</span>
 
 ### 4th Skill (or 3rd): Geschärfte Berührung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Blutung für den Troglodyten um 1 Sek. Während Blutung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und das eigene Angriffstempo um 15 % erhöht. AKZ 15 Sek.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Blutung für den Troglodyten um 1 Sek. Während Blutung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und das eigene Angriffstempo um 15 % erhöht. AKZ 15 Sek.</span>
 
 ### 5th Skill (or 6th): Giftige Wunde
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Vergifteter Speer&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf vergiftete Einheiten wird der Zieleinheit 5 Sek. lang kontinuierlicher Schaden in Höhe von 60 % des eigenen ANG pro Sekunde zugefügt und ihr SCHD (Einheit) um 15 % verringert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Vergifteter Speer&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf vergiftete Einheiten wird der Zieleinheit 5 Sek. lang kontinuierlicher Schaden in Höhe von 60 % des eigenen ANG pro Sekunde zugefügt und ihr SCHD (Einheit) um 15 % verringert.</span>
 
 ### 6th Skill (or 5th): Tödliche Infektion
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Vergifteter Speer&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf vergiftete Einheiten wird der Zieleinheit 5 Sek. lang kontinuierlicher Schaden in Höhe von 60 % des eigenen ANG pro Sekunde zugefügt und ihre SCHD-Reduzierung (Einheit) um 15 % verringert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Vergifteter Speer&gt;</span><span style="color: #645252;font-size:18px"> Beim Angriff auf vergiftete Einheiten wird der Zieleinheit 5 Sek. lang kontinuierlicher Schaden in Höhe von 60 % des eigenen ANG pro Sekunde zugefügt und ihre SCHD-Reduzierung (Einheit) um 15 % verringert.</span>
 
 ## Technical info
  **runart:** 1

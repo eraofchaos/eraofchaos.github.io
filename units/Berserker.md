@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Units Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Berserker"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+
 ## Skills
 ### Ultimate Skill: null
  **Description:** 
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Stronghold (Stronghold Roster)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

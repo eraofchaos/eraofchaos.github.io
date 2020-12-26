@@ -3,17 +3,17 @@ title: "Catafratto"
 permalink: /it/units/Cavalier/
 excerpt: "Unità I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Catafratto"
 toc: true
 ---
 ## General information
- **Description:** I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili.
+ **Descrizione:** I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili.
 
- **Class:** Incursione
+ **Classe:** Incursione
 
- **Class Description:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
+ **Classe Descrizione:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
 
  **Fraction:** [Castello](/it/units/Fraction Castello)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Caricano i nemici all'inizio della battaglia. Utili per portarsi in vantaggio rapidamente.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
+## Emblemi sacri consigliati
+
+* [Angelo custode](/it/Emblem/Guardian Angel/) - Bontà
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) - Neutrale
+* [Superbia](/it/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Tecnica suprema: A cavallo
- **Description:** <span style="color: #645252;font-size:20px">Quando un Catafratto entra in battaglia, il suo primo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un Catafratto entra in battaglia, il suo primo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Carica gloriosa
- **Description:** <span style="color: #645252;font-size:20px">Il CRIT del Catafratto aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il CRIT del Catafratto aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 2 : Sfondamento rapido
- **Description:** <span style="color: #645252;font-size:20px">La prima volta che i Catafratti uccidono un'unità bersaglio, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio successivo.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La prima volta che i Catafratti uccidono un'unità bersaglio, infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio successivo.</span><span style="color: black">
 
 ### Tecnica normale 3 : Abilità a cavallo
- **Description:** <span style="color: #645252;font-size:20px">I Catafratti godono di un aumento di PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Catafratti godono di un aumento di PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Assedio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero difensivo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Castello (Roster Castello)
+* Incursione (Roster unità di incursione)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sopravvivenza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta PF e resistenza magica del 30%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta PF e resistenza magica del 30%.</span>
 
 ### 2nd Skill (or 1st): Tecniche belliche
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta ATT e resistenza magica di un ulteriore 30%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta ATT e resistenza magica di un ulteriore 30%.</span>
 
 ### 3rd Skill (or 4th): Assalto Leggero
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: attiva Sfondamento rapido per ogni bersaglio ucciso (esclusi i mostri evocati).</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: attiva Sfondamento rapido per ogni bersaglio ucciso (esclusi i mostri evocati).</span>
 
 ### 4th Skill (or 3rd): Assalto pesante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: ogni assalto aumenta il danno al 150% e &lt;stordisce&gt; i nemici per 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: ogni assalto aumenta il danno al 150% e &lt;stordisce&gt; i nemici per 5 secondi.</span>
 
 ### 5th Skill (or 6th): Fanatismo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 20%. Effetto raddoppiato con &lt;Morale alto&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 20%. Effetto raddoppiato con &lt;Morale alto&gt;.</span>
 
 ### 6th Skill (or 5th): Pace mentale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, ottiene &lt;Morale alto&gt;. Infliggi colpi critici garantiti. L'effetto dura 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, ottiene &lt;Morale alto&gt;. Infliggi colpi critici garantiti. L'effetto dura 10 secondi.</span>
 
 ## Technical info
  **runart:** 1

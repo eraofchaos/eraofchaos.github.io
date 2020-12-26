@@ -3,7 +3,7 @@ title: "Wivern"
 permalink: /fr/units/Wyvern/
 excerpt: "Unités Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit."
 unitID: 806
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Wivern"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Une chose toxique et difforme ronge le marais. Les légendes racontent que c'est le marais lui-même qui aurait vomi le miasme virulent qui l'envahit.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Forteresse](/fr/units/Fraction Forteresse)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Unité de DPS. Peut répandre la peste de différentes façons.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5544.0
 
  **Base ATK:** 500.0
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 90.0 | 0.62 | 5.6 | 997.92 |
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Crachat de venin
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 21 secondes, la Wivern crache son venin sur sa cible, causant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*3+37))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies situées dans un certain rayon, et leur infligeant <span style="color: #48b946;font-size:20px">Peste</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. (Les dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Peste</span><span style="color: black"><span style="color: #645252;font-size:20px"> infligés par la Vouivre augmentent.)</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Forteresse (Groupement - Forteresse)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

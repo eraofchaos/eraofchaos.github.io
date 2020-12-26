@@ -3,17 +3,17 @@ title: "Sirena"
 permalink: /es/units/Mermaid/
 excerpt: "Unidades El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Sirena"
 toc: true
 ---
 ## General information
- **Description:** El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano.
+ **Descripción:** El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Cala](/es/units/Fraction Cala)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Sanadora potente. Otorga grandes ventajas al inicio de la batalla.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
+## Emblemas Sagrados recomendados
+
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Envidia](/es/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Nota Re
- **Description:** <span style="color: #645252;font-size:20px">Cuando los ataques de la Sirena cambian a ser curativos, restauran PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ de la Sirena a la unidad amistosa con el porcentaje de PV más bajo y a una unidad aleatoria más. El efecto adicional se puede activar 3 veces. La curación equivale al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ de la Sirena.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando los ataques de la Sirena cambian a ser curativos, restauran PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ de la Sirena a la unidad amistosa con el porcentaje de PV más bajo y a una unidad aleatoria más. El efecto adicional se puede activar 3 veces. La curación equivale al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ de la Sirena.</span><span style="color: black">
 
 ### Habilidad normal 1 : Sonido duradero
- **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Sirena aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de todas las unidades amistosas. Cada 2 s, se pierde un 2% del daño de la unidad y 50 de golpe crítico. Esto ocurre un máximo de 10 veces. El efecto dura 20 s. Para la facción de la Cala, la duración se duplica y la reducción es la mitad.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Sirena aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de todas las unidades amistosas. Cada 2 s, se pierde un 2% del daño de la unidad y 50 de golpe crítico. Esto ocurre un máximo de 10 veces. El efecto dura 20 s. Para la facción de la Cala, la duración se duplica y la reducción es la mitad.</span><span style="color: black">
 
 ### Habilidad normal 2 : null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad normal 3 : Canto Azur
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la curación de la Sirena un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando la Sirena toca &lt;D Chord&gt;, elimina todas las penalizaciones de la unidad amistosa con el porcentaje de PV más bajo.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la curación de la Sirena un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando la Sirena toca &lt;D Chord&gt;, elimina todas las penalizaciones de la unidad amistosa con el porcentaje de PV más bajo.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Cuerpo calmado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto pirata
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Cala (Lista de Cala)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Descripción:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Descripción:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Descripción:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Descripción:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Descripción:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Descripción:** 
 
 ## Technical info
  **runart:** 0

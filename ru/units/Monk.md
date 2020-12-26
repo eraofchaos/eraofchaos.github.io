@@ -3,17 +3,17 @@ title: "Монах"
 permalink: /ru/units/Monk/
 excerpt: "Отряды Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения."
 unitID: 105
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Монах"
 toc: true
 ---
 ## General information
- **Description:** Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения.
+ **Описание:** Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [Замок](/ru/units/Fraction Замок)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** null
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.54 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Алчность](/ru/Emblem/Greed/) - Хаос
+
 ## Skills
 ### Совершенное умение: Молитва
- **Description:** <span style="color: #645252;font-size:20px">Монахи восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ у союзного отряда с самым низким процентом ОЗ каждые 17 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Монахи восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ у союзного отряда с самым низким процентом ОЗ каждые 17 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Благословения отважного
- **Description:** <span style="color: #645252;font-size:20px">После начала боя монахи наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">После начала боя монахи наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Когда монахи на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости восстановления заклинаний.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда монахи на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости восстановления заклинаний.</span><span style="color: black">
 
 ### Обычное умение 3 : Восстановление
- **Description:** <span style="color: #645252;font-size:20px">Монахи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 50%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Монахи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 50%.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Замок (Дозор отрядов Замка)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Инквизиция священного света
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Благословения отважного&gt;</span><span style="color: #645252;font-size:18px">: каждые 30 сек. накладывает на союзные отряды в значительном радиусе от себя эффект «Высокий боевой дух» на 10 сек. В начале боя монахи повышают крит. урон и эффективность лечения всех союзных отрядов на 20%. Эффект длится 60 сек. В первые 60 сек. боя каждый монах раз в две секунды наносит вражеским существам Инферно урон в 10% от АТК.
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Благословения отважного&gt;</span><span style="color: #645252;font-size:18px">: каждые 30 сек. накладывает на союзные отряды в значительном радиусе от себя эффект «Высокий боевой дух» на 10 сек. В начале боя монахи повышают крит. урон и эффективность лечения всех союзных отрядов на 20%. Эффект длится 60 сек. В первые 60 сек. боя каждый монах раз в две секунды наносит вражеским существам Инферно урон в 10% от АТК.
 
 ### 2nd Skill (or 1st): Благословение священного света
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Милость света
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Медитация&gt;</span><span style="color: #645252;font-size:18px">: когда монахи получают «Высокий боевой дух», критический удар всех союзных отрядов повышается на 200 ед. Эффект длится до конца боя, но не суммируется. Герои также получают +10 ОМ. Восстановление: 3 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Медитация&gt;</span><span style="color: #645252;font-size:18px">: когда монахи получают «Высокий боевой дух», критический удар всех союзных отрядов повышается на 200 ед. Эффект длится до конца боя, но не суммируется. Герои также получают +10 ОМ. Восстановление: 3 сек.</span>
 
 ### 4th Skill (or 3rd): Всеобщая благодать
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): Святое учение
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): Месса
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Восстановление&gt;</span><span style="color: #645252;font-size:18px">: в начале боя монахи повышают эффективность лечения всех союзных отрядов на 20%. Прочитав молитву, они дополнительно исцеляют союзный отряд с минимальным здоровьем на 150% от тройной АТК.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Восстановление&gt;</span><span style="color: #645252;font-size:18px">: в начале боя монахи повышают эффективность лечения всех союзных отрядов на 20%. Прочитав молитву, они дополнительно исцеляют союзный отряд с минимальным здоровьем на 150% от тройной АТК.</span>
 
 ## Technical info
  **runart:** 0

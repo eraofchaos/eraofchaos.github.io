@@ -3,17 +3,17 @@ title: "Pesadilla"
 permalink: /es/units/Nightmare/
 excerpt: "Unidades La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Pesadilla"
 toc: true
 ---
 ## General information
- **Description:** La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo.
+ **Descripción:** La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Infierno](/es/units/Fraction Infierno)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Apoyo de defensa. Aumenta el Poder general de las unidades del Infierno.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 2691.0
 
  **Base ATK:** 84.1
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Enfado](/es/Emblem/Anger/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Atrapado en una pesadilla
- **Description:** <span style="color: #645252;font-size:20px">Pesadilla maldice a las unidades hostiles a cierta distancia una vez cada 30 segundos, quemando a la unidad objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s y reduciendo la curación que reciben las unidades enemigas a cierta distancia de la unidad objetivo en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Pesadilla maldice a las unidades hostiles a cierta distancia una vez cada 30 segundos, quemando a la unidad objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s y reduciendo la curación que reciben las unidades enemigas a cierta distancia de la unidad objetivo en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Atrapapesadillas
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la DEF de Pesadilla en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada vez que Pesadilla ataca a un enemigo, disminuye la reducción de daño de la unidad enemiga en un 2% durante 10 s (se acumula hasta 15 veces). Este efecto no se puede disipar.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la DEF de Pesadilla en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada vez que Pesadilla ataca a un enemigo, disminuye la reducción de daño de la unidad enemiga en un 2% durante 10 s (se acumula hasta 15 veces). Este efecto no se puede disipar.</span><span style="color: black">
 
 ### Habilidad normal 2 : null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad normal 3 : null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad especial de la facción I : Golpe asador
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de resistencia
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Infierno (Lista de Infierno)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Descripción:** 
 
 ### 2nd Skill (or 1st): 
- **Description:** 
+ **Descripción:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Descripción:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Descripción:** 
 
 ### 5th Skill (or 6th): 
- **Description:** 
+ **Descripción:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Descripción:** 
 
 ## Technical info
  **runart:** 1

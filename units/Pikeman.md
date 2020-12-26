@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Pikeman"
 toc: true
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.192 | 0.53 | 6.2 | 116.1 |
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
 
+## Recommended Holy Emblems
+
+* [Guardian Angel](/Emblem/Guardian Angel/) - Goodness
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Spear Array
  **Description:** <span style="color: #645252;font-size:20px">Pikemen deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Castle (Castle Roster)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Zentaur"
 permalink: /de/units/Centaur/
 excerpt: "Einheiten Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Zentaur"
 toc: true
 ---
 ## General information
- **Description:** Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren.
+ **Beschreibung:** Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Schutzwall](/de/units/Fraction Schutzwall)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Verursacht Verlangsamung bei Gegnern in Reichweite. Je mehr Abwehr-Einheiten in der Schlacht sind, desto stärker werden sie.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 2691.0
 
  **Base ATK:** 111.0
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
+
 ## Skills
 ### Ultimative Fähigkeit: Kampfstampfer
- **Description:** <span style="color: #645252;font-size:20px">Der Zentaur verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden bei allen benachbarten gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 15 Sek. lang.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Zentaur verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden bei allen benachbarten gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 15 Sek. lang.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Stark
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Zentauren steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die ABW wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Zentauren steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die ABW wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Wildheit
- **Description:** <span style="color: #645252;font-size:20px">Der Schadensbonus des Zentauren steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Sein Standardangriff verursacht 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schadensbonus des Zentauren steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Sein Standardangriff verursacht 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Furchtloser Anführer
- **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung der Zentauren-Einheit steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Zentaur erhält einen Bonus von 2 % der Schadensreduzierung der Einheit für jede verbündete Abwehr-Einheit auf dem Schlachtfeld.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung der Zentauren-Einheit steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Zentaur erhält einen Bonus von 2 % der Schadensreduzierung der Einheit für jede verbündete Abwehr-Einheit auf dem Schlachtfeld.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Hasszeichen
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schutzwall (Schutzwall-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Zersplittern
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kampfstampfer&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten 15 Sek. lang zusätzlich um 20 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kampfstampfer&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten 15 Sek. lang zusätzlich um 20 %.</span>
 
 ### 2nd Skill (or 1st): Nachspiel
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kampfstampfer&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des Grundschadens der Fähigkeit erhöht, die Reichweite um 20 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kampfstampfer&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des Grundschadens der Fähigkeit erhöht, die Reichweite um 20 %.</span>
 
 ### 3rd Skill (or 4th): Unermüdlicher Marsch
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Stark&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Zentauren wird erhöht um 20 %. Gegen Feinde mit „Verlangsamung“ wird der Effekt verdoppelt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Stark&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Zentauren wird erhöht um 20 %. Gegen Feinde mit „Verlangsamung“ wird der Effekt verdoppelt.</span>
 
 ### 4th Skill (or 3rd): Psalm des Lebens
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Stark&gt;</span><span style="color: #645252;font-size:18px">Der Zentaur regeneriert pro Sekunde 1 % seiner max. LP.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Stark&gt;</span><span style="color: #645252;font-size:18px">Der Zentaur regeneriert pro Sekunde 1 % seiner max. LP.</span>
 
 ### 5th Skill (or 6th): Wächterhaltung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Furchtloser Anführer&gt;</span><span style="color: #645252;font-size:18px">Der Zentaur erhöht im Gefecht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich 20 Sek. lang um 20 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Furchtloser Anführer&gt;</span><span style="color: #645252;font-size:18px">Der Zentaur erhöht im Gefecht die Schadensreduzierung verbündeter Einheiten in einem großen Bereich 20 Sek. lang um 20 %.</span>
 
 ### 6th Skill (or 5th): Unbeugsamer Wille
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Furchtloser Anführer&gt;</span><span style="color: #645252;font-size:18px">Erhöht den ABW-Bonus 10 Sek. lang um 30 %, wenn der Zentaur einen Schild hat.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Furchtloser Anführer&gt;</span><span style="color: #645252;font-size:18px">Erhöht den ABW-Bonus 10 Sek. lang um 30 %, wenn der Zentaur einen Schild hat.</span>
 
 ## Technical info
  **runart:** 1

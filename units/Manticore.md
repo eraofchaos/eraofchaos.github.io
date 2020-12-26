@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Units A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Manticore"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.55 | 4.76 | 345.06 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Paralyzing Venom
  **Description:** <span style="color: #645252;font-size:20px">Manticores will attack the target unit every 20s, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target and its surrounding enemies within a certain range while decreasing their DEF by 30% for 10s.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Dungeon (Dungeon Rosters)
+* Charging (Charging Roster)
+
+### Hero Bonus
 
 ## Talent
 

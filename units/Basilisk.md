@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Units Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Basilisk"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 8.72 | 514.62 |
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
 
+## Recommended Holy Emblems
+
+* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
+* [Gear of Time](/Emblem/Gear of Time/) - Goodness
+* [Lust](/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Petrifying Bite
  **Description:** <span style="color: #645252;font-size:20px">The Basilisk unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Fortress (Fortress Rosters)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

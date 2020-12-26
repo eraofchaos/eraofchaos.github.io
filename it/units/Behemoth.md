@@ -3,17 +3,17 @@ title: "Behemoth"
 permalink: /it/units/Behemoth/
 excerpt: "Unità I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Behemoth"
 toc: true
 ---
 ## General information
- **Description:** I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi.
+ **Descrizione:** I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Roccaforte](/it/units/Fraction Roccaforte)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** L'unità di difesa definitiva. Ideale per proteggere le unità più vulnerabili e controllare i gruppi di unità.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 10182.0
 
  **Base ATK:** 407.3
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 73.314 | 0.38 | 9.2 | 1832.76 |
   | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
 
+## Emblemi sacri consigliati
+
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
+* [Lussuria](/it/Emblem/Lust/) - Caos
+
 ## Skills
 ### Tecnica suprema: Ruggito selvaggio
- **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT alle unità nemiche circostanti in un'ampia area, infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stordimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi e riducendone ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 20 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Behemoth infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT alle unità nemiche circostanti in un'ampia area, infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stordimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi e riducendone ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Res DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 20 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Artigli del mietitore
- **Description:** <span style="color: #645252;font-size:20px">Il Behemoth infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi al proprio bersaglio, infliggendogli inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Behemoth infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi al proprio bersaglio, infliggendogli inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Raptus
- **Description:** <span style="color: #645252;font-size:20px">Res DAN del Behemoth aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Res DAN del Behemoth aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
 ### Tecnica normale 3 : Collera
- **Description:** <span style="color: #645252;font-size:20px">Ogni volta che un'unità nemica muore, il Behemoth recupera PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e aumenta la Rid DAN del 10% per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Ogni volta che un'unità nemica muore, il Behemoth recupera PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e aumenta la Rid DAN del 10% per 10 secondi.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Combattenti devoti
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Vitalità aumentata
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Roccaforte (Roster Roccaforte)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ruggito antico
- **Description:**  <span style="color: #48b946;font-size:18px">&lt;Ruggito selvaggio&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Ruggito selvaggio&gt;, tutte le unità Roccaforte alleate godono di ATT e resistenza magica aumentati del 30% per 10 secondi.</span>
+ **Descrizione:**  <span style="color: #48b946;font-size:18px">&lt;Ruggito selvaggio&gt;</span><span style="color: #645252;font-size:18px">: quando usa &lt;Ruggito selvaggio&gt;, tutte le unità Roccaforte alleate godono di ATT e resistenza magica aumentati del 30% per 10 secondi.</span>
 
 ### 2nd Skill (or 1st): Ruggito violento
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ruggito selvaggio&gt;</span><span style="color: #645252;font-size:18px">: l'effetto di &lt;Stordimento&gt; colpisce tutte le unità da mischia nemiche.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ruggito selvaggio&gt;</span><span style="color: #645252;font-size:18px">: l'effetto di &lt;Stordimento&gt; colpisce tutte le unità da mischia nemiche.</span>
 
 ### 3rd Skill (or 4th): Collera della natura
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa &lt;Raptus&gt;, il danno di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa &lt;Raptus&gt;, il danno di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi.</span>
 
 ### 4th Skill (or 3rd): Raptus sanguinario
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa &lt;Raptus&gt;, la Rid DAN di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato del 50%. Quando usa &lt;Raptus&gt;, la Rid DAN di tutte le unità Roccaforte alleate aumenta del 10% per 20 secondi</span>
 
 ### 5th Skill (or 6th): Furia antica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Collera&gt;</span><span style="color: #645252;font-size:18px">: guarigione aumentata del 50%, rende immune alle &lt;Malattie&gt;</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Collera&gt;</span><span style="color: #645252;font-size:18px">: guarigione aumentata del 50%, rende immune alle &lt;Malattie&gt;</span>
 
 ### 6th Skill (or 5th): Rabbia eterna
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Collera&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN aumentata fino al termine della battaglia. Cumulabile fino a 5 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Collera&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN aumentata fino al termine della battaglia. Cumulabile fino a 5 volte.</span>
 
 ## Technical info
  **runart:** 1

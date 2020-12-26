@@ -3,17 +3,17 @@ title: "Кентавр"
 permalink: /ru/units/Centaur/
 excerpt: "Отряды Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку."
 unitID: 201
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Кентавр"
 toc: true
 ---
 ## General information
- **Description:** Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку.
+ **Описание:** Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Замедляет врагов в области действия. Чем больше в бою оборонительных отрядов, тем сильнее каждый из них.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 2691.0
 
  **Base ATK:** 111.0
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
+## Рекомендуемые эмблемы святости
+
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+
 ## Skills
 ### Совершенное умение: Боевой топот
- **Description:** <span style="color: #645252;font-size:20px">Кентавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем окружающим вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 15 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Кентавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем окружающим вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 15 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Сила
- **Description:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. </span><span style="color: black">
 
 ### Обычное умение 2 : Свирепость
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Кентаврам дается дополнительно 2% к сопротивлению отряда урону за каждый оборонительный отряд на поле боя. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Кентаврам дается дополнительно 2% к сопротивлению отряда урону за каждый оборонительный отряд на поле боя. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Бастион (Дозор отрядов Бастиона)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Взрыв
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону еще одного вражеского отряда снижается на 20% на 15 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону еще одного вражеского отряда снижается на 20% на 15 сек.</span>
 
 ### 2nd Skill (or 1st): Последствия
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Боевой топот&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 150% от базового. Дальность действия умения повышается на 20%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевой топот&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 150% от базового. Дальность действия умения повышается на 20%</span>
 
 ### 3rd Skill (or 4th): Неустанный марш
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сила&gt;</span><span style="color: #645252;font-size:18px">: кентавры получают 20% к сопротивлению отряда урону. Против замедленных врагов эффект удваивается</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила&gt;</span><span style="color: #645252;font-size:18px">: кентавры получают 20% к сопротивлению отряда урону. Против замедленных врагов эффект удваивается</span>
 
 ### 4th Skill (or 3rd): Псалом жизни
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cила&gt;</span><span style="color: #645252;font-size:18px">: ОЗ кентавров восстанавливаются по 1% от максимума в секунду</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Cила&gt;</span><span style="color: #645252;font-size:18px">: ОЗ кентавров восстанавливаются по 1% от максимума в секунду</span>
 
 ### 5th Skill (or 6th): Поза стража
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бесстрашный лидер&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть кентавр, сопротивление урону союзных отрядов в большой области повышается на 20% на 20 сек. после срабатывания</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бесстрашный лидер&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть кентавр, сопротивление урону союзных отрядов в большой области повышается на 20% на 20 сек. после срабатывания</span>
 
 ### 6th Skill (or 5th): Неукротимая воля
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бесстрашный лидер&gt;</span><span style="color: #645252;font-size:18px">: когда у кентавра есть щит, дополнительная ЗЩТ повышается на 30% на 10 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бесстрашный лидер&gt;</span><span style="color: #645252;font-size:18px">: когда у кентавра есть щит, дополнительная ЗЩТ повышается на 30% на 10 сек.</span>
 
 ## Technical info
  **runart:** 1

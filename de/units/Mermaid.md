@@ -3,17 +3,17 @@ title: "Meerjungfrau"
 permalink: /de/units/Mermaid/
 excerpt: "Einheiten Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Meerjungfrau"
 toc: true
 ---
 ## General information
- **Description:** Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans.
+ **Beschreibung:** Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Bucht](/de/units/Fraction Bucht)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Starker Heiler. Bietet zu Beginn der Schlacht mächtige Buffs.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
+## Empfohlene Heilige Embleme
+
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: D-Akkord
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Angriff der Meerjungfrau auf Heilung wechselt, werden bei der verbündeten Einheit mit den niedrigsten prozentualen LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG der Meerjungfrau geheilt; zusätzlich wird 1 zufällige andere Einheit geheilt. Der Zusatzeffekt kann 3 Mal ausgelöst werden. Die Heilung entspricht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG der Meerjungfrau.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn der Angriff der Meerjungfrau auf Heilung wechselt, werden bei der verbündeten Einheit mit den niedrigsten prozentualen LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG der Meerjungfrau geheilt; zusätzlich wird 1 zufällige andere Einheit geheilt. Der Zusatzeffekt kann 3 Mal ausgelöst werden. Die Heilung entspricht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG der Meerjungfrau.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Portato
- **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Meerjungfrau den Schaden aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. 10 Sek. lang gehen alle 2 Sek. 2 % Schaden und 50 Kritischer Treffer verloren. Für Bucht-Einheiten werden Wirkungsdauer und Abzug halbiert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Meerjungfrau den Schaden aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. 10 Sek. lang gehen alle 2 Sek. 2 % Schaden und 50 Kritischer Treffer verloren. Für Bucht-Einheiten werden Wirkungsdauer und Abzug halbiert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : null
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 3 : Azurblaues Lied
- **Description:** <span style="color: #645252;font-size:20px">Die Heilung der Meerjungfrau wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die Meerjungfrau &lt;D-Akkord&gt; wird, entfernt sie alle Debuffs von der verbündeten Einheit mit den prozentual niedrigsten LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Heilung der Meerjungfrau wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die Meerjungfrau &lt;D-Akkord&gt; wird, entfernt sie alle Debuffs von der verbündeten Einheit mit den prozentual niedrigsten LP.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Piratenoffensive
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Bucht (Bucht-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Beschreibung:** 
 
 ## Technical info
  **runart:** 0

@@ -3,17 +3,17 @@ title: "Druida"
 permalink: /es/units/Druid/
 excerpt: "Unidades Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Druida"
 toc: true
 ---
 ## General information
- **Description:** Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque.
+ **Descripción:** Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Murallas](/es/units/Fraction Murallas)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Apoya a las tropas de retaguardia, aumenta el DPS de las unidades aliadas y otorga inmunidad al daño mágico.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 844.0
 
  **Base ATK:** 102.6
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Enfado](/es/Emblem/Anger/) - Caos
+* [Avaricia](/es/Emblem/Greed/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Llamada del bosque
- **Description:** <span style="color: #645252;font-size:20px">Cuando empieza la batalla, la Druida invoca un círculo mágico que dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Las unidades amistosas en el círculo mágico son inmunes al daño de hechizos.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando empieza la batalla, la Druida invoca un círculo mágico que dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s. Las unidades amistosas en el círculo mágico son inmunes al daño de hechizos.</span><span style="color: black">
 
 ### Habilidad normal 1 : Crecimiento
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Druida un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Druida un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Bendición de la vida
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Druidas crea un </span><span style="color: black"><span style="color: #48b946;font-size:20px">escudo</span><span style="color: black"><span style="color: #645252;font-size:20px"> en 4 unidades amistosas en la vanguardia cada 30 s que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Druidas crea un </span><span style="color: black"><span style="color: #48b946;font-size:20px">escudo</span><span style="color: black"><span style="color: #645252;font-size:20px"> en 4 unidades amistosas en la vanguardia cada 30 s que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
 ### Habilidad normal 3 : Corazón de la naturaleza
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Druidas bendicen a las unidades amistosas en una zona grande cada 25 s, lo que aumenta el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s. La bonificación se duplica la primera vez que la Druida lo lanza.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Druidas bendicen a las unidades amistosas en una zona grande cada 25 s, lo que aumenta el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s. La bonificación se duplica la primera vez que la Druida lo lanza.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Proliferación calmada
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Marca de odio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Murallas (Lista de Murallas)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Protección del bosque
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Llamada del bosque&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. Después de lanzarse una vez al inicio de la batalla (la duración no se reduce a la mitad), se puede volver a lanzar una vez cada 35 s y la duración se reduce a la mitad. Las unidades amistosas en la formación aumentarán su reducción de daño de unidad un 20%. El Druida recibe un aumento adicional del 6%. La formación invocada seguirá al Druida.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Llamada del bosque&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. Después de lanzarse una vez al inicio de la batalla (la duración no se reduce a la mitad), se puede volver a lanzar una vez cada 35 s y la duración se reduce a la mitad. Las unidades amistosas en la formación aumentarán su reducción de daño de unidad un 20%. El Druida recibe un aumento adicional del 6%. La formación invocada seguirá al Druida.</span>
 
 ### 2nd Skill (or 1st): Bendición del bosque
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Llamada del bosque&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. Después de lanzarse una vez al inicio de la batalla (la duración no se reduce a la mitad), se puede volver a lanzar una vez cada 35 s y la duración se reduce a la mitad. Las unidades amistosas en la formación aumentarán su daño de unidad un 20%. El Druida recibe un aumento adicional del 6%. La formación invocada seguirá al Druida.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Llamada del bosque&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. Después de lanzarse una vez al inicio de la batalla (la duración no se reduce a la mitad), se puede volver a lanzar una vez cada 35 s y la duración se reduce a la mitad. Las unidades amistosas en la formación aumentarán su daño de unidad un 20%. El Druida recibe un aumento adicional del 6%. La formación invocada seguirá al Druida.</span>
 
 ### 3rd Skill (or 4th): Bendición de criaturas
- **Description:** <span style="color: #645252;font-size:18px">Los efectos de </span> <span style="color: #48b946;font-size:18px">&lt;Bendición de la vida&gt;</span><span style="color: #645252;font-size:18px"> aumentan un 150% su efecto original y se aplican a otras dos unidades amistosas de la retaguardia aleatorias. El daño propio sufrido con un solo ataque no superará el 25% de los PV máximos propios.</span>
+ **Descripción:** <span style="color: #645252;font-size:18px">Los efectos de </span> <span style="color: #48b946;font-size:18px">&lt;Bendición de la vida&gt;</span><span style="color: #645252;font-size:18px"> aumentan un 150% su efecto original y se aplican a otras dos unidades amistosas de la retaguardia aleatorias. El daño propio sufrido con un solo ataque no superará el 25% de los PV máximos propios.</span>
 
 ### 4th Skill (or 3rd): Bendición de vitalidad
- **Description:** La recarga de <span style="color: #48b946;font-size:18px">&lt;Bendición de la vida&gt;</span><span style="color: #645252;font-size:18px"> se reduce en 10 s y su efecto se aplica a otras dos unidades amistosas de la retaguardia aleatorias. El daño propio sufrido con un solo ataque no superará el 25% de los PV máximos propios.</span>
+ **Descripción:** La recarga de <span style="color: #48b946;font-size:18px">&lt;Bendición de la vida&gt;</span><span style="color: #645252;font-size:18px"> se reduce en 10 s y su efecto se aplica a otras dos unidades amistosas de la retaguardia aleatorias. El daño propio sufrido con un solo ataque no superará el 25% de los PV máximos propios.</span>
 
 ### 5th Skill (or 6th): Furia de la naturaleza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Corazón de la naturaleza&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. El efecto de habilidad se triplica para el primer uso. El efecto de bonificación de habilidad de &lt;Corazón de la naturaleza&gt; no se puede disipar.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Corazón de la naturaleza&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. El efecto de habilidad se triplica para el primer uso. El efecto de bonificación de habilidad de &lt;Corazón de la naturaleza&gt; no se puede disipar.</span>
 
 ### 6th Skill (or 5th): Poder de la naturaleza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Corazón de la naturaleza&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. El efecto de habilidad se multiplica por 1,5 con cada uso. El efecto de bonificación de habilidad de &lt;Corazón de la naturaleza&gt; no se puede disipar.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Corazón de la naturaleza&gt;</span><span style="color: #645252;font-size:18px"> aumenta ligeramente el alcance de habilidad. El efecto de habilidad se multiplica por 1,5 con cada uso. El efecto de bonificación de habilidad de &lt;Corazón de la naturaleza&gt; no se puede disipar.</span>
 
 ## Technical info
  **runart:** 0

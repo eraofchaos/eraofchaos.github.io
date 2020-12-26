@@ -3,7 +3,7 @@ title: "Effrit"
 permalink: /fr/units/Efreeti/
 excerpt: "Unités Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs."
 unitID: 506
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Effrit"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Effrits naissent dans les flammes de l'Hadès. Ils peuvent lancer de la magie de feu dans les airs.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige des dégâts magiques et dispose d'un bouclier de feu. Renvoie les dégâts.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1446.0
 
  **Base ATK:** 225.4
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Tempête de feu
  **Description:** <span style="color: #645252;font-size:20px">L'Effrit lance Tempête de feu sur une zone cible, ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à tous les ennemis qui s'y trouve et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">brûle</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

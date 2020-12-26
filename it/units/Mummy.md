@@ -3,17 +3,17 @@ title: "Mummia"
 permalink: /it/units/Mummy/
 excerpt: "Unità I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Mummia"
 toc: true
 ---
 ## General information
- **Description:** I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi.
+ **Descrizione:** I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Necropoli](/it/units/Fraction Necropoli)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Portatore di malattie. Riduce la guarigione delle unità nemiche.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 2691.0
 
  **Base ATK:** 141.0
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 25.38 | 0.36 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
+## Emblemi sacri consigliati
+
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Lussuria](/it/Emblem/Lust/) - Caos
+
 ## Skills
 ### Tecnica suprema: Decomposizione
- **Description:** <span style="color: #645252;font-size:20px">La Mummia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi a tutte le unità nemiche circostanti, applicando inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 12 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Mummia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 20 secondi a tutte le unità nemiche circostanti, applicando inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 12 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Sudario
- **Description:** <span style="color: #645252;font-size:20px">Quando lancia &lt;Decomposizione&gt;, ripristina una quantità di PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e aumenta la Rid DAN dell'unità (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando lancia &lt;Decomposizione&gt;, ripristina una quantità di PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e aumenta la Rid DAN dell'unità (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Ricettacolo di Malattie
- **Description:** <span style="color: #645252;font-size:20px">La Mummia è immune alle </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Rid DAN della Mummia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se la Mummia è sul campo di battaglia, l'efficacia degli effetti curativi sulle unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Mummia è immune alle </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Rid DAN della Mummia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se la Mummia è sul campo di battaglia, l'efficacia degli effetti curativi sulle unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 3 : Dio della Pestilenza
- **Description:** <span style="color: #645252;font-size:20px">DIF della Mummia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante è affetta da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">DIF della Mummia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante è affetta da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+
+## Connessione
+### Connessione roster
+
+* Necropoli (Roster Necropoli)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Maledizione della rovina
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Decomposizione&gt;</span><span style="color: #645252;font-size:18px">: può essere lanciata 1 volta ogni 18 secondi. DAN aumentato al 150% del valore della tecnica originale. &lt;Malattia&gt; riduce di un ulteriore 10% la Rid DAN delle unità nemiche. Effetto aggiuntivo raddoppiato contro le unità Baluardo. Portata di &lt;Decomposizione&gt; aumentata notevolmente.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Decomposizione&gt;</span><span style="color: #645252;font-size:18px">: può essere lanciata 1 volta ogni 18 secondi. DAN aumentato al 150% del valore della tecnica originale. &lt;Malattia&gt; riduce di un ulteriore 10% la Rid DAN delle unità nemiche. Effetto aggiuntivo raddoppiato contro le unità Baluardo. Portata di &lt;Decomposizione&gt; aumentata notevolmente.</span>
 
 ### 2nd Skill (or 1st): Volontà mortale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Decomposizione&gt;</span><span style="color: #645252;font-size:18px">: può essere lanciata 1 volta ogni 18 secondi. DAN aumentato al 150% del valore della tecnica originale. &lt;Malattia&gt; riduce del 10% il DAN delle unità nemiche. La &lt;Malattia&gt; non può essere rimossa. Portata di &lt;Decomposizione&gt; aumentata notevolmente.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Decomposizione&gt;</span><span style="color: #645252;font-size:18px">: può essere lanciata 1 volta ogni 18 secondi. DAN aumentato al 150% del valore della tecnica originale. &lt;Malattia&gt; riduce del 10% il DAN delle unità nemiche. La &lt;Malattia&gt; non può essere rimossa. Portata di &lt;Decomposizione&gt; aumentata notevolmente.</span>
 
 ### 3rd Skill (or 4th): Crociato corazzato
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sudario&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN della Mummia aumentata di 20%. Durata del buff di &lt;Sudario&gt; aumentata di 5 secondi. Aumenta del 20% la Rid DAN delle unità alleate nell'area e ripristina il 5% dei loro PF massimi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sudario&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN della Mummia aumentata di 20%. Durata del buff di &lt;Sudario&gt; aumentata di 5 secondi. Aumenta del 20% la Rid DAN delle unità alleate nell'area e ripristina il 5% dei loro PF massimi.</span>
 
 ### 4th Skill (or 3rd): Sudario impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sudario&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN della Mummia aumentata di 20%. Durata del buff di &lt;Sudario&gt; aumentata di 5 secondi. Aumenta del 20% la Rid DAN di tutte le unità Necropoli e ripristina il 5% dei loro PF massimi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sudario&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN della Mummia aumentata di 20%. Durata del buff di &lt;Sudario&gt; aumentata di 5 secondi. Aumenta del 20% la Rid DAN di tutte le unità Necropoli e ripristina il 5% dei loro PF massimi.</span>
 
 ### 5th Skill (or 6th): Malattia mutante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ricettacolo di Malattie&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la guarigione dei nemici. L'effetto si applica a tutte le unità nemiche.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ricettacolo di Malattie&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la guarigione dei nemici. L'effetto si applica a tutte le unità nemiche.</span>
 
 ### 6th Skill (or 5th): Malattia infettiva
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ricettacolo di Malattie&gt;</span><span style="color: #645252;font-size:18px">: riduce del 10% la Rid DAN dei nemici.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ricettacolo di Malattie&gt;</span><span style="color: #645252;font-size:18px">: riduce del 10% la Rid DAN dei nemici.</span>
 
 ## Technical info
  **runart:** 1

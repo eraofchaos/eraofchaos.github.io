@@ -3,17 +3,17 @@ title: "Жар-птица"
 permalink: /ru/units/Firebird/
 excerpt: "Отряды Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Жар-птица"
 toc: true
 ---
 ## General information
- **Description:** Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло.
+ **Описание:** Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Обладает способностью оживлять, наносит огромный урон огнем всем врагам на своем пути.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
+* [Королевская беда](/ru/Emblem/King's Calamity/) - Злой
+
 ## Skills
 ### Совершенное умение: Огненное дыхание
- **Description:** <span style="color: #645252;font-size:20px">Жар-птицы истребляют вражеские отряды в широком радиусе перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона. Критический удар по </span><span style="color: black"><span style="color: #48b946;font-size:20px">горящим</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядам повышается на 500.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Жар-птицы истребляют вражеские отряды в широком радиусе перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона. Критический удар по </span><span style="color: black"><span style="color: #48b946;font-size:20px">горящим</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядам повышается на 500.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">В бою жар-птиц против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою жар-птиц против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
 ### Обычное умение 2 : Воскрешение
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Огненное усиление
- **Description:** <span style="color: #645252;font-size:20px">У жар-птиц иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У жар-птиц иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Гармония (Дозор отрядов Гармонии)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Вечный огонь
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: возрождается каждый раз после смерти (восстановление - 20 сек.)</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: возрождается каждый раз после смерти (восстановление - 20 сек.)</span>
 
 ### 2nd Skill (or 1st): Бескрайняя буря
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: после воскрешения все вражеские отряды получают урон, равный 8% от максимума здоровья, и получают горение на 15 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: после воскрешения все вражеские отряды получают урон, равный 8% от максимума здоровья, и получают горение на 15 сек.</span>
 
 ### 3rd Skill (or 4th): Взрывной крест
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: врагам, стоящим в одном ряду с целью, наносится дополнительный урон (целям на пересечении - двойной урон)</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: врагам, стоящим в одном ряду с целью, наносится дополнительный урон (целям на пересечении - двойной урон)</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 200%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 200%</span>
 
 ### 5th Skill (or 6th): Бескрайняя ярость
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное усиление&gt;</span><span style="color: #645252;font-size:18px">: урон отряда увеличивается на 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное усиление&gt;</span><span style="color: #645252;font-size:18px">: урон отряда увеличивается на 30%</span>
 
 ### 6th Skill (or 5th): Растущее пламя
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненное усиление&gt;</span><span style="color: #645252;font-size:18px">: горящим целям гарантированно наносится КРИТ. УРН</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное усиление&gt;</span><span style="color: #645252;font-size:18px">: горящим целям гарантированно наносится КРИТ. УРН</span>
 
 ## Technical info
  **runart:** 0

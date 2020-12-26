@@ -3,17 +3,17 @@ title: "Drago scheletrico"
 permalink: /it/units/Bone Dragon/
 excerpt: "Unità I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Drago scheletrico"
 toc: true
 ---
 ## General information
- **Description:** I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi.
+ **Descrizione:** I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi.
 
- **Class:** Attacco
+ **Classe:** Attacco
 
- **Class Description:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
+ **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
  **Fraction:** [Necropoli](/it/units/Fraction Necropoli)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Riduce la difesa di tutti i nemici sul campo di battaglia. Efficace nel fare breccia nelle difese nemiche.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 5770.0
 
  **Base ATK:** 758.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: Paura
- **Description:** <span style="color: #645252;font-size:20px">Il Drago scheletrico causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area ogni </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec, e ne riduce la Rid DAN del 20% per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Drago scheletrico causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche in un'ampia area ogni </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec, e ne riduce la Rid DAN del 20% per 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Rullo stritolante
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Drago scheletrico ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e causare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ai bersagli per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base del Drago scheletrico ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e causare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> ai bersagli per 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Perforazione
- **Description:** <span style="color: #645252;font-size:20px">La Perforazione del Drago scheletrico aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è raddoppiato quando attacca unità con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Perforazione del Drago scheletrico aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il bonus è raddoppiato quando attacca unità con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 3 : Invecchiamento
- **Description:** <span style="color: #645252;font-size:20px">Se il Drago scheletrico è sul campo di battaglia, riduce la Rid DAN di tutte le unità nemiche (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se il Drago scheletrico è sul campo di battaglia, riduce la Rid DAN di tutte le unità nemiche (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+
+## Connessione
+### Connessione roster
+
+* Necropoli (Roster Necropoli)
+* Attacco (Roster unità d'attacco)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">Riduce di un ulteriore 20% la Rid DAN dell'unità.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">Riduce di un ulteriore 20% la Rid DAN dell'unità.</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 10% la Rid DAN delle unità nemiche in un'ampia area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Paura&gt;</span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 10% la Rid DAN delle unità nemiche in un'ampia area.</span>
 
 ### 3rd Skill (or 4th): Attacco debilitante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Riduce la DIF del 30%</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Riduce la DIF del 30%</span>
 
 ### 4th Skill (or 3rd): Divieto oscuro
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Aumenta la portata di &lt;Silenzio&gt; fino a coprire tutte le unità nemiche in un'area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rullo stritolante&gt;</span><span style="color: #645252;font-size:18px">Aumenta la portata di &lt;Silenzio&gt; fino a coprire tutte le unità nemiche in un'area.</span>
 
 ### 5th Skill (or 6th): Abbraccio spettrale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
 
 ### 6th Skill (or 5th): Maledizione dell'età
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: le unità nemiche in un'area attorno al Drago scheletrico subiscono danni pari al 200% del valore della tecnica originale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Invecchiamento&gt;</span><span style="color: #645252;font-size:18px">: le unità nemiche in un'area attorno al Drago scheletrico subiscono danni pari al 200% del valore della tecnica originale.</span>
 
 ## Technical info
  **runart:** 1

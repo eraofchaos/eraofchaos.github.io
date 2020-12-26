@@ -3,17 +3,17 @@ title: "Sirena"
 permalink: /it/units/Mermaid/
 excerpt: "Unità Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Sirena"
 toc: true
 ---
 ## General information
- **Description:** Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione.
+ **Descrizione:** Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Baia](/it/units/Fraction Baia)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Guaritore eccezionale. Applica potenti buff a inizio battaglia.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1648.0
 
  **Base ATK:** 185.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
+## Emblemi sacri consigliati
+
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Tecnica suprema: Accordo di Re
- **Description:** <span style="color: #645252;font-size:20px">L'attacco della Sirena ha effetti curativi: cura l'unità alleata con la percentuale di PF più bassa di una quantità di PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT della Sirena. Inoltre, cura 1 unità casuale. L'effetto aggiuntivo può essere attivato 3 volte. L'effetto di cura è pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT della Sirena.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco della Sirena ha effetti curativi: cura l'unità alleata con la percentuale di PF più bassa di una quantità di PF pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT della Sirena. Inoltre, cura 1 unità casuale. L'effetto aggiuntivo può essere attivato 3 volte. L'effetto di cura è pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT della Sirena.</span><span style="color: black">
 
 ### Tecnica normale 1 : Canto imperituro
- **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, la Sirena aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le unità alleate. Ogni 2 secondi, il DAN si riduce del 2% e il CRIT di 50, fino a un massimo di 10 volte. L'effetto dura 20 secondi. Durata raddoppiata e riduzione dimezzata per le unità Baia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, la Sirena aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+280)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le unità alleate. Ogni 2 secondi, il DAN si riduce del 2% e il CRIT di 50, fino a un massimo di 10 volte. L'effetto dura 20 secondi. Durata raddoppiata e riduzione dimezzata per le unità Baia.</span><span style="color: black">
 
 ### Tecnica normale 2 : null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 3 : Canto ceruleo
- **Description:** <span style="color: #645252;font-size:20px">Guarigione della Sirena aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando la Sirena emette un &lt;Accordo di Re&gt;, rimuove tutti i debuff dall'unità alleata con la percentuale di PF minore.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Guarigione della Sirena aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando la Sirena emette un &lt;Accordo di Re&gt;, rimuove tutti i debuff dall'unità alleata con la percentuale di PF minore.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto piratesco
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Baia (Roster Baia)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Descrizione:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Descrizione:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Descrizione:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Descrizione:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Descrizione:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Descrizione:** 
 
 ## Technical info
  **runart:** 0

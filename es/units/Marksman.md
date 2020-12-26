@@ -3,17 +3,17 @@ title: "Ballestero"
 permalink: /es/units/Marksman/
 excerpt: "Unidades Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo."
 unitID: 102
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Ballestero"
 toc: true
 ---
 ## General information
- **Description:** Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo.
+ **Descripción:** Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo.
 
- **Class:** A distancia
+ **Clase:** A distancia
 
- **Class Description:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
+ **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
  **Fraction:** [Castillo](/es/units/Fraction Castillo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige daño rápido colosal y un golpe doble. Más eficaz contra unidades grandes.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 438.4
 
  **Base ATK:** 85.3
@@ -61,24 +61,37 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+
 ## Skills
 ### Habilidad definitiva: Flecha explosiva
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Ballesteros infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Ballesteros infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo.</span><span style="color: black">
 
 ### Habilidad normal 1 : Inspiración
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de los Ballesteros en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de los Ballesteros en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Golpe doble
- **Description:** <span style="color: #645252;font-size:20px">Los Ballesteros tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de disparar 2 virotes cuando usan su ataque normal. La segunda flecha inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrentan a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Lentos»</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe doble&gt; aumenta al 100%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los Ballesteros tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de disparar 2 virotes cuando usan su ataque normal. La segunda flecha inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrentan a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Lentos»</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe doble&gt; aumenta al 100%.</span><span style="color: black">
 
 ### Habilidad normal 3 : Matadragones
- **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrentan a unidades de uno o cuatro, el golpe crítico de los Ballesteros aumenta en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se enfrentan a unidades de uno o cuatro, el golpe crítico de los Ballesteros aumenta en un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Combate de asedio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de defensa
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Castillo (Lista de Castillo)
+* Arquero (Lista de unidades a distancia)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -108,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Flecha del Juicio Final
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flecha explosiva&gt;</span><span style="color: #645252;font-size:18px"> Inflige daño adicional igual al 40% del daño de la &lt;flecha explosiva&gt; a unidades enemigas en un área más grande, disminuyendo también su reducción de daño de unidad en un 15% durante 10 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flecha explosiva&gt;</span><span style="color: #645252;font-size:18px"> Inflige daño adicional igual al 40% del daño de la &lt;flecha explosiva&gt; a unidades enemigas en un área más grande, disminuyendo también su reducción de daño de unidad en un 15% durante 10 s.</span>
 
 ### 2nd Skill (or 1st): Flecha de Justicia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flecha explosiva&gt;</span><span style="color: #645252;font-size:18px"> Inflige daño adicional igual al 30% del daño de la &lt;flecha explosiva&gt; a dos unidades enemigas al azar, disminuyendo también su daño de unidad en un 15% durante 10 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flecha explosiva&gt;</span><span style="color: #645252;font-size:18px"> Inflige daño adicional igual al 30% del daño de la &lt;flecha explosiva&gt; a dos unidades enemigas al azar, disminuyendo también su daño de unidad en un 15% durante 10 s.</span>
 
 ### 3rd Skill (or 4th): Custodia del templo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo</span><span style="color: #645252;font-size:18px"> Cuando se disfruta de la bonificación de moral alta, se otorga un escudo igual al 10% de tus PV máximos durante 5 s. Se puede acumular hasta 2 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo</span><span style="color: #645252;font-size:18px"> Cuando se disfruta de la bonificación de moral alta, se otorga un escudo igual al 10% de tus PV máximos durante 5 s. Se puede acumular hasta 2 veces.</span>
 
 ### 4th Skill (or 3rd): Protección sagrada
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo</span><span style="color: #645252;font-size:18px"> Cuando se disfruta de la bonificación de moral alta, aumenta la propia reducción de daño de unidad y la resistencia mágica en un 2% durante 10 s. Se puede acumular hasta 10 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo</span><span style="color: #645252;font-size:18px"> Cuando se disfruta de la bonificación de moral alta, aumenta la propia reducción de daño de unidad y la resistencia mágica en un 2% durante 10 s. Se puede acumular hasta 10 veces.</span>
 
 ### 5th Skill (or 6th): Habilidades de tirador
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de dragones&gt;</span><span style="color: #645252;font-size:18px"> Al atacar a unidades de 1 o 4 hombres, aumenta el propio daño de golpe crítico en un 10% y el golpe crítico en 100.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de dragones&gt;</span><span style="color: #645252;font-size:18px"> Al atacar a unidades de 1 o 4 hombres, aumenta el propio daño de golpe crítico en un 10% y el golpe crítico en 100.</span>
 
 ### 6th Skill (or 5th): Habilidades de Francotirador
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de dragones&gt;</span><span style="color: #645252;font-size:18px"> Al atacar a unidades de 1 o 4 hombres, aumenta el propio daño de unidad en un 10% y la penetración en 100.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de dragones&gt;</span><span style="color: #645252;font-size:18px"> Al atacar a unidades de 1 o 4 hombres, aumenta el propio daño de unidad en un 10% y la penetración en 100.</span>
 
 ## Technical info
  **runart:** 0

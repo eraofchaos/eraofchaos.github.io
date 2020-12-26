@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Orc"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.73 | 4.4 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Expert Execution
  **Description:** <span style="color: #645252;font-size:20px">When fighting against a target with HP lower than 30%, Orc's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px">,crit damage increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Stronghold (Stronghold Roster)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

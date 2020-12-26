@@ -3,17 +3,17 @@ title: "Скелет"
 permalink: /ru/units/Skeleton/
 excerpt: "Отряды Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Скелет"
 toc: true
 ---
 ## General information
- **Description:** Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой.
+ **Описание:** Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Обладает невосприимчивостью к кровотечению, отражает урон, обладает высоким сопротивлением к атакам дальнего боя.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1158.0
 
  **Base ATK:** 57.9
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
+## Рекомендуемые эмблемы святости
+
+* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
+* [Алчность](/ru/Emblem/Greed/) - Хаос
+* [Похоть](/ru/Emblem/Lust/) - Хаос
+
 ## Skills
 ### Совершенное умение: Костяной щит
- **Description:** <span style="color: #645252;font-size:20px">Когда ОЗ у скелетов впервые опускается ниже 50%, они создают для себя костяной щит, который снижает урон, получаемый отрядом, на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда ОЗ у скелетов впервые опускается ниже 50%, они создают для себя костяной щит, который снижает урон, получаемый отрядом, на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Костяной шип
- **Description:** <span style="color: #645252;font-size:20px">Скелеты отражают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> полученного урона.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Скелеты отражают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> полученного урона.</span><span style="color: black">
 
 ### Обычное умение 2 : Стать камнем
- **Description:** <span style="color: #645252;font-size:20px">Скелеты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и +10% к отражению урона. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Скелеты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и +10% к отражению урона. </span><span style="color: black">
 
 ### Обычное умение 3 : Каркас
- **Description:** <span style="color: #645252;font-size:20px">У скелетов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от урона от стрелковых отрядов.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У скелетов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от урона от стрелковых отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Некрополь (Дозор отрядов Некрополя)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Зачарованные кости
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Каркас&gt;</span><span style="color: #645252;font-size:18px">: увеличивает сопротивление урону, которое действует и на отряды заклинателей</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Каркас&gt;</span><span style="color: #645252;font-size:18px">: увеличивает сопротивление урону, которое действует и на отряды заклинателей</span>
 
 ### 2nd Skill (or 1st): Злой скелет
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Каркас&gt;<span style="color: #645252;font-size:18px">: ЗЩТ увеличивается на 30%. Эффект удваивается, если отряд врага, который вас атакует, обладает низким боевым духом</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Каркас&gt;<span style="color: #645252;font-size:18px">: ЗЩТ увеличивается на 30%. Эффект удваивается, если отряд врага, который вас атакует, обладает низким боевым духом</span>
 
 ### 3rd Skill (or 4th): Темное питание
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Мания нежити
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): Вооружены до зубов
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Костяной щит&gt;</span><span style="color: #645252;font-size:18px">: эффект длится в течение всего боя</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Костяной щит&gt;</span><span style="color: #645252;font-size:18px">: эффект длится в течение всего боя</span>
 
 ### 6th Skill (or 5th): Наготове
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стать камнем&gt;</span><span style="color: #645252;font-size:18px">: умение срабатывает с началом боя. Длительность эффекта увеличена до 30 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стать камнем&gt;</span><span style="color: #645252;font-size:18px">: умение срабатывает с началом боя. Длительность эффекта увеличена до 30 сек.</span>
 
 ## Technical info
  **runart:** 1

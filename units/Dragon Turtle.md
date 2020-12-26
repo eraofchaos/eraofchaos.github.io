@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
+## Recommended Holy Emblems
+
+* [Gear of Time](/Emblem/Gear of Time/) - Goodness
+* [Greed](/Emblem/Greed/) - Chaos
+* [Core of the Global Network](/Emblem/Core of the Global Network/) - Neutral
+
 ## Skills
 ### Ultimate Skill: Crushing Roll
  **Description:** 
@@ -75,6 +81,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

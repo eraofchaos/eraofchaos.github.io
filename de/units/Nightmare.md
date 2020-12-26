@@ -3,17 +3,17 @@ title: "Nachtmahr"
 permalink: /de/units/Nightmare/
 excerpt: "Einheiten Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Nachtmahr"
 toc: true
 ---
 ## General information
- **Description:** Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt.
+ **Beschreibung:** Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Inferno](/de/units/Fraction Inferno)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Abwehrunterstützung. Erhöht die allgemeine Stärke von Inferno-Einheiten.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 2691.0
 
  **Base ATK:** 84.1
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Unendlicher Albtraum
- **Description:** <span style="color: #645252;font-size:20px">Der Nachtmahr verflucht einmal alle 30 Sekunden gegnerische Einheiten in einer gewissen Reichweite und verbrennt die Zieleinheit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang. Außerdem wird die erhaltene Heilung für gegnerische Einheiten in einem bestimmten Radius um die Zieleinheit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Nachtmahr verflucht einmal alle 30 Sekunden gegnerische Einheiten in einer gewissen Reichweite und verbrennt die Zieleinheit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang. Außerdem wird die erhaltene Heilung für gegnerische Einheiten in einem bestimmten Radius um die Zieleinheit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Traumfänger
- **Description:** <span style="color: #645252;font-size:20px">Die ABW des Nachtmahrs steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jedes Mal, wenn der Nachtmahr einen Gegner angreift, wird die SCHD-Reduzierung (Einheit) des Gegners 10 Sek. lang um 2 % reduziert, bis zu 15 Stapel. Der Effekt kann nicht entfernt werden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die ABW des Nachtmahrs steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jedes Mal, wenn der Nachtmahr einen Gegner angreift, wird die SCHD-Reduzierung (Einheit) des Gegners 10 Sek. lang um 2 % reduziert, bis zu 15 Stapel. Der Effekt kann nicht entfernt werden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : null
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 3 : null
- **Description:** 
+ **Beschreibung:** 
 
 ### Fraktions-Spezialfähigkeit I : Sengender Angriff
- **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
- **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Inferno (Inferno-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 2nd Skill (or 1st): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 5th Skill (or 6th): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Beschreibung:** 
 
 ## Technical info
  **runart:** 1

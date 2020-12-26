@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Units A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Hydra"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
+
 ## Skills
 ### Ultimate Skill: Chaos Mist
  **Description:** <span style="color: #645252;font-size:20px">Hydra blows a mass of chaos mist in its path, inflicting 1 random debuff among Slow, Bleeding, Burning, Blind, Static, Plague, and Disease to all targets in a large area for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s, and dealing damage equal to 50% of its own ATK.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Fortress (Fortress Rosters)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

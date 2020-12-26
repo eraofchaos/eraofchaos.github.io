@@ -3,17 +3,17 @@ title: "Unknown_TEAM_604"
 permalink: /ru/units/Arch Mage/
 excerpt: "Отряды null"
 unitID: 604
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Unknown_TEAM_604"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Накладывает эффекты контроля на вражеские отряды в заднем ряду, усиливает заклинания героев и уменьшает скорость восстановления маны вражеских героев.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.88 | 0.48 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: Пробивание заклинания
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке маги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к собственной АТК. Эффект суммируется до 20 раз. Суммирование сохраняется, если цель не меняется. Оно будет сброшено при выборе новой цели.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке маги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к собственной АТК. Эффект суммируется до 20 раз. Суммирование сохраняется, если цель не меняется. Оно будет сброшено при выборе новой цели.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения, и получают +100% к сопротивлению урона. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения, и получают +100% к сопротивлению урона. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
 
 ### Обычное умение 2 : Потеря энергии
- **Description:** <span style="color: #645252;font-size:20px">Когда маги на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> от скорости восстановления заклинаний. Если союзный герой использует заклинание Воздуха, маги восстанавливают ему 2 ед. маны.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда маги на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> от скорости восстановления заклинаний. Если союзный герой использует заклинание Воздуха, маги восстанавливают ему 2 ед. маны.</span><span style="color: black">
 
 ### Обычное умение 3 : Магическое поле
- **Description:** <span style="color: #645252;font-size:20px">Когда начинается бой, маги повышают урон у всех союзных отрядов на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Для отрядов заклинателей эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, маги повышают урон у всех союзных отрядов на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Для отрядов заклинателей эффект удваивается.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Трезвый ум
- **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Энергетический динамит
- **Description:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Отряд Башни (Дозор отрядов Башни)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Склонность к магии
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Пробивание заклинания&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки повышается на 10%. Накопленный эффект не сбрасывается, даже если &lt;Пробивание заклинания&gt; меняет цель</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Пробивание заклинания&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки повышается на 10%. Накопленный эффект не сбрасывается, даже если &lt;Пробивание заклинания&gt; меняет цель</span>
 
 ### 2nd Skill (or 1st): Мастерство магии
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Пробивание заклинания&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки повышается на 10%. В начале боя дается десятикратное &lt;Пробивание заклинания&gt;. Эффект длится все время боя.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Пробивание заклинания&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки повышается на 10%. В начале боя дается десятикратное &lt;Пробивание заклинания&gt;. Эффект длится все время боя.</span>
 
 ### 3rd Skill (or 4th): Таинственный узел
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Магическое поле&gt;</span><span style="color: #645252;font-size:18px">: скорость АТК всех союзных отрядов на пути повышается на 15%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое поле&gt;</span><span style="color: #645252;font-size:18px">: скорость АТК всех союзных отрядов на пути повышается на 15%</span>
 
 ### 4th Skill (or 3rd): Таинственный знак
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Магическое поле&gt;</span><span style="color: #645252;font-size:18px">: в начале боя создается еще одно &lt;Магическое поле&gt; для всех союзных отрядов Башни (эффект не удваивается, а суммируется с предыдущим)</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое поле&gt;</span><span style="color: #645252;font-size:18px">: в начале боя создается еще одно &lt;Магическое поле&gt; для всех союзных отрядов Башни (эффект не удваивается, а суммируется с предыдущим)</span>
 
 ### 5th Skill (or 6th): Груз смерти
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): Подавление энергии
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

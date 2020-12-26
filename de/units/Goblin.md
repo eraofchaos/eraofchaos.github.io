@@ -3,17 +3,17 @@ title: "Goblin"
 permalink: /de/units/Goblin/
 excerpt: "Einheiten Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Goblin"
 toc: true
 ---
 ## General information
- **Description:** Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner.
+ **Beschreibung:** Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Burg](/de/units/Fraction Burg)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Häufige Gegenangriffe. Verursacht hohen Nahkampfschaden. Je niedriger die Gesundheit, desto höher der Angriff.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 761.0
 
  **Base ATK:** 82.7
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.59 | 4.04 | 136.98 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+
 ## Skills
 ### Ultimative Fähigkeit: Kriegssturm
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Goblins fügt mit einer gewissen Wahrscheinlichkeit 3 Mitgliedern einer gegnerischen Einheit Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+52} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG zu.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff des Goblins fügt mit einer gewissen Wahrscheinlichkeit 3 Mitgliedern einer gegnerischen Einheit Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+52} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG zu.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Amoklauf
- **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Goblins steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Goblins unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Goblins steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Goblins unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Hinrichtung
- **Description:** <span style="color: #645252;font-size:20px">Bei Angriffen auf eine Einheit, die weniger als 30 % ihrer LP hat, steigt der ANG des Goblins um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bei Angriffen auf eine Einheit, die weniger als 30 % ihrer LP hat, steigt der ANG des Goblins um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+26} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Blutdurst
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Goblins werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jeder verursachte kritische Treffer stellt 2 % der LP wieder her.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Goblins werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jeder verursachte kritische Treffer stellt 2 % der LP wieder her.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Kampfzelot
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Burg (Burg-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Kampfgeist
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kriegssturm&gt; </span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit von &lt;Kriegssturm&gt; wird verdoppelt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kriegssturm&gt; </span><span style="color: #645252;font-size:18px">Die Auslösewahrscheinlichkeit von &lt;Kriegssturm&gt; wird verdoppelt.</span>
 
 ### 2nd Skill (or 1st): Trägheit
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kriegssturm&gt; </span><span style="color: #645252;font-size:18px">&lt;Kriegssturm&gt; gewährt einen Kombo-Angriff: &lt;Kriegssturm&gt; wird zweimal ausgelöst.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kriegssturm&gt; </span><span style="color: #645252;font-size:18px">&lt;Kriegssturm&gt; gewährt einen Kombo-Angriff: &lt;Kriegssturm&gt; wird zweimal ausgelöst.</span>
 
 ### 3rd Skill (or 4th): Waffengeschick
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:18px">Der ANG des Goblins wird um zusätzliche 150 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:18px">Der ANG des Goblins wird um zusätzliche 150 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
 
 ### 4th Skill (or 3rd): Waffenloser Konter
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:20px">Der Schaden des Goblins wird um 30 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:20px">Der Schaden des Goblins wird um 30 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
 
 ### 5th Skill (or 6th): Blutdurst-Spezialität
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 5 % erhöht, wenn ein Kritischer Treffer verursacht wird.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Die LP-Regeneration wird auf 5 % erhöht, wenn ein Kritischer Treffer verursacht wird.</span>
 
 ### 6th Skill (or 5th): Blutiger Hammer
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Jeder kritische Treffer erhöht Angriffstempo 10 Sek. lang um 2 %. Bis 10 Stapel.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutdurst&gt;</span><span style="color: #645252;font-size:18px">Jeder kritische Treffer erhöht Angriffstempo 10 Sek. lang um 2 %. Bis 10 Stapel.</span>
 
 ## Technical info
  **runart:** 1

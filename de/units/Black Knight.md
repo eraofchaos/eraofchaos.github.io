@@ -3,17 +3,17 @@ title: "Schwarzer Ritter"
 permalink: /de/units/Black Knight/
 excerpt: "Einheiten Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Schwarzer Ritter"
 toc: true
 ---
 ## General information
- **Description:** Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt.
+ **Beschreibung:** Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt.
 
- **Class:** Ansturm
+ **Klasse:** Ansturm
 
- **Class Description:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
+ **Klasse Beschreibung:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
 
  **Fraction:** [Nekropolis](/de/units/Fraction Nekropolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Die beste Ansturm-Einheit. Gute Schadensspitzen, wird in der Schlacht zunehmend mächtiger.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Zeuge](/de/Emblem/Witness/) - Gut
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Kritischer Angriff
- **Description:** <span style="color: #645252;font-size:20px">Der Schwarze Ritter fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 10 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Niedrige Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schwarze Ritter fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 10 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Niedrige Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Todesansturm
- **Description:** <span style="color: #645252;font-size:20px">Wenn er sein Ziel tötet, steigt der ANG des Schwarzen Ritters um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Wert „Kritischer Treffer“ um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die ganze Schlacht über, bis zu 5 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn er sein Ziel tötet, steigt der ANG des Schwarzen Ritters um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Wert „Kritischer Treffer“ um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die ganze Schlacht über, bis zu 5 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Ritter-Fertigkeiten
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Schwarzen Ritters steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Schadensreduzierung steigt um </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Schwarzen Ritters steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Schadensreduzierung steigt um </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Furcht einflößende Unterdrückung
- **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Schwarzen Ritters steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">, Kritischer Schaden um 50 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Schwarzen Ritters steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">, Kritischer Schaden um 50 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magische Harmonie
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Nekropolis (Nekropolis-Kader)
+* Ansturm (Ansturm-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Dunkler Übergriff
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kritischer Angriff&gt;</span><span style="color: #645252;font-size:18px">Das Ziel sind jetzt 2 gegnerische Einheiten, hohe Reichweite.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kritischer Angriff&gt;</span><span style="color: #645252;font-size:18px">Das Ziel sind jetzt 2 gegnerische Einheiten, hohe Reichweite.</span>
 
 ### 2nd Skill (or 1st): Explosion der Angst
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kritischer Angriff&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird um 50 % erhöht. Die Dauer steigt auf 20 Sek., wenn die Einheit „Niedrige Moral“ hat.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kritischer Angriff&gt;</span><span style="color: #645252;font-size:18px">Der verursachte Schaden wird um 50 % erhöht. Die Dauer steigt auf 20 Sek., wenn die Einheit „Niedrige Moral“ hat.</span>
 
 ### 3rd Skill (or 4th): Lebensernte
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Todesansturm&gt;</span><span style="color: #645252;font-size:18px">Stellt 30 % der max. LP wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Todesansturm&gt;</span><span style="color: #645252;font-size:18px">Stellt 30 % der max. LP wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
 
 ### 4th Skill (or 3rd): Geisterhafter Schild
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Todesansturm&gt;</span><span style="color: #645252;font-size:18px">Stellt 80 % der Schadensreduzierung der Einheit wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Todesansturm&gt;</span><span style="color: #645252;font-size:18px">Stellt 80 % der Schadensreduzierung der Einheit wieder her. 7 Sek. Immunität gegen Zauberschaden, wenn die Zieleinheit getötet wird.</span>
 
 ### 5th Skill (or 6th): Absolute Angst
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Furcht einflößende Unterdrückung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit „Niedrige Moral“ hat, wird Krit. SCHD um 50 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Furcht einflößende Unterdrückung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Zieleinheit „Niedrige Moral“ hat, wird Krit. SCHD um 50 % erhöht.</span>
 
 ### 6th Skill (or 5th): Blutiges Nachsetzen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Furcht einflößende Unterdrückung&gt;</span><span style="color: #645252;font-size:18px">Wenn das Ziel „Niedrige Moral“ hat, wird der Lebensentzug um zusätzliche 20 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Furcht einflößende Unterdrückung&gt;</span><span style="color: #645252;font-size:18px">Wenn das Ziel „Niedrige Moral“ hat, wird der Lebensentzug um zusätzliche 20 % erhöht.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 37.53 | 0.5 | 3.8 | 308.7 |
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Energy Support
  **Description:** <span style="color: #645252;font-size:20px">When any of friendly unit's HP is lower than 30%, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, dispels all debuffs, increases unit's damage reduction and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. Can only be cast once per battle.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Faction Special Skill II : Energy Dynamite
  **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Tower (Tower Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

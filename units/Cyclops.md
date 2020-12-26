@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Units Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Cyclops"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.6 | 5.0 | 916.38 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
+## Recommended Holy Emblems
+
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
+* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [King's Calamity](/Emblem/King's Calamity/) - Evil
+
 ## Skills
 ### Ultimate Skill: Flamestone
  **Description:** <span style="color: #645252;font-size:20px">Cyclops throws fire-stones within a large range in front of it, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the hostile units there and causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 2s for 8s.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Stronghold (Stronghold Roster)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

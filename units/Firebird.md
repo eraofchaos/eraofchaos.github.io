@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Units The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Firebird"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
+* [King's Calamity](/Emblem/King's Calamity/) - Evil
+
 ## Skills
 ### Ultimate Skill: Flame Breath
  **Description:** <span style="color: #645252;font-size:20px">The Firebird decimates hostile units within a large range in front of it, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage. Crit Hit dealt to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burned\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> units increased by 500.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Conflux (Conflux Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

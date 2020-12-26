@@ -3,17 +3,17 @@ title: "Naga"
 permalink: /es/units/Naga/
 excerpt: "Unidades El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Naga"
 toc: true
 ---
 ## General information
- **Description:** El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar.
+ **Descripción:** El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar.
 
- **Class:** Ofensa
+ **Clase:** Ofensa
 
- **Class Description:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
+ **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
  **Fraction:** [Torre](/es/units/Fraction Torre)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** El mejor infligiendo daño de área. Los hechizos de Héroes activan su aumento de Ataque.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Profeta Verde](/es/Emblem/Green Prophet/) - Bien
+* [Envidia](/es/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Danza de hojas
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Nagas inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades enemigas aleatorias en una zona grande y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 capas.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Nagas inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades enemigas aleatorias en una zona grande y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 capas.</span><span style="color: black">
 
 ### Habilidad normal 1 : Crueldad
- **Description:** <span style="color: #645252;font-size:20px">El ataque de la Naga impactará. Aumenta la absorción de vida de la Naga un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El objetivo recibe más daño a medida que los PV disminuyen; hasta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> más de daño.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El ataque de la Naga impactará. Aumenta la absorción de vida de la Naga un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El objetivo recibe más daño a medida que los PV disminuyen; hasta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> más de daño.</span><span style="color: black">
 
 ### Habilidad normal 2 : Reina de Hojas
- **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Nagas en el campo de batalla, el golpe crítico de todas las unidades ofensivas amistosas aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Al mismo tiempo, el golpe crítico de la Naga aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Nagas en el campo de batalla, el golpe crítico de todas las unidades ofensivas amistosas aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Al mismo tiempo, el golpe crítico de la Naga aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Despertar mágico
- **Description:** <span style="color: #645252;font-size:20px">Cuando la unidad de Naga está amplificada por un hechizo de apoyo de un Héroe amistoso, usa &lt;Danza de hojas&gt; contra la unidad objetivo, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 veces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando la unidad de Naga está amplificada por un hechizo de apoyo de un Héroe amistoso, usa &lt;Danza de hojas&gt; contra la unidad objetivo, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño y reduce la DEF un 10% durante 10 s. Se acumula hasta 4 veces.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Mente sobria
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Dinamita de energía
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Torre (Lista de Torre)
+* Ofensa (Lista de unidades ofensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Danza rojo sangre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Al lanzarse activamente, la velocidad de ataque y la absorción de vida de la Naga aumentan un 30% en los próximos 20 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Al lanzarse activamente, la velocidad de ataque y la absorción de vida de la Naga aumentan un 30% en los próximos 20 s.</span>
 
 ### 2nd Skill (or 1st): Danza de hojas afiladas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior, inflige daño a todas las unidades dentro del alcance</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior, inflige daño a todas las unidades dentro del alcance</span>
 
 ### 3rd Skill (or 4th): Hoja de la voluntad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El efecto de la bonificación aumenta al 150% del efecto de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El efecto de la bonificación aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 4th Skill (or 3rd): Hoja loca
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El golpe crítico y el daño crítico otorgan una bonificación para la Naga, aumentando el efecto al 200% de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El golpe crítico y el daño crítico otorgan una bonificación para la Naga, aumentando el efecto al 200% de la habilidad anterior</span>
 
 ### 5th Skill (or 6th): Aspecto mágico
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
 
 ### 6th Skill (or 5th): Filo templado con magia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
 
 ## Technical info
  **runart:** 1

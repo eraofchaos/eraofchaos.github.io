@@ -3,17 +3,17 @@ title: "Troglodita"
 permalink: /es/units/Troglodyte/
 excerpt: "Unidades Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato."
 unitID: 701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Troglodita"
 toc: true
 ---
 ## General information
- **Description:** Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato.
+ **Descripción:** Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato.
 
- **Class:** Ofensa
+ **Clase:** Ofensa
 
- **Class Description:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
+ **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
  **Fraction:** [Mazmorra](/es/units/Fraction Mazmorra)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Defensa y ofensiva. Inflige daño adicional a las unidades con sangrado.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
@@ -61,21 +61,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
+## Emblemas Sagrados recomendados
+
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) - Neutral
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
+* [Envidia](/es/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Formación de lanzas
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Trogloditas inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo y lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Trogloditas inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo y lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Agudo
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del Troglodita.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del Troglodita.</span><span style="color: black">
 
 ### Habilidad normal 2 : Olor de rompehechizos
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica y la reducción de daño de la unidad de Trogloditas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s. Este efecto se duplica cada vez que un Héroe hostil lanza un hechizo.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica y la reducción de daño de la unidad de Trogloditas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s. Este efecto se duplica cada vez que un Héroe hostil lanza un hechizo.</span><span style="color: black">
 
 ### Habilidad normal 3 : Lanza envenenada
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los ataques normales del Troglodita un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño contra objetivos con <span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los ataques normales del Troglodita un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño contra objetivos con <span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
 ### Habilidad especial de la facción : Conflicto oscuro
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Mazmorra (Lista de Mazmorra)
+* Ofensa (Lista de unidades ofensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Asesinato feroz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el efecto del daño un 50% y la velocidad de ataque un 30% durante 5 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el efecto del daño un 50% y la velocidad de ataque un 30% durante 5 s.</span>
 
 ### 2nd Skill (or 1st): Impacto de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el efecto de aturdimiento un 50% y la DEF propia un 30% durante 5 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el efecto de aturdimiento un 50% y la DEF propia un 30% durante 5 s.</span>
 
 ### 3rd Skill (or 4th): Toque perceptivo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Agudo&gt;</span><span style="color: #645252;font-size:18px"> La duración de la ralentización del Troglodita se reduce en 1 s. Cuando se le ralentiza, inflige daño equivalente al 500% del ATQ propio a la unidad objetivo y aumenta la DEF propia un 15% durante 7 s. La recarga es de 15 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Agudo&gt;</span><span style="color: #645252;font-size:18px"> La duración de la ralentización del Troglodita se reduce en 1 s. Cuando se le ralentiza, inflige daño equivalente al 500% del ATQ propio a la unidad objetivo y aumenta la DEF propia un 15% durante 7 s. La recarga es de 15 s.</span>
 
 ### 4th Skill (or 3rd): Toque agudo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Agudo&gt;</span><span style="color: #645252;font-size:18px"> La duración del sangrado del Troglodita se reduce en 1 s. Cuando sangra, inflige daño equivalente al 500% del ATQ propio a la unidad objetivo y aumenta la velocidad de ataque propia un 15% durante 7 s. La recarga es de 15 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Agudo&gt;</span><span style="color: #645252;font-size:18px"> La duración del sangrado del Troglodita se reduce en 1 s. Cuando sangra, inflige daño equivalente al 500% del ATQ propio a la unidad objetivo y aumenta la velocidad de ataque propia un 15% durante 7 s. La recarga es de 15 s.</span>
 
 ### 5th Skill (or 6th): Herida venenosa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lanza envenenada&gt;</span><span style="color: #645252;font-size:18px"> Cuando ataca a unidades envenenadas, inflige daño constante equivalente al 60% del ATQ propio por segundo a la unidad objetivo y reduce su daño de unidad un 15% durante 5 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Lanza envenenada&gt;</span><span style="color: #645252;font-size:18px"> Cuando ataca a unidades envenenadas, inflige daño constante equivalente al 60% del ATQ propio por segundo a la unidad objetivo y reduce su daño de unidad un 15% durante 5 s.</span>
 
 ### 6th Skill (or 5th): Infección letal
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lanza envenenada&gt;</span><span style="color: #645252;font-size:18px"> Cuando ataca a unidades envenenadas, inflige daño constante equivalente al 60% del ATQ propio por segundo a la unidad objetivo y merma su reducción de daño de unidad un 15% durante 5 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Lanza envenenada&gt;</span><span style="color: #645252;font-size:18px"> Cuando ataca a unidades envenenadas, inflige daño constante equivalente al 60% del ATQ propio por segundo a la unidad objetivo y merma su reducción de daño de unidad un 15% durante 5 s.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Assassin"
 toc: true
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Witness](/Emblem/Witness/) - Goodness
+
 ## Skills
 ### Ultimate Skill: Assassination
  **Description:** <span style="color: #645252;font-size:20px">Assassins enter </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> status at the beginning of battle, and they lose </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px"> once engaged. Whenever an Assassin loses </span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">Stealth</span><span style="color: black"><span style="color: #645252;font-size:20px">, their next attack will be a Broken Stealth attack, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Attack and reducing their healing received by 30%. This effect can trigger once every 10s.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Faction Special Skill II : Courage Boost
  **Description:** <span style="color: #645252;font-size:20px">Neutral units are able to resist a great amount of force. Each time they lose 10% of their HP, their </span><span style="color: black"><span style="color: #645252;font-size:20px">Defense increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Neutral (Neutral Roster)
+* Charging (Charging Roster)
+
+### Hero Bonus
 
 ## Talent
 

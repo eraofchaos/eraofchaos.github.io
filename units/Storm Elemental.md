@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -56,6 +56,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Arrogance](/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Static Marker
  **Description:** <span style="color: #645252;font-size:20px">When battle starts, Storm Elemental units apply </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all enemy units in its path for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Conflux (Conflux Roster)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

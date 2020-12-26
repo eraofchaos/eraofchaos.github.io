@@ -3,17 +3,17 @@ title: "Vampir"
 permalink: /de/units/Vampire/
 excerpt: "Einheiten Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Vampir"
 toc: true
 ---
 ## General information
- **Description:** Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt.
+ **Beschreibung:** Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt.
 
- **Class:** Ansturm
+ **Klasse:** Ansturm
 
- **Class Description:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
+ **Klasse Beschreibung:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
 
  **Fraction:** [Nekropolis](/de/units/Fraction Nekropolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Verursacht erheblichen Schaden, wenn die Gesundheit höher ist als die des Gegners.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Lebensentzug
- **Description:** <span style="color: #645252;font-size:20px">Alle 12 Sekunden fügt die Vampir-Einheit einer zufälligen Einheit in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und entzieht ihr </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Alle 12 Sekunden fügt die Vampir-Einheit einer zufälligen Einheit in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und entzieht ihr </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Lebensentzug
- **Description:** <span style="color: #645252;font-size:20px">Der Lebensentzug des Vampirs wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> stärker.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Lebensentzug des Vampirs wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> stärker.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Anschwellen
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Vampir &lt;Lebensentzug&gt; wirkt, wird der Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verstärkt. Wirkt bis zum Ende der Schlacht, max. 3 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Vampir &lt;Lebensentzug&gt; wirkt, wird der Lebensentzug um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verstärkt. Wirkt bis zum Ende der Schlacht, max. 3 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Blutjagd
- **Description:** <span style="color: #645252;font-size:20px">Wenn er ein Ziel angreift, dessen LP-Prozentsatz niedriger als deiner ist, steigen der ANG des Vampirs um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn er ein Ziel angreift, dessen LP-Prozentsatz niedriger als deiner ist, steigen der ANG des Vampirs um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magische Harmonie
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Nekropolis (Nekropolis-Kader)
+* Ansturm (Ansturm-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ausged. Blutdurst
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensentzug&gt;</span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %, und die Heilung wirkt auf befreundete Einheiten in hohem Radius.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Lebensentzug&gt;</span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %, und die Heilung wirkt auf befreundete Einheiten in hohem Radius.</span>
 
 ### 2nd Skill (or 1st): Blutrünstige Rache
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensentzug&gt;</span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %. Wenn die LP das erste Mal unter 50 % sinken, wird &lt;Lebensentzug&gt; einmal gewirkt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Lebensentzug&gt;</span><span style="color: #645252;font-size:18px">Der Effekt wird erhöht auf 150 %. Wenn die LP das erste Mal unter 50 % sinken, wird &lt;Lebensentzug&gt; einmal gewirkt.</span>
 
 ### 3rd Skill (or 4th): Umarmung der Toten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutjagd&gt;</span><span style="color: #645252;font-size:18px">Erhöht den Schaden der Einheit um 10 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutjagd&gt;</span><span style="color: #645252;font-size:18px">Erhöht den Schaden der Einheit um 10 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
 
 ### 4th Skill (or 3rd): Schutz der Toten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutjagd&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Magieresistenz um 20 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutjagd&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Magieresistenz um 20 %, wenn die Zieleinheit getötet wird. Der Effekt dauert die gesamte Schlacht über an und ist 10 Mal stapelbar.</span>
 
 ### 5th Skill (or 6th): Rote Begierde
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurstig&gt;</span><span style="color: #645252;font-size:18px">Immun gegen Krankheit. Lebensentzug wird um 50 % erhöht, wenn die LP unter 50 % sinken. Dauert die gesamte Schlacht über an, auch dann noch, wenn die LP wieder geheilt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutdurstig&gt;</span><span style="color: #645252;font-size:18px">Immun gegen Krankheit. Lebensentzug wird um 50 % erhöht, wenn die LP unter 50 % sinken. Dauert die gesamte Schlacht über an, auch dann noch, wenn die LP wieder geheilt werden.</span>
 
 ### 6th Skill (or 5th): Blutiger Kuss
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutdurstig&gt;</span><span style="color: #645252;font-size:18px">Gewährt Immunität gegen Krankheit und verbessert die Heilung um 50 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutdurstig&gt;</span><span style="color: #645252;font-size:18px">Gewährt Immunität gegen Krankheit und verbessert die Heilung um 50 %.</span>
 
 ## Technical info
  **runart:** 1

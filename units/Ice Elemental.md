@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -56,6 +56,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
+## Recommended Holy Emblems
+
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
+* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+* [Anger](/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Ice Wall
  **Description:** <span style="color: #645252;font-size:20px">The Ice Elemental unit builds an icy wall in front of the target, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;freezing&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets along a horizontal row within a large range for <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Faction Special Skill II : Elemental Conflict
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Conflux (Conflux Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

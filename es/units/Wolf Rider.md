@@ -3,17 +3,17 @@ title: "Jinete Lupino"
 permalink: /es/units/Wolf Rider/
 excerpt: "Unidades Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Jinete Lupino"
 toc: true
 ---
 ## General information
- **Description:** Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos.
+ **Descripción:** Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos.
 
- **Class:** Carga
+ **Clase:** Carga
 
- **Class Description:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
+ **Clase Descripción:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
 
  **Fraction:** [Bastión](/es/units/Fraction Bastión)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Invoca un acompañante bestia. Cuanto menor es su vida, mayor es su Ataque.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 860.0
 
  **Base ATK:** 72.8
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
+* [Envidia](/es/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Bestia compañera
- **Description:** <span style="color: #645252;font-size:20px">El Jinete Lupino invoca un Huargo al morir. Los Huargos tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV y duran toda la batalla.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Jinete Lupino invoca un Huargo al morir. Los Huargos tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+22)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*40+260)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV y duran toda la batalla.</span><span style="color: black">
 
 ### Habilidad normal 1 : Golpe doble
- **Description:** <span style="color: #645252;font-size:20px">El Jinete Lupino tiene un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar dos veces cuando usa su ataque normal. El segundo ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrenta a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizados&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe Doble&gt; aumenta al 100%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Jinete Lupino tiene un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar dos veces cuando usa su ataque normal. El segundo ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrenta a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizados&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe Doble&gt; aumenta al 100%.</span><span style="color: black">
 
 ### Habilidad normal 2 : Destrozo
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Jinete Lupino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando sus PV están por debajo del 35%, el efecto se duplica. (Sigue teniendo efecto aunque se recuperen PV).</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Jinete Lupino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando sus PV están por debajo del 35%, el efecto se duplica. (Sigue teniendo efecto aunque se recuperen PV).</span><span style="color: black">
 
 ### Habilidad normal 3 : Ansia de sangre
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Jinete Lupino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Recupera 2% de los PV por cada golpe crítico.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Jinete Lupino un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Recupera 2% de los PV por cada golpe crítico.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Lucha fanática
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Aumento de vitalidad
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Bastión (Lista de Bastión)
+* Carga (Lista de unidades de carga)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Linaje de la bestia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Aumenta el golpe crítico de los Huargos invocados en 400. El Jinete Lupino invoca otro Huargo cuando su objetivo cae derrotado</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Aumenta el golpe crítico de los Huargos invocados en 400. El Jinete Lupino invoca otro Huargo cuando su objetivo cae derrotado</span>
 
 ### 2nd Skill (or 1st): Viviendo con lobos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Invoca un Huargo que aumenta el daño de la unidad un 10%. Al principio de la batalla, se invocan 9 Huargos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Beast Companion&gt;</span><span style="color: #645252;font-size:18px">Invoca un Huargo que aumenta el daño de la unidad un 10%. Al principio de la batalla, se invocan 9 Huargos</span>
 
 ### 3rd Skill (or 4th): Entusiasmo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px">Al activar &lt;Destrozo&gt;, aumenta la velocidad de ataque del Jinete Lupino un 30% durante 20 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px">Al activar &lt;Destrozo&gt;, aumenta la velocidad de ataque del Jinete Lupino un 30% durante 20 s</span>
 
 ### 4th Skill (or 3rd): Destrozo de ansia de sangre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px"> Al activar &lt;Destrozo&gt;, aumenta el golpe crítico del Jinete Lupino en 400 (seguirá activo cuando recupere PV)</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px"> Al activar &lt;Destrozo&gt;, aumenta el golpe crítico del Jinete Lupino en 400 (seguirá activo cuando recupere PV)</span>
 
 ### 5th Skill (or 6th): Instinto bestial
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Aumenta la regeneración de PV al 5% al infligir un golpe crítico</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Aumenta la regeneración de PV al 5% al infligir un golpe crítico</span>
 
 ### 6th Skill (or 5th): Aumentar la ventaja
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Cada golpe crítico otorga 30 más de golpe crítico</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Cada golpe crítico otorga 30 más de golpe crítico</span>
 
 ## Technical info
  **runart:** 1

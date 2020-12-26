@@ -3,7 +3,7 @@ title: "Guêpe serpent"
 permalink: /fr/units/Serpent Fly/
 excerpt: "Unités Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture."
 unitID: 803
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Guêpe serpent"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Des créatures rapides qui propagent des épidémies. Leurs proies sont les hôtes parfaits pour incuber leur progéniture.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Forteresse](/fr/units/Fraction Forteresse)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Lanceur de sort efficace pour contrôler. Réduit les DPS ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1615.0
 
  **Base ATK:** 178.3
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 32.094 | 0.6 | 3.92 | 290.7 |
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Peste des marais
  **Description:** <span style="color: #645252;font-size:20px">La Guêpe serpent inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+90)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible, et lui inflige <span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Forteresse (Groupement - Forteresse)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

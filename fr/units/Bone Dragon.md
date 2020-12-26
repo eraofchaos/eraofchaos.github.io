@@ -3,7 +3,7 @@ title: "Dragon squelette"
 permalink: /fr/units/Bone Dragon/
 excerpt: "Unités Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons."
 unitID: 307
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Dragon squelette"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Dragons squelettes sont les guerriers les plus redoutables de la Nécropole. Ils sont peut-être aussi puissants que leurs ennemis jurés, les Dragons.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Nécropole](/fr/units/Fraction Nécropole)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Réduit la défense de tous les ennemis sur le champ de bataille. Peut briser les lignes de défense ennemies avec efficacité.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5770.0
 
  **Base ATK:** 758.0
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Effroi
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon squelette inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux unités ennemies dans une large zone toutes les </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes et diminue leur résistance aux dégâts de 20 % pendant 10 secondes.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Nécropole (Groupement - Nécropole)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

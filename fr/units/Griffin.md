@@ -3,7 +3,7 @@ title: "Griffon"
 permalink: /fr/units/Griffin/
 excerpt: "Unités Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle."
 unitID: 103
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Griffon"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Griffons, symboles d'Erathia, dominent le ciel du royaume. Ces bêtes féroces sont fidèles et courageuses, et se battront jusqu'à leur dernier souffle.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige des dégâts directs en début de combat. Contre-attaque souvent et inflige des dégâts de zone.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Témoin](/fr/Emblem/Witness/) - Bonté
+
 ## Skills
 ### Capacité ultime: Contre-attaque en piqué
  **Description:** <span style="color: #645252;font-size:20px">Quand les Griffons se font attaquer, ils ont une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à 3 unités (les attaques normales ont également une chance de déclencher Plongeon).</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Ходячий мертвец"
 permalink: /ru/units/Walking Dead/
 excerpt: "Отряды Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Ходячий мертвец"
 toc: true
 ---
 ## General information
- **Description:** Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны.
+ **Описание:** Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Обладает высокой защитой, заражает врагов вокруг себя чумой.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 2758.0
 
  **Base ATK:** 117.7
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: Ядовитый газ
- **Description:** <span style="color: #645252;font-size:20px"> Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем окружающим вражеским отрядам в определенном радиусе каждые 2 сек. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px"> Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем окружающим вражеским отрядам в определенном радиусе каждые 2 сек. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 1 : Зараза
- **Description:** <span style="color: #645252;font-size:20px">&lt;Ядовитый газ&gt; ходячих мертвецов снижает АТК цели на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и постепенно </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> ее.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">&lt;Ядовитый газ&gt; ходячих мертвецов снижает АТК цели на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и постепенно </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> ее.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам в широком радиусе в течение 8 сек. Их урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам в широком радиусе в течение 8 сек. Их урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%. </span><span style="color: black">
 
 ### Обычное умение 3 : Завал из трупов
- **Description:** <span style="color: #645252;font-size:20px">Ходячие мертвецы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Если у противника, атакующего ходячих мертвецов, </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ходячие мертвецы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Если у противника, атакующего ходячих мертвецов, </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект удваивается.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Некрополь (Дозор отрядов Некрополя)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): Заразная болезнь
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ядовитый газ&gt;</span><span style="color: #645252;font-size:18px">: в начале боя эффект &lt;Ядовитого газа&gt; накладывается на все союзные отряды Некрополя ближнего боя. Эффект длится все время боя. Урон может суммироваться до 6 раз.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ядовитый газ&gt;</span><span style="color: #645252;font-size:18px">: в начале боя эффект &lt;Ядовитого газа&gt; накладывается на все союзные отряды Некрополя ближнего боя. Эффект длится все время боя. Урон может суммироваться до 6 раз.</span>
 
 ### 3rd Skill (or 4th): Осложнение
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Инфекция&gt;</span><span style="color: #645252;font-size:18px">: снижает бонусы к АТК и ЗЩТ на 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Инфекция&gt;</span><span style="color: #645252;font-size:18px">: снижает бонусы к АТК и ЗЩТ на 30%</span>
 
 ### 4th Skill (or 3rd): Сверхзараза
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Инфекция&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону отрядов еще на 10%.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Инфекция&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону отрядов еще на 10%.</span>
 
 ### 5th Skill (or 6th): Ужасный барьер
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): Пир смерти
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

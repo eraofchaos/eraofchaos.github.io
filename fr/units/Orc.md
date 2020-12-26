@@ -3,7 +3,7 @@ title: "Orque"
 permalink: /fr/units/Orc/
 excerpt: "Unités Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini."
 unitID: 403
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Orque"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Personne ne sait où les Orques cachent leurs haches, car ils semblent en avoir un nombre infini.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Bastion](/fr/units/Fraction Bastion)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Provoque Saignement en attaquant. Inflige des dégâts importants. Plus sa santé est basse, plus son attaque est puissante.
 
-## Basic stats
+## Stats de base
  **Base HP:** 662.0
 
  **Base ATK:** 82.7
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.73 | 4.4 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Exécution experte
  **Description:** <span style="color: #645252;font-size:20px">Quand un Orque combat une unité qui a moins de 30 % de PV, son ATQ augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses coups critiques augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Bastion (Groupement - Bastion)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

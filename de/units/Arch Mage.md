@@ -3,17 +3,17 @@ title: "Erzmagier"
 permalink: /de/units/Arch Mage/
 excerpt: "Einheiten Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Erzmagier"
 toc: true
 ---
 ## General information
- **Description:** Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf.
+ **Beschreibung:** Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Turm](/de/units/Fraction Turm)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Massenkontrolle über hintere Reihe des Gegners, verbessert deine Heldenzauber und reduziert die gegnerische MP-Regeneration.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.88 | 0.48 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Zauberdurchdringung
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Magierin erhöht ihren eigenen Angriff um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 20 Stapel. Die Stapel bleiben aktiv, solange das Ziel nicht gewechselt wird.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff der Magierin erhöht ihren eigenen Angriff um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 20 Stapel. Die Stapel bleiben aktiv, solange das Ziel nicht gewechselt wird.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Wirbelsturm
- **Description:** <span style="color: #645252;font-size:20px">Die Magierin beschwört einen Tornado, der 1 zufällige Einheit aus der hinteren Reihe umschließt; das Ziel kann weder angreifen noch Fähigkeiten wirken, und seine Schadensreduzierung sinkt um 100 %. Der Tornado fügt dem Ziel <span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Die Wirkungsdauer des Tornados und des Schocks beträgt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. Hintere Reihe bezieht sich auf gegnerische Einheiten ganz hinten in einer Reihe.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Magierin beschwört einen Tornado, der 1 zufällige Einheit aus der hinteren Reihe umschließt; das Ziel kann weder angreifen noch Fähigkeiten wirken, und seine Schadensreduzierung sinkt um 100 %. Der Tornado fügt dem Ziel <span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Die Wirkungsdauer des Tornados und des Schocks beträgt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. Hintere Reihe bezieht sich auf gegnerische Einheiten ganz hinten in einer Reihe.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Energieverlust
- **Description:** <span style="color: #645252;font-size:20px">Wenn Magierinnen auf dem Schlachtfeld sind, sinkt die Manaregeneration des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein verbündeter Held einen Luftzauber wirkt, gewinnt der verbündete Held 2 Mana zurück.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn Magierinnen auf dem Schlachtfeld sind, sinkt die Manaregeneration des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein verbündeter Held einen Luftzauber wirkt, gewinnt der verbündete Held 2 Mana zurück.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Magiefeld
- **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Magierin den Angriff aller verbündeten Einheiten in ihrem Weg um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für Zauberer-Einheiten verdoppelt sich der Effekt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Magierin den Angriff aller verbündeten Einheiten in ihrem Weg um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für Zauberer-Einheiten verdoppelt sich der Effekt.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Nüchterner Geist
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Explosive Energie
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Turm (Turm-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Magische Affinität
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Der Effektstapel wird auch dann nicht gelöscht, wenn &lt;Zauberdurchdringung&gt; das Ziel wechselt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Der Effektstapel wird auch dann nicht gelöscht, wenn &lt;Zauberdurchdringung&gt; das Ziel wechselt.</span>
 
 ### 2nd Skill (or 1st): Meister der Magie
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Zu Beginn der Schlacht erhält die Einheit 10 Stapel &lt;Zauberdurchdringung&gt;, die die gesamte Schlacht über aktiv bleiben.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo wird um 10 % erhöht. Zu Beginn der Schlacht erhält die Einheit 10 Stapel &lt;Zauberdurchdringung&gt;, die die gesamte Schlacht über aktiv bleiben.</span>
 
 ### 3rd Skill (or 4th): Arkanknoten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magiefeld&gt;</span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo verbündeter Einheiten vor sich um 15 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magiefeld&gt;</span><span style="color: #645252;font-size:18px">Erhöht das Angriffstempo verbündeter Einheiten vor sich um 15 %.</span>
 
 ### 4th Skill (or 3rd): Arkanes Zeichen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magiefeld&gt;</span><span style="color: #645252;font-size:18px">Zu Beginn der Schlacht wird ein weiteres &lt;Magiefeld&gt; für alle verbündeten Turm-Einheiten erschaffen; der Effekt wird nicht verdoppelt, sondern stapelt sich mit dem Effekt der vorherigen Fähigkeit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magiefeld&gt;</span><span style="color: #645252;font-size:18px">Zu Beginn der Schlacht wird ein weiteres &lt;Magiefeld&gt; für alle verbündeten Turm-Einheiten erschaffen; der Effekt wird nicht verdoppelt, sondern stapelt sich mit dem Effekt der vorherigen Fähigkeit.</span>
 
 ### 5th Skill (or 6th): Todeszoll
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Bei jedem Tod des Ziels wird das Mana gegnerischer Helden um 2 reduziert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Bei jedem Tod des Ziels wird das Mana gegnerischer Helden um 2 reduziert.</span>
 
 ### 6th Skill (or 5th): Energie-Unterdrückung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ## Technical info
  **runart:** 1

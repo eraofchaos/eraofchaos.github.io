@@ -3,17 +3,17 @@ title: "Лич"
 permalink: /ru/units/Lich/
 excerpt: "Отряды Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Лич"
 toc: true
 ---
 ## General information
- **Description:** Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения.
+ **Описание:** Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Вызывает и усиливает скелетов. Основа любой стратегии, основанной на призыве нежити.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1581.0
 
  **Base ATK:** 228.7
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Забытая фамилия](/ru/Emblem/Forgotten Autonym/) - Злой
+
 ## Skills
 ### Совершенное умение: Жертвоприношение
- **Description:** <span style="color: #645252;font-size:20px">Если цель погибает, у личей есть шанс призвать 1 скелета с </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, который будет существовать в течение всего боя.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Если цель погибает, у личей есть шанс призвать 1 скелета с </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, который будет существовать в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 1 : Ядовитое облако
- **Description:** <span style="color: #645252;font-size:20px">Обычная атака личей с вероятностью </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит урон 3 целям. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Обычная атака личей с вероятностью </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит урон 3 целям. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Темное усиление
- **Description:** <span style="color: #645252;font-size:20px">Личи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Дальность атаки у личей повышается на 50% за каждый отряд Некрополя на поле боя.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Личи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Дальность атаки у личей повышается на 50% за каждый отряд Некрополя на поле боя.</span><span style="color: black">
 
 ### Обычное умение 3 : Жертвоприношение скелета
- **Description:** <span style="color: #645252;font-size:20px">Когда личи на поле боя, скелеты и костяные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и АТК.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда личи на поле боя, скелеты и костяные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и АТК.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Некрополь (Дозор отрядов Некрополя)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Призыв скелета
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение&gt;</span><span style="color: #645252;font-size:18px">: одновременно призывается 2 скелета</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение&gt;</span><span style="color: #645252;font-size:18px">: одновременно призывается 2 скелета</span>
 
 ### 2nd Skill (or 1st): Призыв нежити
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение&gt;</span><span style="color: #645252;font-size:18px">: призванный скелет превращается в вооруженного скелета, чья обычная атака с шансом 8% оглушает цель</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение&gt;</span><span style="color: #645252;font-size:18px">: призванный скелет превращается в вооруженного скелета, чья обычная атака с шансом 8% оглушает цель</span>
 
 ### 3rd Skill (or 4th): Смертельная жертва
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение скелета&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки лича повышается на 20%, а его критический урон на 200. За каждый погибший вражеский отряд бонус удваивается. Длится 20 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение скелета&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки лича повышается на 20%, а его критический урон на 200. За каждый погибший вражеский отряд бонус удваивается. Длится 20 сек.</span>
 
 ### 4th Skill (or 3rd): Объятие Смерти
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение скелета&gt;</span><span style="color: #645252;font-size:18px">: ЗЩТ и высасывание жизни у отрядов Некрополя повышаются на 20%. За каждый погибший вражеский отряд бонус удваивается. Длится 20 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жертвоприношение скелета&gt;</span><span style="color: #645252;font-size:18px">: ЗЩТ и высасывание жизни у отрядов Некрополя повышаются на 20%. За каждый погибший вражеский отряд бонус удваивается. Длится 20 сек.</span>
 
 ### 5th Skill (or 6th): Магический контракт
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Темное усиление&gt;</span><span style="color: #645252;font-size:18px">: урон отряда личей повышается еще на 5% за каждый отряд заклинателей на поле боя</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Темное усиление&gt;</span><span style="color: #645252;font-size:18px">: урон отряда личей повышается еще на 5% за каждый отряд заклинателей на поле боя</span>
 
 ### 6th Skill (or 5th): Контракт мертвого
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда личей повышается на 5% за каждый отряд Некрополя на поле боя</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда личей повышается на 5% за каждый отряд Некрополя на поле боя</span>
 
 ## Technical info
  **runart:** 0

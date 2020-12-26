@@ -3,17 +3,17 @@ title: "Liche"
 permalink: /es/units/Lich/
 excerpt: "Unidades El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción."
 unitID: 305
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Liche"
 toc: true
 ---
 ## General information
- **Description:** El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción.
+ **Descripción:** El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Necrópolis](/es/units/Fraction Necrópolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Puede invocar y amplificar a los Esqueletos. La base de cualquier estrategia de invocación de no muertos.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1581.0
 
  **Base ATK:** 228.7
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
+* [Autónimo olvidado](/es/Emblem/Forgotten Autonym/) - Maligno
+
 ## Skills
 ### Habilidad definitiva: Sacrificio
- **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota a un objetivo, la Liche tiene una probabilidad de invocar un Esqueleto con </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV que dura toda la batalla.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se derrota a un objetivo, la Liche tiene una probabilidad de invocar un Esqueleto con </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV que dura toda la batalla.</span><span style="color: black">
 
 ### Habilidad normal 1 : Nube venenosa
- **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de la Liche tienen una probabilidad de infligir un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 objetivos. Su daño contra objetivos con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aumenta un 30%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales de la Liche tienen una probabilidad de infligir un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 objetivos. Su daño contra objetivos con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aumenta un 30%.</span><span style="color: black">
 
 ### Habilidad normal 2 : Impulso oscuro
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Liche un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El alcance del ataque de la Liche aumentará en 50 por cada unidad de Necrópolis en el campo de batalla.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Liche un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El alcance del ataque de la Liche aumentará en 50 por cada unidad de Necrópolis en el campo de batalla.</span><span style="color: black">
 
 ### Habilidad normal 3 : Sacrificio óseo
- **Description:** <span style="color: #645252;font-size:20px">Si hay una Liche en el campo de batalla, aumenta el ATQ y los PV un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los Esqueletos y los Dragones de Hueso.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una Liche en el campo de batalla, aumenta el ATQ y los PV un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los Esqueletos y los Dragones de Hueso.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+
+## Relevancia
+### Conexión de lista
+
+* Necrópolis (Lista de Necrópolis)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Invocar Esqueleto
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrificio&gt;</span><span style="color: #645252;font-size:18px">Invoca a 2 Esqueletos al mismo tiempo.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Sacrificio&gt;</span><span style="color: #645252;font-size:18px">Invoca a 2 Esqueletos al mismo tiempo.</span>
 
 ### 2nd Skill (or 1st): Invocar No Muerto
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sacrifice&gt;</span><span style="color: #645252;font-size:18px">El esqueleto invocado se convierte en un Esqueleto Armado cuyo ataque normal tiene un 8% de probabilidad de aturdir al objetivo</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Sacrifice&gt;</span><span style="color: #645252;font-size:18px">El esqueleto invocado se convierte en un Esqueleto Armado cuyo ataque normal tiene un 8% de probabilidad de aturdir al objetivo</span>
 
 ### 3rd Skill (or 4th): Sacrificio de la muerte
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Skeletal Sacrifice&gt;</span><span style="color: #645252;font-size:18px">Aumenta la velocidad de ataque de la Liche un 20% y el golpe crítico en 200. Por cada unidad hostil que muera, se duplica la bonificación. Dura 20 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Skeletal Sacrifice&gt;</span><span style="color: #645252;font-size:18px">Aumenta la velocidad de ataque de la Liche un 20% y el golpe crítico en 200. Por cada unidad hostil que muera, se duplica la bonificación. Dura 20 s</span>
 
 ### 4th Skill (or 3rd): Abrazo de la muerte
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Skeletal Sacrifice&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF y la absorción de vida un 20% para las unidades de Necrópolis. Por cada unidad hostil que muera, se duplica la bonificación. Dura 20 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Skeletal Sacrifice&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF y la absorción de vida un 20% para las unidades de Necrópolis. Por cada unidad hostil que muera, se duplica la bonificación. Dura 20 s</span>
 
 ### 5th Skill (or 6th): Contrato mágico
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Potenciador oscuro&gt;</span><span style="color: #645252;font-size:18px">El daño de la unidad de Liche aumentará un 5% más por cada unidad lanzadora amistosa en el campo de batalla</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Potenciador oscuro&gt;</span><span style="color: #645252;font-size:18px">El daño de la unidad de Liche aumentará un 5% más por cada unidad lanzadora amistosa en el campo de batalla</span>
 
 ### 6th Skill (or 5th): Contrato de los muertos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incineración&gt;</span><span style="color: #645252;font-size:18px">El daño de la unidad de Liche aumenta un 5% por cada unidad de Necrópolis en el campo de batalla</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incineración&gt;</span><span style="color: #645252;font-size:18px">El daño de la unidad de Liche aumenta un 5% por cada unidad de Necrópolis en el campo de batalla</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Homme-lézard"
 permalink: /fr/units/Lizardman/
 excerpt: "Unités Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent."
 unitID: 802
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Homme-lézard"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Des chasseurs mortels qui rôdent dans l'obscurité. Leurs flèches empoisonnées sont assez puissantes pour abattre toutes les proies qu'elles atteignent.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Forteresse](/fr/units/Fraction Forteresse)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** DPS puissants. Inflige plus de dégâts face aux grandes unités.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1144.0
 
  **Base ATK:** 174.9
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.84 | 4.16 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Fléchette empoisonnée
  **Description:** <span style="color: #645252;font-size:20px">L'Homme-lézard inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible, et lui inflige <span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Forteresse (Groupement - Forteresse)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

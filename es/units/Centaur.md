@@ -3,17 +3,17 @@ title: "Centauro"
 permalink: /es/units/Centaur/
 excerpt: "Unidades Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración."
 unitID: 201
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Centauro"
 toc: true
 ---
 ## General information
- **Description:** Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración.
+ **Descripción:** Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Murallas](/es/units/Fraction Murallas)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Ralentiza a los enemigos a su alcance. Cuantas más unidades defensivas haya en la batalla, mayor será su poder.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 2691.0
 
  **Base ATK:** 111.0
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+
 ## Skills
 ### Habilidad definitiva: Pisotón de batalla
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Centauros inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles a su alrededor y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizaciones&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Centauros inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles a su alrededor y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizaciones&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Fuerte
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Centauro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Centauro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Ferocidad
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el Ataque adicional del Centauro en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales hacen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 6 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el Ataque adicional del Centauro en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales hacen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 6 s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Líder intrépido
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Centauros un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga al Centauro un 2% más de reducción de daño de la unidad por cada unidad aliada defensiva en el campo de batalla.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Centauros un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga al Centauro un 2% más de reducción de daño de la unidad por cada unidad aliada defensiva en el campo de batalla.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Proliferación calmada
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Marca de odio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Murallas (Lista de Murallas)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Daño rápido
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Battle Stomp&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de la unidad adicional de las unidades hostiles un 20% durante 15 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Battle Stomp&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de la unidad adicional de las unidades hostiles un 20% durante 15 s</span>
 
 ### 2nd Skill (or 1st): Secuelas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pisotón de batalla&gt;</span><span style="color: #645252;font-size:18px">: Aumenta el daño de habilidad al 150% del daño básico de la habilidad y el alcance de habilidad un 20%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pisotón de batalla&gt;</span><span style="color: #645252;font-size:18px">: Aumenta el daño de habilidad al 150% del daño básico de la habilidad y el alcance de habilidad un 20%</span>
 
 ### 3rd Skill (or 4th): Marcha incansable
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Strong&gt;</span><span style="color: #645252;font-size:18px">Reducción de daño de la unidad de Centauro aumentada un 20%. El efecto se duplica cuando se enfrenta a enemigos ralentizados</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Strong&gt;</span><span style="color: #645252;font-size:18px">Reducción de daño de la unidad de Centauro aumentada un 20%. El efecto se duplica cuando se enfrenta a enemigos ralentizados</span>
 
 ### 4th Skill (or 3rd): Salmo de vida
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Strength&gt;</span><span style="color: #645252;font-size:18px">El Centauro recupera sus propios PV el equivalente al 1% de sus PV máximos por segundo</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Strength&gt;</span><span style="color: #645252;font-size:18px">El Centauro recupera sus propios PV el equivalente al 1% de sus PV máximos por segundo</span>
 
 ### 5th Skill (or 6th): Posición de guardia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fearless Leader&gt;</span><span style="color: #645252;font-size:18px">El Centauro aumenta la reducción de daño de las unidades amistosas un 20% dentro de una zona grande durante los próximos 20 s al entablar combate</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fearless Leader&gt;</span><span style="color: #645252;font-size:18px">El Centauro aumenta la reducción de daño de las unidades amistosas un 20% dentro de una zona grande durante los próximos 20 s al entablar combate</span>
 
 ### 6th Skill (or 5th): Voluntad inquebrantable
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fearless Leader&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF adicional un 30% durante 10 s cuando el Centauro tenga un escudo</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fearless Leader&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF adicional un 30% durante 10 s cuando el Centauro tenga un escudo</span>
 
 ## Technical info
  **runart:** 1

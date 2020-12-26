@@ -3,17 +3,17 @@ title: "Elementale del mare"
 permalink: /it/units/Sea Elemental/
 excerpt: "Unità Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Elementale del mare"
 toc: true
 ---
 ## General information
- **Description:** Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari.
+ **Descrizione:** Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Baia](/it/units/Fraction Baia)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Controlla il flusso della battaglia. Indebolisce costantemente i nemici.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1446.0
 
  **Base ATK:** 201.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
+## Emblemi sacri consigliati
+
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Tecnica suprema: Spirale temporale
- **Description:** <span style="color: #645252;font-size:20px">Ogni 30 secondi, l'Elementale del mare evoca un vortice della durata di 10 secondi che riduce la Vel ATT di tutte le unità nemiche nell'area (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> al secondo). Quando svanisce, il vortice infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni alle unità nemiche nell'area.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Ogni 30 secondi, l'Elementale del mare evoca un vortice della durata di 10 secondi che riduce la Vel ATT di tutte le unità nemiche nell'area (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> al secondo). Quando svanisce, il vortice infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni alle unità nemiche nell'area.</span><span style="color: black">
 
 ### Tecnica normale 1 : Dono delle maree
- **Description:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, l'Elementale del mare protegge le unità alleate di fronte a sé con uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Scudo di ghiaccio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'Elementale del mare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallenta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> le unità che lo attaccano. Lo scudo ha una durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, l'Elementale del mare protegge le unità alleate di fronte a sé con uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Scudo di ghiaccio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'Elementale del mare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallenta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> le unità che lo attaccano. Lo scudo ha una durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### Tecnica normale 2 : Rito delle maree
- **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Elementale del mare evoca un circolo che ne aumenta i PF (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black">). Riduce gli effetti di cura delle unità nemiche dell'1% ogni 2 secondi fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Elementale del mare evoca un circolo che ne aumenta i PF (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black">). Riduce gli effetti di cura delle unità nemiche dell'1% ogni 2 secondi fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica normale 3 : Gabbia abissale
- **Description:** <span style="color: #645252;font-size:20px">Ogni 20 secondi, l'Elementale del mare evoca una prigione d'acqua che intrappola 1 unità casuale nelle retrovie nemiche e le impedisce di attaccare o usare tecniche. La prigione ha una durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Ogni 20 secondi, l'Elementale del mare evoca una prigione d'acqua che intrappola 1 unità casuale nelle retrovie nemiche e le impedisce di attaccare o usare tecniche. La prigione ha una durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto piratesco
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Baia (Roster Baia)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Danza scarlatta
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Danza delle lame&gt;</span><span style="color: #645252;font-size:18px">: quando viene usata, aumenta Vel ATT e assorbimento della Naga del 30% per 20 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Danza delle lame&gt;</span><span style="color: #645252;font-size:18px">: quando viene usata, aumenta Vel ATT e assorbimento della Naga del 30% per 20 secondi.</span>
 
 ### 2nd Skill (or 1st): Danza di lame
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Danza delle lame&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 200% del valore della tecnica originale. Colpisce tutte le unità nell'area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Danza delle lame&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 200% del valore della tecnica originale. Colpisce tutte le unità nell'area.</span>
 
 ### 3rd Skill (or 4th): Lama della volontà
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Regina delle lame&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Regina delle lame&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato al 150% del valore della tecnica originale.</span>
 
 ### 4th Skill (or 3rd): Lama folle
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Regina delle lame&gt;</span><span style="color: #645252;font-size:18px">: bonus a CRIT e DAN CRIT, pari al 200% del valore precedente.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Regina delle lame&gt;</span><span style="color: #645252;font-size:18px">: bonus a CRIT e DAN CRIT, pari al 200% del valore precedente.</span>
 
 ### 5th Skill (or 6th): Pelle magica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: rende immune al danno magico per 3 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: rende immune al danno magico per 3 secondi.</span>
 
 ### 6th Skill (or 5th): Affilatura incantata
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: fornisce il 30% di DAN extra per 6 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: fornisce il 30% di DAN extra per 6 secondi.</span>
 
 ## Technical info
  **runart:** 0

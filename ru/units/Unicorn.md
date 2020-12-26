@@ -3,17 +3,17 @@ title: "Единорог"
 permalink: /ru/units/Unicorn/
 excerpt: "Отряды Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами."
 unitID: 206
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Единорог"
 toc: true
 ---
 ## General information
- **Description:** Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами.
+ **Описание:** Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами.
 
- **Class:** Штурм
+ **Класс:** Штурм
 
- **Class Description:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Снижает шанс попадания врага, обладает высоким показателем уклонения.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Зловещий знак](/ru/Emblem/Ominous Sign/) - Злой
+
 ## Skills
 ### Совершенное умение: null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">При каждом уклонении у единорогов есть большой шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При каждом уклонении у единорогов есть большой шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
 ### Обычное умение 2 : Ангельский свет
- **Description:** <span style="color: #645252;font-size:20px">Умение &lt;Ослепление&gt; повышает урон отряда по цели еще на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Умение &lt;Ослепление&gt; повышает урон отряда по цели еще на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 3 : Смелый лидер
- **Description:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Бастион (Дозор отрядов Бастиона)
+* Штурмовой отряд (Дозор штурмовых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Сияние святого духа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при ослеплении попадание снижается на 1000</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при ослеплении попадание снижается на 1000</span>
 
 ### 2nd Skill (or 1st): Воля святого духа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при запуске срабатывает ослепление</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ослепление&gt;</span><span style="color: #645252;font-size:18px">: при запуске срабатывает ослепление</span>
 
 ### 3rd Skill (or 4th): Шестое чувство
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания щита увеличен до 200% от шанса предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания щита увеличен до 200% от шанса предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Сила координации
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 200% от эффекта предыдущего умения.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Мерцающий силуэт&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 200% от эффекта предыдущего умения.</span>
 
 ### 5th Skill (or 6th): Навигация святого духа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть единорог, урон всех союзных отрядов повышается на 10% на следующие 20 сек. после гибели цели. Эффект складывается до 3 раз</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть единорог, урон всех союзных отрядов повышается на 10% на следующие 20 сек. после гибели цели. Эффект складывается до 3 раз</span>
 
 ### 6th Skill (or 5th): Убежище святого духа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: единорог создает для всех союзных отрядов щит, поглощающий урон в размере 6% от макс. ОЗ при гибели цели</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Смелый лидер&gt;</span><span style="color: #645252;font-size:18px">: единорог создает для всех союзных отрядов щит, поглощающий урон в размере 6% от макс. ОЗ при гибели цели</span>
 
 ## Technical info
  **runart:** 1

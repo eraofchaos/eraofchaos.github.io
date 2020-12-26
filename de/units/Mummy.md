@@ -3,17 +3,17 @@ title: "Mumie"
 permalink: /de/units/Mummy/
 excerpt: "Einheiten Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
 unitID: 308
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Mumie"
 toc: true
 ---
 ## General information
- **Description:** Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch.
+ **Beschreibung:** Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Nekropolis](/de/units/Fraction Nekropolis)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Krankheitsüberträger. Reduziert die Heilung aller gegnerischen Einheiten.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 2691.0
 
  **Base ATK:** 141.0
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 25.38 | 0.36 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Wollust](/de/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Fluch der Verwesung
- **Description:** <span style="color: #645252;font-size:20px">Die Mumie fügt gegnerischen Einheiten in einem bestimmten Radius alle 20 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit Wirkungsdauer 12 Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Mumie fügt gegnerischen Einheiten in einem bestimmten Radius alle 20 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit Wirkungsdauer 12 Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Leichentuch
- **Description:** <span style="color: #645252;font-size:20px">Wenn &lt;Fluch der Verwesung&gt; gewirkt wird, stellt die Fähigkeit LP in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> deiner max. LP wieder her und die Schadensreduzierung der Einheit wird 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn &lt;Fluch der Verwesung&gt; gewirkt wird, stellt die Fähigkeit LP in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> deiner max. LP wieder her und die Schadensreduzierung der Einheit wird 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Krankheitsherd
- **Description:** <span style="color: #645252;font-size:20px">Die Mumie ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Schadensreduzierung der Mumie steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Solange die Mumie sich auf dem Schlachtfeld befindet, wird die erhaltene Heilung aller gegnerischen Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Mumie ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Schadensreduzierung der Mumie steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Solange die Mumie sich auf dem Schlachtfeld befindet, wird die erhaltene Heilung aller gegnerischen Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Gott der Seuche
- **Description:** <span style="color: #645252;font-size:20px">Die ABW der Mumie wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Gegner, der die Mumie angreift, an einer </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px"> leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die ABW der Mumie wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Gegner, der die Mumie angreift, an einer </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Krankheit“</span><span style="color: black"><span style="color: #645252;font-size:20px"> leidet, wird der Effekt verdoppelt.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magische Harmonie
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Nekropolis (Nekropolis-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fluch des Verfalls
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fluch der Verwesung&gt;</span><span style="color: #645252;font-size:18px">Kann einmal alle 18 Sek. ausgelöst werden. Der Schaden wird erhöht auf 150 % des Schadens der vorherigen Fähigkeit. „Krankheit“ reduziert die Schadensreduzierung der gegnerischen Einheit zusätzlich um 10 %. Der zusätzliche Effekt wird verdoppelt gegen Ziele der Schutzwall-Fraktion. Die Reichweite von &lt;Fluch der Verwesung&gt; wird deutlich erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Fluch der Verwesung&gt;</span><span style="color: #645252;font-size:18px">Kann einmal alle 18 Sek. ausgelöst werden. Der Schaden wird erhöht auf 150 % des Schadens der vorherigen Fähigkeit. „Krankheit“ reduziert die Schadensreduzierung der gegnerischen Einheit zusätzlich um 10 %. Der zusätzliche Effekt wird verdoppelt gegen Ziele der Schutzwall-Fraktion. Die Reichweite von &lt;Fluch der Verwesung&gt; wird deutlich erhöht.</span>
 
 ### 2nd Skill (or 1st): Wille des Todes
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fluch der Verwesung&gt;</span><span style="color: #645252;font-size:18px">&lt;Fluch der Verwendung&gt; kann einmal alle 18 Sek. ausgelöst werden. Der Schaden wird erhöht auf 150 % des Schadens der vorherigen Fähigkeit. „Krankheit“ reduziert den Schaden der gegnerischen Einheit um 10 %. Die Reichweite von &lt;Fluch der Verwesung&gt; wird deutlich erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Fluch der Verwesung&gt;</span><span style="color: #645252;font-size:18px">&lt;Fluch der Verwendung&gt; kann einmal alle 18 Sek. ausgelöst werden. Der Schaden wird erhöht auf 150 % des Schadens der vorherigen Fähigkeit. „Krankheit“ reduziert den Schaden der gegnerischen Einheit um 10 %. Die Reichweite von &lt;Fluch der Verwesung&gt; wird deutlich erhöht.</span>
 
 ### 3rd Skill (or 4th): Gepanzerter Kreuzritter
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leichentuch&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Mumie wird um 20 % erhöht. Die Buff-Dauer von &lt;Leichentuch&gt; wird erhöht um 5 Sek. Erhöht die Schadensreduzierung verbündeter Einheiten in einem bestimmten Bereich zusätzlich um 20 % und stellt 5 % ihrer max. LP wieder her.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leichentuch&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Mumie wird um 20 % erhöht. Die Buff-Dauer von &lt;Leichentuch&gt; wird erhöht um 5 Sek. Erhöht die Schadensreduzierung verbündeter Einheiten in einem bestimmten Bereich zusätzlich um 20 % und stellt 5 % ihrer max. LP wieder her.</span>
 
 ### 4th Skill (or 3rd): Gehärtetes Leichentuch
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leichentuch&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Mumie wird um 20% erhöht. Die Buff-Dauer von &lt;Leichentuch&gt; wird erhöht um 5 Sek. Erhöht die Schadensreduzierung aller Nekropolis-Einheiten in einem bestimmten Bereich zusätzlich um 20 % und stellt 5 % ihrer max. LP wieder her.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leichentuch&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Mumie wird um 20% erhöht. Die Buff-Dauer von &lt;Leichentuch&gt; wird erhöht um 5 Sek. Erhöht die Schadensreduzierung aller Nekropolis-Einheiten in einem bestimmten Bereich zusätzlich um 20 % und stellt 5 % ihrer max. LP wieder her.</span>
 
 ### 5th Skill (or 6th): Mutierte Krankheit
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Krankheitsherd&gt;</span><span style="color: #645252;font-size:18px">&lt;Krankheitsherd&gt; reduziert die gegnerische Heilung um 20 %. Wirkt auf alle gegnerischen Einheiten.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Krankheitsherd&gt;</span><span style="color: #645252;font-size:18px">&lt;Krankheitsherd&gt; reduziert die gegnerische Heilung um 20 %. Wirkt auf alle gegnerischen Einheiten.</span>
 
 ### 6th Skill (or 5th): Infektion
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Krankheitsherd&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung aller gegnerischen Einheiten um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Krankheitsherd&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung aller gegnerischen Einheiten um 10 %.</span>
 
 ## Technical info
  **runart:** 1

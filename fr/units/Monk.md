@@ -3,7 +3,7 @@ title: "Moine"
 permalink: /fr/units/Monk/
 excerpt: "Unités Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat."
 unitID: 105
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Moine"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Moines sont de fervents croyants. Ils sont réputés pour leurs sorts de bénédiction, dont ils se servent pour protéger leurs alliés, mais cela ne les empêche pas de participer courageusement au combat.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Lance Exaltation, dispose d'une puissante capacité de guérison.
 
-## Basic stats
+## Stats de base
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.54 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Capacité ultime: Faveur divine
  **Description:** <span style="color: #645252;font-size:20px">Les Moines rendent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV à l'unité alliée qui a le pourcentage le moins élevé de PV toutes les 17 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

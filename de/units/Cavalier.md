@@ -3,17 +3,17 @@ title: "Kavallerist"
 permalink: /de/units/Cavalier/
 excerpt: "Einheiten Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Kavallerist"
 toc: true
 ---
 ## General information
- **Description:** Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen.
+ **Beschreibung:** Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen.
 
- **Class:** Ansturm
+ **Klasse:** Ansturm
 
- **Class Description:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
+ **Klasse Beschreibung:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
 
  **Fraction:** [Schloss](/de/units/Fraction Schloss)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Stürmt zu Beginn der Schlacht auf Feinde zu und verleiht dir so einen Vorteil.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) - Neutral
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Lanzengang
- **Description:** <span style="color: #645252;font-size:20px">Auf dem Schlachtfeld verursacht der erste Angriff eines Kavalleristen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Das Ziel wird außerdem 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Auf dem Schlachtfeld verursacht der erste Angriff eines Kavalleristen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Das Ziel wird außerdem 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Glorreicher Ansturm
- **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Kavalleristen steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> genießt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Kavalleristen steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> genießt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Schneller Durchbruch
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Kavallerist sein erstes Ziel tötet, verursacht er bei seinem nächsten Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Kavallerist sein erstes Ziel tötet, verursacht er bei seinem nächsten Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Ritter-Fertigkeiten
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Kavalleristen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine Schadensreduzierung steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Kavalleristen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine Schadensreduzierung steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schloss (Schloss-Kader)
+* Ansturm (Ansturm-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Überlebensfähigkeiten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ritterfertigkeiten&gt;</span><span style="color: #645252;font-size:18px">Erhöht LP und Magieresistenz um 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterfertigkeiten&gt;</span><span style="color: #645252;font-size:18px">Erhöht LP und Magieresistenz um 30 %.</span>
 
 ### 2nd Skill (or 1st): Kriegsfähigkeiten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ritterfertigkeiten&gt;</span><span style="color: #645252;font-size:18px">Erhöht ANG und Magieresistenz um weitere 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterfertigkeiten&gt;</span><span style="color: #645252;font-size:18px">Erhöht ANG und Magieresistenz um weitere 30 %.</span>
 
 ### 3rd Skill (or 4th): Leichtgepanzerter Rittersturm
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schneller Durchbruch&gt;</span><span style="color: #645252;font-size:18px">Aktiviert Schneller Durchbruch, wenn eine Zieleinheit getötet wird (außer beschworene Monster).</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schneller Durchbruch&gt;</span><span style="color: #645252;font-size:18px">Aktiviert Schneller Durchbruch, wenn eine Zieleinheit getötet wird (außer beschworene Monster).</span>
 
 ### 4th Skill (or 3rd): Schwergepanzerter Rittersturm
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schneller Durchbruch&gt;</span><span style="color: #645252;font-size:18px">Nach einem weiteren Angriff wird der Schaden um 150 % erhöht, und die Feinde werden 5 Sek. lang „betäubt“.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schneller Durchbruch&gt;</span><span style="color: #645252;font-size:18px">Nach einem weiteren Angriff wird der Schaden um 150 % erhöht, und die Feinde werden 5 Sek. lang „betäubt“.</span>
 
 ### 5th Skill (or 6th): Fanatismus
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung zusätzlich um 20 %. Der Effekt wird verdoppelt, wenn die Einheit „Hohe Moral“ hat.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung zusätzlich um 20 %. Der Effekt wird verdoppelt, wenn die Einheit „Hohe Moral“ hat.</span>
 
 ### 6th Skill (or 5th): Ruhiger Geist
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Im Kampf wird „Hohe Moral“ aktiviert. Garantierter kritischer Treffer. Wirkungsdauer 10 Sek.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Im Kampf wird „Hohe Moral“ aktiviert. Garantierter kritischer Treffer. Wirkungsdauer 10 Sek.</span>
 
 ## Technical info
  **runart:** 1

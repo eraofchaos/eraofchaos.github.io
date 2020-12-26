@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Mermaid"
 toc: true
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
 
+## Recommended Holy Emblems
+
+* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: D Chord
  **Description:** <span style="color: #645252;font-size:20px">The Mermaid's attack switches to healing, restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+36)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Mermaid's ATK for the friendly unit with the lowest HP percentage, and heals 1 other random unit. The extra effect can be triggered 3 times. The healing effects equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+4.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">of Mermaid's ATK.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

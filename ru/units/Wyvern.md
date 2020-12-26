@@ -3,17 +3,17 @@ title: "Виверна"
 permalink: /ru/units/Wyvern/
 excerpt: "Отряды null"
 unitID: 806
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Виверна"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [Крепость](/ru/units/Fraction Крепость)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Спец по УВС. Распространяет чуму различными способами
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 5544.0
 
  **Base ATK:** 500.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 90.0 | 0.62 | 5.6 | 997.92 |
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Дикие миазмы
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Чумной удар
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Крепость (Дозор отрядов Крепости)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): Хитрый яд
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ядовитые брызги&gt;</span><span style="color: #645252;font-size:18px">: срабатывают каждые 17 сек. и наносят цели урон в размере 10% от макс. ОЗ</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ядовитые брызги&gt;</span><span style="color: #645252;font-size:18px">: срабатывают каждые 17 сек. и наносят цели урон в размере 10% от макс. ОЗ</span>
 
 ### 3rd Skill (or 4th): Касание яда
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Хитрый коготь&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление вражеских отрядов урону на 10%. При обычной атаке у цели начинается кровотечение</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Хитрый коготь&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление вражеских отрядов урону на 10%. При обычной атаке у цели начинается кровотечение</span>
 
 ### 4th Skill (or 3rd): Посланник яда
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Хитрый коготь&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление вражеских отрядов урону на 15%. Каждая обычная атака наносит цели урон в размере 20% от ATK и вызывает кровотечение</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Хитрый коготь&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление вражеских отрядов урону на 15%. Каждая обычная атака наносит цели урон в размере 20% от ATK и вызывает кровотечение</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Дикие миазмы&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. насылает чуму на все вражеские отряды. Эффект чумы удваивается на 15 сек. Исцеление снижается еще в 1,5 раза</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дикие миазмы&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. насылает чуму на все вражеские отряды. Эффект чумы удваивается на 15 сек. Исцеление снижается еще в 1,5 раза</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Дикие миазмы&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. насылает чуму на все вражеские отряды. Длится 22 сек., складывается до 2 раз.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дикие миазмы&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. насылает чуму на все вражеские отряды. Длится 22 сек., складывается до 2 раз.</span>
 
 ## Technical info
  **runart:** 1

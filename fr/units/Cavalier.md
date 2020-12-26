@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /fr/units/Cavalier/
 excerpt: "Unités Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires."
 unitID: 106
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Cavalier"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Cavaliers galopent au combat sur le dos de leurs nobles montures, protégées par de robustes armures. Pratiquement invincibles, on leur doit de nombreuses victoires.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Charge vos ennemis en début de combat, vous donnant l'avantage.
 
-## Basic stats
+## Stats de base
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Joute
  **Description:** <span style="color: #645252;font-size:20px">Quand un Cavalier se trouve sur le champ de bataille, sa 1re attaque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sa cible pendant 5 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

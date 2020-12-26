@@ -3,17 +3,17 @@ title: "Incubo"
 permalink: /it/units/Nightmare/
 excerpt: "Unità L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Incubo"
 toc: true
 ---
 ## General information
- **Description:** L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso.
+ **Descrizione:** L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Inferno](/it/units/Fraction Inferno)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Supporto difensivo. Rende più potenti le unità Inferno.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 2691.0
 
  **Base ATK:** 84.1
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
+## Emblemi sacri consigliati
+
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: Incubo senza fine
- **Description:** <span style="color: #645252;font-size:20px">L'Incubo colpisce le unità nemiche nell'area con una maledizione ogni 30 secondi, infliggendo &lt;Combustione&gt; all'unità bersaglio per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s e riducendo le cure ricevute dalle unità nemiche nell'area circostante l'unità bersaglio (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Incubo colpisce le unità nemiche nell'area con una maledizione ogni 30 secondi, infliggendo &lt;Combustione&gt; all'unità bersaglio per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s e riducendo le cure ricevute dalle unità nemiche nell'area circostante l'unità bersaglio (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Acchiappasogni
- **Description:** <span style="color: #645252;font-size:20px">La DIF dell'Incubo aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Ogni volta che l'Incubo attacca un nemico, ne riduce la Rid DAN del 2% per 10 secondi. Cumulabile fino a 15 volte. Questo effetto non può essere rimosso.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La DIF dell'Incubo aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Ogni volta che l'Incubo attacca un nemico, ne riduce la Rid DAN del 2% per 10 secondi. Cumulabile fino a 15 volte. Questo effetto non può essere rimosso.</span><span style="color: black">
 
 ### Tecnica normale 2 : null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 3 : null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica speciale fazione I : Attacco ustionante
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero anti-incantesimo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Inferno (Roster Inferno)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Descrizione:** 
 
 ### 2nd Skill (or 1st): 
- **Description:** 
+ **Descrizione:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Descrizione:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Descrizione:** 
 
 ### 5th Skill (or 6th): 
- **Description:** 
+ **Descrizione:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Descrizione:** 
 
 ## Technical info
  **runart:** 1

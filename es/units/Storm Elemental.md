@@ -3,17 +3,17 @@ title: "Elemental de Tormenta"
 permalink: /es/units/Storm Elemental/
 excerpt: "Unidades Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Elemental de Tormenta"
 toc: true
 ---
 ## General information
- **Description:** Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo.
+ **Descripción:** Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo.
 
- **Class:** A distancia
+ **Clase:** A distancia
 
- **Class Description:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
+ **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
  **Fraction:** [Conflujo](/es/units/Fraction Conflujo)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Marcador de estática, daño adicional, ataques múltiples contra un solo objetivo.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
+## Emblemas Sagrados recomendados
+
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Marcador de estática
- **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, las unidades de Elementales de Tormenta causan </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;estática&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades enemigas a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, las unidades de Elementales de Tormenta causan </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;estática&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades enemigas a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Rebote de relámpagos
- **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Elemental de Tormenta tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de lanzar relámpagos al objetivo, lo que inflige 300% del daño.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales del Elemental de Tormenta tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de lanzar relámpagos al objetivo, lo que inflige 300% del daño.</span><span style="color: black">
 
 ### Habilidad normal 2 : Fuerza elemental
- **Description:** <span style="color: #645252;font-size:20px">Si hay un Elemental de Tormenta en el campo de batalla, este aumenta la reducción de daño contra los hechizos de aire de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la reducción de daño contra hechizos de aire de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay un Elemental de Tormenta en el campo de batalla, el maná inicial del Héroe amistoso aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay un Elemental de Tormenta en el campo de batalla, este aumenta la reducción de daño contra los hechizos de aire de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la reducción de daño contra hechizos de aire de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay un Elemental de Tormenta en el campo de batalla, el maná inicial del Héroe amistoso aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Perforación estática
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Elemental de Tormenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si el objetivo está afectado por </span><span style="color: black"><span style="color: #48b946;font-size:20px">estática</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Elemental de Tormenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si el objetivo está afectado por </span><span style="color: black"><span style="color: #48b946;font-size:20px">estática</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Afinidad elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Conflujo (Lista de Conflujo)
+* Arquero (Lista de unidades a distancia)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Cadena de estática
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Marcador de estática&gt;</span><span style="color: #645252;font-size:18px"> Al principio de la batalla, el Elemental de Tormenta causa estática en todas las unidades enemigas.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Marcador de estática&gt;</span><span style="color: #645252;font-size:18px"> Al principio de la batalla, el Elemental de Tormenta causa estática en todas las unidades enemigas.</span>
 
 ### 2nd Skill (or 1st): Venas de rayo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Marcador de estática&gt;</span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanza &lt;Marcador de estática&gt; una vez cada 30 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Marcador de estática&gt;</span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanza &lt;Marcador de estática&gt; una vez cada 30 s.</span>
 
 ### 3rd Skill (or 4th): Campo de plasma
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rebote de relámpagos&gt;</span><span style="color: #645252;font-size:18px"> Duplica la probabilidad de activar la habilidad.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rebote de relámpagos&gt;</span><span style="color: #645252;font-size:18px"> Duplica la probabilidad de activar la habilidad.</span>
 
 ### 4th Skill (or 3rd): Relámpago explosivo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rebote de relámpagos&gt;</span><span style="color: #645252;font-size:18px"> Duplica el daño de habilidad.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rebote de relámpagos&gt;</span><span style="color: #645252;font-size:18px"> Duplica el daño de habilidad.</span>
 
 ### 5th Skill (or 6th): Aura del Conflujo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la velocidad de ataque de dos unidades de retaguardia aleatorias en un 25% durante 10 s cuando un Héroe lanza un hechizo de aire.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la velocidad de ataque de dos unidades de retaguardia aleatorias en un 25% durante 10 s cuando un Héroe lanza un hechizo de aire.</span>
 
 ### 6th Skill (or 5th): Explosión del Conflujo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanzará &lt;Rebote de relámpagos&gt; 1 vez cuando un Héroe lance un hechizo de tipo aire, infligiendo daño equivalente al 300% del ATQ propio a las unidades objetivo.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px"> El Elemental de Tormenta lanzará &lt;Rebote de relámpagos&gt; 1 vez cuando un Héroe lance un hechizo de tipo aire, infligiendo daño equivalente al 300% del ATQ propio a las unidades objetivo.</span>
 
 ## Technical info
  **runart:** 0

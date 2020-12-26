@@ -3,17 +3,17 @@ title: "Druidin"
 permalink: /de/units/Druid/
 excerpt: "Einheiten Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Druidin"
 toc: true
 ---
 ## General information
- **Description:** Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt.
+ **Beschreibung:** Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Schutzwall](/de/units/Fraction Schutzwall)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Unterstützt Truppen in der hinteren Reihe, erhöht den Schaden verbündeter Einheiten und bietet Immunität gegen Magieschaden.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 844.0
 
  **Base ATK:** 102.6
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Habgier](/de/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Ruf des Waldes
- **Description:** <span style="color: #645252;font-size:20px">Sobald die das Schlachtfeld betritt, beschwört die Druidin einen magischen Kreis, der </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang andauert. Alle verbündeten Einheiten im Kreis sind immun gegen Zauberschaden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Sobald die das Schlachtfeld betritt, beschwört die Druidin einen magischen Kreis, der </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang andauert. Alle verbündeten Einheiten im Kreis sind immun gegen Zauberschaden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Überwuchern
- **Description:** <span style="color: #645252;font-size:20px">Erhöht den ANG der Druidin um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht den ANG der Druidin um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Segen des Lebens
- **Description:** <span style="color: #645252;font-size:20px">Die Druidin wirkt alle 30 Sek. auf 4 zufällige Einheiten in der vorderen Reihe einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schild“</span><span style="color: black"><span style="color: #645252;font-size:20px">, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Druidin wirkt alle 30 Sek. auf 4 zufällige Einheiten in der vorderen Reihe einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schild“</span><span style="color: black"><span style="color: #645252;font-size:20px">, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Herz der Natur
- **Description:** <span style="color: #645252;font-size:20px">Die Druidin segnet alle 25 Sek. verbündete Einheiten in einem großen Radius, wodurch 15 Sek. lang Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> steigen. Der Bonus wird verdoppelt, wenn die Druidin die Fähigkeit das erste Mal wirkt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Druidin segnet alle 25 Sek. verbündete Einheiten in einem großen Radius, wodurch 15 Sek. lang Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> steigen. Der Bonus wird verdoppelt, wenn die Druidin die Fähigkeit das erste Mal wirkt.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Hasszeichen
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schutzwall (Schutzwall-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Waldschutz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ruf des Waldes&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Nachdem er ein Mal zu Beginn des Kampfes gewirkt wurde (Dauer wird nicht halbiert), kann er alle 35 Sekunden gewirkt werden, und die Dauer wird halbiert. Die SCHD-Reduzierung (Einheit) von verbündeten Einheiten in der Formation wird um 20 % erhöht. Druide erhält eine zusätzliche Erhöhung von 6 %. Die beschworene Formation folgt dem Druiden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ruf des Waldes&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Nachdem er ein Mal zu Beginn des Kampfes gewirkt wurde (Dauer wird nicht halbiert), kann er alle 35 Sekunden gewirkt werden, und die Dauer wird halbiert. Die SCHD-Reduzierung (Einheit) von verbündeten Einheiten in der Formation wird um 20 % erhöht. Druide erhält eine zusätzliche Erhöhung von 6 %. Die beschworene Formation folgt dem Druiden.</span>
 
 ### 2nd Skill (or 1st): Segen des Waldes
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ruf des Waldes&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Nachdem er ein Mal zu Beginn des Kampfes gewirkt wurde (Dauer wird nicht halbiert), kann er alle 35 Sekunden gewirkt werden, und die Dauer wird halbiert. Der SCHD (Einheit) von verbündeten Einheiten in der Formation wird um 20 % erhöht. Druide erhält eine zusätzliche Erhöhung von 6 %. Die beschworene Formation folgt dem Druiden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ruf des Waldes&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Nachdem er ein Mal zu Beginn des Kampfes gewirkt wurde (Dauer wird nicht halbiert), kann er alle 35 Sekunden gewirkt werden, und die Dauer wird halbiert. Der SCHD (Einheit) von verbündeten Einheiten in der Formation wird um 20 % erhöht. Druide erhält eine zusätzliche Erhöhung von 6 %. Die beschworene Formation folgt dem Druiden.</span>
 
 ### 3rd Skill (or 4th): Segen der Kreaturen
- **Description:** <span style="color: #645252;font-size:18px">Der Fähigkeitseffekt von </span><span style="color: #48b946;font-size:18px">&lt;Segen des Lebens&gt;</span><span style="color: #645252;font-size:18px"> erhöht sich um 150 % seines Originaleffekts und wirkt für 2 weitere, zufällig ausgewählte, verbündete Einheiten. Der eigene erlittene Schaden einer einzelnen Instanz übersteigt nicht 25 % der eigenen max. LP.</span>
+ **Beschreibung:** <span style="color: #645252;font-size:18px">Der Fähigkeitseffekt von </span><span style="color: #48b946;font-size:18px">&lt;Segen des Lebens&gt;</span><span style="color: #645252;font-size:18px"> erhöht sich um 150 % seines Originaleffekts und wirkt für 2 weitere, zufällig ausgewählte, verbündete Einheiten. Der eigene erlittene Schaden einer einzelnen Instanz übersteigt nicht 25 % der eigenen max. LP.</span>
 
 ### 4th Skill (or 3rd): Segen der Vitalität
- **Description:** Die AKZ von <span style="color: #48b946;font-size:18px">&lt;Segen des Lebens&gt;</span><span style="color: #645252;font-size:18px"> ist um 10 Sek. reduziert und wirkt für 2 weitere, zufällig ausgewählte, verbündete Einheiten. Der eigene erlittene Schaden einer einzelnen Instanz übersteigt nicht 25 % der eigenen max. LP.</span>
+ **Beschreibung:** Die AKZ von <span style="color: #48b946;font-size:18px">&lt;Segen des Lebens&gt;</span><span style="color: #645252;font-size:18px"> ist um 10 Sek. reduziert und wirkt für 2 weitere, zufällig ausgewählte, verbündete Einheiten. Der eigene erlittene Schaden einer einzelnen Instanz übersteigt nicht 25 % der eigenen max. LP.</span>
 
 ### 5th Skill (or 6th): Zorn der Natur
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Herz der Natur&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Der Fähigkeitseffekt wirkt beim ersten Mal dreifach. Der Fähigkeitsbonuseffekt von &lt;Herz der Natur&gt; kann nicht entfernt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Herz der Natur&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Der Fähigkeitseffekt wirkt beim ersten Mal dreifach. Der Fähigkeitsbonuseffekt von &lt;Herz der Natur&gt; kann nicht entfernt werden.</span>
 
 ### 6th Skill (or 5th): Kraft der Natur
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Herz der Natur&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Der Fähigkeitseffekt wird bei jedem Wirken mit 1,5 multipliziert. Der Fähigkeitsbonuseffekt von &lt;Herz der Natur&gt; kann nicht entfernt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Herz der Natur&gt;</span><span style="color: #645252;font-size:18px"> erhöht leicht die Fähigkeitsreichweite. Der Fähigkeitseffekt wird bei jedem Wirken mit 1,5 multipliziert. Der Fähigkeitsbonuseffekt von &lt;Herz der Natur&gt; kann nicht entfernt werden.</span>
 
 ## Technical info
  **runart:** 0

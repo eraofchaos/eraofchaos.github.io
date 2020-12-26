@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /fr/units/Vampire/
 excerpt: "Unités Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin."
 unitID: 304
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Vampire"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Vampires respectent plusieurs rituels aristocratiques anciens. Vous les trouverez peut-être charmants, même chevaleresques, jusqu'au moment où ils dévoileront leurs crocs et que votre vie touchera à sa fin.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Nécropole](/fr/units/Fraction Nécropole)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige des dégâts importants quand la santé de ses ennemis est inférieure à la sienne.
 
-## Basic stats
+## Stats de base
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Drain de vie
  **Description:** <span style="color: #645252;font-size:20px">Toutes les 12 secondes, les Vampires infligent aléatoirement </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie dans une large zone et lui volent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Nécropole (Groupement - Nécropole)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

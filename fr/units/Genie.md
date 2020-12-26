@@ -3,7 +3,7 @@ title: "Djinn"
 permalink: /fr/units/Genie/
 excerpt: "Unités Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison."
 unitID: 605
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Djinn"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Des créatures magiques qui n'existent que pour exaucer les vœux des mortels. L'objet magique auquel elles sont rattachées est à la fois une maison et une prison.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Un puissant guérisseur qui fournit aussi des bonus. Les sorts de Héros activent son bonus.
 
-## Basic stats
+## Stats de base
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 32.688 | 0.36 | 5.6 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Prophète vert](/fr/Emblem/Green Prophet/) - Bonté
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Don magique
  **Description:** <span style="color: #645252;font-size:20px">Quand l'attaque de la Djinn se change en soin, elle rend une quantité de PV égale à 80 % de l'ATQ de la Djinn à l'unité alliée qui possède le pourcentage de PV le moins élevé. Les soins de la Djinn augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

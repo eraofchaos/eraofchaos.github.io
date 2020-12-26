@@ -3,17 +3,17 @@ title: "Regnanschlange"
 permalink: /de/units/Regnan Serpent/
 excerpt: "Einheiten Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Regnanschlange"
 toc: true
 ---
 ## General information
- **Description:** Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen.
+ **Beschreibung:** Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Bucht](/de/units/Fraction Bucht)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Starker Verteidiger, der Gegnergruppen abschrecken kann und ihre Kritische Trefferrate reduziert.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 3027.0
 
  **Base ATK:** 100.9
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
+
 ## Skills
 ### Ultimative Fähigkeit: null
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 1 : Meerjungfrauenrüstung
- **Description:** <span style="color: #645252;font-size:20px">Erhöht Kritischer Treffer der Regnanschlange um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Ziele mit „Abschreckung“ wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht Kritischer Treffer der Regnanschlange um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Ziele mit „Abschreckung“ wird der Effekt verdoppelt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Gezeitenkunde
- **Description:** <span style="color: #645252;font-size:20px">Wähle zu Beginn der Schlacht einen von drei Buffs aus: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Zähigkeit + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ausweichen; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schadensreduzierung + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Magieresistenz; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ABW + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schadensreflexion. Der Effekt bleibt die gesamte Schlacht über bestehen. Die Regnanschlange erhält für jeden erzielten kritischen Treffer einen zufälligen Buff; jeder Effekt ist bis zu 3 Mal stapelbar.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wähle zu Beginn der Schlacht einen von drei Buffs aus: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Zähigkeit + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Ausweichen; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schadensreduzierung + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Magieresistenz; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ABW + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schadensreflexion. Der Effekt bleibt die gesamte Schlacht über bestehen. Die Regnanschlange erhält für jeden erzielten kritischen Treffer einen zufälligen Buff; jeder Effekt ist bis zu 3 Mal stapelbar.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Kriegshorn
- **Description:** <span style="color: #645252;font-size:20px">Wenn die Regnanschlange einen kritischen Treffer erleidet, löst sie &lt;Tiefseestampfen&gt; aus. Die AKZ der Fähigkeit beträgt 8 Sek. &lt;Tiefseestampfen&gt; wird außerdem immer ausgelöst, wenn die Regnanschlange 30 % Schaden erleidet. Alle 25 Sek. lässt die Regnanschlange ein mächtiges Brüllen ertönen, das das Angriffstempo verbündeter Einheiten um sie herum 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Für Bucht-Einheiten wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn die Regnanschlange einen kritischen Treffer erleidet, löst sie &lt;Tiefseestampfen&gt; aus. Die AKZ der Fähigkeit beträgt 8 Sek. &lt;Tiefseestampfen&gt; wird außerdem immer ausgelöst, wenn die Regnanschlange 30 % Schaden erleidet. Alle 25 Sek. lässt die Regnanschlange ein mächtiges Brüllen ertönen, das das Angriffstempo verbündeter Einheiten um sie herum 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Für Bucht-Einheiten wird der Effekt verdoppelt.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Piratenoffensive
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Bucht (Bucht-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 2nd Skill (or 1st): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 5th Skill (or 6th): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Beschreibung:** 
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Units Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Lich"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
+## Recommended Holy Emblems
+
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Forgotten Autonym](/Emblem/Forgotten Autonym/) - Evil
+
 ## Skills
 ### Ultimate Skill: Sacrifice
  **Description:** <span style="color: #645252;font-size:20px">If the target is downed, Lich has a chance of summoning 1 Skeleton with </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP that lasts the entire battle.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Necropolis (Necropolis Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

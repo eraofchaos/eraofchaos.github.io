@@ -3,17 +3,17 @@ title: "Elemental del Mar"
 permalink: /es/units/Sea Elemental/
 excerpt: "Unidades Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
 unitID: 9903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Elemental del Mar"
 toc: true
 ---
 ## General information
- **Description:** Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo.
+ **Descripción:** Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Cala](/es/units/Fraction Cala)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Potente controlador de batalla. Debilita a los enemigos constantemente.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1446.0
 
  **Base ATK:** 201.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+* [Profecía rota](/es/Emblem/Broken Prophecy/) - Maligno
+* [Envidia](/es/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Espiral temporal
- **Description:** <span style="color: #645252;font-size:20px">El Elemental del Mar crea una vorágine que dura 10 s en el suelo cada 30 s que reduce la velocidad de ataque de las unidades hostiles dentro del alcance un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por segundo. La vorágine inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en la zona hasta que desaparece.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Elemental del Mar crea una vorágine que dura 10 s en el suelo cada 30 s que reduce la velocidad de ataque de las unidades hostiles dentro del alcance un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por segundo. La vorágine inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en la zona hasta que desaparece.</span><span style="color: black">
 
 ### Habilidad normal 1 : Obsequio de la pleamar
- **Description:** <span style="color: #645252;font-size:20px">Cuando entra en el campo de batalla, el Elemental del Mar crea un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ice shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades amistosas a su paso. El Elemental del Mar </span><span style="color: black"><span style="color: #48b946;font-size:20px">«ralentiza»</span><span style="color: black"><span style="color: #645252;font-size:20px"> al enemigo que lo ataca. El escudo dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando entra en el campo de batalla, el Elemental del Mar crea un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ice shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades amistosas a su paso. El Elemental del Mar </span><span style="color: black"><span style="color: #48b946;font-size:20px">«ralentiza»</span><span style="color: black"><span style="color: #645252;font-size:20px"> al enemigo que lo ataca. El escudo dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 2 : Rito de la marea
- **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, el Elemental del Mar crea un círculo que aumenta sus PV un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black">. Disminuye la curación de las unidades hostiles un 1% cada 2 segundos durante toda la batalla.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, el Elemental del Mar crea un círculo que aumenta sus PV un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black">. Disminuye la curación de las unidades hostiles un 1% cada 2 segundos durante toda la batalla.</span><span style="color: black">
 
 ### Habilidad normal 3 : Jaula del abismo
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Elementales del Mar invoca una mazmorra de agua cada 20 s que levanta a una unidad de la retaguardia enemiga y evita que ataque o use habilidades. La mazmorra de agua dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Elementales del Mar invoca una mazmorra de agua cada 20 s que levanta a una unidad de la retaguardia enemiga y evita que ataque o use habilidades. La mazmorra de agua dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Cuerpo calmado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto pirata
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Cala (Lista de Cala)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Danza rojo sangre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Al lanzarse activamente, la velocidad de ataque y la absorción de vida de la Naga aumentan un 30% en los próximos 20 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Al lanzarse activamente, la velocidad de ataque y la absorción de vida de la Naga aumentan un 30% en los próximos 20 s.</span>
 
 ### 2nd Skill (or 1st): Danza de hojas afiladas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior, inflige daño a todas las unidades dentro del alcance</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Dance&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior, inflige daño a todas las unidades dentro del alcance</span>
 
 ### 3rd Skill (or 4th): Hoja de la voluntad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El efecto de la bonificación aumenta al 150% del efecto de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El efecto de la bonificación aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 4th Skill (or 3rd): Hoja loca
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El golpe crítico y el daño crítico otorgan una bonificación para la Naga, aumentando el efecto al 200% de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blade Queen&gt;</span><span style="color: #645252;font-size:18px">El golpe crítico y el daño crítico otorgan una bonificación para la Naga, aumentando el efecto al 200% de la habilidad anterior</span>
 
 ### 5th Skill (or 6th): Aspecto mágico
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
 
 ### 6th Skill (or 5th): Filo templado con magia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
 
 ## Technical info
  **runart:** 0

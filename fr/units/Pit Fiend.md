@@ -3,7 +3,7 @@ title: "Servante des Abîmes"
 permalink: /fr/units/Pit Fiend/
 excerpt: "Unités Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage."
 unitID: 505
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Servante des Abîmes"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Servantes des Abîmes sont des démons aguerris, qui commandent des dizaines de milliers de troupes de l'Hadès. Ces créatures n'aiment rien d'autre que le carnage.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** A une aura de guérison et de bonus. L'unité de base de l'Hadès.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1850.0
 
  **Base ATK:** 174.9
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Cercle de feu
  **Description:** <span style="color: #645252;font-size:20px">La Servante des Abîmes lance Cercle de feu, ce qui rend une quantité de PV égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de leurs PV max à toutes les unités alliées dans une large zone toutes les 2 secondes pendant 8 secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Oiseau de feu"
 permalink: /fr/units/Firebird/
 excerpt: "Unités L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal."
 unitID: 907
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Oiseau de feu"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** L'Oiseau de feu est la créature la plus puissante du Conflux. Il réside dans un feu qui lui permet de vivre éternellement. Les flammes incandescentes qui l'entourent brûlent le mal.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Peut ranimer. Inflige de lourds dégâts de feu à toutes les cibles sur son chemin.
 
-## Basic stats
+## Stats de base
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Souffle de feu
  **Description:** <span style="color: #645252;font-size:20px">L'Oiseau de feu décime les unités ennemies dans une large zone devant lui, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts. Les coups critiques infligés aux unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 500.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Conflux (Groupement - Conflux)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

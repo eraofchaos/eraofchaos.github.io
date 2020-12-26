@@ -3,17 +3,17 @@ title: "Serpente di Regna"
 permalink: /it/units/Regnan Serpent/
 excerpt: "Unità Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Serpente di Regna"
 toc: true
 ---
 ## General information
- **Description:** Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari.
+ **Descrizione:** Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Baia](/it/units/Fraction Baia)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Difensore eccezionale. Applica <Impedimento> a gruppi di nemici e ne riduce il CRIT.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 3027.0
 
  **Base ATK:** 100.9
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
+## Emblemi sacri consigliati
+
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) - Neutrale
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+
 ## Skills
 ### Tecnica suprema: null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 1 : Armatura di scaglie di Sirena
- **Description:** <span style="color: #645252;font-size:20px">Il Serpente di Regna gode di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px">), DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato quando affronta nemici affetti da &lt;Impedimento&gt;</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Serpente di Regna gode di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px">), DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato quando affronta nemici affetti da &lt;Impedimento&gt;</span><span style="color: black">
 
 ### Tecnica normale 2 : Guida delle maree
- **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, scegli uno dei seguenti 3 buff: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Tenacia + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schivata; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Rid DAN + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> resistenza magica; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DIF + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN riflesso. Il bonus dura fino al termine della battaglia. Il Serpente di Regna riceve un buff casuale quando infligge un colpo critico. Ogni effetto è cumulabile fino a 3 volte.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, scegli uno dei seguenti 3 buff: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Tenacia + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schivata; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Rid DAN + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> resistenza magica; </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DIF + </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN riflesso. Il bonus dura fino al termine della battaglia. Il Serpente di Regna riceve un buff casuale quando infligge un colpo critico. Ogni effetto è cumulabile fino a 3 volte.</span><span style="color: black">
 
 ### Tecnica normale 3 : Corno da battaglia
- **Description:** <span style="color: #645252;font-size:20px">Quando infligge un colpo critico, il Serpente di Regna usa anche &lt;Schiacciata abissale&gt;. Recupero: 8 secondi. Quando il Serpente di Regna subisce il 30% di danno, usa automaticamente &lt;Schiacciata abissale&gt;. Il Serpente di Regna emette un potente grido di guerra ogni 25 secondi che aumenta la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il DAN CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità alleate in un'ampia area per 10 secondi. Effetto raddoppiato per le unità Baia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando infligge un colpo critico, il Serpente di Regna usa anche &lt;Schiacciata abissale&gt;. Recupero: 8 secondi. Quando il Serpente di Regna subisce il 30% di danno, usa automaticamente &lt;Schiacciata abissale&gt;. Il Serpente di Regna emette un potente grido di guerra ogni 25 secondi che aumenta la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il DAN CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità alleate in un'ampia area per 10 secondi. Effetto raddoppiato per le unità Baia.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto piratesco
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Baia (Roster Baia)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Descrizione:** 
 
 ### 2nd Skill (or 1st): 
- **Description:** 
+ **Descrizione:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Descrizione:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Descrizione:** 
 
 ### 5th Skill (or 6th): 
- **Description:** 
+ **Descrizione:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Descrizione:** 
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Diablotin"
 permalink: /fr/units/Imp/
 excerpt: "Unités Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat."
 unitID: 501
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Diablotin"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Diablotins sont certes des démons de bas niveau, mais ils sont rusés, violents, et leur folie sème la terreur en combat.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Peut être ranimé sans cesse. Étourdit les cibles. Peut être amélioré par la Servante des Abîmes.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1224.0
 
  **Base ATK:** 51.3
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.234 | 0.42 | 7.28 | 220.32 |
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
+* [Colère](/fr/Emblem/Anger/) - Chaos
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Capacité ultime: Impulsion
  **Description:** <span style="color: #645252;font-size:20px">Quand un Diablotin meurt, il a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de chances de ressusciter avec tous ses PV.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

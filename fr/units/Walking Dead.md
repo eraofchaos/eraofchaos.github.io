@@ -3,7 +3,7 @@ title: "Trépassé"
 permalink: /fr/units/Walking Dead/
 excerpt: "Unités Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent."
 unitID: 302
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Trépassé"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Ces corps en décomposition réanimés par des nécromanciens sont dépourvus de toute pensée, mais participent tout de même au combat. Leurs corps gonflés et putrides sont volatiles, et sèment le chaos lorsqu'ils explosent.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Nécropole](/fr/units/Fraction Nécropole)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** A une défense élevée, répand la peste sur les ennemis à proximité.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2758.0
 
  **Base ATK:** 117.7
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Gaz toxique
  **Description:** <span style="color: #645252;font-size:20px">Les Trépassés infligent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à toutes les unités ennemies dans un certain rayon autour d'eux toutes les 2 secondes. Les dégâts infligés aux cibles victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> augmentent de 30 %.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Nécropole (Groupement - Nécropole)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

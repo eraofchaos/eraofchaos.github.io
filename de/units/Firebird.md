@@ -3,17 +3,17 @@ title: "Feuervogel"
 permalink: /de/units/Firebird/
 excerpt: "Einheiten Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht."
 unitID: 907
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Feuervogel"
 toc: true
 ---
 ## General information
- **Description:** Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht.
+ **Beschreibung:** Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Konflux](/de/units/Fraction Konflux)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Kann wiederbeleben, fügt allen Zielen vor sich kolossalen Feuerschaden zu.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
+* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+
 ## Skills
 ### Ultimative Fähigkeit: Flammenodem
- **Description:** <span style="color: #645252;font-size:20px">Der Feuervogel dezimiert gegnerische Einheiten in einem großen Bereich vor sich und fügt ihnen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Kritischer Treffer wird gegen Einheiten mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> um 500 erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Feuervogel dezimiert gegnerische Einheiten in einem großen Bereich vor sich und fügt ihnen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Kritischer Treffer wird gegen Einheiten mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> um 500 erhöht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Flammenzunge
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Feuervogel eine 9-Mann-Einheit angreift, verursacht sein Standardangriff </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 gegnerische Einheiten.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn der Feuervogel eine 9-Mann-Einheit angreift, verursacht sein Standardangriff </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 gegnerische Einheiten.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Auferstehung
- **Description:** <span style="color: #645252;font-size:20px">Nach seinem ersten Tod wird der Feuervogel nach 5 Sek. wiederbelebt mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nach seinem ersten Tod wird der Feuervogel nach 5 Sek. wiederbelebt mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner LP.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Feuerverstärkung
- **Description:** <span style="color: #645252;font-size:20px">Der Feuervogel ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Kritischer Schaden ist um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Feuervogel ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Kritischer Schaden ist um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Elementare Affinität
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Offensive Elemente
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Konflux (Konflux-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ewige Flamme
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Wird nach jedem Tod wiedergeboren (AKZ der Fähigkeit 20 Sek.).</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Wird nach jedem Tod wiedergeboren (AKZ der Fähigkeit 20 Sek.).</span>
 
 ### 2nd Skill (or 1st): Endloser Sturm
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Nach der Auferstehung fügt die Einheit allen gegnerischen Einheiten Schaden in Höhe von 8 % der max. LP sowie 15 Sek. lang „Verbrennung“ zu.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Nach der Auferstehung fügt die Einheit allen gegnerischen Einheiten Schaden in Höhe von 8 % der max. LP sowie 15 Sek. lang „Verbrennung“ zu.</span>
 
 ### 3rd Skill (or 4th): Angriff des Kreuzes
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flammenodem&gt;</span><span style="color: #645252;font-size:18px">Fügt Feinden in der Reihe des Ziels zusätzlichen Schaden zu (Ziele auf einer Kreuzung erleiden doppelten Schaden).</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Flammenodem&gt;</span><span style="color: #645252;font-size:18px">Fügt Feinden in der Reihe des Ziels zusätzlichen Schaden zu (Ziele auf einer Kreuzung erleiden doppelten Schaden).</span>
 
 ### 4th Skill (or 3rd): Lavaodem
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flammenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden wird auf 200 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Flammenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden wird auf 200 % erhöht.</span>
 
 ### 5th Skill (or 6th): Endloser Zorn
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerverstärkung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Einheit wird um weitere 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerverstärkung&gt;</span><span style="color: #645252;font-size:18px">Der Schaden der Einheit wird um weitere 30 % erhöht.</span>
 
 ### 6th Skill (or 5th): Intensive Flammen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerverstärkung&gt;</span><span style="color: #645252;font-size:18px">Gegen Ziele mit „Verbrennung“ wird ein garantierter kritischer Treffer erzielt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerverstärkung&gt;</span><span style="color: #645252;font-size:18px">Gegen Ziele mit „Verbrennung“ wird ein garantierter kritischer Treffer erzielt.</span>
 
 ## Technical info
  **runart:** 0

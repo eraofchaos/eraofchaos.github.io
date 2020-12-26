@@ -3,17 +3,17 @@ title: "Зеленый дракон"
 permalink: /ru/units/Green Dragon/
 excerpt: "Отряды Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Зеленый дракон"
 toc: true
 ---
 ## General information
- **Description:** Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми.
+ **Описание:** Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Атакует войска в заднем ряду, нанося большой урон от магии Воды по области.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 4525.0
 
  **Base ATK:** 1018.2
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: Волна яда
- **Description:** <span style="color: #645252;font-size:20px">Зеленые драконы плюются перед собой ядом в широком радиусе каждые 30 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона нелетающим вражеским отрядам в пределах досягаемости. Наносят на 50% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы плюются перед собой ядом в широком радиусе каждые 30 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона нелетающим вражеским отрядам в пределах досягаемости. Наносят на 50% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 1 : Ядовитое дыхание
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : Чешуя Зеленого дракона
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Подкрепление с небес
- **Description:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Бастион (Дозор отрядов Бастиона)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Фантомный яд
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Волна яда&gt;</span><span style="color: #645252;font-size:18px">: применяется каждые 20 сек. Исцеление всех вражеских отрядов, на которые действует поток яда, снижается на 30%.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Волна яда&gt;</span><span style="color: #645252;font-size:18px">: применяется каждые 20 сек. Исцеление всех вражеских отрядов, на которые действует поток яда, снижается на 30%.</span>
 
 ### 2nd Skill (or 1st): Эпидемия малярии
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Поток яда&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Поток яда&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
 
 ### 3rd Skill (or 4th): Антимагическая чешуя дракона
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Чешуя Зеленого дракона&gt;</span><span style="color: #645252;font-size:18px">: вместо сопротивления урону стихией Воды повышается сопротивление магии. Первые 30 сек. после вступления золотых драконов в бой союзные отряды Бастиона и Подземелья получают +20% к УРН отряда и иммунитет к урону от кровотечения.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Чешуя Зеленого дракона&gt;</span><span style="color: #645252;font-size:18px">: вместо сопротивления урону стихией Воды повышается сопротивление магии. Первые 30 сек. после вступления золотых драконов в бой союзные отряды Бастиона и Подземелья получают +20% к УРН отряда и иммунитет к урону от кровотечения.</span>
 
 ### 4th Skill (or 3rd): Природный ветер
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Чешуя зеленого дракона&gt;</span><span style="color: #645252;font-size:18px">: увеличенное сопротивление урону Воды превращается в сопротивление Магии. При этом скорость АТК повышается до 50% от скорости АТК предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Чешуя зеленого дракона&gt;</span><span style="color: #645252;font-size:18px">: увеличенное сопротивление урону Воды превращается в сопротивление Магии. При этом скорость АТК повышается до 50% от скорости АТК предыдущего умения</span>
 
 ### 5th Skill (or 6th): Ярость неба
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление с небес&gt;</span><span style="color: #645252;font-size:18px">: наносит урон врагам и снижает их исцеление на 30% в течение 30 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление с небес&gt;</span><span style="color: #645252;font-size:18px">: наносит урон врагам и снижает их исцеление на 30% в течение 30 сек.</span>
 
 ### 6th Skill (or 5th): Забота нимфы
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление с небес&gt;</span><span style="color: #645252;font-size:18px">: для всех союзных отрядов создается щит, поглощающий урон в размере 10% от макс. ОЗ</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление с небес&gt;</span><span style="color: #645252;font-size:18px">: для всех союзных отрядов создается щит, поглощающий урон в размере 10% от макс. ОЗ</span>
 
 ## Technical info
  **runart:** 0

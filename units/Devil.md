@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Devil"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Arrogance](/Emblem/Arrogance/) - Chaos
+* [King's Calamity](/Emblem/King's Calamity/) - Evil
+
 ## Skills
 ### Ultimate Skill: Painful Reaper
  **Description:** <span style="color: #645252;font-size:20px">Strike the furthest unit in front as soon as battle starts (attack a random back-row unit if there is no valid target), dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage, and summon a chasm of fire that causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 0.5s for 6s. Causes a 6s </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the first time. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Can be deployed in any position. Skill reset when target unit dies)</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Spell Resistance Resonance
  **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Inferno (Inferno Roster)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

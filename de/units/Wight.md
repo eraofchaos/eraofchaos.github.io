@@ -3,17 +3,17 @@ title: "Geist"
 permalink: /de/units/Wight/
 excerpt: "Einheiten Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Geist"
 toc: true
 ---
 ## General information
- **Description:** Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten.
+ **Beschreibung:** Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Nekropolis](/de/units/Fraction Nekropolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Lässt den Feind direkt vor sich verstummen, verursacht beim Tod Stille bei allen Feinden.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 662.0
 
  **Base ATK:** 107.5
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.35 | 0.52 | 4.16 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Grauenhaftes Kreischen
- **Description:** <span style="color: #645252;font-size:20px">Auf dem Schlachtfeld verursacht der erste Angriff eines Geistes mit hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Stille“</span><span style="color: black"><span style="color: #645252;font-size:20px"> bei einer gegnerischen Einheit im Weg. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Auf dem Schlachtfeld verursacht der erste Angriff eines Geistes mit hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Stille“</span><span style="color: black"><span style="color: #645252;font-size:20px"> bei einer gegnerischen Einheit im Weg. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Inkarnation des Schreckens
- **Description:** <span style="color: #645252;font-size:20px">Der ANG des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Erhöht den ANG um 8 % für jede verbündete Einheit, die auf dem Schlachtfeld stirbt. Wirkt die ganze Schlacht über, maximal 10 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der ANG des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Erhöht den ANG um 8 % für jede verbündete Einheit, die auf dem Schlachtfeld stirbt. Wirkt die ganze Schlacht über, maximal 10 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Fluch des Missgeschicks
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Geist besiegt wird, wirkt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stille&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle gegnerischen Einheiten. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Geist besiegt wird, wirkt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stille&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle gegnerischen Einheiten. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Unsichtbarkeit
- **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn er Schaden durch einen gegnerischen Zauber erleidet, erhält der Held 10 Mana zurück.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn er Schaden durch einen gegnerischen Zauber erleidet, erhält der Held 10 Mana zurück.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magische Harmonie
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Nekropolis (Nekropolis-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fluch der Untoten
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Unsichtbarkeit&gt;</span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er eine tödliche Schallwelle, die gegnerischen Einheiten in seiner Reihe, außer Nekropolis-Einheiten, Schaden in Höhe von 5 % der max. LP zufügt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unsichtbarkeit&gt;</span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er eine tödliche Schallwelle, die gegnerischen Einheiten in seiner Reihe, außer Nekropolis-Einheiten, Schaden in Höhe von 5 % der max. LP zufügt.</span>
 
 ### 2nd Skill (or 1st): Tödlicher Segen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Unsichtbarkeit&gt;</span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er einen fatalen Segen, der die Schadensreduzierung verbündeter Nekropolis-Einheiten bis zum Ende der Schlacht um 10 % erhöht, bis 3 Stapel.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unsichtbarkeit&gt;</span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er einen fatalen Segen, der die Schadensreduzierung verbündeter Nekropolis-Einheiten bis zum Ende der Schlacht um 10 % erhöht, bis 3 Stapel.</span>
 
 ### 3rd Skill (or 4th): Panikattacke
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Einheiten, die von Grauenhaftes Kreischen mit Stille belegt werden, erhalten für die Dauer der Stille einen Malus von 50 % auf ihre Magieresistenz.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Einheiten, die von Grauenhaftes Kreischen mit Stille belegt werden, erhalten für die Dauer der Stille einen Malus von 50 % auf ihre Magieresistenz.</span>
 
 ### 4th Skill (or 3rd): Meisterhaftes Kreischen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Der Bonus auf Magieresistenz für verbündete Nekropolis-Einheiten in derselben Reihe wird 25 Sek. lang um 50 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Der Bonus auf Magieresistenz für verbündete Nekropolis-Einheiten in derselben Reihe wird 25 Sek. lang um 50 % erhöht.</span>
 
 ### 5th Skill (or 6th): Erschütterte Seele
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 8 % reduziert, bis 20 Stapel. Der Effekt kann nicht gebannt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 8 % reduziert, bis 20 Stapel. Der Effekt kann nicht gebannt werden.</span>
 
 ### 6th Skill (or 5th): Grauenhaftes Schauspiel
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 16 % reduziert, bis 6 Stapel. Der Effekt kann nicht gebannt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 16 % reduziert, bis 6 Stapel. Der Effekt kann nicht gebannt werden.</span>
 
 ## Technical info
  **runart:** 0

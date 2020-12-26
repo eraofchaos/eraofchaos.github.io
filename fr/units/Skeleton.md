@@ -3,7 +3,7 @@ title: "Squelette"
 permalink: /fr/units/Skeleton/
 excerpt: "Unités Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis."
 unitID: 301
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Squelette"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Ces os fragiles peuvent sembler inutiles, mais ils démoralisent rapidement leurs ennemis.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Nécropole](/fr/units/Fraction Nécropole)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Immunisé contre Saignement, renvoie les dégâts et résiste aux dégâts à distance.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1158.0
 
  **Base ATK:** 57.9
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Capacité ultime: Bouclier d'os
  **Description:** <span style="color: #645252;font-size:20px">Le Squelette génère un bouclier d'os quand ses PV tombent pour la première fois sous la barre des 50 %. Ce bouclier diminue les dégâts subis par l'unité de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Nécropole (Groupement - Nécropole)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

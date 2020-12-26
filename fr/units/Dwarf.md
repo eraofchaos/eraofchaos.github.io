@@ -3,7 +3,7 @@ title: "Nain"
 permalink: /fr/units/Dwarf/
 excerpt: "Unités Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux."
 unitID: 202
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Nain"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Nains sont des défenseurs nés qui gardent leurs ennemis à distance avec une détermination d'acier. Ils sont coléreux, et le bruit de leurs marteaux suffit pour terrifier ceux qui voudraient s'opposer à eux.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Augmente la santé de l'unité entière et réduit les dégâts magiques infligés à vos unités à proximité.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.38 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.4 | 9.13 | 264.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Hurlement du Nain
  **Description:** <span style="color: #645252;font-size:20px">Au début du combat, les Nains augmentent les PV de toutes les unités alliées de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+15.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> dans une large zone. La résistance aux dégâts de l'unité augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et la DÉF de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant toute la durée du combat.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

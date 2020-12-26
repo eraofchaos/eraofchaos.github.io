@@ -3,17 +3,17 @@ title: "Esqueleto"
 permalink: /es/units/Skeleton/
 excerpt: "Unidades Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Esqueleto"
 toc: true
 ---
 ## General information
- **Description:** Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos.
+ **Descripción:** Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Necrópolis](/es/units/Fraction Necrópolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inmune a sangrado, refleja el daño y es resistente al daño a distancia.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1158.0
 
  **Base ATK:** 57.9
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
+## Emblemas Sagrados recomendados
+
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
+* [Avaricia](/es/Emblem/Greed/) - Caos
+* [Lujuria](/es/Emblem/Lust/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Escudo óseo
- **Description:** <span style="color: #645252;font-size:20px">El Esqueleto genera un escudo de huesos para sí mismo cuando sus PV se reducen por debajo del 50% por primera; el escudo reduce el daño que recibe la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Esqueleto genera un escudo de huesos para sí mismo cuando sus PV se reducen por debajo del 50% por primera; el escudo reduce el daño que recibe la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Espina ósea
- **Description:** <span style="color: #645252;font-size:20px">El Esqueleto refleja un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del daño recibido.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Esqueleto refleja un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del daño recibido.</span><span style="color: black">
 
 ### Habilidad normal 2 : Convertir en piedra
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Esqueleto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el reflejo de daño un 10%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Esqueleto un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el reflejo de daño un 10%.</span><span style="color: black">
 
 ### Habilidad normal 3 : Caja torácica
- **Description:** <span style="color: #645252;font-size:20px">Los Esqueletos son inmunes a </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño que reciben de las unidades a distancia se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los Esqueletos son inmunes a </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño que reciben de las unidades a distancia se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+
+## Relevancia
+### Conexión de lista
+
+* Necrópolis (Lista de Necrópolis)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Huesos encantados
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rib Cage&gt;</span><span style="color: #645252;font-size:18px">Otorga una reducción de daño que también afecta a las unidades lanzahechizos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rib Cage&gt;</span><span style="color: #645252;font-size:18px">Otorga una reducción de daño que también afecta a las unidades lanzahechizos</span>
 
 ### 2nd Skill (or 1st): Esqueleto malvado
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caja Torácica&gt;<span style="color: #645252;font-size:18px">Aumenta la DEF un 30%. El efecto se duplica si la unidad enemiga atacante está &lt;desmoralizada&gt;</span>.
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Caja Torácica&gt;<span style="color: #645252;font-size:18px">Aumenta la DEF un 30%. El efecto se duplica si la unidad enemiga atacante está &lt;desmoralizada&gt;</span>.
 
 ### 3rd Skill (or 4th): Nutrición mortal
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF un 30% por cada unidad hostil que muera durante la batalla; se acumula hasta 3 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF un 30% por cada unidad hostil que muera durante la batalla; se acumula hasta 3 veces.</span>
 
 ### 4th Skill (or 3rd): Obsesión de los no muertos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Convertir en Piedra&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica y la DEF un 30%.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Convertir en Piedra&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica y la DEF un 30%.</span>
 
 ### 5th Skill (or 6th): Armado hasta los dientes
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Bone Shield&gt;</span><span style="color: #645252;font-size:18px">El efecto dura toda la batalla</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bone Shield&gt;</span><span style="color: #645252;font-size:18px">El efecto dura toda la batalla</span>
 
 ### 6th Skill (or 5th): Potencial latente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Convertir en Piedra&gt;</span><span style="color: #645252;font-size:18px">La habilidad se activa al entrar en la batalla. Duración aumentada a 30 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Convertir en Piedra&gt;</span><span style="color: #645252;font-size:18px">La habilidad se activa al entrar en la batalla. Duración aumentada a 30 s.</span>
 
 ## Technical info
  **runart:** 1

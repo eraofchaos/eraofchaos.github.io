@@ -3,17 +3,17 @@ title: "Regnanbogensch."
 permalink: /de/units/Regnan Archer/
 excerpt: "Einheiten Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Regnanbogensch."
 toc: true
 ---
 ## General information
- **Description:** Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel.
+ **Beschreibung:** Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel.
 
- **Class:** Fernkampf
+ **Klasse:** Fernkampf
 
- **Class Description:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
+ **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
  **Fraction:** [Bucht](/de/units/Fraction Bucht)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Kritischer Treffer und Durchdringung. Tödlicher Kämpfer.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1245.0
 
  **Base ATK:** 235.5
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Tödlicher Pfeil
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden und zusätzlich Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP bei einem kritischen Treffer. Fügt alle 5 Sek. gegnerischen Einheiten in derselben Reihe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre ABW 15 Sek. lang um 10 %; bis zu 3 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden und zusätzlich Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP bei einem kritischen Treffer. Fügt alle 5 Sek. gegnerischen Einheiten in derselben Reihe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre ABW 15 Sek. lang um 10 %; bis zu 3 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Taktiktraining
- **Description:** <span style="color: #645252;font-size:20px">Erhöht Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn eine Einheit auf dem Schlachtfeld getötet wird. Der Effekt ist 4 Mal stapelbar. Erhöht das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und gewährt garantierte kritische Treffer, sobald die LP der Einheit unter 30 % sinken. Dieser Effekt bleibt 7 Sek. lang bestehen und kann nur einmal ausgelöst werden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+24)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn eine Einheit auf dem Schlachtfeld getötet wird. Der Effekt ist 4 Mal stapelbar. Erhöht das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*7+45)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und gewährt garantierte kritische Treffer, sobald die LP der Einheit unter 30 % sinken. Dieser Effekt bleibt 7 Sek. lang bestehen und kann nur einmal ausgelöst werden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Flutriesenarmbrust
- **Description:** <span style="color: #645252;font-size:20px">Der Schaden der Regnanbogenschützin wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Zu Beginn der Schlacht fügt sie 2 zufälligen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG sowie zusätzlich 25 % der max. LP als Schaden zu. Die Ziele werden außerdem 8 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schaden der Regnanbogenschützin wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+3.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Zu Beginn der Schlacht fügt sie 2 zufälligen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+35)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG sowie zusätzlich 25 % der max. LP als Schaden zu. Die Ziele werden außerdem 8 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Schussunterstützung
- **Description:** <span style="color: #645252;font-size:20px">Fügt der Einheit mit den prozentual niedrigsten LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre ABW um 30 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Fügt der Einheit mit den prozentual niedrigsten LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+12.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre ABW um 30 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Piratenoffensive
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Bucht (Bucht-Kader)
+* Bogenschütze (Fernkampf-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Beschreibung:** 
 
 ## Technical info
  **runart:** 0

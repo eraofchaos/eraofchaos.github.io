@@ -3,17 +3,17 @@ title: "Ogre"
 permalink: /it/units/Ogre/
 excerpt: "Unità Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Ogre"
 toc: true
 ---
 ## General information
- **Description:** Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue.
+ **Descrizione:** Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Roccaforte](/it/units/Fraction Roccaforte)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Fa scudo con il proprio corpo e rende più letali le tue unità da mischia.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
+## Emblemi sacri consigliati
+
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
+* [Lussuria](/it/Emblem/Lust/) - Caos
+
 ## Skills
 ### Tecnica suprema: Pozza di sangue
- **Description:** <span style="color: #645252;font-size:20px">L'Ogre evoca una pozza di sangue che aumenta l'assorbimento delle unità alleate in un'ampia area (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La pozza rimane attiva per 15 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Ogre evoca una pozza di sangue che aumenta l'assorbimento delle unità alleate in un'ampia area (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La pozza rimane attiva per 15 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Pelle dello Stregone
- **Description:** <span style="color: #645252;font-size:20px">L'Ogre gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">), rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Ogre gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">), rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%).</span><span style="color: black">
 
 ### Tecnica normale 2 : Raptus
- **Description:** <span style="color: #645252;font-size:20px">Quando i PF dell'Ogre sono inferiori al 35%, l'ATT delle unità alleate aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando i PF dell'Ogre sono inferiori al 35%, l'ATT delle unità alleate aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica normale 3 : Cura veleno
- **Description:** <span style="color: #645252;font-size:20px">Se un Ogre è sul campo di battaglia, gli effetti curativi sulle unità alleate sono più efficaci (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se un Ogre è sul campo di battaglia, gli effetti curativi sulle unità alleate sono più efficaci (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Combattenti devoti
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Vitalità aumentata
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Roccaforte (Roster Roccaforte)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Pozza curativa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pozza di sangue&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Durata aumentata di 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pozza di sangue&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Durata aumentata di 10 secondi.</span>
 
 ### 2nd Skill (or 1st): Sorgente naturale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pozza di sangue&gt;</span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato del 50%, portata aumentata</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pozza di sangue&gt;</span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato del 50%, portata aumentata</span>
 
 ### 3rd Skill (or 4th): Cuore selvaggio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. Effetto raddoppiato dopo l'attivazione di &lt;Raptus&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. Effetto raddoppiato dopo l'attivazione di &lt;Raptus&gt;.</span>
 
 ### 4th Skill (or 3rd): Canto incoraggiante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. DAN aumentato a 200% del valore base della tecnica dopo l'attivazione di &lt;Raptus&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. DAN aumentato a 200% del valore base della tecnica dopo l'attivazione di &lt;Raptus&gt;.</span>
 
 ### 5th Skill (or 6th): Ondata antica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale.</span>
 
 ### 6th Skill (or 5th): Difesa del Patriarca
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: la tecnica rimane attiva anche dopo la morte dell'Ogre.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: la tecnica rimane attiva anche dopo la morte dell'Ogre.</span>
 
 ## Technical info
  **runart:** 1

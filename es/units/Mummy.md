@@ -3,17 +3,17 @@ title: "Momia"
 permalink: /es/units/Mummy/
 excerpt: "Unidades Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Momia"
 toc: true
 ---
 ## General information
- **Description:** Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar.
+ **Descripción:** Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Necrópolis](/es/units/Fraction Necrópolis)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Portador de enfermedades. Reduce la curación de todas las unidades hostiles.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 2691.0
 
  **Base ATK:** 141.0
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 25.38 | 0.36 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Lujuria](/es/Emblem/Lust/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Maldición de putrefacción
- **Description:** <span style="color: #645252;font-size:20px">La Momia inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que estén a cierta distancia a su alrededor cada 20 s y provoca una </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 12 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La Momia inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que estén a cierta distancia a su alrededor cada 20 s y provoca una </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 12 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Velo
- **Description:** <span style="color: #645252;font-size:20px">Cuando se lanza &lt;Maldición de Putrefacción&gt;, recupera PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de tus PV máximos y aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se lanza &lt;Maldición de Putrefacción&gt;, recupera PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de tus PV máximos y aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
 ### Habilidad normal 2 : Fuente de enfermedades
- **Description:** <span style="color: #645252;font-size:20px">La Momia es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de la Momia un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una Momia en el campo de batalla, los efectos curativos que reciben las unidades enemigas se reducen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La Momia es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de la Momia un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una Momia en el campo de batalla, los efectos curativos que reciben las unidades enemigas se reducen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Dios de la plaga
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la DEF de la Momia un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si el enemigo al que está atacando la Momia tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, el efecto se duplica.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la DEF de la Momia un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si el enemigo al que está atacando la Momia tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, el efecto se duplica.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+
+## Relevancia
+### Conexión de lista
+
+* Necrópolis (Lista de Necrópolis)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Maldición de descomposición
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Decaying Curse&gt;</span><span style="color: #645252;font-size:18px"> se puede activar 1 vez cada 18 s. El daño que inflige aumenta hasta el 150% del daño de la habilidad anterior. La «enfermedad» disminuye un 10% más la reducción de daño de la unidad enemiga. El efecto adicional se duplica si el objetivo es de la facción de Murallas. El alcance de &lt;Decaying Curse&gt; se amplia mucho</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Decaying Curse&gt;</span><span style="color: #645252;font-size:18px"> se puede activar 1 vez cada 18 s. El daño que inflige aumenta hasta el 150% del daño de la habilidad anterior. La «enfermedad» disminuye un 10% más la reducción de daño de la unidad enemiga. El efecto adicional se duplica si el objetivo es de la facción de Murallas. El alcance de &lt;Decaying Curse&gt; se amplia mucho</span>
 
 ### 2nd Skill (or 1st): Voluntad de la muerte
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Decaying Curse&gt;</span><span style="color: #645252;font-size:18px">&lt;Decaying Curse&gt; se puede activar 1 vez cada 18 s. El daño que inflige aumenta hasta el 150% del daño de la habilidad anterior. La «enfermedad» disminuye el daño de unidad de las unidades hostiles un 10%. La enfermedad no se puede disipar. El alcance de &lt;Decaying Curse&gt; se amplia mucho</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Decaying Curse&gt;</span><span style="color: #645252;font-size:18px">&lt;Decaying Curse&gt; se puede activar 1 vez cada 18 s. El daño que inflige aumenta hasta el 150% del daño de la habilidad anterior. La «enfermedad» disminuye el daño de unidad de las unidades hostiles un 10%. La enfermedad no se puede disipar. El alcance de &lt;Decaying Curse&gt; se amplia mucho</span>
 
 ### 3rd Skill (or 4th): Cruzado con armadura
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Shroud&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Shroud&gt; aumenta en 5 s. Aumenta la reducción de daño adicional de la unidad un 20% para las unidades amistosas a cierta distancia y recupera un 5% de sus PV máximos.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Shroud&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Shroud&gt; aumenta en 5 s. Aumenta la reducción de daño adicional de la unidad un 20% para las unidades amistosas a cierta distancia y recupera un 5% de sus PV máximos.</span>
 
 ### 4th Skill (or 3rd): Velo endurecido
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Velo&gt;</span><span style="color: #645252;font-size:18px">: La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Velo&gt; aumenta a 5 s. Aumenta la reducción de daño de la unidad un 20% adicional para todas las unidades de Necrópolis y recupera un 5% de sus PV máximos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Velo&gt;</span><span style="color: #645252;font-size:18px">: La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Velo&gt; aumenta a 5 s. Aumenta la reducción de daño de la unidad un 20% adicional para todas las unidades de Necrópolis y recupera un 5% de sus PV máximos</span>
 
 ### 5th Skill (or 6th): Mutación de enfermedad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Source of Disease&gt;</span><span style="color: #645252;font-size:18px">Fuente de enfermedades disminuye la curación de los enemigos un 20%. El efecto afecta a todas las unidades hostiles</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Source of Disease&gt;</span><span style="color: #645252;font-size:18px">Fuente de enfermedades disminuye la curación de los enemigos un 20%. El efecto afecta a todas las unidades hostiles</span>
 
 ### 6th Skill (or 5th): Infección de enfermedad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Source of Disease&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de la unidad de todos los enemigos un 10%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Source of Disease&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de la unidad de todos los enemigos un 10%</span>
 
 ## Technical info
  **runart:** 1

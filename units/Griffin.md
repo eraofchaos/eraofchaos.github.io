@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Units Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Griffin"
 toc: true
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Witness](/Emblem/Witness/) - Goodness
+
 ## Skills
 ### Ultimate Skill: Diving Counterattack
  **Description:** <span style="color: #645252;font-size:20px">When Griffins are under attack, they have a chance of dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+94}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 units. (Normal attack also has a chance to trigger Dive)</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Faction Special Skill II : Defense Resonance
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Castle (Castle Roster)
+* Charging (Charging Roster)
+
+### Hero Bonus
 
 ## Talent
 

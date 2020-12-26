@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /units/Wicked Lady/
 excerpt: "Units  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Wicked Lady"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
 
+## Recommended Holy Emblems
+
+* [Ancient Fire](/Emblem/Ancient Fire/) - Order
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimate Skill:  Soul Burst
  **Description:** <span style="color: #645252;font-size:20px">Every 18 seconds, cause your own </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+150}%</span><span style="color: black"><span style="color: #645252;font-size:20px">2 Corps within a certain range of the target unit. 20]Attack and target </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Damage to max life and 30% chance of additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Evil Poison\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Inflicts an evil witch target on 1 enemy magic corps</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+2.6}%</span><span style="color: black"><span style="color: # 64525;font-size:20px"> maximum life damage and additional </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"evil poison\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"evil poison\"</span><span style="color: black">[ color=645252,fontsize=20]The effect lasts for 2 seconds. Normal attack ignores enemy's 300 defense. </span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Regular Skill 6 :  Bloody Dungeon
  **Description:** <span style="color: #645252;font-size:20px">Increases </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 dungeon corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps w/o injury. Expand when releasing Soul Burst</span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Blood Dungeon\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field Effect grows with skill level, lasts 15 seconds, cooldown 30 seconds</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Dungeon (Dungeon Rosters)
+* Charging (Charging Roster)
+
+### Hero Bonus
 
 ## Talent
 

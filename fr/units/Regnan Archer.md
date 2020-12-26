@@ -3,7 +3,7 @@ title: "Arbalétrière de Regna"
 permalink: /fr/units/Regnan Archer/
 excerpt: "Unités Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe."
 unitID: 9902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Arbalétrière de Regna"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Elle est destinée à s'enrichir. Partout où elle pointe sa flèche, rien ne lui échappe.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Coups critiques et pénétration. Sème la destruction.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1245.0
 
  **Base ATK:** 235.5
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Flèche mortelle
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts ainsi qu'une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max en cas de coup critique. Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts toutes les 5 secondes aux unités ennemies situées sur la même ligne, et réduit leur DÉF de 10 % pendant 15 secondes. Cet effet peut se cumuler jusqu'à 3 fois.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

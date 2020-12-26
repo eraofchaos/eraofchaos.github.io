@@ -3,17 +3,17 @@ title: "Monaco"
 permalink: /it/units/Monk/
 excerpt: "Unità I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Monaco"
 toc: true
 ---
 ## General information
- **Description:** I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate.
+ **Descrizione:** I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Castello](/it/units/Fraction Castello)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Fornisce <Morale alto>. Eccellente guaritore.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.54 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
 
+## Emblemi sacri consigliati
+
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+* [Avarizia](/it/Emblem/Greed/) - Caos
+
 ## Skills
 ### Tecnica suprema: Preghiera
- **Description:** <span style="color: #645252;font-size:20px">I Monaci curano di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF l'unità alleata con la percentuale di PF minore ogni 17 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Monaci curano di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF l'unità alleata con la percentuale di PF minore ogni 17 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Benedizione del valoroso
- **Description:** <span style="color: #645252;font-size:20px">All'inizio del combattimento, i Monaci applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate sul proprio percorso per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio del combattimento, i Monaci applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate sul proprio percorso per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### Tecnica normale 2 : Meditazione
- **Description:** <span style="color: #645252;font-size:20px">Se i Monaci sono sul campo di battaglia, il tasso di recupero degli incantesimi degli eroi aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se i Monaci sono sul campo di battaglia, il tasso di recupero degli incantesimi degli eroi aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 3 : Rigenerazione
- **Description:** <span style="color: #645252;font-size:20px">PF dei Monaci aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 50%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">PF dei Monaci aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 50%.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Assedio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero difensivo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Castello (Roster Castello)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Inquisizione della Sacra Luce
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. All'inizio della battaglia, il Monaco aumenta inoltre del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 60 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco infligge danni pari al 10% del proprio ATT alle unità Inferno nemiche ogni 2 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. All'inizio della battaglia, il Monaco aumenta inoltre del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 60 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco infligge danni pari al 10% del proprio ATT alle unità Inferno nemiche ogni 2 secondi.</span>
 
 ### 2nd Skill (or 1st): Benedizione della Sacra Luce
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 120 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco cura le unità Castello alleate di una quantità di PF pari al 10% del loro ATT ogni 2 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 120 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco cura le unità Castello alleate di una quantità di PF pari al 10% del loro ATT ogni 2 secondi.</span>
 
 ### 3rd Skill (or 4th): Benedizione splendente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 10 il mana degli eroi. Recupero: 3 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 10 il mana degli eroi. Recupero: 3 secondi.</span>
 
 ### 4th Skill (or 3rd): Magnifica grazia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 0,5 la rigenerazione del mana degli eroi. Recupero: 3 secondi. Il buff alla rigenerazione del mana può essere applicato fino a 4 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 0,5 la rigenerazione del mana degli eroi. Recupero: 3 secondi. Il buff alla rigenerazione del mana può essere applicato fino a 4 volte.</span>
 
 ### 5th Skill (or 6th): Giudizio dei Savi
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, avvia un attacco in 3 fasi contro l'unità nemica con i PF più bassi, infliggendo danni pari al 150% del proprio ATT.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, avvia un attacco in 3 fasi contro l'unità nemica con i PF più bassi, infliggendo danni pari al 150% del proprio ATT.</span>
 
 ### 6th Skill (or 5th): Salmo rituale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, cura in 3 fasi distinte l'unità alleata con i PF più bassi di una quantità di PF pari al 150% del proprio ATT.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, cura in 3 fasi distinte l'unità alleata con i PF più bassi di una quantità di PF pari al 150% del proprio ATT.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Cyclope"
 permalink: /fr/units/Cyclops/
 excerpt: "Unités Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons."
 unitID: 406
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Cyclope"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Cyclopes sont connus pour leur œil unique et leurs corps imposants. Ils sont violents et féroces. Leur lignée remonte aux démons.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Bastion](/fr/units/Fraction Bastion)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Dispose d'une puissante attaque de zone, efficace pour défendre les unités plus petites.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5091.0
 
  **Base ATK:** 678.8
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.6 | 5.0 | 916.38 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.63 | 5.63 | 1018.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Pierre de feu
  **Description:** <span style="color: #645252;font-size:20px">Les Cyclopes lancent des explosifs dans une large zone devant eux, ce qui </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies touchées et leur inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts toutes les 2 secondes pendant 8 secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Bastion (Groupement - Bastion)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

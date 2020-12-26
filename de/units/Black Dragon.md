@@ -3,17 +3,17 @@ title: "Schwarzer Drache"
 permalink: /de/units/Black Dragon/
 excerpt: "Einheiten Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Schwarzer Drache"
 toc: true
 ---
 ## General information
- **Description:** Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben.
+ **Beschreibung:** Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Dungeon](/de/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Die Spitze der Nahrungskette. Ihm kann nichts etwas anhaben.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 8712.0
 
  **Base ATK:** 430.0
@@ -59,21 +59,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 77.4 | 0.44 | 8.96 | 1568.16 |
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Wollust](/de/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Drachenodem
- **Description:** <span style="color: #645252;font-size:20px">Der Schwarze Drache fügt alle 15 Sek. allen gegnerischen Einheiten in einem sehr hohen Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu; außerdem fügt er Einheiten in der Nähe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP sowie 6 Sek. lang <span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schwarze Drache fügt alle 15 Sek. allen gegnerischen Einheiten in einem sehr hohen Radius </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu; außerdem fügt er Einheiten in der Nähe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP sowie 6 Sek. lang <span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Schwarze Drachenschuppe
- **Description:** <span style="color: #645252;font-size:20px">Der Schwarze Drache ist immun gegen <span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> und <span style="color: #48b946;font-size:20px">&lt;Verbrennung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn er einen kritischen Treffer erleidet, stellt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wieder her, AKZ 6 Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schwarze Drache ist immun gegen <span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> und <span style="color: #48b946;font-size:20px">&lt;Verbrennung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn er einen kritischen Treffer erleidet, stellt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wieder her, AKZ 6 Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Magieimmunität
- **Description:** <span style="color: #645252;font-size:20px">Immun gegen von Helden verursachten Zauberschaden. Erhöht jedes Mal, wenn &lt;Drachenodem&gt; gewirkt wird, die Schadensreduzierung des Drachen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seinen Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht, bis zu 4 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Immun gegen von Helden verursachten Zauberschaden. Erhöht jedes Mal, wenn &lt;Drachenodem&gt; gewirkt wird, die Schadensreduzierung des Drachen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seinen Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht, bis zu 4 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Hitzebeständigkeit
- **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Schwarzen Drachen wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Abwehr um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Einheiten mit <span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird die Schadensreduzierung verdoppelt. Bei Angriffen auf Turm-Einheiten steigt der Schaden der Einheit um 50 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Schwarzen Drachen wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Abwehr um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Einheiten mit <span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> wird die Schadensreduzierung verdoppelt. Bei Angriffen auf Turm-Einheiten steigt der Schaden der Einheit um 50 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit : Finsterer Konflikt
- **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Dungeon (Dungeon-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Magnetschuppen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der schwarze Drache 1 Stapel eines Buffs, bis 6 Stapel. Der Buff kann nicht gebannt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der schwarze Drache 1 Stapel eines Buffs, bis 6 Stapel. Der Buff kann nicht gebannt werden.</span>
 
 ### 2nd Skill (or 1st): Geschmolzene Drachenrüstung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der Schwarze Drache 2 Stapel eines Buffs, bis 4 Stapel. Der Buff kann nicht gebannt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der Schwarze Drache 2 Stapel eines Buffs, bis 4 Stapel. Der Buff kann nicht gebannt werden.</span>
 
 ### 3rd Skill (or 4th): Nährstoffe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schwarze Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Stellt 2 % der max. LP wieder her, wenn ein kritischer Treffer erlitten wird. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schwarze Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Stellt 2 % der max. LP wieder her, wenn ein kritischer Treffer erlitten wird. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
 
 ### 4th Skill (or 3rd): Vulkanblock
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schwarze Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Die Heilung des Schwarzen Drachen wird um 10 % erhöht. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schwarze Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Die Heilung des Schwarzen Drachen wird um 10 % erhöht. Wenn der Schwarze Drache durch einen einzelnen Angriff mehr als 10 % seiner max. LP erleiden würde, wird der Schaden auf 10 % reduziert.</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden von &lt;Drachenodem&gt; wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache &lt;Drachenodem&gt; einmal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden von &lt;Drachenodem&gt; wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache &lt;Drachenodem&gt; einmal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden von &lt;Drachenodem&gt; wird auf 150 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache &lt;Drachenodem&gt; einmal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachenodem&gt;</span><span style="color: #645252;font-size:18px">Der Schaden von &lt;Drachenodem&gt; wird auf 150 % des Schadens der vorherigen Fähigkeit erhöht. Wenn ein gegnerischer Held einen Zauber wirkt, setzt der Schwarze Drache &lt;Drachenodem&gt; einmal ein (Zauberbrecher-Fähigkeit kann nicht ausgelöst werden, weil es sich nicht um eine Zauberbrecher-Fähigkeit handelt). AKZ 15 Sek.</span>
 
 ## Technical info
  **runart:** 1

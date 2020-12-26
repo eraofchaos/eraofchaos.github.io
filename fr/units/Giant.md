@@ -3,7 +3,7 @@ title: "Géant"
 permalink: /fr/units/Giant/
 excerpt: "Unités Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps."
 unitID: 607
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Géant"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Des Géants à l'armure dorée qui vivent dans les nuages et attaquent en lançant des éclairs. D'après la légende, ces créatures immortelles furent créées par des êtres anciens qui gouvernaient ce monde il y a bien longtemps.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Peut infliger des dégâts magiques à tous les ennemis. Les sorts de Héros augmentent son attaque.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.48 | 3.92 | 1181.16 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Roc"
 permalink: /es/units/Roc/
 excerpt: "Unidades El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Roc"
 toc: true
 ---
 ## General information
- **Description:** El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses.
+ **Descripción:** El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Bastión](/es/units/Fraction Bastión)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige mucho daño mágico para golpear a varios objetivos de forma efectiva.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 4978.0
 
  **Base ATK:** 792.0
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Envidia](/es/Emblem/Jealousy/) - Caos
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Trueno
- **Description:** <span style="color: #645252;font-size:20px">El Roc inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande delante de él y reduce su precisión en 200 durante 10 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Roc inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande delante de él y reduce su precisión en 200 durante 10 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Golpe de bola de rayos
- **Description:** <span style="color: #645252;font-size:20px">Cuando el Roc se enfrenta a unidades de nueve, los ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a tres unidades hostiles.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando el Roc se enfrenta a unidades de nueve, los ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a tres unidades hostiles.</span><span style="color: black">
 
 ### Habilidad normal 2 : Destrozo
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Roc en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando los PV están por debajo del 35%, el efecto se duplica. (Sigue teniendo efecto aunque se recuperen PV)</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Roc en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando los PV están por debajo del 35%, el efecto se duplica. (Sigue teniendo efecto aunque se recuperen PV)</span><span style="color: black">
 
 ### Habilidad normal 3 : Barrera de huracán
- **Description:** <span style="color: #645252;font-size:20px">Si hay un Roc en el campo de batalla, la precisión de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay un Roc en el campo de batalla, la precisión de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Lucha fanática
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Bastión saben cómo luchar en batallas de larga duración. Su velocidad de ataque aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada 15% de los PV perdidos.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Aumento de vitalidad
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Bastión dominan la curación en el campo de batalla, lo que aumenta su regeneración de PV (restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Bastión (Lista de Bastión)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Tempestad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Trueno&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Trueno&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 200% del daño de la habilidad anterior.</span>
 
 ### 2nd Skill (or 1st): Electrocución
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Trueno&gt; </span><span style="color: #645252;font-size:18px">La precisión se reduce en 2000</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Trueno&gt; </span><span style="color: #645252;font-size:18px">La precisión se reduce en 2000</span>
 
 ### 3rd Skill (or 4th): Instinto cazador
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad Roc un 10% (se duplica con Destrozo activado).</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad Roc un 10% (se duplica con Destrozo activado).</span>
 
 ### 4th Skill (or 3rd): Rapidez de la naturaleza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño crítico de la unidad Roc un 15% (se duplica con Destrozo activado)</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño crítico de la unidad Roc un 15% (se duplica con Destrozo activado)</span>
 
 ### 5th Skill (or 6th): Implosión
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Barrera de huracán&gt;</span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 8% de los PV máximos a 1 unidad enemiga aleatoria.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Barrera de huracán&gt;</span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 8% de los PV máximos a 1 unidad enemiga aleatoria.</span>
 
 ### 6th Skill (or 5th): Conmoción eléctrica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Barrera de huracán&gt;</span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 15% de los PV máximos a 1 miembro de una unidad enemiga aleatoria.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Barrera de huracán&gt;</span><span style="color: #645252;font-size:18px"> Lanza una sucesión de rayos cada 10 s que infligen daño igual al 15% de los PV máximos a 1 miembro de una unidad enemiga aleatoria.</span>
 
 ## Technical info
  **runart:** 0

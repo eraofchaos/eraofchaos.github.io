@@ -3,7 +3,7 @@ title: "Gargouille"
 permalink: /fr/units/Stone Gargoyle/
 excerpt: "Unités Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat."
 unitID: 602
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Gargouille"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Ces statues démoniaques enchantées protègent les domaines privés des Mages. Elles adorent tourmenter les ennemies en dessous d'elles en combat.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Peut se changer en pierre pour améliorer toutes ces caractéristiques. Capable de rompre efficacement les lignes de défense ennemies.
 
-## Basic stats
+## Stats de base
  **Base HP:** 300.0
 
  **Base ATK:** 48.0
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.18 | 0.54 | 4.52 | 136.98 |
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Forme de pierre
  **Description:** <span style="color: #645252;font-size:20px">La Gargouille passe en &lt;Forme de pierre&gt; pendant 10 secondes toutes les 20 secondes. Son ATQ augmente alors de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et sa vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

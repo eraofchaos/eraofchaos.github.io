@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of INTERNAL (unreleased) Unidades"
 permalink: /es/units/internal/
 excerpt: "List of INTERNAL Unidades in Era of Chaos"
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "internal"
 toc: false

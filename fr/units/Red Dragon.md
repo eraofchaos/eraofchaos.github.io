@@ -3,7 +3,7 @@ title: "Dragon rouge"
 permalink: /fr/units/Red Dragon/
 excerpt: "Unités C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons."
 unitID: 708
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Dragon rouge"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** C'est le Seigneur de guerre des Dragons. Son rugissement engendre une réponse de la part de ses confrères, mais fait aussi office de déclaration de la dignité des dragons.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Le Dragon rugit, ce qui l'immunise aux prises de contrôle. Le sang du dragon véritable résonne chez les autres membres de son espèce.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5431.0
 
  **Base ATK:** 769.3
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.84 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
+* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Brasier rugissant
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon rouge rugit toutes les 15 secondes, infligeant des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à toutes les unités ennemies à distance et de Lanceurs de sorts, tout en infligeant des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ et des dégâts supplémentaires équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max à toutes les unités de mêlée ennemies. Une marque de haine sera également infligée aux cibles. Cet effet peut se cumuler jusqu'à 4 fois. Les dégâts infligés par &lt;Brasier rugissant&gt; augmenteront de 20 % par marque de haine sur l'unité ennemie. Les dégâts du Dragon rouge augmentent de 50 % lorsqu'il combat des unités de la Tour.</span><span style="color: black">
@@ -70,6 +76,14 @@ toc: true
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /fr/units/Gorgon/
 excerpt: "Unités D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais."
 unitID: 805
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Gorgone"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** D'immondes créatures aux yeux mortels. Tant qu'elles montent la garde, nul ne sort vivant des marais.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Forteresse](/fr/units/Fraction Forteresse)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Tank puissant. Peut tuer instantanément les ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 3094.0
 
  **Base ATK:** 121.1
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 9.68 | 556.92 |
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Forteresse (Groupement - Forteresse)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

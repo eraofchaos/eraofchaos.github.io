@@ -3,17 +3,17 @@ title: "Лесной эльф"
 permalink: /ru/units/Wood Elf/
 excerpt: "Отряды Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Лесной эльф"
 toc: true
 ---
 ## General information
- **Description:** Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел.
+ **Описание:** Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел.
 
- **Class:** Стрелковый
+ **Класс:** Стрелковый
 
- **Class Description:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Наносит огромный взрывной урон, двойной удар. Эффективнее всего против маленьких отрядов.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 438.4
 
  **Base ATK:** 92.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
+## Рекомендуемые эмблемы святости
+
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+
 ## Skills
 ### Совершенное умение: null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у лесных эльфов есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у лесных эльфов есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### Обычное умение 2 : Убежище эльфа
- **Description:** <span style="color: #645252;font-size:20px">Каждый лесной эльф получает 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждый раз, как вражеский герой применяет заклинание, и поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в течение 5 сек. Перезарядка - 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Каждый лесной эльф получает 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждый раз, как вражеский герой применяет заклинание, и поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в течение 5 сек. Перезарядка - 10 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Сосредоточить огонь на вражеском лидере
- **Description:** <span style="color: #645252;font-size:20px">Лесные эльфы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Лесным эльфам дается дополнительно 40 ед. критического удара за каждый стрелковый отряд на поле боя.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Лесные эльфы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Лесным эльфам дается дополнительно 40 ед. критического удара за каждый стрелковый отряд на поле боя.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Бастион (Дозор отрядов Бастиона)
+* Стрелок (Дозор стрелковых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Град стрел&gt;</span><span style="color: #645252;font-size:18px">: при получении бонусов &lt;Бешенства&gt; урон отряда увеличивается на 20% на 5 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Град стрел&gt;</span><span style="color: #645252;font-size:18px">: при получении бонусов &lt;Бешенства&gt; урон отряда увеличивается на 20% на 5 сек.</span>
 
 ### 2nd Skill (or 1st): Ливень
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Град стрел&gt;</span><span style="color: #645252;font-size:18px">: длительность увеличивается на 1,5 секунды</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Град стрел&gt;</span><span style="color: #645252;font-size:18px">: длительность увеличивается на 1,5 секунды</span>
 
 ### 3rd Skill (or 4th): Соглядатай природы
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убежище эльфа&gt;</span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 300% от эффекта предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убежище эльфа&gt;</span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 300% от эффекта предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Склонность к природе
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убежище эльфа&gt;</span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 150% от эффекта предыдущего умения &lt;Восстановление&gt; сокращается до 0 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убежище эльфа&gt;</span><span style="color: #645252;font-size:18px">: эффект щита усиливается до 150% от эффекта предыдущего умения &lt;Восстановление&gt; сокращается до 0 сек.</span>
 
 ### 5th Skill (or 6th): Выпустить зверя
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Призыв огня&gt;</span><span style="color: #645252;font-size:18px">: КРИТ. УРН повышается на 15%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 3% для каждого стрелкового отряда на поле боя.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Призыв огня&gt;</span><span style="color: #645252;font-size:18px">: КРИТ. УРН повышается на 15%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 3% для каждого стрелкового отряда на поле боя.</span>
 
 ### 6th Skill (or 5th): Охотничий инстинкт
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Призыв огня&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается на 10%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 2% для каждого стрелкового отряда на поле боя</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Призыв огня&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается на 10%. КРИТ. УРН лесного эльфа в дальнейшем будет увеличен на 2% для каждого стрелкового отряда на поле боя</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Red Dragon"
 toc: true
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.84 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 6.5 | 1086.2 |
 
+## Recommended Holy Emblems
+
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) - Neutral
+* [King's Calamity](/Emblem/King's Calamity/) - Evil
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Roaring Blaze
  **Description:** <span style="color: #645252;font-size:20px">Red Dragon roars every 15s, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK to all enemy Ranged/Caster units, while dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to all enemy Melee units while adding a Hatred mark, which stacks up to 4 times. Damage dealt by &lt;Roaring Blaze&gt; increases by 20% for every Hatred mark an enemy unit has. Increases Red Dragon's Unit DMG by 50% when fighting against Tower units.</span><span style="color: black">
@@ -70,6 +76,14 @@ toc: true
 
 ### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Dungeon (Dungeon Rosters)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

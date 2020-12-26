@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Units They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Druid"
 toc: true
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
+## Recommended Holy Emblems
+
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+* [Greed](/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Call of the Forest
  **Description:** <span style="color: #645252;font-size:20px">After entering battle, the Druid summons a magic circle that lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. All friendly units standing in the circle are immune to spell damage.</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Rampart (Rampart Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

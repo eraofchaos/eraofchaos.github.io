@@ -3,7 +3,7 @@ title: "Centaure"
 permalink: /fr/units/Centaur/
 excerpt: "Unités Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration."
 unitID: 201
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Centaure"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Centaures sont des guerriers nés. Ils se spécialisent dans l'art de la guerre dès leur plus jeune âge. Ce sont des combattants polyvalents, doués pour l'attaque, le combat et l'exploration.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Ralentit vos ennemis à proximité. Plus les unités défensives en combat sont nombreuses, plus elles sont puissantes.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2691.0
 
  **Base ATK:** 111.0
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+
 ## Skills
 ### Capacité ultime: Choc guerrier
  **Description:** <span style="color: #645252;font-size:20px">Le Centaure inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à toutes les unités ennemies autour de lui et les </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

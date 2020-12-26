@@ -3,7 +3,7 @@ title: "Chevalier noir"
 permalink: /fr/units/Black Knight/
 excerpt: "Unités Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin."
 unitID: 306
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Chevalier noir"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Chevaliers noirs sont possédés par de terribles malédictions. Ils rôdent dans la Nécropole, et tuent tous ceux qui croisent leur chemin.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Nécropole](/fr/units/Fraction Nécropole)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** La meilleure unité d'assaut. Inflige des dégâts directs élevés et se renforce au combat.
 
-## Basic stats
+## Stats de base
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Témoin](/fr/Emblem/Witness/) - Bonté
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Frappe fatale
  **Description:** <span style="color: #645252;font-size:20px">Le Chevalier noir inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> point de dégâts à sa cible, ainsi que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Démotivation&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Nécropole (Groupement - Nécropole)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

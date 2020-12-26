@@ -3,7 +3,7 @@ title: "Démon"
 permalink: /fr/units/Demon/
 excerpt: "Unités Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair."
 unitID: 504
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Démon"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Démons cornus sont réputés pour les cornes tranchantes qu'ils portent sur leur front. Elles sont leur arme la plus puissante, capables de pénétrer l'armure de leurs ennemis et de déchirer leur chair.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Un bouclier corporel avec une esquive élevée. Restaure la santé en cas d'esquive réussie. Peut être amélioré par la Servante des Abîmes.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2489.0
 
  **Base ATK:** 114.4
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.592 | 0.38 | 9.2 | 448.02 |
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+* [Signe inquiétant](/fr/Emblem/Ominous Sign/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Frappe brûlante
  **Description:** <span style="color: #645252;font-size:20px">Les Démons infligent aléatoirement </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie dans une large zone et augmentent leur esquive de 300 pendant 12 secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

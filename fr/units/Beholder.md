@@ -3,7 +3,7 @@ title: "Œil maléfique"
 permalink: /fr/units/Beholder/
 excerpt: "Unités Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants."
 unitID: 703
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Œil maléfique"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Ces monstres aux nombreux yeux sont rusés. Ils considèrent toutes les autres créatures comme leurs servants.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Excellente unité pour commencer le combat. Affaiblit les ennemis en début de combat pour faciliter la victoire.
 
-## Basic stats
+## Stats de base
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Contrôle mental
  **Description:** <span style="color: #645252;font-size:20px">L'Œil maléfique contrôle une unité ennemie aléatoire. La cible subit une quantité de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max par seconde pendant 8 secondes. Lorsqu'elle est contrôlée, l'unité ciblée est dans l'incapacité d'attaquer, de bouger ou d'utiliser des compétences.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

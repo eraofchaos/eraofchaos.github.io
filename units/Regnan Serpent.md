@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Units The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Regnan Serpent"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
+## Recommended Holy Emblems
+
+* [Gear of Time](/Emblem/Gear of Time/) - Goodness
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Aksoe Token](/Emblem/Aksoe Token/) - Neutral
+
 ## Skills
 ### Ultimate Skill: null
  **Description:** 
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

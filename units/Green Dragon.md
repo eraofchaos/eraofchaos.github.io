@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
+## Recommended Holy Emblems
+
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Arrogance](/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Flood of Poison
  **Description:** <span style="color: #645252;font-size:20px">The Green Dragon unit spits venom within a vast range in front of it every 30s, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to non-flying hostile units within range. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> target units is increased by 50%.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Faction Special Skill II : Hatred Mark
  **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Rampart (Rampart Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

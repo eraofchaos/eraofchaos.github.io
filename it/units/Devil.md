@@ -3,17 +3,17 @@ title: "Diavolo"
 permalink: /it/units/Devil/
 excerpt: "Unità Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Diavolo"
 toc: true
 ---
 ## General information
- **Description:** Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie.
+ **Descrizione:** Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie.
 
- **Class:** Attacco
+ **Classe:** Attacco
 
- **Class Description:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
+ **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
  **Fraction:** [Inferno](/it/units/Fraction Inferno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Può essere schierato in qualsiasi posizione. Fa breccia nelle retrovie nemiche e possiede un'Aura che riduce i PF.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
+
 ## Skills
 ### Tecnica suprema: Mietitore sadico
- **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, attacca l'unità di fronte a sé più lontana (in mancanza di un bersaglio valido, un'unità casuale nelle retrovie) infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ed evocando un abisso di fuoco che infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 0,5 secondi per 6 secondi. Causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi la prima volta. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Può essere schierato in qualsiasi posizione. (La tecnica torna disponibile quando l'unità bersaglio muore)</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, attacca l'unità di fronte a sé più lontana (in mancanza di un bersaglio valido, un'unità casuale nelle retrovie) infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ed evocando un abisso di fuoco che infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ogni 0,5 secondi per 6 secondi. Causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi la prima volta. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Può essere schierato in qualsiasi posizione. (La tecnica torna disponibile quando l'unità bersaglio muore)</span><span style="color: black">
 
 ### Tecnica normale 1 : Tortura crudele
- **Description:** <span style="color: #645252;font-size:20px">Infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali. Se affronta unità affette da </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il CRIT aumenta di 500.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali. Se affronta unità affette da </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il CRIT aumenta di 500.</span><span style="color: black">
 
 ### Tecnica normale 2 : Appassimento
- **Description:** <span style="color: #645252;font-size:20px">Mentre questa unità è sul campo di battaglia, infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi a tutte le unità nemiche ogni 2 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Mentre questa unità è sul campo di battaglia, infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi a tutte le unità nemiche ogni 2 secondi.</span><span style="color: black">
 
 ### Tecnica normale 3 : Strazia-anime
- **Description:** <span style="color: #645252;font-size:20px">ATT dell'unità aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità Castello, il suo danno aumenta del 50%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">ATT dell'unità aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità Castello, il suo danno aumenta del 50%.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Attacco ustionante
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero anti-incantesimo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Inferno (Roster Inferno)
+* Attacco (Roster unità d'attacco)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Autorità oscura
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Mietitore sadico&gt;</span><span style="color: #645252;font-size:18px">: i primi danni inflitti da &lt;Mietitore sadico&gt; sono aumentati a 200% del valore della tecnica originale. Ogni volta che viene lanciato, garantisce 5 secondi di invincibilità.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Mietitore sadico&gt;</span><span style="color: #645252;font-size:18px">: i primi danni inflitti da &lt;Mietitore sadico&gt; sono aumentati a 200% del valore della tecnica originale. Ogni volta che viene lanciato, garantisce 5 secondi di invincibilità.</span>
 
 ### 2nd Skill (or 1st): Vendicatore
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Mietitore sadico&gt;</span><span style="color: #645252;font-size:18px">: DAN CRIT del Diavolo aumentato del 100% contro unità affette da &lt;Combustione&gt;. Inoltre, rimuove tutti i buff dai nemici circostanti.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Mietitore sadico&gt;</span><span style="color: #645252;font-size:18px">: DAN CRIT del Diavolo aumentato del 100% contro unità affette da &lt;Combustione&gt;. Inoltre, rimuove tutti i buff dai nemici circostanti.</span>
 
 ### 3rd Skill (or 4th): Testimonianza dei caduti
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tortura crudele&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato a 150% del danno base della tecnica, DIF dell'unità bersaglio ridotta del 50% per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Tortura crudele&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato a 150% del danno base della tecnica, DIF dell'unità bersaglio ridotta del 50% per 10 secondi.</span>
 
 ### 4th Skill (or 3rd): Marchio della Bestia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tortura crudele&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato a 150% del danno base della tecnica. Quando usa questa tecnica, aumenta il CRIT di tutte le unità Inferno alleate di 1000 per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Tortura crudele&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato a 150% del danno base della tecnica. Quando usa questa tecnica, aumenta il CRIT di tutte le unità Inferno alleate di 1000 per 10 secondi.</span>
 
 ### 5th Skill (or 6th): Blasfemia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Appassimento&gt;</span><span style="color: #645252;font-size:18px">: quando il Diavolo entra in battaglia, riduce del 35% la guarigione di tutte le unità nemiche.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Appassimento&gt;</span><span style="color: #645252;font-size:18px">: quando il Diavolo entra in battaglia, riduce del 35% la guarigione di tutte le unità nemiche.</span>
 
 ### 6th Skill (or 5th): Annientamento
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Appassimento&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato a 150% del valore della tecnica originale. Riduce del 10% la Rid DAN di tutte le unità nemiche</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Appassimento&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato a 150% del valore della tecnica originale. Riduce del 10% la Rid DAN di tutte le unità nemiche</span>
 
 ## Technical info
  **runart:** 1

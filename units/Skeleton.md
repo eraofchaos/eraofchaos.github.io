@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Units These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Skeleton"
 toc: true
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
+## Recommended Holy Emblems
+
+* [Queen's Blessing](/Emblem/Queen's Blessing/) - Order
+* [Greed](/Emblem/Greed/) - Chaos
+* [Lust](/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Bone Shield
  **Description:** <span style="color: #645252;font-size:20px">The Skeleton generates a bone shield for itself when its HP falls below 50% for the first time. The shield decreases unit damage taken by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Faction Special Skill II : Spell Harmony
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Necropolis (Necropolis Roster)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Всадники"
 permalink: /ru/units/Cavalier/
 excerpt: "Отряды Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Всадники"
 toc: true
 ---
 ## General information
- **Description:** Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений.
+ **Описание:** Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений.
 
- **Class:** Штурм
+ **Класс:** Штурм
 
- **Class Description:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
 
  **Fraction:** [Замок](/ru/units/Fraction Замок)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** null
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
 
+## Рекомендуемые эмблемы святости
+
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) - Добро
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) - Нейтральный
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Великолепный штурм
- **Description:** <span style="color: #645252;font-size:20px">Всадники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Всадники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Стремительный прорыв
- **Description:** <span style="color: #645252;font-size:20px">Когда всадники убивают цель в первый раз, они наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона следующей цели.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда всадники убивают цель в первый раз, они наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*20+480))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона следующей цели.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Всадники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Всадники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Замок (Дозор отрядов Замка)
+* Штурмовой отряд (Дозор штурмовых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Умения выживания
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает ОЗ и сопротивление магии на 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает ОЗ и сопротивление магии на 30%</span>
 
 ### 2nd Skill (or 1st): Военные умения
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает АТК и сопротивление магии на 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает АТК и сопротивление магии на 30%</span>
 
 ### 3rd Skill (or 4th): Атака легких рыцарей
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: &lt;Стремительный прорыв&gt; срабатывает при убийстве вражеского отряда (кроме призванных монстров)</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: &lt;Стремительный прорыв&gt; срабатывает при убийстве вражеского отряда (кроме призванных монстров)</span>
 
 ### 4th Skill (or 3rd): Тяжелая атака
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: при следующем штурме урон повышается до 150%, а враги оглушаются на 5 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: при следующем штурме урон повышается до 150%, а враги оглушаются на 5 сек.</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 20%. Эффект удваивается в состоянии высокого боевого духа</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 20%. Эффект удваивается в состоянии высокого боевого духа</span>
 
 ### 6th Skill (or 5th): Спокойные мысли
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: в бою срабатывает высокий боевой дух. Гарантированно наносит критический урон. Эффект длится 10 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: в бою срабатывает высокий боевой дух. Гарантированно наносит критический урон. Эффект длится 10 сек.</span>
 
 ## Technical info
  **runart:** 1

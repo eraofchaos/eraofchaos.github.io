@@ -3,17 +3,17 @@ title: "Gorgone"
 permalink: /de/units/Gorgon/
 excerpt: "Einheiten Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Gorgone"
 toc: true
 ---
 ## General information
- **Description:** Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr.
+ **Beschreibung:** Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Festung](/de/units/Fraction Festung)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Starker Tank. Kann mit gewisser Wahrscheinlichkeit Feinde auf einen Streich töten.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 3094.0
 
  **Base ATK:** 121.1
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 9.68 | 556.92 |
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: null
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 1 : Sumpf-Overlord
- **Description:** <span style="color: #645252;font-size:20px">Die ABW der Gorgone wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ihre Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Schaden, den die Gorgone durch einen einzelnen Angriff erleidet, 15 % ihrer max. LP übersteigt, wird sie immun gegen den Schaden, der diese 15 % übersteigt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die ABW der Gorgone wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, ihre Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Schaden, den die Gorgone durch einen einzelnen Angriff erleidet, 15 % ihrer max. LP übersteigt, wird sie immun gegen den Schaden, der diese 15 % übersteigt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Seuchensymbiose
- **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung der Gorgone wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung der Gorgone wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Wilder Fluch
- **Description:** <span style="color: #645252;font-size:20px">Senkt Kritischer Treffer von benachbarten gegnerischen Einheiten der Gorgone um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Senkt Kritischer Treffer von benachbarten gegnerischen Einheiten der Gorgone um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Seuchenangriff
- **Description:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Festung (Festung-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Blick in den Abgrund
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Riesengorgone&gt;</span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. lang einen zufälligen Debuff, während die Durchdringung aller verbündeten Einheiten 200 steigt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Riesengorgone&gt;</span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. lang einen zufälligen Debuff, während die Durchdringung aller verbündeten Einheiten 200 steigt.</span>
 
 ### 2nd Skill (or 1st): Todesblick
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Riesengorgone&gt;</span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. zwei zufällige Debuffs..</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Riesengorgone&gt;</span><span style="color: #645252;font-size:18px">Wird einmal alle 18 Sek. ausgelöst. Die Wahrscheinlichkeit, ein Ziel 3 Sek. zu versteinern, beträgt 100 %, und gegnerische Einheiten in einem bestimmten Bereich erleiden 10 Sek. zwei zufällige Debuffs..</span>
 
 ### 3rd Skill (or 4th): Fluch des Alterns
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Unzivilisierter Fluch&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten um 20 %. Beim Tod werden umstehende Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo gegnerischer Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unzivilisierter Fluch&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten um 20 %. Beim Tod werden umstehende Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo gegnerischer Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
 
 ### 4th Skill (or 3rd): Tödliches Horn
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Unzivilisierter Fluch&gt;</span><span style="color: #645252;font-size:18px">Reduziert das Angriffstempo gegnerischer Einheiten um 20 %. Beim Tod werden alle umstehenden Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo aller gegnerischen Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unzivilisierter Fluch&gt;</span><span style="color: #645252;font-size:18px">Reduziert das Angriffstempo gegnerischer Einheiten um 20 %. Beim Tod werden alle umstehenden Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo aller gegnerischen Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
 
 ### 5th Skill (or 6th): Moorkönig
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Reduziert das Angriffstempo gegnerischer Einheiten – außer Festung – um 10 % und die Heilung um 30 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Reduziert das Angriffstempo gegnerischer Einheiten – außer Festung – um 10 % und die Heilung um 30 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
 
 ### 6th Skill (or 5th): Sumpf-Lord
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Erhöht das Angriffstempo aller verbündeten Einheiten um 20 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Erhöht das Angriffstempo aller verbündeten Einheiten um 20 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 185.31 | 0.64 | 5.3 | 1710.72 |
   | **6x** <i class="fas fa-star"/> | 205.9 | 0.66 | 5.94 | 1900.8 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Sickle of Silence
  **Description:** <span style="color: #645252;font-size:20px">Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to the target every 24s, while </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 10s. Dark Champion restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK per normal attack</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Regular Skill 6 : Silent Graveyard
  **Description:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Necropolis (Necropolis Roster)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

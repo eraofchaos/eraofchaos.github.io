@@ -3,7 +3,7 @@ title: "Tortue dragon"
 permalink: /fr/units/Dragon Turtle/
 excerpt: "Unités Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans."
 unitID: 9906
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Tortue dragon"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Née dans l'immensité de la mer, elle possède un corps massif qui lui permet d'établir sa suprématie dans les profondeurs des océans.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Puissant défenseur. Restaure des PV à sa mort.
 
-## Basic stats
+## Stats de base
  **Base HP:** 12000.0
 
  **Base ATK:** 362.0
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+* [Noyau du réseau global](/fr/Emblem/Core of the Global Network/) - Neutre
+
 ## Skills
 ### Capacité ultime: Roulade écrasante
  **Description:** 
@@ -75,6 +81,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

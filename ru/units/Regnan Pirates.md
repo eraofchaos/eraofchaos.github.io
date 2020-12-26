@@ -3,17 +3,17 @@ title: "Регнанские пираты"
 permalink: /ru/units/Regnan Pirates/
 excerpt: "Отряды Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда."
 unitID: 9901
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Регнанские пираты"
 toc: true
 ---
 ## General information
- **Description:** Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда.
+ **Описание:** Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда.
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** В начале боя устраивает буйство. Большой УВС. Снижает ЗЩТ врагов.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Dragon King's Breath](/ru/Emblem/Dragon King's Breath/) - Злой
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+
 ## Skills
 ### Совершенное умение: Приливный грабитель
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Тактические навыки
- **Description:** <span style="color: #645252;font-size:20px">Регнанские пираты получают +20% к ОЗ. При любой атаке пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону на 6 сек. Эффект может суммироваться максимум до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">.
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты получают +20% к ОЗ. При любой атаке пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону на 6 сек. Эффект может суммироваться максимум до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">.
 
 ### Обычное умение 2 : Оголенный клинок
- **Description:** <span style="color: #645252;font-size:20px">Регнанские пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. ЗЩТ выбранного целью отряда снижается на 2% на 6 сек. при каждом успешном нанесении критического удара. Эффект может суммироваться до 20%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. ЗЩТ выбранного целью отряда снижается на 2% на 6 сек. при каждом успешном нанесении критического удара. Эффект может суммироваться до 20%.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Регнанские пираты наносят больше урона по мере снижения ОЗ. АТК регнанских пиратов повышается по мере снижения ОЗ цели. Их АТК может повыситься максимум на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты наносят больше урона по мере снижения ОЗ. АТК регнанских пиратов повышается по мере снижения ОЗ цели. Их АТК может повыситься максимум на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Отряд Убежища (Дозор отрядов Убежища)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

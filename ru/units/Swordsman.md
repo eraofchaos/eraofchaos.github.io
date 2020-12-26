@@ -3,17 +3,17 @@ title: "Мечник"
 permalink: /ru/units/Swordsman/
 excerpt: "Отряды В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Мечник"
 toc: true
 ---
 ## General information
- **Description:** В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды.
+ **Описание:** В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [Замок](/ru/units/Fraction Замок)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** В начале игры наносит огромный урон. Наносит двойной удар и может исцеляться.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+* [Алчность](/ru/Emblem/Greed/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Воодушевление
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать цель 2 раза. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать цель 2 раза. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Замок (Дозор отрядов Замка)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Щит антимагии
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Божественная защита&gt;</span><span style="color: #645252;font-size:18px">: отряд получает сопротивление магическому урону</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Божественная защита&gt;</span><span style="color: #645252;font-size:18px">: отряд получает сопротивление магическому урону</span>
 
 ### 2nd Skill (or 1st): Святая защита
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Божественная защита&gt;</span><span style="color: #645252;font-size:18px">: длительность эффекта увеличена на 10 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Божественная защита&gt;</span><span style="color: #645252;font-size:18px">: длительность эффекта увеличена на 10 сек.</span>
 
 ### 3rd Skill (or 4th): Вдохновение отважного
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: иммунитет к состоянию низкого боевого духа. Эффект усиливается до 150% от эффекта предыдущего умения.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: иммунитет к состоянию низкого боевого духа. Эффект усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: союзные отряды в большой области получают иммунитет к снижению боевого духа и получают высокий боевой дух, а их сопротивление урону повышается на 10%. Эффект длится 10 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: союзные отряды в большой области получают иммунитет к снижению боевого духа и получают высокий боевой дух, а их сопротивление урону повышается на 10%. Эффект длится 10 сек.</span>
 
 ### 5th Skill (or 6th): Свет спасения
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: ОЗ восстанавливаются в размере 200% от базового значения умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: ОЗ восстанавливаются в размере 200% от базового значения умения</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: мечник получает иммунитет к немоте, оглушению и окаменению</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: мечник получает иммунитет к немоте, оглушению и окаменению</span>
 
 ## Technical info
  **runart:** 1

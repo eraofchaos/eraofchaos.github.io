@@ -3,7 +3,7 @@ title: "Spadassin"
 permalink: /fr/units/Swordsman/
 excerpt: "Unités Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat."
 unitID: 104
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Spadassin"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Croisés n'acceptent que les soldats les plus courageux, héroïques et expérimentés. Ils sont réputés à travers le pays pour leurs techniques de combat.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Château](/fr/units/Fraction Château)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige de lourds dégâts en début de combat. Peut frapper deux fois et se soigner.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance défensive
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Château sont rompues à la défense concertée. La DÉF augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Château (Groupement - Château)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

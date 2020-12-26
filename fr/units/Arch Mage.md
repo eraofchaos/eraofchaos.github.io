@@ -3,7 +3,7 @@ title: "Archimage"
 permalink: /fr/units/Arch Mage/
 excerpt: "Unités Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés."
 unitID: 604
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Archimage"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Le titre de Mage n'est accordé qu'aux Lanceurs de sorts les plus puissants. En combat, ils apportent un avantage magique conséquent à leurs alliés.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Utilise des capacités d'entrave sur les troupes ennemies de la ligne arrière, améliore les sorts de vos Héros et réduit la restauration de PM des Héros ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.88 | 0.48 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Pénétration de sort
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale du Mage augmente sa propre ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effet, qui peut se cumuler jusqu'à 20 fois, est permanent tant que la cible ne change pas. Il se réinitialise quand le Mage attaque un nouvel ennemi.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

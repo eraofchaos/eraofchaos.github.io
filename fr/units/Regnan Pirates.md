@@ -3,7 +3,7 @@ title: "Pirates de Regna"
 permalink: /fr/units/Regnan Pirates/
 excerpt: "Unités Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition."
 unitID: 9901
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Pirates de Regna"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Ils sont cruels et rusés. Ces navires se sont transformés en épaves au fond de l'océan après avoir rencontré les leurs lors d'une expédition.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Fait un carnage en début de combat. DPS élevés. Réduit la DÉF des ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) - Mauvais
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Pilleur des marées
  **Description:** <span style="color: #645252;font-size:20px">L'attaque normale des Pirates de Regna peut infliger des dégâts deux fois. Au début de la bataille, les Pirates de Regna ont 100 % de chance de toucher la cible en attaquant. Les dégâts de l'unité augmentent également de 30 % pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Arpia"
 permalink: /it/units/Harpy/
 excerpt: "Unità Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Arpia"
 toc: true
 ---
 ## General information
- **Description:** Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio.
+ **Descrizione:** Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio.
 
- **Class:** Incursione
+ **Classe:** Incursione
 
- **Class Description:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
+ **Classe Descrizione:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
 
  **Fraction:** [Dungeon](/it/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** DPS elevati. Blocca le unità di terra, creando opportunità di attacco per gli alleati.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
@@ -60,21 +60,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
+## Emblemi sacri consigliati
+
+* [Angelo custode](/it/Emblem/Guardian Angel/) - Bontà
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+
 ## Skills
 ### Tecnica suprema: Artiglio affilato di Arpia
- **Description:** <span style="color: #645252;font-size:20px">Quando l'Arpia viene attaccata, ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 unità. (L'effetto può essere attivato anche dagli attacchi base)</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando l'Arpia viene attaccata, ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 unità. (L'effetto può essere attivato anche dagli attacchi base)</span><span style="color: black">
 
 ### Tecnica normale 1 : Repressione superiore
- **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità non volanti, l'Arpia gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando affronta unità non volanti, l'Arpia gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 2 : Urlo dello Spezzaincantesimi
- **Description:** <span style="color: #645252;font-size:20px">Quando un eroe nemico lancia un incantesimo, l'Arpia riduce la Rid DAN delle unità nemiche sulla stessa linea (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi. Cumulabile fino a 3 volte.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un eroe nemico lancia un incantesimo, l'Arpia riduce la Rid DAN delle unità nemiche sulla stessa linea (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi. Cumulabile fino a 3 volte.</span><span style="color: black">
 
 ### Tecnica normale 3 : Mira a mezz'aria
- **Description:** <span style="color: #645252;font-size:20px">DAN CRIT dell'Arpia aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se il bersaglio è <span style="color: #48b946;font-size:20px">&lt;stordito&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, tutti gli attacchi dell'Arpia sono colpi critici.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">DAN CRIT dell'Arpia aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se il bersaglio è <span style="color: #48b946;font-size:20px">&lt;stordito&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, tutti gli attacchi dell'Arpia sono colpi critici.</span><span style="color: black">
 
 ### Tecnica speciale fazione : Conflitto oscuro
- **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Dungeon (Roster Dungeon)
+* Incursione (Roster unità di incursione)
+
+### Bonus eroe
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

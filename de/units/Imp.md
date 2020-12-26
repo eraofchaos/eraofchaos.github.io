@@ -3,17 +3,17 @@ title: "Imp"
 permalink: /de/units/Imp/
 excerpt: "Einheiten Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Imp"
 toc: true
 ---
 ## General information
- **Description:** Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal.
+ **Beschreibung:** Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Inferno](/de/units/Fraction Inferno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Kann endlos wiederbelebt werden. Betäubt Ziele. Kann vom Grottenteufel verbessert werden.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1224.0
 
  **Base ATK:** 51.3
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.234 | 0.42 | 7.28 | 220.32 |
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
+* [Zorn](/de/Emblem/Anger/) - Chaos
+* [Wollust](/de/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Impuls
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Imp besiegt wird, wird er mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit vollen LP wiederbelebt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Imp besiegt wird, wird er mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit vollen LP wiederbelebt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Peinigen
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es möglicherweise 2 Sek lang.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff fügt einem Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> es möglicherweise 2 Sek lang.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Beweglichkeit
- **Description:** <span style="color: #645252;font-size:20px">Ausweichen des Imp wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Imp einem Angriff erfolgreich ausweicht, reduziert er mit einer Wahrscheinlichkeit von 20 % das Mana des gegnerischen Helden um 5. AKZ 5 Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Ausweichen des Imp wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Imp einem Angriff erfolgreich ausweicht, reduziert er mit einer Wahrscheinlichkeit von 20 % das Mana des gegnerischen Helden um 5. AKZ 5 Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Inferno-Scherge
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Imp steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Heilung steigt um 30 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Imp steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Heilung steigt um 30 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Sengender Angriff
- **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Inferno-Einheiten beherrschen das Feuer; wenn sie gegen Einheiten kämpfen, die unter „Verbrennung“ leiden, steigen Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magieresistenz-Resonanz
- **Description:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Inferno-Einheiten sind geübt in der Verteidigung als Gruppe. Für jede überlebende Einheit wird Magieresistenz erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Inferno (Inferno-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Wille des Abgrunds
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Impuls&gt;</span><span style="color: #645252;font-size:18px">Jeder Imp beschwört mit einer Wahrscheinlichkeit von 30 % einen Teufel, wenn er stirbt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Impuls&gt;</span><span style="color: #645252;font-size:18px">Jeder Imp beschwört mit einer Wahrscheinlichkeit von 30 % einen Teufel, wenn er stirbt.</span>
 
 ### 2nd Skill (or 1st): Restwärme
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Impuls&gt;</span><span style="color: #645252;font-size:18px">Die Auferstehungswahrscheinlichkeit wird erhöht auf 200 % der vorherigen Fähigkeit. Wenn ein Imp stirbt, regenerieren verbündete Helden 2 Mana.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Impuls&gt;</span><span style="color: #645252;font-size:18px">Die Auferstehungswahrscheinlichkeit wird erhöht auf 200 % der vorherigen Fähigkeit. Wenn ein Imp stirbt, regenerieren verbündete Helden 2 Mana.</span>
 
 ### 3rd Skill (or 4th): Böse Weisheit
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Beweglichkeit&gt;</span><span style="color: #645252;font-size:18px">Ausweichen des Imp wird 20 Sekunden lang um 2.000 erhöht.
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Beweglichkeit&gt;</span><span style="color: #645252;font-size:18px">Ausweichen des Imp wird 20 Sekunden lang um 2.000 erhöht.
 
 ### 4th Skill (or 3rd): Flinkes Inferno
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Beweglichkeit&gt;</span><span style="color: #645252;font-size:18px">Der Imp erhöht Ausweichen für Einheiten in einem bestimmten Radius um 200. Der Effekt wird für Inferno-Einheiten verdoppelt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Beweglichkeit&gt;</span><span style="color: #645252;font-size:18px">Der Imp erhöht Ausweichen für Einheiten in einem bestimmten Radius um 200. Der Effekt wird für Inferno-Einheiten verdoppelt.</span>
 
 ### 5th Skill (or 6th): Zuflucht der Tiefe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Inferno-Scherge&gt;</span><span style="color: #645252;font-size:18px">Die Abwehr des Imp wird um 15 % erhöht und zusätzlich um 4 % pro eingesetzter Inferno-Einheit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inferno-Scherge&gt;</span><span style="color: #645252;font-size:18px">Die Abwehr des Imp wird um 15 % erhöht und zusätzlich um 4 % pro eingesetzter Inferno-Einheit.</span>
 
 ### 6th Skill (or 5th): Inferno-Aufruhr
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Inferno-Scherge&gt;</span><span style="color: #645252;font-size:18px">Erhöht die ABW des Imp um 15 % für jede tote Einheit. Gültig für die gesamte Schlacht, bis 5 Stapel.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inferno-Scherge&gt;</span><span style="color: #645252;font-size:18px">Erhöht die ABW des Imp um 15 % für jede tote Einheit. Gültig für die gesamte Schlacht, bis 5 Stapel.</span>
 
 ## Technical info
  **runart:** 1

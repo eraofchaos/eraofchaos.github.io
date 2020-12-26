@@ -3,7 +3,7 @@ title: "Élémentaire de glace"
 permalink: /fr/units/Ice Elemental/
 excerpt: "Unités Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis."
 unitID: 903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Élémentaire de glace"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Un être vivant gelé, créé à partir d'un Élémentaire d'eau. Lorsqu'il se sent menacé, il déchaîne l'air glacé qu'il renferme pour congeler tous ses ennemis.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Mage de contrôle. Recouvre tout sous la glace. Mur de glace de soutien.
 
-## Basic stats
+## Stats de base
  **Base HP:** 744.0
 
  **Base ATK:** 111.0
@@ -56,6 +56,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Mur de glace
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de glace érige un mur de glace devant la cible, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Gel&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aux cibles sur la même ligne dans une large zone pendant <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Conflux (Groupement - Conflux)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Licorne"
 permalink: /fr/units/Unicorn/
 excerpt: "Unités L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires."
 unitID: 206
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Licorne"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** L'existence des Licornes fait débat, et beaucoup n'y voient là qu'un merveilleux mythe. Mais leur beauté n'a d'égale que leur férocité en combat, qui fait d'elles des combattantes légendaires.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Diminue la précision des ennemis et bénéficie d'une esquive élevée.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Signe inquiétant](/fr/Emblem/Ominous Sign/) - Mauvais
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

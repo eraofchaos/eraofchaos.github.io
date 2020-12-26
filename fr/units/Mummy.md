@@ -3,7 +3,7 @@ title: "Momie"
 permalink: /fr/units/Mummy/
 excerpt: "Unités Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits."
 unitID: 308
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Momie"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Non-Morts se reposent dans leur mausolée antique. Ceux qui oseront y pénétrer seront maudits.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Nécropole](/fr/units/Fraction Nécropole)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Porteur de maladie. Réduit les soins de toutes les unités ennemies.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2691.0
 
  **Base ATK:** 141.0
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 25.38 | 0.36 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Capacité ultime: Malédiction putride
  **Description:** <span style="color: #645252;font-size:20px">La Momie inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts aux unités ennemies dans une certaine zone autour d'elle toutes les 20 secondes et leur applique </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Maladie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 12 secondes.</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Harmonie du sortilège
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Nécropole savent inhiber la magie. Sur le champ de bataille, la résistance magique de toutes les unités ennemies diminue de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Nécropole (Groupement - Nécropole)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

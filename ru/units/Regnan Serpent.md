@@ -3,17 +3,17 @@ title: "Регнанский змей"
 permalink: /ru/units/Regnan Serpent/
 excerpt: "Отряды null"
 unitID: 9904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Регнанский змей"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Сильный защитник. Хорошо сдерживает многочисленных врагов и снижает вероятность критического удара.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 3027.0
 
  **Base ATK:** 100.9
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+
 ## Skills
 ### Совершенное умение: null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Доспех русалки
- **Description:** <span style="color: #645252;font-size:20px">Регнанские змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою регнанских змеев против целей со сдерживанием эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою регнанских змеев против целей со сдерживанием эффект удваивается.</span><span style="color: black">
 
 ### Обычное умение 2 : Путеводный прилив
- **Description:** <span style="color: #645252;font-size:20px">В начале боя выбирается одно из 3 усилений: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Эффект длится в течение всего боя. Регнанские змеи получают одно случайное усиление при нанесении критического удара. Эффект может суммироваться до 3 раз.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя выбирается одно из 3 усилений: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Эффект длится в течение всего боя. Регнанские змеи получают одно случайное усиление при нанесении критического удара. Эффект может суммироваться до 3 раз.</span><span style="color: black">
 
 ### Обычное умение 3 : Боевой рог
- **Description:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют &lt;Топот глубин&gt; при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется &lt;Глубоководный топот&gt;, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют &lt;Топот глубин&gt; при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется &lt;Глубоководный топот&gt;, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Отряд Убежища (Дозор отрядов Убежища)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): 
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

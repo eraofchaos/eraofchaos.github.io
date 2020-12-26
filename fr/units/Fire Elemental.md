@@ -3,7 +3,7 @@ title: "Élémentaire de feu"
 permalink: /fr/units/Fire Elemental/
 excerpt: "Unités Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi."
 unitID: 904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Élémentaire de feu"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Une entité instable faite d'énergie pure. Lorsqu'elle est détruite, l'énergie qu'elle contient est libérée et frappe son ennemi.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Inflige Brûlure. Explose le champ de bataille entier. Se renforce en tuant des ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
@@ -56,6 +56,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Feu céleste
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de feu inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à une unité ennemie, et la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;brûle&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Conflux (Groupement - Conflux)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

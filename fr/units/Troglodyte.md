@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /fr/units/Troglodyte/
 excerpt: "Unités Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat."
 unitID: 701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Troglodyte"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Une créature qui habite sous terre. Même si sa vision est limitée, elle est capable de trouver où se cache sa proie grâce à son sens aigu de l'odorat.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Attaque et défense. Inflige des dégâts supplémentaires aux ennemis victimes de Saignement.
 
-## Basic stats
+## Stats de base
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Nuée de lances
  **Description:** <span style="color: #645252;font-size:20px">Le Troglodyte inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à sa cible et l'</span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;étourdit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes.</span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

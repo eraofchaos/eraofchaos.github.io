@@ -3,7 +3,7 @@ title: "Harpie"
 permalink: /fr/units/Harpy/
 excerpt: "Unités Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident."
 unitID: 702
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Harpie"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Ce monstre est moitié humain, moitié oiseau. Personne n'est capable de supporter son cri strident.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** DPS élevés. Contient les unités au sol et permet à ses alliés d'attaquer.
 
-## Basic stats
+## Stats de base
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Ange gardien](/fr/Emblem/Guardian Angel/) - Bonté
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Griffe tranchante de la Harpie
  **Description:** <span style="color: #645252;font-size:20px">Quand les Harpies se font attaquer, elles ont une chance d'infliger </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à 3 unités (les attaques normales ont également une chance de déclencher cet effet).</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

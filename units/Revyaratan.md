@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Units A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 228.078 | 0.4 | 7.94 | 1283.04 |
   | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
 
+## Recommended Holy Emblems
+
+* [Dragon King's Breath](/Emblem/Dragon King's Breath/) - Evil
+* [Broken Prophecy](/Emblem/Broken Prophecy/) - Evil
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Fierce-looking Jaw
  **Description:** <span style="color: #645252;font-size:20px">Causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the targets every 10s while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;deterring&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units on the same path for 4s.</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Offensive (Offensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

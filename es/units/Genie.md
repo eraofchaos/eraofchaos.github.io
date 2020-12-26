@@ -3,17 +3,17 @@ title: "Genio"
 permalink: /es/units/Genie/
 excerpt: "Unidades Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Genio"
 toc: true
 ---
 ## General information
- **Description:** Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión.
+ **Descripción:** Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Torre](/es/units/Fraction Torre)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Un poderoso sanador que también otorga una ventaja. Los hechizos de Héroes activan su ventaja.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 32.688 | 0.36 | 5.6 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Profeta Verde](/es/Emblem/Green Prophet/) - Bien
+* [Enfado](/es/Emblem/Anger/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Obsequio hechizado
- **Description:** <span style="color: #645252;font-size:20px">Cuando los ataques de la Genio cambian a curación, restauran PV igual al 80% del ATQ de la Genio a la unidad amistosa con el porcentaje de PV más bajo. La curación de la Genio aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando los ataques de la Genio cambian a curación, restauran PV igual al 80% del ATQ de la Genio a la unidad amistosa con el porcentaje de PV más bajo. La curación de la Genio aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 1 : Tres deseos
- **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Genios en el campo de batalla, esta bendecirá a tres unidades amistosas aleatorias, lo que les concede uno de los siguientes efectos: un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de reducción de daño de la unidad, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño o un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> velocidad de ataque.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Genios en el campo de batalla, esta bendecirá a tres unidades amistosas aleatorias, lo que les concede uno de los siguientes efectos: un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de reducción de daño de la unidad, un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño o un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> velocidad de ataque.</span><span style="color: black">
 
 ### Habilidad normal 2 : Pabilo mágico
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV de la Genio un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV de la Genio un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Despertar mágico
- **Description:** <span style="color: #645252;font-size:20px">Cuando la unidad de Genio está amplificada por un hechizo de apoyo de un Héroe amistoso, restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a la unidad con el porcentaje de PV más bajo.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando la unidad de Genio está amplificada por un hechizo de apoyo de un Héroe amistoso, restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a la unidad con el porcentaje de PV más bajo.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Mente sobria
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Dinamita de energía
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Torre (Lista de Torre)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sobrecarga de energía
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Recupera PV equivalentes al 25% del ATQ cuando se realiza un ataque normal. Aumenta la reducción de daño de la unidad un 20% y la velocidad de ataque propia un 10%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Recupera PV equivalentes al 25% del ATQ cuando se realiza un ataque normal. Aumenta la reducción de daño de la unidad un 20% y la velocidad de ataque propia un 10%</span>
 
 ### 2nd Skill (or 1st): Protección de energía
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Recupera PV equivalentes al 25% del ATQ cuando se realiza un ataque normal. Si el daño único recibido supera el 30% de los PV máximos, se ignorará</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Recupera PV equivalentes al 25% del ATQ cuando se realiza un ataque normal. Si el daño único recibido supera el 30% de los PV máximos, se ignorará</span>
 
 ### 3rd Skill (or 4th): Como desees
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Bendice a 6 unidades amistosas aleatorias y otorga una bonificación aleatoria (reducción de daño de la unidad, daño de unidad o velocidad de ataque). La bonificación otorga un aumento del 50%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Bendice a 6 unidades amistosas aleatorias y otorga una bonificación aleatoria (reducción de daño de la unidad, daño de unidad o velocidad de ataque). La bonificación otorga un aumento del 50%</span>
 
 ### 4th Skill (or 3rd): Bendiciones múltiples
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Bendice a 6 unidades amistosas aleatorias y recibe dos bonificaciones de reducción de daño de la unidad, daño de unidad o velocidad de ataque</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Bendice a 6 unidades amistosas aleatorias y recibe dos bonificaciones de reducción de daño de la unidad, daño de unidad o velocidad de ataque</span>
 
 ### 5th Skill (or 6th): Despertar a los refuerzos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Despertar mágico&gt;</span><span style="color: #645252;font-size:18px">Los estados de control no pueden afectar a Despertar mágico. Aumenta la DEF un 10% para las unidades que se estén curando. Este efecto dura 3 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Despertar mágico&gt;</span><span style="color: #645252;font-size:18px">Los estados de control no pueden afectar a Despertar mágico. Aumenta la DEF un 10% para las unidades que se estén curando. Este efecto dura 3 s</span>
 
 ### 6th Skill (or 5th): Despertar transcendental
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Aumenta la curación un 50%. Aumenta la DEF un 20% para las unidades que se estén curando. Este efecto dura 3 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Aumenta la curación un 50%. Aumenta la DEF un 20% para las unidades que se estén curando. Este efecto dura 3 s</span>
 
 ## Technical info
  **runart:** 0

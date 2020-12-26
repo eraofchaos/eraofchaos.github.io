@@ -3,17 +3,17 @@ title: "Гидра"
 permalink: /ru/units/Hydra/
 excerpt: "Отряды null"
 unitID: 807
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Гидра"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [Крепость](/ru/units/Fraction Крепость)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Отряд с высочайшим УВС. Уничтожает врагов непрерывными атаками.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 5770.0
 
  **Base ATK:** 769.3
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
+
 ## Skills
 ### Совершенное умение: Туман Хаоса
- **Description:** <span style="color: #645252;font-size:20px">Гидры создают Туман Хаоса на своем пути, накладывая на все цели в широком радиусе случайное ослабление: замедление, кровотечение, горение, ослепление, разряд, чуму или болезнь - на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и нанося урон в размере 50% от их АТК.</span><span style="color: black"> 
+ **Описание:** <span style="color: #645252;font-size:20px">Гидры создают Туман Хаоса на своем пути, накладывая на все цели в широком радиусе случайное ослабление: замедление, кровотечение, горение, ослепление, разряд, чуму или болезнь - на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и нанося урон в размере 50% от их АТК.</span><span style="color: black"> 
 
 ### Обычное умение 1 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Неотступный укус
- **Description:** <span style="color: #645252;font-size:20px">Если от предыдущей атаки гидр уклонились, они атакуют еще раз, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона. Когда гидры начинают кусать, они гарантированно наносят критический удар в течение 3 сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Если от предыдущей атаки гидр уклонились, они атакуют еще раз, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона. Когда гидры начинают кусать, они гарантированно наносят критический удар в течение 3 сек. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Чумной удар
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Крепость (Дозор отрядов Крепости)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

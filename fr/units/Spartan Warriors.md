@@ -3,7 +3,7 @@ title: "Guerriers spartiates"
 permalink: /fr/units/Spartan Warriors/
 excerpt: "Unités Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !"
 unitID: 9702
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Guerriers spartiates"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Guerriers des Thermopyles, l'heure est venue de livrer l'ultime combat contre l'envahisseur. Gloire à Sparte !
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Armée neutre](/fr/units/Fraction Armée neutre)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Le puissant bouclier étourdit les ennemis. La mort d'une unité renforce les alliés.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2825.0
 
  **Base ATK:** 216.0
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 38.88 | 0.36 | 8.0 | 508.5 |
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Témoin](/fr/Emblem/Witness/) - Bonté
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -73,6 +79,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Bonus de courage
  **Description:** <span style="color: #645252;font-size:20px">Les unités neutres sont très résistantes. À chaque fois qu'elles perdent 10 % de leurs PV, leur </span><span style="color: black"><span style="color: #645252;font-size:20px">défense augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Neutre (Groupement - Neutre)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

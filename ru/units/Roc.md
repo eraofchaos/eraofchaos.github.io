@@ -3,17 +3,17 @@ title: "Рух"
 permalink: /ru/units/Roc/
 excerpt: "Отряды null"
 unitID: 405
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Рух"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Наносит высокий магический урон большому количеству вражеских отрядов.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 4978.0
 
  **Base ATK:** 792.0
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: Гром
- **Description:** <span style="color: #645252;font-size:20px">Рух наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам перед собой в широком радиусе и снижает их точность на 200 на 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Рух наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам перед собой в широком радиусе и снижает их точность на 200 на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Удар шаровой молнии
- **Description:** <span style="color: #645252;font-size:20px">В бою птиц Рух против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою птиц Рух против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Рух получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Рух получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Рост живучести
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Цитадель (Дозор отрядов Цитадели)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Буря
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Гром&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Гром&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
 
 ### 2nd Skill (or 1st): Электроказнь
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Гром&gt;</span><span style="color: #645252;font-size:18px">: урон понижается на 2000</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Гром&gt;</span><span style="color: #645252;font-size:18px">: урон понижается на 2000</span>
 
 ### 3rd Skill (or 4th): Охотничий инстинкт
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: урон Рух повышается на 10% (при &lt;Буйстве&gt; удваивается)</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: урон Рух повышается на 10% (при &lt;Буйстве&gt; удваивается)</span>
 
 ### 4th Skill (or 3rd): Природная быстрота
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: критический урон Рух повышается на 15% (при &lt;Буйстве&gt; удваивается)</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: критический урон Рух повышается на 15% (при &lt;Буйстве&gt; удваивается)</span>
 
 ### 5th Skill (or 6th): Взрыв
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 8% от макс. ОЗ случайному вражескому отряду</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 8% от макс. ОЗ случайному вражескому отряду</span>
 
 ### 6th Skill (or 5th): Электрошок
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 15% от макс. ОЗ случайному вражескому отряду</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 15% от макс. ОЗ случайному вражескому отряду</span>
 
 ## Technical info
  **runart:** 0

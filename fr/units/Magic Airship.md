@@ -3,7 +3,7 @@ title: "Aéronef magique"
 permalink: /fr/units/Magic Airship/
 excerpt: "Unités La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages."
 unitID: 608
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Aéronef magique"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** La grand-voile ronde renforce ce vaisseau solide, lui permettant de profiter d'un baptême de l'air en survolant les nuages.
 
- **Class:** Lanceur de sorts
+ **Classe:** Lanceur de sorts
 
- **Class Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
+ **Classe Description:** Grâce à leur maîtrise des secrets de la magie, les Lanceurs de sorts bénéficient d'une résistance à la magie plus importante.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Soutient les Mages. Augmente la vitesse d'ATQ des Lanceurs de sorts et gèle les attaques des ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1715.0
 
  **Base ATK:** 208.5
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 37.53 | 0.5 | 3.8 | 308.7 |
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Soutien énergétique
  **Description:** <span style="color: #645252;font-size:20px">Quand les PV de l'une de vos unités passent sous la barre des 30 %, restaure </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max, dissipe les affaiblissements et augmente la résistance aux dégâts de l'unité et sa résistance magique de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 15 secondes. Cet effet ne peut intervenir qu'une seule fois par bataille.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* Lanceur de sorts (Groupement - Lanceur de sorts)
+
+### Bonus de héros
 
 ## Talent
 

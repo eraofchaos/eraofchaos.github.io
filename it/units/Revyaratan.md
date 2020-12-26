@@ -3,17 +3,17 @@ title: "Leviatano"
 permalink: /it/units/Revyaratan/
 excerpt: "Unità Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Leviatano"
 toc: true
 ---
 ## General information
- **Description:** Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa.
+ **Descrizione:** Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa.
 
- **Class:** Attacco
+ **Classe:** Attacco
 
- **Class Description:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
+ **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
  **Fraction:** [Baia](/it/units/Fraction Baia)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Infligge danni ingenti costantemente, applica <Impedimento> e si nutre di cadaveri per recuperare PF.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 7128.0
 
  **Base ATK:** 1267.1
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 228.078 | 0.4 | 7.94 | 1283.04 |
   | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
 
+## Emblemi sacri consigliati
+
+* [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) - Malvagio
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Tecnica suprema: Mandibola feroce
- **Description:** <span style="color: #645252;font-size:20px">Infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ogni 10 secondi, e causa &lt;Impedimento&gt; alle unità nemiche nella stessa fila per 4 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi e </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ogni 10 secondi, e causa &lt;Impedimento&gt; alle unità nemiche nella stessa fila per 4 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Pinna congelata
- **Description:** <span style="color: #645252;font-size:20px">Immune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Congelamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e ai danni degli incantesimi di tipo Acqua. Per ogni unità Baia schierata, aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando il Leviatano scende in campo, tutte le unità alleate godono di DAN, Vel ATT e DAN CRIT aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto aumenta di un ulteriore 2,5% per le unità Baia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Immune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Congelamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e ai danni degli incantesimi di tipo Acqua. Per ogni unità Baia schierata, aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando il Leviatano scende in campo, tutte le unità alleate godono di DAN, Vel ATT e DAN CRIT aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto aumenta di un ulteriore 2,5% per le unità Baia.</span><span style="color: black">
 
 ### Tecnica normale 2 : Brama d'ossa
- **Description:** <span style="color: #645252;font-size:20px">Aumenta il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Marchia 2 unità nemiche all'inizio della battaglia. Le unità marchiate hanno Vel ATT, DAN CRIT e Rid DAN ridotte (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Inoltre, queste unità non possono essere rianimate dalle tecniche dell'Angelo dopo la prima morte. &lt;Mandibola feroce&gt; ha una probabilità del 30% di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi dell'unità.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Aumenta il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Marchia 2 unità nemiche all'inizio della battaglia. Le unità marchiate hanno Vel ATT, DAN CRIT e Rid DAN ridotte (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Inoltre, queste unità non possono essere rianimate dalle tecniche dell'Angelo dopo la prima morte. &lt;Mandibola feroce&gt; ha una probabilità del 30% di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi dell'unità.</span><span style="color: black">
 
 ### Tecnica normale 3 : Correnti inalterabili
- **Description:** <span style="color: #645252;font-size:20px">Quando un'unità Baia alleata subisce danni superiori al 20% dei propri PF massimi, scatena la furia di un Mostro marino, che aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità Baia alleate per 25 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un'unità Baia alleata subisce danni superiori al 20% dei propri PF massimi, scatena la furia di un Mostro marino, che aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità Baia alleate per 25 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Pace interiore
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto piratesco
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Baia (Roster Baia)
+* Attacco (Roster unità d'attacco)
+
+### Bonus eroe
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Descrizione:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Descrizione:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Descrizione:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Descrizione:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Descrizione:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Descrizione:** 
 
 ## Technical info
  **runart:** 1

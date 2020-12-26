@@ -3,7 +3,7 @@ title: "Повелитель акул"
 permalink: /ru/units/Shark Trainer/
 excerpt: "Отряды Повелитель акул"
 unitID: 9909
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Повелитель акул"
 toc: true
@@ -12,11 +12,11 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:** Повелитель акул
+ **Описание:** Повелитель акул
 
- **Class:** Штурм
+ **Класс:** Штурм
 
- **Class Description:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Призыв гигантских акул, набор сил и добивание
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 5430.0
 
  **Base ATK:** 792.0
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.6 | 5.6 | 977.4 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.63 | 6.25 | 1086.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+
 ## Skills
 ### Совершенное умение: Кровожадная акула
- **Description:** <span style="color: #645252;font-size:20px">В начале боя повелитель акул призывает одну акулу с </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+50)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*200+3000)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> КРИТ. УРН, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> СОПР. УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ЗЩТ. Каждые 20 сек. акула наносит цели и случайному вражескому отряду на задней линии урон в 100% АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушает&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 3 сек. Против врагов со </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;сдерживанием&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> скорость атаки +20%, крит. удар +200. Против врагов с </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;кровотечением&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда +20%. Живая акула дает повелителю акул </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к СОПР. УРН отряда, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и каждые 10 сек. - пузырь в </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ на 6 сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя повелитель акул призывает одну акулу с </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+50)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*200+3000)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> КРИТ. УРН, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> СОПР. УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ЗЩТ. Каждые 20 сек. акула наносит цели и случайному вражескому отряду на задней линии урон в 100% АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушает&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 3 сек. Против врагов со </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;сдерживанием&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> скорость атаки +20%, крит. удар +200. Против врагов с </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;кровотечением&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда +20%. Живая акула дает повелителю акул </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к СОПР. УРН отряда, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и каждые 10 сек. - пузырь в </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ на 6 сек. </span><span style="color: black">
 
 ### Обычное умение 1 : Кровавый след
- **Description:** <span style="color: #645252;font-size:20px">Когда повелитель акул атакует отряд, ОЗ которого опустилось ниже 70%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Когда ОЗ противника &lt;50%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и наносит цели урон в 150% от АТК. Когда ОЗ противника &lt;30%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда. Данные бонусы длятся 20 сек. Интервал срабатывания: 30 сек. Когда ОЗ повелителя акул впервые опускается ниже 10%, акула входит в буйство, получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки на 15 сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда повелитель акул атакует отряд, ОЗ которого опустилось ниже 70%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Когда ОЗ противника &lt;50%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и наносит цели урон в 150% от АТК. Когда ОЗ противника &lt;30%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда. Данные бонусы длятся 20 сек. Интервал срабатывания: 30 сек. Когда ОЗ повелителя акул впервые опускается ниже 10%, акула входит в буйство, получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки на 15 сек. </span><span style="color: black">
 
 ### Обычное умение 2 : Укус акулы
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Кровавый тиран
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Спокойное тело
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Отряд Убежища (Дозор отрядов Убежища)
+* Штурмовой отряд (Дозор штурмовых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровожадная акула&gt;</span><span style="color: #645252;font-size:18px"> Отряд повелителей акул получает +15% к ЗЩТ и сопротивлению урону. Эффект удваивается против отрядов ближнего боя.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровожадная акула&gt;</span><span style="color: #645252;font-size:18px"> Отряд повелителей акул получает +15% к ЗЩТ и сопротивлению урону. Эффект удваивается против отрядов ближнего боя.</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровожадная акула&gt;</span><span style="color: #645252;font-size:18px"> Отряд повелителей акул получает +15% к УРН и скорости атаки. Эффект удваивается против стрелковых отрядов.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровожадная акула&gt;</span><span style="color: #645252;font-size:18px"> Отряд повелителей акул получает +15% к УРН и скорости атаки. Эффект удваивается против стрелковых отрядов.</span>
 
 ### 3rd Skill (or 4th): Запах крови
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровавый след&gt;</span><span style="color: #645252;font-size:18px"> Каждые 10 сек. акула накладывает на случайный вражеский отряд на задней линии кровавую метку. Отмеченный отряд на 5 сек. получает -15% к УРН и скорости атаки. По окончании эффекта акула выныривает перед отрядом и кусает его, нанося урон в 40% от АТК. Эффект удваивается при &lt;истощении&gt;. После буйства акула наносит дополнительный урон в 7% от максимума ОЗ. Немота не блокирует данное умение.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавый след&gt;</span><span style="color: #645252;font-size:18px"> Каждые 10 сек. акула накладывает на случайный вражеский отряд на задней линии кровавую метку. Отмеченный отряд на 5 сек. получает -15% к УРН и скорости атаки. По окончании эффекта акула выныривает перед отрядом и кусает его, нанося урон в 40% от АТК. Эффект удваивается при &lt;истощении&gt;. После буйства акула наносит дополнительный урон в 7% от максимума ОЗ. Немота не блокирует данное умение.</span>
 
 ### 4th Skill (or 3rd): Разрыв плоти
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровавый след&gt;</span><span style="color: #645252;font-size:18px"> Каждые 10 сек. акула накладывает на случайный вражеский отряд на задней линии кровавую метку. Отмеченный отряд на 5 сек. получает -15% к ЗЩТ и сопротивлению урону. По окончании эффекта акула выныривает перед отрядом и кусает его, нанося урон в 40% от АТК. Эффект удваивается при &lt;истощении&gt;. После буйства акула наносит дополнительный урон в 7% от максимума ОЗ. Немота не блокирует данное умение.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавый след&gt;</span><span style="color: #645252;font-size:18px"> Каждые 10 сек. акула накладывает на случайный вражеский отряд на задней линии кровавую метку. Отмеченный отряд на 5 сек. получает -15% к ЗЩТ и сопротивлению урону. По окончании эффекта акула выныривает перед отрядом и кусает его, нанося урон в 40% от АТК. Эффект удваивается при &lt;истощении&gt;. После буйства акула наносит дополнительный урон в 7% от максимума ОЗ. Немота не блокирует данное умение.</span>
 
 ### 5th Skill (or 6th): Кровавый деспот
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровавый тиран&gt;</span><span style="color: #645252;font-size:18px"> Урон повышается на 50%, повелитель акул на 5 сек. получает пузырь в 15% от максимума ОЗ.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавый тиран&gt;</span><span style="color: #645252;font-size:18px"> Урон повышается на 50%, повелитель акул на 5 сек. получает пузырь в 15% от максимума ОЗ.</span>
 
 ### 6th Skill (or 5th): Серийный убийца
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровавый тиран&gt;</span><span style="color: #645252;font-size:18px"> Применяя &lt;Кровавый клинок&gt;, повелитель акул с шансом 20% совершит комбо-атаку. Повторное применение дает ему на 5 сек. пузырь в 25% от максимума ОЗ.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавый тиран&gt;</span><span style="color: #645252;font-size:18px"> Применяя &lt;Кровавый клинок&gt;, повелитель акул с шансом 20% совершит комбо-атаку. Повторное применение дает ему на 5 сек. пузырь в 25% от максимума ОЗ.</span>
 
 ## Technical info
  **runart:** 1

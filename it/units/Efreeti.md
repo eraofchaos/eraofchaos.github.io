@@ -3,17 +3,17 @@ title: "Efreet"
 permalink: /it/units/Efreeti/
 excerpt: "Unità Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Efreet"
 toc: true
 ---
 ## General information
- **Description:** Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme.
+ **Descrizione:** Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Inferno](/it/units/Fraction Inferno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge danni magici e si protegge con uno Scudo di Fuoco. L'unità ideale per riflettere i danni.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1446.0
 
  **Base ATK:** 225.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
+## Emblemi sacri consigliati
+
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
+
 ## Skills
 ### Tecnica suprema: Tempesta di fuoco
- **Description:** <span style="color: #645252;font-size:20px">L'Efreet evoca una &lt;Tempesta di fuoco&gt; sull'area bersaglio che infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche colpite, causando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Efreet evoca una &lt;Tempesta di fuoco&gt; sull'area bersaglio che infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche colpite, causando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Scudo fiammeggiante
- **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Efreet genera uno &lt;Scudo di Fuoco&gt; che protegge tutte le unità Inferno alleate, riflettendo il 15% dei danni che subiscono per i successivi </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Efreet genera uno &lt;Scudo di Fuoco&gt; che protegge tutte le unità Inferno alleate, riflettendo il 15% dei danni che subiscono per i successivi </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Incandescenza
- **Description:** <span style="color: #645252;font-size:20px">Lo &lt;Scudo di Fuoco&gt; dell'Efreet aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e la resistenza magica (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Lo &lt;Scudo di Fuoco&gt; dell'Efreet aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e la resistenza magica (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 3 : Dio del Fuoco
- **Description:** <span style="color: #645252;font-size:20px">L'Efreet gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Efreet gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Attacco ustionante
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero anti-incantesimo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Inferno (Roster Inferno)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Impatto scottante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tempesta di fuoco&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, infligge &lt;Combustione&gt; a tutte le unità nemiche per 20 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Tempesta di fuoco&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, infligge &lt;Combustione&gt; a tutte le unità nemiche per 20 secondi.</span>
 
 ### 2nd Skill (or 1st): Festa di fiamme
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tempesta di fuoco&gt;</span><span style="color: #645252;font-size:18px">: danneggia i bersagli e tutte le unità nemiche in un'ampia area dietro di essi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Tempesta di fuoco&gt;</span><span style="color: #645252;font-size:18px">: danneggia i bersagli e tutte le unità nemiche in un'ampia area dietro di essi.</span>
 
 ### 3rd Skill (or 4th): Scontro nel fuoco
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Scudo fiammeggiante&gt;</span><span style="color: #645252;font-size:18px">: DAN dell'unità aumentato del 15%. Durata aumentata di 30 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scudo fiammeggiante&gt;</span><span style="color: #645252;font-size:18px">: DAN dell'unità aumentato del 15%. Durata aumentata di 30 secondi.</span>
 
 ### 4th Skill (or 3rd): Pelle refrattaria
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Scudo fiammeggiante&gt;</span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 15%. Durata aumentata di 30 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scudo fiammeggiante&gt;</span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 15%. Durata aumentata di 30 secondi.</span>
 
 ### 5th Skill (or 6th): Avanzata infernale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dio del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: Vel ATT dell'Efreet aumentata del 5% per ogni unità Inferno schierata.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dio del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: Vel ATT dell'Efreet aumentata del 5% per ogni unità Inferno schierata.</span>
 
 ### 6th Skill (or 5th): Intreccio incantato
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dio del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: Vel ATT dell'Efreet aumentata del 5% per ogni incantatore sul campo di battaglia.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dio del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: Vel ATT dell'Efreet aumentata del 5% per ogni incantatore sul campo di battaglia.</span>
 
 ## Technical info
  **runart:** 0

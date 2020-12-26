@@ -3,17 +3,17 @@ title: "Elfo del bosco"
 permalink: /it/units/Wood Elf/
 excerpt: "Unità Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Elfo del bosco"
 toc: true
 ---
 ## General information
- **Description:** Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta.
+ **Descrizione:** Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta.
 
- **Class:** A distanza
+ **Classe:** A distanza
 
- **Class Description:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
+ **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
  **Fraction:** [Baluardo](/it/units/Fraction Baluardo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge danni istantanei devastanti e colpisce due volte. Efficace contro le unità di piccole dimensioni.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 438.4
 
  **Base ATK:** 92.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
+## Emblemi sacri consigliati
+
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+
 ## Skills
 ### Tecnica suprema: null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 1 : Colpo doppio
- **Description:** <span style="color: #645252;font-size:20px">L'Elfo del bosco ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di lanciare 2 frecce con un attacco base. La seconda freccia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Elfo del bosco ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di lanciare 2 frecce con un attacco base. La seconda freccia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 2 : Rifugio dell'Elfo
- **Description:** <span style="color: #645252;font-size:20px">Quando un eroe nemico lancia un incantesimo, ogni Elfo del bosco riceve 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> che assorbe danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi per 5 sec. Recupero: 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un eroe nemico lancia un incantesimo, ogni Elfo del bosco riceve 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> che assorbe danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi per 5 sec. Recupero: 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 3 : Fuoco sul capo
- **Description:** <span style="color: #645252;font-size:20px">Il CRIT degli Elfi del bosco aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta il CRIT degli Elfi del bosco di 40 per ogni unità a distanza alleata presente sul campo di battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il CRIT degli Elfi del bosco aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta il CRIT degli Elfi del bosco di 40 per ogni unità a distanza alleata presente sul campo di battaglia.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Proliferazione pacifica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Marchio dell'odio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Baluardo (Roster Baluardo)
+* A distanza (Roster unità a distanza)
+
+### Bonus eroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Afflusso spettrale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pioggia di frecce&gt;</span><span style="color: #645252;font-size:18px">: quando ottiene i bonus di &lt;Frenesia&gt;, aumenta il danno del 20% per 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pioggia di frecce&gt;</span><span style="color: #645252;font-size:18px">: quando ottiene i bonus di &lt;Frenesia&gt;, aumenta il danno del 20% per 5 secondi.</span>
 
 ### 2nd Skill (or 1st): Pioggia torrenziale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pioggia di frecce&gt;</span><span style="color: #645252;font-size:18px">: durata aumentata di 1,5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pioggia di frecce&gt;</span><span style="color: #645252;font-size:18px">: durata aumentata di 1,5 secondi.</span>
 
 ### 3rd Skill (or 4th): Custode di gaia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rifugio dell'Elfo&gt;</span><span style="color: #645252;font-size:18px">: effetto dello &lt;Scudo&gt; aumentato al 300% del valore della tecnica originale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rifugio dell'Elfo&gt;</span><span style="color: #645252;font-size:18px">: effetto dello &lt;Scudo&gt; aumentato al 300% del valore della tecnica originale.</span>
 
 ### 4th Skill (or 3rd): Legame naturale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rifugio dell'Elfo&gt;</span><span style="color: #645252;font-size:18px">: effetto dello &lt;Scudo&gt; aumentato a 150% del valore della tecnica originale. Recupero ridotto a 0 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rifugio dell'Elfo&gt;</span><span style="color: #645252;font-size:18px">: effetto dello &lt;Scudo&gt; aumentato a 150% del valore della tecnica originale. Recupero ridotto a 0 secondi.</span>
 
 ### 5th Skill (or 6th): Scatena la bestia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Richiamo del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN CRIT aumentato del 15%. DAN CRIT dell'Elfo del bosco aumentato di un ulteriore 3% per ogni unità a distanza alleata schierata.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Richiamo del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN CRIT aumentato del 15%. DAN CRIT dell'Elfo del bosco aumentato di un ulteriore 3% per ogni unità a distanza alleata schierata.</span>
 
 ### 6th Skill (or 5th): Istinto supremo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Richiamo del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN dell'unità aumentato del 10%. DAN CRIT dell'Elfo del bosco aumentato di un ulteriore 2% per ogni unità a distanza alleata schierata.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Richiamo del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN dell'unità aumentato del 10%. DAN CRIT dell'Elfo del bosco aumentato di un ulteriore 2% per ogni unità a distanza alleata schierata.</span>
 
 ## Technical info
  **runart:** 0

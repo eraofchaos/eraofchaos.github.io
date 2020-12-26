@@ -3,17 +3,17 @@ title: "Огр"
 permalink: /ru/units/Ogre/
 excerpt: "Отряды null"
 unitID: 404
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Огр"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Создает мощный щит, улучшая показатели всех отрядов ближнего боя.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
+## Рекомендуемые эмблемы святости
+
+* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
+* [Похоть](/ru/Emblem/Lust/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">Огры вызывают кровавый пруд, чтобы повысить эффективность высасывания жизни у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Кровавый пруд существует 15 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Огры вызывают кровавый пруд, чтобы повысить эффективность высасывания жизни у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Кровавый пруд существует 15 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Кожа колдуна
- **Description:** <span style="color: #645252;font-size:20px">Огры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к восстановлению ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}% к урону отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Огры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к восстановлению ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}% к урону отряда.</span><span style="color: black">
 
 ### Обычное умение 2 : Буйство
- **Description:** <span style="color: #645252;font-size:20px">При менее 35% ОЗ у огров все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК в течение всего боя.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При менее 35% ОЗ у огров все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 3 : Исцеление от яда
- **Description:** <span style="color: #645252;font-size:20px">Когда огры на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда огры на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Рост живучести
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Цитадель (Дозор отрядов Цитадели)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Озеро восстановления
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бассейн крови&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Длительность эффекта увеличена на 10 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бассейн крови&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Длительность эффекта увеличена на 10 сек.</span>
 
 ### 2nd Skill (or 1st): Родник дебрей
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бассейн крови&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Зона действия эффекта расширяется</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бассейн крови&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Зона действия эффекта расширяется</span>
 
 ### 3rd Skill (or 4th): Дикое сердце
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; эффект удваивается</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; эффект удваивается</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): Древний поток
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Исцеление от яда&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Исцеление от яда&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 6th Skill (or 5th): Защита патриарха
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

@@ -3,17 +3,17 @@ title: "Muerto Viviente"
 permalink: /es/units/Walking Dead/
 excerpt: "Unidades Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar."
 unitID: 302
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Muerto Viviente"
 toc: true
 ---
 ## General information
- **Description:** Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar.
+ **Descripción:** Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Necrópolis](/es/units/Fraction Necrópolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Tiene defensa alta y propaga una plaga a los enemigos a su alrededor.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 2758.0
 
  **Base ATK:** 117.7
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) - Neutral
+* [Enfado](/es/Emblem/Anger/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Gas venenoso
- **Description:** <span style="color: #645252;font-size:20px"> Las unidades de Muertos Vivientes infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que estén a cierta distancia a su alrededor cada 2 s. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px"> Las unidades de Muertos Vivientes infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+18)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles que estén a cierta distancia a su alrededor cada 2 s. Aumenta su daño contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
 ### Habilidad normal 1 : Infección
- **Description:** <span style="color: #645252;font-size:20px">El &lt;Gas Venenoso&gt; de los Muertos Vivientes reduce el ATQ del objetivo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentiza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo de forma prolongada.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El &lt;Gas Venenoso&gt; de los Muertos Vivientes reduce el ATQ del objetivo un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.2+10.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentiza&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo de forma prolongada.</span><span style="color: black">
 
 ### Habilidad normal 2 : Explosivo
- **Description:** <span style="color: #645252;font-size:20px">Cuando se derrota al Muerto Viviente, inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande durante 8 s. El daño a las unidades </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrantes&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aumenta un 30%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se derrota al Muerto Viviente, inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+46)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles en una zona grande durante 8 s. El daño a las unidades </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrantes&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> aumenta un 30%.</span><span style="color: black">
 
 ### Habilidad normal 3 : Barricada de cadáveres
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de las unidades de Muertos Vivientes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si el enemigo que ataca al Muerto Viviente tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, el efecto se duplica.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de las unidades de Muertos Vivientes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si el enemigo que ataca al Muerto Viviente tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, el efecto se duplica.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+
+## Relevancia
+### Conexión de lista
+
+* Necrópolis (Lista de Necrópolis)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Brote de enfermedad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Inflige daño adicional igual al 2% de los PV máximos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Inflige daño adicional igual al 2% de los PV máximos</span>
 
 ### 2nd Skill (or 1st): Enfermedad infecciosa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Al principio de la batalla, aplica &lt;Poison Gas&gt; a todas las unidades cuerpo a cuerpo amistosas de Necrópolis, dura toda la batalla. El daño se puede acumular hasta 6 veces</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Al principio de la batalla, aplica &lt;Poison Gas&gt; a todas las unidades cuerpo a cuerpo amistosas de Necrópolis, dura toda la batalla. El daño se puede acumular hasta 6 veces</span>
 
 ### 3rd Skill (or 4th): Complicación
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Infection&gt;</span><span style="color: #645252;font-size:18px">Reduce el ATQ y la DEF adicionales un 30%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Infection&gt;</span><span style="color: #645252;font-size:18px">Reduce el ATQ y la DEF adicionales un 30%</span>
 
 ### 4th Skill (or 3rd): Superinfección
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Infection&gt;</span><span style="color: #645252;font-size:18px">Reduce la reducción de daño de la unidad un 10% adicional</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Infection&gt;</span><span style="color: #645252;font-size:18px">Reduce la reducción de daño de la unidad un 10% adicional</span>
 
 ### 5th Skill (or 6th): Barrera terrible
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 6th Skill (or 5th): Festín macabro
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">Recupera PV del Muerto Viviente igual al 10% de los PV máximos cada vez que 1 unidad hostil caiga derrotada</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">Recupera PV del Muerto Viviente igual al 10% de los PV máximos cada vez que 1 unidad hostil caiga derrotada</span>
 
 ## Technical info
  **runart:** 1

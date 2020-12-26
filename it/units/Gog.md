@@ -3,17 +3,17 @@ title: "Gog"
 permalink: /it/units/Gog/
 excerpt: "Unità I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Gog"
 toc: true
 ---
 ## General information
- **Description:** I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività.
+ **Descrizione:** I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Inferno](/it/units/Fraction Inferno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge danni magici elevati in un'area, resi ancora più potenti dal fuoco.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Superbia](/it/Emblem/Arrogance/) - Caos
+* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
+
 ## Skills
 ### Tecnica suprema: Muro di fuoco
- **Description:** <span style="color: #645252;font-size:20px">La Gog circonda le unità nemiche con un muro di fiamme infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni. Il muro di fuoco dura 8 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Gog circonda le unità nemiche con un muro di fiamme infliggendo loro </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni. Il muro di fuoco dura 8 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Esplosione fiammeggiante
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base della Gog ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 bersagli e causare </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base della Gog ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+92}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni a 3 bersagli e causare </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Incenerimento
- **Description:** <span style="color: #645252;font-size:20px">ATT della Gog aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">ATT della Gog aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 3 : Spirito infuocato
- **Description:** <span style="color: #645252;font-size:20px">PF della Gog aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Rid DAN degli incantesimi del Fuoco aumentata del 40%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">PF della Gog aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), Rid DAN degli incantesimi del Fuoco aumentata del 40%.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Attacco ustionante
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero anti-incantesimo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Inferno (Roster Inferno)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Piromane
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentati al 150%. Durata aumentata di 4 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentati al 150%. Durata aumentata di 4 secondi.</span>
 
 ### 2nd Skill (or 1st): Torrente di fuoco
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentati al 150%. La dimensione del &lt;Muro di fuoco&gt; aumenta col tempo.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di fuoco&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentati al 150%. La dimensione del &lt;Muro di fuoco&gt; aumenta col tempo.</span>
 
 ### 3rd Skill (or 4th): Incantesimo rovente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spirito infuocato&gt;</span><span style="color: #645252;font-size:18px">: DAN della Gog aumentato del 10%. Bonus raddoppiato contro unità affette da &lt;Combustione&gt;</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spirito infuocato&gt;</span><span style="color: #645252;font-size:18px">: DAN della Gog aumentato del 10%. Bonus raddoppiato contro unità affette da &lt;Combustione&gt;</span>
 
 ### 4th Skill (or 3rd): Intuizione rovente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spirito infuocato&gt;</span><span style="color: #645252;font-size:18px">: tutti gli attacchi della Gog contro unità affette da &lt;Combustione&gt; sono colpi critici.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spirito infuocato&gt;</span><span style="color: #645252;font-size:18px">: tutti gli attacchi della Gog contro unità affette da &lt;Combustione&gt; sono colpi critici.</span>
 
 ### 5th Skill (or 6th): Avanzata infernale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incenerimento&gt;</span><span style="color: #645252;font-size:18px">: DAN della Gog aumentato del 5% per ogni unità Inferno schierata</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incenerimento&gt;</span><span style="color: #645252;font-size:18px">: DAN della Gog aumentato del 5% per ogni unità Inferno schierata</span>
 
 ### 6th Skill (or 5th): Intreccio incantato
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incenerimento&gt;</span><span style="color: #645252;font-size:18px">: DAN della Gog aumentato del 5% per ogni incantatore alleato sul campo di battaglia</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incenerimento&gt;</span><span style="color: #645252;font-size:18px">: DAN della Gog aumentato del 5% per ogni incantatore alleato sul campo di battaglia</span>
 
 ## Technical info
  **runart:** 0

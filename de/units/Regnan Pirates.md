@@ -3,17 +3,17 @@ title: "Regnanpirat"
 permalink: /de/units/Regnan Pirates/
 excerpt: "Einheiten Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Regnanpirat"
 toc: true
 ---
 ## General information
- **Description:** Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee.
+ **Beschreibung:** Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Bucht](/de/units/Fraction Bucht)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Läuft zu Beginn der Schlacht Amok. Starker DPS. Reduziert die gegnerische ABW.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 695.0
 
  **Base ATK:** 99.3
@@ -58,24 +58,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) - Böse
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Gezeitenbeute
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff der Regnanpiraten kann zweimal Schaden verursachen. Zu Beginn der Schlacht landen Regnanpiraten einen garantierten Treffer. Außerdem steigt ihr Schaden </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 30 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff der Regnanpiraten kann zweimal Schaden verursachen. Zu Beginn der Schlacht landen Regnanpiraten einen garantierten Treffer. Außerdem steigt ihr Schaden </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 30 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Taktische Fähigkeiten
- **Description:** <span style="color: #645252;font-size:20px">Der ANG der Regnanpiraten steigt um 20 %. Außerdem steigt ihre Schadensreduzierung jedes Mal, wenn sie angegriffen wird, um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt ist stapelbar bis </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der ANG der Regnanpiraten steigt um 20 %. Außerdem steigt ihre Schadensreduzierung jedes Mal, wenn sie angegriffen wird, um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+1.8)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt ist stapelbar bis </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(($level+$ulevel)*0.2+1.8))} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Nackte Klinge
- **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Regnanpiraten wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jeden gelandeten kritischen Treffer wird die ABW des Ziels 6 Sek. lang um 2 % reduziert. Der Effekt ist stapelbar bis 20 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer der Regnanpiraten wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jeden gelandeten kritischen Treffer wird die ABW des Ziels 6 Sek. lang um 2 % reduziert. Der Effekt ist stapelbar bis 20 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Vorsicht und Gier
- **Description:** <span style="color: #645252;font-size:20px">Je niedriger die LP ihres Ziels, desto mehr Schaden verursachen die Regnanpiraten. Der ANG kann maximal um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht werden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Je niedriger die LP ihres Ziels, desto mehr Schaden verursachen die Regnanpiraten. Der ANG kann maximal um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+56)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht werden.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Piratenoffensive
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Bucht (Bucht-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 2nd Skill (or 1st): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 3rd Skill (or 4th): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Beschreibung:** 
 
 ### 6th Skill (or 5th): null
- **Description:** 
+ **Beschreibung:** 
 
 ## Technical info
  **runart:** 1

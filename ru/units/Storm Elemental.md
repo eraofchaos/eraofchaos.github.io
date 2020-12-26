@@ -3,17 +3,17 @@ title: "Unknown_TEAM_902"
 permalink: /ru/units/Storm Elemental/
 excerpt: "Отряды null"
 unitID: 902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Unknown_TEAM_902"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Стрелковый
+ **Класс:** Стрелковый
 
- **Class Description:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Помечает цель, наносит дополнительный урон, производит серию атак по одиночной цели.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: Отметка разряда
- **Description:** <span style="color: #645252;font-size:20px">Когда начинается бой, элементали Шторма применяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> ко всем вражеским отрядам на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, элементали Шторма применяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> ко всем вражеским отрядам на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Скачущая молния
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Шторма есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ударить цель молнией, нанеся 300% урона.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Шторма есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ударить цель молнией, нанеся 300% урона.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Пробивание разрядом
- **Description:** <span style="color: #645252;font-size:20px">Элементали Шторма получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если цель получала </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Шторма получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если цель получала </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Гармония (Дозор отрядов Гармонии)
+* Стрелок (Дозор стрелковых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Электрическая цепь
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Отметка разряда&gt;</span><span style="color: #645252;font-size:18px">: когда элементаль Шторма вступает в бой, все вражеские отряды получают разряд.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Отметка разряда&gt;</span><span style="color: #645252;font-size:18px">: когда элементаль Шторма вступает в бой, все вражеские отряды получают разряд.</span>
 
 ### 2nd Skill (or 1st): Импульсный ток
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Отметка разряда&gt;</span><span style="color: #645252;font-size:18px">: элементаль Шторма каждые 30 сек. активирует одну отметку разряда.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Отметка разряда&gt;</span><span style="color: #645252;font-size:18px">: элементаль Шторма каждые 30 сек. активирует одну отметку разряда.</span>
 
 ### 3rd Skill (or 4th): Поле плазмы
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Скачущая молния&gt;</span><span style="color: #645252;font-size:18px">: вероятность срабатывания умения удваивается</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Скачущая молния&gt;</span><span style="color: #645252;font-size:18px">: вероятность срабатывания умения удваивается</span>
 
 ### 4th Skill (or 3rd): Разрывная молния
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Скачущая молния&gt;</span><span style="color: #645252;font-size:18px">: урон умения удваивается</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Скачущая молния&gt;</span><span style="color: #645252;font-size:18px">: урон умения удваивается</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, два случайных отряда на задней линии получают +25% к скорости атаки на 10 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, два случайных отряда на задней линии получают +25% к скорости атаки на 10 сек.</span>
 
 ### 6th Skill (or 5th): Взрыв Гармонии
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, элементаль Шторма гарантированно выпускает скачущую молнию и наносит выбранному отряду 300% урона.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, элементаль Шторма гарантированно выпускает скачущую молнию и наносит выбранному отряду 300% урона.</span>
 
 ## Technical info
  **runart:** 0

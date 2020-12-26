@@ -3,7 +3,7 @@ title: "Minotaure"
 permalink: /fr/units/Minotaur/
 excerpt: "Unités Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare."
 unitID: 705
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Minotaure"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Une créature puissante qui se cache dans un labyrinthe sombre. Sa hache immense lui permet de couper en morceaux tout ennemi qui s'y égare.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Tank de soutien, le mélange parfait entre l'attaque et la défense. Saignement augmente les DPS alliés.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2725.0
 
  **Base ATK:** 108.0
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Capacité ultime: Tourbillon
  **Description:** <span style="color: #645252;font-size:20px">Le Minotaure inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à 3 unités ennemies dans une large zone et diminue leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

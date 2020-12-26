@@ -3,17 +3,17 @@ title: "Psy-Elementar"
 permalink: /de/units/Psychic Elemental/
 excerpt: "Einheiten Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Psy-Elementar"
 toc: true
 ---
 ## General information
- **Description:** Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium.
+ **Beschreibung:** Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Konflux](/de/units/Fraction Konflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Fernkampfschaden, reduziert bei Tod das gegnerische Mana, Standardangreifer.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1749.0
 
  **Base ATK:** 212.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 38.16 | 0.6 | 4.4 | 314.82 |
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Energie-Explosion
- **Description:** <span style="color: #645252;font-size:20px">Psy-Elementare sind immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Stille“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psy-Elementare greifen alle 4 Sek. 3 gegnerische Einheiten der Zieleinheit an und verursachen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihres ANG als Schaden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Psy-Elementare sind immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Stille“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psy-Elementare greifen alle 4 Sek. 3 gegnerische Einheiten der Zieleinheit an und verursachen </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihres ANG als Schaden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Erde
- **Description:** <span style="color: #645252;font-size:20px">Der Angriff des Psy-Elementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die &lt;Energie-Explosion&gt; des Psy-Elementars </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit einer Wahrscheinlichkeit von 30 % das Ziel 3 Sek. lang.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Angriff des Psy-Elementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die &lt;Energie-Explosion&gt; des Psy-Elementars </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> mit einer Wahrscheinlichkeit von 30 % das Ziel 3 Sek. lang.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Feuer
- **Description:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Psy-Elementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die &lt;Energie-Explosion&gt; des Psy-Elementars verursacht mit einer Wahrscheinlichkeit von 30 % 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung des Psy-Elementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die &lt;Energie-Explosion&gt; des Psy-Elementars verursacht mit einer Wahrscheinlichkeit von 30 % 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Herr der Elemente
- **Description:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Psy-Elementars wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein Psy-Elementar stirbt, verlieren gegnerische Helden 20 Mana.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Magieresistenz des Psy-Elementars wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein Psy-Elementar stirbt, verlieren gegnerische Helden 20 Mana.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Elementare Affinität
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Offensive Elemente
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Konflux (Konflux-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fokus
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energie-Explosion&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des ursprünglichen Fähigkeitenschadens erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energie-Explosion&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des ursprünglichen Fähigkeitenschadens erhöht.</span>
 
 ### 2nd Skill (or 1st): Divergenz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energie-Explosion&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des ursprünglichen Fähigkeitenschadens erhöht und die Reichweite umfasst alle gegnerischen Einheiten.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energie-Explosion&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 150 % des ursprünglichen Fähigkeitenschadens erhöht und die Reichweite umfasst alle gegnerischen Einheiten.</span>
 
 ### 3rd Skill (or 4th): Stressreaktion
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Erde&gt;</span><span style="color: #645252;font-size:18px"> verursacht WB-&lt;Betäubung&gt;.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erde&gt;</span><span style="color: #645252;font-size:18px"> verursacht WB-&lt;Betäubung&gt;.</span>
 
 ### 4th Skill (or 3rd): Trauma
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Erde&gt;</span><span style="color: #645252;font-size:18px"> verdoppelt den zugefügten Schaden der Einheit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erde&gt;</span><span style="color: #645252;font-size:18px"> verdoppelt den zugefügten Schaden der Einheit.</span>
 
 ### 5th Skill (or 6th): Geistesblitze
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuer&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Einheit wird verdreifacht, und die Wahrscheinlichkeit, die Fähigkeit auszulösen, steigt um 10 %. Verursacht bei einer Gruppe Gegner „Verbrennung“.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuer&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Einheit wird verdreifacht, und die Wahrscheinlichkeit, die Fähigkeit auszulösen, steigt um 10 %. Verursacht bei einer Gruppe Gegner „Verbrennung“.</span>
 
 ### 6th Skill (or 5th): Brandgefährlich
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuer&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Einheit wird verdreifacht, und die Wahrscheinlichkeit, die Fähigkeit auszulösen, steigt um 10 %. Die Dauer von „Verbrennung“ wird auf 12 Sek. erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuer&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung der Einheit wird verdreifacht, und die Wahrscheinlichkeit, die Fähigkeit auszulösen, steigt um 10 %. Die Dauer von „Verbrennung“ wird auf 12 Sek. erhöht.</span>
 
 ## Technical info
  **runart:** 1

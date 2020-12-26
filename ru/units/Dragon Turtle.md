@@ -3,17 +3,17 @@ title: "Панцирный дракон"
 permalink: /ru/units/Dragon Turtle/
 excerpt: "Отряды У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Панцирный дракон"
 toc: true
 ---
 ## General information
- **Description:** У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична.
+ **Описание:** У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Могущественный защитник. После смерти восстанавливает ОЗ.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 12000.0
 
  **Base ATK:** 362.0
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
+* [Алчность](/ru/Emblem/Greed/) - Хаос
+* [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) - Нейтральный
+
 ## Skills
 ### Совершенное умение: Стремительный перекат
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 1 : Ядовитое дыхание, ур. 2
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : Оплот прилива
- **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования &lt;Бронированного щита&gt; в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования &lt;Бронированного щита&gt; в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 3 : Подкрепление
- **Description:** <span style="color: #645252;font-size:20px">Панцирные драконы создают щит подкрепления, повышая сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> для себя и всех союзных отрядов Убежища каждые 20 сек. Эффект длится 8 сек. и не может быть рассеян.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Панцирные драконы создают щит подкрепления, повышая сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> для себя и всех союзных отрядов Убежища каждые 20 сек. Эффект длится 8 сек. и не может быть рассеян.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Отряд Убежища (Дозор отрядов Убежища)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): Благословение океана
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

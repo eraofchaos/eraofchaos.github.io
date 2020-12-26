@@ -3,17 +3,17 @@ title: "Elemental Psíquico"
 permalink: /es/units/Psychic Elemental/
 excerpt: "Unidades Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Elemental Psíquico"
 toc: true
 ---
 ## General information
- **Description:** Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes.
+ **Descripción:** Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes.
 
- **Class:** Ofensa
+ **Clase:** Ofensa
 
- **Class Description:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
+ **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
  **Fraction:** [Conflujo](/es/units/Fraction Conflujo)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Daño a distancia, reduce el maná del enemigo al morir, atacante básico
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1749.0
 
  **Base ATK:** 212.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 38.16 | 0.6 | 4.4 | 314.82 |
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Profeta Verde](/es/Emblem/Green Prophet/) - Bien
+* [Enfado](/es/Emblem/Anger/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Estallido de energía
- **Description:** <span style="color: #645252;font-size:20px">Los Elementales Psíquicos son inmunes al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada Elemental Psíquico ataca a 3 unidades hostiles de la unidad objetivo cada 4 s e inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ATQ.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los Elementales Psíquicos son inmunes al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada Elemental Psíquico ataca a 3 unidades hostiles de la unidad objetivo cada 4 s e inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ATQ.</span><span style="color: black">
 
 ### Habilidad normal 1 : Tierra
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Elementales Psíquicos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El &lt;Estallido de Energía&gt; de los Elementales Psíquicos tiene un 30% de probabilidades de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante 3 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Elementales Psíquicos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El &lt;Estallido de Energía&gt; de los Elementales Psíquicos tiene un 30% de probabilidades de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante 3 s.</span><span style="color: black">
 
 ### Habilidad normal 2 : Fuego
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Elementales Psíquicos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El &lt;Estallido de Energía&gt; de los Elementales Psíquicos tiene un 30% de probabilidades de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quemar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 6 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Elementales Psíquicos un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El &lt;Estallido de Energía&gt; de los Elementales Psíquicos tiene un 30% de probabilidades de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;quemar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 6 s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Señor de los elementos
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica del Elemental Psíquico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se derrota a un Elemental Psíquico, el maná de los Héroes enemigos se reduce en 20.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica del Elemental Psíquico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se derrota a un Elemental Psíquico, el maná de los Héroes enemigos se reduce en 20.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Afinidad elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Conflujo (Lista de Conflujo)
+* Ofensa (Lista de unidades ofensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Concentración
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Estallido de energía&gt;</span><span style="color: #645252;font-size:18px"> Daño de habilidad aumentado al 200% del daño de habilidad original.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Estallido de energía&gt;</span><span style="color: #645252;font-size:18px"> Daño de habilidad aumentado al 200% del daño de habilidad original.</span>
 
 ### 2nd Skill (or 1st): Divergencia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Estallido de energía&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el daño de habilidad al 150% del daño de la habilidad original y el alcance cubre todas las unidades hostiles.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Estallido de energía&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el daño de habilidad al 150% del daño de la habilidad original y el alcance cubre todas las unidades hostiles.</span>
 
 ### 3rd Skill (or 4th): Reacción de tensión
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tierra&gt;</span><span style="color: #645252;font-size:18px"> causa &lt;aturdimiento&gt; en área.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tierra&gt;</span><span style="color: #645252;font-size:18px"> causa &lt;aturdimiento&gt; en área.</span>
 
 ### 4th Skill (or 3rd): Trauma
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tierra&gt;</span><span style="color: #645252;font-size:18px"> duplica el daño de unidad infligido.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tierra&gt;</span><span style="color: #645252;font-size:18px"> duplica el daño de unidad infligido.</span>
 
 ### 5th Skill (or 6th): Chispas de pensamiento
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuego&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad se triplica. Aumenta la probabilidad de activación un 10%. Quema a un grupo de enemigos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuego&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad se triplica. Aumenta la probabilidad de activación un 10%. Quema a un grupo de enemigos</span>
 
 ### 6th Skill (or 5th): Enardecido
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuego&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad se triplica. Aumenta la probabilidad de activación un 10%. Aumenta la duración de quemadura a 12 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuego&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad se triplica. Aumenta la probabilidad de activación un 10%. Aumenta la duración de quemadura a 12 s</span>
 
 ## Technical info
  **runart:** 1

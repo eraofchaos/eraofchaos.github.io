@@ -3,17 +3,17 @@ title: "Drachenschildkröte"
 permalink: /de/units/Dragon Turtle/
 excerpt: "Einheiten Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Drachenschildkröte"
 toc: true
 ---
 ## General information
- **Description:** Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee.
+ **Beschreibung:** Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Bucht](/de/units/Fraction Bucht)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Mächtiger Verteidiger. Stellt nach dem Tod LP wieder her.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 12000.0
 
  **Base ATK:** 362.0
@@ -57,24 +57,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Habgier](/de/Emblem/Greed/) - Chaos
+* [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) - Neutral
+
 ## Skills
 ### Ultimative Fähigkeit: Schmetterrolle
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 1 : Giftodem St. 2
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 2 : Schutzwall der Wellen
- **Description:** <span style="color: #645252;font-size:20px">Sobald die Drachenschildkröte das Schlachtfeld betritt, </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie gegnerische Einheiten in hohem Radius 2 Sek. lang. Nachdem &lt;Panzerschild&gt; 20 Sek. lang aktiv war, stellt die Drachenschildkröte 15 % LP wieder her, und sie erhält einen ABW-Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für die gesamte Schlacht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Sobald die Drachenschildkröte das Schlachtfeld betritt, </span><span style="color: black"><span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie gegnerische Einheiten in hohem Radius 2 Sek. lang. Nachdem &lt;Panzerschild&gt; 20 Sek. lang aktiv war, stellt die Drachenschildkröte 15 % LP wieder her, und sie erhält einen ABW-Bonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für die gesamte Schlacht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Verstärkung
- **Description:** <span style="color: #645252;font-size:20px">Die Drachenschildkröte erzeugt einen Verstärkungsschild, der die Schadensreduzierung für sie und alle verbündeten Bucht-Einheiten alle 20 Sek. um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Wirkungsdauer 8 Sek. (Dieser Effekt kann nicht gebannt werden).</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Drachenschildkröte erzeugt einen Verstärkungsschild, der die Schadensreduzierung für sie und alle verbündeten Bucht-Einheiten alle 20 Sek. um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Wirkungsdauer 8 Sek. (Dieser Effekt kann nicht gebannt werden).</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Piratenoffensive
- **Description:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Bucht (Bucht-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 2nd Skill (or 1st): Ozeansegen
- **Description:** 
+ **Beschreibung:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 4th Skill (or 3rd): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 5th Skill (or 6th): 
- **Description:** 
+ **Beschreibung:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Beschreibung:** 
 
 ## Technical info
  **runart:** 1

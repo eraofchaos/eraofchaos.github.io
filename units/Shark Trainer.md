@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Units Shark Trainer"
 unitID: 9909
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Shark Trainer"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.6 | 5.6 | 977.4 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.63 | 6.25 | 1086.0 |
 
+## Recommended Holy Emblems
+
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Jealousy](/Emblem/Jealousy/) - Chaos
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+
 ## Skills
 ### Ultimate Skill: Bloodthirsty Shark
  **Description:** <span style="color: #645252;font-size:20px">Shark Trainer summons 1 shark at the start of battle. The shark has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+50)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Attack, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*200+3000)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Critical Hit, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Unit DMG, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Unit DMG Reduction, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Defense. The shark deals damage equal to 100% of its own Attack and inflicts </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stun&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 3s on the target unit and a random unit in the rear every 20s. When fighting </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;deterred&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, it gains a 20% increase in Attack Speed and 200 Critical Hit. When fighting </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, it gains a 20% increase in Unit DMG. While the shark is still alive, Shark Trainer gains an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DEF, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Unit DMG Reduction, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Unit DMG. It also grants Shark Trainer every 10s a bubble equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its max HP for 6s.</span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Charging (Charging Roster)
+
+### Hero Bonus
 
 ## Talent
 

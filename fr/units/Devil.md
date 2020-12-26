@@ -3,7 +3,7 @@ title: "Diable"
 permalink: /fr/units/Devil/
 excerpt: "Unités Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière."
 unitID: 507
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Diable"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Le Diable est le seigneur de l'Hadès. Il peut se battre à n'importe quel rythme, et est même capable de se téléporter et d'attaquer des ennemis situés sur la ligne arrière.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Hadès](/fr/units/Fraction Hadès)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Peut être déployé à n'importe quelle position, s'infiltre facilement dans les troupes de la ligne arrière. Bénéficie d'une aura de réduction de PV.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+* [Calamité du roi](/fr/Emblem/King's Calamity/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Mort douloureuse
  **Description:** <span style="color: #645252;font-size:20px">Frappe l'unité la plus lointaine de la zone de front dès que le combat commence (attaque une unité aléatoire sur la ligne arrière s'il n'y a aucune cible valide), ce qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts et invoque un gouffre enflammé qui inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts toute les 0,5 seconde pendant 6 secondes. Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes la première fois. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">Peut être déployé dans n'importe quelle position. Cette compétence se réinitialise quand la cible meurt.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Résonance magique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de l'Hadès sont rompues à la défense concertée. La résistance magique augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> par unité survivante.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Hadès (Groupement - Hadès)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

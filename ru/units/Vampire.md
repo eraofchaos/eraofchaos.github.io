@@ -3,17 +3,17 @@ title: "Вампир"
 permalink: /ru/units/Vampire/
 excerpt: "Отряды Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Вампир"
 toc: true
 ---
 ## General information
- **Description:** Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти.
+ **Описание:** Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти.
 
- **Class:** Штурм
+ **Класс:** Штурм
 
- **Class Description:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Наносит значительный урон врагам с меньшим запасом здоровья.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: Высасывание жизни
- **Description:** <span style="color: #645252;font-size:20px">Каждые 12 сек. вампиры случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и похищают у него </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Каждые 12 сек. вампиры случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и похищают у него </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">Вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ### Обычное умение 2 : Разрастание
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Кровавая охота
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Некрополь (Дозор отрядов Некрополя)
+* Штурмовой отряд (Дозор штурмовых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Эхо жажды крови
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Высасывание жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается на 150%. Исцеление действует на союзные отряды на большом расстоянии</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высасывание жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается на 150%. Исцеление действует на союзные отряды на большом расстоянии</span>
 
 ### 2nd Skill (or 1st): Месть жажды крови
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Высасывание жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усилен до 150%. Когда в первый раз остается меньше 50% ОЗ, срабатывает &lt;Высасывание жизни&gt;</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высасывание жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усилен до 150%. Когда в первый раз остается меньше 50% ОЗ, срабатывает &lt;Высасывание жизни&gt;</span>
 
 ### 3rd Skill (or 4th): Объятия мертвого
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровавая охота&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается на 10% с гибелью вражеского отряда. Эффект длится в течение всего боя и суммируется до 10 раз</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавая охота&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается на 10% с гибелью вражеского отряда. Эффект длится в течение всего боя и суммируется до 10 раз</span>
 
 ### 4th Skill (or 3rd): Защита мертвого
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Кровавая охота&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии повышается на 20% с гибелью вражеского отряда. Эффект длится в течение всего боя и суммируется до 10 раз</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавая охота&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии повышается на 20% с гибелью вражеского отряда. Эффект длится в течение всего боя и суммируется до 10 раз</span>
 
 ### 5th Skill (or 6th): Алое желание
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: иммунитет к болезням. Высасывание жизни усиливается на 50%, если осталось меньше 50% ОЗ. Эффект длится в течение всего боя. Продолжает действовать при восстановлении ОЗ.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: иммунитет к болезням. Высасывание жизни усиливается на 50%, если осталось меньше 50% ОЗ. Эффект длится в течение всего боя. Продолжает действовать при восстановлении ОЗ.</span>
 
 ### 6th Skill (or 5th): Поцелуй необычной любви
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: исцеление усиливается на 50%. Приобретается иммунитет к болезням.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: исцеление усиливается на 50%. Приобретается иммунитет к болезням.</span>
 
 ## Technical info
  **runart:** 1

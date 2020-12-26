@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /fr/units/Berserker/
 excerpt: "Unités Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches."
 unitID: 408
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Berserker"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Berserkers sont les meilleurs combattants parmi les Orques. Ils sont grands, forts, et faciles à énerver. Quel que soit le combat, ils chargent violemment leurs ennemis, et les découpent en morceaux avec leurs haches.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Bastion](/fr/units/Fraction Bastion)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** DPS élevés, efficace à chaque position.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5317.0
 
  **Base ATK:** 678.8
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Bastion sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Bastion (Groupement - Bastion)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

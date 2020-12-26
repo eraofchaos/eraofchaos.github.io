@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Judicator"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
+## Recommended Holy Emblems
+
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+* [Greed](/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Ray of Judgment
  **Description:** <span style="color: #645252;font-size:20px">The Judicator summons 2 Rays of Judgment every 25s. When the rays appear, they <span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"> hostile units within range for 1s and cause damage equal to <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> of Max HP, and decrease hostiles' healing by <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"> for 8s</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Regular Skill 6 : Halo of Theocracy
  **Description:** <span style="color: #645252;font-size:20px">When 3 Castle Faction units are deployed, the Judicator increases unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and his own Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Judicator is in <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> state, he can reveal a <span style="color: #F0F000;font-size:20px">[Theocratic Domain]</span><span style="color: black"> which expands as the unit skill levels up. The domain exists for 15. CD is 30s.</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Castle (Castle Roster)
+* Caster (Caster Roster)
+
+### Hero Bonus
 
 ## Talent
 

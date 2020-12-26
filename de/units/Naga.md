@@ -3,17 +3,17 @@ title: "Naga"
 permalink: /de/units/Naga/
 excerpt: "Einheiten Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Naga"
 toc: true
 ---
 ## General information
- **Description:** Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung.
+ **Beschreibung:** Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Turm](/de/units/Fraction Turm)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Die beste Schadenseinheit. Verursacht Flächenschaden. Heldenzauber erhöhen den Angriff.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 811.0
 
  **Base ATK:** 79.4
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Klingentanz
- **Description:** <span style="color: #645252;font-size:20px">Die Naga fügt 3 zufälligen gegnerischen Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre ABW 10 Sek. lang um 10 %. Bis zu 4 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Naga fügt 3 zufälligen gegnerischen Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre ABW 10 Sek. lang um 10 %. Bis zu 4 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Grausamkeit
- **Description:** <span style="color: #645252;font-size:20px">Der Angriff der Naga trifft immer. Erhöht den Lebensentzug der Naga um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Je weniger LP das Ziel hat, desto mehr Schaden erleidet es, bis hin zu einem Schadensbonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Angriff der Naga trifft immer. Erhöht den Lebensentzug der Naga um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Je weniger LP das Ziel hat, desto mehr Schaden erleidet es, bis hin zu einem Schadensbonus von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Klingenkönigin
- **Description:** <span style="color: #645252;font-size:20px">Solange sich eine Naga auf dem Schlachtfeld befindet, steigt Kritischer Treffer aller verbündeten Offensiv-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gleichzeitig steigt Kritischer Treffer der Naga um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange sich eine Naga auf dem Schlachtfeld befindet, steigt Kritischer Treffer aller verbündeten Offensiv-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gleichzeitig steigt Kritischer Treffer der Naga um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Magisches Erwachen
- **Description:** <span style="color: #645252;font-size:20px">Wenn eine Naga durch den Hilfszauber eines verbündeten Helden verbessert wird, wirkt sie &lt;Klingentanz&gt; auf das Ziel, das dadurch </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden erleidet und 10 Sek. lang 10 % ABW verliert. Bis zu 4 Mal stapelbar.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn eine Naga durch den Hilfszauber eines verbündeten Helden verbessert wird, wirkt sie &lt;Klingentanz&gt; auf das Ziel, das dadurch </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden erleidet und 10 Sek. lang 10 % ABW verliert. Bis zu 4 Mal stapelbar.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Nüchterner Geist
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Explosive Energie
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Turm (Turm-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Blutroter Tanz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Klingentanz&gt;</span><span style="color: #645252;font-size:18px">Wenn Klingentanz aktiv gewirkt wird, werden Angriffstempo und Lebensentzug der Naga 20 Sek. lang um 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Klingentanz&gt;</span><span style="color: #645252;font-size:18px">Wenn Klingentanz aktiv gewirkt wird, werden Angriffstempo und Lebensentzug der Naga 20 Sek. lang um 30 % erhöht.</span>
 
 ### 2nd Skill (or 1st): Scharfer Klingentanz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Klingentanz&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht; alle Einheiten in Reichweite erleiden Schaden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Klingentanz&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht; alle Einheiten in Reichweite erleiden Schaden.</span>
 
 ### 3rd Skill (or 4th): Klinge des Willens
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Klingenkönigin&gt;</span><span style="color: #645252;font-size:18px">Der Bonuseffekt erhöht sich auf 150 % des Effekts der vorherigen Fähigkeit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Klingenkönigin&gt;</span><span style="color: #645252;font-size:18px">Der Bonuseffekt erhöht sich auf 150 % des Effekts der vorherigen Fähigkeit.</span>
 
 ### 4th Skill (or 3rd): Wahnsinnige Klinge
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Klingenkönigin&gt;</span><span style="color: #645252;font-size:18px">Kritischer Treffer und Kritischer Schaden bieten der Naga einen Bonus und erhöhen den Effekt auf 200 % der vorherigen Fähigkeit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Klingenkönigin&gt;</span><span style="color: #645252;font-size:18px">Kritischer Treffer und Kritischer Schaden bieten der Naga einen Bonus und erhöhen den Effekt auf 200 % der vorherigen Fähigkeit.</span>
 
 ### 5th Skill (or 6th): Magische Haut
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt 3 Sek. lang Immunität gegen Zauberschaden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt 3 Sek. lang Immunität gegen Zauberschaden.</span>
 
 ### 6th Skill (or 5th): Magiedurchdrungene Klinge
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt der Einheit 6 Sek. lang 30 % Bonusschaden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt der Einheit 6 Sek. lang 30 % Bonusschaden.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Elfe sylvaine"
 permalink: /fr/units/Wood Elf/
 excerpt: "Unités Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches."
 unitID: 203
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Elfe sylvaine"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Elfes d'Avlee sont d'excellents Arbalétriers. Ils protègent leur forêt, accueillant les intrus avec une pluie torrentielle de flèches.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige de lourds dégâts directs et une double frappe. Surtout efficace sur les petites unités.
 
-## Basic stats
+## Stats de base
  **Base HP:** 438.4
 
  **Base ATK:** 92.4
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
 
+## Emblèmes sacrés recommandés
+
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

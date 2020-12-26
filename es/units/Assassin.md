@@ -3,17 +3,17 @@ title: "Asesino"
 permalink: /es/units/Assassin/
 excerpt: "Unidades Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Asesino"
 toc: true
 ---
 ## General information
- **Description:** Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido.
+ **Descripción:** Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido.
 
- **Class:** Carga
+ **Clase:** Carga
 
- **Class Description:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
+ **Clase Descripción:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
 
  **Fraction:** [Ejército Neutral](/es/units/Fraction Ejército Neutral)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Daño de asesinato, debilita la curación, lanza cuchillos y silencia a los enemigos.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 2119.0
 
  **Base ATK:** 269.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
+## Emblemas Sagrados recomendados
+
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Testigo](/es/Emblem/Witness/) - Bien
+
 ## Skills
 ### Habilidad definitiva: Asesinato
- **Description:** <span style="color: #645252;font-size:20px">Los Asesinos adquieren el estado de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> al comienzo de la batalla y pierden </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> al entablar combate. Cuando un Asesino pierde el </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px">, su siguiente ataque será de ruptura de sigilo, que inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ataque y reduce la curación recibida un 30%. Este efecto se puede activar cada 10 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los Asesinos adquieren el estado de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> al comienzo de la batalla y pierden </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> al entablar combate. Cuando un Asesino pierde el </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px">, su siguiente ataque será de ruptura de sigilo, que inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ataque y reduce la curación recibida un 30%. Este efecto se puede activar cada 10 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Instinto Asesino
- **Description:** <span style="color: #645252;font-size:20px">La unidad Asesina aumenta el </span><span style="color: black"><span style="color: #645252;font-size:20px">daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Esta bonificación se duplica bajo el efecto de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ojo de halcón&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Atacar a enemigos</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;cegados&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">aumenta la penetración un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad Asesina aumenta el </span><span style="color: black"><span style="color: #645252;font-size:20px">daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Esta bonificación se duplica bajo el efecto de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ojo de halcón&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Atacar a enemigos</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;cegados&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">aumenta la penetración un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}.</span><span style="color: black">
 
 ### Habilidad normal 2 : Bomba de humo
- **Description:** <span style="color: #645252;font-size:20px">La unidad Asesina lanza una bomba de humo a sus pies y aumenta su propia DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la vez que</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;ciega&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades enemigas en una zona grande, reduciendo el daño de la unidad y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. La recarga es de 18 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad Asesina lanza una bomba de humo a sus pies y aumenta su propia DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la vez que</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;ciega&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades enemigas en una zona grande, reduciendo el daño de la unidad y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. La recarga es de 18 s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Ataque encadenado
- **Description:** <span style="color: #645252;font-size:20px">Los Asesinos aumentan su daño de unidad en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y sus golpes críticos en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se triplica durante 20 s cuando un Asesino mata a una unidad objetivo y adquiere el modo </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los Asesinos aumentan su daño de unidad en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y sus golpes críticos en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se triplica durante 20 s cuando un Asesino mata a una unidad objetivo y adquiere el modo </span><span style="color: black"><span style="color: #48b946;font-size:20px">Sigilo</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Conflicto armado
- **Description:** <span style="color: #645252;font-size:20px">Las unidades neutrales son una fuerza competente. Al luchar contra unidades neutrales, su </span><span style="color: black"><span style="color: #645252;font-size:20px">daño de unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades neutrales son una fuerza competente. Al luchar contra unidades neutrales, su </span><span style="color: black"><span style="color: #645252;font-size:20px">daño de unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Potenciador de coraje
- **Description:** <span style="color: #645252;font-size:20px">Las unidades neutrales pueden resistir una gran cantidad de fuerza. Cada vez que pierden el 10% de sus PV, su </span><span style="color: black"><span style="color: #645252;font-size:20px">defensa aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades neutrales pueden resistir una gran cantidad de fuerza. Cada vez que pierden el 10% de sus PV, su </span><span style="color: black"><span style="color: #645252;font-size:20px">defensa aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Neutral (Lista neutral)
+* Carga (Lista de unidades de carga)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 1

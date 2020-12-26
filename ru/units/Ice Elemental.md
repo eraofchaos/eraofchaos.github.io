@@ -3,17 +3,17 @@ title: "Элементаль Льда"
 permalink: /ru/units/Ice Elemental/
 excerpt: "Отряды Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Элементаль Льда"
 toc: true
 ---
 ## General information
- **Description:** Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух.
+ **Описание:** Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Специализирующийся на контроле маг, покрывает все вокруг себя льдом, возводит ледяную стену.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 744.0
 
  **Base ATK:** 111.0
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: Стена льда
- **Description:** <span style="color: #645252;font-size:20px">Элементали Льда создают ледяную стену перед целью, </span><span style="color: black"><span style="color: #48b946;font-size:20px">замораживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели в горизонтальном ряду в широком радиусе на <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Льда создают ледяную стену перед целью, </span><span style="color: black"><span style="color: #48b946;font-size:20px">замораживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели в горизонтальном ряду в широком радиусе на <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Холодная хватка
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Льда есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлить</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 15 сек. Кроме того, скорость атаки у цели снижается на <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Льда есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлить</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 15 сек. Кроме того, скорость атаки у цели снижается на <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
 
 ### Обычное умение 2 : Сила элементалей
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : null
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Гармония (Дозор отрядов Гармонии)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ледяная преграда
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление критическому урону на 20%. При попадании в цель замораживает ее и лишает сил. Эффект длится 3 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление критическому урону на 20%. При попадании в цель замораживает ее и лишает сил. Эффект длится 3 сек.</span>
 
 ### 2nd Skill (or 1st): Ледяные оковы
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление урону на 20%. При попадании в цель замораживает ее и вызывает немоту. Эффект длится 3 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление урону на 20%. При попадании в цель замораживает ее и вызывает немоту. Эффект длится 3 сек.</span>
 
 ### 3rd Skill (or 4th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, отряды в том же ряду получают +100 к стойкости и +50% ОЗ. Эффект длится 7 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, отряды в том же ряду получают +100 к стойкости и +50% ОЗ. Эффект длится 7 сек.</span>
 
 ### 4th Skill (or 3rd): Вторжение Гармонии
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сила элементалей&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, &lt;Холодная хватка&gt; с шансом 50% воздействует на случайный вражеский отряд на задней линии.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила элементалей&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, &lt;Холодная хватка&gt; с шансом 50% воздействует на случайный вражеский отряд на задней линии.</span>
 
 ### 5th Skill (or 6th): Перезарядка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Застывание&gt;</span><span style="color: #645252;font-size:18px">: действие эффекта заморозки продлевается до 5 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Застывание&gt;</span><span style="color: #645252;font-size:18px">: действие эффекта заморозки продлевается до 5 сек.</span>
 
 ### 6th Skill (or 5th): Окоченение
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Застывание&gt;</span><span style="color: #645252;font-size:18px">: снижает у выбранного отряда сопротивление урону на 20% на 7 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Застывание&gt;</span><span style="color: #645252;font-size:18px">: снижает у выбранного отряда сопротивление урону на 20% на 7 сек.</span>
 
 ## Technical info
  **runart:** 0

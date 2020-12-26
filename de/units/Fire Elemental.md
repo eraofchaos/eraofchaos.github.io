@@ -3,17 +3,17 @@ title: "Feuerelementar"
 permalink: /de/units/Fire Elemental/
 excerpt: "Einheiten Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Feuerelementar"
 toc: true
 ---
 ## General information
- **Description:** Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt.
+ **Beschreibung:** Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Konflux](/de/units/Fraction Konflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Verursacht Verbrennung, lässt das gesamte Schlachtfeld explodieren, wird stärker, wenn Feinde fallen.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1682.0
 
  **Base ATK:** 195.0
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+* [Misere des Königs](/de/Emblem/King's Calamity/) - Böse
+
 ## Skills
 ### Ultimative Fähigkeit: Himmelsfeuer
- **Description:** <span style="color: #645252;font-size:20px">Der Feuerelementar fügt einem gegnerischen Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Feuerelementar fügt einem gegnerischen Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und verursacht 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : null
- **Description:** 
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 2 : Kraft der Elemente
- **Description:** <span style="color: #645252;font-size:20px">Solange der Feuerelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange der Feuerelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Magieresistenz gegen Feuerzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Feuerenergie-Übertragung
- **Description:** <span style="color: #645252;font-size:20px">Der Feuerelementar stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP wieder her, wenn es eine gegnerische Einheit tötet. Außerdem wird dann sein ANG um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Ist die gesamte Schlacht über aktiv, bis 3 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Feuerelementar stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP wieder her, wenn es eine gegnerische Einheit tötet. Außerdem wird dann sein ANG um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Ist die gesamte Schlacht über aktiv, bis 3 Stapel.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Elementare Affinität
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Offensive Elemente
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Konflux (Konflux-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sengendes Wolkenfeuer
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Himmelsfeuer&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Himmelsfeuer&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
 
 ### 2nd Skill (or 1st): Lauffeuer
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Himmelsfeuer&gt;</span><span style="color: #645252;font-size:18px">Fügt zwei zufälligen gegnerischen Einheiten Schaden zu.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Himmelsfeuer&gt;</span><span style="color: #645252;font-size:18px">Fügt zwei zufälligen gegnerischen Einheiten Schaden zu.</span>
 
 ### 3rd Skill (or 4th): Elementares Entfachen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird der ANG zweier zufälliger Offensiv-Einheiten 10 Sek. lang um 50 % erhöht, ihr Lebensentzug um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird der ANG zweier zufälliger Offensiv-Einheiten 10 Sek. lang um 50 % erhöht, ihr Lebensentzug um 10 %.</span>
 
 ### 4th Skill (or 3rd): Elementare Raserei
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird mit einer Wahrscheinlichkeit von 30 % &lt;Himmelsfeuer&gt; auf eine zufällige gegnerische Einheit gewirkt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird mit einer Wahrscheinlichkeit von 30 % &lt;Himmelsfeuer&gt; auf eine zufällige gegnerische Einheit gewirkt.</span>
 
 ### 5th Skill (or 6th): Fluch der tosenden Flamme
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerenergie-Übertragung&gt;</span><span style="color: #645252;font-size:18px">Die Boni werden verdoppelt, die Stapel bleiben wie gehabt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerenergie-Übertragung&gt;</span><span style="color: #645252;font-size:18px">Die Boni werden verdoppelt, die Stapel bleiben wie gehabt.</span>
 
 ### 6th Skill (or 5th): Harmonie der Flammen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Feuerenergie-Übertragung&gt;</span><span style="color: #645252;font-size:18px">Der zusätzliche Effekt betrifft verbündete Einheiten in einem bestimmten Bereich.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerenergie-Übertragung&gt;</span><span style="color: #645252;font-size:18px">Der zusätzliche Effekt betrifft verbündete Einheiten in einem bestimmten Bereich.</span>
 
 ## Technical info
  **runart:** 1

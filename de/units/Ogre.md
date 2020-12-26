@@ -3,17 +3,17 @@ title: "Oger"
 permalink: /de/units/Ogre/
 excerpt: "Einheiten Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Oger"
 toc: true
 ---
 ## General information
- **Description:** Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken.
+ **Beschreibung:** Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Burg](/de/units/Fraction Burg)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Ein mächtiger Tank, der die Leistung deiner Nahkampftruppen erhöht.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 2523.0
 
  **Base ATK:** 107.6
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
+## Empfohlene Heilige Embleme
+
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Wollust](/de/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Blutbecken
- **Description:** <span style="color: #645252;font-size:20px">Der Oger beschwört einen Blutteich, der den Lebensentzug aller verbündeten Einheiten in einem großen Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verbessert. Der Blutteich bleibt 15 Sek. lang bestehen.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Oger beschwört einen Blutteich, der den Lebensentzug aller verbündeten Einheiten in einem großen Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verbessert. Der Blutteich bleibt 15 Sek. lang bestehen.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Haut des Hexers
- **Description:** <span style="color: #645252;font-size:20px">Die ABW des Ogers steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, die LP-Regeneration um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die ABW des Ogers steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, die LP-Regeneration um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Amoklauf
- **Description:** <span style="color: #645252;font-size:20px">Wenn die LP des Ogers unter 35 % sinken, steigt der ANG aller verbündeten Einheiten für den Rest der Schlacht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn die LP des Ogers unter 35 % sinken, steigt der ANG aller verbündeten Einheiten für den Rest der Schlacht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Giftheilung
- **Description:** <span style="color: #645252;font-size:20px">Wenn sich ein Oger auf dem Schlachtfeld befindet, steigt die Heilung aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn sich ein Oger auf dem Schlachtfeld befindet, steigt die Heilung aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Kampfzelot
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Burg (Burg-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Heilungsteich
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutbecken&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Die Dauer wird um 10 Sek. erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutbecken&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Die Dauer wird um 10 Sek. erhöht.</span>
 
 ### 2nd Skill (or 1st): Quell der Wildnis
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blutbecken&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird um 50 % erhöht und seine Reichweite erweitert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Blutbecken&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird um 50 % erhöht und seine Reichweite erweitert.</span>
 
 ### 3rd Skill (or 4th): Wildes Herz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Effekt wird verdoppelt, solange &lt;Amoklauf&gt; aktiv ist.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Effekt wird verdoppelt, solange &lt;Amoklauf&gt; aktiv ist.</span>
 
 ### 4th Skill (or 3rd): Aufrüttelndes Kriegslied
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Schaden wird auf 200 % des Grundschadens der Fähigkeit erhöht, solange &lt;Amoklauf&gt; aktiv ist.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Schaden wird auf 200 % des Grundschadens der Fähigkeit erhöht, solange &lt;Amoklauf&gt; aktiv ist.</span>
 
 ### 5th Skill (or 6th): Uralte Woge
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 6th Skill (or 5th): Schutz des Patriarchen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt bleibt auch nach dem Tod des Ogers aktiv.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt bleibt auch nach dem Tod des Ogers aktiv.</span>
 
 ## Technical info
  **runart:** 1

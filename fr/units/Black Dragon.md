@@ -3,7 +3,7 @@ title: "Dragon noir"
 permalink: /fr/units/Black Dragon/
 excerpt: "Unités Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser."
 unitID: 707
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Dragon noir"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Un tyran meurtrier qui domine la chaîne alimentaire dans les profondeurs. Aucun sort mortel ne peut le blesser.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Au sommet de la hiérarchie. Aucun sort ne peut l'endommager.
 
-## Basic stats
+## Stats de base
  **Base HP:** 8712.0
 
  **Base ATK:** 430.0
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 77.4 | 0.44 | 8.96 | 1568.16 |
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Capacité ultime: Souffle du Dragon
  **Description:** <span style="color: #645252;font-size:20px">Le Dragon noir inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> points de dégâts à toutes les unités ennemies dans une très large zone toutes les 15 secondes. Il inflige également une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max aux ennemis proches et leur inflige <span style="color: #48b946;font-size:20px">&lt;Brûlure&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

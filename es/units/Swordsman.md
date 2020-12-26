@@ -3,17 +3,17 @@ title: "Espadachín"
 permalink: /es/units/Swordsman/
 excerpt: "Unidades Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Espadachín"
 toc: true
 ---
 ## General information
- **Description:** Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate.
+ **Descripción:** Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Castillo](/es/units/Fraction Castillo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige daño colosal al inicio de la partida. Tiene golpe doble y puede curarse a sí mismo.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
+## Emblemas Sagrados recomendados
+
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+* [Avaricia](/es/Emblem/Greed/) - Caos
+
 ## Skills
 ### Habilidad definitiva: null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad normal 1 : Inspiración
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Espadachines un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Espadachines un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Golpe doble
- **Description:** <span style="color: #645252;font-size:20px">Los Espadachines tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar al objetivo dos veces cuando usan su ataque normal. El segundo ataque inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrentan a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Lentos»</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe doble&gt; aumenta al 100%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los Espadachines tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidades de atacar al objetivo dos veces cuando usan su ataque normal. El segundo ataque inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo. Cuando se enfrentan a objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Lentos»</span><span style="color: black"><span style="color: #645252;font-size:20px">, la probabilidad de activar &lt;Golpe doble&gt; aumenta al 100%.</span><span style="color: black">
 
 ### Habilidad normal 3 : Salvación
- **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de los Espadachines tienen una probabilidad alta de restablecer PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales de los Espadachines tienen una probabilidad alta de restablecer PV igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Combate de asedio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de defensa
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Castillo (Lista de Castillo)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Escudo antimagia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px">Otorga reducción de daño mágico</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px">Otorga reducción de daño mágico</span>
 
 ### 2nd Skill (or 1st): Protección sagrada
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px">Duración de efecto aumentada en 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Divine Protection&gt;</span><span style="color: #645252;font-size:18px">Duración de efecto aumentada en 10 s</span>
 
 ### 3rd Skill (or 4th): Inspiración del valiente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Inmune a «Moral baja». El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Inmune a «Moral baja». El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 4th Skill (or 3rd): Elévame
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Al volverse inmune a «Moral baja» y recibir «Moral alta», aumenta la reducción de daño de las unidades para las unidades amistosas un 10% en una zona grande durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Al volverse inmune a «Moral baja» y recibir «Moral alta», aumenta la reducción de daño de las unidades para las unidades amistosas un 10% en una zona grande durante 10 s</span>
 
 ### 5th Skill (or 6th): Luz de salvación
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">Cantidad de regeneración de PV aumentada al 200% del efecto de la regeneración básica de la habilidad</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">Cantidad de regeneración de PV aumentada al 200% del efecto de la regeneración básica de la habilidad</span>
 
 ### 6th Skill (or 5th): Un corazón poderoso
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">El Espadachín es inmune a &lt;silence&gt;, &lt;stun&gt; y &lt;petrification&gt;</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Salvation&gt;</span><span style="color: #645252;font-size:18px">El Espadachín es inmune a &lt;silence&gt;, &lt;stun&gt; y &lt;petrification&gt;</span>
 
 ## Technical info
  **runart:** 1

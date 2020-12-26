@@ -3,17 +3,17 @@ title: "Ифрит"
 permalink: /ru/units/Efreeti/
 excerpt: "Отряды null"
 unitID: 506
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Ифрит"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Наносит магический урон и обладает щитом Огня. Основной отряд для отражения урона.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1446.0
 
  **Base ATK:** 225.4
@@ -60,23 +60,37 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Королевская беда](/ru/Emblem/King's Calamity/) - Злой
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">Ифриты применяют к выбранной области Огненную бурю, которая наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем вражеским войскам в этой области и вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ифриты применяют к выбранной области Огненную бурю, которая наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем вражеским войскам в этой области и вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. </span><span style="color: black">
 
 ### Обычное умение 1 : Пылающий щит
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : Раскаление
- **Description:** <span style="color: #645252;font-size:20px">&lt;Щит огня&gt; ифритов повышает сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">&lt;Щит огня&gt; ифритов повышает сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 3 : Бог Огня
- **Description:** <span style="color: #645252;font-size:20px">Ифриты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ифриты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
+## Значимость
+### Связь дозора
+
+* null (Дозор отрядов Инферно)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
+
 ## Talent
 
 * Атака
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Воздействие жара
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненная буря&gt;</span><span style="color: #645252;font-size:18px">: в начале боя все вражеские отряды получают горение на 20 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненная буря&gt;</span><span style="color: #645252;font-size:18px">: в начале боя все вражеские отряды получают горение на 20 сек.</span>
 
 ### 2nd Skill (or 1st): Пир пламени
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Огненная буря&gt;</span><span style="color: #645252;font-size:18px">: урон наносится целям и большому количеству врагов, стоящих за ними</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненная буря&gt;</span><span style="color: #645252;font-size:18px">: урон наносится целям и большому количеству врагов, стоящих за ними</span>
 
 ### 3rd Skill (or 4th): Бой в огне
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Пылающий щит&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается на 15%. Длительность эффекта увеличена на 30 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Пылающий щит&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается на 15%. Длительность эффекта увеличена на 30 сек.</span>
 
 ### 4th Skill (or 3rd): Отражающая кожа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Пылающий щит&gt;</span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 15%. Длительность эффекта увеличена на 30 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Пылающий щит&gt;</span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 15%. Длительность эффекта увеличена на 30 сек.</span>
 
 ### 5th Skill (or 6th): Страж Инферно
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бог огня&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки ифритов повышается на 5% за каждый отряд Инферно на поле боя</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бог огня&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки ифритов повышается на 5% за каждый отряд Инферно на поле боя</span>
 
 ### 6th Skill (or 5th): Волшебная ткань
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 0

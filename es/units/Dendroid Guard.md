@@ -3,17 +3,17 @@ title: "Guardia Dendroide"
 permalink: /es/units/Dendroid Guard/
 excerpt: "Unidades Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido."
 unitID: 205
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Guardia Dendroide"
 toc: true
 ---
 ## General information
- **Description:** Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido.
+ **Descripción:** Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Murallas](/es/units/Fraction Murallas)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inmune a sangrado, refleja el daño y usa un escudo para mejorar su Defensa.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 10182.0
 
  **Base ATK:** 396.0
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 71.28 | 0.36 | 8.36 | 1832.76 |
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
+## Emblemas Sagrados recomendados
+
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
+* [Avaricia](/es/Emblem/Greed/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Atadura
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Guardia Dendroide </span><span style="color: black"><span style="color: #48b946;font-size:20px">ralentiza</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles a su alrededor en una zona grande y reduce su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Guardia Dendroide </span><span style="color: black"><span style="color: #48b946;font-size:20px">ralentiza</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles a su alrededor en una zona grande y reduce su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Giro aplastante
- **Description:** <span style="color: #645252;font-size:20px">Los ataques normales del Guardia Dendroide tienen una probabilidad de crear un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;escudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales del Guardia Dendroide tienen una probabilidad de crear un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;escudo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que absorbe daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos.</span><span style="color: black">
 
 ### Habilidad normal 2 : Armadura de madera petrificada
- **Description:** <span style="color: #645252;font-size:20px">El Guardia Dendroide es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y sus PV aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Guardia Dendroide es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y sus PV aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Estaca de madera
- **Description:** <span style="color: #645252;font-size:20px">Cuando un Guardia Dendroide recibe daño, este refleja daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ATQ y hace </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a su atacante durante 6 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando un Guardia Dendroide recibe daño, este refleja daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+1.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su ATQ y hace </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a su atacante durante 6 s.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Proliferación calmada
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en el conflicto en el campo de batalla. La duración de los efectos de &lt;aturdimiento&gt; y &lt;petrificación&gt; que reciben se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Marca de odio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Murallas son expertas en la persecución táctica, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;ralentizamiento&gt; y &lt;sangrado&gt;. Si el objetivo tiene los dos estados mencionados anteriormente, el efecto se duplica.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Murallas (Lista de Murallas)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Furia del bosque
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Atadura&gt;</span><span style="color: #645252;font-size:18px">Aumenta la velocidad de ataque de las unidades amistosas en una zona grande un 20% durante 10 segundos cuando se lanza Atadura</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Atadura&gt;</span><span style="color: #645252;font-size:18px">Aumenta la velocidad de ataque de las unidades amistosas en una zona grande un 20% durante 10 segundos cuando se lanza Atadura</span>
 
 ### 2nd Skill (or 1st): Protección del bosque
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Bind&gt;</span><span style="color: #645252;font-size:18px">Crea un escudo para unidades amistosas en una zona grande que absorbe daño igual al 6% de los PV máximos cuando se lanza Atadura</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bind&gt;</span><span style="color: #645252;font-size:18px">Crea un escudo para unidades amistosas en una zona grande que absorbe daño igual al 6% de los PV máximos cuando se lanza Atadura</span>
 
 ### 3rd Skill (or 4th): Agarrotar
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Armor of Petrified Wood&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Guardias Dendroides un 20%. El efecto se duplica cuando luchan contra unidades hostiles con sangrado</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Armor of Petrified Wood&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Guardias Dendroides un 20%. El efecto se duplica cuando luchan contra unidades hostiles con sangrado</span>
 
 ### 4th Skill (or 3rd): Poder de la jungla
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Armor of Petrified Wood&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Guardias Dendroides un 10% y la DEF de unidades amistosas un 30% en una zona grande</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Armor of Petrified Wood&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Guardias Dendroides un 10% y la DEF de unidades amistosas un 30% en una zona grande</span>
 
 ### 5th Skill (or 6th): Púa corrosiva
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Wooden Stake&gt;</span><span style="color: #645252;font-size:18px">Disminuye la DEF del atacante un 30% y ralentiza al atacante</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Wooden Stake&gt;</span><span style="color: #645252;font-size:18px">Disminuye la DEF del atacante un 30% y ralentiza al atacante</span>
 
 ### 6th Skill (or 5th): Púa de debilidad
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Wooden Stake&gt;</span><span style="color: #645252;font-size:18px">Disminuye el daño de la unidad del atacante un 10% y ralentiza al atacante</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Wooden Stake&gt;</span><span style="color: #645252;font-size:18px">Disminuye el daño de la unidad del atacante un 10% y ralentiza al atacante</span>
 
 ## Technical info
  **runart:** 1

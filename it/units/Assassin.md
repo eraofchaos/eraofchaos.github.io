@@ -3,17 +3,17 @@ title: "Assassino"
 permalink: /it/units/Assassin/
 excerpt: "Unità Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Assassino"
 toc: true
 ---
 ## General information
- **Description:** Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito.
+ **Descrizione:** Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito.
 
- **Class:** Incursione
+ **Classe:** Incursione
 
- **Class Description:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
+ **Classe Descrizione:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
 
  **Fraction:** [Esercito neutrale](/it/units/Fraction Esercito neutrale)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Danno da assassinio, riduce la guarigione, lancia coltelli e causa <Silenzio>.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 2119.0
 
  **Base ATK:** 269.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
+## Emblemi sacri consigliati
+
+* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Testimonianza](/it/Emblem/Witness/) - Bontà
+
 ## Skills
 ### Tecnica suprema: Assassinio
- **Description:** <span style="color: #645252;font-size:20px">L'Assassino comincia la battaglia con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> attiva, e perde la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> quando attacca per la prima volta. Quando un Assassino perde la propria </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il suo attacco successivo sarà un attacco da &lt;Furtività persa&gt; e infliggerà danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT, riducendo le cure ricevute del 30%. L'effetto può attivarsi una volta ogni 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Assassino comincia la battaglia con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> attiva, e perde la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> quando attacca per la prima volta. Quando un Assassino perde la propria </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il suo attacco successivo sarà un attacco da &lt;Furtività persa&gt; e infliggerà danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del suo ATT, riducendo le cure ricevute del 30%. L'effetto può attivarsi una volta ogni 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Istinto dell'Assassino
- **Description:** <span style="color: #645252;font-size:20px">L'Assassino gode di </span><span style="color: black"><span style="color: #645252;font-size:20px">DAN aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%).</span><span style="color: black"><span style="color: #645252;font-size:20px">Bonus raddoppiato sotto l'effetto di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Occhio di Falco&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Quando attacca unità affette da</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cecità&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">la Perforazione aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Assassino gode di </span><span style="color: black"><span style="color: #645252;font-size:20px">DAN aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%).</span><span style="color: black"><span style="color: #645252;font-size:20px">Bonus raddoppiato sotto l'effetto di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Occhio di Falco&gt;.</span><span style="color: black"><span style="color: #645252;font-size:20px"> Quando attacca unità affette da</span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cecità&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">la Perforazione aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}).</span><span style="color: black">
 
 ### Tecnica normale 2 : Bomba fumogena
- **Description:** <span style="color: #645252;font-size:20px">L'Assassino lancia ai suoi piedi una Bomba fumogena che ne aumenta la DIF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e applica </span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cecità&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche in un'ampia area, riducendone DAN e Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi. Recupero: 18 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Assassino lancia ai suoi piedi una Bomba fumogena che ne aumenta la DIF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e applica </span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;Cecità&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche in un'ampia area, riducendone DAN e Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi. Recupero: 18 secondi.</span><span style="color: black">
 
 ### Tecnica normale 3 : Attacco a catena
- **Description:** <span style="color: #645252;font-size:20px">L'Assassino gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando un Assassino uccide un'unità bersaglio, l'effetto è triplicato per 20 secondi; inoltre, l'Assassino entra in </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Assassino gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando un Assassino uccide un'unità bersaglio, l'effetto è triplicato per 20 secondi; inoltre, l'Assassino entra in </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Furtività&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 secondi.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Conflitto armato
- **Description:** <span style="color: #645252;font-size:20px">Le unità neutrali sono molti efficaci. Quando affrontano unità non neutrali, il loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità neutrali sono molti efficaci. Quando affrontano unità non neutrali, il loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DAN aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Incoraggiamento
- **Description:** <span style="color: #645252;font-size:20px">Le unità neutrali possono resistere ad attacchi estremamente potenti. Ogni volta che perdono il 10% dei propri PF, la loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità neutrali possono resistere ad attacchi estremamente potenti. Ogni volta che perdono il 10% dei propri PF, la loro </span><span style="color: black"><span style="color: #645252;font-size:20px">DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)}%).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Neutrale (Roster neutrale)
+* Incursione (Roster unità di incursione)
+
+### Bonus eroe
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Spazzata Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
 
 ### 4th Skill (or 3rd): Muro cavo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
 
 ### 5th Skill (or 6th): Infiltrazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
 
 ### 6th Skill (or 5th): Assalto estenuante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
 
 ## Technical info
  **runart:** 1

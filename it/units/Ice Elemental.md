@@ -3,17 +3,17 @@ title: "Elementale del ghiaccio"
 permalink: /it/units/Ice Elemental/
 excerpt: "Unità Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Elementale del ghiaccio"
 toc: true
 ---
 ## General information
- **Description:** Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici.
+ **Descrizione:** Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Confluenza](/it/units/Fraction Confluenza)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Mago con abilità di controllo. Ricopre tutto di ghiaccio. Erige mura difensive di ghiaccio.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 744.0
 
  **Base ATK:** 111.0
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
+## Emblemi sacri consigliati
+
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: Muro di ghiaccio
- **Description:** <span style="color: #645252;font-size:20px">L'Elementale del ghiaccio erige un muro ghiacciato di fronte al bersaglio, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelando&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli lungo una fila orizzontale per <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Elementale del ghiaccio erige un muro ghiacciato di fronte al bersaglio, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelando&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli lungo una fila orizzontale per <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Morsa gelida
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale del ghiaccio ha una probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentare&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per 15 secondi. Inoltre, riduce la Vel ATT del bersaglio (<span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale del ghiaccio ha una probabilità di </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentare&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> il bersaglio per 15 secondi. Inoltre, riduce la Vel ATT del bersaglio (<span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 10 secondi. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### Tecnica normale 2 : Forza elementale
- **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e riduce la resistenza dei nemici agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la rigenerazione del mana dell'eroe alleato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e riduce la resistenza dei nemici agli incantesimi di tipo Acqua (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se l'Elementale del ghiaccio è sul campo di battaglia, aumenta la rigenerazione del mana dell'eroe alleato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 3 : null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica speciale fazione I : Affinità elementale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto elementale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Confluenza (Roster Confluenza)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Muro di ghiaccio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 20% la Rid DAN CRIT dei bersagli colpiti. Se il bersaglio è immune al &lt;Congelamento&gt;, diventa &lt;affaticato&gt; per 3 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 20% la Rid DAN CRIT dei bersagli colpiti. Se il bersaglio è immune al &lt;Congelamento&gt;, diventa &lt;affaticato&gt; per 3 secondi.</span>
 
 ### 2nd Skill (or 1st): Prigione di ghiaccio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 20% la Rid DAN dei bersagli colpiti. Se il bersaglio è immune al &lt;Congelamento&gt;, viene &lt;silenziato&gt; per 3 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 20% la Rid DAN dei bersagli colpiti. Se il bersaglio è immune al &lt;Congelamento&gt;, viene &lt;silenziato&gt; per 3 secondi.</span>
 
 ### 3rd Skill (or 4th): Protezione elementale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe lancia un incantesimo di tipo Acqua, aumenta di 100 la Tenacia e del 50% i PF delle unità in prima linea per 7 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe lancia un incantesimo di tipo Acqua, aumenta di 100 la Tenacia e del 50% i PF delle unità in prima linea per 7 secondi.</span>
 
 ### 4th Skill (or 3rd): Invasione elementale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px"> Quando un eroe lancia un incantesimo di tipo Acqua, ha il 50% di probabilità di lanciare &lt;Stretta gelata&gt; su 1 unità nemica casuale nelle retrovie.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px"> Quando un eroe lancia un incantesimo di tipo Acqua, ha il 50% di probabilità di lanciare &lt;Stretta gelata&gt; su 1 unità nemica casuale nelle retrovie.</span>
 
 ### 5th Skill (or 6th): Refrigerio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Statua di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> La durata del &lt;Congelamento&gt; aumenta di 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Statua di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> La durata del &lt;Congelamento&gt; aumenta di 5 secondi.</span>
 
 ### 6th Skill (or 5th): Solidificazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Statua di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio di un ulteriore 20% per 7 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Statua di ghiaccio&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio di un ulteriore 20% per 7 secondi.</span>
 
 ## Technical info
  **runart:** 0

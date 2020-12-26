@@ -3,17 +3,17 @@ title: "Gorgone"
 permalink: /it/units/Gorgon/
 excerpt: "Unità Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Gorgone"
 toc: true
 ---
 ## General information
- **Description:** Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude.
+ **Descrizione:** Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Fortezza](/it/units/Fraction Fortezza)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Tank potente. Ha una probabilità di uccidere istantaneamente i nemici.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 3094.0
 
  **Base ATK:** 121.1
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 9.68 | 556.92 |
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
 
+## Emblemi sacri consigliati
+
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 1 : Signora Suprema della Palude
- **Description:** <span style="color: #645252;font-size:20px">La Gorgone gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN unità aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Gorgone non può subire danni superiori al 15% dei propri PF massimi da un singolo attacco.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Gorgone gode di DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN unità aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). La Gorgone non può subire danni superiori al 15% dei propri PF massimi da un singolo attacco.</span><span style="color: black">
 
 ### Tecnica normale 2 : Simbiosi pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">Rid DAN della Gorgone aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Rid DAN della Gorgone aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### Tecnica normale 3 : Maledizione selvaggia
- **Description:** <span style="color: #645252;font-size:20px">CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità nemiche intorno alla Gorgone.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+125}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità nemiche intorno alla Gorgone.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Attacco pestilenziale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Vitalità aumentata
- **Description:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Fortezza (Roster Fortezza)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sguardo dell'abisso
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Gorgone Invincibile&gt;</span><span style="color: #645252;font-size:18px">: si attiva una volta ogni 18 secondi. Probabilità del 100% di &lt;pietrificare&gt; il bersaglio per 3 secondi; applica 1 debuff casuale alle unità nemiche nell'area. Inoltre, aumenta di 200 la Perforazione di tutte le unità alleate per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Gorgone Invincibile&gt;</span><span style="color: #645252;font-size:18px">: si attiva una volta ogni 18 secondi. Probabilità del 100% di &lt;pietrificare&gt; il bersaglio per 3 secondi; applica 1 debuff casuale alle unità nemiche nell'area. Inoltre, aumenta di 200 la Perforazione di tutte le unità alleate per 10 secondi.</span>
 
 ### 2nd Skill (or 1st): Sguardo letale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Gorgone Invincibile&gt;</span><span style="color: #645252;font-size:18px">: si attiva una volta ogni 18 secondi. Probabilità del 100% di &lt;pietrificare&gt; il bersaglio per 3 secondi; applica 2 debuff casuali della durata di 10 secondi alle unità nemiche nell'area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Gorgone Invincibile&gt;</span><span style="color: #645252;font-size:18px">: si attiva una volta ogni 18 secondi. Probabilità del 100% di &lt;pietrificare&gt; il bersaglio per 3 secondi; applica 2 debuff casuali della durata di 10 secondi alle unità nemiche nell'area.</span>
 
 ### 3rd Skill (or 4th): Maledizione dell'invecchiamento
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Maledizione perversa&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la Rid DAN delle unità nemiche. Quando viene sconfitta, &lt;pietrifica&gt; le unità nell'area per 8 secondi e riduce permanentemente del 3% la Vel ATT delle unità non Fortezza nemiche. L'effetto è cumulabile fino a 4 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Maledizione perversa&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la Rid DAN delle unità nemiche. Quando viene sconfitta, &lt;pietrifica&gt; le unità nell'area per 8 secondi e riduce permanentemente del 3% la Vel ATT delle unità non Fortezza nemiche. L'effetto è cumulabile fino a 4 volte.</span>
 
 ### 4th Skill (or 3rd): Corno fatale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Maledizione perversa&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la Vel ATT delle unità nemiche. Quando viene sconfitta, &lt;pietrifica&gt; le unità nell'area per 8 secondi e riduce permanentemente del 3% la Vel ATT delle unità non Fortezza nemiche. L'effetto è cumulabile fino a 4 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Maledizione perversa&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la Vel ATT delle unità nemiche. Quando viene sconfitta, &lt;pietrifica&gt; le unità nell'area per 8 secondi e riduce permanentemente del 3% la Vel ATT delle unità non Fortezza nemiche. L'effetto è cumulabile fino a 4 volte.</span>
 
 ### 5th Skill (or 6th): Regina della palude
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px">: la Gorgone non può subire danni singoli superiori al 20% dei propri PF massimi. Se la Gorgone è sul campo di battaglia, riduce la Vel ATT del 10% e la guarigione del 30% per tutte le unità non Fortezza nemiche.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px">: la Gorgone non può subire danni singoli superiori al 20% dei propri PF massimi. Se la Gorgone è sul campo di battaglia, riduce la Vel ATT del 10% e la guarigione del 30% per tutte le unità non Fortezza nemiche.</span>
 
 ### 6th Skill (or 5th): Signora della palude
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px">: la Gorgone non può subire danni singoli superiori al 20% dei propri PF massimi. Se la Gorgone è sul campo di battaglia, aumenta del 20% la Vel ATT di tutte le unità alleate.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px">: la Gorgone non può subire danni singoli superiori al 20% dei propri PF massimi. Se la Gorgone è sul campo di battaglia, aumenta del 20% la Vel ATT di tutte le unità alleate.</span>
 
 ## Technical info
  **runart:** 1

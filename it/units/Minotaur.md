@@ -3,17 +3,17 @@ title: "Minotauro"
 permalink: /it/units/Minotaur/
 excerpt: "Unità Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Minotauro"
 toc: true
 ---
 ## General information
- **Description:** Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia.
+ **Descrizione:** Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Dungeon](/it/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Tank di supporto. La combinazione perfetta di attacco e difesa. Il <Sanguinamento> aumenta i DPS degli alleati.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 2725.0
 
  **Base ATK:** 108.0
@@ -60,21 +60,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
+## Emblemi sacri consigliati
+
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
+* [Lussuria](/it/Emblem/Lust/) - Caos
+
 ## Skills
 ### Tecnica suprema: Turbine
- **Description:** <span style="color: #645252;font-size:20px">Il Minotauro infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali in un'ampia area e ne riduce la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Minotauro infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali in un'ampia area e ne riduce la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Ferocia avanzata
- **Description:** <span style="color: #645252;font-size:20px">ATT del Minotauro aumentato ulteriormente di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gli attacchi base infliggono <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">ATT del Minotauro aumentato ulteriormente di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gli attacchi base infliggono <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Costituzione dello Spezzaincantesimi
- **Description:** <span style="color: #645252;font-size:20px">Il Minotauro gode di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Minotauro gode di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
 
 ### Tecnica normale 3 : Scelta tattica
- **Description:** <span style="color: #645252;font-size:20px">Quando viene danneggiato da unità da 1 o 4 membri, la DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando attacca un'unità da 9 membri, il CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando viene danneggiato da unità da 1 o 4 membri, la DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando attacca un'unità da 9 membri, il CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione : Conflitto oscuro
- **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Dungeon (Roster Dungeon)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fendente iperattivo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Turbine&gt;</span><span style="color: #645252;font-size:18px">: se il Minotauro gode di &lt;Morale alto&gt;, usa &lt;Turbine&gt; almeno una volta. &lt;Turbine&gt; infligge danni doppi e riduce la Rid DAN dell'unità del 10%. L'effetto dura 6 secondi ed è cumulabile fino a 3 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Turbine&gt;</span><span style="color: #645252;font-size:18px">: se il Minotauro gode di &lt;Morale alto&gt;, usa &lt;Turbine&gt; almeno una volta. &lt;Turbine&gt; infligge danni doppi e riduce la Rid DAN dell'unità del 10%. L'effetto dura 6 secondi ed è cumulabile fino a 3 volte.</span>
 
 ### 2nd Skill (or 1st): Fendente irrequieto
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Turbine&gt;</span><span style="color: #645252;font-size:18px">: se il Minotauro gode di &lt;Morale alto&gt;, usa &lt;Turbine&gt; almeno una volta. &lt;Turbine&gt; infligge danni doppi e colpisce tutte le unità nemiche in un'ampia area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Turbine&gt;</span><span style="color: #645252;font-size:18px">: se il Minotauro gode di &lt;Morale alto&gt;, usa &lt;Turbine&gt; almeno una volta. &lt;Turbine&gt; infligge danni doppi e colpisce tutte le unità nemiche in un'ampia area.</span>
 
 ### 3rd Skill (or 4th): Anima indomabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Costituzione dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene &lt;Morale alto&gt; per 5 secondi e ripristina il 5% dei propri PF massimi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Costituzione dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene &lt;Morale alto&gt; per 5 secondi e ripristina il 5% dei propri PF massimi.</span>
 
 ### 4th Skill (or 3rd): Resistenza magica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Costituzione dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene &lt;Morale alto&gt; per 5 secondi e la sua Rid DAN aumenta del 10% fino al termine della battaglia. Cumulabile fino a 3 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Costituzione dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene &lt;Morale alto&gt; per 5 secondi e la sua Rid DAN aumenta del 10% fino al termine della battaglia. Cumulabile fino a 3 volte.</span>
 
 ### 5th Skill (or 6th): Volontà feroce
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ferocia avanzata&gt;</span><span style="color: #645252;font-size:18px">: quando affronta unità affette da &lt;Sanguinamento&gt;, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da &lt;Sanguinamento&gt;, la sua Vel ATT aumenta del 20% per 6 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ferocia avanzata&gt;</span><span style="color: #645252;font-size:18px">: quando affronta unità affette da &lt;Sanguinamento&gt;, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da &lt;Sanguinamento&gt;, la sua Vel ATT aumenta del 20% per 6 secondi.</span>
 
 ### 6th Skill (or 5th): Ferocia sanguinaria
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ferocia avanzata&gt;</span><span style="color: #645252;font-size:18px">: quando affronta unità affette da &lt;Sanguinamento&gt;, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da &lt;Sanguinamento&gt;, la sua Rid DAN aumenta del 20% per 6 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ferocia avanzata&gt;</span><span style="color: #645252;font-size:18px">: quando affronta unità affette da &lt;Sanguinamento&gt;, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da &lt;Sanguinamento&gt;, la sua Rid DAN aumenta del 20% per 6 secondi.</span>
 
 ## Technical info
  **runart:** 1

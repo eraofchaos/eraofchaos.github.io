@@ -3,17 +3,17 @@ title: "Diablo"
 permalink: /es/units/Devil/
 excerpt: "Unidades El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Diablo"
 toc: true
 ---
 ## General information
- **Description:** El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia.
+ **Descripción:** El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia.
 
- **Class:** Ofensa
+ **Clase:** Ofensa
 
- **Class Description:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
+ **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
  **Fraction:** [Infierno](/es/units/Fraction Infierno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Puede desplegarse en cualquier posición, atraviesa efectivamente a las tropas de retaguardia, tiene un aura de reducción de PV.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+
 ## Skills
 ### Habilidad definitiva: Segador doloroso
- **Description:** <span style="color: #645252;font-size:20px">Ataca a la unidad más alejada que se encuentra delante al principio de la batalla (ataca a una unidad aleatoria en la retaguardia si no hay objetivos válidos). Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño e invoca una sima de fuego que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada 0,5 s durante 6 s. Causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s la primera vez. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Puede desplegarse en cualquier posición. La habilidad se restablece cuando la unidad objetivo muere).</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Ataca a la unidad más alejada que se encuentra delante al principio de la batalla (ataca a una unidad aleatoria en la retaguardia si no hay objetivos válidos). Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño e invoca una sima de fuego que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada 0,5 s durante 6 s. Causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s la primera vez. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Puede desplegarse en cualquier posición. La habilidad se restablece cuando la unidad objetivo muere).</span><span style="color: black">
 
 ### Habilidad normal 1 : Tortura cruel
- **Description:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades hostiles aleatorias. El golpe crítico aumenta en 500 contra unidades con </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades hostiles aleatorias. El golpe crítico aumenta en 500 contra unidades con </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Marchitamiento
- **Description:** <span style="color: #645252;font-size:20px">Si esta unidad está en el campo de batalla, inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a todas las unidades hostiles durante 2 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si esta unidad está en el campo de batalla, inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a todas las unidades hostiles durante 2 s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Mataalmas
- **Description:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a una unidad de Castillo, el daño aumenta un 50%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a una unidad de Castillo, el daño aumenta un 50%.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Golpe asador
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de resistencia
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Infierno (Lista de Infierno)
+* Ofensa (Lista de unidades ofensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Autoridad oscura
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Painful Reaper&gt;</span><span style="color: #645252;font-size:18px">El primer daño infligido por el Segador doloroso aumenta al 200% del daño de la habilidad anterior. Por cada lanzamiento, se aplica una invencibilidad de 5 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Painful Reaper&gt;</span><span style="color: #645252;font-size:18px">El primer daño infligido por el Segador doloroso aumenta al 200% del daño de la habilidad anterior. Por cada lanzamiento, se aplica una invencibilidad de 5 s</span>
 
 ### 2nd Skill (or 1st): Vengadores
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Segador doloroso&gt;</span><span style="color: #645252;font-size:18px">: El daño crítico del Diablo aumenta un 100% al luchar contra unidades quemadas. El fuego de la sima elimina todas las ventajas de los enemigos dentro de su alcance</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Segador doloroso&gt;</span><span style="color: #645252;font-size:18px">: El daño crítico del Diablo aumenta un 100% al luchar contra unidades quemadas. El fuego de la sima elimina todas las ventajas de los enemigos dentro de su alcance</span>
 
 ### 3rd Skill (or 4th): Testimonio de los caídos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tortura cruel&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de habilidad al 150% del daño básico de la habilidad y reduce la DEF de la unidad objetivo un 50% durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tortura cruel&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de habilidad al 150% del daño básico de la habilidad y reduce la DEF de la unidad objetivo un 50% durante 10 s</span>
 
 ### 4th Skill (or 3rd): Marca de la bestia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cruel Torture&gt;</span><span style="color: #645252;font-size:18px"> aumenta el daño de habilidad al 150% del daño básico de la habilidad. Todas las unidades amistosas de la facción de Infierno ganan 1000 de golpe crítico durante 10 s cuando se lanza esta habilidad.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Cruel Torture&gt;</span><span style="color: #645252;font-size:18px"> aumenta el daño de habilidad al 150% del daño básico de la habilidad. Todas las unidades amistosas de la facción de Infierno ganan 1000 de golpe crítico durante 10 s cuando se lanza esta habilidad.</span>
 
 ### 5th Skill (or 6th): Blasfemia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Withering&gt;</span><span style="color: #645252;font-size:18px">Disminuye la curación de todas las unidades hostiles un 35% cuando las unidades de Diablo entran en el campo de batalla</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Withering&gt;</span><span style="color: #645252;font-size:18px">Disminuye la curación de todas las unidades hostiles un 35% cuando las unidades de Diablo entran en el campo de batalla</span>
 
 ### 6th Skill (or 5th): Aniquilación
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Withering&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 150% de la habilidad anterior. Disminuye la reducción de daño de las unidades hostiles un 10%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Withering&gt;</span><span style="color: #645252;font-size:18px">Daño de habilidad aumentado al 150% de la habilidad anterior. Disminuye la reducción de daño de las unidades hostiles un 10%</span>
 
 ## Technical info
  **runart:** 1

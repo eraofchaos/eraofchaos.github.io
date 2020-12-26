@@ -3,17 +3,17 @@ title: "Unknown_TEAM_208"
 permalink: /ru/units/Druid/
 excerpt: "Отряды null"
 unitID: 208
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Unknown_TEAM_208"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** null
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 844.0
 
  **Base ATK:** 102.6
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Алчность](/ru/Emblem/Greed/) - Хаос
+
 ## Skills
 ### Совершенное умение: Зов леса
- **Description:** <span style="color: #645252;font-size:20px">Вступив в бой, друиды создают магический круг, который существует </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Все союзные отряды , попавшие в круг, получают иммунитет к урону от заклинаний.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Вступив в бой, друиды создают магический круг, который существует </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Все союзные отряды , попавшие в круг, получают иммунитет к урону от заклинаний.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">Друиды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Друиды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : Сердце природы
- **Description:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Бастион (Дозор отрядов Бастиона)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Защита леса
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Зов леса&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен. Активируется 1 раз в начале боя (полное время действия), затем активируется каждые 35 сек. на половину времени действия. Союзники внутри магического круга получают +20% к сопротивлению отряда урону, друид дополнительно получает +6%. Магический круг перемещается вместе с друидом.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Зов леса&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен. Активируется 1 раз в начале боя (полное время действия), затем активируется каждые 35 сек. на половину времени действия. Союзники внутри магического круга получают +20% к сопротивлению отряда урону, друид дополнительно получает +6%. Магический круг перемещается вместе с друидом.</span>
 
 ### 2nd Skill (or 1st): Благословение леса
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Зов леса&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен. Активируется 1 раз в начале боя (полное время действия), затем активируется каждые 35 сек. на половину времени действия. Союзники внутри магического круга получают +20% к урону отряда, друид дополнительно получает +6%. Магический круг перемещается вместе с друидом.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Зов леса&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен. Активируется 1 раз в начале боя (полное время действия), затем активируется каждые 35 сек. на половину времени действия. Союзники внутри магического круга получают +20% к урону отряда, друид дополнительно получает +6%. Магический круг перемещается вместе с друидом.</span>
 
 ### 3rd Skill (or 4th): Благословение живых
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Благословение жизни&gt;</span><span style="color: #645252;font-size:18px"> Эффективность умения увеличена до 150%, оно дополнительно действует на двух случайных союзников на задней линии. Если урон от одной атаки превышает 25% от максимума ОЗ, он будет проигнорирован.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Благословение жизни&gt;</span><span style="color: #645252;font-size:18px"> Эффективность умения увеличена до 150%, оно дополнительно действует на двух случайных союзников на задней линии. Если урон от одной атаки превышает 25% от максимума ОЗ, он будет проигнорирован.</span>
 
 ### 4th Skill (or 3rd): Благословение стойкости
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Благословение жизни&gt;</span><span style="color: #645252;font-size:18px"> Умение восстанавливается на 10 сек. быстрее., оно дополнительно действует на двух случайных союзников на задней линии. Если урон от одной атаки превышает 25% от максимума ОЗ, он будет проигнорирован.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Благословение жизни&gt;</span><span style="color: #645252;font-size:18px"> Умение восстанавливается на 10 сек. быстрее., оно дополнительно действует на двух случайных союзников на задней линии. Если урон от одной атаки превышает 25% от максимума ОЗ, он будет проигнорирован.</span>
 
 ### 5th Skill (or 6th): Гнев природы
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сердце природы&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен, при первом применении бонусные эффекты усилены в 3 раза. Эффекты от &lt;Сердца природы&gt; не могут быть рассеяны.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сердце природы&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен, при первом применении бонусные эффекты усилены в 3 раза. Эффекты от &lt;Сердца природы&gt; не могут быть рассеяны.</span>
 
 ### 6th Skill (or 5th): Сила природы
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сердце природы&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен, при каждом применении бонусные эффекты увеличены в полтора раза. Эффекты от &lt;Сердца природы&gt; не могут быть рассеяны.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сердце природы&gt;</span><span style="color: #645252;font-size:18px"> Радиус действия немного увеличен, при каждом применении бонусные эффекты увеличены в полтора раза. Эффекты от &lt;Сердца природы&gt; не могут быть рассеяны.</span>
 
 ## Technical info
  **runart:** 0

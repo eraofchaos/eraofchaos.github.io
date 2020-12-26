@@ -3,17 +3,17 @@ title: "Бехолдер"
 permalink: /ru/units/Beholder/
 excerpt: "Отряды Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Бехолдер"
 toc: true
 ---
 ## General information
- **Description:** Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами.
+ **Описание:** Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Прекрасный вариант для начала боя. В начале боя ослабляет врага, приближая победу.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
@@ -59,21 +59,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">Бехолдеры контролируют 1 случайный вражеский отряд. Цель получает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду в течение 8 сек. Находясь под контролем, выбранный целью отряд не может атаковать, двигаться и использовать умения.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Бехолдеры контролируют 1 случайный вражеский отряд. Цель получает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду в течение 8 сек. Находясь под контролем, выбранный целью отряд не может атаковать, двигаться и использовать умения.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">Когда бехолдеры появляются на поле боя, они открывают 4 глаза смерти. Каждый глаз дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. С каждой убитой целью закрывается 1 глаз. Могут быть закрыты максимум 3 глаза.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры появляются на поле боя, они открывают 4 глаза смерти. Каждый глаз дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. С каждой убитой целью закрывается 1 глаз. Могут быть закрыты максимум 3 глаза.</span><span style="color: black">
 
 ### Обычное умение 2 : Бессилие
- **Description:** <span style="color: #645252;font-size:20px">Когда бехолдеры на поле боя, исходная мана вражеских героев снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда погибает вражеский отряд, мана вражеских героев снижается еще на 10.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры на поле боя, исходная мана вражеских героев снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда погибает вражеский отряд, мана вражеских героев снижается еще на 10.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Подземелье (Дозор отрядов Подземелья)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Удар маны
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: бехолдер открывает еще 4 глаза. При убийстве 1 цели 2 глаза закрываются. Максимум закрывается 6 глаз</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: бехолдер открывает еще 4 глаза. При убийстве 1 цели 2 глаза закрываются. Максимум закрывается 6 глаз</span>
 
 ### 2nd Skill (or 1st): В бездну
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Пробивание заклинания&gt;</span><span style="color: #645252;font-size:18px">: каждое око смерти дает по 3% к урону и по 3% к сопротивлению урону для союзных отрядов Подземелья. Для бехолдеров эффект удваивается</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Пробивание заклинания&gt;</span><span style="color: #645252;font-size:18px">: каждое око смерти дает по 3% к урону и по 3% к сопротивлению урону для союзных отрядов Подземелья. Для бехолдеров эффект удваивается</span>
 
 ### 3rd Skill (or 4th): Коллапс чар
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бессилие&gt;</span><span style="color: #645252;font-size:18px">: восстановление маны вражеских героев уменьшается на 1 при гибели каждого вражеского отряда. Эффект может сработать 2 раза</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессилие&gt;</span><span style="color: #645252;font-size:18px">: восстановление маны вражеских героев уменьшается на 1 при гибели каждого вражеского отряда. Эффект может сработать 2 раза</span>
 
 ### 4th Skill (or 3rd): Чародейский грабеж
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Бессилие&gt;</span><span style="color: #645252;font-size:18px">: восстановление маны вражеских героев уменьшается на 10 при гибели каждого вражеского отряда.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессилие&gt;</span><span style="color: #645252;font-size:18px">: восстановление маны вражеских героев уменьшается на 10 при гибели каждого вражеского отряда.</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сбор энергии&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Сопротивление отряда урону повышается на 10%. Сопротивление магии и сопротивление урону для бехолдера повышаются на 10%, если вражеский герой применяет заклинание</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сбор энергии&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Сопротивление отряда урону повышается на 10%. Сопротивление магии и сопротивление урону для бехолдера повышаются на 10%, если вражеский герой применяет заклинание</span>
 
 ### 6th Skill (or 5th): Резонанс экзорцизма
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Сбор энергии&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Действует на союзные отряды. Сопротивление магии и сопротивление урону для бехолдера повышаются на 10%, если вражеский герой применяет заклинание</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сбор энергии&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Действует на союзные отряды. Сопротивление магии и сопротивление урону для бехолдера повышаются на 10%, если вражеский герой применяет заклинание</span>
 
 ## Technical info
  **runart:** 0

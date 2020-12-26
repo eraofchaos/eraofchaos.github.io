@@ -3,7 +3,7 @@ title: "Hydre"
 permalink: /fr/units/Hydra/
 excerpt: "Unités Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre."
 unitID: 807
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Hydre"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Une bête à plusieurs têtes qui vit au plus profond du marais. Tout Héros rêve de l'abattre.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Forteresse](/fr/units/Fraction Forteresse)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Excellente unité de DPS. Détruit les ennemis avec des attaques ininterrompues.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5770.0
 
  **Base ATK:** 769.3
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+
 ## Skills
 ### Capacité ultime: Brume du chaos
  **Description:** <span style="color: #645252;font-size:20px">L'Hydre projette une gigantesque brume de chaos sur son chemin, infligeant un affaiblissement aléatoire (Lenteur, Saignement, Brûlure, Cécité, Statique, Peste ou Maladie) à toutes les cibles dans une vaste zone pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes, et infligeant une quantité de dégâts égale à 50 % de son ATQ.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Forteresse (Groupement - Forteresse)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

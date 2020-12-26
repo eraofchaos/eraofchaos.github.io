@@ -3,17 +3,17 @@ title: "Минотавр"
 permalink: /ru/units/Minotaur/
 excerpt: "Отряды null"
 unitID: 705
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Минотавр"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Танк поддержки. Идеальное сочетание атаки и защиты. Кровотечение повышает УВС союзных отрядов.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 2725.0
 
  **Base ATK:** 108.0
@@ -58,21 +58,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
+* [Похоть](/ru/Emblem/Lust/) - Хаос
+
 ## Skills
 ### Совершенное умение: Вихрь
- **Description:** <span style="color: #645252;font-size:20px">Минотавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным вражеским отрядам в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Минотавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным вражеским отрядам в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Высшая свирепость
- **Description:** <span style="color: #645252;font-size:20px">АТК минотавра увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Его обычная атака вызывает у цели <span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 с.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">АТК минотавра увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Его обычная атака вызывает у цели <span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 с.</span><span style="color: black">
 
 ### Обычное умение 2 : Телосложение разрушителя магии
- **Description:** <span style="color: #645252;font-size:20px">Минотавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению отряда урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Минотавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению отряда урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
 
 ### Обычное умение 3 : Тактическое решение
- **Description:** <span style="color: #645252;font-size:20px">При получении урона от отрядов из 1 или 4 бойцов защита повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При атаке отряда из 9 бойцов критический удар повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При получении урона от отрядов из 1 или 4 бойцов защита повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При атаке отряда из 9 бойцов критический удар повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Подземелье (Дозор отрядов Подземелья)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Вихрь&gt;</span><span style="color: #645252;font-size:18px">: в состоянии высокого боевого духа минотавр 1 раз гарантированно запускает &lt;Вихрь&gt;. Урон от &lt;Вихря&gt; удваивается, сопротивление цели урону снижается на 10%. Эффект длится 6 сек. Суммируется до 3 раз.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вихрь&gt;</span><span style="color: #645252;font-size:18px">: в состоянии высокого боевого духа минотавр 1 раз гарантированно запускает &lt;Вихрь&gt;. Урон от &lt;Вихря&gt; удваивается, сопротивление цели урону снижается на 10%. Эффект длится 6 сек. Суммируется до 3 раз.</span>
 
 ### 2nd Skill (or 1st): Стимулированный удар
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Вихрь&gt;</span><span style="color: #645252;font-size:18px">: в состоянии высокого боевого духа минотавр 1 раз гарантированно запускает &lt;Вихрь&gt;. Урон от &lt;Вихря&gt; удваивается, эффект действует на все вражеские отряды в большой области</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вихрь&gt;</span><span style="color: #645252;font-size:18px">: в состоянии высокого боевого духа минотавр 1 раз гарантированно запускает &lt;Вихрь&gt;. Урон от &lt;Вихря&gt; удваивается, эффект действует на все вражеские отряды в большой области</span>
 
 ### 3rd Skill (or 4th): Непокорная душа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Телосложение разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда вражеский герой применяет заклинание, минотавр на 5 сек. получает состояние высокого боевого духа и восстанавливает 5% от своего максимума ОЗ</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Телосложение разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда вражеский герой применяет заклинание, минотавр на 5 сек. получает состояние высокого боевого духа и восстанавливает 5% от своего максимума ОЗ</span>
 
 ### 4th Skill (or 3rd): Сопротивление магии
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Телосложение разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда вражеский герой применяет заклинание, минотавр на 5 сек. получает состояние высокого боевого духа и повышает свое сопротивление урону на 10%. Эффект суммируется до 3 раз за бой</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Телосложение разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда вражеский герой применяет заклинание, минотавр на 5 сек. получает состояние высокого боевого духа и повышает свое сопротивление урону на 10%. Эффект суммируется до 3 раз за бой</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20%. Если кровоточит сам минотавр, его АТК повышается на 20% на 6 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20%. Если кровоточит сам минотавр, его АТК повышается на 20% на 6 сек.</span>
 
 ### 6th Skill (or 5th): Кровавая беспощадность
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20% от урона отряда. Если кровоточит сам минотавр, его сопротивление урону повышается на 20% на 6 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20% от урона отряда. Если кровоточит сам минотавр, его сопротивление урону повышается на 20% на 6 сек.</span>
 
 ## Technical info
  **runart:** 1

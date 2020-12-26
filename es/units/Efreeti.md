@@ -3,17 +3,17 @@ title: "Efrit"
 permalink: /es/units/Efreeti/
 excerpt: "Unidades Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Efrit"
 toc: true
 ---
 ## General information
- **Description:** Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego.
+ **Descripción:** Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Infierno](/es/units/Fraction Infierno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige daño mágico y tiene un escudo de fuego. El núcleo del reflejo de daño.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1446.0
 
  **Base ATK:** 225.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Enfado](/es/Emblem/Anger/) - Caos
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+
 ## Skills
 ### Habilidad definitiva: Tormenta de fuego
- **Description:** <span style="color: #645252;font-size:20px">El Efrit lanza una Tormenta de fuego en una zona que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a todas las tropas enemigas en la zona y causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Efrit lanza una Tormenta de fuego en una zona que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a todas las tropas enemigas en la zona y causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Escudo llameante
- **Description:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Efrit crea un &lt;Escudo de Fuego&gt; en todas las unidades amistosas del Infierno que refleja un 15% del daño recibido durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Efrit crea un &lt;Escudo de Fuego&gt; en todas las unidades amistosas del Infierno que refleja un 15% del daño recibido durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 2 : Rojo vivo
- **Description:** <span style="color: #645252;font-size:20px">El &lt;Escudo de Fuego&gt; del Efrit aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El &lt;Escudo de Fuego&gt; del Efrit aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Dios del fuego
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Efrit un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Efrit un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Golpe asador
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la manipulación del fuego, lo que aumenta el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;quemado&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de resistencia
- **Description:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades del Infierno son expertas en la defensa en grupo. Aumenta la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad superviviente.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Infierno (Lista de Infierno)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Impacto hirviente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tormenta de fuego&gt;</span><span style="color: #645252;font-size:18px">Cuando empieza la batalla, &lt;quema&gt; a todas las unidades hostiles durante 20 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tormenta de fuego&gt;</span><span style="color: #645252;font-size:18px">Cuando empieza la batalla, &lt;quema&gt; a todas las unidades hostiles durante 20 s.</span>
 
 ### 2nd Skill (or 1st): Festín de llamas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Firestorm&gt;</span><span style="color: #645252;font-size:18px">Inflige daño a los objetivos y a los enemigos en una zona grande tras el objetivo</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Firestorm&gt;</span><span style="color: #645252;font-size:18px">Inflige daño a los objetivos y a los enemigos en una zona grande tras el objetivo</span>
 
 ### 3rd Skill (or 4th): Lucha ígnea
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Escudo Llameante&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad un 15%. Duración aumentada en 30 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Escudo Llameante&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad un 15%. Duración aumentada en 30 s.</span>
 
 ### 4th Skill (or 3rd): Piel ignífuga
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flaming Shield&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad un 15% adicional. Duración aumentada en 30 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flaming Shield&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad un 15% adicional. Duración aumentada en 30 s</span>
 
 ### 5th Skill (or 6th): Vanguardia del Infierno
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dios del Fuego&gt;</span><span style="color: #645252;font-size:18px">La velocidad de ataque de Efrit aumentará un 5% por cada unidad de la facción de Infierno en el campo de batalla.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dios del Fuego&gt;</span><span style="color: #645252;font-size:18px">La velocidad de ataque de Efrit aumentará un 5% por cada unidad de la facción de Infierno en el campo de batalla.</span>
 
 ### 6th Skill (or 5th): Tejido mágico
- **Description:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">La velocidad de ataque de Efrit aumentará un 5% por cada unidad lanzahechizos en el campo de batalla</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">La velocidad de ataque de Efrit aumentará un 5% por cada unidad lanzahechizos en el campo de batalla</span>
 
 ## Technical info
  **runart:** 0

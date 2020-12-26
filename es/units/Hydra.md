@@ -3,17 +3,17 @@ title: "Hidra"
 permalink: /es/units/Hydra/
 excerpt: "Unidades Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Hidra"
 toc: true
 ---
 ## General information
- **Description:** Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes.
+ **Descripción:** Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes.
 
- **Class:** Ofensa
+ **Clase:** Ofensa
 
- **Class Description:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
+ **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
  **Fraction:** [Fortaleza](/es/units/Fraction Fortaleza)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Unidad DPS de primera categoría. Destruye enemigos con ataques ininterrumpidos.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 5770.0
 
  **Base ATK:** 769.3
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
+
 ## Skills
 ### Habilidad definitiva: Niebla caótica
- **Description:** <span style="color: #645252;font-size:20px">La Hidra exhala una masa de niebla caótica a su paso, lo que causa una de las siguientes penalizaciones a todos los objetivos en una zona grande: ralentización, sangrado, quemadura, ceguera, estática, plaga o enfermedad. Dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s e inflige daño igual al 50% de su ATQ.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La Hidra exhala una masa de niebla caótica a su paso, lo que causa una de las siguientes penalizaciones a todos los objetivos en una zona grande: ralentización, sangrado, quemadura, ceguera, estática, plaga o enfermedad. Dura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s e inflige daño igual al 50% de su ATQ.</span><span style="color: black">
 
 ### Habilidad normal 1 : Combinación de cabezazos
- **Description:** <span style="color: #645252;font-size:20px">La Hidra tiene una probabilidad de encadenar 1/2/3/4 cabezazos al atacar, que infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+59)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada uno. Las probabilidades de cabezazos adicionales son del 60%/40%/30%/10% respectivamente.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La Hidra tiene una probabilidad de encadenar 1/2/3/4 cabezazos al atacar, que infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+59)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada uno. Las probabilidades de cabezazos adicionales son del 60%/40%/30%/10% respectivamente.</span><span style="color: black">
 
 ### Habilidad normal 2 : Dominación de la plaga
- **Description:** <span style="color: #645252;font-size:20px">El daño de la unidad de Hidra aumenta por cada unidad de Fortaleza desplegada un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El golpe crítico aumenta en 100 por cada penalización en el objetivo y se acumula 5 veces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El daño de la unidad de Hidra aumenta por cada unidad de Fortaleza desplegada un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3.9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El golpe crítico aumenta en 100 por cada penalización en el objetivo y se acumula 5 veces.</span><span style="color: black">
 
 ### Habilidad normal 3 : Mordisco cazador
- **Description:** <span style="color: #645252;font-size:20px">Si el ataque previo se esquiva, la Hidra ataca una vez más e inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño. Cuando se activa Mordisco cazador, la Hidra tiene asegurado impactar con un golpe crítico antes de que pasen 3 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si el ataque previo se esquiva, la Hidra ataca una vez más e inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño. Cuando se activa Mordisco cazador, la Hidra tiene asegurado impactar con un golpe crítico antes de que pasen 3 s.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Golpe de la plaga
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Aumento de vitalidad
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Fortaleza (Lista de Fortaleza)
+* Ofensa (Lista de unidades ofensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
 
 ### 5th Skill (or 6th): Estrategia de infiltración
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
 
 ### 6th Skill (or 5th): Ataque debilitador
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
 
 ## Technical info
  **runart:** 1

@@ -3,17 +3,17 @@ title: "Minotaurus"
 permalink: /de/units/Minotaur/
 excerpt: "Einheiten Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Minotaurus"
 toc: true
 ---
 ## General information
- **Description:** Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt.
+ **Beschreibung:** Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Dungeon](/de/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Unterstützungstank, die perfekte Kombination aus Angriff und Verteidigung. Blutung erhöht den DPS verbündeter Einheiten.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 2725.0
 
  **Base ATK:** 108.0
@@ -60,21 +60,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Wollust](/de/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Wirbelwind
- **Description:** <span style="color: #645252;font-size:20px">Der Minotaurus fügt 3 zufälligen gegnerischen Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihr Angriffstempo 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Minotaurus fügt 3 zufälligen gegnerischen Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihr Angriffstempo 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Höhere Wildheit
- **Description:** <span style="color: #645252;font-size:20px">Der Angriff des Minotaurus steigt um zusätzliche </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Standardangriff verursacht 6 Sek. lang <span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Angriff des Minotaurus steigt um zusätzliche </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Standardangriff verursacht 6 Sek. lang <span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Konstitution des Zauberbrechers
- **Description:** <span style="color: #645252;font-size:20px">Erhöht Magieresistenz und Schadensreduzierung des Minotaurus 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird jedes Mal verdoppelt, wenn ein gegnerischer Held einen Zauber wirkt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht Magieresistenz und Schadensreduzierung des Minotaurus 10 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird jedes Mal verdoppelt, wenn ein gegnerischer Held einen Zauber wirkt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Taktische Entscheidung
- **Description:** <span style="color: #645252;font-size:20px">Gegen Angriffe von 1- oder 4-Mann-Einheiten wird die Abwehr erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Beim Angriff auf 9-Mann-Einheiten steigt Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Gegen Angriffe von 1- oder 4-Mann-Einheiten wird die Abwehr erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Beim Angriff auf 9-Mann-Einheiten steigt Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit : Finsterer Konflikt
- **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Dungeon (Dungeon-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Hyperaktiver Schlag
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Wirbelwind&gt;</span><span style="color: #645252;font-size:18px">Wenn der Minotaurus „Hohe Moral“ hat, löst er &lt;Wirbelwind&gt; garantiert einmal aus. Der Schaden von &lt;Wirbelwind&gt; wird verdoppelt; die Fähigkeit reduziert die Schadensreduzierung gegnerischer Ziele 6 Sek. lang um 10 %, bis 3 Stapel.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wirbelwind&gt;</span><span style="color: #645252;font-size:18px">Wenn der Minotaurus „Hohe Moral“ hat, löst er &lt;Wirbelwind&gt; garantiert einmal aus. Der Schaden von &lt;Wirbelwind&gt; wird verdoppelt; die Fähigkeit reduziert die Schadensreduzierung gegnerischer Ziele 6 Sek. lang um 10 %, bis 3 Stapel.</span>
 
 ### 2nd Skill (or 1st): Motivierter Schlag
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Wirbelwind&gt;</span><span style="color: #645252;font-size:18px">Wenn der Minotaurus „Hohe Moral“ hat, löst er &lt;Wirbelwind&gt; garantiert einmal aus. Der Schaden von Wirbelwind wird verdoppelt, und die Fähigkeit wirkt auf alle gegnerischen Einheiten in einem großen Bereich.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wirbelwind&gt;</span><span style="color: #645252;font-size:18px">Wenn der Minotaurus „Hohe Moral“ hat, löst er &lt;Wirbelwind&gt; garantiert einmal aus. Der Schaden von Wirbelwind wird verdoppelt, und die Fähigkeit wirkt auf alle gegnerischen Einheiten in einem großen Bereich.</span>
 
 ### 3rd Skill (or 4th): Unbezähmbare Seele
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Konstitution des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px">Wenn ein gegnerischer Held einen Zauber wirkt, erhält der Minotaurus 5 Sek. lang „Hohe Moral“, und er regeneriert 5 % seiner max. LP.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Konstitution des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px">Wenn ein gegnerischer Held einen Zauber wirkt, erhält der Minotaurus 5 Sek. lang „Hohe Moral“, und er regeneriert 5 % seiner max. LP.</span>
 
 ### 4th Skill (or 3rd): Magieresistenz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Konstitution des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px">Wenn ein gegnerischer Held einen Zauber wirkt, erhält der Minotaurus 10 Sek. lang „Hohe Moral“, und seine Schadensreduzierung wird um 10 % erhöht. Kann während der Schlacht 3 Mal gestapelt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Konstitution des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px">Wenn ein gegnerischer Held einen Zauber wirkt, erhält der Minotaurus 10 Sek. lang „Hohe Moral“, und seine Schadensreduzierung wird um 10 % erhöht. Kann während der Schlacht 3 Mal gestapelt werden.</span>
 
 ### 5th Skill (or 6th): Wilder Wille
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Höhere Wildheit&gt;</span><span style="color: #645252;font-size:18px">Gegen Feinde mit „Blutung“ wird der Schaden des Minotaurus um 20 % erhöht. Wenn der Minotaurus den Status „Blutung“ erleidet, wird sein Angriffstempo 6 Sek. lang um 20 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Höhere Wildheit&gt;</span><span style="color: #645252;font-size:18px">Gegen Feinde mit „Blutung“ wird der Schaden des Minotaurus um 20 % erhöht. Wenn der Minotaurus den Status „Blutung“ erleidet, wird sein Angriffstempo 6 Sek. lang um 20 % erhöht.</span>
 
 ### 6th Skill (or 5th): Blutige Versessenheit
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Höhere Wildheit&gt;</span><span style="color: #645252;font-size:18px">Gegen Feinde mit „Blutung“ wird der Schaden des Minotaurus um 20 % erhöht. Wenn der Minotaurus den Status „Blutung“ erleidet, wird seine Schadensreduzierung 6 Sek. lang um 20 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Höhere Wildheit&gt;</span><span style="color: #645252;font-size:18px">Gegen Feinde mit „Blutung“ wird der Schaden des Minotaurus um 20 % erhöht. Wenn der Minotaurus den Status „Blutung“ erleidet, wird seine Schadensreduzierung 6 Sek. lang um 20 % erhöht.</span>
 
 ## Technical info
  **runart:** 1

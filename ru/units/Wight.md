@@ -3,17 +3,17 @@ title: "Призрак"
 permalink: /ru/units/Wight/
 excerpt: "Отряды null"
 unitID: 303
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Призрак"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** null
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 662.0
 
  **Base ATK:** 107.5
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.35 | 0.52 | 4.16 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) - Добро
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: Ужасающий вопль
- **Description:** <span style="color: #645252;font-size:20px">Когда призраки на поле боя, их первая атака приводит к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px"> врагов у них на пути в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда призраки на поле боя, их первая атака приводит к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px"> врагов у них на пути в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Воплощение ужаса
- **Description:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. АТК увеличивается на 8% за гибель каждого союзного отряда на поле боя. Эффект длится в течение всего боя. Суммируется до 10 раз.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. АТК увеличивается на 8% за гибель каждого союзного отряда на поле боя. Эффект длится в течение всего боя. Суммируется до 10 раз.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Когда призраки погибают, на все вражеские отряды накладывается эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоты</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда призраки погибают, на все вражеские отряды накладывается эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоты</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
 ### Обычное умение 3 : Невидимость
- **Description:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда герой получает урон от вражеских заклинаний, у него восстанавливается 10 ед. маны.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда герой получает урон от вражеских заклинаний, у него восстанавливается 10 ед. маны.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Некрополь (Дозор отрядов Некрополя)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Проклятие нежити
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Невидимость&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии удваивается. Получив урон магией, призрак вызывает смертоносную звуковую волну, наносящую урон в размере 5% от макс. ОЗ всем вражеским отрядам Некрополя в своем ряду.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Невидимость&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии удваивается. Получив урон магией, призрак вызывает смертоносную звуковую волну, наносящую урон в размере 5% от макс. ОЗ всем вражеским отрядам Некрополя в своем ряду.</span>
 
 ### 2nd Skill (or 1st): Роковое благословение
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Невидимость&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии удваивается. Получив урон магией, призрак произносит смертельное благословение, которое повышает сопротивление урону союзных отрядов Некрополя на 10%. Эффект длится в течение всего боя, суммируется до 3 раз.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Невидимость&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии удваивается. Получив урон магией, призрак произносит смертельное благословение, которое повышает сопротивление урону союзных отрядов Некрополя на 10%. Эффект длится в течение всего боя, суммируется до 3 раз.</span>
 
 ### 3rd Skill (or 4th): Паническое расстройство
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: отряды, впавшие в состояние немоты от ужасающего вопля, получают -50% к сопротивлению магии на все время действия немоты</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: отряды, впавшие в состояние немоты от ужасающего вопля, получают -50% к сопротивлению магии на все время действия немоты</span>
 
 ### 4th Skill (or 3rd): Мастерство крика
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: все союзные отряды Некрополя в том же ряду получают +50% к сопротивлению магии на следующие 25 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: все союзные отряды Некрополя в том же ряду получают +50% к сопротивлению магии на следующие 25 сек.</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям и снижает сопротивление магии на 8% для всех отрядов врага. Эффект длится в течение всего боя, суммируется до 20 раз. Этот эффект не может быть рассеян.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям и снижает сопротивление магии на 8% для всех отрядов врага. Эффект длится в течение всего боя, суммируется до 20 раз. Этот эффект не может быть рассеян.</span>
 
 ### 6th Skill (or 5th): Ужасная сцена
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям и снижает сопротивление магии на 16% для всех отрядов врага. Эффект длится в течение всего боя, суммируется до 6 раз. Этот эффект не может быть рассеян.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям и снижает сопротивление магии на 16% для всех отрядов врага. Эффект длится в течение всего боя, суммируется до 6 раз. Этот эффект не может быть рассеян.</span>
 
 ## Technical info
  **runart:** 0

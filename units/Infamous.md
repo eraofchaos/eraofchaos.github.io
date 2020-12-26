@@ -3,7 +3,7 @@ title: "Infamous"
 permalink: /units/Infamous/
 excerpt: "Units "
 unitID: 509
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Infamous"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 9.68 | 2403.0 |
   | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 10.5 | 2670.0 |
 
+## Recommended Holy Emblems
+
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+* [Greed](/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Ultimate Skill: The wrath of Toad Mountain
  **Description:** <span style="color: #645252;font-size:20px">Inferno sprays a very large amount of magma on itself every 20 seconds, causing its own </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack damage and create a large area of lava terrain, lava terrain exists for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">seconds</span><span style="color: black"></span><span style="color: black">[ color=ffff,fontsize=6] </span><span style="color: black"></span><span style="color: black"><span style="color: #645252;font-size:20px">Enemies on lava terrain suffer </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+1.1}% per second</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+1.1}% per second. The <span style="color: #645252;font-size:20px">max life damage and reduce </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">evade value and continue to suffer [ -]<span style="color: #48b946;font-size:20px">Burn</span><span style="color: black"><span style="color: #645252;font-size:20px">Status Effect</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Non-Castle units of your own on lava terrain are attacked every 2 seconds by the Inferno's own </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> healing effect and increased </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+0}</span><span style="color: black"><span style="color: #645252;font-size:20px">Dodge value, additional increase in Hell units</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)* 0.5+5.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps Exempt, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">Toughness value</span><span style="color: black"> <br/><span style="color: #ffff,f"> </span><span style="color: black"></span><span style="color: black"><span style="color: #645252;font-size:20px">The Infernal Demon will trigger the [Fury of Toad Mountain]</span><span style="color: black"> an extra time when its own blood level is below 30%.
@@ -79,6 +85,14 @@ toc: true
 
 ### Regular Skill 6 :  Twilight of the Gods
  **Description:** <span style="color: #645252;font-size:20px">When fighting 3 Inferno regiments, the Inferno increases its </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Defense and [ -]<span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+75}</span><span style="color: black"><span style="color: #645252;font-size:20px">Toughness Value</span><span style="color: black"></span><span style="color: black"><span style="color: #ffff,f"></span><span style="color: black"></span><span style="color: black"></span><span style="color: black"></span><span style="color: black"></span><span style="color: black">[ color=645252,fontsize=20]At the 5th second of the opening, expand the </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Twilight of the Gods\" </span><span style="color: black"><span style="color: #645252;font-size:20px">field</span><span style="color: black">[ color=645252,fontsize=20], the field effect grows with skill level and lasts for 15 seconds, then triggers every 30 seconds </span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Inferno (Inferno Roster)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

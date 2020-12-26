@@ -3,17 +3,17 @@ title: "Roc"
 permalink: /de/units/Roc/
 excerpt: "Einheiten Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Roc"
 toc: true
 ---
 ## General information
- **Description:** Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter.
+ **Beschreibung:** Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Burg](/de/units/Fraction Burg)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Verursacht hohen magischen Schaden, der mehrere Ziele effektiv treffen kann.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 4978.0
 
  **Base ATK:** 792.0
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Donner
- **Description:** <span style="color: #645252;font-size:20px">Der Roc fügt Feinden in einem großen Bereich vor sich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre Präzision 10 Sek. lang um 200.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Roc fügt Feinden in einem großen Bereich vor sich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu und reduziert ihre Präzision 10 Sek. lang um 200.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Kugelblitz-Attacke
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Roc eine 9-Mann-Einheit angreift, verursacht der Standardangriff des Roc </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 gegnerische Einheiten.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn der Roc eine 9-Mann-Einheit angreift, verursacht der Standardangriff des Roc </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 gegnerische Einheiten.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Amoklauf
- **Description:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Roc steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Roc unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Roc steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Roc unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Wirbelsturmbarriere
- **Description:** <span style="color: #645252;font-size:20px">Solange ein Roc sich auf dem Schlachtfeld befindet, ist die Präzision aller gegnerischen Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange ein Roc sich auf dem Schlachtfeld befindet, ist die Präzision aller gegnerischen Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Kampfzelot
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten steigern sich in einen wahren Kampfrausch. Ihr Angriffstempo wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für je 15 % verlorene LP.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
- **Description:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Burg (Burg-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Gewitter
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Donner&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Donner&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
 
 ### 2nd Skill (or 1st): Stromschlag
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Donner&gt;</span><span style="color: #645252;font-size:18px">Die Präzision wird um 2.000 reduziert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Donner&gt;</span><span style="color: #645252;font-size:18px">Die Präzision wird um 2.000 reduziert.</span>
 
 ### 3rd Skill (or 4th): Jagdinstinkt
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Roc wird um 10 % erhöht (Effekt wird während Amoklauf verdoppelt).</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Roc wird um 10 % erhöht (Effekt wird während Amoklauf verdoppelt).</span>
 
 ### 4th Skill (or 3rd): Schnelligk. d. Natur
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Krit. SCHD des Roc wird um 15 % erhöht (Effekt wird während Amoklauf verdoppelt).</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Krit. SCHD des Roc wird um 15 % erhöht (Effekt wird während Amoklauf verdoppelt).</span>
 
 ### 5th Skill (or 6th): Implosion
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Wirbelsturmbarriere&gt;</span><span style="color: #645252;font-size:18px"> Ruft alle 10 Sek. einen Blitzschlag, der einer zufälligen gegnerischen Einheit Schaden in Höhe von 8 % der max. LP zufügt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wirbelsturmbarriere&gt;</span><span style="color: #645252;font-size:18px"> Ruft alle 10 Sek. einen Blitzschlag, der einer zufälligen gegnerischen Einheit Schaden in Höhe von 8 % der max. LP zufügt.</span>
 
 ### 6th Skill (or 5th): Elektrischer Schlag
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Wirbelsturmbarriere&gt;</span><span style="color: #645252;font-size:18px"> Ruft alle 10 Sek. einen Blitzschlag, der einem zufälligen Mitglied einer gegnerischen Einheit Schaden in Höhe von 15 % der max. LP zufügt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wirbelsturmbarriere&gt;</span><span style="color: #645252;font-size:18px"> Ruft alle 10 Sek. einen Blitzschlag, der einem zufälligen Mitglied einer gegnerischen Einheit Schaden in Höhe von 15 % der max. LP zufügt.</span>
 
 ## Technical info
  **runart:** 0

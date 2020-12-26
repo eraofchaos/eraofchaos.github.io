@@ -3,17 +3,17 @@ title: "Pegasus"
 permalink: /de/units/Pegasus/
 excerpt: "Einheiten Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Pegasus"
 toc: true
 ---
 ## General information
- **Description:** Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen.
+ **Beschreibung:** Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen.
 
- **Class:** Fernkampf
+ **Klasse:** Fernkampf
 
- **Class Description:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
+ **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
  **Fraction:** [Schutzwall](/de/units/Fraction Schutzwall)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Erzeugt einen Schild für die Einheiten um sich herum und beschwört einen Pegasus.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1144.0
 
  **Base ATK:** 195.1
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Waldwächter
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Pegasus stirbt, beschwört er 1 zusätzlichen Pegasus, der weiterkämpft. Der beschworene Pegasus hat </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP und bleibt die gesamte Schlacht über bestehen.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn der Pegasus stirbt, beschwört er 1 zusätzlichen Pegasus, der weiterkämpft. Der beschworene Pegasus hat </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ANG und </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP und bleibt die gesamte Schlacht über bestehen.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Rasiermesserscharf
- **Description:** <span style="color: #645252;font-size:20px">Der ANG des Pegasus steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Sein Standardangriff verursacht 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der ANG des Pegasus steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Sein Standardangriff verursacht 6 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> beim Ziel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Lebensschutz
- **Description:** <span style="color: #645252;font-size:20px">Der Pegasus erschafft einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schild“</span><span style="color: black"><span style="color: #645252;font-size:20px"> für verbündete Einheiten in einem hohen Radius, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Pegasus erschafft einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schild“</span><span style="color: black"><span style="color: #645252;font-size:20px"> für verbündete Einheiten in einem hohen Radius, der Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP absorbiert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Kavallerie der Silberflügel
- **Description:** <span style="color: #645252;font-size:20px">Der ANG des Pegasus und des beschworenen Pegasus steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der ANG des Pegasus und des beschworenen Pegasus steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Hasszeichen
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schutzwall (Schutzwall-Kader)
+* Bogenschütze (Fernkampf-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Wald-Chronosphäre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensschutz&gt;</span><span style="color: #645252;font-size:18px">Wirkt auf alle verbündeten Einheiten der hinteren Reihe. Der Effekt der Fähigkeit wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Lebensschutz&gt;</span><span style="color: #645252;font-size:18px">Wirkt auf alle verbündeten Einheiten der hinteren Reihe. Der Effekt der Fähigkeit wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 2nd Skill (or 1st): Segen des Waldes
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lebensschutz&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht. Zu Beginn der Schlacht wirkt der Pegasus &lt;Lebensschutz&gt;.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Lebensschutz&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht. Zu Beginn der Schlacht wirkt der Pegasus &lt;Lebensschutz&gt;.</span>
 
 ### 3rd Skill (or 4th): Wilde Klinge
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rasiermesserscharf&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo des Pegasus wird 10 Sek. lang um 100 % erhöht, wenn er einen „Schild“ hat.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Rasiermesserscharf&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo des Pegasus wird 10 Sek. lang um 100 % erhöht, wenn er einen „Schild“ hat.</span>
 
 ### 4th Skill (or 3rd): Dornenschwert
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rasiermesserscharf&gt;</span><span style="color: #645252;font-size:18px">Standardangriffe reduzieren die Schadensreduzierung des Ziels um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Rasiermesserscharf&gt;</span><span style="color: #645252;font-size:18px">Standardangriffe reduzieren die Schadensreduzierung des Ziels um 10 %.</span>
 
 ### 5th Skill (or 6th): Geborener Anführer
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kavallerie der Silberflügel&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete Schutzwall-Einheit auf dem Schlachtfeld.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kavallerie der Silberflügel&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete Schutzwall-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Schwingen der Insp.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kavallerie der Silberflügel&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete fliegende Einheit auf dem Schlachtfeld.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kavallerie der Silberflügel&gt;</span><span style="color: #645252;font-size:18px">Der Schaden des Pegasus wird um 5 % erhöht für jede verbündete fliegende Einheit auf dem Schlachtfeld.</span>
 
 ## Technical info
  **runart:** 0

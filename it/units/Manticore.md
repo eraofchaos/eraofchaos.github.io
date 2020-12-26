@@ -3,17 +3,17 @@ title: "Manticora"
 permalink: /it/units/Manticore/
 excerpt: "Unità Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Manticora"
 toc: true
 ---
 ## General information
- **Description:** Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore.
+ **Descrizione:** Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore.
 
- **Class:** Incursione
+ **Classe:** Incursione
 
- **Class Description:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
+ **Classe Descrizione:** Le unità di incursione attaccano le retrovie nemiche, infliggendo danni extra alle unità a distanza e agli incantatori.
 
  **Fraction:** [Dungeon](/it/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Supporto agli incursori. Aumenta i DPS degli alleati e riduce la DIF dei nemici.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1917.0
 
  **Base ATK:** 174.9
@@ -59,21 +59,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.55 | 4.76 | 345.06 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
 
+## Emblemi sacri consigliati
+
+* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: Veleno paralizzante
- **Description:** <span style="color: #645252;font-size:20px">La Manticora attacca l'unità bersaglio ogni 20 secondi, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e alle unità nemiche circostanti e riducendone la DIF del 30% per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Manticora attacca l'unità bersaglio ogni 20 secondi, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e alle unità nemiche circostanti e riducendone la DIF del 30% per 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Scelta tattica
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base della Manticora ha una probabilità del 25% di ridurre la Rid DAN delle unità da mischia (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità a distanza o incantatori, l'attacco base ha una probabilità del 25% di aumentare il CRIT delle unità alleate di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. Cumulabile fino a 8 volte.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base della Manticora ha una probabilità del 25% di ridurre la Rid DAN delle unità da mischia (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità a distanza o incantatori, l'attacco base ha una probabilità del 25% di aumentare il CRIT delle unità alleate di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. Cumulabile fino a 8 volte.</span><span style="color: black">
 
 ### Tecnica normale 2 : null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 3 : Spruzzo di sangue avvelenato
- **Description:** <span style="color: #645252;font-size:20px">Quando il suo bersaglio viene abbattuto, causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche e ne riduce del 30% la DIF per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec. Utilizzabile una sola volta per battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando il suo bersaglio viene abbattuto, causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> alle unità nemiche e ne riduce del 30% la DIF per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec. Utilizzabile una sola volta per battaglia.</span><span style="color: black">
 
 ### Tecnica speciale fazione : Conflitto oscuro
- **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Dungeon (Roster Dungeon)
+* Incursione (Roster unità di incursione)
+
+### Bonus eroe
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Formazione infranta
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Scelta tattica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Riduce di 60 la Tenacia e del 2% la DIF delle unità da mischia. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scelta tattica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Riduce di 60 la Tenacia e del 2% la DIF delle unità da mischia. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
 
 ### 2nd Skill (or 1st): Assalto strategico
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Scelta tattica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Quando affronta unità a distanza o incantatori, aumenta il proprio DAN CRIT e il DAN alle unità di un ulteriore 4%. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scelta tattica&gt;:</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la probabilità di attivazione con un attacco base. Quando affronta unità a distanza o incantatori, aumenta il proprio DAN CRIT e il DAN alle unità di un ulteriore 4%. L'effetto dura 6 secondi ed è cumulabile fino a 5 volte.</span>
 
 ### 3rd Skill (or 4th): Urlo della disfatta
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ululato dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la guarigione delle unità di difesa nemiche se il nemico lancia un incantesimo di tipo Terra; riduce del 20% la Vel ATT delle unità a distanza nemiche se il nemico lancia un incantesimo di tipo Acqua; riduce del 20% il DAN delle unità d'attacco nemiche se il nemico lancia un incantesimo di tipo Fuoco; gli incantatori nemici subiscono &lt;Silenzio&gt; per 1,5 secondi se il nemico lancia un incantesimo di tipo Aria</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ululato dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la guarigione delle unità di difesa nemiche se il nemico lancia un incantesimo di tipo Terra; riduce del 20% la Vel ATT delle unità a distanza nemiche se il nemico lancia un incantesimo di tipo Acqua; riduce del 20% il DAN delle unità d'attacco nemiche se il nemico lancia un incantesimo di tipo Fuoco; gli incantatori nemici subiscono &lt;Silenzio&gt; per 1,5 secondi se il nemico lancia un incantesimo di tipo Aria</span>
 
 ### 4th Skill (or 3rd): Potere dello Spezzaincantesimi
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ululato dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: aumenta del 15% la guarigione tua e di tutte le unità di difesa alleate se il nemico lancia un incantesimo di tipo Terra. Aumenta del 15% la Vel ATT tua e di tutte le unità a distanza alleate se il nemico lancia un incantesimo di tipo Acqua. Aumenta del 15% il DAN tuo e di tutte le unità d'attacco alleate se il nemico lancia un incantesimo di tipo Fuoco. Tu e tutti gli incantatori alleati diventate immuni al &lt;Silenzio&gt; per 2 secondi se il nemico lancia un incantesimo di tipo Aria.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ululato dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: aumenta del 15% la guarigione tua e di tutte le unità di difesa alleate se il nemico lancia un incantesimo di tipo Terra. Aumenta del 15% la Vel ATT tua e di tutte le unità a distanza alleate se il nemico lancia un incantesimo di tipo Acqua. Aumenta del 15% il DAN tuo e di tutte le unità d'attacco alleate se il nemico lancia un incantesimo di tipo Fuoco. Tu e tutti gli incantatori alleati diventate immuni al &lt;Silenzio&gt; per 2 secondi se il nemico lancia un incantesimo di tipo Aria.</span>
 
 ### 5th Skill (or 6th): Patina di sangue avvelenato
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo di sangue avvelenato&gt;</span><span style="color: #645252;font-size:18px">: si attiva quando l'unità bersaglio viene sconfitta. L'effetto può attivarsi 3 volte. Attiva l'effetto di &lt;Spruzzo di sangue avvelenato&gt; ogni 30 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo di sangue avvelenato&gt;</span><span style="color: #645252;font-size:18px">: si attiva quando l'unità bersaglio viene sconfitta. L'effetto può attivarsi 3 volte. Attiva l'effetto di &lt;Spruzzo di sangue avvelenato&gt; ogni 30 secondi.</span>
 
 ### 6th Skill (or 5th): Rigurgito velenoso
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo di sangue avvelenato&gt;</span><span style="color: #645252;font-size:18px">: si attiva un massimo di 3 volte quando l'unità bersaglio viene sconfitta e aumenta l'effetto di riduzione della DIF del 50%. Può attivarsi un'altra volta dopo 15 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo di sangue avvelenato&gt;</span><span style="color: #645252;font-size:18px">: si attiva un massimo di 3 volte quando l'unità bersaglio viene sconfitta e aumenta l'effetto di riduzione della DIF del 50%. Può attivarsi un'altra volta dopo 15 secondi.</span>
 
 ## Technical info
  **runart:** 1

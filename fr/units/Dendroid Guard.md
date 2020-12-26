@@ -3,7 +3,7 @@ title: "Garde sylvanien"
 permalink: /fr/units/Dendroid Guard/
 excerpt: "Unités Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise."
 unitID: 205
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Garde sylvanien"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Gardes sylvaniens sont l'incarnation même de leur forêt. Ils sont maladroits, mais extrêmement coriaces, et utilisent des lianes pour étrangler leurs ennemis par surprise.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Rempart](/fr/units/Fraction Rempart)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Immunisé contre Saignement, renvoie les dégâts et utilise un bouclier pour améliorer sa défense.
 
-## Basic stats
+## Stats de base
  **Base HP:** 10182.0
 
  **Base ATK:** 396.0
@@ -60,6 +60,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 71.28 | 0.36 | 8.36 | 1832.76 |
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Avarice](/fr/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Capacité ultime: Engourdissement
  **Description:** <span style="color: #645252;font-size:20px">Le Garde sylvanien </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> les unités ennemies dans une large zone autour de lui et réduit leur vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes.</span><span style="color: black">
@@ -78,6 +84,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Marque de haine
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Rempart poursuivent impitoyablement leurs ennemis, avec des dégâts critiques augmentés de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> contre des cibles victimes de &lt;Lenteur&gt; ou de &lt;Saignement&gt;. Si la cible est soumise aux 2 effets susmentionnés, l'effet est doublé.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Rempart (Groupement - Rempart)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,17 +3,17 @@ title: "Troglodita"
 permalink: /it/units/Troglodyte/
 excerpt: "Unità Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Troglodita"
 toc: true
 ---
 ## General information
- **Description:** Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste.
+ **Descrizione:** Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste.
 
- **Class:** Attacco
+ **Classe:** Attacco
 
- **Class Description:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
+ **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
  **Fraction:** [Dungeon](/it/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Unità offensiva e difensiva. Infligge danni extra ai nemici affetti da <Sanguinamento>.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
@@ -61,21 +61,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
+## Emblemi sacri consigliati
+
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) - Neutrale
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) - Neutrale
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+
 ## Skills
 ### Tecnica suprema: Muro di lance
- **Description:** <span style="color: #645252;font-size:20px">I Trogloditi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni all'unità bersaglio e la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Trogloditi infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni all'unità bersaglio e la </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Acutezza
- **Description:** <span style="color: #645252;font-size:20px">I Trogloditi godono di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Trogloditi godono di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 2 : Olfatto dello Spezzaincantesimi
- **Description:** <span style="color: #645252;font-size:20px">I Trogloditi godono di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Trogloditi godono di resistenza magica e Rid DAN aumentate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per i successivi 10 secondi. Effetto raddoppiato quando un eroe nemico lancia un incantesimo.</span><span style="color: black">
 
 ### Tecnica normale 3 : Lancia avvelenata
- **Description:** <span style="color: #645252;font-size:20px">DAN dell'attacco base dei Trogloditi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">DAN dell'attacco base dei Trogloditi aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
 ### Tecnica speciale fazione : Conflitto oscuro
- **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Dungeon (Roster Dungeon)
+* Attacco (Roster unità d'attacco)
+
+### Bonus eroe
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Assassinio feroce
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta il DAN del 50% e la Vel ATT del 30% per 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta il DAN del 50% e la Vel ATT del 30% per 5 secondi.</span>
 
 ### 2nd Skill (or 1st): Impatto Muro di lance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la durata dello &lt;Stordimento&gt; del 50% e la DIF del 30% per 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la durata dello &lt;Stordimento&gt; del 50% e la DIF del 30% per 5 secondi.</span>
 
 ### 3rd Skill (or 4th): Tocco sagace
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Rallentamento&gt; di 1 secondo per il Troglodita. Quando è &lt;rallentato&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria DIF del 15% per 7 secondi. Recupero: 15 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Rallentamento&gt; di 1 secondo per il Troglodita. Quando è &lt;rallentato&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria DIF del 15% per 7 secondi. Recupero: 15 secondi.</span>
 
 ### 4th Skill (or 3rd): Tocco astuto
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Sanguinamento&gt; di 1 secondo per il Troglodita. Quando è affetto da &lt;Sanguinamento&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria Vel ATT del 15% per 7 secondi. Recupero: 15 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Sanguinamento&gt; di 1 secondo per il Troglodita. Quando è affetto da &lt;Sanguinamento&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria Vel ATT del 15% per 7 secondi. Recupero: 15 secondi.</span>
 
 ### 5th Skill (or 6th): Ferita avvelenata
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lancia avvelenata&gt;</span><span style="color: #645252;font-size:18px"> Quando attacca unità &lt;avvelenate&gt;, infligge danni continui pari al 60% del proprio ATT al secondo all'unità bersaglio e ne riduce il DAN del 15% per 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Lancia avvelenata&gt;</span><span style="color: #645252;font-size:18px"> Quando attacca unità &lt;avvelenate&gt;, infligge danni continui pari al 60% del proprio ATT al secondo all'unità bersaglio e ne riduce il DAN del 15% per 5 secondi.</span>
 
 ### 6th Skill (or 5th): Infezione fatale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Lancia avvelenata&gt;</span><span style="color: #645252;font-size:18px"> Quando attacca unità &lt;avvelenate&gt;, infligge danni continui pari al 60% del proprio ATT al secondo all'unità bersaglio e ne riduce la Rid DAN del 15% per 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Lancia avvelenata&gt;</span><span style="color: #645252;font-size:18px"> Quando attacca unità &lt;avvelenate&gt;, infligge danni continui pari al 60% del proprio ATT al secondo all'unità bersaglio e ne riduce la Rid DAN del 15% per 5 secondi.</span>
 
 ## Technical info
  **runart:** 1

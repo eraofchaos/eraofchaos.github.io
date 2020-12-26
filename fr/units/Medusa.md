@@ -3,7 +3,7 @@ title: "Méduse"
 permalink: /fr/units/Medusa/
 excerpt: "Unités De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre."
 unitID: 704
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Méduse"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** De belles femmes aux corps et aux cheveux en forme de serpent. Leurs regards froids peuvent transformer tout être vivant en pierre.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Contrôle de pétrification. Inflige de très lourds dégâts quand les coups critiques augmentent.
 
-## Basic stats
+## Stats de base
  **Base HP:** 1144.0
 
  **Base ATK:** 202.0
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.36 | 0.73 | 4.16 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+
 ## Skills
 ### Capacité ultime: Regard pétrifiant
  **Description:** <span style="color: #645252;font-size:20px">La Méduse <span style="color: #48b946;font-size:20px">&lt;pétrifie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> une unité ennemie aléatoire pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -74,6 +80,14 @@ toc: true
 
 ### Compétence spéciale de faction : Conflit des ténèbres
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Donjon savent exploiter le terrain à leur avantage, augmentant de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> leurs dégâts lorsqu'elles affrontent des unités qui n'appartiennent pas au Donjon.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

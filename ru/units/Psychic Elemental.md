@@ -3,17 +3,17 @@ title: "Элементаль Мысли"
 permalink: /ru/units/Psychic Elemental/
 excerpt: "Отряды Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Элементаль Мысли"
 toc: true
 ---
 ## General information
- **Description:** Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние.
+ **Описание:** Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние.
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Наносит урон от атак дальнего боя, при гибели уменьшает ману врага, основной атакующий отряд.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1749.0
 
  **Base ATK:** 212.0
@@ -55,24 +55,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 38.16 | 0.6 | 4.4 | 314.82 |
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) - Добро
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">У элементалей Мысли иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый элементаль Мысли атакует 3 вражеских существ из выбранного отряда каждые 4 сек., нанося урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от его АТК.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У элементалей Мысли иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый элементаль Мысли атакует 3 вражеских существ из выбранного отряда каждые 4 сек., нанося урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от его АТК.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 3 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 3 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Огонь
- **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 6 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 6 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Владыка стихии
- **Description:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Когда погибает элементаль Мысли, мана вражеских героев снижается на 20.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Когда погибает элементаль Мысли, мана вражеских героев снижается на 20.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Description:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Гармония (Дозор отрядов Гармонии)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Концентрация
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Энергетический взрыв&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Энергетический взрыв&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
 
 ### 2nd Skill (or 1st): Расхождение
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Энергетический взрыв&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 150% от урона предыдущего умения. Действие распространяется на все отряды врага</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Энергетический взрыв&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 150% от урона предыдущего умения. Действие распространяется на все отряды врага</span>
 
 ### 3rd Skill (or 4th): Стресс-реакция
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Земля&gt;</span><span style="color: #645252;font-size:18px">: оглушается множество врагов.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Земля&gt;</span><span style="color: #645252;font-size:18px">: оглушается множество врагов.</span>
 
 ### 4th Skill (or 3rd): Травма
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: урон отряда удваивается. Шанс срабатывания повышается на 10%, длительность оглушения - до 4 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: урон отряда удваивается. Шанс срабатывания повышается на 10%, длительность оглушения - до 4 сек.</span>
 
 ### 5th Skill (or 6th): Проблески мыслей
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Огонь&gt;</span><span style="color: #645252;font-size:18px">: урон отряда утраивается. Шанс срабатывания повышается на 10%. Множество врагов поджигается.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огонь&gt;</span><span style="color: #645252;font-size:18px">: урон отряда утраивается. Шанс срабатывания повышается на 10%. Множество врагов поджигается.</span>
 
 ### 6th Skill (or 5th): Зажжено!
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

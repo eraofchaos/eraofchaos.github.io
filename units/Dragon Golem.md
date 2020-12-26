@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Dragon Golem"
 toc: true
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 71.28 | 0.48 | 9.92 | 1731.006 |
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
 
+## Recommended Holy Emblems
+
+* [Everlasting Secret](/Emblem/Everlasting Secret/) - Order
+* [Anger](/Emblem/Anger/) - Chaos
+* [Greed](/Emblem/Greed/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Pulse Vertigo
  **Description:** <span style="color: #645252;font-size:20px">Dragon Golem casts a pulse vertigo every 15s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all hostile melee units while applying a 2s <span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"> and a 5s <span style="color: #48b946;font-size:20px">[paralysis]</span><span style="color: black">.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Regular Skill 6 : Wheel of Time
  **Description:** <span style="color: #645252;font-size:20px">Dragon Golem's unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Tenacity increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+100)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> when 3 Tower units are deployed. When Dragon Golem triggers &lt;Magic Awakening&gt;, it can reveal a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Time Domain&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> that expands as the skill levels up. The domain exists for 15s. CD is 30s.</span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Tower (Tower Roster)
+* Defensive (Defensive Unit Roster)
+
+### Hero Bonus
 
 ## Talent
 

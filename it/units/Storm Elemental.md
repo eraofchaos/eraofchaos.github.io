@@ -3,17 +3,17 @@ title: "Elementale tempesta"
 permalink: /it/units/Storm Elemental/
 excerpt: "Unità Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Elementale tempesta"
 toc: true
 ---
 ## General information
- **Description:** Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico.
+ **Descrizione:** Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico.
 
- **Class:** A distanza
+ **Classe:** A distanza
 
- **Class Description:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
+ **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
  **Fraction:** [Confluenza](/it/units/Fraction Confluenza)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Marchio folgorante, danno extra, attacchi multipli su un singolo bersaglio.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
+## Emblemi sacri consigliati
+
+* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Superbia](/it/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Tecnica suprema: Segnale folgorante
- **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Elementale della tempesta causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche di fronte a sé per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Elementale della tempesta causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche di fronte a sé per </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Fulmine rimbalzante
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale della tempesta ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di colpire il bersaglio con un fulmine che infligge il 300% dei danni.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base dell'Elementale della tempesta ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di colpire il bersaglio con un fulmine che infligge il 300% dei danni.</span><span style="color: black">
 
 ### Tecnica normale 2 : Forza elementale
- **Description:** <span style="color: #645252;font-size:20px">Se l'Elementale della tempesta è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Aria (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), riduce la resistenza dei nemici agli incantesimi di tipo Aria (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e aumenta il mana iniziale dell'eroe alleato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se l'Elementale della tempesta è sul campo di battaglia, aumenta la resistenza degli alleati agli incantesimi di tipo Aria (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px">), riduce la resistenza dei nemici agli incantesimi di tipo Aria (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e aumenta il mana iniziale dell'eroe alleato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 3 : Perforazione folgorante
- **Description:** <span style="color: #645252;font-size:20px">Danno dell'Elementale della tempesta aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Danno dell'Elementale della tempesta aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Affinità elementale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto elementale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Confluenza (Roster Confluenza)
+* A distanza (Roster unità a distanza)
+
+### Bonus eroe
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Catena folgorante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Segnale folgorante&gt;</span><span style="color: #645252;font-size:18px"> All'inizio della battaglia, l'Elementale della tempesta causa &lt;Folgorazione&gt; a tutte le unità nemiche.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Segnale folgorante&gt;</span><span style="color: #645252;font-size:18px"> All'inizio della battaglia, l'Elementale della tempesta causa &lt;Folgorazione&gt; a tutte le unità nemiche.</span>
 
 ### 2nd Skill (or 1st): Fulmine nelle vene
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Segnale folgorante&gt;</span><span style="color: #645252;font-size:18px"> L'Elementale della tempesta lancia &lt;Segnale folgorante&gt; ogni 30 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Segnale folgorante&gt;</span><span style="color: #645252;font-size:18px"> L'Elementale della tempesta lancia &lt;Segnale folgorante&gt; ogni 30 secondi.</span>
 
 ### 3rd Skill (or 4th): Campo di plasma
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fulmine rimbalzante&gt;</span><span style="color: #645252;font-size:18px"> Raddoppia la probabilità di attivazione della tecnica.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Fulmine rimbalzante&gt;</span><span style="color: #645252;font-size:18px"> Raddoppia la probabilità di attivazione della tecnica.</span>
 
 ### 4th Skill (or 3rd): Fulmine esplosivo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fulmine rimbalzante&gt;</span><span style="color: #645252;font-size:18px"> Raddoppia il danno della tecnica.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Fulmine rimbalzante&gt;</span><span style="color: #645252;font-size:18px"> Raddoppia il danno della tecnica.</span>
 
 ### 5th Skill (or 6th): Aura della Confluenza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe lancia un incantesimo di tipo Aria, aumenta del 25% la Vel ATT di due unità casuali nelle retrovie per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe lancia un incantesimo di tipo Aria, aumenta del 25% la Vel ATT di due unità casuali nelle retrovie per 10 secondi.</span>
 
 ### 6th Skill (or 5th): Esplosione della Confluenza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px"> Quando un eroe lancia un incantesimo di tipo Aria, l'Elementale della tempesta lancia automaticamente &lt;Fulmine rimbalzante&gt; 1 volta, infliggendo danni pari al 300% del proprio attacco alle unità bersaglio.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px"> Quando un eroe lancia un incantesimo di tipo Aria, l'Elementale della tempesta lancia automaticamente &lt;Fulmine rimbalzante&gt; 1 volta, infliggendo danni pari al 300% del proprio attacco alle unità bersaglio.</span>
 
 ## Technical info
  **runart:** 0

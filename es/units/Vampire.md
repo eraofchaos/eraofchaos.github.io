@@ -3,17 +3,17 @@ title: "Vampiro"
 permalink: /es/units/Vampire/
 excerpt: "Unidades Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte."
 unitID: 304
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Vampiro"
 toc: true
 ---
 ## General information
- **Description:** Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte.
+ **Descripción:** Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte.
 
- **Class:** Carga
+ **Clase:** Carga
 
- **Class Description:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
+ **Clase Descripción:** Las unidades de carga atacan a los enemigos en la retaguardia, e infligen daño adicional a las unidades a distancia y lanzadoras.
 
  **Fraction:** [Necrópolis](/es/units/Fraction Necrópolis)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inflige daño considerable cuando tiene más vida que tus enemigos.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 910.0
 
  **Base ATK:** 74.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) - Orden
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Arrogancia](/es/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Absorción de vida
- **Description:** <span style="color: #645252;font-size:20px">Cada 12 segundos, la unidad de Vampiro inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 1 unidad enemiga en una zona grande y le roba </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cada 12 segundos, la unidad de Vampiro inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 1 unidad enemiga en una zona grande y le roba </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV.</span><span style="color: black">
 
 ### Habilidad normal 1 : Sediento de sangre
- **Description:** <span style="color: #645252;font-size:20px">Aumenta la absorción de vida del Vampiro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la absorción de vida del Vampiro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Crecimiento
- **Description:** <span style="color: #645252;font-size:20px">Cuando el Vampiro lanza &lt;Absorción de vida&gt;, aumenta la absorción de vida un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando el Vampiro lanza &lt;Absorción de vida&gt;, aumenta la absorción de vida un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
 
 ### Habilidad normal 3 : Caza de sangre
- **Description:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con un porcentaje de PV inferior al suyo, el ATQ del Vampiro aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con un porcentaje de PV inferior al suyo, el ATQ del Vampiro aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">.
+
+## Relevancia
+### Conexión de lista
+
+* Necrópolis (Lista de Necrópolis)
+* Carga (Lista de unidades de carga)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Eco de ansia de sangre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Life Drain&gt;</span><span style="color: #645252;font-size:18px">Su efecto aumenta al 150% y la curación afecta a las unidades amistosas en una zona grande</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Life Drain&gt;</span><span style="color: #645252;font-size:18px">Su efecto aumenta al 150% y la curación afecta a las unidades amistosas en una zona grande</span>
 
 ### 2nd Skill (or 1st): Venganza de ansia de sangre
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Life Drain&gt;</span><span style="color: #645252;font-size:18px">El efecto aumenta al 150%. Cuando sus PV están por debajo del 50% por primera vez, se activa &lt;Life Drain&gt; una vez.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Life Drain&gt;</span><span style="color: #645252;font-size:18px">El efecto aumenta al 150%. Cuando sus PV están por debajo del 50% por primera vez, se activa &lt;Life Drain&gt; una vez.</span>
 
 ### 3rd Skill (or 4th): Abrazo de los muertos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blood Hunting&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad un 10% cuando se derrota a la unidad objetivo. El efecto dura toda la batalla y puede acumularse 10 veces</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blood Hunting&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño de la unidad un 10% cuando se derrota a la unidad objetivo. El efecto dura toda la batalla y puede acumularse 10 veces</span>
 
 ### 4th Skill (or 3rd): Protección de los muertos
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Caza de Sangre&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica un 20% cuando la unidad objetivo es asesinada. El efecto dura toda la batalla y puede acumularse 10 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Caza de Sangre&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica un 20% cuando la unidad objetivo es asesinada. El efecto dura toda la batalla y puede acumularse 10 veces.</span>
 
 ### 5th Skill (or 6th): Deseo escarlata
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Sediento de Sangre&gt;</span><span style="color: #645252;font-size:18px">Inmune a enfermedad. Aumenta la absorción de vida un 50% cuando los PV caen por debajo del 50%. Dura toda la batalla. (Sigue teniendo efecto aunque se recuperen PV).</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Sediento de Sangre&gt;</span><span style="color: #645252;font-size:18px">Inmune a enfermedad. Aumenta la absorción de vida un 50% cuando los PV caen por debajo del 50%. Dura toda la batalla. (Sigue teniendo efecto aunque se recuperen PV).</span>
 
 ### 6th Skill (or 5th): Beso de amor inusual
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blood-thirsty&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a enfermedad y mejora la curación un 50%</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Blood-thirsty&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a enfermedad y mejora la curación un 50%</span>
 
 ## Technical info
  **runart:** 1

@@ -3,17 +3,17 @@ title: "Ассасин"
 permalink: /ru/units/Assassin/
 excerpt: "Отряды Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Ассасин"
 toc: true
 ---
 ## General information
- **Description:** Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено.
+ **Описание:** Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено.
 
- **Class:** Штурм
+ **Класс:** Штурм
 
- **Class Description:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Смертельный урон, подавление регенерации, метание ножей и немота.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 2119.0
 
  **Base ATK:** 269.0
@@ -55,23 +55,37 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Древний огонь](/ru/Emblem/Ancient Fire/) - Порядок
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Ум](/ru/Emblem/Witness/) - Добро
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">В начале боя ассасин входит в состояние </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;скрытности&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект снимается при проведении атаки.</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> Первая атака ассасина после утраты </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытности</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит противнику урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и на 30% снижает эффективность лечения на 10 сек. Срабатывает только 1 раз.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя ассасин входит в состояние </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;скрытности&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект снимается при проведении атаки.</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> Первая атака ассасина после утраты </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытности</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит противнику урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и на 30% снижает эффективность лечения на 10 сек. Срабатывает только 1 раз.</span><span style="color: black">
 
 ### Обычное умение 1 : Инстинкт убийцы
- **Description:** <span style="color: #645252;font-size:20px">Ассасин повышает на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда и на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - КРИТ. УРН. </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Орлиное зрение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дает удвоенный урон, атака </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепленного</span><span style="color: black"><span style="color: #645252;font-size:20px"> противника получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> бонус к пробиванию. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ассасин повышает на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда и на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - КРИТ. УРН. </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Орлиное зрение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дает удвоенный урон, атака </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепленного</span><span style="color: black"><span style="color: #645252;font-size:20px"> противника получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> бонус к пробиванию. </span><span style="color: black">
 
 ### Обычное умение 2 : Дымовая завеса
- **Description:** <span style="color: #645252;font-size:20px">Ассасин бросает себе под ноги дымовую гранату, повышая на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ЗЩТ. Враги в большом радиусе получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепление</span><span style="color: black"><span style="color: #645252;font-size:20px">, их урон и скорость атаки снижаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Восстановление - 18 сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ассасин бросает себе под ноги дымовую гранату, повышая на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ЗЩТ. Враги в большом радиусе получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепление</span><span style="color: black"><span style="color: #645252;font-size:20px">, их урон и скорость атаки снижаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Восстановление - 18 сек. </span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Ассасины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Когда они убивают противника, этот бонус увеличивается в 3 раза на 20 сек., а также они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытность</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 5 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ассасины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Когда они убивают противника, этот бонус увеличивается в 3 раза на 20 сек., а также они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытность</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 5 сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Столкновение сил
- **Description:** <span style="color: #645252;font-size:20px">Нейтральные отряды - искусные воины. В бою против других фракций они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Нейтральные отряды - искусные воины. В бою против других фракций они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Набор сил
+## Значимость
+### Связь дозора
+
+* Нейтральный
+* Штурмовой отряд (Дозор штурмовых отрядов)
+
+### Бонус героя
+
 ## Talent
 
 * Атака
@@ -100,22 +114,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

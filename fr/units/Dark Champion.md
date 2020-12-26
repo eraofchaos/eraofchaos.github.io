@@ -3,7 +3,7 @@ title: "Champion des ténèbres"
 permalink: /fr/units/Dark Champion/
 excerpt: "Unités C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme."
 unitID: 309
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Champion des ténèbres"
 toc: true
@@ -14,9 +14,9 @@ toc: true
 ## General information
  **Description:** C'est le Souverain immortel, mais aussi le Seigneur des Ténèbres. Il est prêt à assassiner cruellement tout être vivant afin de recueillir son âme.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Nécropole](/fr/units/Fraction Nécropole)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Diminue le moral des ennemis. Inflige des dégâts importants et tue instantanément les unités. Rend les alliés du domaine invincibles.
 
-## Basic stats
+## Stats de base
  **Base HP:** 9504.0
 
  **Base ATK:** 1029.5
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 185.31 | 0.64 | 5.3 | 1710.72 |
   | **6x** <i class="fas fa-star"/> | 205.9 | 0.66 | 5.94 | 1900.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Héritage des Ironfist](/fr/Emblem/Ironfist's Legacy/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Faucille du silence
  **Description:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts et une quantité supplémentaire de dégâts égale à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max à la cible toutes les 24 secondes, tout en lui infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 10 secondes. Le Champion des ténèbres restaure les PV à hauteur de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ par attaque normale.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence normale 6 : Cimetière silencieux
  **Description:** <span style="color: #645252;font-size:20px">Quand 3 unités de la Nécropole sont déployées, le Champion des ténèbres augmente sa propre vitesse d'ATQ de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quand le sort &lt;Malchance&gt; est lancé, un </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Cimetière silencieux&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> apparaît pendant 15 secondes. Le domaine s'étend au fur et à mesure que le niveau de la compétence augmente. Son temps de recharge est de 30 secondes.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Nécropole (Groupement - Nécropole)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

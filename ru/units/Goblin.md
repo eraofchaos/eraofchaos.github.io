@@ -3,17 +3,17 @@ title: "Гоблин"
 permalink: /ru/units/Goblin/
 excerpt: "Отряды Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов."
 unitID: 401
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Гоблин"
 toc: true
 ---
 ## General information
- **Description:** Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов.
+ **Описание:** Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов.
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Часто контратакует. Наносит высокий урон в ближнем бою. Чем ниже здоровье, тем выше показатель атаки.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 761.0
 
  **Base ATK:** 82.7
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.59 | 4.04 | 136.98 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у гоблинов есть шанс нанести урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+52}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК трем вражеским отрядам.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у гоблинов есть шанс нанести урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+52}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК трем вражеским отрядам.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">Гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">В бою против отряда с менее 30% ОЗ гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+26}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против отряда с менее 30% ОЗ гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+26}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
 ### Обычное умение 3 : Жажда крови
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Рост живучести
- **Description:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Цитадель (Дозор отрядов Цитадели)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Менталитет бойца
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Боевой шторм&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания удваивается</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевой шторм&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания удваивается</span>
 
 ### 2nd Skill (or 1st): Инерция
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Боевой шторм&gt; </span><span style="color: #645252;font-size:18px">: комбо-атака (&lt;Боевой шторм&gt; срабатывает 2 раза)</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевой шторм&gt; </span><span style="color: #645252;font-size:18px">: комбо-атака (&lt;Боевой шторм&gt; срабатывает 2 раза)</span>
 
 ### 3rd Skill (or 4th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:18px">: АТК гоблинов повышается на 150%, если у противника осталось меньше 30% ОЗ.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:18px">: АТК гоблинов повышается на 150%, если у противника осталось меньше 30% ОЗ.</span>
 
 ### 4th Skill (or 3rd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:20px">: урон гоблинов повышается на 30%, если у противника осталось меньше 30% ОЗ</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:20px">: урон гоблинов повышается на 30%, если у противника осталось меньше 30% ОЗ</span>
 
 ### 5th Skill (or 6th): Кровожадный мастер
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: при критическом ударе восстановление ОЗ повышается на 5%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: при критическом ударе восстановление ОЗ повышается на 5%</span>
 
 ### 6th Skill (or 5th): Кровавая кувалда
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: при каждом критическом ударе скорость АТК повышается на 2%. Эффект длится 10 сек., суммируется до 10 раз</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: при каждом критическом ударе скорость АТК повышается на 2%. Эффект длится 10 сек., суммируется до 10 раз</span>
 
 ## Technical info
  **runart:** 1

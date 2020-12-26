@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /es/units/Judicator/
 excerpt: "Unidades Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Adjudicadora"
 toc: true
@@ -12,11 +12,11 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:** Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada.
+ **Descripción:** Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Castillo](/es/units/Fraction Castillo)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Aura de grupo que se usa para recuperar PV. El aura protege contra el daño. La tierra sagrada fortalece a tus aliados
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 6109.4
 
  **Base ATK:** 565.7
@@ -58,27 +58,41 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
+## Emblemas Sagrados recomendados
+
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) - Orden
+* [Enfado](/es/Emblem/Anger/) - Caos
+* [Avaricia](/es/Emblem/Greed/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Rayo del juicio
- **Description:** <span style="color: #645252;font-size:20px">La Adjudicadora invoca 2 Rayos del juicio cada 25 s. Los rayos <span style="color: #48b946;font-size:20px">aturden</span><span style="color: black"> a las unidades hostiles dentro del alcance durante 1 s cuando aparecen, e infligen daño igual al <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> de los PV máximos y reducen la curación hostil un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"> durante 8 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La Adjudicadora invoca 2 Rayos del juicio cada 25 s. Los rayos <span style="color: #48b946;font-size:20px">aturden</span><span style="color: black"> a las unidades hostiles dentro del alcance durante 1 s cuando aparecen, e infligen daño igual al <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> de los PV máximos y reducen la curación hostil un <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"> durante 8 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Bendición
- **Description:** <span style="color: #645252;font-size:20px">Al entablar combate, la Adjudicadora otorga <span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"> a todas las unidades amistosas durante 10 s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">La Adjudicadora otorga </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades amistosas a su paso cada <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black">s. El efecto dura 10 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al entablar combate, la Adjudicadora otorga <span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"> a todas las unidades amistosas durante 10 s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">La Adjudicadora otorga </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades amistosas a su paso cada <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black">s. El efecto dura 10 s.</span><span style="color: black">
 
 ### Habilidad normal 2 : Bendición de la Luz
- **Description:** <span style="color: #645252;font-size:20px">Cuando los PV de una unidad amistosa están por debajo del 25% por primera vez, la Adjudicadora lanza <span style="color: #48b946;font-size:20px">&lt;Refugio de Luz&gt;</span><span style="color: black"> para proteger a los compañeros durante <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> segundos. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Al luchar contra unidades del Infierno, la Adjudicadora gana un 30% más de daño de unidad y un 50% de reducción de daño de unidad.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando los PV de una unidad amistosa están por debajo del 25% por primera vez, la Adjudicadora lanza <span style="color: #48b946;font-size:20px">&lt;Refugio de Luz&gt;</span><span style="color: black"> para proteger a los compañeros durante <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> segundos. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Al luchar contra unidades del Infierno, la Adjudicadora gana un 30% más de daño de unidad y un 50% de reducción de daño de unidad.</span><span style="color: black">
 
 ### Habilidad normal 3 : null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad especial de la facción I : Combate de asedio
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de defensa
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
 ### Habilidad normal 6 : Halo de teocracia
- **Description:** <span style="color: #645252;font-size:20px">Cuando se despliegan 3 unidades de la facción de Castillo, la Adjudicadora aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su propio golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando la Adjudicadora tiene un estado de <span style="color: #48b946;font-size:20px">[High Morale]</span><span style="color: black">, puede revelar un <span style="color: #F0F000;font-size:20px">[Theocratic Domain]</span><span style="color: black"> que se expande a medida que aumenta el nivel de la habilidad de la unidad. El dominio dura 15 s. La recarga es de 30 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan 3 unidades de la facción de Castillo, la Adjudicadora aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su propio golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando la Adjudicadora tiene un estado de <span style="color: #48b946;font-size:20px">[High Morale]</span><span style="color: black">, puede revelar un <span style="color: #F0F000;font-size:20px">[Theocratic Domain]</span><span style="color: black"> que se expande a medida que aumenta el nivel de la habilidad de la unidad. El dominio dura 15 s. La recarga es de 30 s.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Castillo (Lista de Castillo)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ejecución intrépida
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Por cada Supervisor del Refugio en el campo de batalla, el Supervisor del Refugio aumenta la DEF del Paladín Supremo un 15%. El Refugio restablecerá un 10% de los PV durante las 3 primera invocaciones</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Por cada Supervisor del Refugio en el campo de batalla, el Supervisor del Refugio aumenta la DEF del Paladín Supremo un 15%. El Refugio restablecerá un 10% de los PV durante las 3 primera invocaciones</span>
 
 ### 2nd Skill (or 1st): Gloria de Refugio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Para las 3 primeras invocaciones, el daño de tus unidades y la reducción de daño aumentarán un 10% durante 30 s. El Paladín Supremo invoca un Supervisor del Refugio al entrar en el campo de batalla por primera vez</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Para las 3 primeras invocaciones, el daño de tus unidades y la reducción de daño aumentarán un 10% durante 30 s. El Paladín Supremo invoca un Supervisor del Refugio al entrar en el campo de batalla por primera vez</span>
 
 ### 3rd Skill (or 4th): Lealtad y fe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Paladín aumenta un 22%. No se ve afectado por «moral alta»</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Paladín aumenta un 22%. No se ve afectado por «moral alta»</span>
 
 ### 4th Skill (or 3rd): Fe inquebrantable
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:20px">Aumenta la reducción de daño de unidad de la unidad de Paladín un 15% adicional</span><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: #645252;font-size:20px"></span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:20px">Aumenta la reducción de daño de unidad de la unidad de Paladín un 15% adicional</span><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: #645252;font-size:20px"></span>
 
 ### 5th Skill (or 6th): Perseverancia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño crítico un 50% y la tenacidad en 150. La duración de moral alta aumenta en 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño crítico un 50% y la tenacidad en 150. La duración de moral alta aumenta en 10 s</span>
 
 ### 6th Skill (or 5th): Estocada ágil
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño de unidad un 15% y la tenacidad en 150 para todas las unidades dentro del alcance. La duración de moral alta aumenta en 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incentive&gt;</span><span style="color: #645252;font-size:18px">&lt;Incentive&gt; afecta a todas las unidades amistosas. Aumenta el daño de unidad un 15% y la tenacidad en 150 para todas las unidades dentro del alcance. La duración de moral alta aumenta en 10 s</span>
 
 ## Technical info
  **runart:** 0

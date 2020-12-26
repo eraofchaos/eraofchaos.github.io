@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Murallas -  Units"
 permalink: /es/units/Fraction Murallas/
 excerpt: "Fraction Murallas - List of Units in Era of Chaos"
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Fraction Murallas"
 toc: false

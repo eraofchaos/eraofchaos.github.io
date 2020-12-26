@@ -3,17 +3,17 @@ title: "Elemental de Hielo"
 permalink: /es/units/Ice Elemental/
 excerpt: "Unidades Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Elemental de Hielo"
 toc: true
 ---
 ## General information
- **Description:** Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos.
+ **Descripción:** Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Conflujo](/es/units/Fraction Conflujo)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Maga de control, cubre todo de hielo, muro de hielo de apoyo.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 744.0
 
  **Base ATK:** 111.0
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
+## Emblemas Sagrados recomendados
+
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) - Neutral
+* [Enfado](/es/Emblem/Anger/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Muro de hielo
- **Description:** <span style="color: #645252;font-size:20px">La unidad de Elemental de Hielo crea un muro de hielo delante de ella, lo que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congela&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a los objetivos en una fila horizontal en una zona grande durante <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Elemental de Hielo crea un muro de hielo delante de ella, lo que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congela&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a los objetivos en una fila horizontal en una zona grande durante <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Sujeción helada
- **Description:** <span style="color: #645252;font-size:20px">Los ataques normales de la Elemental de Hielo tienen una probabilidad de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 15 s. Además, reduce la velocidad de ataque del objetivo un <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s, hasta un máximo de 5 acumulaciones.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales de la Elemental de Hielo tienen una probabilidad de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 15 s. Además, reduce la velocidad de ataque del objetivo un <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s, hasta un máximo de 5 acumulaciones.</span><span style="color: black">
 
 ### Habilidad normal 2 : Fuerza elemental
- **Description:** <span style="color: #645252;font-size:20px">Si hay una unidad de Elementales de Hielo en el campo de batalla, aumenta la reducción de daño contra hechizos de agua de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la reducción de daño contra hechizos de agua de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una Elemental de Hielo en el campo de batalla, aumenta la regeneración de maná del Héroe amistoso un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Elementales de Hielo en el campo de batalla, aumenta la reducción de daño contra hechizos de agua de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la reducción de daño contra hechizos de agua de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una Elemental de Hielo en el campo de batalla, aumenta la regeneración de maná del Héroe amistoso un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : null
- **Description:** 
+ **Descripción:** 
 
 ### Habilidad especial de la facción I : Afinidad elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Conflujo (Lista de Conflujo)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Muro helado
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro de hielo&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la Reducción de daño del golpe crítico de las unidades objetivo un 20%. Si el objetivo alcanzado es inmune a la congelación, sufrirá una sobrecarga durante 3 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Muro de hielo&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la Reducción de daño del golpe crítico de las unidades objetivo un 20%. Si el objetivo alcanzado es inmune a la congelación, sufrirá una sobrecarga durante 3 s.</span>
 
 ### 2nd Skill (or 1st): Cárcel de hielo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Muro de hielo&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la reducción de daño de unidad de las unidades objetivo un 20%. Si el objetivo alcanzado es inmune a la congelación, se quedará en silencio durante 3 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Muro de hielo&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la reducción de daño de unidad de las unidades objetivo un 20%. Si el objetivo alcanzado es inmune a la congelación, se quedará en silencio durante 3 s.</span>
 
 ### 3rd Skill (or 4th): Defensa Elemental
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la tenacidad de las unidades de vanguardia en 100 y los PV en un 50% durante 7 s cuando un Héroe lanza un hechizo de agua.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la tenacidad de las unidades de vanguardia en 100 y los PV en un 50% durante 7 s cuando un Héroe lanza un hechizo de agua.</span>
 
 ### 4th Skill (or 3rd): Invasión Elemental
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Tiene una probabilidad del 50% de lanzar &lt;Agarre de hielo&gt; sobre 1 unidad enemiga de retaguardia cuando un Héroe lanza un hechizo de agua.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Tiene una probabilidad del 50% de lanzar &lt;Agarre de hielo&gt; sobre 1 unidad enemiga de retaguardia cuando un Héroe lanza un hechizo de agua.</span>
 
 ### 5th Skill (or 6th): Recarga
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Congelado&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la duración de &lt;Congelación&gt; en 5 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Congelado&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la duración de &lt;Congelación&gt; en 5 s.</span>
 
 ### 6th Skill (or 5th): Solidificar
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Congelado&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la reducción de daño de unidad de la unidad objetivo un 20% durante 7 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Congelado&gt;</span><span style="color: #645252;font-size:18px"> Disminuye más la reducción de daño de unidad de la unidad objetivo un 20% durante 7 s.</span>
 
 ## Technical info
  **runart:** 0

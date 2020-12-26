@@ -3,7 +3,7 @@ title: "Farfadet"
 permalink: /fr/units/Leprechaun/
 excerpt: "Unités Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde."
 unitID: 909
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Farfadet"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Vêtus de manteaux vert jade, les Farfadets étaient autrefois des enfants de la forêt, qui vivaient seuls et insouciants sous la protection de l'Arbre du monde. Cependant, le son des cors de guerre d'Erathia a éveillé leur courage, et ce sont eux, qui, désormais, protègent l'Arbre du monde.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Un expert en blocage bénéficiant d'une défense collective et de boucliers élémentaires.
 
-## Basic stats
+## Stats de base
  **Base HP:** 3162.0
 
  **Base ATK:** 134.5
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 24.21 | 0.4 | 9.2 | 569.16 |
   | **6x** <i class="fas fa-star"/> | 26.9 | 0.41 | 10.0 | 632.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Capacité ultime: Coup de poing immédiat
  **Description:** <span style="color: #645252;font-size:20px">Le Farfadet inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*13+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ à l'unité cible toutes les 5 secondes et l'</span><span style="color: black"><span style="color: #48b946;font-size:20px">étourdit</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 2 secondes. Réduit également la pénétration d'une unité de mêlée et d'une unité à distance/de Lanceurs de sorts aléatoires de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> tout en infligeant des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son ATQ. Cet effet dure 6 secondes et peut être cumulé jusqu'à 3 fois.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Lorsque cette compétence est déclenchée, les dégâts et la vitesse d'attaque du Farfadet augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+0.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cet effet dure 15 secondes et peut être cumulé jusqu'à 40 fois.</span><span style="color: black">
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Conflux (Groupement - Conflux)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

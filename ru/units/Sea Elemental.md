@@ -3,17 +3,17 @@ title: "Элементаль Моря"
 permalink: /ru/units/Sea Elemental/
 excerpt: "Отряды null"
 unitID: 9903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Элементаль Моря"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Хорошо контролирует ход боя. Постоянно ослабляет врагов.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1446.0
 
  **Base ATK:** 201.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
+## Рекомендуемые эмблемы святости
+
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) - Нейтральный
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+
 ## Skills
 ### Совершенное умение: Спираль времени
- **Description:** <span style="color: #645252;font-size:20px">Элементаль Моря создает на земле 10-секундный водоворот каждые 30 сек., снижая скорость атаки у всех вражеских отрядов в радиусе действия на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждую секунду. Когда водоворот исчезает, он наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в радиусе действия.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементаль Моря создает на земле 10-секундный водоворот каждые 30 сек., снижая скорость атаки у всех вражеских отрядов в радиусе действия на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждую секунду. Когда водоворот исчезает, он наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в радиусе действия.</span><span style="color: black">
 
 ### Обычное умение 1 : Дар полного прилива
- **Description:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Элементали Моря призывают водную темницу каждые 20 сек., которая подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения. Водная темница действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Моря призывают водную темницу каждые 20 сек., которая подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения. Водная темница действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Отряд Убежища (Дозор отрядов Убежища)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Кровавый танец
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: при активном применении скорость атаки и высасывание жизни нага повышаются на 30% через следующие 20 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: при активном применении скорость атаки и высасывание жизни нага повышаются на 30% через следующие 20 сек.</span>
 
 ### 2nd Skill (or 1st): Танец острых клинков
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения, нанося урон всем отрядам в зоне поражения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Танец клинков&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения, нанося урон всем отрядам в зоне поражения</span>
 
 ### 3rd Skill (or 4th): Клинок воли
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: бонусный эффект усиливается до 150% от эффекта предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: бонусный эффект усиливается до 150% от эффекта предыдущего умения</span>
 
 ### 4th Skill (or 3rd): Безумный клинок
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: нага получает бонус к критическому попаданию и критическому урону. Эффект усиливается до 200% от предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Королева клинков&gt;</span><span style="color: #645252;font-size:18px">: нага получает бонус к критическому попаданию и критическому урону. Эффект усиливается до 200% от предыдущего умения</span>
 
 ### 5th Skill (or 6th): Волшебная кожа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 0

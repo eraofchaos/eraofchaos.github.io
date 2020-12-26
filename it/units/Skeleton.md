@@ -3,17 +3,17 @@ title: "Scheletro"
 permalink: /it/units/Skeleton/
 excerpt: "Unità Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Scheletro"
 toc: true
 ---
 ## General information
- **Description:** Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici.
+ **Descrizione:** Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Necropoli](/it/units/Fraction Necropoli)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Immune al Sanguinamento. Riflette i danni. Resistente agli attacchi a distanza.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1158.0
 
  **Base ATK:** 57.9
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
+## Emblemi sacri consigliati
+
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
+* [Avarizia](/it/Emblem/Greed/) - Caos
+* [Lussuria](/it/Emblem/Lust/) - Caos
+
 ## Skills
 ### Tecnica suprema: Scudo d'ossa
- **Description:** <span style="color: #645252;font-size:20px">Quando i PF di uno Scheletro scendono sotto il 50% per la prima volta, esso crea uno scudo d'ossa che riduce i danni subiti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 15 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando i PF di uno Scheletro scendono sotto il 50% per la prima volta, esso crea uno scudo d'ossa che riduce i danni subiti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 15 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Punta d'ossa
- **Description:** <span style="color: #645252;font-size:20px">Lo Scheletro riflette </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del danno ricevuto.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Lo Scheletro riflette </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del danno ricevuto.</span><span style="color: black">
 
 ### Tecnica normale 2 : Pietrificazione
- **Description:** <span style="color: #645252;font-size:20px">Negli Scheletri, aumenta i PF di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DIF di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> e i danni riflessi del 10%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Negli Scheletri, aumenta i PF di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, la DIF di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> e i danni riflessi del 10%.</span><span style="color: black">
 
 ### Tecnica normale 3 : Gabbia toracica
- **Description:** <span style="color: #645252;font-size:20px">Lo Scheletro è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e subisce danni ridotti dalle unità a distanza (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Lo Scheletro è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e subisce danni ridotti dalle unità a distanza (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">).
+
+## Connessione
+### Connessione roster
+
+* Necropoli (Roster Necropoli)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ossa incantate
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Gabbia toracica&gt;</span><span style="color: #645252;font-size:18px">: la Rid DAN si applica anche agli incantatori.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Gabbia toracica&gt;</span><span style="color: #645252;font-size:18px">: la Rid DAN si applica anche agli incantatori.</span>
 
 ### 2nd Skill (or 1st): Scheletro malvagio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Gabbia toracica&gt;<span style="color: #645252;font-size:18px">: DIF aumentata del 30%. Effetto raddoppiato se l'unità attaccante soffre di &lt;Morale basso&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Gabbia toracica&gt;<span style="color: #645252;font-size:18px">: DIF aumentata del 30%. Effetto raddoppiato se l'unità attaccante soffre di &lt;Morale basso&gt;.</span>
 
 ### 3rd Skill (or 4th): Sete di morte
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pietrificazione&gt;</span><span style="color: #645252;font-size:18px">: DIF aumentata del 30% per ogni unità nemica sconfitta nel corso della battaglia. Cumulabile fino a 3 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pietrificazione&gt;</span><span style="color: #645252;font-size:18px">: DIF aumentata del 30% per ogni unità nemica sconfitta nel corso della battaglia. Cumulabile fino a 3 volte.</span>
 
 ### 4th Skill (or 3rd): Frenesia Non morta
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pietrificazione&gt;</span><span style="color: #645252;font-size:18px">: resistenza magica e DIF aumentate del 30%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pietrificazione&gt;</span><span style="color: #645252;font-size:18px">: resistenza magica e DIF aumentate del 30%.</span>
 
 ### 5th Skill (or 6th): Armato fino ai denti
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Scudo d'ossa&gt;</span><span style="color: #645252;font-size:18px">: l'effetto dura fino al termine della battaglia.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scudo d'ossa&gt;</span><span style="color: #645252;font-size:18px">: l'effetto dura fino al termine della battaglia.</span>
 
 ### 6th Skill (or 5th): Pronto a colpire
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Pietrificazione&gt;</span><span style="color: #645252;font-size:18px">: la tecnica si attiva all'inizio della battaglia. Durata aumentata a 30 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pietrificazione&gt;</span><span style="color: #645252;font-size:18px">: la tecnica si attiva all'inizio della battaglia. Durata aumentata a 30 secondi.</span>
 
 ## Technical info
  **runart:** 1

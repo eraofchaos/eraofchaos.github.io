@@ -3,17 +3,17 @@ title: "Roc"
 permalink: /it/units/Roc/
 excerpt: "Unità I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
 unitID: 405
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Roc"
 toc: true
 ---
 ## General information
- **Description:** I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei.
+ **Descrizione:** I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Roccaforte](/it/units/Fraction Roccaforte)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge danni magici elevati a bersagli multipli.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 4978.0
 
  **Base ATK:** 792.0
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Superbia](/it/Emblem/Arrogance/) - Caos
+
 ## Skills
 ### Tecnica suprema: Tuono
- **Description:** <span style="color: #645252;font-size:20px">Il Roc infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area di fronte a sé, riducendo la MIRA dei bersagli di 200 per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Roc infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche in un'ampia area di fronte a sé, riducendo la MIRA dei bersagli di 200 per 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Fulmine globulare
- **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base del Roc infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danno ad area a 3 unità nemiche.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base del Roc infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danno ad area a 3 unità nemiche.</span><span style="color: black">
 
 ### Tecnica normale 2 : Raptus
- **Description:** <span style="color: #645252;font-size:20px">CRIT del Roc aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">CRIT del Roc aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
 ### Tecnica normale 3 : Barriera ciclonica
- **Description:** <span style="color: #645252;font-size:20px">Se il Roc è sul campo di battaglia, la MIRA di tutte le unità nemiche diminuisce (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se il Roc è sul campo di battaglia, la MIRA di tutte le unità nemiche diminuisce (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Combattenti devoti
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Vitalità aumentata
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Roccaforte (Roster Roccaforte)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Temporale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tuono&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 200% del valore della tecnica originale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Tuono&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 200% del valore della tecnica originale.</span>
 
 ### 2nd Skill (or 1st): Scossa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tuono&gt;</span><span style="color: #645252;font-size:18px">: MIRA ridotta di 2000.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Tuono&gt;</span><span style="color: #645252;font-size:18px">: MIRA ridotta di 2000.</span>
 
 ### 3rd Skill (or 4th): Istinto di caccia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: DAN del Roc aumentato del 10% (raddoppiato dopo l'attivazione di &lt;Raptus&gt;).</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: DAN del Roc aumentato del 10% (raddoppiato dopo l'attivazione di &lt;Raptus&gt;).</span>
 
 ### 4th Skill (or 3rd): Rapidità naturale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: DAN CRIT del Roc aumentato del 15% (raddoppiato dopo l'attivazione di &lt;Raptus&gt;).</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: DAN CRIT del Roc aumentato del 15% (raddoppiato dopo l'attivazione di &lt;Raptus&gt;).</span>
 
 ### 5th Skill (or 6th): Implosione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Barriera ciclonica&gt;</span><span style="color: #645252;font-size:18px">: evoca un fulmine ogni 10 secondi che infligge danni pari all'8% dei PF massimi a 1 unità nemica casuale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Barriera ciclonica&gt;</span><span style="color: #645252;font-size:18px">: evoca un fulmine ogni 10 secondi che infligge danni pari all'8% dei PF massimi a 1 unità nemica casuale.</span>
 
 ### 6th Skill (or 5th): Scarica elettrica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Barriera ciclonica&gt;</span><span style="color: #645252;font-size:18px">: evoca un fulmine ogni 10 secondi che infligge danni pari al 15% dei PF massimi a 1 membro di un'unità nemica casuale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Barriera ciclonica&gt;</span><span style="color: #645252;font-size:18px">: evoca un fulmine ogni 10 secondi che infligge danni pari al 15% dei PF massimi a 1 membro di un'unità nemica casuale.</span>
 
 ## Technical info
  **runart:** 0

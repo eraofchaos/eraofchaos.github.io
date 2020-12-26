@@ -3,17 +3,17 @@ title: "Дендроид-страж"
 permalink: /ru/units/Dendroid Guard/
 excerpt: "Отряды Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов."
 unitID: 205
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Дендроид-страж"
 toc: true
 ---
 ## General information
- **Description:** Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов.
+ **Описание:** Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Обладает невосприимчивостью к кровотечению, отражает урон и улучшает защиту.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 10182.0
 
  **Base ATK:** 396.0
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 71.28 | 0.36 | 8.36 | 1832.76 |
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
 
+## Рекомендуемые эмблемы святости
+
+* [Благословение](/ru/Emblem/Queen's Blessing/) - Порядок
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) - Добро
+* [Алчность](/ru/Emblem/Greed/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">Дендроиды-стражи </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> окружающие вражеские отряды в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Дендроиды-стражи </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> окружающие вражеские отряды в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Стремительный перекат
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : Доспехи из окам. дерева
- **Description:** <span style="color: #645252;font-size:20px">У дендроидов-стражей иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У дендроидов-стражей иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. </span><span style="color: black">
 
 ### Обычное умение 3 : Деревянный кол
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
- **Description:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Бастион (Дозор отрядов Бастиона)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ярость леса
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Оковы&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки отрядов на большом расстоянии повышается на 20% на 10 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Оковы&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки отрядов на большом расстоянии повышается на 20% на 10 сек.</span>
 
 ### 2nd Skill (or 1st): Защита леса
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Оковы&gt;</span><span style="color: #645252;font-size:18px">: для союзных отрядов создается щит, поглощающий урон в размере 6% от макс. ОЗ.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Оковы&gt;</span><span style="color: #645252;font-size:18px">: для союзных отрядов создается щит, поглощающий урон в размере 6% от макс. ОЗ.</span>
 
 ### 3rd Skill (or 4th): Окоченение
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Доспехи из окаменевшего дерева&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону отряда дендроидов-страж-повышается на 20%. Против кровоточащих врагов эффект удваивается</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Доспехи из окаменевшего дерева&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону отряда дендроидов-страж-повышается на 20%. Против кровоточащих врагов эффект удваивается</span>
 
 ### 4th Skill (or 3rd): Сила джунглей
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Доспехи из окаменевшего дерева&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть дендроиды-стражи, сопротивление урону у союзных отрядов в большой области повышается на 10%, а ЗЩТ - на 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Доспехи из окаменевшего дерева&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть дендроиды-стражи, сопротивление урону у союзных отрядов в большой области повышается на 10%, а ЗЩТ - на 30%</span>
 
 ### 5th Skill (or 6th): Ржавый кол
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Деревянный кол&gt;</span><span style="color: #645252;font-size:18px">: уменьшает ЗЩТ атакующего отряда на 30% и замедляет его</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Деревянный кол&gt;</span><span style="color: #645252;font-size:18px">: уменьшает ЗЩТ атакующего отряда на 30% и замедляет его</span>
 
 ### 6th Skill (or 5th): Кол слабости
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Деревянный кол&gt;</span><span style="color: #645252;font-size:18px">: уменьшает урон атакующего отряда на 10% и замедляет его</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Деревянный кол&gt;</span><span style="color: #645252;font-size:18px">: уменьшает урон атакующего отряда на 10% и замедляет его</span>
 
 ## Technical info
  **runart:** 1

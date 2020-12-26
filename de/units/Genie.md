@@ -3,17 +3,17 @@ title: "Dschinn"
 permalink: /de/units/Genie/
 excerpt: "Einheiten Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Dschinn"
 toc: true
 ---
 ## General information
- **Description:** Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis.
+ **Beschreibung:** Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Turm](/de/units/Fraction Turm)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Ein mächtiger Heiler, der auch einen Buff bietet. Heldenzauber verstärken die Einheit.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 662.0
 
  **Base ATK:** 102.6
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 32.688 | 0.36 | 5.6 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Zaubergeschenk
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Angriff des Dschinns auf Heilung wechselt, werden die LP der Einheit mit den prozentual geringsten LP um 80 % des ANG des Dschinns wiederhergestellt. Die Heilung des Dschinns wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verbessert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn der Angriff des Dschinns auf Heilung wechselt, werden die LP der Einheit mit den prozentual geringsten LP um 80 % des ANG des Dschinns wiederhergestellt. Die Heilung des Dschinns wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verbessert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Drei Wünsche
- **Description:** <span style="color: #645252;font-size:20px">Solange sich ein Dschinn auf dem Schlachtfeld befindet, segnet er 3 zufällige verbündete Einheiten mit einem der folgenden Effekte: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Schadensreduzierung, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Schaden oder </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Angriffstempo.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange sich ein Dschinn auf dem Schlachtfeld befindet, segnet er 3 zufällige verbündete Einheiten mit einem der folgenden Effekte: </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Schadensreduzierung, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Schaden oder </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Bonus auf Angriffstempo.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Magischer Docht
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Dschinns steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Dschinns steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, seine Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Magisches Erwachen
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Dschinn durch den Hilfszauber eines Helden verbessert wird, stellt er bei der Einheit mit den prozentual niedrigsten LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wieder her.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Dschinn durch den Hilfszauber eines Helden verbessert wird, stellt er bei der Einheit mit den prozentual niedrigsten LP </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP wieder her.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Nüchterner Geist
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Explosive Energie
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Turm (Turm-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Energieüberladung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Geschenk der Energie&gt;</span><span style="color: #645252;font-size:18px">Stellt bei einem Standardangriff LP in Höhe von 25 % des ANG wieder her. Erhöht die Schadensreduzierung der Einheit um 20 % und das Angriffstempo um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Geschenk der Energie&gt;</span><span style="color: #645252;font-size:18px">Stellt bei einem Standardangriff LP in Höhe von 25 % des ANG wieder her. Erhöht die Schadensreduzierung der Einheit um 20 % und das Angriffstempo um 10 %.</span>
 
 ### 2nd Skill (or 1st): Energieschutz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Geschenk der Energie&gt;</span><span style="color: #645252;font-size:18px">Stellt bei einem Standardangriff LP in Höhe von 25 % des ANG wieder her. Wenn ein einzelner Schaden der Einheit mehr als 30 % ihrer max. LP zufügen würde, wird der Schaden auf 30 % reduziert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Geschenk der Energie&gt;</span><span style="color: #645252;font-size:18px">Stellt bei einem Standardangriff LP in Höhe von 25 % des ANG wieder her. Wenn ein einzelner Schaden der Einheit mehr als 30 % ihrer max. LP zufügen würde, wird der Schaden auf 30 % reduziert.</span>
 
 ### 3rd Skill (or 4th): Wie Ihr wünscht
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drei Wünsche&gt;</span><span style="color: #645252;font-size:18px">Segnet 6 zufällige verbündete Einheiten und verleiht ihnen einen zufälligen Bonus (Schadensreduzierung, Schaden oder Angriffstempo). Der Bonus wird um 50 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drei Wünsche&gt;</span><span style="color: #645252;font-size:18px">Segnet 6 zufällige verbündete Einheiten und verleiht ihnen einen zufälligen Bonus (Schadensreduzierung, Schaden oder Angriffstempo). Der Bonus wird um 50 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Doppelt hält besser
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drei Wünsche&gt;</span><span style="color: #645252;font-size:18px">Segnet 6 zufällige verbündete Einheiten und verleiht ihnen zwei zufällige Boni (Schadensreduzierung, Schaden oder Angriffstempo).</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drei Wünsche&gt;</span><span style="color: #645252;font-size:18px">Segnet 6 zufällige verbündete Einheiten und verleiht ihnen zwei zufällige Boni (Schadensreduzierung, Schaden oder Angriffstempo).</span>
 
 ### 5th Skill (or 6th): Erwachen-Verstärkung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Magisches Erwachen kann nicht durch Statuskontrollen beeinträchtigt werden. Erhöht die ABW aller Einheiten, die geheilt werden, 3 Sek. lang um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Magisches Erwachen kann nicht durch Statuskontrollen beeinträchtigt werden. Erhöht die ABW aller Einheiten, die geheilt werden, 3 Sek. lang um 10 %.</span>
 
 ### 6th Skill (or 5th): Transzendentales Erwachen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Heilung wird um 50 % erhöht. Erhöht die ABW aller Einheiten, die geheilt werden, 3 Sek. lang um 20 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Heilung wird um 50 % erhöht. Erhöht die ABW aller Einheiten, die geheilt werden, 3 Sek. lang um 20 %.</span>
 
 ## Technical info
  **runart:** 0

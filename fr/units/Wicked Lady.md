@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /fr/units/Wicked Lady/
 excerpt: "Unités  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Wicked Lady"
 toc: true
@@ -14,9 +14,9 @@ toc: true
 ## General information
  **Description:**  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Donjon](/fr/units/Fraction Donjon)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** 
 
-## Basic stats
+## Stats de base
  **Base HP:** 5770.0
 
  **Base ATK:** 633.6
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime:  Soul Burst
  **Description:** <span style="color: #645252;font-size:20px">Every 18 seconds, cause your own </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+150}%</span><span style="color: black"><span style="color: #645252;font-size:20px">2 Corps within a certain range of the target unit. 20]Attack and target </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Damage to max life and 30% chance of additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Evil Poison\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Inflicts an evil witch target on 1 enemy magic corps</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.1+2.6}%</span><span style="color: black"><span style="color: # 64525;font-size:20px"> maximum life damage and additional </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"evil poison\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px"> \"evil poison\"</span><span style="color: black">[ color=645252,fontsize=20]The effect lasts for 2 seconds. Normal attack ignores enemy's 301 defense. </span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Compétence normale 6 :  Bloody Dungeon
  **Description:** <span style="color: #645252;font-size:20px">Increases </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 dungeon corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps w/o injury. Expand when releasing Soul Burst</span><span style="color: black"><span style="color: #F0F000;font-size:20px"> \"Blood Dungeon\"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field Effect grows with skill level, lasts 15 seconds, cooldown 31 seconds</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Donjon (Groupement - Donjon)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

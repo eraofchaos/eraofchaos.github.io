@@ -3,7 +3,7 @@ title: "Lutin"
 permalink: /fr/units/Gremlin/
 excerpt: "Unités Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées."
 unitID: 601
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Lutin"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Les Lutins ont signé un pacte pour servir la Tour. Ils préfèrent attaquer à distance avec leurs chaînes à boules enchantées.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Tour](/fr/units/Fraction Tour)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Provoque Étourdissement à distance et inflige des dégâts directs. Les sorts de Héros améliorent son attaque.
 
-## Basic stats
+## Stats de base
  **Base HP:** 645.0
 
  **Base ATK:** 84.4
@@ -61,6 +61,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.58 | 0.65 | 5.6 | 84.168 |
   | **6x** <i class="fas fa-star"/> | 16.2 | 0.68 | 6.25 | 93.52 |
 
+## Emblèmes sacrés recommandés
+
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Le jugement des pères](/fr/Emblem/The Judgment of Fathers/) - Neutre
+* [Colère](/fr/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Capacité ultime: Boule de fer magique
  **Description:** <span style="color: #645252;font-size:20px">La vitesse d'ATQ des Lutins augmente de 100 % pendant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> secondes.</span><span style="color: black">
@@ -79,6 +85,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Dynamite énergétique
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Tour sont rompues à la conversion d'énergie, et augmentent leurs dégâts critiques de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Tour (Groupement - Tour)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

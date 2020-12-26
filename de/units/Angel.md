@@ -3,17 +3,17 @@ title: "Engel"
 permalink: /de/units/Angel/
 excerpt: "Einheiten Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Engel"
 toc: true
 ---
 ## General information
- **Description:** Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken.
+ **Beschreibung:** Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Schloss](/de/units/Fraction Schloss)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Belebt tote Truppen wieder, stellt die Gesundheit der gesamten Einheit wieder her und verursacht kolossalen Schaden.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Grüner Prophet](/de/Emblem/Green Prophet/) - Gut
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Verurteilen
- **Description:** <span style="color: #645252;font-size:20px">Der Engel verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an 3 zufälligen gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Engel verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an 3 zufälligen gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Auferstehung
- **Description:** <span style="color: #645252;font-size:20px">Der Engel erweckt 1 deiner Einheiten wieder und stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP dieser Einheit wieder her.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Engel erweckt 1 deiner Einheiten wieder und stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP dieser Einheit wieder her.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Strahlkraft
- **Description:** <span style="color: #645252;font-size:20px">Wenn sich ein Engel auf dem Schlachtfeld befindet, regenerieren alle verbündeten Einheiten alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn sich ein Engel auf dem Schlachtfeld befindet, regenerieren alle verbündeten Einheiten alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Konzentrierter Scharfschütze
- **Description:** <span style="color: #645252;font-size:20px">Der ANG des Engels steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Schaden wird um 10 % erhöht. Gegen Einheiten der Inferno-Fraktion wird der Schaden der Einheit um 50 % erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der ANG des Engels steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und der Schaden wird um 10 % erhöht. Gegen Einheiten der Inferno-Fraktion wird der Schaden der Einheit um 50 % erhöht.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
- **Description:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schloss (Schloss-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Dreifaltigkeit
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Verurteilung&gt;</span><span style="color: #645252;font-size:18px">Verursacht eine besondere Erhöhung der Schadensreduzierung für 3 zufällige verbündete Einheiten für die gesamte Schlacht um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verurteilung&gt;</span><span style="color: #645252;font-size:18px">Verursacht eine besondere Erhöhung der Schadensreduzierung für 3 zufällige verbündete Einheiten für die gesamte Schlacht um 10 %.</span>
 
 ### 2nd Skill (or 1st): Zweite Chance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Verurteilung&gt;</span><span style="color: #645252;font-size:18px">Stellt 15 % der max. LP bei der Einheit mit den prozentual niedrigsten LP wieder her.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verurteilung&gt;</span><span style="color: #645252;font-size:18px">Stellt 15 % der max. LP bei der Einheit mit den prozentual niedrigsten LP wieder her.</span>
 
 ### 3rd Skill (or 4th): Erlösung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Verleiht verbündeten Einheiten 6 Sek. lang Immunität gegen Schaden. Der Engel ist immun gegen &lt;Stille&gt;.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Verleiht verbündeten Einheiten 6 Sek. lang Immunität gegen Schaden. Der Engel ist immun gegen &lt;Stille&gt;.</span>
 
 ### 4th Skill (or 3rd): Gemeinschaft
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Stellt 10 % der max. LP bei allen verbündeten Einheiten wieder her. Der Engel ist immun gegen &lt;Stille&gt;.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Auferstehung&gt;</span><span style="color: #645252;font-size:18px">Stellt 10 % der max. LP bei allen verbündeten Einheiten wieder her. Der Engel ist immun gegen &lt;Stille&gt;.</span>
 
 ### 5th Skill (or 6th): Ermutigung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Strahlkraft&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Heilung aller verbündeten Einheiten um 35 %, solange sich der Engel auf dem Schlachtfeld befindet.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Strahlkraft&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Heilung aller verbündeten Einheiten um 35 %, solange sich der Engel auf dem Schlachtfeld befindet.</span>
 
 ### 6th Skill (or 5th): Weihe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Strahlkraft&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Erhöht die Schadensreduzierung aller verbündeter Einheiten um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Strahlkraft&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht. Erhöht die Schadensreduzierung aller verbündeter Einheiten um 10 %.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Dompteur de requins"
 permalink: /fr/units/Shark Trainer/
 excerpt: "Unités Dompteur de requins"
 unitID: 9909
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Dompteur de requins"
 toc: true
@@ -14,9 +14,9 @@ toc: true
 ## General information
  **Description:** Dompteur de requins
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Invoquez de puissants requins qui deviennent de plus en plus puissants au fil de la bataille, et capables de mettre en pièces leurs adversaires.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5430.0
 
  **Base ATK:** 792.0
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.6 | 5.6 | 977.4 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.63 | 6.25 | 1086.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+
 ## Skills
 ### Capacité ultime: Requin sanguinaire
  **Description:** <span style="color: #645252;font-size:20px">Le Dompteur de requins invoque 1 requin au début de la bataille. Le requin possède </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+50)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en attaque, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*200+3000)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en coups critiques, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de résistance aux dégâts et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en défense. Le requin peut infliger des dégâts équivalents à 100 % de sa propre attaque et inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Étourdissement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 3 secondes à l'unité cible et à une unité aléatoire sur la ligne arrière toutes les 20 secondes. Lorsqu'il combat des unités </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;découragées&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, sa vitesse d'attaque augmente de 20 % et ses coups critiques de 200. Lorsqu'il combat des unités victimes de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Saignement&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ses dégâts augmentent de 20 %. Tant que le requin est encore en vie, la défense du Dompteur de requins augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, sa résistance aux dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> et ses dégâts de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il octroie également au Dompteur de requins une bulle équivalente à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de ses PV max pendant 6 secondes.</span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

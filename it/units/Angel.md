@@ -3,17 +3,17 @@ title: "Angelo"
 permalink: /it/units/Angel/
 excerpt: "Unità Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Angelo"
 toc: true
 ---
 ## General information
- **Description:** Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti.
+ **Descrizione:** Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti.
 
- **Class:** Attacco
+ **Classe:** Attacco
 
- **Class Description:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
+ **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
  **Fraction:** [Castello](/it/units/Fraction Castello)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Rianima le unità morte, ripristinandone i PF e infliggendo danni ingenti.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 5431.0
 
  **Base ATK:** 792.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
 
+## Emblemi sacri consigliati
+
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Profeta verde](/it/Emblem/Green Prophet/) - Bontà
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: Condanna
- **Description:** <span style="color: #645252;font-size:20px">L'Angelo infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Resurrezione
- **Description:** <span style="color: #645252;font-size:20px">L'Angelo rianima 1 delle tue unità, curando </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo rianima 1 delle tue unità, curando </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF.</span><span style="color: black">
 
 ### Tecnica normale 2 : Splendore
- **Description:** <span style="color: #645252;font-size:20px">Se l'Angelo è sul campo di battaglia, tutte le unità alleate ottengono rigenerazione extra dei PF ogni 2 secondi, pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se l'Angelo è sul campo di battaglia, tutte le unità alleate ottengono rigenerazione extra dei PF ogni 2 secondi, pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi.</span><span style="color: black">
 
 ### Tecnica normale 3 : Cecchino implacabile
- **Description:** <span style="color: #645252;font-size:20px">L'Angelo gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN aumentato del 10%. Quando affronta la fazione Inferno, i danni dell'Angelo aumentano del 50%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN aumentato del 10%. Quando affronta la fazione Inferno, i danni dell'Angelo aumentano del 50%.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Assedio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero difensivo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Castello (Roster Castello)
+* Attacco (Roster unità d'attacco)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Trinità
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Condanna&gt;</span><span style="color: #645252;font-size:18px">: aumenta ulteriormente del 10% la Rid DAN di 3 unità alleate casuali fino al termine della battaglia</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Condanna&gt;</span><span style="color: #645252;font-size:18px">: aumenta ulteriormente del 10% la Rid DAN di 3 unità alleate casuali fino al termine della battaglia</span>
 
 ### 2nd Skill (or 1st): Ritorno
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Condanna&gt;</span><span style="color: #645252;font-size:18px">: ripristina il 15% dei PF massimi dell'unità con la percentuale di PF minore.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Condanna&gt;</span><span style="color: #645252;font-size:18px">: ripristina il 15% dei PF massimi dell'unità con la percentuale di PF minore.</span>
 
 ### 3rd Skill (or 4th): Salvezza
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: rende le unità alleate immuni a ogni danno per 6 secondi. L'Angelo è immune al &lt;Silenzio&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: rende le unità alleate immuni a ogni danno per 6 secondi. L'Angelo è immune al &lt;Silenzio&gt;.</span>
 
 ### 4th Skill (or 3rd): Immersione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: ripristina il 10% dei PF massimi di tutte le unità alleate. L'Angelo è immune al &lt;Silenzio&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: ripristina il 10% dei PF massimi di tutte le unità alleate. L'Angelo è immune al &lt;Silenzio&gt;.</span>
 
 ### 5th Skill (or 6th): Vangelo
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Splendore&gt;</span><span style="color: #645252;font-size:18px">: se l'Angelo è sul campo di battaglia, aumenta del 35% la guarigione di tutte le unità alleate.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Splendore&gt;</span><span style="color: #645252;font-size:18px">: se l'Angelo è sul campo di battaglia, aumenta del 35% la guarigione di tutte le unità alleate.</span>
 
 ### 6th Skill (or 5th): Consacrazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Splendore&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta del 10% la Rid DAN di tutte le unità alleate.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Splendore&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta del 10% la Rid DAN di tutte le unità alleate.</span>
 
 ## Technical info
  **runart:** 1

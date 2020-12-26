@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
 
+## Recommended Holy Emblems
+
+* [Griffin Wings](/Emblem/Griffin Wings/) - Order
+* [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) - Neutral
+* [Arrogance](/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimate Skill: Deadly Arrow
  **Description:** <span style="color: #645252;font-size:20px">Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+100)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.05+0.75)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP if a Crit Hit is landed. Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*4+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units on the same path every 5s, and decreases their DEF by 10% for 15s, up to 3 stacks</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Faction Special Skill II : Pirate Conflict
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevance
+### Roster Connection
+
+* Cove (Cove Rosters)
+* Ranged (Ranged Roster)
+
+### Hero Bonus
 
 ## Talent
 

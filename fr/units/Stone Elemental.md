@@ -3,7 +3,7 @@ title: "Élémentaire de pierre"
 permalink: /fr/units/Stone Elemental/
 excerpt: "Unités L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre."
 unitID: 905
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Élémentaire de pierre"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** L'Élémentaire de pierre est le résultat de la fusion de plusieurs minéraux, et a été créé à partir d'un processus géologique. Il se divise en plusieurs Élémentaires de pierre inférieurs, qui continuent à se battre.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Conflux](/fr/units/Fraction Conflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Étourdit tout le monde à portée. Lance Crachat mortel. Possède une résistance élevée.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2825.0
 
  **Base ATK:** 121.0
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 21.78 | 0.38 | 8.0 | 508.5 |
   | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
 
+## Emblèmes sacrés recommandés
+
+* [Bénédiction de la reine](/fr/Emblem/Queen's Blessing/) - Ordre
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Luxure](/fr/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Capacité ultime: Rochers brisés
  **Description:** <span style="color: #645252;font-size:20px">L'Élémentaire de pierre se sépare en deux Élémentaires de pierre inférieurs à sa mort. L'Élémentaire de pierre inférieur a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+17)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> en ATQ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*120+880)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, et demeure pendant toute la durée de la bataille.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit élémentaire
  **Description:** <span style="color: #645252;font-size:20px">Les unités du Conflux maîtrisent particulièrement bien les dégâts du Conflux. Lorsqu'elles affrontent des unités qui n'appartiennent pas au Conflux, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Conflux (Groupement - Conflux)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

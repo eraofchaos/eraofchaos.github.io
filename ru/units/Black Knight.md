@@ -3,17 +3,17 @@ title: "Черный рыцарь"
 permalink: /ru/units/Black Knight/
 excerpt: "Отряды На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Черный рыцарь"
 toc: true
 ---
 ## General information
- **Description:** На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути.
+ **Описание:** На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути.
 
- **Class:** Штурм
+ **Класс:** Штурм
 
- **Class Description:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** null
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 910.0
 
  **Base ATK:** 115.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Ум](/ru/Emblem/Witness/) - Добро
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+
 ## Skills
 ### Совершенное умение: Критическая схватка
- **Description:** <span style="color: #645252;font-size:20px">Черные рыцари наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Черные рыцари наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*45+855)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Смертельный штурм
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : Умения рыцаря
- **Description:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
 ### Обычное умение 3 : Ужасающее подавление
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Некрополь (Дозор отрядов Некрополя)
+* Штурмовой отряд (Дозор штурмовых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ползучая тьма
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Критическая схватка&gt;</span><span style="color: #645252;font-size:18px">: цель расширяется до 2 вражеских отрядов на большом расстоянии</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Критическая схватка&gt;</span><span style="color: #645252;font-size:18px">: цель расширяется до 2 вражеских отрядов на большом расстоянии</span>
 
 ### 2nd Skill (or 1st): Взрыв страха
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Критическая схватка&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается на 50%. Длительность увеличивается на 20 сек. в состоянии низкого боевого духа.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Критическая схватка&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается на 50%. Длительность увеличивается на 20 сек. в состоянии низкого боевого духа.</span>
 
 ### 3rd Skill (or 4th): Урожай жизни
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Смертельный штурм&gt;</span><span style="color: #645252;font-size:18px">: при уничтожении вражеского отряда восстанавливает ОЗ до 30% от максимума. Также дает иммунитет к магии на 7 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Смертельный штурм&gt;</span><span style="color: #645252;font-size:18px">: при уничтожении вражеского отряда восстанавливает ОЗ до 30% от максимума. Также дает иммунитет к магии на 7 сек.</span>
 
 ### 4th Skill (or 3rd): Призрачный щит
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Смертельный штурм&gt;</span><span style="color: #645252;font-size:18px">: при уничтожении вражеского отряда восстанавливает 80% сопротивления урону. Также дает иммунитет к магии на 7 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Смертельный штурм&gt;</span><span style="color: #645252;font-size:18px">: при уничтожении вражеского отряда восстанавливает 80% сопротивления урону. Также дает иммунитет к магии на 7 сек.</span>
 
 ### 5th Skill (or 6th): Абсолютный страх
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ужасающее подавление&gt;</span><span style="color: #645252;font-size:18px">: КРИТ. УРН возрастает на 50%, если вражеский отряд в состоянии низкого боевого духа.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающее подавление&gt;</span><span style="color: #645252;font-size:18px">: КРИТ. УРН возрастает на 50%, если вражеский отряд в состоянии низкого боевого духа.</span>
 
 ### 6th Skill (or 5th): Кровавая расправа
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ужасающее подавление&gt;</span><span style="color: #645252;font-size:18px">: высасывает еще 20% жизни, если цель в состоянии низкого боевого духа.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающее подавление&gt;</span><span style="color: #645252;font-size:18px">: высасывает еще 20% жизни, если цель в состоянии низкого боевого духа.</span>
 
 ## Technical info
  **runart:** 1

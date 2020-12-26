@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /fr/units/Revyaratan/
 excerpt: "Unités Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage."
 unitID: 9908
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Revyaratan"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Un monstre qui occupe les profondeurs de l'océan. Sa bouche immense semble tout dévorer sur son passage.
 
- **Class:** Offensive
+ **Classe:** Offensive
 
- **Class Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
+ **Classe Description:** Les unités offensives peuvent réduire la protection de leurs cibles. Cet effet n'est pas cumulable.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Inflige constamment de très lourds dégâts. Décourage les ennemis et dévore les corps pour potentiellement restaurer ses PV.
 
-## Basic stats
+## Stats de base
  **Base HP:** 7128.0
 
  **Base ATK:** 1267.1
@@ -57,6 +57,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 228.078 | 0.4 | 7.94 | 1283.04 |
   | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
 
+## Emblèmes sacrés recommandés
+
+* [Souffle du Roi Dragon](/fr/Emblem/Dragon King's Breath/) - Mauvais
+* [Prophétie brisée](/fr/Emblem/Broken Prophecy/) - Mauvais
+* [Envie](/fr/Emblem/Jealousy/) - Chaos
+
 ## Skills
 ### Capacité ultime: Mâchoire féroce
  **Description:** <span style="color: #645252;font-size:20px">Inflige des dégâts supplémentaires équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des PV max et </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+30} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts aux cibles toutes les 10 secondes tout en &lt;décourageant&gt; les unités ennemies situées sur la même ligne pour 4 secondes.</span><span style="color: black">
@@ -75,6 +81,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* Offensive (Groupement - Offensive)
+
+### Bonus de héros
 
 ## Talent
 

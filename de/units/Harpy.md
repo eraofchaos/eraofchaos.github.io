@@ -3,17 +3,17 @@ title: "Harpyie"
 permalink: /de/units/Harpy/
 excerpt: "Einheiten Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Harpyie"
 toc: true
 ---
 ## General information
- **Description:** Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt.
+ **Beschreibung:** Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt.
 
- **Class:** Ansturm
+ **Klasse:** Ansturm
 
- **Class Description:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
+ **Klasse Beschreibung:** Ansturm-Einheiten können Feinde in der hinteren Reihe angreifen und fügen Fernkampf- und Zauberer-Einheiten zusätzlichen Schaden zu.
 
  **Fraction:** [Dungeon](/de/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Mächtiger DPS. Setzt Bodeneinheiten unter Druck und bietet Verbündeten Angriffsmöglichkeiten.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
@@ -60,21 +60,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Schutzengel](/de/Emblem/Guardian Angel/) - Gut
+* [Neid](/de/Emblem/Jealousy/) - Chaos
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) - Böse
+
 ## Skills
 ### Ultimative Fähigkeit: Scharfe Harpyienkralle
- **Description:** <span style="color: #645252;font-size:20px">Wenn die Harpyie angegriffen wird, besteht eine Wahrscheinlichkeit, dass sie 3 Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Standardangriffe haben ebenfalls eine Chance, dies auszulösen.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn die Harpyie angegriffen wird, besteht eine Wahrscheinlichkeit, dass sie 3 Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Standardangriffe haben ebenfalls eine Chance, dies auszulösen.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Starke Unterdrückung
- **Description:** <span style="color: #645252;font-size:20px">Gegen Einheiten, die nicht fliegen können, wird der Angriff der Harpyie um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Gegen Einheiten, die nicht fliegen können, wird der Angriff der Harpyie um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Schrei des Zauberbrechers
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein gegnerischer Held einen Zauber wirkt, reduziert die Harpyie die Schadensreduzierung der Einheiten im selben Weg 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 3 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein gegnerischer Held einen Zauber wirkt, reduziert die Harpyie die Schadensreduzierung der Einheiten im selben Weg 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 3 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Zielen im Flug
- **Description:** <span style="color: #645252;font-size:20px">Kritischer Schaden der Harpyie steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Harpyie fügt <span style="color: #48b946;font-size:20px">„betäubten“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Zielen immer kritische Treffer zu.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Schaden der Harpyie steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Harpyie fügt <span style="color: #48b946;font-size:20px">„betäubten“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Zielen immer kritische Treffer zu.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit : Finsterer Konflikt
- **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Dungeon (Dungeon-Kader)
+* Ansturm (Ansturm-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -104,22 +118,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Speerform.-Durchm.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
 
 ### 5th Skill (or 6th): Infiltrationsstrat.
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
 
 ### 6th Skill (or 5th): Erschöpfungstaktik
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
 
 ## Technical info
  **runart:** 1

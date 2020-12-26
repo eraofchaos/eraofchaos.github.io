@@ -3,17 +3,17 @@ title: "Гарпия"
 permalink: /ru/units/Harpy/
 excerpt: "Отряды Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Гарпия"
 toc: true
 ---
 ## General information
- **Description:** Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим.
+ **Описание:** Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим.
 
- **Class:** Штурм
+ **Класс:** Штурм
 
- **Class Description:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Info:** Высокий УВС. Подавляет наземные отряды и создает возможности для атаки союзных отрядов.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 860.0
 
  **Base ATK:** 74.0
@@ -58,21 +58,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) - Добро
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) - Злой
+
 ## Skills
 ### Совершенное умение: Острый коготь гарпии
- **Description:** <span style="color: #645252;font-size:20px">Когда гарпии подвергаются атаке, они получают шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урон 3 отрядам. Шанс активации имеется и при обычной атаке.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда гарпии подвергаются атаке, они получают шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урон 3 отрядам. Шанс активации имеется и при обычной атаке.</span><span style="color: black">
 
 ### Обычное умение 1 : null
- **Description:** <span style="color: #645252;font-size:20px">В бою против нелетающего отряда гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против нелетающего отряда гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
 ### Обычное умение 2 : Крик разрушителя магии
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Гарпии гарантированно выполняют критические удары по <span style="color: #48b946;font-size:20px">оглушенным</span><span style="color: black"><span style="color: #645252;font-size:20px"> целям.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Гарпии гарантированно выполняют критические удары по <span style="color: #48b946;font-size:20px">оглушенным</span><span style="color: black"><span style="color: #645252;font-size:20px"> целям.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Подземелье (Дозор отрядов Подземелья)
+* Штурмовой отряд (Дозор штурмовых отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -102,22 +116,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лес копий: зачистка
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): Плотный строй
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): null
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
  **runart:** 1

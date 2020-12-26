@@ -3,17 +3,17 @@ title: "Eisengolem"
 permalink: /de/units/Iron Golem/
 excerpt: "Einheiten Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Eisengolem"
 toc: true
 ---
 ## General information
- **Description:** Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind.
+ **Beschreibung:** Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind.
 
- **Class:** Abwehr
+ **Klasse:** Abwehr
 
- **Class Description:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
+ **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
  **Fraction:** [Turm](/de/units/Fraction Turm)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Immun gegen Heldenzauber. Heldenzauber lösen Gesundheitswiederherstellung aus.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 24.3 | 0.35 | 8.0 | 460.08 |
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
+## Empfohlene Heilige Embleme
+
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) - Rechtschaffen
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) - Gut
+* [Wollust](/de/Emblem/Lust/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Metallresonanz
- **Description:** <span style="color: #645252;font-size:20px">Der Eisengolem öffnet ein Schutzfeld, das die Schadensreduzierung verbündeter Einheiten in sich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 30 % erhöht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Eisengolem öffnet ein Schutzfeld, das die Schadensreduzierung verbündeter Einheiten in sich </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 30 % erhöht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Stark
- **Description:** <span style="color: #645252;font-size:20px">Die LP des Eisengolems werden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht, seine Schadensreduzierung steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Eisengolems werden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht, seine Schadensreduzierung steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Eisenkörper
- **Description:** <span style="color: #645252;font-size:20px">Der Eisengolem ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein Eisengolem Zauberschaden durch einen Helden erleidet, steigt seine Magieresistenz </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 100 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Eisengolem ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein Eisengolem Zauberschaden durch einen Helden erleidet, steigt seine Magieresistenz </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang um 100 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Magisches Erwachen
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Eisengolem durch den Hilfszauber eines verbündeten Helden verstärkt wird, werden </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP wiederhergestellt. Außerdem steigt seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv, bis zu 3 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Eisengolem durch den Hilfszauber eines verbündeten Helden verstärkt wird, werden </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP wiederhergestellt. Außerdem steigt seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv, bis zu 3 Stapel.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Nüchterner Geist
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Explosive Energie
- **Description:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Turm (Turm-Kader)
+* Abwehr (Abwehr-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Sippenschutz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Metallresonanz&gt;</span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Die Schadensreduzierung von Turm-Einheiten wird um 10 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Metallresonanz&gt;</span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Die Schadensreduzierung von Turm-Einheiten wird um 10 % erhöht.</span>
 
 ### 2nd Skill (or 1st): Kriegerschutz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Metallresonanz&gt;</span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Der Effekt wirkt auch auf verbündete Offensiv-Einheiten.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Metallresonanz&gt;</span><span style="color: #645252;font-size:18px">Wird zu Beginn der Schlacht garantiert gewirkt. Der Effekt wirkt auch auf verbündete Offensiv-Einheiten.</span>
 
 ### 3rd Skill (or 4th): Antimagischer Körper
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Eisenkörper&gt;</span><span style="color: #645252;font-size:18px">Wenn der Eisengolem Schaden durch einen Heldenzauber erleidet, wird seine ABW 10 Sek. lang um 30 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Eisenkörper&gt;</span><span style="color: #645252;font-size:18px">Wenn der Eisengolem Schaden durch einen Heldenzauber erleidet, wird seine ABW 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Stahlgeschmiedeter Körper
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Eisenkörper&gt;</span><span style="color: #645252;font-size:18px">Die ABW des Eisengolems wird um 20 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Eisenkörper&gt;</span><span style="color: #645252;font-size:18px">Die ABW des Eisengolems wird um 20 % erhöht.</span>
 
 ### 5th Skill (or 6th): Mächtige Verstärkung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Die Regeneration von &lt;Magisches Erwachen&gt; wird um 30 % erhöht, die gestapelte Schadensreduzierung der Einheit um 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Die Regeneration von &lt;Magisches Erwachen&gt; wird um 30 % erhöht, die gestapelte Schadensreduzierung der Einheit um 30 %.</span>
 
 ### 6th Skill (or 5th): Sippenerwachen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Die ABW deiner Turm-Einheiten wird um 5 % erhöht. Der Effekt kann 3 Mal gestapelt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Die ABW deiner Turm-Einheiten wird um 5 % erhöht. Der Effekt kann 3 Mal gestapelt werden.</span>
 
 ## Technical info
  **runart:** 1

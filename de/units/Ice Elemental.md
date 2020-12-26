@@ -3,17 +3,17 @@ title: "Eiselementar"
 permalink: /de/units/Ice Elemental/
 excerpt: "Einheiten Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Eiselementar"
 toc: true
 ---
 ## General information
- **Description:** Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren.
+ **Beschreibung:** Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Konflux](/de/units/Fraction Konflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Kontroll-Magier, überzieht alles mit Eis, unterstützende Eismauer.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 744.0
 
  **Base ATK:** 111.0
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) - Neutral
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Eismauer
- **Description:** <span style="color: #645252;font-size:20px">Der Eiselementar beschwört eine Eismauer vor dem Ziel, die die Ziele in einer horizontalen Reihe mit hoher Reichweite <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„erstarren“</span><span style="color: black"><span style="color: #645252;font-size:20px"> lässt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Eiselementar beschwört eine Eismauer vor dem Ziel, die die Ziele in einer horizontalen Reihe mit hoher Reichweite <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„erstarren“</span><span style="color: black"><span style="color: #645252;font-size:20px"> lässt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Kalte Umarmung
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Eiselementars fügt dem Ziel mit einer gewissen Wahrscheinlichkeit 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verlangsamung“</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Darüber hinaus wird das Angriffstempo des Ziels 10 Sek. lang um <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert, bis 5 Stapel.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff des Eiselementars fügt dem Ziel mit einer gewissen Wahrscheinlichkeit 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verlangsamung“</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Darüber hinaus wird das Angriffstempo des Ziels 10 Sek. lang um <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert, bis 5 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Kraft der Elemente
- **Description:** <span style="color: #645252;font-size:20px">Solange der Eiselementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Schadensreduzierung gegen Wasserzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Schadensreduzierung gegen Wasserzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird die Manaregeneration des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange der Eiselementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Schadensreduzierung gegen Wasserzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Schadensreduzierung gegen Wasserzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird die Manaregeneration des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : null
- **Description:** 
+ **Beschreibung:** 
 
 ### Fraktions-Spezialfähigkeit I : Elementare Affinität
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Offensive Elemente
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Konflux (Konflux-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Frostmauer
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Eismauer&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Schadensreduzierung für Krit. Treffer bei getroffenen Zielen um zusätzliche 20 %. Ist das getroffene Ziel immun gegen Erstarren, wird es stattdessen 3 Sekunden lang mit Überanstrengung belegt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Eismauer&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Schadensreduzierung für Krit. Treffer bei getroffenen Zielen um zusätzliche 20 %. Ist das getroffene Ziel immun gegen Erstarren, wird es stattdessen 3 Sekunden lang mit Überanstrengung belegt.</span>
 
 ### 2nd Skill (or 1st): Eisgefängnis
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Eismauer&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) bei getroffenen Zielen um zusätzliche 20 %. Ist das getroffene Ziel immun gegen Erstarren, wird es stattdessen 3 Sekunden lang mit Verstummen belegt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Eismauer&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) bei getroffenen Zielen um zusätzliche 20 %. Ist das getroffene Ziel immun gegen Erstarren, wird es stattdessen 3 Sekunden lang mit Verstummen belegt.</span>
 
 ### 3rd Skill (or 4th): Elementarabwehr
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 7 Sekunden lang die Zähigkeit der Einheiten in der ersten Reihe um 100 und die LP um 50 %, wenn ein Held einen Wasserzauber wirkt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 7 Sekunden lang die Zähigkeit der Einheiten in der ersten Reihe um 100 und die LP um 50 %, wenn ein Held einen Wasserzauber wirkt.</span>
 
 ### 4th Skill (or 3rd): Elementarinvasion
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Wenn ein Held einen Wasserzauber wirkt, wird mit einer Wahrscheinlichkeit von 50 % &lt;Eisgriff&gt; auf eine zufällige gegnerische Einheit aus der hinteren Reihe gewirkt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Wenn ein Held einen Wasserzauber wirkt, wird mit einer Wahrscheinlichkeit von 50 % &lt;Eisgriff&gt; auf eine zufällige gegnerische Einheit aus der hinteren Reihe gewirkt.</span>
 
 ### 5th Skill (or 6th): Abkühlen
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Gefrierblock&gt;</span><span style="color: #645252;font-size:18px"> Steigert die Wirkungsdauer von &lt;Erstarren&gt; um 5 Sekunden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Gefrierblock&gt;</span><span style="color: #645252;font-size:18px"> Steigert die Wirkungsdauer von &lt;Erstarren&gt; um 5 Sekunden.</span>
 
 ### 6th Skill (or 5th): Festgefroren
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Gefrierblock&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit 7 Sekunden lang um weitere 20 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Gefrierblock&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit 7 Sekunden lang um weitere 20 %.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Dunkler Kämpe"
 permalink: /de/units/Dark Champion/
 excerpt: "Einheiten Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
 unitID: 309
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Dunkler Kämpe"
 toc: true
@@ -12,11 +12,11 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Description:** Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen.
+ **Beschreibung:** Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen.
 
- **Class:** Offensiv
+ **Klasse:** Offensiv
 
- **Class Description:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
+ **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
  **Fraction:** [Nekropolis](/de/units/Fraction Nekropolis)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Reduziert die gegnerische Moral. Verursacht hohen Schaden und kann Einheiten auf einen Streich töten. Macht Verbündete in der Domäne unbesiegbar.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 9504.0
 
  **Base ATK:** 1029.5
@@ -58,27 +58,41 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 185.31 | 0.64 | 5.3 | 1710.72 |
   | **6x** <i class="fas fa-star"/> | 205.9 | 0.66 | 5.94 | 1900.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) - Rechtschaffen
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Sichel des Schweigens
- **Description:** <span style="color: #645252;font-size:20px">Fügt dem Ziel alle 24 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden und zusätzlich Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP zu und verursacht 10 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Dunkle Kämpe stellt mit seinem Standardangriff </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seines ANG als LP wieder her.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Fügt dem Ziel alle 24 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden und zusätzlich Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP zu und verursacht 10 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Dunkle Kämpe stellt mit seinem Standardangriff </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seines ANG als LP wieder her.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Schicksalsende
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Dunkle Kämpe das Schlachtfeld betritt, werden Einheiten mit „Niedrige Moral“ ausgelöscht, wenn sie noch 5 % oder weniger LP haben. Wirkt alle 13 Sek. </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Fluch des Missgeschicks&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn der Dunkle Kämpe das Schlachtfeld betritt, werden Einheiten mit „Niedrige Moral“ ausgelöscht, wenn sie noch 5 % oder weniger LP haben. Wirkt alle 13 Sek. </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Fluch des Missgeschicks&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Düstere Gräber
- **Description:** <span style="color: #645252;font-size:20px">Wenn die LP des Ziels unter 40 % liegen, begräbt der Dunkle Kämpe es </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang unter einem Grabstein. Die begrabene Einheit verstummt und kann nicht geheilt werden; außerdem kann sie sich weder bewegen noch angreifen. Während der Wirkungsdauer wird der Schaden, den sie erleidet, auf 4 zufällige gegnerische Fernkampfeinheiten aufgeteilt. Solange der Grabstein besteht, erhalten alle verbündeten Nekropolis-Einheiten in Reichweite pro Sekunde </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP zurück. AKZ 28 Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn die LP des Ziels unter 40 % liegen, begräbt der Dunkle Kämpe es </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2.8}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang unter einem Grabstein. Die begrabene Einheit verstummt und kann nicht geheilt werden; außerdem kann sie sich weder bewegen noch angreifen. Während der Wirkungsdauer wird der Schaden, den sie erleidet, auf 4 zufällige gegnerische Fernkampfeinheiten aufgeteilt. Solange der Grabstein besteht, erhalten alle verbündeten Nekropolis-Einheiten in Reichweite pro Sekunde </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP zurück. AKZ 28 Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Knochenkönig
- **Description:** <span style="color: #645252;font-size:20px">Der Schaden der Einheit wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die LP, die durch Schicksalsende regeneriert werden, steigen um zusätzliche 4 % pro Nekropolis-Einheit auf dem Schlachtfeld sowie um zusätzliche 1 % für jede Einheit, die die Nekropolis beschwört. Der Bonus auf Schicksalsende ist auf bis zu 25 % stapelbar. Wenn eine verbündete Einheit einen Erdzauber wirkt, wird die AKZ eines zufälligen Zaubers um 4 Sek. reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schaden der Einheit wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die LP, die durch Schicksalsende regeneriert werden, steigen um zusätzliche 4 % pro Nekropolis-Einheit auf dem Schlachtfeld sowie um zusätzliche 1 % für jede Einheit, die die Nekropolis beschwört. Der Bonus auf Schicksalsende ist auf bis zu 25 % stapelbar. Wenn eine verbündete Einheit einen Erdzauber wirkt, wird die AKZ eines zufälligen Zaubers um 4 Sek. reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Ihr Schaden wird um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht gegen Einheiten mit „Niedrige Moral“.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Magische Harmonie
- **Description:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten dominieren mit ihren Zaubern. Solange sie auf dem Schlachtfeld sind, wird die Magieresistenz gegnerischer Einheiten reduziert um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)} %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 6 : Stiller Friedhof
- **Description:** <span style="color: #645252;font-size:20px">Wenn 3 Nekropolis-Einheiten eingesetzt sind, werden Angriffstempo des Dunklen Kämpen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Wenn &lt;Fluch des Missgeschicks&gt; gewirkt wird, wird 15 Sek. lang ein </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Stiller Friedhof&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> enthüllt. Der Wirkungsbereich steigt mit der Fähigkeitsstufe, AKZ 30 Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn 3 Nekropolis-Einheiten eingesetzt sind, werden Angriffstempo des Dunklen Kämpen um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und sein Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Wenn &lt;Fluch des Missgeschicks&gt; gewirkt wird, wird 15 Sek. lang ein </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Stiller Friedhof&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> enthüllt. Der Wirkungsbereich steigt mit der Fähigkeitsstufe, AKZ 30 Sek.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Nekropolis (Nekropolis-Kader)
+* Offensiv (Offensiv-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Angst&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung der Zieleinheit um zusätzliche 20 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Angst&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung der Zieleinheit um zusätzliche 20 %.</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Angst&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten in einem großen Bereich zusätzlich um 10 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Angst&gt;</span><span style="color: #645252;font-size:18px">Reduziert die Schadensreduzierung gegnerischer Einheiten in einem großen Bereich zusätzlich um 10 %.</span>
 
 ### 3rd Skill (or 4th): Verkrüppelnder Schlag
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schmetterrolle&gt;</span><span style="color: #645252;font-size:18px">Reduziert die ABW um 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schmetterrolle&gt;</span><span style="color: #645252;font-size:18px">Reduziert die ABW um 30 %.</span>
 
 ### 4th Skill (or 3rd): Dunkles Verbot
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schmetterrolle&gt;</span><span style="color: #645252;font-size:18px">Die Reichweite von &lt;Stille&gt; wird ausgeweitet auf alle gegnerischen Einheiten in einem bestimmten Bereich.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schmetterrolle&gt;</span><span style="color: #645252;font-size:18px">Die Reichweite von &lt;Stille&gt; wird ausgeweitet auf alle gegnerischen Einheiten in einem bestimmten Bereich.</span>
 
 ### 5th Skill (or 6th): Geisterhafte Umarmung
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Altern&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Altern&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 6th Skill (or 5th): Fluch des Alterns
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Altern&gt;</span><span style="color: #645252;font-size:18px">Gegnerische Einheiten in einem bestimmten Radius um den Knochendrachen erleiden Schaden in Höhe von 200 % des Schadens der vorherigen Fähigkeit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Altern&gt;</span><span style="color: #645252;font-size:18px">Gegnerische Einheiten in einem bestimmten Radius um den Knochendrachen erleiden Schaden in Höhe von 200 % des Schadens der vorherigen Fähigkeit.</span>
 
 ## Technical info
  **runart:** 1

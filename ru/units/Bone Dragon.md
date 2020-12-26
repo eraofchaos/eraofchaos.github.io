@@ -3,17 +3,17 @@ title: "Костяной дракон"
 permalink: /ru/units/Bone Dragon/
 excerpt: "Отряды В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Костяной дракон"
 toc: true
 ---
 ## General information
- **Description:** В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам.
+ **Описание:** В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам.
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Уменьшает защиту всех врагов на поле боя. Обладает способностью прорывать линию обороны врага.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 5770.0
 
  **Base ATK:** 758.0
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: Страх
- **Description:** <span style="color: #645252;font-size:20px">Костяные драконы накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на вражеские отряды в широком радиусе каждые </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и отнимают 20% от их сопротивления урону на 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Костяные драконы накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на вражеские отряды в широком радиусе каждые </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и отнимают 20% от их сопротивления урону на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Стремительный перекат
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у костяных драконов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у костяных драконов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Пробивание
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">При появлении костяных драконов на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их сопротивления урону. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При появлении костяных драконов на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их сопротивления урону. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
- **Description:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Некрополь (Дозор отрядов Некрополя)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление цели урону снижается дополнительно на 20%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление цели урону снижается дополнительно на 20%</span>
 
 ### 2nd Skill (or 1st): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление вражеских отрядов урону в большой области снижается на 10%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление вражеских отрядов урону в большой области снижается на 10%</span>
 
 ### 3rd Skill (or 4th): Истощающий удар
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: ЗЩТ снижается на 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: ЗЩТ снижается на 30%</span>
 
 ### 4th Skill (or 3rd): Темный запрет
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: немота поражает все вражеские отряды в определенной области</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: немота поражает все вражеские отряды в определенной области</span>
 
 ### 5th Skill (or 6th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 6th Skill (or 5th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: вражеские отряды в определенной области вокруг костяного дракона получают урон, повышенный до 200% от урона предыдущего умения</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: вражеские отряды в определенной области вокруг костяного дракона получают урон, повышенный до 200% от урона предыдущего умения</span>
 
 ## Technical info
  **runart:** 1

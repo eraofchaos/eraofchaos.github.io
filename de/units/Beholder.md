@@ -3,17 +3,17 @@ title: "Betrachter"
 permalink: /de/units/Beholder/
 excerpt: "Einheiten Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Betrachter"
 toc: true
 ---
 ## General information
- **Description:** Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener.
+ **Beschreibung:** Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Dungeon](/de/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Unglaubliche Eröffnung. Schwächt Feinde zu Beginn, um den Sieg zu erleichtern.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
@@ -59,21 +59,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
+## Empfohlene Heilige Embleme
+
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Zorn](/de/Emblem/Anger/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Gedankenkontrolle
- **Description:** <span style="color: #645252;font-size:20px">Der Betrachter übernimmt die Kontrolle über 1 zufällige gegnerische Einheit. Das Ziel erleidet 8 Sek. lang Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP. Solange eine Einheit kontrolliert wird, kann sie weder angreifen noch sich bewegen oder Fähigkeiten wirken.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Betrachter übernimmt die Kontrolle über 1 zufällige gegnerische Einheit. Das Ziel erleidet 8 Sek. lang Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP. Solange eine Einheit kontrolliert wird, kann sie weder angreifen noch sich bewegen oder Fähigkeiten wirken.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Zauberdurchdringung
- **Description:** <span style="color: #645252;font-size:20px">Wenn der Betrachter das Schlachtfeld betritt, öffnet er seine 4 Augen des Todes. Jedes Auge erhöht den Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jedes getötete Ziel wird ein Auge des Todes geschlossen, ein Auge bleibt jedoch mindestens offen.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn der Betrachter das Schlachtfeld betritt, öffnet er seine 4 Augen des Todes. Jedes Auge erhöht den Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jedes getötete Ziel wird ein Auge des Todes geschlossen, ein Auge bleibt jedoch mindestens offen.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Kraftlosigkeit
- **Description:** <span style="color: #645252;font-size:20px">Solange sich ein Betrachter auf dem Schlachtfeld befindet, sinkt das Anfangsmana gegnerischer Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jedes Mal, wenn eine gegnerische Einheit stirbt, verlieren gegnerische Helden weitere 10 Mana.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange sich ein Betrachter auf dem Schlachtfeld befindet, sinkt das Anfangsmana gegnerischer Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Jedes Mal, wenn eine gegnerische Einheit stirbt, verlieren gegnerische Helden weitere 10 Mana.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Energie sammeln
- **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht der Betrachter die LP deiner Einheiten in hohem Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht der Betrachter die LP deiner Einheiten in hohem Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit : Finsterer Konflikt
- **Description:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Dungeon (Dungeon-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Mana-Schlag
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Der Betrachter öffnet 4 weitere Augen. Wenn er eine Zieleinheit tötet, schließt er 2 Augen. Er schließt höchstens 6 Augen.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Der Betrachter öffnet 4 weitere Augen. Wenn er eine Zieleinheit tötet, schließt er 2 Augen. Er schließt höchstens 6 Augen.</span>
 
 ### 2nd Skill (or 1st): In den Abgrund
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Jedes Auge des Todes erhöht Schaden und Schadensreduzierung verbündeter Dungeon-Einheiten um 3 %. Für den Betrachter wird der Effekt verdoppelt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Zauberdurchdringung&gt;</span><span style="color: #645252;font-size:18px">Jedes Auge des Todes erhöht Schaden und Schadensreduzierung verbündeter Dungeon-Einheiten um 3 %. Für den Betrachter wird der Effekt verdoppelt.</span>
 
 ### 3rd Skill (or 4th): Dezimierte Zauberei
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraftlosigkeit&gt;</span><span style="color: #645252;font-size:18px">Die Mana-Regeneration gegnerischer Helden wird um 1 reduziert für jede gegnerische Einheit, die stirbt. Der Effekt kann zweimal ausgelöst werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraftlosigkeit&gt;</span><span style="color: #645252;font-size:18px">Die Mana-Regeneration gegnerischer Helden wird um 1 reduziert für jede gegnerische Einheit, die stirbt. Der Effekt kann zweimal ausgelöst werden.</span>
 
 ### 4th Skill (or 3rd): Geplünderte Zauberei
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraftlosigkeit&gt;</span><span style="color: #645252;font-size:18px">Das Mana gegnerischer Helden wird reduziert um 10 für jede gegnerische Einheit, die stirbt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraftlosigkeit&gt;</span><span style="color: #645252;font-size:18px">Das Mana gegnerischer Helden wird reduziert um 10 für jede gegnerische Einheit, die stirbt.</span>
 
 ### 5th Skill (or 6th): Schild des Zauberbrechers
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energie sammeln&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird erhöht auf 150 % des Effekts der vorherigen Fähigkeit. Erhöht die Schadensreduzierung der Einheit um 10 %. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energie sammeln&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird erhöht auf 150 % des Effekts der vorherigen Fähigkeit. Erhöht die Schadensreduzierung der Einheit um 10 %. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
 
 ### 6th Skill (or 5th): Widerhall des Exorzismus
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energie sammeln&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 150 % erhöht. Der Buff von &lt;Energie sammeln&gt; wirkt auf alle verbündeten Einheiten. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energie sammeln&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitseffekt wird auf 150 % erhöht. Der Buff von &lt;Energie sammeln&gt; wirkt auf alle verbündeten Einheiten. Erhöht Magieresistenz und Schadensreduzierung des Betrachters um 10 %, wenn ein gegnerischer Held einen Zauber wirkt.</span>
 
 ## Technical info
  **runart:** 0

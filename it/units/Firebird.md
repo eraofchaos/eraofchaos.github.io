@@ -3,17 +3,17 @@ title: "Rapace di fuoco"
 permalink: /it/units/Firebird/
 excerpt: "Unità Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Rapace di fuoco"
 toc: true
 ---
 ## General information
- **Description:** Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male.
+ **Descrizione:** Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Confluenza](/it/units/Fraction Confluenza)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Torna in vita, infligge terrificanti danni da Fuoco a chiunque si trovi sulla sua strada.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
+## Emblemi sacri consigliati
+
+* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) - Ordine
+* [Calamità del Re](/it/Emblem/King's Calamity/) - Malvagio
+
 ## Skills
 ### Tecnica suprema: Soffio infuocato
- **Description:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco devasta le unità nemiche in un'ampia area di fronte a sé, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN. Se affronta unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il CRIT aumenta di 500.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco devasta le unità nemiche in un'ampia area di fronte a sé, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN. Se affronta unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, il CRIT aumenta di 500.</span><span style="color: black">
 
 ### Tecnica normale 1 : Lingua fiammeggiante
- **Description:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base del Rapace di fuoco infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ad area a 3 unità nemiche.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando affronta unità da 9 membri, gli attacchi base del Rapace di fuoco infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> DAN ad area a 3 unità nemiche.</span><span style="color: black">
 
 ### Tecnica normale 2 : Resurrezione
- **Description:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco torna in vita 5 secondi dopo essere stato sconfitto per la prima volta, recuperando </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco torna in vita 5 secondi dopo essere stato sconfitto per la prima volta, recuperando </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF.</span><span style="color: black">
 
 ### Tecnica normale 3 : Potenziamento di fuoco
- **Description:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco è immune alla </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e gode di DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Rapace di fuoco è immune alla </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e gode di DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Affinità elementale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto elementale
- **Description:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Confluenza (Roster Confluenza)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fiamma eterna
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: resuscita dopo ogni morte (recupero: 20 secondi).</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: resuscita dopo ogni morte (recupero: 20 secondi).</span>
 
 ### 2nd Skill (or 1st): Tempesta infinita
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: dopo la resurrezione, infligge danni pari all'8% dei PF massimi a tutte le unità nemiche e causa &lt;Combustione&gt; per 15 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Resurrezione&gt;</span><span style="color: #645252;font-size:18px">: dopo la resurrezione, infligge danni pari all'8% dei PF massimi a tutte le unità nemiche e causa &lt;Combustione&gt; per 15 secondi.</span>
 
 ### 3rd Skill (or 4th): Croce devastante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Soffio infuocato&gt;</span><span style="color: #645252;font-size:18px">Infligge danni aggiuntivi ai nemici nella fila del bersaglio (i bersagli al centro della croce subiscono danni doppi).</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Soffio infuocato&gt;</span><span style="color: #645252;font-size:18px">Infligge danni aggiuntivi ai nemici nella fila del bersaglio (i bersagli al centro della croce subiscono danni doppi).</span>
 
 ### 4th Skill (or 3rd): Soffio di lava
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Soffio infuocato&gt;</span><span style="color: #645252;font-size:18px">: danno aumentato al 200%</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Soffio infuocato&gt;</span><span style="color: #645252;font-size:18px">: danno aumentato al 200%</span>
 
 ### 5th Skill (or 6th): Furia infinita
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Potenziamento Fuoco&gt;</span><span style="color: #645252;font-size:18px">: danno unità aumentato del 30%</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Potenziamento Fuoco&gt;</span><span style="color: #645252;font-size:18px">: danno unità aumentato del 30%</span>
 
 ### 6th Skill (or 5th): Fiammata intensa
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Potenziamento Fuoco&gt;</span><span style="color: #645252;font-size:18px">: infligge colpi critici garantiti ai bersagli affetti da &lt;Combustione&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Potenziamento Fuoco&gt;</span><span style="color: #645252;font-size:18px">: infligge colpi critici garantiti ai bersagli affetti da &lt;Combustione&gt;.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,17 +3,17 @@ title: "Троглодит"
 permalink: /ru/units/Troglodyte/
 excerpt: "Отряды Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась."
 unitID: 701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Троглодит"
 toc: true
 ---
 ## General information
- **Description:** Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась.
+ **Описание:** Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась.
 
- **Class:** Наступление
+ **Класс:** Наступление
 
- **Class Description:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Может использоваться как для защиты, так и для атаки. Наносит дополнительный урон отрядам под воздействием кровотечения.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 744.0
 
  **Base ATK:** 86.0
@@ -61,21 +61,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) - Нейтральный
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) - Нейтральный
+* [Ревность](/ru/Emblem/Jealousy/) - Хаос
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">Троглодиты наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Троглодиты наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Острота
- **Description:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
 
 ### Обычное умение 3 : Отравленное копье
- **Description:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Description:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* Подземелье (Дозор отрядов Подземелья)
+* Атакующий отряд (Дозор атакующих отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -105,22 +119,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: повышает урон на 50%, увеличивает скорость атаки на 30%. Длительность: 5 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: повышает урон на 50%, увеличивает скорость атаки на 30%. Длительность: 5 сек.</span>
 
 ### 2nd Skill (or 1st): Страшный лес копий
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: усиливает эффект оглушения на 50%, повышает защиту на 30%. Длительность: 5 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: усиливает эффект оглушения на 50%, повышает защиту на 30%. Длительность: 5 сек.</span>
 
 ### 3rd Skill (or 4th): Острое восприятие
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): Проницательность
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Острота&gt;</span><span style="color: #645252;font-size:18px">: время действия кровотечения на троглодитов сокращается до 1 сек., при получении эффекта кровотечения бойцы наносят вражескому отряду урон в размере 500% от АТК. АТК повышается на 15%. Длительность: 7 сек., восстановление: 15 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Острота&gt;</span><span style="color: #645252;font-size:18px">: время действия кровотечения на троглодитов сокращается до 1 сек., при получении эффекта кровотечения бойцы наносят вражескому отряду урон в размере 500% от АТК. АТК повышается на 15%. Длительность: 7 сек., восстановление: 15 сек.</span>
 
 ### 5th Skill (or 6th): Опасный яд
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Отравленное копье&gt;</span><span style="color: #645252;font-size:18px">: атака по отравленному отряду каждую секунду наносит продолжительный урон в размере 60% от АТК и снижает урон вражеского отряда на 15%. Длительность: 5 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Отравленное копье&gt;</span><span style="color: #645252;font-size:18px">: атака по отравленному отряду каждую секунду наносит продолжительный урон в размере 60% от АТК и снижает урон вражеского отряда на 15%. Длительность: 5 сек.</span>
 
 ### 6th Skill (or 5th): Смертоносная инфекция
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Отравленное копье&gt;</span><span style="color: #645252;font-size:18px">: атака по отравленному отряду каждую секунду наносит продолжительный урон в размере 60% от АТК и снижает сопротивление урону у вражеского отряда на 15%. Длительность: 5 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Отравленное копье&gt;</span><span style="color: #645252;font-size:18px">: атака по отравленному отряду каждую секунду наносит продолжительный урон в размере 60% от АТК и снижает сопротивление урону у вражеского отряда на 15%. Длительность: 5 сек.</span>
 
 ## Technical info
  **runart:** 1

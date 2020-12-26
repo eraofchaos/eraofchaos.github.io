@@ -3,17 +3,17 @@ title: "Grüner Drache"
 permalink: /de/units/Green Dragon/
 excerpt: "Einheiten Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Grüner Drache"
 toc: true
 ---
 ## General information
- **Description:** Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar.
+ **Beschreibung:** Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar.
 
- **Class:** Zauberer
+ **Klasse:** Zauberer
 
- **Class Description:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
+ **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
  **Fraction:** [Schutzwall](/de/units/Fraction Schutzwall)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Greift Truppen in der hinteren Reihe an, verursacht magischen Wasserschaden in einem großen Bereich.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 4525.0
 
  **Base ATK:** 1018.2
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
+## Empfohlene Heilige Embleme
+
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) - Rechtschaffen
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) - Neutral
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Giftflut
- **Description:** <span style="color: #645252;font-size:20px">Der Grüne Drache speit alle 30 Sek. frontal Gift mit hoher Reichweite und fügt allen nicht fliegenden gegnerischen Einheiten in Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Sein Schaden gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> ist erhöht um 50 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Grüne Drache speit alle 30 Sek. frontal Gift mit hoher Reichweite und fügt allen nicht fliegenden gegnerischen Einheiten in Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Sein Schaden gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> ist erhöht um 50 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Giftodem
- **Description:** <span style="color: #645252;font-size:20px">Wenn ein Einhorn eine 9-Mann-Einheit angreift, verursachen Standardangriffe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 Ziele.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Einhorn eine 9-Mann-Einheit angreift, verursachen Standardangriffe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Flächenschaden gegen 3 Ziele.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Grüne Drachenschuppe
- **Description:** <span style="color: #645252;font-size:20px">Der Grüne Drache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Schadensreduzierung aller verbündeten Einheiten gegen Wasserzauber steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Grüne Drache einen &lt;Schild&gt; erhält, steigt sein Angriffstempo 15 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jede eingesetzte Flugeinheit erhöht der Grüne Drache den Einheitenschaden um 3 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Grüne Drache ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blutung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die Schadensreduzierung aller verbündeten Einheiten gegen Wasserzauber steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Grüne Drache einen &lt;Schild&gt; erhält, steigt sein Angriffstempo 15 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Für jede eingesetzte Flugeinheit erhöht der Grüne Drache den Einheitenschaden um 3 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Verstärkung aus der Luft
- **Description:** <span style="color: #645252;font-size:20px">Der Grüne Drache fügt 3 Einheiten in der hinteren Reihe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> steigt der Schaden um 30 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Grüne Drache fügt 3 Einheiten in der hinteren Reihe </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Gegen Ziele mit dem Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Blutung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> steigt der Schaden um 30 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhige Robustheit
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind robust. Die Dauer von erlittener „Betäubung“ und „Versteinerungׅ“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Hasszeichen
- **Description:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schutzwall-Einheiten sind geborene Taktiker; Kritischer Treffer wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie Ziele mit „Verlangsamung“ oder „Blutung“ angreifen. Wenn das Ziel unter beiden Effekten leidet, wird der Effekt verdoppelt.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Schutzwall (Schutzwall-Kader)
+* Magie (Zauberer-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Phantomgift
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftflut&gt;</span><span style="color: #645252;font-size:18px">Wird jetzt alle 20 Sek. gewirkt. Reduziert die Heilung aller gegnerischen Einheiten, auf die Giftflut wirkt, um 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftflut&gt;</span><span style="color: #645252;font-size:18px">Wird jetzt alle 20 Sek. gewirkt. Reduziert die Heilung aller gegnerischen Einheiten, auf die Giftflut wirkt, um 30 %.</span>
 
 ### 2nd Skill (or 1st): Malaria
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Giftflut&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftflut&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeitenschaden wird auf 200 % des Schadens der vorherigen Fähigkeit erhöht.</span>
 
 ### 3rd Skill (or 4th): Antimagische Drachenschuppe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Grüne Drachenschuppe&gt;</span> <span style="color: #645252;font-size:18px">Erhöht Magieresistenz anstelle von Wasserschaden-Reduzierung. Für die ersten 30 Sekunden des Einsatzes von Goldener Drache erhalten verbündete Schutzwall- und Dungeon-Einheiten eine Erhöhung von 20 % für SCHD-Reduzierung (Einheit) und werden immun gegen Blutung.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grüne Drachenschuppe&gt;</span> <span style="color: #645252;font-size:18px">Erhöht Magieresistenz anstelle von Wasserschaden-Reduzierung. Für die ersten 30 Sekunden des Einsatzes von Goldener Drache erhalten verbündete Schutzwall- und Dungeon-Einheiten eine Erhöhung von 20 % für SCHD-Reduzierung (Einheit) und werden immun gegen Blutung.</span>
 
 ### 4th Skill (or 3rd): Natürliche Winde
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Grüne Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Erhöht Magieresistenz statt Wasserschaden-Reduzierung. Außerdem wird das Angriffstempo um 50 % des Angriffstempo-Bonus der vorherigen Fähigkeit erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grüne Drachenschuppe&gt;</span><span style="color: #645252;font-size:18px">Erhöht Magieresistenz statt Wasserschaden-Reduzierung. Außerdem wird das Angriffstempo um 50 % des Angriffstempo-Bonus der vorherigen Fähigkeit erhöht.</span>
 
 ### 5th Skill (or 6th): Wildheit des Himmels
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung aus der Luft&gt;</span><span style="color: #645252;font-size:18px">Wirkt im Gefecht Verstärkung aus der Luft, fügt Feinden Schaden zu und reduziert ihre Heilung 30 Sek. lang um 30 %.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung aus der Luft&gt;</span><span style="color: #645252;font-size:18px">Wirkt im Gefecht Verstärkung aus der Luft, fügt Feinden Schaden zu und reduziert ihre Heilung 30 Sek. lang um 30 %.</span>
 
 ### 6th Skill (or 5th): Obhut der Nymphe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung aus der Luft&gt;</span><span style="color: #645252;font-size:18px">Verleiht beim Wirken allen verbündeten Einheiten einen „Schild“, der Schaden in Höhe von 10 % der max. LP absorbiert.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung aus der Luft&gt;</span><span style="color: #645252;font-size:18px">Verleiht beim Wirken allen verbündeten Einheiten einen „Schild“, der Schaden in Höhe von 10 % der max. LP absorbiert.</span>
 
 ## Technical info
  **runart:** 0

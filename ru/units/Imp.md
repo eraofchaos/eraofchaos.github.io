@@ -3,17 +3,17 @@ title: "Бес"
 permalink: /ru/units/Imp/
 excerpt: "Отряды null"
 unitID: 501
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Бес"
 toc: true
 ---
 ## General information
- **Description:** null
+ **Описание:** null
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Может оживляться бесконечно. Оглушает врагов. Может получить усиление от порождения зла.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 1224.0
 
  **Base ATK:** 51.3
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.234 | 0.42 | 7.28 | 220.32 |
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) - Добро
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+* [Похоть](/ru/Emblem/Lust/) - Хаос
+
 ## Skills
 ### Совершенное умение: Импульс
- **Description:** <span style="color: #645252;font-size:20px">Когда бесы погибают, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> шанс воскреснуть с полным запасом ОЗ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда бесы погибают, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> шанс воскреснуть с полным запасом ОЗ.</span><span style="color: black">
 
 ### Обычное умение 1 : Карающий удар
- **Description:** <span style="color: #645252;font-size:20px">При обычной атаке у бесов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызвать </span><span style="color: black"><span style="color: #e07c44;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у бесов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызвать </span><span style="color: black"><span style="color: #e07c44;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Когда бесы уклоняются от урона врага, они с вероятностью 20% снижают ману вражеского героя на 5. Перезарядка этого умения - 5 сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Когда бесы уклоняются от урона врага, они с вероятностью 20% снижают ману вражеского героя на 5. Перезарядка этого умения - 5 сек. </span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 30%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 30%.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
- **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* null (Дозор отрядов Инферно)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Воля бездны
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Импульс&gt;</span><span style="color: #645252;font-size:18px">: смерть каждого беса с шансом 30% вызывает дьявола</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Импульс&gt;</span><span style="color: #645252;font-size:18px">: смерть каждого беса с шансом 30% вызывает дьявола</span>
 
 ### 2nd Skill (or 1st): Долгое тепло
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Импульс&gt;</span><span style="color: #645252;font-size:18px">: шанс воскрешения беса повышается до 200% от предыдущего умения. При гибели беса восстанавливается 2 ед. маны союзным героям</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Импульс&gt;</span><span style="color: #645252;font-size:18px">: шанс воскрешения беса повышается до 200% от предыдущего умения. При гибели беса восстанавливается 2 ед. маны союзным героям</span>
 
 ### 3rd Skill (or 4th): null
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Ловкость&gt;</span><span style="color: #645252;font-size:18px"> В течение 20 секунд после вступления в битву уклонение беса повышено на 2000 единиц.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ловкость&gt;</span><span style="color: #645252;font-size:18px"> В течение 20 секунд после вступления в битву уклонение беса повышено на 2000 единиц.</span>
 
 ### 4th Skill (or 3rd): Правила Инферно
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): Глубинное убежище
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): Агитация Инферно
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Слуга Инферно&gt;</span><span style="color: #645252;font-size:18px">: за каждого погибшего защита бесов повышается на 15%. Эффект длится в течение всего боя, складывается до 5 раз</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Слуга Инферно&gt;</span><span style="color: #645252;font-size:18px">: за каждого погибшего защита бесов повышается на 15%. Эффект длится в течение всего боя, складывается до 5 раз</span>
 
 ## Technical info
  **runart:** 1

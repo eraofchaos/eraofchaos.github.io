@@ -3,17 +3,17 @@ title: "Tiratore scelto"
 permalink: /it/units/Marksman/
 excerpt: "Unità I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Tiratore scelto"
 toc: true
 ---
 ## General information
- **Description:** I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche.
+ **Descrizione:** I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche.
 
- **Class:** A distanza
+ **Classe:** A distanza
 
- **Class Description:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
+ **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
  **Fraction:** [Castello](/it/units/Fraction Castello)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge danni istantanei devastanti e colpisce due volte. Efficace contro le unità di grandi dimensioni.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 438.4
 
  **Base ATK:** 85.3
@@ -61,24 +61,37 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+
 ## Skills
 ### Tecnica suprema: Freccia esplosiva
- **Description:** <span style="color: #645252;font-size:20px">I Tiratori scelti infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ai propri bersagli.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Tiratori scelti infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni ai propri bersagli.</span><span style="color: black">
 
 ### Tecnica normale 1 : Motivazione
- **Description:** <span style="color: #645252;font-size:20px">Aumenta l'ATT dei Tiratori scelti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Aumenta l'ATT dei Tiratori scelti (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 2 : Colpo doppio
- **Description:** <span style="color: #645252;font-size:20px">I Tiratori scelti hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di scoccare 2 frecce con un attacco base. La seconda freccia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Tiratori scelti hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di scoccare 2 frecce con un attacco base. La seconda freccia infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 3 : Ammazzadraghi
- **Description:** <span style="color: #645252;font-size:20px">Contro unità da 1 o 4 membri, il CRIT dei Tiratori scelti aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Contro unità da 1 o 4 membri, il CRIT dei Tiratori scelti aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Assedio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero difensivo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Castello (Roster Castello)
+* A distanza (Roster unità a distanza)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Freccia del Giudizio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Freccia esplosiva&gt;</span><span style="color: #645252;font-size:18px"> Infligge danni aggiuntivi pari al 40% del DAN di &lt;Freccia esplosiva&gt; a tutte le unità nemiche in un'ampia area e ne riduce la Rid DAN del 15% per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Freccia esplosiva&gt;</span><span style="color: #645252;font-size:18px"> Infligge danni aggiuntivi pari al 40% del DAN di &lt;Freccia esplosiva&gt; a tutte le unità nemiche in un'ampia area e ne riduce la Rid DAN del 15% per 10 secondi.</span>
 
 ### 2nd Skill (or 1st): Freccia della Giustizia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Freccia esplosiva&gt;</span><span style="color: #645252;font-size:18px"> Infligge danni aggiuntivi pari al 30% del DAN di &lt;Freccia esplosiva&gt; a due unità nemiche casuali e ne riduce il DAN del 15% per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Freccia esplosiva&gt;</span><span style="color: #645252;font-size:18px"> Infligge danni aggiuntivi pari al 30% del DAN di &lt;Freccia esplosiva&gt; a due unità nemiche casuali e ne riduce il DAN del 15% per 10 secondi.</span>
 
 ### 3rd Skill (or 4th): Guardia del Tempio
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px"> Quando gode di &lt;Morale alto&gt;, ottiene uno &lt;scudo&gt; pari al 10% dei PF massimi per 5 secondi. Cumulabile fino a 2 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px"> Quando gode di &lt;Morale alto&gt;, ottiene uno &lt;scudo&gt; pari al 10% dei PF massimi per 5 secondi. Cumulabile fino a 2 volte.</span>
 
 ### 4th Skill (or 3rd): Protezione sacra
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px"> Quando gode di &lt;Morale alto&gt;, Rid DAN e resistenza magica aumentano del 2% per 10 secondi. Cumulabile fino a 10 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px"> Quando gode di &lt;Morale alto&gt;, Rid DAN e resistenza magica aumentano del 2% per 10 secondi. Cumulabile fino a 10 volte.</span>
 
 ### 5th Skill (or 6th): Tecniche di tiro
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cacciatore di Draghi&gt;</span><span style="color: #645252;font-size:18px"> Quando affronta unità da 1 o 4 membri, aumenta il DAN CRIT del 10% e il CRIT di 100.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Cacciatore di Draghi&gt;</span><span style="color: #645252;font-size:18px"> Quando affronta unità da 1 o 4 membri, aumenta il DAN CRIT del 10% e il CRIT di 100.</span>
 
 ### 6th Skill (or 5th): Abilità da cecchino
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Cacciatore di Draghi&gt;</span><span style="color: #645252;font-size:18px"> Quando affronta unità da 1 o 4 membri, aumenta il DAN del 10% e la Perforazione di 100.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Cacciatore di Draghi&gt;</span><span style="color: #645252;font-size:18px"> Quando affronta unità da 1 o 4 membri, aumenta il DAN del 10% e la Perforazione di 100.</span>
 
 ## Technical info
  **runart:** 0

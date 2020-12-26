@@ -3,17 +3,17 @@ title: "Spadaccino"
 permalink: /it/units/Swordsman/
 excerpt: "Unità I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Spadaccino"
 toc: true
 ---
 ## General information
- **Description:** I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno.
+ **Descrizione:** I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Castello](/it/units/Fraction Castello)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge danni ingenti a inizio battaglia. Può colpire due volte e recuperare PF.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1324.0
 
  **Base ATK:** 54.6
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
 
+## Emblemi sacri consigliati
+
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) - Ordine
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+* [Avarizia](/it/Emblem/Greed/) - Caos
+
 ## Skills
 ### Tecnica suprema: null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 1 : Motivazione
- **Description:** <span style="color: #645252;font-size:20px">La Rid DAN degli Spadaccini aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Rid DAN degli Spadaccini aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 2 : Colpo doppio
- **Description:** <span style="color: #645252;font-size:20px">Gli Spadaccini hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Gli Spadaccini hanno </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di probabilità di attaccare 2 volte con un attacco base. Il secondo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni al bersaglio. La probabilità di attivare &lt;Colpo doppio&gt; aumenta del 100% contro i bersagli </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentati&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 3 : Salvezza
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base degli Spadaccini ha una probabilità elevata di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base degli Spadaccini ha una probabilità elevata di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Assedio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero difensivo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Castello (Roster Castello)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Scudo anti-magia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Protezione divina&gt;</span><span style="color: #645252;font-size:18px">: fornisce riduzione dei danni magici.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Protezione divina&gt;</span><span style="color: #645252;font-size:18px">: fornisce riduzione dei danni magici.</span>
 
 ### 2nd Skill (or 1st): Protezione sacra
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Protezione divina&gt;</span><span style="color: #645252;font-size:18px">: durata aumentata di 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Protezione divina&gt;</span><span style="color: #645252;font-size:18px">: durata aumentata di 10 secondi.</span>
 
 ### 3rd Skill (or 4th): Ispirazione al valore
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: immune al &lt;Morale basso&gt;. Effetto aumentato a 150% del valore della tecnica originale.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: immune al &lt;Morale basso&gt;. Effetto aumentato a 150% del valore della tecnica originale.</span>
 
 ### 4th Skill (or 3rd): Innalzami
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: diventa immune al &lt;Morale basso&gt;. Quando riceve &lt;Morale alto&gt;, aumenta per 10 secondi la Rid DAN delle unità alleate del 10% in un'ampia area.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: diventa immune al &lt;Morale basso&gt;. Quando riceve &lt;Morale alto&gt;, aumenta per 10 secondi la Rid DAN delle unità alleate del 10% in un'ampia area.</span>
 
 ### 5th Skill (or 6th): Luce salvifica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvezza&gt;</span><span style="color: #645252;font-size:18px">: rigenerazione dei PF aumentata a 200% del valore base.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Salvezza&gt;</span><span style="color: #645252;font-size:18px">: rigenerazione dei PF aumentata a 200% del valore base.</span>
 
 ### 6th Skill (or 5th): Un cuore possente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Salvezza&gt;</span><span style="color: #645252;font-size:18px">: lo Spadaccino è immune a &lt;Silenzio&gt;, &lt;Stordimento&gt; e &lt;Pietrificazione&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Salvezza&gt;</span><span style="color: #645252;font-size:18px">: lo Spadaccino è immune a &lt;Silenzio&gt;, &lt;Stordimento&gt; e &lt;Pietrificazione&gt;.</span>
 
 ## Technical info
  **runart:** 1

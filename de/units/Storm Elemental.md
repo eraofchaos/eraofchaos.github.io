@@ -3,17 +3,17 @@ title: "Sturmelementar"
 permalink: /de/units/Storm Elemental/
 excerpt: "Einheiten Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: de
 ref: "Sturmelementar"
 toc: true
 ---
 ## General information
- **Description:** Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer.
+ **Beschreibung:** Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer.
 
- **Class:** Fernkampf
+ **Klasse:** Fernkampf
 
- **Class Description:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
+ **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
  **Fraction:** [Konflux](/de/units/Fraction Konflux)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Statische Markierung, zusätzlicher Schaden, mehrere Angriffe auf ein Ziel.
 
-## Basic stats
+## Grundwerte
  **Base HP:** 662.0
 
  **Base ATK:** 99.2
@@ -56,24 +56,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
+## Empfohlene Heilige Embleme
+
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) - Rechtschaffen
+* [Greifenflügel](/de/Emblem/Griffin Wings/) - Rechtschaffen
+* [Hochmut](/de/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Ultimative Fähigkeit: Statische Markierung
- **Description:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht verursacht ein Sturmelementar </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> bei allen gegnerischen Einheiten in seinem Weg. Dauer </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht verursacht ein Sturmelementar </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> bei allen gegnerischen Einheiten in seinem Weg. Dauer </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Entfesselter Blitz
- **Description:** <span style="color: #645252;font-size:20px">Der Standardangriff des Sturmelementars wirkt mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> einen Blitzschlag auf das Ziel, der 300 % Schaden verursacht.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff des Sturmelementars wirkt mit einer Wahrscheinlichkeit von </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> einen Blitzschlag auf das Ziel, der 300 % Schaden verursacht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Kraft der Elemente
- **Description:** <span style="color: #645252;font-size:20px">Solange der Sturmelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Schadensreduzierung gegen Luftzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Schadensreduzierung gegen Luftzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange der Sturmelementar auf dem Schlachtfeld ist, wird für alle verbündeten Einheiten die Schadensreduzierung gegen Luftzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.8+5.7} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht und für alle gegnerischen Einheiten die Schadensreduzierung gegen Luftzauber um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.2+3.8} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert. Außerdem wird das Anfangsmana des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.7+9.3}</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Schock-Durchdringung
- **Description:** <span style="color: #645252;font-size:20px">Der Schaden des Sturmelementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die gegnerische Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> hat.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schaden des Sturmelementars steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9} %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die gegnerische Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> hat.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Elementare Affinität
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Offensive Elemente
- **Description:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevanz
+### Kaderverbindung
+
+* Konflux (Konflux-Kader)
+* Bogenschütze (Fernkampf-Kader)
+
+### Heldenbonus
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Schockkette
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Statische Markierung&gt;</span><span style="color: #645252;font-size:18px"> Zu Beginn der Schlacht wendet der Sturmelementar bei allen gegnerischen Einheiten Schock an.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Statische Markierung&gt;</span><span style="color: #645252;font-size:18px"> Zu Beginn der Schlacht wendet der Sturmelementar bei allen gegnerischen Einheiten Schock an.</span>
 
 ### 2nd Skill (or 1st): Blitzimpulse
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Statische Markierung&gt;</span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt alle 30 Sekunden &lt;Statische Markierung&gt;.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Statische Markierung&gt;</span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt alle 30 Sekunden &lt;Statische Markierung&gt;.</span>
 
 ### 3rd Skill (or 4th): Plasmafeld
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Entfesselter Blitz&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt die Auslösewahrscheinlichkeit der Fähigkeit.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Entfesselter Blitz&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt die Auslösewahrscheinlichkeit der Fähigkeit.</span>
 
 ### 4th Skill (or 3rd): Explosiver Blitz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Entfesselter Blitz&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt den Fähigkeitenschaden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Entfesselter Blitz&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt den Fähigkeitenschaden.</span>
 
 ### 5th Skill (or 6th): Konflux-Aura
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 10 Sekunden lang das Angriffstempo bei zwei zufälligen Einheiten der hinteren Reihe um 25 %, wenn ein Held einen Luftzauber wirkt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 10 Sekunden lang das Angriffstempo bei zwei zufälligen Einheiten der hinteren Reihe um 25 %, wenn ein Held einen Luftzauber wirkt.</span>
 
 ### 6th Skill (or 5th): Konflux-Explosion
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt garantiert 1 Mal &lt;Entfesselter Blitz&gt;, wenn ein Held einen Luftzauber wirkt, was Zieleinheiten Schaden in Höhe von 300 % des eigenen ANG zufügt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Der Sturmelementar wirkt garantiert 1 Mal &lt;Entfesselter Blitz&gt;, wenn ein Held einen Luftzauber wirkt, was Zieleinheiten Schaden in Höhe von 300 % des eigenen ANG zufügt.</span>
 
 ## Technical info
  **runart:** 0

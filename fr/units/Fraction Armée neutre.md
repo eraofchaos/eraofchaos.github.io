@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Armée neutre -  Units"
 permalink: /fr/units/Fraction Armée neutre/
 excerpt: "Fraction Armée neutre - List of Units in Era of Chaos"
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Fraction Armée neutre"
 toc: false

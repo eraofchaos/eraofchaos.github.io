@@ -3,17 +3,17 @@ title: "Pájaro Ígneo"
 permalink: /es/units/Firebird/
 excerpt: "Unidades El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Pájaro Ígneo"
 toc: true
 ---
 ## General information
- **Description:** El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire.
+ **Descripción:** El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire.
 
- **Class:** Lanzador
+ **Clase:** Lanzador
 
- **Class Description:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
+ **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
  **Fraction:** [Conflujo](/es/units/Fraction Conflujo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Puede revivir, inflige daño colosal de fuego a todos los objetivos en su camino.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 4525.0
 
  **Base ATK:** 848.5
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
+## Emblemas Sagrados recomendados
+
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) - Orden
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) - Orden
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) - Maligno
+
 ## Skills
 ### Habilidad definitiva: Aliento de llamas
- **Description:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo diezma a las unidades hostiles en una zona grande delante de él, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño. El golpe crítico aumenta en 500 contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo diezma a las unidades hostiles en una zona grande delante de él, lo que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño. El golpe crítico aumenta en 500 contra unidades con </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 1 : Lengua de fuego
- **Description:** <span style="color: #645252;font-size:20px">Cuando el Pájaro Ígneo se enfrenta a unidades de nueve, sus ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a 3 unidades hostiles.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando el Pájaro Ígneo se enfrenta a unidades de nueve, sus ataques normales infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño en área a 3 unidades hostiles.</span><span style="color: black">
 
 ### Habilidad normal 2 : Resurrección
- **Description:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo revive 5 s después de su primera muerte, lo que restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo revive 5 s después de su primera muerte, lo que restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV.</span><span style="color: black">
 
 ### Habilidad normal 3 : Impulso ígneo
- **Description:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su daño crítico aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Pájaro Ígneo es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su daño crítico aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Afinidad elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto elemental
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Conflujo (Lista de Conflujo)
+* Magia (Lista de unidades lanzadoras)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Llama eterna
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Renace tras su muerte cada vez (recarga de habilidad: 20 s)</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Renace tras su muerte cada vez (recarga de habilidad: 20 s)</span>
 
 ### 2nd Skill (or 1st):  Tormenta infinita
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrección&gt;</span><span style="color: #645252;font-size:18px">Tras revivir, inflige un 8% de los PV máximos en forma de daño a todas las unidades hostiles y las &lt;quema&gt; durante 15 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Resurrección&gt;</span><span style="color: #645252;font-size:18px">Tras revivir, inflige un 8% de los PV máximos en forma de daño a todas las unidades hostiles y las &lt;quema&gt; durante 15 s.</span>
 
 ### 3rd Skill (or 4th): Descarga de la cruz
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Flame Breath&gt;</span><span style="color: #645252;font-size:18px">Inflige daño adicional a los enemigos de la fila en la que esté el objetivo (los objetivos en el cruce reciben el doble de daño).</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flame Breath&gt;</span><span style="color: #645252;font-size:18px">Inflige daño adicional a los enemigos de la fila en la que esté el objetivo (los objetivos en el cruce reciben el doble de daño).</span>
 
 ### 4th Skill (or 3rd): Aliento de lava
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Aliento de Llamas&gt;</span><span style="color: #645252;font-size:18px">Daño aumentado al 200%.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Aliento de Llamas&gt;</span><span style="color: #645252;font-size:18px">Daño aumentado al 200%.</span>
 
 ### 5th Skill (or 6th): Rabia infinita
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fire Boost&gt;</span><span style="color: #645252;font-size:18px">Daño de la unidad: 30% adicional</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fire Boost&gt;</span><span style="color: #645252;font-size:18px">Daño de la unidad: 30% adicional</span>
 
 ### 6th Skill (or 5th): Llama intensificada
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulso Ígneo&gt;</span><span style="color: #645252;font-size:18px">Golpe crítico garantizado a los objetivos &lt;quemados&gt;.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Impulso Ígneo&gt;</span><span style="color: #645252;font-size:18px">Golpe crítico garantizado a los objetivos &lt;quemados&gt;.</span>
 
 ## Technical info
  **runart:** 0

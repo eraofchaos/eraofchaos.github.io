@@ -3,17 +3,17 @@ title: "Гог"
 permalink: /ru/units/Gog/
 excerpt: "Отряды Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Гог"
 toc: true
 ---
 ## General information
- **Description:** Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны.
+ **Описание:** Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны.
 
- **Class:** Заклинатель
+ **Класс:** Заклинатель
 
- **Class Description:** null
+ **Класс Описание:** null
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Наносит высокий урон от магии Огня по области.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 629.0
 
  **Base ATK:** 102.6
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
 
+## Рекомендуемые эмблемы святости
+
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) - Порядок
+* [Гордыня](/ru/Emblem/Arrogance/) - Хаос
+* [Королевская беда](/ru/Emblem/King's Calamity/) - Злой
+
 ## Skills
 ### Совершенное умение: null
- **Description:** <span style="color: #645252;font-size:20px">Гоги создают стену огня перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам, окруженным ею. Стена огня существует в течение 8 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гоги создают стену огня перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам, окруженным ею. Стена огня существует в течение 8 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Пылающий взрыв
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 2 : null
- **Description:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
 ### Обычное умение 3 : null
- **Description:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и +40% к сопротивлению урону от заклинаний магии Огня.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и +40% к сопротивлению урону от заклинаний магии Огня.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
- **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+
+## Значимость
+### Связь дозора
+
+* null (Дозор отрядов Инферно)
+* Заклинатель (Дозор отрядов заклинателей)
+
+### Бонус героя
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Запал
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена Огня&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Длительность эффекта увеличена на 4 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стена Огня&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Длительность эффекта увеличена на 4 сек.</span>
 
 ### 2nd Skill (or 1st): Поток огня
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Стена Огня&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Стена огня расширяется со временем</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стена Огня&gt;</span><span style="color: #645252;font-size:18px">: наносимый урон увеличивается до 150%. Стена огня расширяется со временем</span>
 
 ### 3rd Skill (or 4th): Раскаленное запрещенное заклинание
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Фантом огня&gt;</span><span style="color: #645252;font-size:18px">: урон, наносимый отрядом гогов, повышается на 10%. Бонус удваивается против горящих отрядов</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Фантом огня&gt;</span><span style="color: #645252;font-size:18px">: урон, наносимый отрядом гогов, повышается на 10%. Бонус удваивается против горящих отрядов</span>
 
 ### 4th Skill (or 3rd): Раскаленный глаз
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Фантом огня&gt;</span><span style="color: #645252;font-size:18px">: гог гарантированно наносит критический урон горящим отрядам</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Фантом огня&gt;</span><span style="color: #645252;font-size:18px">: гог гарантированно наносит критический урон горящим отрядам</span>
 
 ### 5th Skill (or 6th): Страж Инферно
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд Инферно на поле боя</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд Инферно на поле боя</span>
 
 ### 6th Skill (or 5th): Волшебная ткань
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд заклинателей на поле боя</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воспламенение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда гогов повышается на 5% за каждый отряд заклинателей на поле боя</span>
 
 ## Technical info
  **runart:** 0

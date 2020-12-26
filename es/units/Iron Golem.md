@@ -3,17 +3,17 @@ title: "Gólem de Hierro"
 permalink: /es/units/Iron Golem/
 excerpt: "Unidades Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia."
 unitID: 603
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: es
 ref: "Gólem de Hierro"
 toc: true
 ---
 ## General information
- **Description:** Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia.
+ **Descripción:** Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia.
 
- **Class:** Defensa
+ **Clase:** Defensa
 
- **Class Description:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
+ **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
  **Fraction:** [Torre](/es/units/Fraction Torre)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Inmune a los hechizos de Héroes. Los hechizos de Héroes activan su recuperación de vida.
 
-## Basic stats
+## Atributos básicos
  **Base HP:** 1850.0
 
  **Base ATK:** 151.4
@@ -60,24 +60,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 24.3 | 0.35 | 8.0 | 460.08 |
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
+## Emblemas Sagrados recomendados
+
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) - Orden
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) - Bien
+* [Lujuria](/es/Emblem/Lust/) - Caos
+
 ## Skills
 ### Habilidad definitiva: Resonancia metálica
- **Description:** <span style="color: #645252;font-size:20px">El Gólem de Hierro abre un velo, lo que aumenta la reducción de daño de las unidades amistosas en su interior un 30% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Gólem de Hierro abre un velo, lo que aumenta la reducción de daño de las unidades amistosas en su interior un 30% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Fuerte
- **Description:** <span style="color: #645252;font-size:20px">Aumenta los PV del Gólem de Hierro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Gólem de Hierro un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Cuerpo férreo
- **Description:** <span style="color: #645252;font-size:20px">El Gólem de Hierro es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando el Gólem de Hierro recibe daño de los hechizos de un Héroe, su resistencia mágica aumenta un 100% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Gólem de Hierro es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando el Gólem de Hierro recibe daño de los hechizos de un Héroe, su resistencia mágica aumenta un 100% durante </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Despertar mágico
- **Description:** <span style="color: #645252;font-size:20px">Cuando una unidad de Gólem de Hierro está amplificada por un hechizo de apoyo de un Héroe amistoso, restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos. Además, aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando una unidad de Gólem de Hierro está amplificada por un hechizo de apoyo de un Héroe amistoso, restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos. Además, aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 3 veces.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Mente sobria
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Torre saben resistir el silencio mejor. La duración de los efectos de &lt;silencio&gt; se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Dinamita de energía
- **Description:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Torre son expertas en la conversión de energía, lo que aumenta su daño crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Relevancia
+### Conexión de lista
+
+* Torre (Lista de Torre)
+* Defensa (Lista de unidades defensivas)
+
+### Bonificación de Héroe
 
 ## Talent
 
@@ -107,22 +121,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Protección de misma familia
- **Description:** La <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px"> se lanza al entablar combate. Aumenta un 10% la reducción de daño de la unidades de Torre.</span>
+ **Descripción:** La <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px"> se lanza al entablar combate. Aumenta un 10% la reducción de daño de la unidades de Torre.</span>
 
 ### 2nd Skill (or 1st): Protección de guerrero
- **Description:** <span style="color: #645252;font-size:18px">Al entablar combate, lanza </span><span style="color: #48b946;font-size:18px">&lt;Resonancia metálica&gt;</span><span style="color: #645252;font-size:18px">. Tiene efecto en todas las unidades ofensivas amistosas.</span>
+ **Descripción:** <span style="color: #645252;font-size:18px">Al entablar combate, lanza </span><span style="color: #48b946;font-size:18px">&lt;Resonancia metálica&gt;</span><span style="color: #645252;font-size:18px">. Tiene efecto en todas las unidades ofensivas amistosas.</span>
 
 ### 3rd Skill (or 4th): Cuerpo antimagia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Iron Body&gt;</span><span style="color: #645252;font-size:18px">Cuando el Gólem de Hierro reciba daño de hechizo de un Héroe, su DEF aumenta un 30% durante 10 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Iron Body&gt;</span><span style="color: #645252;font-size:18px">Cuando el Gólem de Hierro reciba daño de hechizo de un Héroe, su DEF aumenta un 30% durante 10 s.</span>
 
 ### 4th Skill (or 3rd): Cuerpo forjado de acero
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Iron Body&gt;</span><span style="color: #645252;font-size:18px"> aumenta la DEF del Gólem de Hierro un 20%.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Iron Body&gt;</span><span style="color: #645252;font-size:18px"> aumenta la DEF del Gólem de Hierro un 20%.</span>
 
 ### 5th Skill (or 6th): Ejecución potente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">La regeneración otorgada por el Despertar mágico aumenta un 30% y aumenta la reducción de daño de las unidades juntas un 30%.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">La regeneración otorgada por el Despertar mágico aumenta un 30% y aumenta la reducción de daño de las unidades juntas un 30%.</span>
 
 ### 6th Skill (or 5th): Despertar de misma familia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF de las unidades de Torre un 5%. El efecto se acumula hasta 3 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Aumenta la DEF de las unidades de Torre un 5%. El efecto se acumula hasta 3 veces.</span>
 
 ## Technical info
  **runart:** 1

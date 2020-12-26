@@ -3,7 +3,7 @@ title: "Serpent de Regna"
 permalink: /fr/units/Regnan Serpent/
 excerpt: "Unités Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi."
 unitID: 9904
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Serpent de Regna"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Le servant le plus loyal au trône de la mer. Il utilise son pouvoir pour défendre la dignité de son roi.
 
- **Class:** Défense
+ **Classe:** Défense
 
- **Class Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
+ **Classe Description:** Les unités défensives peuvent résister aux attaques pendant plus longtemps et subissent moins de dégâts.
 
  **Fraction:** [Crique](/fr/units/Fraction Crique)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Excellent défenseur. Efficace pour décourager les ennemis. Réduit le taux de coups critiques.
 
-## Basic stats
+## Stats de base
  **Base HP:** 3027.0
 
  **Base ATK:** 100.9
@@ -59,6 +59,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
+## Emblèmes sacrés recommandés
+
+* [Roue du temps](/fr/Emblem/Gear of Time/) - Bonté
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Jeton d'Aksoe](/fr/Emblem/Aksoe Token/) - Neutre
+
 ## Skills
 ### Capacité ultime: null
  **Description:** 
@@ -77,6 +83,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Conflit de pirates
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Crique maîtrisent particulièrement bien les batailles navales. Lorsqu'elles combattent des unités qui n'appartiennent pas à la Crique, leurs dégâts augmentent de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)} %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Crique (Groupement - Crique)
+* Défense (Groupement - Défense)
+
+### Bonus de héros
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /fr/units/Assassin/
 excerpt: "Unités Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis."
 unitID: 9701
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Assassin"
 toc: true
@@ -11,9 +11,9 @@ toc: true
 ## General information
  **Description:** Nous agissons dans l'ombre pour servir la lumière. Rien n'est vrai, tout est permis.
 
- **Class:** Assaut
+ **Classe:** Assaut
 
- **Class Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
+ **Classe Description:** Les unités d'assaut attaquent les ennemis situés sur la ligne arrière, et infligent des dégâts supplémentaires aux unités à distance et aux Lanceurs de sorts.
 
  **Fraction:** [Armée neutre](/fr/units/Fraction Armée neutre)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Inflige des dégâts d'assassinat, affaiblit les soins, lance des couteaux et réduit les ennemis au silence.
 
-## Basic stats
+## Stats de base
  **Base HP:** 2119.0
 
  **Base ATK:** 269.0
@@ -55,6 +55,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
 
+## Emblèmes sacrés recommandés
+
+* [Feu ancien](/fr/Emblem/Ancient Fire/) - Ordre
+* [Secret éternel](/fr/Emblem/Everlasting Secret/) - Ordre
+* [Témoin](/fr/Emblem/Witness/) - Bonté
+
 ## Skills
 ### Capacité ultime: Assassinat
  **Description:** <span style="color: #645252;font-size:20px">Les Assassins entrent en mode </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px"> au début de la bataille, et perdent cet avantage à l'engagement. Lorsqu'un Assassin perd les effets de </span><span style="color: black"><span style="color: #48b946;font-size:20px">Furtivité</span><span style="color: black"><span style="color: #645252;font-size:20px">, il lance Brise-furtivité, une attaque qui inflige des dégâts équivalents à </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*20+100} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de son attaque et réduit les soins reçus de 30 %. Cet effet peut être activé une fois toutes les 10 secondes.</span><span style="color: black">
@@ -73,6 +79,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Bonus de courage
  **Description:** <span style="color: #645252;font-size:20px">Les unités neutres sont très résistantes. À chaque fois qu'elles perdent 10 % de leurs PV, leur </span><span style="color: black"><span style="color: #645252;font-size:20px">défense augmente de </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+2)} %.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Neutre (Groupement - Neutre)
+* Assaut (Groupement - Assaut)
+
+### Bonus de héros
 
 ## Talent
 

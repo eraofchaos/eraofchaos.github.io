@@ -3,17 +3,17 @@ title: "Berserker"
 permalink: /it/units/Berserker/
 excerpt: "Unità I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
 unitID: 408
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Berserker"
 toc: true
 ---
 ## General information
- **Description:** I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia.
+ **Descrizione:** I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia.
 
- **Class:** Attacco
+ **Classe:** Attacco
 
- **Class Description:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
+ **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
  **Fraction:** [Roccaforte](/it/units/Fraction Roccaforte)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** DPS elevati, efficace in ogni posizione.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 5317.0
 
  **Base ATK:** 678.8
@@ -59,24 +59,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
+## Emblemi sacri consigliati
+
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) - Ordine
+* [Invidia](/it/Emblem/Jealousy/) - Caos
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) - Malvagio
+
 ## Skills
 ### Tecnica suprema: null
- **Description:** 
+ **Descrizione:** 
 
 ### Tecnica normale 1 : Furia bellica
- **Description:** <span style="color: #645252;font-size:20px">L'ATT dei Berserker aumenta al ridursi dei loro PF (fino a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Ogni 20 secondi, i Berserker lanciano un urlo di guerra, ottenendo DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Impedimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche per 10 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'ATT dei Berserker aumenta al ridursi dei loro PF (fino a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Ogni 20 secondi, i Berserker lanciano un urlo di guerra, ottenendo DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e applicando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Impedimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità nemiche per 10 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Raptus
- **Description:** <span style="color: #645252;font-size:20px">I Berserker sono immuni a &lt;Pietrificazione&gt; e &lt;Stordimento&gt;. Vel ATT dei Berserker aumentata (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">). Effetto raddoppiato con PF inferiori al 35% (rimane attivo anche quando i PF vengono ripristinati).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Berserker sono immuni a &lt;Pietrificazione&gt; e &lt;Stordimento&gt;. Vel ATT dei Berserker aumentata (<span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black">). Effetto raddoppiato con PF inferiori al 35% (rimane attivo anche quando i PF vengono ripristinati).</span><span style="color: black">
 
 ### Tecnica normale 3 : Dio della Guerra immortale
- **Description:** <span style="color: #645252;font-size:20px">Per ogni unità Roccaforte extra schierata, i Berserker godono di danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando vengono sconfitti, i Berserker si trasformano in una Statua di Marte che aumenta il DAN delle unità Roccaforte alleate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e rigenera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei loro PF massimi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Per ogni unità Roccaforte extra schierata, i Berserker godono di danno aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando vengono sconfitti, i Berserker si trasformano in una Statua di Marte che aumenta il DAN delle unità Roccaforte alleate (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e rigenera </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei loro PF massimi.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Combattenti devoti
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte sono a proprio agio nelle battaglie più estenuanti. Per ogni 15% dei PF che perdono, la loro Vel ATT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Vitalità aumentata
- **Description:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Roccaforte conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Roccaforte (Roster Roccaforte)
+* Attacco (Roster unità d'attacco)
+
+### Bonus eroe
 
 ## Talent
 
@@ -106,22 +120,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ascia appesantita
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Danza impareggiabile&gt;</span><span style="color: #645252;font-size:18px">: il DAN di &lt;Danza impareggiabile&gt; basato sui PF massimi è raddoppiato. Quando l'effetto viene rimosso, infligge il 200% di danni extra.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Danza impareggiabile&gt;</span><span style="color: #645252;font-size:18px">: il DAN di &lt;Danza impareggiabile&gt; basato sui PF massimi è raddoppiato. Quando l'effetto viene rimosso, infligge il 200% di danni extra.</span>
 
 ### 2nd Skill (or 1st): Ascia sanguinaria
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Danza impareggiabile&gt;</span><span style="color: #645252;font-size:18px">: assorbimento dei Berserker aumentato del 20%. Quando l'effetto viene rimosso, infligge il 200% di danni extra.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Danza impareggiabile&gt;</span><span style="color: #645252;font-size:18px">: assorbimento dei Berserker aumentato del 20%. Quando l'effetto viene rimosso, infligge il 200% di danni extra.</span>
 
 ### 3rd Skill (or 4th): Furia infinita
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Furia bellica&gt;</span><span style="color: #645252;font-size:18px">: durata di &lt;Furia bellica&gt; aumentata di 15 secondi. Furia aumentata del 50%. DAN CRIT aumentato di un ulteriore 30%. Questo effetto non può essere rimosso.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Furia bellica&gt;</span><span style="color: #645252;font-size:18px">: durata di &lt;Furia bellica&gt; aumentata di 15 secondi. Furia aumentata del 50%. DAN CRIT aumentato di un ulteriore 30%. Questo effetto non può essere rimosso.</span>
 
 ### 4th Skill (or 3rd): Strage in battaglia
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Furia bellica&gt;</span><span style="color: #645252;font-size:18px">: grazie a &lt;Furia bellica&gt;, le unità Roccaforte alleate godono di DAN aumentato del 5% e Vel ATT aumentata del 10% per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Furia bellica&gt;</span><span style="color: #645252;font-size:18px">: grazie a &lt;Furia bellica&gt;, le unità Roccaforte alleate godono di DAN aumentato del 5% e Vel ATT aumentata del 10% per 10 secondi.</span>
 
 ### 5th Skill (or 6th): Benedizione del Dio della Guerra
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dio della Guerra immortale&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, evoca una Statua di Marte che ripristina l'1,5% dei PF massimi per 2 secondi e aumenta il danno delle unità Roccaforte umane dell'8%. La statua scompare quando i Berserker vengono sconfitti. Se la Statua di Marte è sul campo di battaglia, le unità nemiche sono affette da &lt;Impedimento&gt; per 6 secondi ogni 15 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dio della Guerra immortale&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, evoca una Statua di Marte che ripristina l'1,5% dei PF massimi per 2 secondi e aumenta il danno delle unità Roccaforte umane dell'8%. La statua scompare quando i Berserker vengono sconfitti. Se la Statua di Marte è sul campo di battaglia, le unità nemiche sono affette da &lt;Impedimento&gt; per 6 secondi ogni 15 secondi.</span>
 
 ### 6th Skill (or 5th): Statua gigante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dio della Guerra immortale&gt;</span><span style="color: #645252;font-size:18px">: l'effetto del buff della Statua di Marte aumenta del 50%. Se la Statua di Marte è sul campo di battaglia, le unità nemiche sono affette da &lt;Impedimento&gt; per 6 secondi ogni 15 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dio della Guerra immortale&gt;</span><span style="color: #645252;font-size:18px">: l'effetto del buff della Statua di Marte aumenta del 50%. Se la Statua di Marte è sul campo di battaglia, le unità nemiche sono affette da &lt;Impedimento&gt; per 6 secondi ogni 15 secondi.</span>
 
 ## Technical info
  **runart:** 1

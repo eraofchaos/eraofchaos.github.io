@@ -3,17 +3,17 @@ title: "Folletto"
 permalink: /it/units/Imp/
 excerpt: "Unità Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Folletto"
 toc: true
 ---
 ## General information
- **Description:** Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina.
+ **Descrizione:** Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Inferno](/it/units/Fraction Inferno)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Può risorgere infinite volte. Causa <Stordimento>. Può essere migliorato dal Demone dell'abisso.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 1224.0
 
  **Base ATK:** 51.3
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 9.234 | 0.42 | 7.28 | 220.32 |
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
 
+## Emblemi sacri consigliati
+
+* [Angelo custode](/it/Emblem/Guardian Angel/) - Bontà
+* [Ira](/it/Emblem/Anger/) - Caos
+* [Lussuria](/it/Emblem/Lust/) - Caos
+
 ## Skills
 ### Tecnica suprema: Impulso
- **Description:** <span style="color: #645252;font-size:20px">Quando un Folletto viene ucciso, ha una probabilità di tornare in vita con il massimo dei PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un Folletto viene ucciso, ha una probabilità di tornare in vita con il massimo dei PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 1 : Urto
- **Description:** <span style="color: #645252;font-size:20px">L'attacco base del Folletto ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli per 2 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base del Folletto ha una probabilità di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+135}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei danni e </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;stordire&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> i bersagli per 2 secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Agilità
- **Description:** <span style="color: #645252;font-size:20px">Schivata del Folletto aumentata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando il Folletto schiva un attacco, ha una probabilità del 20% di ridurre il mana dell'eroe nemico di 5. Questa tecnica ha un recupero di 5 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Schivata del Folletto aumentata di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+130)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando il Folletto schiva un attacco, ha una probabilità del 20% di ridurre il mana dell'eroe nemico di 5. Questa tecnica ha un recupero di 5 secondi.</span><span style="color: black">
 
 ### Tecnica normale 3 : Scagnozzo infernale
- **Description:** <span style="color: #645252;font-size:20px">PF del Folletto aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 30%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">PF del Folletto aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 30%.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Attacco ustionante
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno hanno il pieno controllo sul Fuoco. Quando affrontano unità affette da &lt;Combustione&gt; godono di CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN CRIT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero anti-incantesimo
- **Description:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Inferno sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro resistenza magica aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Inferno (Roster Inferno)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Volontà dell'abisso
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulso&gt;</span><span style="color: #645252;font-size:18px">: ciascun Folletto ha una probabilità del 30% di evocare un Diavolo quando viene sconfitto.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Impulso&gt;</span><span style="color: #645252;font-size:18px">: ciascun Folletto ha una probabilità del 30% di evocare un Diavolo quando viene sconfitto.</span>
 
 ### 2nd Skill (or 1st): Calore persistente
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Impulso&gt;</span><span style="color: #645252;font-size:18px">: probabilità di resurrezione del Folletto aumentata a 200% del valore della tecnica originale. Quando un Folletto viene sconfitto, gli eroi alleati recuperano 2 mana.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Impulso&gt;</span><span style="color: #645252;font-size:18px">: probabilità di resurrezione del Folletto aumentata a 200% del valore della tecnica originale. Quando un Folletto viene sconfitto, gli eroi alleati recuperano 2 mana.</span>
 
 ### 3rd Skill (or 4th): Saggezza maligna
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Agilità&gt;</span><span style="color: #645252;font-size:18px">: Schivata del Folletto aumentata di 2000 per 20 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Agilità&gt;</span><span style="color: #645252;font-size:18px">: Schivata del Folletto aumentata di 2000 per 20 secondi.</span>
 
 ### 4th Skill (or 3rd): Regole infernali
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Agilità&gt;</span><span style="color: #645252;font-size:18px">: aumenta di 200 la Schivata delle unità intorno al Folletto. Effetto raddoppiato per le unità Inferno.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Agilità&gt;</span><span style="color: #645252;font-size:18px">: aumenta di 200 la Schivata delle unità intorno al Folletto. Effetto raddoppiato per le unità Inferno.</span>
 
 ### 5th Skill (or 6th): Manicomio abissale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Scagnozzo infernale&gt;</span><span style="color: #645252;font-size:18px">: DIF del Folletto aumentata del 15%, più un ulteriore 4% per ogni unità Inferno schierata.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scagnozzo infernale&gt;</span><span style="color: #645252;font-size:18px">: DIF del Folletto aumentata del 15%, più un ulteriore 4% per ogni unità Inferno schierata.</span>
 
 ### 6th Skill (or 5th): Turbamento infernale
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Scagnozzo infernale&gt;</span><span style="color: #645252;font-size:18px">: per ciascun Folletto che viene sconfitto, aumenta la DIF del Folletto del 15%. L'effetto dura fino al termine della battaglia ed è cumulabile fino a 5 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scagnozzo infernale&gt;</span><span style="color: #645252;font-size:18px">: per ciascun Folletto che viene sconfitto, aumenta la DIF del Folletto del 15%. L'effetto dura fino al termine della battaglia ed è cumulabile fino a 5 volte.</span>
 
 ## Technical info
  **runart:** 1

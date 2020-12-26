@@ -3,17 +3,17 @@ title: "Osservatore"
 permalink: /it/units/Beholder/
 excerpt: "Unità Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Osservatore"
 toc: true
 ---
 ## General information
- **Description:** Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo.
+ **Descrizione:** Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo.
 
- **Class:** Incantatore
+ **Classe:** Incantatore
 
- **Class Description:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
+ **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
  **Fraction:** [Dungeon](/it/units/Fraction Dungeon)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Eccellente a inizio battaglia. Indebolisce i nemici per facilitare la tua vittoria.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 744.0
 
  **Base ATK:** 115.8
@@ -59,21 +59,35 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
+## Emblemi sacri consigliati
+
+* [Fuoco antico](/it/Emblem/Ancient Fire/) - Ordine
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) - Ordine
+* [Ira](/it/Emblem/Anger/) - Caos
+
 ## Skills
 ### Tecnica suprema: Controllo mentale
- **Description:** <span style="color: #645252;font-size:20px">L'Osservatore prende il controllo di 1 unità nemica casuale. Il bersaglio subisce danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi al secondo per 8 secondi. Finché dura &lt;Controllo mentale&gt;, il bersaglio non può attaccare, muoversi o usare tecniche.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Osservatore prende il controllo di 1 unità nemica casuale. Il bersaglio subisce danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF massimi al secondo per 8 secondi. Finché dura &lt;Controllo mentale&gt;, il bersaglio non può attaccare, muoversi o usare tecniche.</span><span style="color: black">
 
 ### Tecnica normale 1 : Incantesimo perforante
- **Description:** <span style="color: #645252;font-size:20px">Quando l'Osservatore entra in battaglia, apre i propri 4 Occhi della morte. Ogni Occhio ne aumenta il danno (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Per ogni bersaglio ucciso, l'Osservatore chiude 1 Occhio. L'Osservatore può chiudere un massimo di 3 Occhi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando l'Osservatore entra in battaglia, apre i propri 4 Occhi della morte. Ogni Occhio ne aumenta il danno (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Per ogni bersaglio ucciso, l'Osservatore chiude 1 Occhio. L'Osservatore può chiudere un massimo di 3 Occhi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Debilitazione
- **Description:** <span style="color: #645252;font-size:20px">Quando l'Osservatore è sul campo di battaglia, il mana iniziale degli eroi nemici è ridotto di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando un'unità nemica muore, riduce di 10 il mana degli eroi nemici.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando l'Osservatore è sul campo di battaglia, il mana iniziale degli eroi nemici è ridotto di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando un'unità nemica muore, riduce di 10 il mana degli eroi nemici.</span><span style="color: black">
 
 ### Tecnica normale 3 : Raccolta di energia
- **Description:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Osservatore aumenta i PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le tue unità in un'ampia area. L'effetto dura fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Osservatore aumenta i PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le tue unità in un'ampia area. L'effetto dura fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica speciale fazione : Conflitto oscuro
- **Description:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Dungeon (Roster Dungeon)
+* Incantatore (Roster incantatori)
+
+### Bonus eroe
 
 ## Talent
 
@@ -103,22 +117,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Colpo del mana
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: l'Osservatore apre 4 Occhi aggiuntivi. Quando uccide 1 unità bersaglio, ne chiude 2. Può chiudere un massimo di 6 Occhi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: l'Osservatore apre 4 Occhi aggiuntivi. Quando uccide 1 unità bersaglio, ne chiude 2. Può chiudere un massimo di 6 Occhi.</span>
 
 ### 2nd Skill (or 1st): Nell'abisso
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incantesimo perforante&gt;</span><span style="color: #645252;font-size:18px">: ciascun Occhio aumenta del 3% il DAN e la Rid DAN delle unità Dungeon alleate. Effetto raddoppiato per l'Osservatore.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incantesimo perforante&gt;</span><span style="color: #645252;font-size:18px">: ciascun Occhio aumenta del 3% il DAN e la Rid DAN delle unità Dungeon alleate. Effetto raddoppiato per l'Osservatore.</span>
 
 ### 3rd Skill (or 4th): Implosione magica
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Debilitazione&gt;</span><span style="color: #645252;font-size:18px">: la rigenerazione del mana degli eroi nemici è ridotta di 1 per ciascuna unità nemica che viene sconfitta. L'effetto può essere attivato 2 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Debilitazione&gt;</span><span style="color: #645252;font-size:18px">: la rigenerazione del mana degli eroi nemici è ridotta di 1 per ciascuna unità nemica che viene sconfitta. L'effetto può essere attivato 2 volte.</span>
 
 ### 4th Skill (or 3rd): Saccheggio magico
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Debilitazione&gt;</span><span style="color: #645252;font-size:18px">: il mana degli eroi nemici è ridotto di 10 per ciascuna unità nemica che viene sconfitta.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Debilitazione&gt;</span><span style="color: #645252;font-size:18px">: il mana degli eroi nemici è ridotto di 10 per ciascuna unità nemica che viene sconfitta.</span>
 
 ### 5th Skill (or 6th): Scudo dello Spezzaincantesimi
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raccolta di energia&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta la Rid DAN del 10%. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raccolta di energia&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale. Aumenta la Rid DAN del 10%. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore.</span>
 
 ### 6th Skill (or 5th): Esorcismo echeggiante
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Raccolta di energia&gt;</span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato a 150%. Il buff di &lt;Raccolta di energia&gt; si applica a tutte le unità alleate. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raccolta di energia&gt;</span><span style="color: #645252;font-size:18px">: effetto della tecnica aumentato a 150%. Il buff di &lt;Raccolta di energia&gt; si applica a tutte le unità alleate. Quando un eroe nemico lancia un incantesimo, aumenta del 10% resistenza magica e Rid DAN dell'Osservatore</span>
 
 ## Technical info
  **runart:** 0

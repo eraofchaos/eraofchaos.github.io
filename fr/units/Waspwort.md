@@ -3,7 +3,7 @@ title: "Guêpier"
 permalink: /fr/units/Waspwort/
 excerpt: "Unités Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet."
 unitID: 808
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: fr
 ref: "Guêpier"
 toc: true
@@ -14,9 +14,9 @@ toc: true
 ## General information
  **Description:** Une plante étrange qui pousse dans les marais toxiques. Les créatures ont horreur du bourdonnement strident qu'elle émet.
 
- **Class:** À distance
+ **Classe:** À distance
 
- **Class Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
+ **Classe Description:** Plus une unité à distance sera éloignée de sa cible, plus son attaque sera puissante.
 
  **Fraction:** [Forteresse](/fr/units/Fraction Forteresse)
 
@@ -28,7 +28,7 @@ toc: true
 
  **Info:** Unité de DPS efficace pour contrôler. Invoque des unités pour détruire les ennemis.
 
-## Basic stats
+## Stats de base
  **Base HP:** 5543.0
 
  **Base ATK:** 950.3
@@ -58,6 +58,12 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 171.054 | 0.6 | 6.56 | 997.74 |
   | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
 
+## Emblèmes sacrés recommandés
+
+* [Ailes de Griffon](/fr/Emblem/Griffin Wings/) - Ordre
+* [Clé en pierre](/fr/Emblem/Stone Key to the Gates/) - Neutre
+* [Orgueil](/fr/Emblem/Arrogance/) - Chaos
+
 ## Skills
 ### Capacité ultime: Aiguillon de pestilence
  **Description:** <span style="color: #645252;font-size:20px">Le Guêpier crache une pluie de dards empoisonnés toutes les 12 secondes, infligeant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+75)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de dégâts à la cible, ainsi que </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Peste&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> pendant 6 secondes. S'il inflige un coup critique lors d'une attaque normale, le Guêpier augmente sa vitesse d'ATQ de 5 % pour les 10 prochaines secondes. Cet effet peut se cumuler jusqu'à 20 fois.</span><span style="color: black">
@@ -76,6 +82,14 @@ toc: true
 
 ### Compétence spéciale de faction II : Essor de vitalité
  **Description:** <span style="color: #645252;font-size:20px">Les unités de la Forteresse sont rompues aux soins sur les champs de bataille, et augmentent leur régénération de PV (restaurant </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> PV toutes les 3 secondes) et reçoivent </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)} %</span><span style="color: black"><span style="color: #645252;font-size:20px"> de drain de vie.</span><span style="color: black">
+
+## Pertinence
+### Connexion de groupement
+
+* Forteresse (Groupement - Forteresse)
+* À distance (Groupement - À distance)
+
+### Bonus de héros
 
 ## Talent
 

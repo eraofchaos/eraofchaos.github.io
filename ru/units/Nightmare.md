@@ -3,17 +3,17 @@ title: "Unknown_TEAM_508"
 permalink: /ru/units/Nightmare/
 excerpt: "Отряды Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: ru
 ref: "Unknown_TEAM_508"
 toc: true
 ---
 ## General information
- **Description:** Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны.
+ **Описание:** Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны.
 
- **Class:** Защита
+ **Класс:** Защита
 
- **Class Description:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
  **Fraction:** [null](/ru/units/Fraction null)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Info:** Поддержка защиты. Делает отряды Инферно сильнее.
 
-## Basic stats
+## Базовые параметры
  **Base HP:** 2691.0
 
  **Base ATK:** 84.1
@@ -55,23 +55,37 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
+## Рекомендуемые эмблемы святости
+
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) - Порядок
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) - Порядок
+* [Гнев](/ru/Emblem/Anger/) - Хаос
+
 ## Skills
 ### Совершенное умение: Постоянный кошмар
- **Description:** <span style="color: #645252;font-size:20px">Каждые 30 сек. кошмары насылают проклятье, поджигая выбранный отряд на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Также в определенном радиусе от цели все вражеские отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к эффективности лечения на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Каждые 30 сек. кошмары насылают проклятье, поджигая выбранный отряд на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Также в определенном радиусе от цели все вражеские отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к эффективности лечения на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
 ### Обычное умение 1 : Ловец снов
- **Description:** <span style="color: #645252;font-size:20px">Кошмары получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Атакуемый вражеский отряд теряет 2% сопротивления отряда урону на 10 сек. Суммируется до 15 раз, нельзя рассеять. </span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Кошмары получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Атакуемый вражеский отряд теряет 2% сопротивления отряда урону на 10 сек. Суммируется до 15 раз, нельзя рассеять. </span><span style="color: black">
 
 ### Обычное умение 2 : null
- **Description:** 
+ **Описание:** 
 
 ### Обычное умение 3 : null
- **Description:** 
+ **Описание:** 
 
 ### Эксклюзивное умение фракции I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
+## Значимость
+### Связь дозора
+
+* null (Дозор отрядов Инферно)
+* Оборонительный отряд (Дозор оборонительных отрядов)
+
+### Бонус героя
+
 ## Talent
 
 * Атака
@@ -100,22 +114,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): 
- **Description:** 
+ **Описание:** 
 
 ### 2nd Skill (or 1st): 
- **Description:** 
+ **Описание:** 
 
 ### 3rd Skill (or 4th): 
- **Description:** 
+ **Описание:** 
 
 ### 4th Skill (or 3rd): null
- **Description:** 
+ **Описание:** 
 
 ### 5th Skill (or 6th): 
- **Description:** 
+ **Описание:** 
 
 ### 6th Skill (or 5th): 
- **Description:** 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

@@ -3,17 +3,17 @@ title: "Centauro"
 permalink: /it/units/Centaur/
 excerpt: "Unità I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione."
 unitID: 201
-last_modified_at: 2020-12-24
+last_modified_at: 2020-12-26
 lang: it
 ref: "Centauro"
 toc: true
 ---
 ## General information
- **Description:** I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione.
+ **Descrizione:** I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione.
 
- **Class:** Difesa
+ **Classe:** Difesa
 
- **Class Description:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
+ **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
  **Fraction:** [Baluardo](/it/units/Fraction Baluardo)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Info:** Infligge <Rallentamento> ai nemici nell'area. Più unità difensive sono presenti sul campo di battaglia, maggiore è il loro potere.
 
-## Basic stats
+## Statistiche base
  **Base HP:** 2691.0
 
  **Base ATK:** 111.0
@@ -61,24 +61,38 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
 
+## Emblemi sacri consigliati
+
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) - Bontà
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) - Neutrale
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) - Neutrale
+
 ## Skills
 ### Tecnica suprema: Schiacciata
- **Description:** <span style="color: #645252;font-size:20px">I Centauri infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a tutte le unità nemiche circostanti e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentano&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 sec.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Centauri infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a tutte le unità nemiche circostanti e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallentano&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Forza
- **Description:** <span style="color: #645252;font-size:20px">Il Centauro gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Centauro gode di PF aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 2 : Ferocia
- **Description:** <span style="color: #645252;font-size:20px">ATT aggiuntivo dei Centauri aumentato di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">ATT aggiuntivo dei Centauri aumentato di </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*50+150}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gli attacchi base infliggono </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi.</span><span style="color: black">
 
 ### Tecnica normale 3 : Capo intrepido
- **Description:** <span style="color: #645252;font-size:20px">La Rid DAN dei Centauri aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta la Rid DAN dei Centauri del 2% per ogni unità difensiva alleata presente sul campo di battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Rid DAN dei Centauri aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Aumenta la Rid DAN dei Centauri del 2% per ogni unità difensiva alleata presente sul campo di battaglia.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Proliferazione pacifica
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baluardo sono esperte negli scontri a terra. La durata degli effetti di &lt;Stordimento&gt; e &lt;Pietrificazione&gt; inflitti su di loro è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Marchio dell'odio
- **Description:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baluardo sanno sfruttare al meglio le debolezze del nemico. Quando affrontano unità affette da &lt;Rallentamento&gt; o &lt;Sanguinamento&gt;, il loro DAN CRIT aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se il bersaglio è affetto da entrambi gli stati.</span><span style="color: black">
+
+## Connessione
+### Connessione roster
+
+* Baluardo (Roster Baluardo)
+* Difesa (Roster unità di difesa)
+
+### Bonus eroe
 
 ## Talent
 
@@ -108,22 +122,22 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Detonazione
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schiacciata&gt;</span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 20% la Rid DAN delle unità per 15 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Schiacciata&gt;</span><span style="color: #645252;font-size:18px">: riduce di un ulteriore 20% la Rid DAN delle unità per 15 secondi.</span>
 
 ### 2nd Skill (or 1st): Scossa d'assestamento
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Schiacciata&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150% del danno base della tecnica, portata aumentata del 20%.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Schiacciata&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150% del danno base della tecnica, portata aumentata del 20%.</span>
 
 ### 3rd Skill (or 4th): Marcia instancabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN del Centauro aumentata del 20%. Effetto raddoppiato contro nemici &lt;rallentati&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Forza&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN del Centauro aumentata del 20%. Effetto raddoppiato contro nemici &lt;rallentati&gt;.</span>
 
 ### 4th Skill (or 3rd): Salmo della vita
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Forza&gt;</span><span style="color: #645252;font-size:18px">: il Centauro recupera PF pari all'1% dei propri PF massimi al secondo.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Forza&gt;</span><span style="color: #645252;font-size:18px">: il Centauro recupera PF pari all'1% dei propri PF massimi al secondo.</span>
 
 ### 5th Skill (or 6th): Posa difensiva
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Capo intrepido&gt;</span><span style="color: #645252;font-size:18px">: quando viene attaccato, il Centauro aumenta del 20% la Rid DAN delle unità alleate in un'ampia area per 20 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Capo intrepido&gt;</span><span style="color: #645252;font-size:18px">: quando viene attaccato, il Centauro aumenta del 20% la Rid DAN delle unità alleate in un'ampia area per 20 secondi.</span>
 
 ### 6th Skill (or 5th): Volontà incrollabile
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Capo intrepido&gt;</span><span style="color: #645252;font-size:18px">: se il Centauro è protetto da uno &lt;scudo&gt;, la sua DIF aumenta del 30% per 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Capo intrepido&gt;</span><span style="color: #645252;font-size:18px">: se il Centauro è protetto da uno &lt;scudo&gt;, la sua DIF aumenta del 30% per 10 secondi.</span>
 
 ## Technical info
  **runart:** 1
