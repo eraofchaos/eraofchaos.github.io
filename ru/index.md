@@ -4,6 +4,7 @@ permalink: /ru/
 excerpt: "Русская version"
 author_profile: false
 lang: ru
+classes: wide
 sidebar:
   nav: "docs_ru"
 ---

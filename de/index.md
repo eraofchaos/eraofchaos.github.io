@@ -4,6 +4,7 @@ permalink: /de/
 excerpt: "German version"
 author_profile: false
 lang: de
+classes: wide
 sidebar:
   nav: "docs_de"
 ---

@@ -4,6 +4,7 @@ permalink: /fr/
 excerpt: "French version"
 author_profile: false
 lang: fr
+classes: wide
 sidebar:
   nav: "docs_fr"
 ---
