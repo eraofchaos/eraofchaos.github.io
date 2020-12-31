@@ -2,7 +2,7 @@
 title: "Item - Materials -  Secret Crystal"
 permalink: /Items/mat_51/
 excerpt: " Secret Crystal"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "mat_51.md"
 toc: false

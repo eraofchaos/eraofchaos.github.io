@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Staff of Wisdom"
+title: "Item - Artifacts -  Collar of Conjuring"
 permalink: /Items/art_73/
-excerpt: " Staff of Wisdom"
-last_modified_at: 2020-12-23
+excerpt: " Collar of Conjuring"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_73.md"
 toc: false
@@ -11,14 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A relic that guards the Ice Shield. One of the components of Armageddon's Blade.
+ **Description:** Enhances the wearer's magic power. One of the components of Ring of the Mage.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

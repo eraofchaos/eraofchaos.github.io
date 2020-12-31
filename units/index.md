@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "List of ALL Units in Era of Chaos"
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "index.md"
 toc: false
@@ -63,7 +63,7 @@ classes: wide
   | 49 | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  najianvyao  |
   | 50 | [Nightmare](/units/Nightmare/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |  mengyan  |
   | 51 | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.6 | 2523 |  shirenmo  |
-  | 52 | [Orc](/units/Orc/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  shourentoufushou  |
+  | 52 | [Orc](/units/Orc/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  shourentoufushou  |
   | 53 | [Paladin](/units/Paladin/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  shengqishi  |
   | 54 | [Pegasus](/units/Pegasus/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  feima  |
   | 55 | [Pikeman](/units/Pikeman/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  jibing  |

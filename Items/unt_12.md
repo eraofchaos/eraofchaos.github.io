@@ -2,7 +2,7 @@
 title: "Item - Units -  Skeleton Warrior Soul Stone"
 permalink: /Items/unt_12/
 excerpt: " Skeleton Warrior Soul Stone"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_12.md"
 toc: false

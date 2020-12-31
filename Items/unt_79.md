@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Gremlin"
+title: "Item - Units -  Wolf Raider Soul Stone"
 permalink: /Items/unt_79/
-excerpt: " Gremlin"
-last_modified_at: 2020-12-23
+excerpt: " Wolf Raider Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_79.md"
 toc: false
@@ -11,18 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 10 soul tokens you can summon a Gremlin. Tokens can also be used to upgrade or increase the rank of Gremlins.
+ **Description:** Soul Stone for Wolf Raider's Awakening level enhancement
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 11 (Harvest Season) -> 11-3 
-*    Underground 14 (Safe Passage) -> 14-3 
-*    Altar of Recruitment 
-*    Barracks Redemption - Gremlin 
+*    Plane Store 
 
 ## This item contains:
 

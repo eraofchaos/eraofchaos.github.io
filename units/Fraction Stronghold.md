@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Stronghold -  Units"
 permalink: /units/Fraction Stronghold/
 excerpt: "Fraction Stronghold - List of Units in Era of Chaos"
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Fraction Stronghold"
 toc: false
@@ -21,4 +21,4 @@ classes: wide
   | 5 | [Berserker](/units/Berserker/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  kuangzhanshi  |
   | 6 | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  dijingzhanshi  |
   | 7 | [Wolf Rider](/units/Wolf Rider/) | Charging | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  langqibing  |
-  | 8 | [Orc](/units/Orc/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  shourentoufushou  |
+  | 8 | [Orc](/units/Orc/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  shourentoufushou  |

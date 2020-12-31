@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Gauze Token"
+title: "Item - Consumables -  Night Tides Special Skin"
 permalink: /Items/con_64/
-excerpt: " Gauze Token"
-last_modified_at: 2020-12-23
+excerpt: " Night Tides Special Skin"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_64.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A Gauze token from an ancient campaign that can be used for awakening Mummy's exclusive potential, Gauze.
+ **Description:** Unlock the skin when Night Tides is awakened.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** EXCLUSIVE_SPLICE
+ **Type:** Unknown
 
 ## Gather
 

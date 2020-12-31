@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Stone Skin"
 permalink: /Items/her_54/
 excerpt: " Stone Skin"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_54.md"
 toc: false

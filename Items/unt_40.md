@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Dwarf"
+title: "Item - Units -  Roc"
 permalink: /Items/unt_40/
-excerpt: " Dwarf"
-last_modified_at: 2020-12-23
+excerpt: " Roc"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_40.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Dwarf, an SR aptitude unit.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Roc, an SR aptitude unit.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,11 +19,11 @@ classes: wide
 
 ## Gather
 
-*    Underground 14 (Safe Passage) -> 14-1 
-*    Underground 17 (Liberation of the Empire) -> 17-1 
+*    Underground 24 (Elemental Tide) -> 24-3 
+*    Underground 26 (Sound of Fate) -> 26-5 
 *    Altar of Recruitment 
-*    Barracks Redemption - Wood Elf 
-*    Campaign Store 
+*    Arena Store 
+*    Barracks Redemption - Roc 
 
 ## This item contains:
 

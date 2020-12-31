@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Astro Silver Pack B"
+title: "Item - Consumables -  Stone Elemental Special Offer Pack"
 permalink: /Items/con_61/
-excerpt: " Astro Silver Pack B"
-last_modified_at: 2020-12-23
+excerpt: " Stone Elemental Special Offer Pack"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_61.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Buy to get 5 astro silvers, 780 diamonds, and 780 VIP EXP.
+ **Description:** Use it to get 3-star Stone Elemental *1, Defense Talent Potion *288, Elemental Roster runes *30 and Diamond *3280
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,5 +29,7 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **5x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
-  | 2 |  **780x** | <i class="fas fa-gem"/> |  | 
+  | 1 | _TEAM_905 | 
+  | 2 |  **288x** | Defensive Talent Potion | This potion improves your Defensive units' attributes and upgrades their skills.  | 
+  | 3 |  **30x** | Conflux Roster runes | Important item to increase your Conflux rankings.  | 
+  | 4 |  **3280x** | <i class="fas fa-gem"/> |  | 

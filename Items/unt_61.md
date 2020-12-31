@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Monk"
+title: "Item - Units -  Swordsman"
 permalink: /Items/unt_61/
-excerpt: " Monk"
-last_modified_at: 2020-12-23
+excerpt: " Swordsman"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_61.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 10 soul tokens you can summon a Monk, an SR aptitude unit.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Swordsman, an SR aptitude unit.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,10 +19,11 @@ classes: wide
 
 ## Gather
 
-*    Underground 16 (For King and Country) -> 16-5 
-*    Underground 20 (Tunnels and Troglodytes) -> 20-3 
+*    Underground 2 (Guardian Angel) -> 2-5 
+*    Underground 4 (A Devilish Plan) -> 4-5 
+*    Arena Store 
 *    Altar of Recruitment 
-*    Barracks Redemption - null 
+*    Barracks Redemption - Swordsmen 
 
 ## This item contains:
 

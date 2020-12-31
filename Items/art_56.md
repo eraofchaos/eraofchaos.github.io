@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Shield of the Yawning Dead"
+title: "Item - Artifacts -  Magic Charm"
 permalink: /Items/art_56/
-excerpt: " Shield of the Yawning Dead"
-last_modified_at: 2020-12-23
+excerpt: " Magic Charm"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_56.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A shield assembled from undead bones. One of the components of the Armour of the Damned.
+ **Description:** A charm with magic power. One of the components of the Wizard's Well.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Artifact
 
@@ -21,7 +21,6 @@ classes: wide
 
 *    Campaign 
 *    Artifact Store 
-*    Artifacts 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Good Ore"
 permalink: /Items/mat_78/
 excerpt: " Good Ore"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "mat_78.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Tome of Earth Magic"
+title: "Item - Artifacts -  Ring of Conjuring"
 permalink: /Items/art_8/
-excerpt: " Tome of Earth Magic"
-last_modified_at: 2020-12-23
+excerpt: " Ring of Conjuring"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_8.md"
 toc: false
@@ -11,14 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat
+ **Description:** A mysterious ring with strong magic. One of the components of Ring of the Mage.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

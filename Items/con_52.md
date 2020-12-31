@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Elite Unit Pack"
+title: "Item - Consumables -  Sign-in Coins"
 permalink: /Items/con_52/
-excerpt: " Elite Unit Pack"
-last_modified_at: 2020-12-23
+excerpt: " Sign-in Coins"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_52.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 of the following: 3-star Lich, 3-star Stone Elemental, 3-star Genie, 3-star Mummy, 3-star Manticore, 3-star Beholder, or 3-star Medusa.
+ **Description:** Rare Coins, can exchange for different items in the Sign-in Store
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Other
 
 ## Gather
 
@@ -23,16 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 8 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 | _TEAM_305 | 
-  | 2 | _TEAM_905 | 
-  | 3 | _TEAM_605 | 
-  | 4 | _TEAM_308 | 
-  | 5 | _TEAM_706 | 
-  | 6 | _TEAM_703 | 
-  | 7 | _TEAM_704 | 

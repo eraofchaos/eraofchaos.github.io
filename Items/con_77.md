@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Wings of Triumph: Gelu"
+title: "Item - Consumables -  Luck Card"
 permalink: /Items/con_77/
-excerpt: " Wings of Triumph: Gelu"
-last_modified_at: 2020-12-23
+excerpt: " Luck Card"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_77.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** 
+ **Description:** Grants the following items every day for the next 7 days after purchasing: 10 diamonds and 10 Energy.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Gift
 
 ## Gather
 
@@ -25,8 +25,9 @@ classes: wide
 
  **Required Level to open:** 1
 
- 5 You would get **ALL** items  from:
+ 7 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Wings of Triumph: Gelu |  | 
+  | 1 |  **10x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **10x** | Energy | Energy will be consumed when you play in story mode or Underground mode.  | 

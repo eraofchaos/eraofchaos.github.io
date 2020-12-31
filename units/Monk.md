@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Monk"
 toc: true
@@ -65,7 +65,6 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
-* [Greed](/Emblem/Greed/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Prayer

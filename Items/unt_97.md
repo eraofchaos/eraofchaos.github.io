@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Wood Elf"
+title: "Item - Units -  Harpy Hag Soul Stone"
 permalink: /Items/unt_97/
-excerpt: " Wood Elf"
-last_modified_at: 2020-12-23
+excerpt: " Harpy Hag Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_97.md"
 toc: false
@@ -11,19 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Wood Elf, an SR aptitude unit.
+ **Description:** Soul Stone for Harpy Hag's Awakening level enhancement.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 5 (Pioneer) -> 5-5 
-*    Underground 11 (Harvest Season) -> 11-5 
-*    Underground 23 (Independence) -> 23-1 
-*    Altar of Recruitment 
-*    Barracks Redemption - Wood Elf 
+*    Kingdom Store 
 
 ## This item contains:
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Sign-in Coins"
+title: "Item - Consumables -  Viod Mithril"
 permalink: /Items/con_49/
-excerpt: " Sign-in Coins"
-last_modified_at: 2020-12-23
+excerpt: " Viod Mithril"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_49.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Rare Coins, can exchange for different items in the Sign-in Store
+ **Description:** A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Other
+ **Type:** Event related
 
 ## Gather
 

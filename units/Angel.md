@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Angel"
 toc: true
@@ -63,7 +63,6 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Green Prophet](/Emblem/Green Prophet/) (Goodness)
-* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Condemn

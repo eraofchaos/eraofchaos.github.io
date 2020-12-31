@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Mountain Battleaxe"
+title: "Item - Artifacts -  Bottle of Energy"
 permalink: /Items/art_14/
-excerpt: " Mountain Battleaxe"
-last_modified_at: 2020-12-23
+excerpt: " Bottle of Energy"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_14.md"
 toc: false
@@ -11,14 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade.
+ **Description:** A bottle to make the wearer feel energized. One of the components of the Elixir of Life.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #32CD32">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

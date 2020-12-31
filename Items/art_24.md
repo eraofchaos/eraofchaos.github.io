@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Knight Sword"
+title: "Item - Artifacts -  Ice Scale"
 permalink: /Items/art_24/
-excerpt: " Knight Sword"
-last_modified_at: 2020-12-23
+excerpt: " Ice Scale"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_24.md"
 toc: false
@@ -11,14 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A sword worn by castle heroes. One of the components of Armageddon's Blade.
+ **Description:** An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

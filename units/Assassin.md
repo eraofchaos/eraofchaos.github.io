@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Assassin"
 toc: true
@@ -57,9 +57,9 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Ancient Fire](/Emblem/Ancient Fire/) (Order)
-* [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
-* [Witness](/Emblem/Witness/) (Goodness)
+* [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
+* [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
+* [Jealousy](/Emblem/Jealousy/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: Assassination

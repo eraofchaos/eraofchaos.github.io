@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Prophet Librams"
 permalink: /Items/con_3/
 excerpt: " Prophet Librams"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_3.md"
 toc: false

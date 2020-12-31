@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Units  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
 unitID: 908
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Ice Demon"
 toc: true

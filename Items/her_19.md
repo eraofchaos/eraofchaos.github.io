@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Undead Army"
 permalink: /Items/her_19/
 excerpt: " Undead Army"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_19.md"
 toc: false

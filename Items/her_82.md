@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Sephinroth"
 permalink: /Items/her_82/
 excerpt: " Sephinroth"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_82.md"
 toc: false

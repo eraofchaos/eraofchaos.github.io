@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Orb of Driving Rain"
+title: "Item - Artifacts -  Bow of Elven Cherrywood"
 permalink: /Items/art_4/
-excerpt: " Orb of Driving Rain"
-last_modified_at: 2020-12-23
+excerpt: " Bow of Elven Cherrywood"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_4.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** It was Cassanbel's beloved accessory. One of the components of the Orb of Vulnerability
+ **Description:** A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
-*    Artifacts 
+*    Artifact Store 
 
 ## This item contains:
 

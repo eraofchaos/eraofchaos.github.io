@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Swordsman"
+title: "Item - Units -  Halberdier Soul Stone"
 permalink: /Items/unt_59/
-excerpt: " Swordsman"
-last_modified_at: 2020-12-23
+excerpt: " Halberdier Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_59.md"
 toc: false
@@ -11,19 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Swordsman, an SR aptitude unit.
+ **Description:** Soul Stone for Halberdier's Awakening level enhancement
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 2 (Guardian Angel) -> 2-5 
-*    Underground 4 (A Devilish Plan) -> 4-5 
-*    Arena Store 
-*    Altar of Recruitment 
-*    Barracks Redemption - Swordsmen 
+*    Plane Store 
 
 ## This item contains:
 

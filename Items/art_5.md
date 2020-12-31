@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Shroud of Eden"
+title: "Item - Artifacts -  Orb of Driving Rain"
 permalink: /Items/art_5/
-excerpt: " Shroud of Eden"
-last_modified_at: 2020-12-23
+excerpt: " Orb of Driving Rain"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_5.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** The legendary holy Shroud of Eden. There is no way to verify it's authenticity.
+ **Description:** It was Cassanbel's beloved accessory. One of the components of the Orb of Vulnerability
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Expert Book of Essences"
+title: "Item - Consumables -  Random Orange Holy Emblem Pack"
 permalink: /Items/con_26/
-excerpt: " Expert Book of Essences"
-last_modified_at: 2020-12-23
+excerpt: " Random Orange Holy Emblem Pack"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_26.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Records the advanced secrets of battle. Can be used to improve units' magic resistance.
+ **Description:** Grants 1 random Orange Holy Emblem.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
 ## Gather
 
-*    Duel of Champions 
+  None
 
 ## This item contains:
 
@@ -29,5 +29,30 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Damage reduction skill essence | Records the expert secrets of battle. Can be used to improve units' damage reduction.  | 
-  | 2 |  **1x** | Damage augmentation skill essence | Records the expert secrets of battle. Can be used to improve units' damage augmentation.  | 
+  | 1 | _RUNE_10105 | 
+  | 2 | _RUNE_10205 | 
+  | 3 | _RUNE_10305 | 
+  | 4 | _RUNE_10405 | 
+  | 5 | _RUNE_10505 | 
+  | 6 | _RUNE_20105 | 
+  | 7 | _RUNE_20205 | 
+  | 8 | _RUNE_20305 | 
+  | 9 | _RUNE_20405 | 
+  | 10 | _RUNE_20505 | 
+  | 11 | _RUNE_30105 | 
+  | 12 | _RUNE_30205 | 
+  | 13 | _RUNE_30305 | 
+  | 14 | _RUNE_30405 | 
+  | 15 | _RUNE_30505 | 
+  | 16 | _RUNE_30605 | 
+  | 17 | _RUNE_40105 | 
+  | 18 | _RUNE_40205 | 
+  | 19 | _RUNE_40305 | 
+  | 20 | _RUNE_40405 | 
+  | 21 | _RUNE_40505 | 
+  | 22 | _RUNE_50105 | 
+  | 23 | _RUNE_50205 | 
+  | 24 | _RUNE_50305 | 
+  | 25 | _RUNE_50405 | 
+  | 26 | _RUNE_50505 | 
+  | 27 | _RUNE_50605 | 

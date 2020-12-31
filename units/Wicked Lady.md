@@ -3,7 +3,7 @@ title: "Wicked Lady"
 permalink: /units/Wicked Lady/
 excerpt: "Units  Once a holy woman of the Goat's Voice cult, born with skin covered in runes, she possessed terrifying abilities similar to those of demons."
 unitID: 709
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Wicked Lady"
 toc: true

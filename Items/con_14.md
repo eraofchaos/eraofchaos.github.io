@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  The Champion of Sephinroth"
+title: "Item - Consumables -  Gold Compass"
 permalink: /Items/con_14/
-excerpt: " The Champion of Sephinroth"
-last_modified_at: 2020-12-23
+excerpt: " Gold Compass"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get a skin: The Champion of Sephinroth
+ **Description:** A gold compass to predict the future. Can be exchanged for Cove Faction items in corresponding events!
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

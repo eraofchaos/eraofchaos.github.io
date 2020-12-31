@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Charm of Mana"
+title: "Item - Artifacts -  Tome of Fire Magic"
 permalink: /Items/art_23/
-excerpt: " Charm of Mana"
-last_modified_at: 2020-12-23
+excerpt: " Tome of Fire Magic"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_23.md"
 toc: false
@@ -11,16 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A charm that enhances magic. One of the components of the Wizard's Well.
+ **Description:** This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
-*    Campaign 
-*    Artifact Store 
+*    Artifacts 
 
 ## This item contains:
 

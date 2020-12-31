@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Helm of Heavenly Enlightenment"
+title: "Item - Artifacts -  Dragon Scale Shield"
 permalink: /Items/art_17/
-excerpt: " Helm of Heavenly Enlightenment"
-last_modified_at: 2020-12-23
+excerpt: " Dragon Scale Shield"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_17.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A crown blessed by the gods. One of the components of the Angelic Alliance.
+ **Description:** A shield blessed with the Dragon King's magic. One of the components of Power of the Dragon Father.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -19,6 +19,7 @@ classes: wide
 
 ## Gather
 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

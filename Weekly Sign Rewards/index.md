@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 CW 1  Castle Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **4.1**  | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
+  | **5.1**  | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
+  | **6.1**  | **3x Swordsman**  | A squad of Swordsmen joined your army and you become stronger! |
+  | **7.1**  | **3x Griffin**  | A squad of Griffin joined your army and you become stronger! |
+  | **8.1**  | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
+  | **9.1**  | **3x Cavalier**  | A squad of Cavalier joined your army and you become stronger! |
+  | **10.1**  | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
+
 
 #### 2020 CW 52  Tower Week
 

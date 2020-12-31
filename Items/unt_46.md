@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Regnan Archer"
+title: "Item - Units -  War Unicorn Soul Stone"
 permalink: /Items/unt_46/
-excerpt: " Regnan Archer"
-last_modified_at: 2020-12-23
+excerpt: " War Unicorn Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_46.md"
 toc: false
@@ -11,16 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 80 soul tokens you can summon a Regnan Archer. Tokens can also be used to upgrade or increase the rank of Regnan Archers.
+ **Description:** Soul Stone for War Unicorn's Awakening level enhancement
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Barracks Redemption - null 
-*    Altar of Recruitment 
+*    Arena Store 
 
 ## This item contains:
 

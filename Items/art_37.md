@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Dragonbone Greaves"
+title: "Item - Artifacts -  Crown of the Supreme Magi"
 permalink: /Items/art_37/
-excerpt: " Dragonbone Greaves"
-last_modified_at: 2020-12-23
+excerpt: " Crown of the Supreme Magi"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_37.md"
 toc: false
@@ -11,14 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father.
+ **Description:** A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
 *    Artifact Store 
 *    Artifacts 
 

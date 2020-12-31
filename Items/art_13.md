@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Bottle of Energy"
+title: "Item - Artifacts -  Dead Man's Boots"
 permalink: /Items/art_13/
-excerpt: " Bottle of Energy"
-last_modified_at: 2020-12-23
+excerpt: " Dead Man's Boots"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_13.md"
 toc: false
@@ -11,17 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A bottle to make the wearer feel energized. One of the components of the Elixir of Life.
+ **Description:** A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King.
 
- **Quality:** <span style="color: #32CD32">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
-*    Campaign 
 *    Artifact Store 
-*    Artifacts 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Master of Armour"
 permalink: /Items/her_45/
 excerpt: " Master of Armour"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_45.md"
 toc: false

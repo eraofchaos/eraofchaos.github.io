@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Units Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Genie"
 toc: true
@@ -62,7 +62,6 @@ toc: true
 ## Recommended Holy Emblems
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
-* [Green Prophet](/Emblem/Green Prophet/) (Goodness)
 * [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills

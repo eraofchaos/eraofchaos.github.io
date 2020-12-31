@@ -2,7 +2,7 @@
 title: "Item - Materials -  Eternal Mercury"
 permalink: /Items/mat_62/
 excerpt: " Eternal Mercury"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "mat_62.md"
 toc: false

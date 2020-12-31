@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Serpent Fly"
+title: "Item - Units -  Behemoth"
 permalink: /Items/unt_75/
-excerpt: " Serpent Fly"
-last_modified_at: 2020-12-23
+excerpt: " Behemoth"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_75.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Serpent Fly. Tokens can also be used to upgrade or increase the rank of Serpent Flies.
+ **Description:** Once you have gathered 80 soul tokens you can summon a Behemoth, an SSR aptitude unit.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Unit Soul
 
 ## Gather
 
 *    Altar of Recruitment 
-*    Barracks Redemption - Serpent Fly 
+*    Barracks Redemption - Behemoth 
 
 ## This item contains:
 

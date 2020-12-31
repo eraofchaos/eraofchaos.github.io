@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Armageddon's Blade Offer"
+title: "Item - Consumables -  Bonetooth Necklace"
 permalink: /Items/con_63/
-excerpt: " Armageddon's Blade Offer"
-last_modified_at: 2020-12-23
+excerpt: " Bonetooth Necklace"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_63.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 1 Doomsday Component Chest and 3,880 diamonds.
+ **Description:** A necklace made from the skulls of powerful beasts. Can be exchanged for Stronghold Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **3880x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Doomsday Component Chest | A component chest of the Armageddon's Blade. Use it to select 1 of the components from the Armageddon's Blade's Artifacts  | 

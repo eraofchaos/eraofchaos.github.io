@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Royal Medal"
+title: "Item - Consumables -  Expert Book of Essences"
 permalink: /Items/con_28/
-excerpt: " Royal Medal"
-last_modified_at: 2020-12-23
+excerpt: " Expert Book of Essences"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_28.md"
 toc: false
@@ -11,17 +11,23 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A medal issued by the Erathian Imperial Court. Can be exchanged for Castle Faction items in corresponding events.
+ **Description:** Records the advanced secrets of battle. Can be used to improve units' magic resistance.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
-  None
+*    Duel of Champions 
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 2 You would get **1** item  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Damage reduction skill essence | Records the expert secrets of battle. Can be used to improve units' damage reduction.  | 
+  | 2 |  **1x** | Damage augmentation skill essence | Records the expert secrets of battle. Can be used to improve units' damage augmentation.  | 

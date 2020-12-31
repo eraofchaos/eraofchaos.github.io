@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Teleport"
 permalink: /Items/her_97/
 excerpt: " Teleport"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_97.md"
 toc: false

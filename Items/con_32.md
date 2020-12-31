@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Discount Coupon"
+title: "Item - Consumables -  Golden Duke: Crag Hack"
 permalink: /Items/con_32/
-excerpt: " Discount Coupon"
-last_modified_at: 2020-12-23
+excerpt: " Golden Duke: Crag Hack"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_32.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Coupon that can be used in the Healing Sea event.
+ **Description:** Use to get Crag Hack's Golden Duke skin
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Other
+ **Type:** Unknown
 
 ## Gather
 

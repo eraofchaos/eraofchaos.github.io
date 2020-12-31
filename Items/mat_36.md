@@ -2,7 +2,7 @@
 title: "Item - Materials -  Eternal Ore"
 permalink: /Items/mat_36/
 excerpt: " Eternal Ore"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "mat_36.md"
 toc: false

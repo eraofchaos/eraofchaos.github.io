@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Imp"
+title: "Item - Units -  Hobgoblin Soul Stone"
 permalink: /Items/unt_60/
-excerpt: " Imp"
-last_modified_at: 2020-12-23
+excerpt: " Hobgoblin Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_60.md"
 toc: false
@@ -11,18 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 10 soul tokens you can summon an Imp, an R aptitude unit.
+ **Description:** Soul Stone for Hobgoblin's Awakening level enhancement
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 9 (Greed) -> 9-1 
-*    Underground 10 (Gryphonheart) -> 10-1 
-*    Altar of Recruitment 
-*    Barracks Redemption - Imp 
+*    Plane Store 
 
 ## This item contains:
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Forest Bow"
+title: "Item - Artifacts -  Surcoat of Counterpoise"
 permalink: /Items/art_48/
-excerpt: " Forest Bow"
-last_modified_at: 2020-12-23
+excerpt: " Surcoat of Counterpoise"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_48.md"
 toc: false
@@ -11,14 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A bow often used by wood elves. One of the components of Armageddon's Blade.
+ **Description:** A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

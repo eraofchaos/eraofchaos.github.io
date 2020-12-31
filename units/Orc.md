@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Orc"
 toc: true
@@ -106,40 +106,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Orc Commander
 
- **Awaking Description:** null
+ **Awaking Description:** After countless executions, the Orcs have mastered more accurate cutting skills. They do not hide the thirst for blood gleaming in their eyes. They no longer slaughter aimlessly—instead, they've become fearsome killers on the battlefield.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Orc with at least </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> Ranged units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #876741;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Orc souls in the Underground: Levels 14-2 and 14-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Orc with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Stronghold units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Piercing Execution
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Expert Execution&gt;</span><span style="color: #645252;font-size:18px"> Increases own Penetration by 300 when fighting against units whose HP is less than 50%.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Instant Execution
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Expert Execution&gt;</span><span style="color: #645252;font-size:18px"> Increases own Critical Hit by 300 when fighting against units whose HP is less than 50%.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Rapid Cutting
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cutting&gt;</span><span style="color: #645252;font-size:18px"> Increases own Attack Speed by 15%. Effect is doubled when attacking stunned enemies.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Fatal Cutting
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Cutting&gt;</span><span style="color: #645252;font-size:18px"> Increases own Unit DMG by 15%. Effect is doubled when attacking stunned enemies.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Bloodthirsty Assault
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px"> Each critical hit increases own Critical Hit by 2%. This effect can be stacked up to 20 times.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Bloodthirsty Strike
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px"> After each critical hit, grants a 50% chance to hit a random enemy unit for damage equal to 40% of own ATK.</span>
 
 ## Technical info
  **runart:** 0

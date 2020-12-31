@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Ice Wall"
 permalink: /Items/her_36/
 excerpt: " Ice Wall"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_36.md"
 toc: false

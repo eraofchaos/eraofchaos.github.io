@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Caster Roster runes"
+title: "Item - Consumables -  Hero Leader Pack"
 permalink: /Items/con_58/
-excerpt: " Caster Roster runes"
-last_modified_at: 2020-12-23
+excerpt: " Hero Leader Pack"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_58.md"
 toc: false
@@ -11,18 +11,24 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Important item to increase your Caster units' rankings.
+ **Description:** Use to select one of the following heroes to recruit: Roland, Sandro, or Kilgor. If you select a hero that you already own, then you will receive 30 tokens for that hero.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
-*    Altar of Recruitment 
-*    Guild Store 
+  None
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ You would need to choose 1 item from the list (0):
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **30x** | Roland | Collect 30 tokens to summon Roland to join your party. Tokens are also required to increase his rank.  | 
+  | 2 |  **30x** | Sandro | Collect 30 tokens to summon Sandro to join your party. Tokens are also required to increase his rank.  | 
+  | 3 |  **30x** | Kilgor | Collect 30 tokens to summon Kilgor to join your party. Tokens are also required to increase his rank.  | 

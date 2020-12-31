@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Lion's Shield of Courage"
+title: "Item - Artifacts -  Orb of Inhibition"
 permalink: /Items/art_78/
-excerpt: " Lion's Shield of Courage"
-last_modified_at: 2020-12-23
+excerpt: " Orb of Inhibition"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_78.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A symbol of the military might of Griffin units. One of the components of the Angelic Alliance.
+ **Description:** A precious artifact in civilian society. One of the components of the Orb of Vulnerability
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 

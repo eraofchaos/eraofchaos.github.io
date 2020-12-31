@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Crusader Soul Stone"
+title: "Item - Units -  Hell Hound"
 permalink: /Items/unt_99/
-excerpt: " Crusader Soul Stone"
-last_modified_at: 2020-12-23
+excerpt: " Hell Hound"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_99.md"
 toc: false
@@ -11,15 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Crusader's Awakening level enhancement
+ **Description:** Once you have gathered 30 soul tokens you can summon a Hell Hound, an SR aptitude unit.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-*    Plane Store 
+*    Underground 3 (Griffin Cliffs) -> 3-1 
+*    Underground 18 (Deal with the Devil) -> 18-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Hell Hound 
 
 ## This item contains:
 

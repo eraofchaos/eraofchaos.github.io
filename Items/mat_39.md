@@ -2,7 +2,7 @@
 title: "Item - Materials -  Common Ore"
 permalink: /Items/mat_39/
 excerpt: " Common Ore"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "mat_39.md"
 toc: false

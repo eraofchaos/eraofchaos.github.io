@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Marksman"
 toc: true
@@ -64,6 +64,7 @@ toc: true
 ## Recommended Holy Emblems
 
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
+* [Witness](/Emblem/Witness/) (Goodness)
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 
 ## Skills

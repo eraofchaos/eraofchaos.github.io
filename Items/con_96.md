@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Thunder Rage Chest"
+title: "Item - Consumables -  5 Candy Variety Gift Boxes"
 permalink: /Items/con_96/
-excerpt: " Thunder Rage Chest"
-last_modified_at: 2020-12-23
+excerpt: " 5 Candy Variety Gift Boxes"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_96.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A treasure chest with ancient power, only the lords having Giant can open it.
+ **Description:** Grants 5 Candy Variety Gift Boxes. A Candy Variety Gift Box grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -29,4 +29,4 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Giant  | Once you have gathered 80 soul tokens you can summon a Giant . Tokens can also be used to upgrade or increase the rank of Giant.  | 
+  | 1 |  **5x** | Candy Variety Gift Box | Grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.  | 

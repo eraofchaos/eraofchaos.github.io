@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -59,7 +59,7 @@ toc: true
 
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
-* [Witness](/Emblem/Witness/) (Goodness)
+* [Anger](/Emblem/Anger/) (Chaos)
 
 ## Skills
 ### Ultimate Skill: null

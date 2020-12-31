@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Units Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Arch Mage"
 toc: true

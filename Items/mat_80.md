@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Gems"
 permalink: /Items/mat_80/
 excerpt: " Valuable Gems"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "mat_80.md"
 toc: false

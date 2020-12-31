@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Druid"
+title: "Item - Units -  Dendroid Soldier Soul Stone"
 permalink: /Items/unt_29/
-excerpt: " Druid"
-last_modified_at: 2020-12-23
+excerpt: " Dendroid Soldier Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_29.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 80 soul tokens you can summon a Druid, an SR aptitude unit.
+ **Description:** Soul Stone for Dendroid Soldier's Awakening level enhancement
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Barracks Redemption - null 
+*    Kingdom Store 
 
 ## This item contains:
 

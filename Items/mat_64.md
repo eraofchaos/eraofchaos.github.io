@@ -2,7 +2,7 @@
 title: "Item - Materials -  Soul Crystal"
 permalink: /Items/mat_64/
 excerpt: " Soul Crystal"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "mat_64.md"
 toc: false

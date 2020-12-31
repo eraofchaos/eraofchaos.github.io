@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Ogre's Staff"
+title: "Item - Artifacts -  Cape of Conjuring"
 permalink: /Items/art_34/
-excerpt: " Ogre's Staff"
-last_modified_at: 2020-12-23
+excerpt: " Cape of Conjuring"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_34.md"
 toc: false
@@ -11,14 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A staff worshipped by the Ogre. One of the components of the Sword of Frost.
+ **Description:** A cape crackling with magical power. One of the components of Ring of the Mage.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

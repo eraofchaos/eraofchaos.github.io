@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Realm Package"
+title: "Item - Consumables -  Auto Chess Chest"
 permalink: /Items/con_93/
-excerpt: " Realm Package"
-last_modified_at: 2020-12-23
+excerpt: " Auto Chess Chest"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_93.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A pack obtained from a realm. You have a chance to obtain Guild Coins, Skill Runes, and Rosters Box after opening it
+ **Description:** Auto Chess Chests are rewards given to those who have made great achievements in Heroes Auto Chess.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -25,14 +25,15 @@ classes: wide
 
  **Required Level to open:** 1
 
- 3 You would get **1** item  from:
+ 2 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **88x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
-  | 2 |  **166x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
-  | 3 |  **388x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
-  | 4 |  **3x** | Blue Crystal | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used.  | 
-  | 5 |  **3x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
-  | 6 |  **3x** | Orange Crystal | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used.  | 
-  | 7 |  **2x** | Expert Roster Box | A rare chest that can be found in Dragon's Treasures. Open to receive 3 random Roster runes.  | 
+  | 1 |  **7x** | Sack of Gold | A package containing 60,000 gold.  | 
+  | 2 |  **7x** | Huge EXP potion | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it.  | 
+  | 3 |  **10x** | Silver Key | A certificate of recruitment. Allows you to recruit units once for free.  | 
+  | 4 |  **4x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 5 |  **1x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 6 |  **1x** | Gold Key | A credential for recruitment. You can recruit high-level units once for free when using it.  | 
+  | 7 |  **150x** | <i class="fas fa-gem"/> |  | 
+  | 8 |  **200x** | <i class="fas fa-gem"/> |  | 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Dungeon -  Units"
 permalink: /units/Fraction Dungeon/
 excerpt: "Fraction Dungeon - List of Units in Era of Chaos"
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Fraction Dungeon"
 toc: false

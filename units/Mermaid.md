@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Mermaid"
 toc: true
@@ -57,9 +57,8 @@ toc: true
 
 ## Recommended Holy Emblems
 
-* [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
-* [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
-* [Jealousy](/Emblem/Jealousy/) (Chaos)
+* [Tarnum's Culpability](/Emblem/Tarnum's Culpability/) (Neutral)
+* [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) (Neutral)
 
 ## Skills
 ### Ultimate Skill: D Chord

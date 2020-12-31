@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Medium Roster runes"
+title: "Item - Consumables -  Orange +5 Material Chest"
 permalink: /Items/con_78/
-excerpt: " Medium Roster runes"
-last_modified_at: 2020-12-23
+excerpt: " Orange +5 Material Chest"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_78.md"
 toc: false
@@ -11,18 +11,27 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Important item to increase your mid-sized units' rankings.
+ **Description:** Receive a random orange +5 equipment-upgrading item
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
-*    Guild Store 
-*    Dragon Utopia 
+  None
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 3 You would get **1** item  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Radiant Ore | Common materials to upgrade equipment from orange +5 to Red.  | 
+  | 2 |  **1x** | Radiant Wood | Common materials to upgrade equipment from orange +5 to Red.  | 
+  | 3 |  **1x** | Radiant Mercury | Common materials to upgrade equipment from orange +5 to Red.  | 
+  | 4 |  **1x** | Radiant Sulfur | Common materials to upgrade equipment from orange +5 to Red.  | 
+  | 5 |  **1x** | Radiant Gems | Common materials to upgrade equipment from orange +5 to Red.  | 
+  | 6 |  **1x** | Radiant Crystal | Common materials to upgrade equipment from orange +5 to Red.  | 

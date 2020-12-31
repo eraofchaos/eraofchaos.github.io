@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Demon"
+title: "Item - Units -  Dark Troglodyte Soul Stone"
 permalink: /Items/unt_76/
-excerpt: " Demon"
-last_modified_at: 2020-12-23
+excerpt: " Dark Troglodyte Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_76.md"
 toc: false
@@ -11,20 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Demon, an SR aptitude unit.
+ **Description:** A soul stone for Dark Troglodyte's Awakening level enhancement.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 9 (Greed) -> 9-5 
-*    Underground 13 (From Day to Night) -> 13-1 
-*    Underground 22 (The Road Home) -> 22-3 
-*    Altar of Recruitment 
-*    Treasure Chest - Land of Chaos 
-*    Barracks Redemption - Demon 
+*    Plane Store 
 
 ## This item contains:
 

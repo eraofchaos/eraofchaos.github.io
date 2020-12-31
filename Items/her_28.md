@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Distracted"
 permalink: /Items/her_28/
 excerpt: " Distracted"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_28.md"
 toc: false

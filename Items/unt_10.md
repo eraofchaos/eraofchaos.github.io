@@ -2,7 +2,7 @@
 title: "Item - Units -  Orc"
 permalink: /Items/unt_10/
 excerpt: " Orc"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_10.md"
 toc: false

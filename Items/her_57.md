@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Korbac"
 permalink: /Items/her_57/
 excerpt: " Korbac"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_57.md"
 toc: false

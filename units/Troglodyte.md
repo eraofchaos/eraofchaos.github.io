@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Units A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Troglodyte"
 toc: true
@@ -134,10 +134,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Keen&gt;</span><span style="color: #645252;font-size:18px"> Reduces the duration of Bleed by 1s for Troglodyte. When bleeding, deals damage equal to 500% of own ATK to the target unit and increases own Attack Speed by 15% for 7s. CD is 15s.</span>
 
 ### 5th Skill (or 6th): Poisonous Wound
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Poisoned Spear&gt;</span><span style="color: #645252;font-size:18px"> When attacking poisoned units, deals continuous damage equal to 60% of own ATK per second to the target unit and reduces their Unit DMG by 15% for 5s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Poisoned Spear&gt;</span><span style="color: #645252;font-size:18px">When attacking stunned units, deals continuous damage equal to 60% of own ATK per second to the target unit and reduces their Unit DMG by 15% for 5s.</span>
 
 ### 6th Skill (or 5th): Fatal Infection
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Poisoned Spear&gt;</span><span style="color: #645252;font-size:18px"> When attacking poisoned units, deals continuous damage equal to 60% of own ATK per second to the target unit and reduces their Unit DMG Reduction by 15% for 5s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Poisoned Spear&gt;</span><span style="color: #645252;font-size:18px">When attacking stunned units, deals continuous damage equal to 60% of own ATK per second to the target unit and reduces their Unit DMG Reduction by 15% for 5s.</span>
 
 ## Technical info
  **runart:** 1

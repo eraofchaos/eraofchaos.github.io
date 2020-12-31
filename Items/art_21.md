@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Garniture of Interference"
+title: "Item - Artifacts -  Ankh"
 permalink: /Items/art_21/
-excerpt: " Garniture of Interference"
-last_modified_at: 2020-12-23
+excerpt: " Ankh"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_21.md"
 toc: false
@@ -11,16 +11,14 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone.
+ **Description:** A cross that grants the wearer immortality. No one knows what happened to its previous owner.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
-*    Campaign 
-*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

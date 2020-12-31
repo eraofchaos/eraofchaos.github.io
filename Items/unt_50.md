@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Efreet Sultan Soul Stone"
+title: "Item - Units -  Mighty Gorgon Soul Stone"
 permalink: /Items/unt_50/
-excerpt: " Efreet Sultan Soul Stone"
-last_modified_at: 2020-12-23
+excerpt: " Mighty Gorgon Soul Stone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_50.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Efreet Sultan's Awakening level enhancement
+ **Description:** Soul Stone for Mighty Gorgon's Awakening level enhancement
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Plane Store 
+  None
 
 ## This item contains:
 

@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2020-12-26
+last_modified_at: 2020-12-30
 lang: en
 ref: "Black Knight"
 toc: true

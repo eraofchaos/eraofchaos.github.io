@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Ladybird of Luck"
+title: "Item - Artifacts -  Tome of Water Magic"
 permalink: /Items/art_44/
-excerpt: " Ladybird of Luck"
-last_modified_at: 2020-12-23
+excerpt: " Tome of Water Magic"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_44.md"
 toc: false
@@ -11,16 +11,14 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A glowing bird statue. One of the components of the Lucky Horseshoe.
+ **Description:** This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat
 
- **Quality:** <span style="color: #32CD32">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
-*    Campaign 
-*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

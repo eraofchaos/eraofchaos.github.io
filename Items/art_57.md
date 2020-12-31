@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Ice Crystal Shield"
+title: "Item - Artifacts -  Sword of Hellfire"
 permalink: /Items/art_57/
-excerpt: " Ice Crystal Shield"
-last_modified_at: 2020-12-23
+excerpt: " Sword of Hellfire"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_57.md"
 toc: false
@@ -11,14 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A holy shield sealed on the plateau of Bracada. One of the components of the Sword of Frost.
+ **Description:** A sword that hosts a dark power. One of the components of the Armour of the Damned.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
+*    Artifact Store 
 *    Artifacts 
 
 ## This item contains:

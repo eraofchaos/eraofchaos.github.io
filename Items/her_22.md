@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Silent Deep Sea"
 permalink: /Items/her_22/
 excerpt: " Silent Deep Sea"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_22.md"
 toc: false

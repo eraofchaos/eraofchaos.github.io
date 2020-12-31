@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Ice Elemental"
+title: "Item - Units -  Mage"
 permalink: /Items/unt_21/
-excerpt: " Ice Elemental"
-last_modified_at: 2020-12-23
+excerpt: " Mage"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_21.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon an Ice Elemental. Tokens can also be used to upgrade or increase the rank of Ice Elementals.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Mage. Tokens can also be used to upgrade or increase the rank of Mages.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,11 +19,10 @@ classes: wide
 
 ## Gather
 
+*    Underground 19 (Neutral Ground) -> 19-5 
+*    Underground 25 (Land of Sleep) -> 25-1 
 *    Altar of Recruitment 
-*    Underground 20 (Tunnels and Troglodytes) -> 20-5 
-*    Underground 24 (Elemental Tide) -> 24-1 
-*    Barracks Redemption - null 
-*    Campaign Store 
+*    Barracks Redemption - Mage 
 
 ## This item contains:
 

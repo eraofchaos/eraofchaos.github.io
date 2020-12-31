@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Mystic Orb of Mana"
+title: "Item - Artifacts -  Deep-Sea Trident"
 permalink: /Items/art_72/
-excerpt: " Mystic Orb of Mana"
-last_modified_at: 2020-12-23
+excerpt: " Deep-Sea Trident"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_72.md"
 toc: false
@@ -11,16 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A crystal ball with strong magic. One of the components of the Wizard's Well.
+ **Description:** A weapon used by Poseidon. One of the components of the Sword of Frost
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
-*    Campaign 
-*    Artifact Store 
+*    Artifacts 
 
 ## This item contains:
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Amulet of the Undertaker"
+title: "Item - Artifacts -  Ladybird of Luck"
 permalink: /Items/art_46/
-excerpt: " Amulet of the Undertaker"
-last_modified_at: 2020-12-23
+excerpt: " Ladybird of Luck"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_46.md"
 toc: false
@@ -11,15 +11,17 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King.
+ **Description:** A glowing bird statue. One of the components of the Lucky Horseshoe.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #32CD32">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
 *    Artifact Store 
+*    Artifacts 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Resurrection"
 permalink: /Items/her_79/
 excerpt: " Resurrection"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_79.md"
 toc: false

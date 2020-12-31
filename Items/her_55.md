@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Slayer"
 permalink: /Items/her_55/
 excerpt: " Slayer"
-last_modified_at: 2020-12-23
+last_modified_at: 2020-12-30
 lang: en
 ref: "her_55.md"
 toc: false

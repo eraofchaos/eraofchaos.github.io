@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Marksman"
+title: "Item - Units -  Troglodyte"
 permalink: /Items/unt_23/
-excerpt: " Marksman"
-last_modified_at: 2020-12-23
+excerpt: " Troglodyte"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_23.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 10 soul tokens you can summon a Marksman, an R aptitude unit.
+ **Description:** Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes.
 
  **Quality:** <span style="color: #0000CD">OK</span>
 
@@ -19,10 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Underground 2 (Guardian Angel) -> 2-1 
-*    Underground 16 (For King and Country) -> 16-3 
 *    Altar of Recruitment 
-*    Barracks Redemption - Archer 
+*    Barracks Redemption - Troglodyte 
 
 ## This item contains:
 

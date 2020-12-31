@@ -1,8 +1,8 @@
 ---
-title: "Item - Artifacts -  Red Dragon Flame Tongue"
+title: "Item - Artifacts -  Shield of the Yawning Dead"
 permalink: /Items/art_59/
-excerpt: " Red Dragon Flame Tongue"
-last_modified_at: 2020-12-23
+excerpt: " Shield of the Yawning Dead"
+last_modified_at: 2020-12-30
 lang: en
 ref: "art_59.md"
 toc: false
@@ -11,14 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A sword forged from flame dragon crystals. One of the components of Power of the Dragon Father.
+ **Description:** A shield assembled from undead bones. One of the components of the Armour of the Damned.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Artifact
 
 ## Gather
 
+*    Campaign 
 *    Artifact Store 
 *    Artifacts 
 

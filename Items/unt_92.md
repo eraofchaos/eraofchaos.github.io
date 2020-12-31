@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Master Genie Soul Stone"
+title: "Item - Units -  Firebird"
 permalink: /Items/unt_92/
-excerpt: " Master Genie Soul Stone"
-last_modified_at: 2020-12-23
+excerpt: " Firebird"
+last_modified_at: 2020-12-30
 lang: en
 ref: "unt_92.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Master Genie's Awakening level enhancement
+ **Description:** Once you have gathered 80 soul tokens you can summon a Firebird. Tokens can also be used to upgrade or increase the rank of Firebirds.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-  None
+*    Barracks Redemption - Phoenix 
 
 ## This item contains:
 

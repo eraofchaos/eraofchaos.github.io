@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Energy Pack"
+title: "Item - Consumables -  Alchemy Runestone"
 permalink: /Items/con_84/
-excerpt: " Energy Pack"
-last_modified_at: 2020-12-23
+excerpt: " Alchemy Runestone"
+last_modified_at: 2020-12-30
 lang: en
 ref: "con_84.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 60 diamonds and 1 large energy potion.
+ **Description:** A currency used for trading between high-ranked Mana Scholars. Can be exchanged for Tower Faction items in corresponding events.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **60x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Large Energy Potion | A bottle of highly purified energy potion. You will gain 60 energy after drinking it.  | 
