@@ -30,7 +30,8 @@ In our perfect ways. In the ways we are **players**. In the ways we are **Era Of
 
  Next week, **2 Castle Units** would get **Awakening**, see:
 
-    - [Marksman](https://eraofchaos.github.io/units/Marksman/)
+
+   - [Marksman](https://eraofchaos.github.io/units/Marksman/)
  
    - [Monk](https://eraofchaos.github.io/units/Monk/)
 
