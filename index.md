@@ -11,11 +11,23 @@ sidebar:
 
 {% capture notice-update20201224 %}
 ![image-center](/assets/images/xmass2021.jpg){: .align-center}
+In our perfect ways. In the ways we are **players**. In the ways we are **Era Of Chaos** fun. We are here. **Happy New 2021 Year’s**. Let’s make it ours.
 {% endcapture %}
 
 <div class="notice--danger">
   <h4 class="no_toc">24 Dec 2020 Update:</h4>
   {{ notice-update20201224 | markdownify }}
+</div>
+
+
+{% capture notice-update20210102 %}
+We are happy to announce preview for Schedule.
+English:  <i class="fas fa-calendar-alt"/>  [Schedule](https://eraofchaos.github.io/Schedule/)
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">2 Jan 2021 Update:</h4>
+  {{ notice-update20210102 | markdownify }}
 </div>
 
 This information portal contains information about "Era Of Chaos" mobile game.
