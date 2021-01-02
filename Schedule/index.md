@@ -1,11 +1,11 @@
 ---
 title: "Schedule"
 permalink: /Schedule/
-excerpt: "Weekly Schedule."
+excerpt: "Schedule."
 last_modified_at: 2021-01-02
 lang: en
 ref: "index.md"
-toc: true
+classes: wide
 ---
 
 #### Schedule (from 2021-1-1 to 2021-1-15)
