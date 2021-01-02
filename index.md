@@ -43,6 +43,7 @@ You will find here:
 ### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 ### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 10 Jan 2021)
 ### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
+### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/)
 <br/>
 <br/>
 **YOUR feedback is welcome!**
