@@ -155,6 +155,16 @@ defaults:
       read_time: false
       sidebar:
         nav: "docs"
+  # Schedule
+  - scope:
+      path: "Schedule"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
   # RU
   - scope:
       path: "ru"
