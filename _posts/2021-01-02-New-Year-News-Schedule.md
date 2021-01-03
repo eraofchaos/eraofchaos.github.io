@@ -26,7 +26,7 @@ In our perfect ways. In the ways we are **players**. In the ways we are **Era Of
 ## News and Updates
  Next week (4th Jan 2021) we would have **Castle Week**. See <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) 
 
- By official announced update in 2021, players would get many new features in the game. We would continue to provide information about them.
+ By official announced update in 2021, players would get many new features in the game. We would continue to provide information about them, like New UR Unit [Judicator](https://eraofchaos.github.io/units/Judicator/)
 
  Next week, **2 Castle Units** would get **Awakening**, see:
 
