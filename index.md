@@ -8,16 +8,17 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210105 %}
+Today is big game update. First Commander(UR Unit) for Castle Faction - [Judicator](https://eraofchaos.github.io/units/Judicator/)
 
-{% capture notice-update20201224 %}
-![image-center](/assets/images/xmass2021.jpg){: .align-center}
-In our perfect ways. In the ways we are **players**. In the ways we are **Era Of Chaos** fun. We are here. **Happy New 2021 Year’s**. Let’s make it ours.
+Please [vote for our new development priority](https://www.reddit.com/r/era_of_chaos/comments/kqbido/eraofchaos_next_topic/)
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">24 Dec 2020 Update:</h4>
-  {{ notice-update20201224 | markdownify }}
+  <h4 class="no_toc">5 Jan 2021 Update:</h4>
+  {{ notice-update20210105 | markdownify }}
 </div>
+
 
 
 {% capture notice-update20210102 %}
@@ -130,7 +131,15 @@ Each item contains section **Gather** from where You can get it and **This item 
   {{ notice-update20201201 | markdownify }}
 </div>
 
-Sorry, Right now this web site is **Under Construct**
+{% capture notice-update20201224 %}
+![image-center](/assets/images/xmass2021.jpg){: .align-center}
+In our perfect ways. In the ways we are **players**. In the ways we are **Era Of Chaos** fun. We are here. **Happy New 2021 Year’s**. Let’s make it ours.
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">24 Dec 2020 Update:</h4>
+  {{ notice-update20201224 | markdownify }}
+</div>
 
 {: .notice--danger}
 
