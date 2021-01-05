@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Golden Duke: Crag Hack"
 permalink: /Items/con_32/
 excerpt: " Golden Duke: Crag Hack"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_32.md"
 toc: false

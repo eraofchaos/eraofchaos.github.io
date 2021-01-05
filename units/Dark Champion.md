@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -24,7 +24,7 @@ toc: true
 
  **Members:** x1
 
- **Rank:** UR
+ **Rank:** Commander
 
  **Info:** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 

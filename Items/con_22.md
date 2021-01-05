@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Elite Hero Pack"
 permalink: /Items/con_22/
 excerpt: " Elite Hero Pack"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_22.md"
 toc: false

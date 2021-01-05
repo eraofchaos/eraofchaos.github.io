@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Holy Emblem Lucky Pack 3"
 permalink: /Items/con_36/
 excerpt: " Holy Emblem Lucky Pack 3"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_36.md"
 toc: false

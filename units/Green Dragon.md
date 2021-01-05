@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "Green Dragon"
 toc: true

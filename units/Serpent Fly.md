@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Units Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "Serpent Fly"
 toc: true

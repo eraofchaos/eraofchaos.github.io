@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Elite Unit Pack"
+title: "Item - Consumables -  Medium Roster runes"
 permalink: /Items/con_85/
-excerpt: " Elite Unit Pack"
-last_modified_at: 2020-12-30
+excerpt: " Medium Roster runes"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_85.md"
 toc: false
@@ -11,23 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to select 1 of the following: Medusa Token *40 or Druid Token *40
+ **Description:** Important item to increase your mid-sized units' rankings.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
-  None
+*    Guild Store 
+*    Dragon Utopia 
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (0):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **40x** | Medusa | Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.  | 
-  | 2 |  **40x** | Druid | Once you have gathered 80 soul tokens you can summon a Druid, an SR aptitude unit.  | 

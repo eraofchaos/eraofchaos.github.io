@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of INTERNAL (unreleased) Units"
 permalink: /units/internal/
 excerpt: "List of INTERNAL Units in Era of Chaos"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "internal"
 toc: false
@@ -15,12 +15,12 @@ classes: wide
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
-  | 1 | [Dark Champion](/units/Dark Champion/) | Offense | - | UR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |  sishen  |
-  | 2 | [Dragon Golem](/units/Dragon Golem/) | Defense | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |  kuileilong  |
-  | 3 | [Ice Demon](/units/Ice Demon/) | Ranged | - | UR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |  yuansuzhihuiguan  |
-  | 4 | [Infamous](/units/Infamous/) | Defense | - | UR | Unknown: 4 (4). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |
-  | 5 | [Judicator](/units/Judicator/) | Caster | - | UR | Unknown: 4 (2). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |  shenpanguan  |
-  | 6 | [Mantis](/units/Mantis/) | Offense | - | UR | Unknown: 4 (3). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1140.4 | 6336 |  bileizhihuiguan  |
-  | 7 | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  xunshashi  |
+  | 1 | [Dark Champion](/units/Dark Champion/) | Offense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |  sishen  |
+  | 2 | [Dragon Golem](/units/Dragon Golem/) | Defense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |  kuileilong  |
+  | 3 | [Evil Sorceress](/units/Evil Sorceress/) | Charging | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |  dixiachengzhihuiguan  |
+  | 4 | [Ice Demon](/units/Ice Demon/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |  yuansuzhihuiguan  |
+  | 5 | [Mantis](/units/Mantis/) | Offense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1140.4 | 6336 |  bileizhihuiguan  |
+  | 6 | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  xunshashi  |
+  | 7 | [Venom Spawn](/units/Venom Spawn/) | Defense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |
   | 8 | [Waspwort](/units/Waspwort/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |
-  | 9 | [Wicked Lady](/units/Wicked Lady/) | Charging | - | UR | Unknown: 4 (7). | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |  dixiachengzhihuiguan  |
+  | 9 | [White Tiger](/units/White Tiger/) | Charging | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1078.2 | 6138 |  baihu  |

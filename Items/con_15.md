@@ -2,7 +2,7 @@
 title: "Item - Consumables -  The Champion of Sephinroth"
 permalink: /Items/con_15/
 excerpt: " The Champion of Sephinroth"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_15.md"
 toc: false

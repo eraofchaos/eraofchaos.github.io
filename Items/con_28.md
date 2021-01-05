@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Expert Book of Essences"
 permalink: /Items/con_28/
 excerpt: " Expert Book of Essences"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_28.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Erathia Mullich"
+title: "Item - Consumables -  Viking God of War: Crag Hack"
 permalink: /Items/con_74/
-excerpt: " Erathia Mullich"
-last_modified_at: 2020-12-30
+excerpt: " Viking God of War: Crag Hack"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_74.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get a skin: Erathia Mullich
+ **Description:** Use to get Crag Hack's Viking God of War skin
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 

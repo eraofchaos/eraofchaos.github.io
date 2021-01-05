@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Evil Sigil"
 permalink: /Items/con_46/
 excerpt: " Evil Sigil"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_46.md"
 toc: false

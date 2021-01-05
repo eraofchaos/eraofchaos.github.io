@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Daily Special Offer Pack A"
 permalink: /Items/con_42/
 excerpt: " Daily Special Offer Pack A"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_42.md"
 toc: false

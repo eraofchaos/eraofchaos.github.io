@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Gorgon's Horn Special Skin"
 permalink: /Items/con_27/
 excerpt: " Gorgon's Horn Special Skin"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_27.md"
 toc: false

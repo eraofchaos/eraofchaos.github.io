@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Gold Compass"
 permalink: /Items/con_14/
 excerpt: " Gold Compass"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_14.md"
 toc: false

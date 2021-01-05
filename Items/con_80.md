@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Free reward package"
+title: "Item - Consumables -  Chronicles Chest"
 permalink: /Items/con_80/
-excerpt: " Free reward package"
-last_modified_at: 2020-12-30
+excerpt: " Chronicles Chest"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_80.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** You've reached VIP level 6! You receive a free chance to send a red envelope to your guild members!
+ **Description:** You can select one from the SR+ Soul Stones after opening.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,14 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ You would need to choose 1 item from the list (1):
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **1x** | Archdruid Soul Stone | Soul Stone for Archdruid's Awakening level enhancement.  | 
+  | 2 |  **1x** | Scorpicore Soul Stone | Soul Stone for Scorpicore's Awakening level enhancement  | 
+  | 3 |  **1x** | Mummy King Soul Stone | Soul Stone for Mummy King's Awakening level enhancement  | 
+  | 4 |  **1x** | Evil Eye Soul Stone | Soul Stone for Evil Eye' Awakening level enhancement  | 
+  | 5 |  **1x** | Power Lich Soul Stone | Soul Stone for Power Lich's Awakening level enhancement  | 

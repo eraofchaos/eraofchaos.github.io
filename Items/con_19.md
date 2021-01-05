@@ -2,7 +2,7 @@
 title: "Item - Consumables -  V17 Premium Package"
 permalink: /Items/con_19/
 excerpt: " V17 Premium Package"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_19.md"
 toc: false

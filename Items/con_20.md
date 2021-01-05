@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Guild Fund"
 permalink: /Items/con_20/
 excerpt: " Guild Fund"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_20.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Might"
 permalink: /Items/con_31/
 excerpt: " Might"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_31.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Orange +3 Material Chest"
 permalink: /Items/con_53/
 excerpt: " Orange +3 Material Chest"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_53.md"
 toc: false

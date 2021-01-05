@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Candy Witch"
+title: "Item - Consumables -  Energy Core"
 permalink: /Items/con_90/
-excerpt: " Candy Witch"
-last_modified_at: 2020-12-30
+excerpt: " Energy Core"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_90.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get a skin: Candy Witch Vidomina
+ **Description:** Used for activating Battle Formation nodes
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 

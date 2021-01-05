@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Ranger Medal"
+title: "Item - Consumables -  Erathia Mullich"
 permalink: /Items/con_75/
-excerpt: " Ranger Medal"
-last_modified_at: 2020-12-30
+excerpt: " Erathia Mullich"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_75.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A keepsake of the legendary ranger. Can be exchanged for Rampart Faction items in corresponding events.
+ **Description:** Use to get a skin: Erathia Mullich
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Event related
+ **Type:** Unknown
 
 ## Gather
 

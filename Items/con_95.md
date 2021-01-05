@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Random Purple Holy Emblem Pack"
+title: "Item - Consumables -  Auto Chess Chest"
 permalink: /Items/con_95/
-excerpt: " Random Purple Holy Emblem Pack"
-last_modified_at: 2020-12-30
+excerpt: " Auto Chess Chest"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_95.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 1 random Purple Holy Emblem.
+ **Description:** Auto Chess Chests are rewards given to those who have made great achievements in Heroes Auto Chess.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -29,30 +29,11 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 | _RUNE_10104 | 
-  | 2 | _RUNE_10204 | 
-  | 3 | _RUNE_10304 | 
-  | 4 | _RUNE_10404 | 
-  | 5 | _RUNE_10504 | 
-  | 6 | _RUNE_20104 | 
-  | 7 | _RUNE_20204 | 
-  | 8 | _RUNE_20304 | 
-  | 9 | _RUNE_20404 | 
-  | 10 | _RUNE_20504 | 
-  | 11 | _RUNE_30104 | 
-  | 12 | _RUNE_30204 | 
-  | 13 | _RUNE_30304 | 
-  | 14 | _RUNE_30404 | 
-  | 15 | _RUNE_30504 | 
-  | 16 | _RUNE_30604 | 
-  | 17 | _RUNE_40104 | 
-  | 18 | _RUNE_40204 | 
-  | 19 | _RUNE_40304 | 
-  | 20 | _RUNE_40404 | 
-  | 21 | _RUNE_40504 | 
-  | 22 | _RUNE_50104 | 
-  | 23 | _RUNE_50204 | 
-  | 24 | _RUNE_50304 | 
-  | 25 | _RUNE_50404 | 
-  | 26 | _RUNE_50504 | 
-  | 27 | _RUNE_50604 | 
+  | 1 |  **7x** | Sack of Gold | A package containing 60,000 gold.  | 
+  | 2 |  **7x** | Huge EXP potion | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it.  | 
+  | 3 |  **10x** | Silver Key | A certificate of recruitment. Allows you to recruit units once for free.  | 
+  | 4 |  **4x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 5 |  **1x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 6 |  **1x** | Gold Key | A credential for recruitment. You can recruit high-level units once for free when using it.  | 
+  | 7 |  **150x** | <i class="fas fa-gem"/> |  | 
+  | 8 |  **200x** | <i class="fas fa-gem"/> |  | 

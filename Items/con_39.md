@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Kassandra Pack"
 permalink: /Items/con_39/
 excerpt: " Kassandra Pack"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_39.md"
 toc: false

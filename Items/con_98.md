@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Halberdier's Soul"
+title: "Item - Consumables -  5 Candy Variety Gift Boxes"
 permalink: /Items/con_98/
-excerpt: " Halberdier's Soul"
-last_modified_at: 2020-12-30
+excerpt: " 5 Candy Variety Gift Boxes"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_98.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Immortal Heroic Soul, can be used for Pikemen's Awakening
+ **Description:** Grants 5 Candy Variety Gift Boxes. A Candy Variety Gift Box grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,10 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **5x** | Candy Variety Gift Box | Grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.  | 

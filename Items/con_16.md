@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Dark Gaze Special Skin"
 permalink: /Items/con_16/
 excerpt: " Dark Gaze Special Skin"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_16.md"
 toc: false

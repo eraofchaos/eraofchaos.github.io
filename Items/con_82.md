@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Wings of Triumph: Gelu"
+title: "Item - Consumables -  Free reward package"
 permalink: /Items/con_82/
-excerpt: " Wings of Triumph: Gelu"
-last_modified_at: 2020-12-30
+excerpt: " Free reward package"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_82.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** 
+ **Description:** You've reached VIP level 6! You receive a free chance to send a red envelope to your guild members!
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -23,10 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 5 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Wings of Triumph: Gelu |  | 

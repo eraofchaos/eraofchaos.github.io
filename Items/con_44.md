@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Advanced Book of Essences"
 permalink: /Items/con_44/
 excerpt: " Advanced Book of Essences"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_44.md"
 toc: false

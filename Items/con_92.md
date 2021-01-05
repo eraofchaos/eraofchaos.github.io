@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Guardian of Vernin Ryland"
+title: "Item - Consumables -  Candy Witch"
 permalink: /Items/con_92/
-excerpt: " Guardian of Vernin Ryland"
-last_modified_at: 2020-12-30
+excerpt: " Candy Witch"
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_92.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get a skin: Guardian of Vernin Ryland
+ **Description:** Use to get a skin: Candy Witch Vidomina
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 

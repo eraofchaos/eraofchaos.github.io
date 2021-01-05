@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Random Orange Holy Emblem Pack"
 permalink: /Items/con_26/
 excerpt: " Random Orange Holy Emblem Pack"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_26.md"
 toc: false

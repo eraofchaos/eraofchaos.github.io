@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Holy Crystal"
 permalink: /Items/con_50/
 excerpt: " Holy Crystal"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_50.md"
 toc: false

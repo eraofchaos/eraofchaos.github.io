@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Candy Variety Gift Box"
 permalink: /Items/con_23/
 excerpt: " Candy Variety Gift Box"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_23.md"
 toc: false

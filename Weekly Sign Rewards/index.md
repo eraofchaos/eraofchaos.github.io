@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 CW 2  Inferno Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **11.1**  | **5x Imp**  | A squad of Imp joined your army and you become stronger! |
+  | **12.1**  | **5x Gog**  | A squad of Gog joined your army and you become stronger! |
+  | **13.1**  | **3x Hell Hound**  | A squad of Hell Hound joined your army and you become stronger! |
+  | **14.1**  | **5x Inferno Unit Chest**  | Your inferno corps has presented you with a number of valuable treasure chests! |
+  | **15.1**  | **3x Demon**  | A squad of Demon joined your army and you become stronger! |
+  | **16.1**  | **3x Pit Fiend**  | A squad of Pit Fiend joined your army and you become stronger! |
+  | **17.1**  | **5x Rashka**  | The hero Rashka has taken an interest in your expansion and would like to join your faction! |
+
 
 #### 2021 CW 1  Castle Week
 

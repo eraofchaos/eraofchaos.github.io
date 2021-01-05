@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Sir Pumpkin: Black Knight Skin"
 permalink: /Items/con_47/
 excerpt: " Sir Pumpkin: Black Knight Skin"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-05
 lang: en
 ref: "con_47.md"
 toc: false
