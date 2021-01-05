@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Medusa](/Items/unt_38/)
+
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -99,6 +101,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

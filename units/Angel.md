@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Angel](/Items/unt_103/)
+
  **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
@@ -99,6 +101,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

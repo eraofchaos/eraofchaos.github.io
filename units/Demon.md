@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Demon](/Items/unt_78/)
+
  **Unit description:** Scalding Strike: Deals colossal damage to enemy troops.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Defense
 * Unit Dodge
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

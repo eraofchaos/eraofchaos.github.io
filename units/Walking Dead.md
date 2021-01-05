@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Walking Dead](/Items/unt_135/)
+
  **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -103,6 +105,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

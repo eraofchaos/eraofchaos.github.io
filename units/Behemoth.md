@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Behemoth](/Items/unt_75/)
+
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

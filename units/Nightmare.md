@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Nightmare](/Items/unt_5/)
+
  **Info:** Defense support. Increases Inferno units' all-round power
 
 ## Basic stats
@@ -96,6 +98,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Manticore](/Items/unt_74/)
+
  **Unit description:** 
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -98,6 +100,8 @@ toc: true
 * HP
 * Attack Speed
 * unit Damage
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

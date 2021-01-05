@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Regnan Pirates](/Items/unt_32/)
+
  **Recommend:** Multi-staged attack, high burst damage, high DPS
 
  **Info:** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

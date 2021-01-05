@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Mage](/Items/unt_21/)
+
  **Unit description:** Spell penetration: Damage to single units gets higher and higher
 
  **Recommend:** Deals extra damage to any slowed enemies.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Unit Critical Hit
 * unit Damage
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

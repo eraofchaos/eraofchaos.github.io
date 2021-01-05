@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Ice Elemental](/Items/unt_22/)
+
  **Info:** Controlling Mage, Coats everything in ice, Supporting ice wall
 
 ## Basic stats
@@ -97,6 +99,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

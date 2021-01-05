@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Assassin](/Items/unt_67/)
+
  **Info:** Assassination damage, weakens healing, throws knives, and silences enemies.
 
 ## Basic stats
@@ -96,6 +98,8 @@ toc: true
 * HP
 * unit Damage
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

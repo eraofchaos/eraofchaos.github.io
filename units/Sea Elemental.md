@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Sea Elemental](/Items/unt_68/)
+
  **Recommend:** Powerful crowd control, great restoration
 
  **Info:** Strong battle controller. Constantly weakens enemies
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

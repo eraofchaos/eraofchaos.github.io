@@ -26,6 +26,8 @@ toc: true
 
  **Rank:** Commander
 
+ **Unit Soul:** [ Dragon Golem](/Items/unt_70/)
+
  **Info:** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
 
 ## Basic stats
@@ -102,6 +104,8 @@ toc: true
 * HP
 * unit DMG Reduction
 * Magic resistance
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

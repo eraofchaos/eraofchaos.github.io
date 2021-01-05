@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Pit Fiend](/Items/unt_132/)
+
  **Unit description:** Fire Spring: Continuously heals friendly units in its path
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Healing
 * unit Damage
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

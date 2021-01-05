@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Cyclops](/Items/unt_96/)
+
  **Unit description:** Flame Stone: Deals catastrophic damage to all enemy troops in its path.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

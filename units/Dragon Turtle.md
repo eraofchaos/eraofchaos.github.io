@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Dragon Turtle](/Items/unt_89/)
+
  **Recommend:** Powerful tank, takes damage for allied units.
 
  **Info:** Powerful defender. Restores HP after dying
@@ -98,6 +100,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

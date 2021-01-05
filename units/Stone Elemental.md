@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Stone Elemental](/Items/unt_51/)
+
  **Info:** Stuns everyone within range, Deadly Split, High toughness
 
 ## Basic stats
@@ -97,6 +99,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

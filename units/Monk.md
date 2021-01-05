@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Monk](/Items/unt_63/)
+
  **Unit description:** Prayer: Heals the unit in your army with the lowest health.
 
  **Recommend:** Warrior, Mage and Priest work well together.  
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Healing
 * Magic resistance
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

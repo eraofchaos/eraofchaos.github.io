@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Gnoll](/Items/unt_41/)
+
  **Unit description:** 
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -102,6 +104,8 @@ toc: true
 * HP
 * unit Damage
 * Magic resistance
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

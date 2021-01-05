@@ -26,6 +26,8 @@ toc: true
 
  **Rank:** Commander
 
+ **Unit Soul:** [ Dark Champion](/Items/unt_105/)
+
  **Info:** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
 ## Basic stats
@@ -104,6 +106,8 @@ toc: true
 * HP
 * Attack Speed
 * unit Damage
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

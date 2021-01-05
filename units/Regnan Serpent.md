@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Regnan Serpent](/Items/unt_87/)
+
  **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
 
  **Recommend:** Powerful tank and enemy deterrent
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

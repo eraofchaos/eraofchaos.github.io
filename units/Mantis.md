@@ -103,6 +103,8 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+
 
 ## Awaking
 ### Awaking Details

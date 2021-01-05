@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Devil](/Items/unt_19/)
+
  **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

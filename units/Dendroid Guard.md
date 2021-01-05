@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Dendroid Guard](/Items/unt_83/)
+
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
  **Recommend:** Deals extra damage to any slowed enemies.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

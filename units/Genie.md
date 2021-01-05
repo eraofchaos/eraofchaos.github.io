@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Genie](/Items/unt_7/)
+
  **Unit description:** Energy Gift: Converts ATK into healing
 
  **Recommend:** Warrior, Mage and Priest work well together.  
@@ -99,6 +101,8 @@ toc: true
 * HP
 * Healing
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

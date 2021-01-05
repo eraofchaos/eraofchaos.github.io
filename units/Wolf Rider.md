@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Wolf Rider](/Items/unt_25/)
+
  **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -103,6 +105,8 @@ toc: true
 * HP
 * unit Damage
 * Magic resistance
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

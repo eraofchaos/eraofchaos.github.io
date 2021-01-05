@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Stone Gargoyle](/Items/unt_134/)
+
  **Unit description:** Stone Form: Increases ATK and ATK speed
 
  **Recommend:** Warrior, Mage and Priest work well together. 
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Unit Dodge
 * Magic resistance
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

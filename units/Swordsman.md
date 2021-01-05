@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Swordsman](/Items/unt_61/)
+
  **Unit description:** Divine Protection: Reduce damage taken
 
  **Recommend:** Deals extra damage to any slowed enemies.
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Defense
 * Magic resistance
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

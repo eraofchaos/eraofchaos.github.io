@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** Commander
 
+ **Unit Soul:** [ Judicator](/Items/unt_140/)
+
  **Info:** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
 
 ## Basic stats
@@ -98,6 +100,8 @@ toc: true
 * HP
 * Healing
 * unit Damage
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

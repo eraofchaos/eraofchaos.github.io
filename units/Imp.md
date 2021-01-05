@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Imp](/Items/unt_62/)
+
  **Unit description:** Impulse: Unit has a chance to revive with full health after death.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Unit Dodge
 * Magic resistance
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

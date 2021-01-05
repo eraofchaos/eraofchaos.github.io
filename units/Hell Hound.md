@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Hell Hound](/Items/unt_99/)
+
  **Unit description:** Rampage: Each hit is critical attack for a short period.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Unit Critical Hit
 * Magic resistance
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

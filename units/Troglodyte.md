@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Troglodyte](/Items/unt_23/)
+
  **Unit description:** Spear Array: AoE damage and stunning
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Unit Critical Hit
 * Magic resistance
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

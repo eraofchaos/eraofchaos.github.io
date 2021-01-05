@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Mermaid](/Items/unt_106/)
+
  **Info:** Strong healer. Offers great buffs at the start of battle
 
 ## Basic stats
@@ -95,6 +97,8 @@ toc: true
 * HP
 * Attack Speed
 * Healing
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

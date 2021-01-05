@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Sprite](/Items/unt_130/)
+
  **Info:** Explodes on death, Silences target, Increases hero starting mana
 
 ## Basic stats
@@ -98,6 +100,8 @@ toc: true
 * HP
 * unit Damage
 * Magic resistance
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

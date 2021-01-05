@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Mummy](/Items/unt_47/)
+
  **Unit description:** Decaying Curse: Greatly decreased enemies' healing
 
  **Info:** Disease carrier. Decreases healing of all hostile units
@@ -99,6 +101,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

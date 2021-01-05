@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Unicorn](/Items/unt_138/)
+
  **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Unit Dodge
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

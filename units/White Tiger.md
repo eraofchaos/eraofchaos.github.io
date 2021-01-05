@@ -103,6 +103,8 @@ toc: true
 * Attack Speed
 * unit Damage
 
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
+
 
 ## Awaking
 ### Awaking Details

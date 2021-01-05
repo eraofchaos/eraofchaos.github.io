@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Fire Elemental](/Items/unt_8/)
+
  **Info:** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
 ## Basic stats
@@ -98,6 +100,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Dodge
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

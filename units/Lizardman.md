@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Lizardman](/Items/unt_95/)
+
  **Unit description:** 
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

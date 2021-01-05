@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Green Dragon](/Items/unt_121/)
+
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
  **Recommend:** Water magic can deal extra damage to your enemies with its bleeding effect.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Unit Critical Hit
 * unit Damage
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Centaur](/Items/unt_58/)
+
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
  **Recommend:** Deals extra damage to any slowed enemies.
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

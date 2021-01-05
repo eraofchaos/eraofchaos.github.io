@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Druid](/Items/unt_30/)
+
  **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
  **Info:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
@@ -98,6 +100,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

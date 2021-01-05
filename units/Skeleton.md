@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Skeleton](/Items/unt_80/)
+
  **Unit description:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -104,6 +106,8 @@ toc: true
 * HP
 * Defense
 * Magic resistance
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

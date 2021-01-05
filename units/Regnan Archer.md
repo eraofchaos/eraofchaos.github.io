@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Regnan Archer](/Items/unt_48/)
+
  **Info:** Crit Hit and penetration. Battle reaper
 
 ## Basic stats
@@ -97,6 +99,8 @@ toc: true
 * HP
 * Attack Speed
 * unit Damage
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

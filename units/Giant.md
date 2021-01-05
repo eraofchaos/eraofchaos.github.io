@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Giant ](/Items/unt_36/)
+
  **Unit description:** God of War: Ignores range and deals HP percentage damage
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
@@ -100,6 +102,8 @@ toc: true
 * HP
 * unit Damage
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

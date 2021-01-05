@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Firebird](/Items/unt_92/)
+
  **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
 
  **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Unit Critical Hit
 * unit Damage
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

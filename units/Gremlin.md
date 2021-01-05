@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Gremlin](/Items/unt_81/)
+
  **Unit description:** Magic Ironball: Greatly increases ATK and ATK speed
 
  **Recommend:** Warrior, Mage and Priest work well together. 
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

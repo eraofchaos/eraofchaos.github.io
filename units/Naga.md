@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Naga](/Items/unt_53/)
+
  **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

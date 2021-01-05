@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Dwarf](/Items/unt_42/)
+
  **Unit description:** Dwarf Howl: Increases friendly unit's max health at the beginning of a battle.
 
  **Recommend:** Increasing your troops' max health makes them stronger at resisting attack.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Defense
 * Magic resistance
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

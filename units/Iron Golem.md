@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Iron Golem](/Items/unt_115/)
+
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * unit DMG Reduction
 * Magic resistance
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

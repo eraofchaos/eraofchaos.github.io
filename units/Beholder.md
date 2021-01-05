@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Beholder](/Items/unt_54/)
+
  **Unit description:** Mind Control: Immobilizes enemies and makes them lose HP over time
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -98,6 +100,8 @@ toc: true
 * HP
 * unit Damage
 * Magic resistance
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

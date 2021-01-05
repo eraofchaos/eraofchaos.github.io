@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Paladin](/Items/unt_84/)
+
  **Unit description:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units.
@@ -100,6 +102,8 @@ toc: true
 * HP
 * Defense
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

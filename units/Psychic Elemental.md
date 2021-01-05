@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Psychic Elemental](/Items/unt_33/)
+
  **Info:** Ranged damage, Reduces enemy mana upon death, Core attacker
 
 ## Basic stats
@@ -97,6 +99,8 @@ toc: true
 * HP
 * Attack Speed
 * unit Damage
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

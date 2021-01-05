@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Marksman](/Items/unt_24/)
+
  **Unit description:** Explosive Arrow: Deals sizeable damage to enemy units.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Unit Critical Hit
 * Magic resistance
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

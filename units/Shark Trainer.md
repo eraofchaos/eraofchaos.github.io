@@ -26,6 +26,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Shark Trainer](/Items/unt_1/)
+
  **Info:** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
 
 ## Basic stats
@@ -99,6 +101,8 @@ toc: true
 * HP
 * Attack Speed
 * unit Damage
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

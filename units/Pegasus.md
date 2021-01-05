@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Pegasus](/Items/unt_101/)
+
  **Unit description:** Vitality Protection: Gives a life shield to the closest units in your army.
 
  **Recommend:** Deals extra damage to any slowed enemies.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Attack Speed
 * Unit Critical Hit
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

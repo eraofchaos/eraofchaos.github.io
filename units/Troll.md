@@ -105,6 +105,8 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
+
 
 ## Awaking
 ### Awaking Details

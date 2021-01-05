@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Magic Airship](/Items/unt_91/)
+
  **Info:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
 
 ## Basic stats
@@ -96,6 +98,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
 
 
 ## Awaking

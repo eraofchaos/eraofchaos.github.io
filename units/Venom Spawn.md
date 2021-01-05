@@ -103,6 +103,8 @@ toc: true
 * Defense
 * unit DMG Reduction
 
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+
 
 ## Awaking
 ### Awaking Details

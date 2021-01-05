@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Cavalier ](/Items/unt_44/)
+
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
@@ -102,6 +104,8 @@ toc: true
 * HP
 * unit Damage
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

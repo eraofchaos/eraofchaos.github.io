@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Black Dragon](/Items/unt_125/)
+
  **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
@@ -98,6 +100,8 @@ toc: true
 * HP
 * unit Damage
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
 
 
 ## Awaking

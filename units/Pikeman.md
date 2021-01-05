@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** R
 
+ **Unit Soul:** [ Pikeman](/Items/unt_116/)
+
  **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
@@ -102,6 +104,8 @@ toc: true
 * HP
 * Unit Critical Hit
 * Magic resistance
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

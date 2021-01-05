@@ -26,6 +26,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Waspwort](/Items/unt_49/)
+
  **Info:** DPS unit proficient at control. Summons units to destroy enemies
 
 ## Basic stats
@@ -99,6 +101,8 @@ toc: true
 * HP
 * Attack Speed
 * unit Damage
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

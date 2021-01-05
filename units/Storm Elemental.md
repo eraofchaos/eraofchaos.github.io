@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Storm Elemental](/Items/unt_110/)
+
  **Info:** Static Marker, Extra damage, Multiple attacks on a single target
 
 ## Basic stats
@@ -97,6 +99,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

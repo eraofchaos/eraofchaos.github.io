@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SSR
 
+ **Unit Soul:** [ Spartan Warriors](/Items/unt_88/)
+
  **Info:** Crushing shield stuns enemies. Death of a unit inspires allies.
 
 ## Basic stats
@@ -96,6 +98,8 @@ toc: true
 * HP
 * unit Damage
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
 
 
 ## Awaking

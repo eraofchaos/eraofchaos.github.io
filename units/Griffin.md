@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Griffin](/Items/unt_11/)
+
  **Unit description:** Dive: Deals damage to 3 opponent units when attacking.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * unit Damage
 * unit DMG Reduction
+
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
 
 
 ## Awaking

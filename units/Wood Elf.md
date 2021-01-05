@@ -23,6 +23,8 @@ toc: true
 
  **Rank:** SR
 
+ **Unit Soul:** [ Wood Elf](/Items/unt_100/)
+
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
  **Recommend:** Deals extra damage to any slowed enemies.
@@ -101,6 +103,8 @@ toc: true
 * HP
 * Attack Speed
 * Magic resistance
+
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
 
 
 ## Awaking

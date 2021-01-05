@@ -103,6 +103,8 @@ toc: true
 * Attack Speed
 * unit Damage
 
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
+
 
 ## Awaking
 ### Awaking Details
