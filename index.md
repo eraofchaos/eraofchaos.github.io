@@ -9,7 +9,15 @@ sidebar:
 ---
 
 {% capture notice-update20210105 %}
-Today is big game update. First Commander(UR Unit) for Castle Faction - [Judicator](https://eraofchaos.github.io/units/Judicator/)
+Client update:
+
+* Added First Commander(UR Unit) for Castle Faction - [Judicator](https://eraofchaos.github.io/units/Judicator/)
+* Hero Astral got a new Skin [Undying Love](https://eraofchaos.github.io/heroes/Astral/#skin-2-undying-love)
+* Unit Monk got [Awakening](https://eraofchaos.github.io/units/Monk/#awaking)
+* Unit Marksman got [Awakening](https://eraofchaos.github.io/units/Marksman/#awaking)
+* New Chronicles with 8 new chapters.
+
+Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 17 Jan 2021) and [Schedule](https://eraofchaos.github.io/Schedule/) (up to 18 Jan 2021).
 
 Please [vote for our new development priority](https://www.reddit.com/r/era_of_chaos/comments/kqbido/eraofchaos_next_topic/)
 {% endcapture %}
@@ -42,9 +50,9 @@ You will find here:
 ### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 ### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
-### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 10 Jan 2021)
+### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 17 Jan 2021)
 ### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
-### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/)
+### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 18 Jan 2021)
 <br/>
 <br/>
 **YOUR feedback is welcome!**
