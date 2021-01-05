@@ -20,26 +20,26 @@ classes: wide
   | 5   | 2021-1-10 | 2021-1-13 | Abyss Trial | This week is the week of Inferno. Complete a special mission and you'll get an exclusive reward from the Inferno unit! (Mission resets daily) | [ Obsidian](/Items/con_103/), [ Inferno Unit Chest](/Items/con_716/), [ Gold Key](/Items/con_720/),  | 
   | 6   | 2021-1-10 | 2021-1-13 | Gold exchange | Get double the gold when buying from the trading post. |  | 
   | 7   | 2021-1-10 | 2021-1-13 | Obsidian Redemption | Elite Inferno units and exclusive item redemptions are available for a limited time! Don't miss out! | [ SSR Unit Soul](/Items/con_1061/), [ Astro Silver](/Items/con_948/), [ Gold Key](/Items/con_720/),  | 
-  | 8   | 2021-1-11 | 2021-1-13 | Upgrade Talent | During the event, consuming a specific bottle of talent potion will grant you an additional bottle of talent potion too! | [ Talent potion ingredients](/Items/con_533/), _?_,  | 
+  | 8   | 2021-1-11 | 2021-1-13 | Upgrade Talent | During the event, consuming a specific bottle of talent potion will grant you an additional bottle of talent potion too! | [ Talent potion ingredients](/Items/con_533/),  <i class="fas fa-coins"/>,  | 
   | 9   | 2021-1-11 | 2021-1-14 | Novice Duel | The new Duel of Champions begins! Push yourself beyond your limits and win incredible rewards! | [ Gold Key](/Items/con_720/), [ Ancient Temple Scroll](/Items/con_271/), [ Inferno Roster runes](/Items/con_659/),  | 
   | 10   | 2021-1-13 | 2021-1-15 | Gold Rush | Double the gold gained from Dwarven Treasury. |  | 
   | 11   | 2021-1-13 | 2021-1-17 | Elite Challenge | Challenge yourself in Elite Levels during the event to win exciting prizes. | [ Devil](/Items/unt_19/), [ Purple Crystal](/Items/con_823/), [ Huge EXP potion](/Items/con_431/),  | 
-  | 12   | 2021-1-13 | 2021-1-17 | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | _?_, _?_, _?_,  | 
+  | 12   | 2021-1-13 | 2021-1-17 | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | _RUNE_30305, _RUNE_20205, _RUNE_50405,  | 
   | 13   | 2021-1-13 | 2021-1-17 | Life Celebration | Daily Underground challenges +1 |  | 
   | 14   | 2021-1-13 | 2021-1-17 | Lucky Snatch | Popular Holy Emblems are here. Come test your luck! |  | 
   | 15   | 2021-1-13 | 2021-1-17 | Single Purchase | Select a reward after meeting the purchase requirements. | [ Holy Emblem Redemption Ticket](/Items/con_1188/), [ Elite Hero Pack](/Items/con_509/), [ Premium Artifact Component Chest](/Items/con_1088/),  | 
   | 16   | 2021-1-13 | 2021-1-18 | Pearl Exchange | Exchanges for rare unit soul stones for a limited time. | [ Archdruid Soul Stone](/Items/unt_86/), [ Power Lich Soul Stone](/Items/unt_85/), [ Scorpicore Soul Stone](/Items/unt_17/), [ Mummy King Soul Stone](/Items/unt_141/), [ Evil Eye Soul Stone](/Items/unt_111/),  | 
-  | 17   | 2021-1-14 | 2021-1-18 | Guild Party | Win exciting rewards by participating in Guild activities during the event! | _?_, _?_, [ Medium Energy-Binding Vial](/Items/con_1260/),  | 
+  | 17   | 2021-1-14 | 2021-1-18 | Guild Party | Win exciting rewards by participating in Guild activities during the event! |  Guild coin,  Dragonsteel, [ Medium Energy-Binding Vial](/Items/con_1260/),  | 
   | 18   | 2021-1-15 | 2021-1-17 | Double Trial of Angels | Double the talent potion drops in Trial of Angels. |  | 
   | 19   | 2021-1-3 | 2021-1-6 | Double scrolls | Double the spell scrolls when purchasing from the trading post. |  | 
   | 20   | 2021-1-3 | 2021-1-6 | Medal Redemption | Limited-time redemption of exclusive items for Elite Castle units. Do not miss the high rewards! | [ SSR Unit Soul](/Items/con_1061/), [ Astro Silver](/Items/con_948/), [ Gold Key](/Items/con_720/),  | 
   | 21   | 2021-1-3 | 2021-1-6 | Royal Order | This week is the Week of Castles. Complete missions to receive exclusive rewards from the Castle faction! (Missions are reset each day) | [ Royal Medal](/Items/con_30/), [ Castle Unit Chest](/Items/con_637/), [ Gold Key](/Items/con_720/),  | 
   | 22   | 2021-1-4 | 2021-1-6 | Barracks Speed Up | Decreases token generation time for units in the barracks by  50%. |  | 
   | 23   | 2021-1-4 | 2021-1-7 | Campaign celebration | Open elven treasure chests during campaigns receives 20% off |  | 
-  | 24   | 2021-1-6 | 2021-1-10 | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | _?_, _?_, _?_,  | 
+  | 24   | 2021-1-6 | 2021-1-10 | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | _RUNE_30505, _RUNE_50605, _RUNE_40305,  | 
   | 25   | 2021-1-6 | 2021-1-10 | Limited-Time Covenant | Super popular UR units are available for a limited time and they await your summon! | [ Prophet Librams](/Items/con_3/),  | 
   | 26   | 2021-1-6 | 2021-1-10 | Login Reward | You can win exciting rewards by logging in every day during the event! | [ Green Dragon](/Items/unt_121/), [ Rampart Roster runes](/Items/con_223/), [ Huge EXP potion](/Items/con_431/),  | 
-  | 27   | 2021-1-6 | 2021-1-10 | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | _?_, [ Judicator](/Items/unt_140/),  | 
+  | 27   | 2021-1-6 | 2021-1-10 | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | AVATARFRAME1074, [ Judicator](/Items/unt_140/),  | 
   | 28   | 2021-1-6 | 2021-1-10 | Single Purchase | Select a reward after meeting the purchase requirements. | [ Holy Emblem Redemption Ticket](/Items/con_1188/), [ Elite Hero Pack](/Items/con_509/), [ Premium Artifact Component Chest](/Items/con_1088/),  | 
   | 29   | 2021-1-6 | 2021-1-8 | Dragon Utopia x2 | Double the skill runestones from Dragon Utopia. |  | 
   | 30   | 2021-1-7 | 2021-1-11 | Master of Exploration | Explore the Guild map for exciting rewards! | [ Rare Material Chest](/Items/con_349/), [ Basic Material Chest](/Items/con_340/), [ Purple Crystal](/Items/con_823/),  | 
