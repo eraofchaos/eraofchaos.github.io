@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Astral came to Erathia about a decade ago and was quickly accepted by the mage guild of Bracada. After obtaining a high rank in the guild, some joked that he must have used magic to get there so quickly."
 heroID: 61203
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-05
 lang: en
 ref: "Astral"
 toc: true
@@ -51,6 +51,16 @@ toc: true
 
  **Description:** <span style="color: #ffffff;font-size:20px">There are two kinds of people in the world: The chess players and the chess pieces. Which one do you want to be?</span>
 
+
+### Skin 2: **Undying Love**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Forget everything you saw. Tell me what the truth is by following your heart.</span>
+
+ **Skin features:** 
+
+   - Mind Magician
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
 
 
 ## Initial Mastery
