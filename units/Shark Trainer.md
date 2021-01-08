@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Units Shark Trainer"
 unitID: 9909
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Shark Trainer"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** [Cove](/units/Fraction Cove)
+ **Faction:** [Cove](/units/Fraction Cove)
 
  **Race:** Pirate
 
