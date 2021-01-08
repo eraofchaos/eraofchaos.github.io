@@ -21,6 +21,8 @@ classes: wide
 ## Assistance Lineup
 
   |:---:|:----:|:----|:-----:|
+  | - | - | - | - |
+  | - | - | - | - |
   | **Caster** | **Offensive** | - | - |
   | - | **Charging** | - | - |
 
