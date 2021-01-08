@@ -8,6 +8,16 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210107 %}
+Released Battlefield Backup (see Arsenal -> Backup):
+English:  <i class="fa-hat-cowboy-side"/>  [Backup](https://eraofchaos.github.io/Backup/) 
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">7 Jan 2021 Update:</h4>
+  {{ notice-update20210107 | markdownify }}
+</div>
+
 {% capture notice-update20210105 %}
 Client update:
 
@@ -26,8 +36,6 @@ Please [vote for our new development priority](https://www.reddit.com/r/era_of_c
   <h4 class="no_toc">5 Jan 2021 Update:</h4>
   {{ notice-update20210105 | markdownify }}
 </div>
-
-
 
 {% capture notice-update20210102 %}
 We are happy to announce preview for Schedule.
@@ -53,6 +61,7 @@ You will find here:
 ### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 17 Jan 2021)
 ### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
 ### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 18 Jan 2021)
+### <i class="fa-hat-cowboy-side"/>  [Battlefield Backup](https://eraofchaos.github.io/Backup/)
 <br/>
 <br/>
 **YOUR feedback is welcome!**
@@ -66,7 +75,6 @@ Currently in the development:
 ### <i class="fas fa-store"/>  [Stores](/stores/)
 ### <i class="fas fa-chess"/>  [Auto Chess](/autochess/)
 ### War Maschines (TBD)
-### Battlefield Backup (TBD)
 
 
 ## History
