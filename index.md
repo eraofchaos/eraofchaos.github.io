@@ -10,7 +10,7 @@ sidebar:
 
 {% capture notice-update20210107 %}
 Released Battlefield Backup (see Arsenal -> Backup):
-English:  <i class="fa-hat-cowboy-side"/>  [Backup](https://eraofchaos.github.io/Backup/) 
+English:  <i class="fas fa-hat-cowboy-side"/>  [Backup](https://eraofchaos.github.io/Backup/) 
 {% endcapture %}
 
 <div class="notice--danger">
@@ -61,7 +61,7 @@ You will find here:
 ### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 17 Jan 2021)
 ### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
 ### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 18 Jan 2021)
-### <i class="fa-hat-cowboy-side"/>  [Battlefield Backup](https://eraofchaos.github.io/Backup/)
+### <i class="fas fa-hat-cowboy-side"/>  [Battlefield Backup](https://eraofchaos.github.io/Backup/)
 <br/>
 <br/>
 **YOUR feedback is welcome!**
