@@ -21,7 +21,7 @@ classes: wide
   | 6  | [Hunt in the Forest](/Backup/Hunt in the Forest/) | 97 | Hunt in the Forest | Incentive | Empowerment |
 
 
-## Level up costs:
+## Special Skill Level up costs:
 
   |  Nr  | EXP | Total EXP | 
   |:-----|:----|:----------| 
@@ -42,9 +42,9 @@ classes: wide
   | 15 | **14670000** | **61046000** | 
 
 
-## Level up for Skills:
+## Level up for Battlefield Skill and Global Skill:
 
-  |  Nr  | Special Skill | Global Skill | 
+  |  Nr  | Battlefield Skill | Global Skill | 
   |:-----|:----|:----------| 
   | 1 | **1x** [ Energy Scroll](/Items/con_267/) | **5x** [ Energy Scroll](/Items/con_267/) | 
   | 2 | **2x** [ Energy Scroll](/Items/con_267/) | **10x** [ Energy Scroll](/Items/con_267/) | 
