@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  [Scythe of the Death](/Backup/Scythe of the Death/){: .btn .btn--warning}[Blessing of Luna](/Backup/Blessing of Luna/){: .btn .btn--success}[Charge Offensive](/Backup/Charge Offensive/){: .btn .btn--primary}[Hunt in the Forest](/Backup/Hunt in the Forest/){: .btn .btn--primary}[Spell Commandment](/Backup/Spell Commandment/){: .btn .btn--info}[Arctic Coercion](/Backup/Arctic Coercion/){: .btn .btn--danger}
+  [Charge Offensive](/Backup/Charge Offensive/){: .btn .btn--primary}[Blessing of Luna](/Backup/Blessing of Luna/){: .btn .btn--success}[Scythe of the Death](/Backup/Scythe of the Death/){: .btn .btn--warning}[Arctic Coercion](/Backup/Arctic Coercion/){: .btn .btn--danger}[Spell Commandment](/Backup/Spell Commandment/){: .btn .btn--info}[Hunt in the Forest](/Backup/Hunt in the Forest/){: .btn .btn--primary}
 
   Mages can tear a space portal open on the battlefield, transporting 3 back-up units onto the battlefield while generating a strong spell aura. Your enemies will be trembled by it.
 
