@@ -25,7 +25,7 @@ classes: wide
 
 ## Special Skill Level up costs:
 
-  |  Nr  | EXP | Total EXP | 
+  |  Level  | EXP | Total EXP | 
   |:-----|:----|:----------| 
   | 1 | **100000** | **100000** | 
   | 2 | **160000** | **260000** | 
@@ -46,7 +46,7 @@ classes: wide
 
 ## Level up for Battlefield Skill and Global Skill:
 
-  |  Nr  | Battlefield Skill | Global Skill | 
+  |  Level  | Battlefield Skill | Global Skill | 
   |:-----|:----|:----------| 
   | 1 | **1x** [ Energy Scroll](/Items/con_267/) | **5x** [ Energy Scroll](/Items/con_267/) | 
   | 2 | **2x** [ Energy Scroll](/Items/con_267/) | **10x** [ Energy Scroll](/Items/con_267/) | 

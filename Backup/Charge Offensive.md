@@ -51,7 +51,7 @@ classes: wide
 
  **Battlefield Skill Unlock:** 5x [ Energy Scroll](/Items/con_267/)
 
-  |  Nr  | Level up | Description | 
+  |  Level  | Level up | Description | 
   |:-----|:----|:----------| 
   | 1 | **1x** [ Energy Scroll](/Items/con_267/) | All friendly units' damage will be increased by <span style="color: #1ca216;font-size:16px">3%</span><span style="color: black"> if the formation is deployed during the battle | 
   | 2 | **2x** [ Energy Scroll](/Items/con_267/) | All friendly units' damage will be increased by <span style="color: #1ca216;font-size:16px">4%</span><span style="color: black"> if the formation is deployed during the battle | 
@@ -76,7 +76,7 @@ classes: wide
 
  **Global Skill Unlock:** 10x [ Energy Scroll](/Items/con_267/)
 
-  |  Nr  | Level up | Description | 
+  |  Level  | Level up | Description | 
   |:-----|:----|:----------| 
   | 1 | **5x** [ Energy Scroll](/Items/con_267/) | Increases heroes' ATK by <span style="color: #1ca216;font-size:16px">2</span><span style="color: black">, and fire spell damage by <span style="color: #1ca216;font-size:16px">2%</span><span style="color: black"> | 
   | 2 | **10x** [ Energy Scroll](/Items/con_267/) | Increases heroes' ATK by <span style="color: #1ca216;font-size:16px">4</span><span style="color: black">, and fire spell damage by <span style="color: #1ca216;font-size:16px">4%</span><span style="color: black"> | 
