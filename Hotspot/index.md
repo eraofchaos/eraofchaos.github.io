@@ -5,7 +5,7 @@ excerpt: "Hotspot.The hotspot artifacts will be updated at 05:00 on Mon. After t
 last_modified_at: 2021-01-11
 lang: en
 ref: "index.md"
-toc: true
+toc: false
 classes: wide
 ---
 
