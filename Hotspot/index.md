@@ -1,5 +1,5 @@
 ---
-title: "Hotspot"
+title: "Hotspot Artifacts"
 permalink: /Hotspot/
 excerpt: "Hotspot.The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
 last_modified_at: 2021-01-11
@@ -11,7 +11,7 @@ classes: wide
 
   The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes
 
-  HotSpot **Artifacts** by week in **2021**
+  HotSpot **Artifacts** for **2021**
 
   |  Date  |    First Artifact (pieces)    |   Second Artifact (pieces)   |
   |:-------|:------------------------------|:----------------------------:|
