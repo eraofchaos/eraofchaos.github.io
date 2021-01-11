@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Neutral Army -  Units"
 permalink: /units/Fraction Neutral Army/
 excerpt: "Fraction Neutral Army - List of Units in Era of Chaos"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Fraction Neutral Army"
 toc: false

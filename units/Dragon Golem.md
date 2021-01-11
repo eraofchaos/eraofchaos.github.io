@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Dragon Golem"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Fraction:** [Tower](/units/Fraction Tower)
+ **Faction:** [Tower](/units/Fraction Tower)
 
  **Race:** Dragon
 

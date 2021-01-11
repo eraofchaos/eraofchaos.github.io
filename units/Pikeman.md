@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Pikeman"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Fraction:** [Castle](/units/Fraction Castle)
+ **Faction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
 

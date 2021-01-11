@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Units The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Swordsman"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Fraction:** [Castle](/units/Fraction Castle)
+ **Faction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
 

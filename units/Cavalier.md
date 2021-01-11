@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Units Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Cavalier"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** [Castle](/units/Fraction Castle)
+ **Faction:** [Castle](/units/Fraction Castle)
 
  **Race:** Human
 

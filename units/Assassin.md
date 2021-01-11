@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Assassin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** [Neutral Army](/units/Fraction Neutral Army)
+ **Faction:** [Neutral Army](/units/Fraction Neutral Army)
 
  **Race:** Assassin Guild
 

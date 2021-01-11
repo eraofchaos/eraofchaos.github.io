@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Units Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Troll"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Fraction:** [Stronghold](/units/Fraction Stronghold)
+ **Faction:** [Stronghold](/units/Fraction Stronghold)
 
  **Race:** Beast Master
 

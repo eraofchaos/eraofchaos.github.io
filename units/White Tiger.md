@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Units White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "White Tiger"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** [Fortress](/units/Fraction Fortress)
+ **Faction:** [Fortress](/units/Fraction Fortress)
 
  **Race:** Unicorn
 

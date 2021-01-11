@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Units Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Vampire"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** [Necropolis](/units/Fraction Necropolis)
+ **Faction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Evil spirit
 

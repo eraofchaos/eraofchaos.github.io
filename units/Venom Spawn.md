@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Units These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Venom Spawn"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Fraction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Demoniac
 

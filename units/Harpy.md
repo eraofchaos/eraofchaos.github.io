@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Units The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-08
 lang: en
 ref: "Harpy"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
- **Fraction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Fraction Dungeon)
 
  **Race:** Dungeon troops
 
