@@ -6,6 +6,9 @@ last_modified_at: 2021-01-12
 lang: en
 ref: "index.md"
 toc: true
+layout: single
+sidebar:
+  nav: "docs"
 ---
 
 
