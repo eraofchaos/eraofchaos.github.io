@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Dungeon SR+ Unit Token Selection Chest"
+title: "Item - Consumables -  428 Diamond Pack"
 permalink: /Items/con_25/
-excerpt: " Dungeon SR+ Unit Token Selection Chest"
-last_modified_at: 2021-01-05
+excerpt: " 428 Diamond Pack"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_25.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 Medusa, Beholder, or Manticore token.
+ **Description:** A treasure chest containing 428 diamonds!
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** EXP
 
 ## Gather
 
@@ -23,12 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (0):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Medusa | Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.  | 
-  | 2 |  **1x** | Beholder | Once you have gathered 80 soul tokens you can summon a Beholder. Tokens can also be used to upgrade or increase the rank of Beholders.  | 
-  | 3 |  **1x** | Manticore | Once you have gathered 80 soul tokens you can summon a Manticore. Tokens can also be used to upgrade or increase the rank of manticores.  | 

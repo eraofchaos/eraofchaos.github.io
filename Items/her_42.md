@@ -2,7 +2,7 @@
 title: "Item - Heroes -  The Seventh Sense"
 permalink: /Items/her_42/
 excerpt: " The Seventh Sense"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_42.md"
 toc: false

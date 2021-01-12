@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Energy Core Special Skin"
+title: "Item - Consumables -  Gauze Token"
 permalink: /Items/con_70/
-excerpt: " Energy Core Special Skin"
-last_modified_at: 2021-01-05
+excerpt: " Gauze Token"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_70.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Unlock the skin when Hydra's Head is awakened.
+ **Description:** A Gauze token from an ancient campaign that can be used for awakening Mummy's exclusive potential, Gauze.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** EXCLUSIVE_SPLICE
 
 ## Gather
 

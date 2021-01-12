@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Hindrance"
 permalink: /Items/her_41/
 excerpt: " Hindrance"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_41.md"
 toc: false

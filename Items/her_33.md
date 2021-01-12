@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Fragmentation"
 permalink: /Items/her_33/
 excerpt: " Fragmentation"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_33.md"
 toc: false

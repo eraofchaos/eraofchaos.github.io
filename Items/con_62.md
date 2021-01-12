@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Stone Elemental Special Offer Pack"
+title: "Item - Consumables -  Level 10 guild package"
 permalink: /Items/con_62/
-excerpt: " Stone Elemental Special Offer Pack"
-last_modified_at: 2021-01-05
+excerpt: " Level 10 guild package"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_62.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to get 3-star Stone Elemental *1, Defense Talent Potion *288, Elemental Roster runes *30 and Diamond *3280
+ **Description:** Randomly receive one of the following: 65 diamonds, 270,000 gold, or 65 spell scrolls.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -25,11 +25,10 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 1 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 | _TEAM_905 | 
-  | 2 |  **288x** | Defensive Talent Potion | This potion improves your Defensive units' attributes and upgrades their skills.  | 
-  | 3 |  **30x** | Conflux Roster runes | Important item to increase your Conflux rankings.  | 
-  | 4 |  **3280x** | <i class="fas fa-gem"/> |  | 
+  | 1 |  **65x** | Heaven-Cast Stone | A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.  | 
+  | 2 |  **270000x** | <i class="fas fa-coins"/> |  | 
+  | 3 |  **65x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 

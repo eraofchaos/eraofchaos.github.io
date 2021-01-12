@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Fireball"
 permalink: /Items/her_13/
 excerpt: " Fireball"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_13.md"
 toc: false

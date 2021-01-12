@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Golden Duke: Crag Hack"
+title: "Item - Consumables -  Might"
 permalink: /Items/con_32/
-excerpt: " Golden Duke: Crag Hack"
-last_modified_at: 2021-01-05
+excerpt: " Might"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_32.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get Crag Hack's Golden Duke skin
+ **Description:** It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure!
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

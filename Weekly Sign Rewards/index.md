@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 CW 3  Fortress Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **18.1**  | **5x Gnoll**  | A squad of Gnoll joined your army and you become stronger! |
+  | **19.1**  | **5x Fortress Faction Chest**  | Your fortress corps has presented you with a number of valuable treasure chests! |
+  | **20.1**  | **100x gem**  | Your army have found lots of treasure in the dark swamp! |
+  | **21.1**  | **3x Lizardman**  | A squad of Lizardman joined your army and you become stronger! |
+  | **22.1**  | **5x Fortress Roster runes**  | Your inferno corps has presented you with a number of valuable runes! |
+  | **23.1**  | **3x Serpent Fly**  | A squad of Serpent Fly joined your army and you become stronger! |
+  | **24.1**  | **5x Korbac**  | A brave Beast Master has visited your territory! |
+
 
 #### 2021 CW 2  Inferno Week
 

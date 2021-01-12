@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Certificate"
 permalink: /Items/mat_76/
 excerpt: " Legendary Certificate"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_76.md"
 toc: false

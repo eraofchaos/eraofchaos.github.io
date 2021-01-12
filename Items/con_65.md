@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Night Tides Special Skin"
+title: "Item - Consumables -  Bonetooth Necklace"
 permalink: /Items/con_65/
-excerpt: " Night Tides Special Skin"
-last_modified_at: 2021-01-05
+excerpt: " Bonetooth Necklace"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_65.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Unlock the skin when Night Tides is awakened.
+ **Description:** A necklace made from the skulls of powerful beasts. Can be exchanged for Stronghold Faction items in corresponding events.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

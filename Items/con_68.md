@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Armageddon's Blade Offer"
+title: "Item - Consumables -  Orange +4 Material Chest"
 permalink: /Items/con_68/
-excerpt: " Armageddon's Blade Offer"
-last_modified_at: 2021-01-05
+excerpt: " Orange +4 Material Chest"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_68.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 1 Doomsday Component Chest and 3,880 diamonds.
+ **Description:** Receive a random orange +4 equipment-upgrading item.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -25,9 +25,13 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 3 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **3880x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Doomsday Component Chest | A component chest of the Armageddon's Blade. Use it to select 1 of the components from the Armageddon's Blade's Artifacts  | 
+  | 1 |  **1x** | Star Ore | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 2 |  **1x** | Star Wood | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 3 |  **1x** | Star Mercury | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 4 |  **1x** | Star Sulfur | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 5 |  **1x** | Star Gems | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 6 |  **1x** | Star Crystal | Common materials to upgrade equipment from orange +4 to orange +5.  | 

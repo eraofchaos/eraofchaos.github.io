@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Astro Silver Pack C"
+title: "Item - Consumables -  Darkness Dominance Pack"
 permalink: /Items/con_73/
-excerpt: " Astro Silver Pack C"
-last_modified_at: 2021-01-05
+excerpt: " Darkness Dominance Pack"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_73.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Buy to get 10 astro silvers, 1,780 diamonds, and 1,780 VIP EXP.
+ **Description:** Use it to select one from the following: Darkness Dominance Avatar Frame *1 or Bone Dragon Token *5
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ You would need to choose 1 item from the list (0):
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **10x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
-  | 2 |  **1780x** | <i class="fas fa-gem"/> |  | 
+  | 1 | AVATARFRAME1034 | 
+  | 2 |  **5x** | Bone Dragon | Once you have gathered 80 soul tokens you can summon a Bone Dragon, an SSR aptitude unit.  | 

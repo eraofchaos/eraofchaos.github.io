@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Dungeon Faction Selection Chest"
+title: "Item - Consumables -  Daily Special Offer Pack A"
 permalink: /Items/con_43/
-excerpt: " Dungeon Faction Selection Chest"
-last_modified_at: 2021-01-05
+excerpt: " Daily Special Offer Pack A"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_43.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 Troglodyte, Harpy, or Minotaur token.
+ **Description:** Grants 2 random unit token packs and 20 diamonds.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -25,10 +25,9 @@ classes: wide
 
  **Required Level to open:** 1
 
- You would need to choose 1 item from the list (0):
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Troglodyte | Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes.  | 
-  | 2 |  **1x** | Harpy | Once you have gathered 30 soul tokens you can summon a Harpy. Tokens can also be used to upgrade or increase the rank of harpies.  | 
-  | 3 |  **1x** | Minotaur | Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.  | 
+  | 1 |  **20x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **2x** | Random Unit Token Pack | Randomly grants 1 R or SR unit token.  | 

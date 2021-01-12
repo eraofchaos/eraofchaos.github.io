@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Prophet Librams"
+title: "Item - Consumables -  Oracle Covenant"
 permalink: /Items/con_3/
-excerpt: " Prophet Librams"
-last_modified_at: 2021-01-05
+excerpt: " Oracle Covenant"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_3.md"
 toc: false

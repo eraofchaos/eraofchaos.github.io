@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Dragon Breath"
 permalink: /Items/her_8/
 excerpt: " Dragon Breath"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_8.md"
 toc: false

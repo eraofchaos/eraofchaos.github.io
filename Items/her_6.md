@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Fire Blast"
 permalink: /Items/her_6/
 excerpt: " Fire Blast"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_6.md"
 toc: false

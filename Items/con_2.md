@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Dungeon Roster runes"
 permalink: /Items/con_2/
 excerpt: " Dungeon Roster runes"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_2.md"
 toc: false

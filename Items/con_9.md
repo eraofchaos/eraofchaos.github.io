@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Soul Stone Pack 2"
 permalink: /Items/con_9/
 excerpt: " Soul Stone Pack 2"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_9.md"
 toc: false

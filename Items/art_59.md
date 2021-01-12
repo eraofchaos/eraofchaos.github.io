@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Shield of the Yawning Dead"
 permalink: /Items/art_59/
 excerpt: " Shield of the Yawning Dead"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_59.md"
 toc: false

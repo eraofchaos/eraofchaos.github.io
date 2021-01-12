@@ -2,7 +2,7 @@
 title: "Item - Consumables -  198 Diamond Pack"
 permalink: /Items/con_11/
 excerpt: " 198 Diamond Pack"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Valuable Crystal"
 permalink: /Items/mat_95/
 excerpt: " Valuable Crystal"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_95.md"
 toc: false

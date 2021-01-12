@@ -2,7 +2,7 @@
 title: "Item - Materials -  Superior Gems"
 permalink: /Items/mat_41/
 excerpt: " Superior Gems"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_41.md"
 toc: false

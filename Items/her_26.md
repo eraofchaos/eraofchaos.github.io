@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Death Ripple"
 permalink: /Items/her_26/
 excerpt: " Death Ripple"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_26.md"
 toc: false

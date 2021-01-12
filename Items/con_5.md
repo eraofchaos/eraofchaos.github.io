@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Wyvern Monarch's Soul"
 permalink: /Items/con_5/
 excerpt: " Wyvern Monarch's Soul"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_5.md"
 toc: false

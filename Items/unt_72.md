@@ -2,7 +2,7 @@
 title: "Item - Units -  Arch Devil Soul Stone"
 permalink: /Items/unt_72/
 excerpt: " Arch Devil Soul Stone"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_72.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Units -  Silent Snow Spirit Soul Stone"
 permalink: /Items/unt_69/
 excerpt: " Silent Snow Spirit Soul Stone"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_69.md"
 toc: false

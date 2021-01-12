@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Sign-in Coins"
+title: "Item - Consumables -  V1 Premium Package"
 permalink: /Items/con_52/
-excerpt: " Sign-in Coins"
-last_modified_at: 2021-01-05
+excerpt: " V1 Premium Package"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_52.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Rare Coins, can exchange for different items in the Sign-in Store
+ **Description:** A premium pack that can only be purchased by VIP 1 players
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Other
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,15 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **5x** | Book of Arms | Rare materials to upgrade equipment from blue to blue +1.  | 
+  | 2 |  **5x** | Blue Material Chest | Receive a random blue equipment-upgrading item.  | 
+  | 3 |  **5x** | Green Material Chest | Receive a random green equipment-upgrading item.  | 
+  | 4 |  **5x** | White Material Chest | Receive a random white equipment-upgrading item.  | 
+  | 5 |  **10000x** | <i class="fas fa-coins"/> |  | 
+  | 6 |  **1000x** | Unit EXP | Leveling up your units consumes unit experience.  | 

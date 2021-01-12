@@ -2,7 +2,7 @@
 title: "Item - Units -  Mighty Gorgon Soul Stone"
 permalink: /Items/unt_50/
 excerpt: " Mighty Gorgon Soul Stone"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_50.md"
 toc: false

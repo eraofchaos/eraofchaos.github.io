@@ -2,7 +2,7 @@
 title: "Item - Units -  Wraith Soul Stone"
 permalink: /Items/unt_45/
 excerpt: " Wraith Soul Stone"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_45.md"
 toc: false

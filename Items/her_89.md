@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Rashka"
 permalink: /Items/her_89/
 excerpt: " Rashka"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_89.md"
 toc: false

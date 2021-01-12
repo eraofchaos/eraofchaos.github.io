@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Tome of Fire Magic"
 permalink: /Items/art_23/
 excerpt: " Tome of Fire Magic"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_23.md"
 toc: false

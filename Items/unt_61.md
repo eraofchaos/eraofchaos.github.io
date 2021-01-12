@@ -2,7 +2,7 @@
 title: "Item - Units -  Swordsman"
 permalink: /Items/unt_61/
 excerpt: " Swordsman"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_61.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials -  Inferior Mercury"
 permalink: /Items/mat_27/
 excerpt: " Inferior Mercury"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_27.md"
 toc: false

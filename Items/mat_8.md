@@ -2,7 +2,7 @@
 title: "Item - Materials -  Soul Ore"
 permalink: /Items/mat_8/
 excerpt: " Soul Ore"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_8.md"
 toc: false

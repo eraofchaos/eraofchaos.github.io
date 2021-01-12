@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Gems"
 permalink: /Items/mat_17/
 excerpt: " Exceptional Gems"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_17.md"
 toc: false

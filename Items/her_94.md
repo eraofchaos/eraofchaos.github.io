@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Hero Human Sandro"
 permalink: /Items/her_94/
 excerpt: " Hero Human Sandro"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_94.md"
 toc: false

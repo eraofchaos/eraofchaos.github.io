@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Sephinroth Avatar"
+title: "Item - Consumables -  Durandel Special Skin"
 permalink: /Items/con_18/
-excerpt: " Sephinroth Avatar"
-last_modified_at: 2021-01-05
+excerpt: " Durandel Special Skin"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_18.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to receive the Sephinroth Avatar
+ **Description:** Unlock the skin when Durandel is awakened.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 

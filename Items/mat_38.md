@@ -2,7 +2,7 @@
 title: "Item - Materials -  Certificate of Legend"
 permalink: /Items/mat_38/
 excerpt: " Certificate of Legend"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_38.md"
 toc: false

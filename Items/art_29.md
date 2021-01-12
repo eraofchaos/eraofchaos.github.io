@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Cards of Prophecy"
 permalink: /Items/art_29/
 excerpt: " Cards of Prophecy"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_29.md"
 toc: false

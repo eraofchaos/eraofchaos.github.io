@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Alchemy Runestone"
+title: "Item - Consumables -  Medium Roster runes"
 permalink: /Items/con_86/
-excerpt: " Alchemy Runestone"
-last_modified_at: 2021-01-05
+excerpt: " Medium Roster runes"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_86.md"
 toc: false
@@ -11,15 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A currency used for trading between high-ranked Mana Scholars. Can be exchanged for Tower Faction items in corresponding events.
+ **Description:** Important item to increase your mid-sized units' rankings.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Event related
 
 ## Gather
 
-  None
+*    Guild Store 
+*    Dragon Utopia 
 
 ## This item contains:
 

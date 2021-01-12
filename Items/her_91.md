@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Call of the Wild"
 permalink: /Items/her_91/
 excerpt: " Call of the Wild"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "her_91.md"
 toc: false

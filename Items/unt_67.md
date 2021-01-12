@@ -2,7 +2,7 @@
 title: "Item - Units -  Assassin"
 permalink: /Items/unt_67/
 excerpt: " Assassin"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_67.md"
 toc: false

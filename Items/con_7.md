@@ -2,7 +2,7 @@
 title: "Item - Consumables -  5-star Firebird Material Pack"
 permalink: /Items/con_7/
 excerpt: " 5-star Firebird Material Pack"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_7.md"
 toc: false

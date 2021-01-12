@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Sir Pumpkin: Black Knight Skin"
+title: "Item - Consumables -  Evil Sigil"
 permalink: /Items/con_47/
-excerpt: " Sir Pumpkin: Black Knight Skin"
-last_modified_at: 2021-01-05
+excerpt: " Evil Sigil"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_47.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants the Sir Pumpkin: Black Knight skin.
+ **Description:** A seal containing deadly powers. Can be exchanged for Necropolis Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

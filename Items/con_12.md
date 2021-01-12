@@ -2,7 +2,7 @@
 title: "Item - Consumables -  Revelations: Ezio"
 permalink: /Items/con_12/
 excerpt: " Revelations: Ezio"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_12.md"
 toc: false

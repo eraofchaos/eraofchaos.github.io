@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Lizardman"
+title: "Item - Units -  Master Genie Soul Stone"
 permalink: /Items/unt_95/
-excerpt: " Lizardman"
-last_modified_at: 2020-12-30
+excerpt: " Master Genie Soul Stone"
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_95.md"
 toc: false
@@ -11,16 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Lizardman. Tokens can also be used to upgrade or increase the rank of Lizardmen.
+ **Description:** Soul Stone for Master Genie's Awakening level enhancement
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Altar of Recruitment 
-*    Barracks Redemption - Lizardman 
+  None
 
 ## This item contains:
 

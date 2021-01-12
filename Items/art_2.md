@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Clover of Fortune"
 permalink: /Items/art_2/
 excerpt: " Clover of Fortune"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_2.md"
 toc: false

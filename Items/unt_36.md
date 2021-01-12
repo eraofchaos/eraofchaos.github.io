@@ -2,7 +2,7 @@
 title: "Item - Units -  Giant "
 permalink: /Items/unt_36/
 excerpt: " Giant "
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_36.md"
 toc: false

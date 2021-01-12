@@ -2,7 +2,7 @@
 title: "Item - Units -  Dark Troglodyte Soul Stone"
 permalink: /Items/unt_76/
 excerpt: " Dark Troglodyte Soul Stone"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "unt_76.md"
 toc: false

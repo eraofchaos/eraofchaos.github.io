@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Free reward package"
+title: "Item - Consumables -  Epic Artifact Selection Special Offer"
 permalink: /Items/con_13/
-excerpt: " Free reward package"
-last_modified_at: 2021-01-05
+excerpt: " Epic Artifact Selection Special Offer"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** You've cleared level 3-14! You receive a free chance to send a red envelope to your guild members!
+ **Description:** Grants 1 Epic Artifact Component Chest, 50 Heaven-Cast Stones, 50,000 gold, and 60 diamonds.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,13 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **60x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | _TOOL_907549 |  | 
+  | 3 |  **50x** | Heaven-Cast Stone | A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.  | 
+  | 4 |  **50000x** | <i class="fas fa-coins"/> |  | 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  New Year Gift Box"
+title: "Item - Consumables -  Soul Stone Selection Chest"
 permalink: /Items/con_55/
-excerpt: " New Year Gift Box"
-last_modified_at: 2021-01-05
+excerpt: " Soul Stone Selection Chest"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_55.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 3,880 diamonds and 1 New Year Selection Chest. (New Year Selection Chest: Use to select 1 of the following - 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heavenly Component Chest, 1 Piece of Eden Component Chest, 1 Doomsday Component Chest, 40 Angel Soul Stones, 40 Behemoth Soul Stones, 40 Naga Soul Stones, 40 Psychic Soul Stones, 40 Bone Dragon Soul Stones, 40 Green Dragon Soul Stones, 40 Black Dragon Soul Stones, or 40 Demon Soul Stones.)
+ **Description:** A reward for all warriors.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -25,9 +25,25 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 2 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **3880x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | New Year Selection Chest | Use to select 1 of the following: 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heavenly Component Chest, 1 Piece of Eden Component Chest, 1 Doomsday Component Chest, 40 Angel Soul Stones, 40 Behemoth Soul Stones, 40 Naga Soul Stones, 40 Psychic Soul Stones, 40 Bone Dragon Soul Stones, 40 Green Dragon Soul Stones, 40 Black Dragon Soul Stones, or 40 Demon Soul Stones.  | 
+  | 1 |  **5x** | Gold Key | A credential for recruitment. You can recruit high-level units once for free when using it.  | 
+  | 2 |  **2x** | Gold Key | A credential for recruitment. You can recruit high-level units once for free when using it.  | 
+  | 3 |  **1x** | Gold Key | A credential for recruitment. You can recruit high-level units once for free when using it.  | 
+  | 4 |  **5x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 5 |  **2x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 6 |  **1x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
+  | 7 |  **200x** | Heaven-Cast Stone | A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.  | 
+  | 8 |  **50x** | Heaven-Cast Stone | A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.  | 
+  | 9 |  **50x** | Artifact Essence | Use it to receive 1 Artifact Essence, which can be exchanged for various rare items.  | 
+  | 10 |  **20x** | Artifact Essence | Use it to receive 1 Artifact Essence, which can be exchanged for various rare items.  | 
+  | 11 |  **10x** | Artifact Essence | Use it to receive 1 Artifact Essence, which can be exchanged for various rare items.  | 
+  | 12 |  **10x** | Silver Key | A certificate of recruitment. Allows you to recruit units once for free.  | 
+  | 13 |  **5x** | Silver Key | A certificate of recruitment. Allows you to recruit units once for free.  | 
+  | 14 |  **1x** | Silver Key | A certificate of recruitment. Allows you to recruit units once for free.  | 
+  | 15 |  **100000x** | <i class="fas fa-coins"/> |  | 
+  | 16 |  **50000x** | <i class="fas fa-coins"/> |  | 
+  | 17 |  **10000x** | <i class="fas fa-coins"/> |  | 
+  | 18 | null | 

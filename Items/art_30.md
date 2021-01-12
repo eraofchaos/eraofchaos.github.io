@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Titan's Gladius"
 permalink: /Items/art_30/
 excerpt: " Titan's Gladius"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_30.md"
 toc: false

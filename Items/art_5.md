@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Orb of Driving Rain"
 permalink: /Items/art_5/
 excerpt: " Orb of Driving Rain"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_5.md"
 toc: false

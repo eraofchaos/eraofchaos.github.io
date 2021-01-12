@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Mystic Orb of Mana"
 permalink: /Items/art_76/
 excerpt: " Mystic Orb of Mana"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_76.md"
 toc: false

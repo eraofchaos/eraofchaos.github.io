@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ice Crystal Shield"
 permalink: /Items/art_60/
 excerpt: " Ice Crystal Shield"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "art_60.md"
 toc: false

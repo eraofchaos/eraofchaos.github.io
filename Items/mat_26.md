@@ -2,7 +2,7 @@
 title: "Item - Materials -  Star Crystal"
 permalink: /Items/mat_26/
 excerpt: " Star Crystal"
-last_modified_at: 2020-12-30
+last_modified_at: 2021-01-12
 lang: en
 ref: "mat_26.md"
 toc: false

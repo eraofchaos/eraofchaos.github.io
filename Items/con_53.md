@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Orange +3 Material Chest"
+title: "Item - Consumables -  Sign-in Coins"
 permalink: /Items/con_53/
-excerpt: " Orange +3 Material Chest"
-last_modified_at: 2021-01-05
+excerpt: " Sign-in Coins"
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_53.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Receive a random orange +3 equipment-upgrading item.
+ **Description:** Rare Coins, can exchange for different items in the Sign-in Store
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Other
 
 ## Gather
 
@@ -23,15 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 3 You would get **1** item  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Soul Ore | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 2 |  **1x** | Soul Wood | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 3 |  **1x** | Soul Mercury | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 4 |  **1x** | Soul Sulfur | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 5 |  **1x** | Soul Gems | Common materials to upgrade equipment from orange +3 to orange +4.  | 
-  | 6 |  **1x** | Soul Crystal | Common materials to upgrade equipment from orange +3 to orange +4.  | 

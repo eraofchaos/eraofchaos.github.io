@@ -2,7 +2,7 @@
 title: "Item - Consumables -  New Year Gift Box"
 permalink: /Items/con_10/
 excerpt: " New Year Gift Box"
-last_modified_at: 2021-01-05
+last_modified_at: 2021-01-12
 lang: en
 ref: "con_10.md"
 toc: false
