@@ -165,6 +165,16 @@ defaults:
       read_time: false
       sidebar:
         nav: "docs"
+  # Formation
+  - scope:
+      path: "Formation"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
   # Schedule
   - scope:
       path: "Schedule"
