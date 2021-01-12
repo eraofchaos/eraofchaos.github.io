@@ -1,7 +1,7 @@
 ---
 title: "M&M Era Of Chaos mobile Wiki portal"
 author_profile: false
-last_modified_at: 2020-12-12
+last_modified_at: 2021-01-12
 toc: false
 classes: wide
 sidebar:
@@ -27,7 +27,7 @@ Client update:
 * Unit Marksman got [Awakening](https://eraofchaos.github.io/units/Marksman/#awaking)
 * New Chronicles with 8 new chapters.
 
-Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 17 Jan 2021) and [Schedule](https://eraofchaos.github.io/Schedule/) (up to 18 Jan 2021).
+Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 25 Jan 2021) and [Schedule](https://eraofchaos.github.io/Schedule/) (up to 25 Jan 2021).
 
 Please [vote for our new development priority](https://www.reddit.com/r/era_of_chaos/comments/kqbido/eraofchaos_next_topic/)
 {% endcapture %}
@@ -53,8 +53,8 @@ You will find here:
 ### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 ### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 
-### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 17 Jan 2021)
-### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 18 Jan 2021)
+### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 24 Jan 2021)
+### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 25 Jan 2021)
 <br/>
 <br/>
 **YOUR feedback is welcome!**
