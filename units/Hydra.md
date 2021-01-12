@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Units A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Hydra"
 toc: true
@@ -103,7 +103,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

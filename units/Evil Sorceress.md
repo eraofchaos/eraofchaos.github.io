@@ -3,7 +3,7 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Units She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Evil Sorceress"
 toc: true
@@ -101,7 +101,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
 
 
 ## Awaking

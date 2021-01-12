@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Units The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Lizardman"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Lizardman](/Items/unt_95/)
+ **Unit Soul:** [ Lizardman](/Items/unt_96/)
 
  **Unit description:** 
 
@@ -105,7 +105,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
 
 
 ## Awaking

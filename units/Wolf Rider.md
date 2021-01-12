@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Units Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Wolf Rider"
 toc: true
@@ -106,7 +106,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
 
 
 ## Awaking

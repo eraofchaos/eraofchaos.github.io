@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Angel"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SSR
 
- **Unit Soul:** [ Angel](/Items/unt_103/)
+ **Unit Soul:** [ Angel](/Items/unt_104/)
 
  **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
@@ -102,7 +102,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

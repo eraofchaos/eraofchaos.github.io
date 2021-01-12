@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Orc"
 toc: true
@@ -105,7 +105,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
 
 
 ## Awaking

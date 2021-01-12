@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Magic Airship](/Items/unt_91/)
+ **Unit Soul:** [ Magic Airship](/Items/unt_92/)
 
  **Info:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
 
@@ -99,7 +99,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
 
 
 ## Awaking

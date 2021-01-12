@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Units Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Pit Fiend"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Pit Fiend](/Items/unt_132/)
+ **Unit Soul:** [ Pit Fiend](/Items/unt_134/)
 
  **Unit description:** Fire Spring: Continuously heals friendly units in its path
 
@@ -104,7 +104,7 @@ toc: true
 * Healing
 * unit Damage
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

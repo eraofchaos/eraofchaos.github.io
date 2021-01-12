@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Units Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Dwarf"
 toc: true
@@ -104,7 +104,7 @@ toc: true
 * Defense
 * Magic resistance
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

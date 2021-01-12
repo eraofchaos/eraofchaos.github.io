@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Assassin"
 toc: true
@@ -99,7 +99,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Units Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Hell Hound"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Hell Hound](/Items/unt_99/)
+ **Unit Soul:** [ Hell Hound](/Items/unt_100/)
 
  **Unit description:** Rampage: Each hit is critical attack for a short period.
 
@@ -104,7 +104,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
 
 
 ## Awaking

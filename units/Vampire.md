@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Units Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Vampire"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Vampire](/Items/unt_119/)
+ **Unit Soul:** [ Vampire](/Items/unt_120/)
 
  **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
 
@@ -105,7 +105,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
 
 
 ## Awaking

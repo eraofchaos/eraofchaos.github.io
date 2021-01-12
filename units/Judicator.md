@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Judicator"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** Commander
 
- **Unit Soul:** [ Judicator](/Items/unt_140/)
+ **Unit Soul:** [ Judicator](/Items/unt_142/)
 
  **Info:** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
 
@@ -101,7 +101,7 @@ toc: true
 * Healing
 * unit Damage
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
 
 
 ## Awaking

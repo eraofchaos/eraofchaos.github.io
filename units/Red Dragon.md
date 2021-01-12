@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Red Dragon"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SSR
 
- **Unit Soul:** [ Red Dragon](/Items/unt_109/)
+ **Unit Soul:** [ Red Dragon](/Items/unt_110/)
 
  **Info:** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
 
@@ -97,7 +97,7 @@ toc: true
 * unit Damage
 * Unit Critical Hit
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Units Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Iron Golem](/Items/unt_115/)
+ **Unit Soul:** [ Iron Golem](/Items/unt_116/)
 
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
 
@@ -104,7 +104,7 @@ toc: true
 * unit DMG Reduction
 * Magic resistance
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

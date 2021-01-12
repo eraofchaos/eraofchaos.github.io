@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Mummy"
 toc: true
@@ -102,7 +102,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

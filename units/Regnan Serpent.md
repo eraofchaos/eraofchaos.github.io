@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Units The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Regnan Serpent"
 toc: true
@@ -103,7 +103,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Storm Elemental](/Items/unt_110/)
+ **Unit Soul:** [ Storm Elemental](/Items/unt_111/)
 
  **Info:** Static Marker, Extra damage, Multiple attacks on a single target
 
@@ -100,7 +100,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
 
 
 ## Awaking

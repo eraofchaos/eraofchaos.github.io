@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Dendroid Guard"
 toc: true
@@ -104,7 +104,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

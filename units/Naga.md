@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Naga"
 toc: true
@@ -103,7 +103,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

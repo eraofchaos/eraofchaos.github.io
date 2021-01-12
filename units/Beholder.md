@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Beholder"
 toc: true
@@ -101,7 +101,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
 
 
 ## Awaking

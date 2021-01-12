@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -103,7 +103,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
 
 
 ## Awaking

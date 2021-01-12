@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SSR
 
- **Unit Soul:** [ Green Dragon](/Items/unt_121/)
+ **Unit Soul:** [ Green Dragon](/Items/unt_122/)
 
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
@@ -104,7 +104,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
 
 
 ## Awaking

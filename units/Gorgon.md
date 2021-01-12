@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Units Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Gorgon"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SSR
 
- **Unit Soul:** [ Gorgon](/Items/unt_112/)
+ **Unit Soul:** [ Gorgon](/Items/unt_113/)
 
  **Unit description:** 
 
@@ -103,7 +103,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

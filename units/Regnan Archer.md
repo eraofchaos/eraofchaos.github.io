@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -100,7 +100,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
 
 
 ## Awaking

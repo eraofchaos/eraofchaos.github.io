@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Pikeman"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** R
 
- **Unit Soul:** [ Pikeman](/Items/unt_116/)
+ **Unit Soul:** [ Pikeman](/Items/unt_117/)
 
  **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
 
@@ -105,7 +105,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

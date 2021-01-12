@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Wood Elf](/Items/unt_100/)
+ **Unit Soul:** [ Wood Elf](/Items/unt_101/)
 
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
@@ -104,7 +104,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_847/)
+ **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Units Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** R
 
- **Unit Soul:** [ Walking Dead](/Items/unt_135/)
+ **Unit Soul:** [ Walking Dead](/Items/unt_137/)
 
  **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
@@ -106,7 +106,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

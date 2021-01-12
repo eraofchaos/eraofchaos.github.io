@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SR
 
- **Unit Soul:** [ Stone Gargoyle](/Items/unt_134/)
+ **Unit Soul:** [ Stone Gargoyle](/Items/unt_136/)
 
  **Unit description:** Stone Form: Increases ATK and ATK speed
 
@@ -104,7 +104,7 @@ toc: true
 * Unit Dodge
 * Magic resistance
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

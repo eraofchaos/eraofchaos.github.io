@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Leprechaun"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** SSR
 
- **Unit Soul:** [ Leprechaun](/Items/unt_123/)
+ **Unit Soul:** [ Leprechaun](/Items/unt_124/)
 
  **Unit description:** 
 
@@ -103,7 +103,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_795/)
+ **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
 
 
 ## Awaking

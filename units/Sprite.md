@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Units A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Sprite"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Rank:** R
 
- **Unit Soul:** [ Sprite](/Items/unt_130/)
+ **Unit Soul:** [ Sprite](/Items/unt_132/)
 
  **Info:** Explodes on death, Silences target, Increases hero starting mana
 
@@ -101,7 +101,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_774/)
+ **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
 
 
 ## Awaking

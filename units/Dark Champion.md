@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Rank:** Commander
 
- **Unit Soul:** [ Dark Champion](/Items/unt_105/)
+ **Unit Soul:** [ Dark Champion](/Items/unt_106/)
 
  **Info:** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
@@ -107,7 +107,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_735/)
+ **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
 
 
 ## Awaking

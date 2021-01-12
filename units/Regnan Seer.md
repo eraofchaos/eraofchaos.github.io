@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Units As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-01-08
+last_modified_at: 2021-01-12
 lang: en
 ref: "Regnan Seer"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Rank:** Commander
 
- **Unit Soul:** [ Regnan Seer](/Items/unt_107/)
+ **Unit Soul:** [ Regnan Seer](/Items/unt_108/)
 
  **Info:** The soul of the Cove Faction. Good at AoE blasts
 
@@ -105,7 +105,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_824/)
+ **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
 
 
 ## Awaking
