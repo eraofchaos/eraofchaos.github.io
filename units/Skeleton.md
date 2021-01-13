@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Units These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Skeleton"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Skeleton](/Items/unt_80/)
 
  **Unit description:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
+
+ **Unit second description :** Is immune to bleeding, reflects damage, is resistent to ranged damage.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -68,6 +70,10 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Greed](/Emblem/Greed/) (Chaos)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Bone Shield

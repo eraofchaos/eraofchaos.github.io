@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Units Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Bone Dragon](/Items/unt_65/)
 
  **Unit description:** Fear: Sharply decreases enemies' defense, causes low morale.
+
+ **Unit second description :** Reduce defense of all enemies on the battlefield. Able to break the enemy's line of defense effectively.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,12 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Low Morale](/combination/Low Morale/) 
+* [Silence](/combination/Silence/) 
+
 
 ## Skills
 ### Ultimate Skill: Fear

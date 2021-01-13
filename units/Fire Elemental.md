@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Units An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Fire Elemental](/Items/unt_8/)
+
+ **Unit second description :** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
  **Info:** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
@@ -63,6 +65,11 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+
 
 ## Skills
 ### Ultimate Skill: Heavenly Fire

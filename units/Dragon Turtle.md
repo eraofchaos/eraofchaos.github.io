@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SSR
 
  **Unit Soul:** [ Dragon Turtle](/Items/unt_89/)
+
+ **Unit second description :** Powerful defender. Restores HP after dying
 
  **Recommend:** Powerful tank, takes damage for allied units.
 
@@ -64,6 +66,12 @@ toc: true
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Greed](/Emblem/Greed/) (Chaos)
 * [Core of the Global Network](/Emblem/Core of the Global Network/) (Neutral)
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
 ### Ultimate Skill: Crushing Roll

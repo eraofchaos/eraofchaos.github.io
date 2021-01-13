@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Units Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Roc"
 toc: true
@@ -26,6 +26,10 @@ toc: true
  **Unit Soul:** [ Roc](/Items/unt_40/)
 
  **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
+
+ **Unit second description :** Deals high magical damage to hit multiple targets effectively.
+
+ **Unit extra description:** Griffins can attack multiple units.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +71,10 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Thunder

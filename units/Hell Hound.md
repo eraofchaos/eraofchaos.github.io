@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Units Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Hell Hound"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Hell Hound](/Items/unt_100/)
 
  **Unit description:** Rampage: Each hit is critical attack for a short period.
+
+ **Unit second description :** Critical hit its target. When it induces bleeding it is able to deal high damage in a short period of time.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,11 @@ toc: true
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Fire

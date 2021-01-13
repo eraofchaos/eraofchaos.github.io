@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Units Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Ogre"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Ogre](/Items/unt_57/)
 
  **Unit description:** Blood Pool: Improves the life drain of your nearby units.
+
+ **Unit second description :** A powerful body shield, improving all of your melee troops' performance.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,10 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Blood Pool

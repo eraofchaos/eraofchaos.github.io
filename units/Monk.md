@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Monk"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Monk](/Items/unt_63/)
 
  **Unit description:** Prayer: Heals the unit in your army with the lowest health.
+
+ **Unit second description :** Provides high morale, has a powerful healing ability.
 
  **Recommend:** Warrior, Mage and Priest work well together.  
 
@@ -67,6 +69,11 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+
 
 ## Skills
 ### Ultimate Skill: Prayer

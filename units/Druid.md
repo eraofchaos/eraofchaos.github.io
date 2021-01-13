@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Units They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Druid"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Druid](/Items/unt_30/)
 
  **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
+
+ **Unit second description :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
  **Info:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
@@ -64,6 +66,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
 * [Greed](/Emblem/Greed/) (Chaos)
+
+## Combination Info
+
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
 ### Ultimate Skill: Call of the Forest

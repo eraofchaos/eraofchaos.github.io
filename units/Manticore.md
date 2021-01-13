@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Units A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Manticore"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Manticore](/Items/unt_74/)
 
  **Unit description:** 
+
+ **Unit second description :** Assault support. Increases allies' DPS and weakens hostile defense
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Silence](/combination/Silence/) 
+
 
 ## Skills
 ### Ultimate Skill: Paralyzing Venom

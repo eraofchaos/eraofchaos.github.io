@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Dragon Golem"
 toc: true
@@ -27,6 +27,8 @@ toc: true
  **Rank:** Commander
 
  **Unit Soul:** [ Dragon Golem](/Items/unt_70/)
+
+ **Unit second description :** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
 
  **Info:** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
 
@@ -65,6 +67,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
 * [Greed](/Emblem/Greed/) (Chaos)
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Pulse Vertigo

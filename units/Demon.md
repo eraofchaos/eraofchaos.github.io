@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Units Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Demon"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Demon](/Items/unt_78/)
 
  **Unit description:** Scalding Strike: Deals colossal damage to enemy troops.
+
+ **Unit second description :** A body shield with high dodge value. Restores health when dodging is successful. It can be enhanced by the Pit Fiend.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,10 @@ toc: true
 * [Greed](/Emblem/Greed/) (Chaos)
 * [Lust](/Emblem/Lust/) (Chaos)
 * [Ominous Sign](/Emblem/Ominous Sign/) (Evil)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Scalding Strike

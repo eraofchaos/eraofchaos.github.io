@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Necropolis -  Units"
 permalink: /units/Fraction Necropolis/
 excerpt: "Fraction Necropolis - List of Units in Era of Chaos"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Fraction Necropolis"
 toc: false

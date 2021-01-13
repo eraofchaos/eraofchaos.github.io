@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Units Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Dwarf"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Dwarf](/Items/unt_42/)
 
  **Unit description:** Dwarf Howl: Increases friendly unit's max health at the beginning of a battle.
+
+ **Unit second description :** Increases the whole unit's health and reduces the magical damage dealt to your units around it.
 
  **Recommend:** Increasing your troops' max health makes them stronger at resisting attack.
 
@@ -67,6 +69,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Dwarf Howl

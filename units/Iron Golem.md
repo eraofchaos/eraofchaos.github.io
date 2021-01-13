@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Units Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Iron Golem](/Items/unt_116/)
 
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
+
+ **Unit second description :** Immune to heroes' spells. The heroes' spells trigger its health restore.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
 
@@ -67,6 +69,10 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Metal Resonance

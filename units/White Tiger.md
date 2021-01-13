@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Units White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "White Tiger"
 toc: true
@@ -63,6 +63,10 @@ toc: true
 * [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: White Tiger Spirit

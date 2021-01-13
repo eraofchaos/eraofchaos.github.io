@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Units A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Hydra"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Hydra](/Items/unt_4/)
 
  **Unit description:** 
+
+ **Unit second description :** Top-notch DPS unit. Destroys enemies with uninterrupted attacks
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,10 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Chaos Mist

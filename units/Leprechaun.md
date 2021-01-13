@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Leprechaun"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Leprechaun](/Items/unt_124/)
 
  **Unit description:** 
+
+ **Unit second description :** A blocking expert with collective defense and elemental shields.
 
  **Recommend:** 
 
@@ -66,6 +68,10 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Direct Punch

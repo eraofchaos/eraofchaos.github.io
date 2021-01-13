@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Pikeman"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Pikeman](/Items/unt_117/)
 
  **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
+
+ **Unit second description :** Stun your enemies. Most effective on large units.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
 
@@ -68,6 +70,11 @@ toc: true
 * [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+
 
 ## Skills
 ### Ultimate Skill: Spear Array

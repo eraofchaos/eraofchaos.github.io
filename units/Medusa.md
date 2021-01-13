@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Medusa"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Medusa](/Items/unt_38/)
 
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
+
+ **Unit second description :** Stable petrification control. The powerful damage increases as Crit Hit gets higher
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,12 @@ toc: true
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+
+## Combination Info
+
+* [Petrify](/combination/Petrify/) 
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Stone Gaze

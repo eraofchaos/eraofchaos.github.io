@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Units Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Goblin"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Goblin](/Items/unt_26/)
 
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
+
+ **Unit second description :** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -68,6 +70,10 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: War Storm

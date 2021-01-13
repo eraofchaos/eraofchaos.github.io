@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Units The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Harpy"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Harpy](/Items/unt_9/)
 
  **Unit description:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
+
+ **Unit second description :** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,11 @@ toc: true
 * [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Harpy's Sharp Claw

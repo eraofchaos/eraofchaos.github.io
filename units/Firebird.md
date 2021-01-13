@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Units The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Firebird"
 toc: true
@@ -26,6 +26,10 @@ toc: true
  **Unit Soul:** [ Firebird](/Items/unt_93/)
 
  **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
+
+ **Unit second description :** Can revive, deals colossal fire damage to all targets in its path.
+
+ **Unit extra description:** Firebirdes are most powerful when attacking in a group. They possess the power of reincarnation.
 
  **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
 
@@ -66,6 +70,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+
 
 ## Skills
 ### Ultimate Skill: Flame Breath

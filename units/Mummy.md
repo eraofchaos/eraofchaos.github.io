@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Mummy"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Mummy](/Items/unt_47/)
 
  **Unit description:** Decaying Curse: Greatly decreased enemies' healing
+
+ **Unit second description :** Disease carrier. Decreases healing of all hostile units
 
  **Info:** Disease carrier. Decreases healing of all hostile units
 
@@ -64,6 +66,11 @@ toc: true
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+* [Disease](/combination/Disease/) 
+
 
 ## Skills
 ### Ultimate Skill: Decaying Curse

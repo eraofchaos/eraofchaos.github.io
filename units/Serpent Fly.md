@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Units Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Serpent Fly"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Serpent Fly](/Items/unt_77/)
 
  **Unit description:** 
+
+ **Unit second description :** Caster Units are proficient at crowd control and at weakening enemy DPS
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,23 @@ toc: true
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+
+## Combination Info
+
+* [Static](/combination/Static/) 
+* [Petrify](/combination/Petrify/) 
+* [Plague](/combination/Plague/) 
+* [Freeze](/combination/Freeze/) 
+* [Deterrence](/combination/Deterrence/) 
+* [Slow](/combination/Slow/) 
+* [Bleeding](/combination/Bleeding/) 
+* [Burning](/combination/Burning/) 
+* [Low Morale](/combination/Low Morale/) 
+* [Disease](/combination/Disease/) 
+* [Blind](/combination/Blind/) 
+* [Silence](/combination/Silence/) 
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Marsh Plague

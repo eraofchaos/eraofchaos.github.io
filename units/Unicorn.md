@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Unicorn"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Unicorn](/Items/unt_140/)
 
  **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
+
+ **Unit second description :** Decreases your enemies' Accuracy, has high dodge value.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
 
@@ -67,6 +69,12 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Ominous Sign](/Emblem/Ominous Sign/) (Evil)
+
+## Combination Info
+
+* [Blind](/combination/Blind/) 
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
 ### Ultimate Skill: null

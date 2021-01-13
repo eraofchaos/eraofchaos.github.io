@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Units Shark Trainer"
 unitID: 9909
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Shark Trainer"
 toc: true
@@ -27,6 +27,8 @@ toc: true
  **Rank:** SSR
 
  **Unit Soul:** [ Shark Trainer](/Items/unt_1/)
+
+ **Unit second description :** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
 
  **Info:** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
 
@@ -65,6 +67,10 @@ toc: true
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Bloodthirsty Shark

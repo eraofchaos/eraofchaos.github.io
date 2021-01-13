@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Units An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SSR
 
  **Unit Soul:** [ Psychic Elemental](/Items/unt_33/)
+
+ **Unit second description :** Ranged damage, Reduces enemy mana upon death, Core attacker
 
  **Info:** Ranged damage, Reduces enemy mana upon death, Core attacker
 
@@ -62,6 +64,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Green Prophet](/Emblem/Green Prophet/) (Goodness)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+
 
 ## Skills
 ### Ultimate Skill: Energy Blast

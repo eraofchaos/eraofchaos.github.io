@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Units As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Regnan Seer"
 toc: true
@@ -27,6 +27,8 @@ toc: true
  **Rank:** Commander
 
  **Unit Soul:** [ Regnan Seer](/Items/unt_108/)
+
+ **Unit second description :** The soul of the Cove Faction. Good at AoE blasts
 
  **Info:** The soul of the Cove Faction. Good at AoE blasts
 
@@ -65,6 +67,11 @@ toc: true
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Stormy Sea

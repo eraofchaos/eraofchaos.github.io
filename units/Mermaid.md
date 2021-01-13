@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Mermaid"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Mermaid](/Items/unt_107/)
+
+ **Unit second description :** Strong healer. Offers great buffs at the start of battle
 
  **Info:** Strong healer. Offers great buffs at the start of battle
 
@@ -61,6 +63,10 @@ toc: true
 
 * [Tarnum's Culpability](/Emblem/Tarnum's Culpability/) (Neutral)
 * [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) (Neutral)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: D Chord

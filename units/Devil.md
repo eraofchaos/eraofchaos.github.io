@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Devil"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Devil](/Items/unt_19/)
 
  **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
+
+ **Unit second description :** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,12 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+* [Silence](/combination/Silence/) 
+
 
 ## Skills
 ### Ultimate Skill: Painful Reaper

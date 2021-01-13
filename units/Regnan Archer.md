@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SSR
 
  **Unit Soul:** [ Regnan Archer](/Items/unt_48/)
+
+ **Unit second description :** Crit Hit and penetration. Battle reaper
 
  **Info:** Crit Hit and penetration. Battle reaper
 
@@ -62,6 +64,11 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+
 
 ## Skills
 ### Ultimate Skill: Deadly Arrow

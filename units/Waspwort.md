@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Units A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Waspwort"
 toc: true
@@ -27,6 +27,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Waspwort](/Items/unt_49/)
+
+ **Unit second description :** DPS unit proficient at control. Summons units to destroy enemies
 
  **Info:** DPS unit proficient at control. Summons units to destroy enemies
 
@@ -65,6 +67,13 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+* [Plague](/combination/Plague/) 
+* [Bleeding](/combination/Bleeding/) 
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Pestilence Needle

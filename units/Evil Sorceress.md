@@ -3,7 +3,7 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Units She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Evil Sorceress"
 toc: true
@@ -25,6 +25,8 @@ toc: true
  **Members:** x1
 
  **Rank:** Commander
+
+ **Unit second description :** 
 
  **Info:** 
 
@@ -63,6 +65,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+
 
 ## Skills
 ### Ultimate Skill: Soul Burst

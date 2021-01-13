@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Units Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Walking Dead](/Items/unt_137/)
 
  **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
+
+ **Unit second description :** Has high defense, spreads plague to the enemies around it.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -68,6 +70,13 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Bleeding](/combination/Bleeding/) 
+* [Low Morale](/combination/Low Morale/) 
+
 
 ## Skills
 ### Ultimate Skill: Poison Gas

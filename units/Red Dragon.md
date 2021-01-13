@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Red Dragon"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SSR
 
  **Unit Soul:** [ Red Dragon](/Items/unt_110/)
+
+ **Unit second description :** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
 
  **Info:** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
 
@@ -62,6 +64,11 @@ toc: true
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+
 
 ## Skills
 ### Ultimate Skill: Roaring Blaze

@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Units The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Lizardman"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Lizardman](/Items/unt_96/)
 
  **Unit description:** 
+
+ **Unit second description :** Powerful DPS. Deals more damage when fighting large units
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,12 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+* [Plague](/combination/Plague/) 
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Poisoned Dart

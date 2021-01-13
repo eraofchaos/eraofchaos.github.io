@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Marksman"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Marksman](/Items/unt_24/)
 
  **Unit description:** Explosive Arrow: Deals sizeable damage to enemy units.
+
+ **Unit second description :** Deal colossal burst damage and a double strike. Most effective against large units.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
 
@@ -68,6 +70,12 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Witness](/Emblem/Witness/) (Goodness)
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Slow](/combination/Slow/) 
+
 
 ## Skills
 ### Ultimate Skill: Exploding arrow

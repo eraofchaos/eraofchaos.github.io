@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Units These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Giant"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Giant ](/Items/unt_36/)
 
  **Unit description:** God of War: Ignores range and deals HP percentage damage
+
+ **Unit second description :** Can deal magical damage to all enemies. Heroes' spells increase its attack.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
@@ -66,6 +68,10 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: null

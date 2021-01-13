@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Beholder"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Beholder](/Items/unt_54/)
 
  **Unit description:** Mind Control: Immobilizes enemies and makes them lose HP over time
+
+ **Unit second description :** Incredible opener. Weakens enemies at the beginning for an easier victory
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,10 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Mind Control

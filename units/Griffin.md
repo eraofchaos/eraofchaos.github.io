@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Units Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Griffin"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Griffin](/Items/unt_11/)
 
  **Unit description:** Dive: Deals damage to 3 opponent units when attacking.
+
+ **Unit second description :** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
 
@@ -67,6 +69,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Witness](/Emblem/Witness/) (Goodness)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+
 
 ## Skills
 ### Ultimate Skill: Diving Counterattack

@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Units Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Genie"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Genie](/Items/unt_7/)
 
  **Unit description:** Energy Gift: Converts ATK into healing
+
+ **Unit second description :** A powerful healer that also provides buff. The heroes' spells trigger its buff.
 
  **Recommend:** Warrior, Mage and Priest work well together.  
 
@@ -65,6 +67,10 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Spell Gift

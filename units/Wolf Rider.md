@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Units Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Wolf Rider"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Wolf Rider](/Items/unt_25/)
 
  **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
+
+ **Unit second description :** Summons a beast companion. The lower its health, the higher its attack is.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -68,6 +70,11 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+
 
 ## Skills
 ### Ultimate Skill: Beast Companion

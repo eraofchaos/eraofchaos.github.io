@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Orc"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Orc](/Items/unt_10/)
 
  **Unit description:** Execution: Deals extra damage to enemies with health lower than 30%.
+
+ **Unit second description :** Causes bleeding when attacking. Deals high damage. The lower its health, the higher its attack is.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,11 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Expert Execution

@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -26,6 +26,10 @@ toc: true
  **Unit Soul:** [ Green Dragon](/Items/unt_122/)
 
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
+
+ **Unit second description :** Attacks back row troops, dealing a wide area of water magical damage.
+
+ **Unit extra description:** Green Dragons attack with added damage over time.
 
  **Recommend:** Water magic can deal extra damage to your enemies with its bleeding effect.
 
@@ -66,6 +70,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Flood of Poison

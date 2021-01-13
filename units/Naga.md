@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Naga"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Naga](/Items/unt_53/)
 
  **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
+
+ **Unit second description :** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
@@ -66,6 +68,10 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Green Prophet](/Emblem/Green Prophet/) (Goodness)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Blade Dance

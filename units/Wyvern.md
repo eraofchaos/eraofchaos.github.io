@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Units A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Wyvern"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Wyvern](/Items/unt_16/)
 
  **Unit description:** 
+
+ **Unit second description :** DPS unit. Has various ways of spreading the plague
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Plague](/combination/Plague/) 
+
 
 ## Skills
 ### Ultimate Skill: Venomous Spurt

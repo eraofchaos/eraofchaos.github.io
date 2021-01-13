@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Units Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Troll"
 toc: true
@@ -63,6 +63,10 @@ toc: true
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Meteor's Might

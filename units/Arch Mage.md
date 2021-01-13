@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Units Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Arch Mage"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Mage](/Items/unt_21/)
 
  **Unit description:** Spell penetration: Damage to single units gets higher and higher
+
+ **Unit second description :** Crowd control your enemies' back row troops, enhance your heroes' spells, and reduce opponent heroes' MP restore.
 
  **Recommend:** Deals extra damage to any slowed enemies.
 
@@ -67,6 +69,11 @@ toc: true
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Static](/combination/Static/) 
+
 
 ## Skills
 ### Ultimate Skill: Spell Penetration

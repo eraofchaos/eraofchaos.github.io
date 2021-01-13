@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Units Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Efreeti"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Efreeti](/Items/unt_114/)
 
  **Unit description:** FireBall: Deals colossal damage to your enemies, causes burning.
+
+ **Unit second description :** Deals magical damage and has fire shield. The core of damage reflection.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+
 
 ## Skills
 ### Ultimate Skill: Firestorm

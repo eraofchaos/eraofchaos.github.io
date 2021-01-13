@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Angel"
 toc: true
@@ -26,6 +26,10 @@ toc: true
  **Unit Soul:** [ Angel](/Items/unt_104/)
 
  **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
+
+ **Unit second description :** Revive dead troops, restore health of the whole unit and deal colossal damage.
+
+ **Unit extra description:** Angel can resurrect dead units.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
@@ -65,6 +69,11 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Green Prophet](/Emblem/Green Prophet/) (Goodness)
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Condemn

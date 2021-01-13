@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Units Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Vampire"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Vampire](/Items/unt_120/)
 
  **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
+
+ **Unit second description :** Deals sizeable damage when it has more health than your enemies.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,10 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Life Drain

@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Units Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Nightmare"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Nightmare](/Items/unt_5/)
+
+ **Unit second description :** Defense support. Increases Inferno units' all-round power
 
  **Info:** Defense support. Increases Inferno units' all-round power
 
@@ -62,6 +64,10 @@ toc: true
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Stuck in a Nightmare

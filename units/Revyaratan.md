@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Units A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Revyaratan](/Items/unt_125/)
+
+ **Unit second description :** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.
 
  **Recommend:** Multi-staged attack, high burst damage, high DPS
 
@@ -64,6 +66,11 @@ toc: true
 * [Dragon King's Breath](/Emblem/Dragon King's Breath/) (Evil)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+* [Deterrence](/combination/Deterrence/) 
+
 
 ## Skills
 ### Ultimate Skill: Fierce-looking Jaw

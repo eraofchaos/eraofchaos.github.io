@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Units Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Paladin"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Paladin](/Items/unt_84/)
 
  **Unit description:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
+
+ **Unit second description :** Summon a Sanctuary Retinue to boost morale within a large range.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units.
 
@@ -66,6 +68,11 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+
 
 ## Skills
 ### Ultimate Skill: null

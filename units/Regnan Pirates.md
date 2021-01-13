@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Units They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Regnan Pirates](/Items/unt_32/)
+
+ **Unit second description :** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
 
  **Recommend:** Multi-staged attack, high burst damage, high DPS
 
@@ -65,6 +67,10 @@ toc: true
 * [Dragon King's Breath](/Emblem/Dragon King's Breath/) (Evil)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Tidal Plunder

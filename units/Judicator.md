@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Judicator"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** Commander
 
  **Unit Soul:** [ Judicator](/Items/unt_142/)
+
+ **Unit second description :** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
 
  **Info:** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
 
@@ -61,6 +63,12 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Ray of Judgment

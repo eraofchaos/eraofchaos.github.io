@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Stone Gargoyle](/Items/unt_136/)
 
  **Unit description:** Stone Form: Increases ATK and ATK speed
+
+ **Unit second description :** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
 
@@ -67,6 +69,10 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Stone Form

@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Units A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Gnoll"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Gnoll](/Items/unt_41/)
 
  **Unit description:** 
+
+ **Unit second description :** stuns enemies and deals tons of damage. Get bonus ATK when facing the unit with the lowest remaining HP
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -68,6 +70,10 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Chain Slap

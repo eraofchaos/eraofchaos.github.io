@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Units Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Lich"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Lich](/Items/unt_28/)
 
  **Unit description:** Sacrifice: Summons a horde of Skeletons.
+
+ **Unit second description :** Can summon and enhance skeletons. The core of any undead summon strategy.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Forgotten Autonym](/Emblem/Forgotten Autonym/) (Evil)
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Sacrifice

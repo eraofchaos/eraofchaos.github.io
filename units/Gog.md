@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Units Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Gog"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Gog](/Items/unt_43/)
 
  **Unit description:** Fire Wall: Deals damage to enemy troops in its path.
+
+ **Unit second description :** Deals a high area of magical damage made more powerful with fire.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -68,6 +70,11 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+
 
 ## Skills
 ### Ultimate Skill: Fire Wall

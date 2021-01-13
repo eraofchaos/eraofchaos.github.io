@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Units Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Imp"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Imp](/Items/unt_62/)
 
  **Unit description:** Impulse: Unit has a chance to revive with full health after death.
+
+ **Unit second description :** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -68,6 +70,11 @@ toc: true
 * [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
 * [Anger](/Emblem/Anger/) (Chaos)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Impulse

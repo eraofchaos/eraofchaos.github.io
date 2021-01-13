@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Units Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Cavalier"
 toc: true
@@ -26,6 +26,10 @@ toc: true
  **Unit Soul:** [ Cavalier ](/Items/unt_44/)
 
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
+
+ **Unit second description :** Charges at your enemies at the beginning of the battle, giving you an advantage.
+
+ **Unit extra description:** Cavalier attack from behind. Be wary!
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
@@ -68,6 +72,12 @@ toc: true
 * [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Jousting

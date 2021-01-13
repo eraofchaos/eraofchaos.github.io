@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Black Knight"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Black Knight](/Items/unt_14/)
 
  **Unit description:** Critical Strike: Deals colossal damage and causes low morale.
+
+ **Unit second description :** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,11 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Witness](/Emblem/Witness/) (Goodness)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+* [Low Morale](/combination/Low Morale/) 
+
 
 ## Skills
 ### Ultimate Skill: Critical Strike

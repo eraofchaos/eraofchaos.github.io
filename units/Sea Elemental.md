@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** R
 
  **Unit Soul:** [ Sea Elemental](/Items/unt_68/)
+
+ **Unit second description :** Strong battle controller. Constantly weakens enemies
 
  **Recommend:** Powerful crowd control, great restoration
 
@@ -66,6 +68,11 @@ toc: true
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+
 
 ## Skills
 ### Ultimate Skill: Time Spiral

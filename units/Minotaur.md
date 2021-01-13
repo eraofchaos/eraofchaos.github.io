@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Minotaur"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Minotaur](/Items/unt_94/)
 
  **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
+
+ **Unit second description :** Supportive tank, the perfect combination of attack and defense. Bleeding increases allies' DPS
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,11 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Whirlwind

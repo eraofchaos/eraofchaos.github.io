@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Units Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Behemoth"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Behemoth](/Items/unt_75/)
 
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
+
+ **Unit second description :** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,12 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Wild Roar

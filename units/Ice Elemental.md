@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Ice Elemental](/Items/unt_22/)
+
+ **Unit second description :** Controlling Mage, Coats everything in ice, Supporting ice wall
 
  **Info:** Controlling Mage, Coats everything in ice, Supporting ice wall
 
@@ -63,6 +65,12 @@ toc: true
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Freeze](/combination/Freeze/) 
+
 
 ## Skills
 ### Ultimate Skill: Ice Wall

@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -26,6 +26,10 @@ toc: true
  **Unit Soul:** [ Wood Elf](/Items/unt_101/)
 
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
+
+ **Unit second description :** Deal colossal burst damage, double strike. Most effective against small units.
+
+ **Unit extra description:** Under the leadership of Gelu, wood elves transform into sharpshooters!
 
  **Recommend:** Deals extra damage to any slowed enemies.
 
@@ -67,6 +71,12 @@ toc: true
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
 * [Broken Prophecy](/Emblem/Broken Prophecy/) (Evil)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
 ### Ultimate Skill: null

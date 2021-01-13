@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SSR
 
  **Unit Soul:** [ Spartan Warriors](/Items/unt_88/)
+
+ **Unit second description :** Crushing shield stuns enemies. Death of a unit inspires allies.
 
  **Info:** Crushing shield stuns enemies. Death of a unit inspires allies.
 
@@ -62,6 +64,10 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: null

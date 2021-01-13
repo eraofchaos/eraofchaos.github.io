@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Units Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Gorgon"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Gorgon](/Items/unt_113/)
 
  **Unit description:** 
+
+ **Unit second description :** Strong tank. Has a chance of insta-killing enemies
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,23 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Static](/combination/Static/) 
+* [Petrify](/combination/Petrify/) 
+* [Plague](/combination/Plague/) 
+* [Freeze](/combination/Freeze/) 
+* [Deterrence](/combination/Deterrence/) 
+* [Slow](/combination/Slow/) 
+* [Bleeding](/combination/Bleeding/) 
+* [Burning](/combination/Burning/) 
+* [Low Morale](/combination/Low Morale/) 
+* [Disease](/combination/Disease/) 
+* [Blind](/combination/Blind/) 
+* [Silence](/combination/Silence/) 
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: null

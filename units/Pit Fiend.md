@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Units Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Pit Fiend"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Pit Fiend](/Items/unt_134/)
 
  **Unit description:** Fire Spring: Continuously heals friendly units in its path
+
+ **Unit second description :** Has healing and buff aura. The core unit in Inferno
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,10 @@ toc: true
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Firespring

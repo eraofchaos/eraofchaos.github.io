@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Units Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Centaur"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Centaur](/Items/unt_58/)
 
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
+
+ **Unit second description :** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
 
  **Recommend:** Deals extra damage to any slowed enemies.
 
@@ -68,6 +70,12 @@ toc: true
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Stone Key to the Gates](/Emblem/Stone Key to the Gates/) (Neutral)
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Bleeding](/combination/Bleeding/) 
+
 
 ## Skills
 ### Ultimate Skill: Battle Stomp

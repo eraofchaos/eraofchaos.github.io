@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Units Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Gremlin"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Gremlin](/Items/unt_81/)
 
  **Unit description:** Magic Ironball: Greatly increases ATK and ATK speed
+
+ **Unit second description :** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
 
@@ -68,6 +70,10 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Magic Ironball

@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Units Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Wight"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Wight](/Items/unt_138/)
 
  **Unit description:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
+
+ **Unit second description :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,11 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Green Prophet](/Emblem/Green Prophet/) (Goodness)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Silence](/combination/Silence/) 
+
 
 ## Skills
 ### Ultimate Skill: Horrific Shrieking

@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -27,6 +27,8 @@ toc: true
  **Rank:** Commander
 
  **Unit Soul:** [ Dark Champion](/Items/unt_106/)
+
+ **Unit second description :** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
  **Info:** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
@@ -65,6 +67,12 @@ toc: true
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Ironfist's Legacy](/Emblem/Ironfist's Legacy/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+* [Silence](/combination/Silence/) 
+
 
 ## Skills
 ### Ultimate Skill: Sickle of Silence

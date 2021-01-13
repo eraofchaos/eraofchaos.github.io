@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Units These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Venom Spawn"
 toc: true
@@ -25,6 +25,8 @@ toc: true
  **Members:** x1
 
  **Rank:** Commander
+
+ **Unit second description :** 
 
  **Info:** 
 
@@ -63,6 +65,10 @@ toc: true
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
 * [Greed](/Emblem/Greed/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Toad Mountain's Fury

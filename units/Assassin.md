@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Assassin"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SSR
 
  **Unit Soul:** [ Assassin](/Items/unt_67/)
+
+ **Unit second description :** Assassination damage, weakens healing, throws knives, and silences enemies.
 
  **Info:** Assassination damage, weakens healing, throws knives, and silences enemies.
 
@@ -62,6 +64,10 @@ toc: true
 * [Guardian Angel](/Emblem/Guardian Angel/) (Goodness)
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [Jealousy](/Emblem/Jealousy/) (Chaos)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Assassination

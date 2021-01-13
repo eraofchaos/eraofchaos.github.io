@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Storm Elemental](/Items/unt_111/)
+
+ **Unit second description :** Static Marker, Extra damage, Multiple attacks on a single target
 
  **Info:** Static Marker, Extra damage, Multiple attacks on a single target
 
@@ -63,6 +65,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
+
+## Combination Info
+
+* [Static](/combination/Static/) 
+
 
 ## Skills
 ### Ultimate Skill: Static Marker

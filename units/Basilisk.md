@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Units Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Basilisk"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Basilisk](/Items/unt_129/)
 
  **Unit description:** 
+
+ **Unit second description :** A tank that's proficient at control. Petrifies all surrounding units when it dies
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -66,6 +68,11 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Lust](/Emblem/Lust/) (Chaos)
+
+## Combination Info
+
+* [Petrify](/combination/Petrify/) 
+
 
 ## Skills
 ### Ultimate Skill: Petrifying Bite

@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Units The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Swordsman"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Swordsman](/Items/unt_61/)
 
  **Unit description:** Divine Protection: Reduce damage taken
+
+ **Unit second description :** Deals colossal damage early in the game. Has double strike and can heal themselves.
 
  **Recommend:** Deals extra damage to any slowed enemies.
 
@@ -67,6 +69,12 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Aksoe Token](/Emblem/Aksoe Token/) (Neutral)
 * [Greed](/Emblem/Greed/) (Chaos)
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Slow](/combination/Slow/) 
+
 
 ## Skills
 ### Ultimate Skill: null

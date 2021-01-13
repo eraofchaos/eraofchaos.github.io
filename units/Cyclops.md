@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Units Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Cyclops"
 toc: true
@@ -26,6 +26,8 @@ toc: true
  **Unit Soul:** [ Cyclops](/Items/unt_97/)
 
  **Unit description:** Flame Stone: Deals catastrophic damage to all enemy troops in its path.
+
+ **Unit second description :** Has strong area attack, good at defending smaller units.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
@@ -67,6 +69,12 @@ toc: true
 * [The Judgment of Fathers](/Emblem/The Judgment of Fathers/) (Neutral)
 * [Arrogance](/Emblem/Arrogance/) (Chaos)
 * [King's Calamity](/Emblem/King's Calamity/) (Evil)
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+* [Stun](/combination/Stun/) 
+
 
 ## Skills
 ### Ultimate Skill: Flamestone

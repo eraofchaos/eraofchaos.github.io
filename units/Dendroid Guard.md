@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Dendroid Guard"
 toc: true
@@ -26,6 +26,10 @@ toc: true
  **Unit Soul:** [ Dendroid Guard](/Items/unt_83/)
 
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
+
+ **Unit second description :** Immune to bleeding, reflects damage and uses shield to improve its defense.
+
+ **Unit extra description:** Dendroid Guards and Marksman or wood elves make a powerful combination!
 
  **Recommend:** Deals extra damage to any slowed enemies.
 
@@ -67,6 +71,13 @@ toc: true
 * [Queen's Blessing](/Emblem/Queen's Blessing/) (Order)
 * [Gear of Time](/Emblem/Gear of Time/) (Goodness)
 * [Greed](/Emblem/Greed/) (Chaos)
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Bleeding](/combination/Bleeding/) 
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
 ### Ultimate Skill: Bind

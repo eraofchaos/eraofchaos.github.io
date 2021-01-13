@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** SR
 
  **Unit Soul:** [ Magic Airship](/Items/unt_92/)
+
+ **Unit second description :** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
 
  **Info:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
 
@@ -62,6 +64,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Freeze](/combination/Freeze/) 
+
 
 ## Skills
 ### Ultimate Skill: Energy Support

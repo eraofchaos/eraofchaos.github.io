@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Units A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Sprite"
 toc: true
@@ -24,6 +24,8 @@ toc: true
  **Rank:** R
 
  **Unit Soul:** [ Sprite](/Items/unt_132/)
+
+ **Unit second description :** Explodes on death, Silences target, Increases hero starting mana
 
  **Info:** Explodes on death, Silences target, Increases hero starting mana
 
@@ -64,6 +66,11 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+
+## Combination Info
+
+* [Silence](/combination/Silence/) 
+
 
 ## Skills
 ### Ultimate Skill: Energy Breakage

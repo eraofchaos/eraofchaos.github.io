@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Units Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 lang: en
 ref: "Mantis"
 toc: true
@@ -25,6 +25,8 @@ toc: true
  **Members:** x1
 
  **Rank:** Commander
+
+ **Unit second description :** 
 
  **Info:** 
 
@@ -63,6 +65,10 @@ toc: true
 * [Ancient Fire](/Emblem/Ancient Fire/) (Order)
 * [Griffin Wings](/Emblem/Griffin Wings/) (Order)
 * [Green Prophet](/Emblem/Green Prophet/) (Goodness)
+
+## Combination Info
+
+  none
 
 ## Skills
 ### Ultimate Skill: Sonic Speed Cutting
