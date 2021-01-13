@@ -165,9 +165,9 @@ defaults:
       read_time: false
       sidebar:
         nav: "docs"
-  # Formation
+  # combination info
   - scope:
-      path: "Formation"
+      path: "combination"
       type: pages
     values:
       layout: single
