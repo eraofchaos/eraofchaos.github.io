@@ -78,22 +78,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Spear Array
- **Description:** <span style="color: #645252;font-size:20px">Pikemen deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Pikemen deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((LEVEL*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### Regular Skill 1 : Iron Armor
- **Description:** <span style="color: #645252;font-size:20px">Increases DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and gives </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> extra HP for Pikemen.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.1+0.9)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and gives </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*150+450}</span><span style="color: black"><span style="color: #645252;font-size:20px"> extra HP for Pikemen.</span><span style="color: black">
 
 ### Regular Skill 2 : Dragon Slayer
- **Description:** <span style="color: #645252;font-size:20px">When facing a 1-man or 4-man units, pikemen's CRIT Hit is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When facing a 1-man or 4-man units, pikemen's CRIT Hit is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Inspiring
- **Description:** <span style="color: #645252;font-size:20px">Increases Pikemen's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+18}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Pikemen's ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+18}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### Faction Special Skill II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

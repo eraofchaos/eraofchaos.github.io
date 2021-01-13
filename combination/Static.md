@@ -1,5 +1,5 @@
 ---
-title: "Combination Info - Static"
+title: "Combination Info for Static"
 permalink: /combination/Static/
 excerpt: "Combination Info - Static. Units and Heroes Formation."
 last_modified_at: 2021-01-13

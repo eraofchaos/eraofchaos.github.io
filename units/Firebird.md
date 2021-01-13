@@ -78,22 +78,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Flame Breath
- **Description:** <span style="color: #645252;font-size:20px">The Firebird decimates hostile units within a large range in front of it, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage. Crit Hit dealt to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burned\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> units increased by 500.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Firebird decimates hostile units within a large range in front of it, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage. Crit Hit dealt to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burned\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> units increased by 500.</span><span style="color: black">
 
 ### Regular Skill 1 : Flametongue
- **Description:** <span style="color: #645252;font-size:20px">When the Firebird is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 hostile unit members.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Firebird is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 hostile unit members.</span><span style="color: black">
 
 ### Regular Skill 2 : Resurrection
- **Description:** <span style="color: #645252;font-size:20px">Firebird revives 5s after its first death, restoring </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Firebird revives 5s after its first death, restoring </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+27)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its HP.</span><span style="color: black">
 
 ### Regular Skill 3 : Fire Boost
- **Description:** <span style="color: #645252;font-size:20px">Firebird is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and receives an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Crit DMG.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Firebird is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and receives an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Crit DMG.</span><span style="color: black">
 
 ### Faction Special Skill I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Elemental Conflict
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

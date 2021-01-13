@@ -1,5 +1,5 @@
 ---
-title: "Combination Info - Freeze"
+title: "Combination Info for Freeze"
 permalink: /combination/Freeze/
 excerpt: "Combination Info - Freeze. Units and Heroes Formation."
 last_modified_at: 2021-01-13

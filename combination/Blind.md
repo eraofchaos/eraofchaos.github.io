@@ -1,5 +1,5 @@
 ---
-title: "Combination Info - Blind"
+title: "Combination Info for Blind"
 permalink: /combination/Blind/
 excerpt: "Combination Info - Blind. Units and Heroes Formation."
 last_modified_at: 2021-01-13

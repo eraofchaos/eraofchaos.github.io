@@ -77,22 +77,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Spell Penetration
- **Description:** <span style="color: #645252;font-size:20px">Mage's normal attack increases its own ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, up to 20 stacks. The stacks are permanent if the target doesn't change. They will be cleared once a new target is chosen.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mage's normal attack increases its own ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, up to 20 stacks. The stacks are permanent if the target doesn't change. They will be cleared once a new target is chosen.</span><span style="color: black">
 
 ### Regular Skill 1 : Hurricane
- **Description:** <span style="color: #645252;font-size:20px">The Mage unit summons a tornado to pick up 1 random enemy back-row unit, making it unable to attack and cast skills, while increasing its unit's damage reduction by 100%. A tornado applies <span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to the target unit. The tornado and static lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. (The back-row refers to the hostile unit standing at the end of each line)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Mage unit summons a tornado to pick up 1 random enemy back-row unit, making it unable to attack and cast skills, while increasing its unit's damage reduction by 100%. A tornado applies <span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to the target unit. The tornado and static lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. (The back-row refers to the hostile unit standing at the end of each line)</span><span style="color: black">
 
 ### Regular Skill 2 : Energy Loss
- **Description:** <span style="color: #645252;font-size:20px">When Mage units are on the battlefield, Enemy Hero's spell recovery speed decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">,When friend hero cast air spell, Mage will recover friend hero 2 mana.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Mage units are on the battlefield, Enemy Hero's spell recovery speed decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">,When friend hero cast air spell, Mage will recover friend hero 2 mana.</span><span style="color: black">
 
 ### Regular Skill 3 : Magic Field
- **Description:** <span style="color: #645252;font-size:20px">When battle starts, the Mage unit increases all friendly units damage  in its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For Caster Units, the effect doubles.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When battle starts, the Mage unit increases all friendly units damage  in its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For Caster Units, the effect doubles.</span><span style="color: black">
 
 ### Faction Special Skill I : Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Energy Dynamite
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

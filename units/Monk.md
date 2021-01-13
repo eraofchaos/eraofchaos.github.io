@@ -77,22 +77,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Prayer
- **Description:** <span style="color: #645252;font-size:20px">Monk units restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP of the friendly unit with the lowest HP percentage every 17s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Monk units restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP of the friendly unit with the lowest HP percentage every 17s.</span><span style="color: black">
 
 ### Regular Skill 1 : Blessings of the Valiant
- **Description:** <span style="color: #645252;font-size:20px">When the battle starts, Monk Units give </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all friendly units in its path for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the battle starts, Monk Units give </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all friendly units in its path for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 2 : Meditation
- **Description:** <span style="color: #645252;font-size:20px">When Monk units are on the battlefield, Hero's spell recovery speed increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Monk units are on the battlefield, Hero's spell recovery speed increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Recovery
- **Description:** <span style="color: #645252;font-size:20px">Monk's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Healing increases by 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Monk's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Healing increases by 50%.</span><span style="color: black">
 
 ### Faction Special Skill I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### Faction Special Skill II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

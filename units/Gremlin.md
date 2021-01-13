@@ -77,22 +77,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Magic Ironball
- **Description:** <span style="color: #645252;font-size:20px">Gremlin's ATK speed increased by 100% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Gremlin's ATK speed increased by 100% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.3+3.7}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 1 : Dragon Slaying
- **Description:** <span style="color: #645252;font-size:20px">When facing 1-man or 4-man units, Gremlin's normal attack has a chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When facing 1-man or 4-man units, Gremlin's normal attack has a chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+0.8}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 2 : Magic Will
- **Description:** <span style="color: #645252;font-size:20px">Gremlin's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Gremlin's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Magic Awakening
- **Description:** <span style="color: #645252;font-size:20px">When a Gremlin unit is enhanced by a friendly hero's support spell, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the entire battle, up to 10 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Gremlin unit is enhanced by a friendly hero's support spell, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the entire battle, up to 10 stacks.</span><span style="color: black">
 
 ### Faction Special Skill I : Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Energy Dynamite
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

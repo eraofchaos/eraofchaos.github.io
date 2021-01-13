@@ -78,22 +78,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Thunder
- **Description:** <span style="color: #645252;font-size:20px">Roc deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to a large area of hostile units in front of it, and decreases their Accuracy by 200 for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Roc deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to a large area of hostile units in front of it, and decreases their Accuracy by 200 for 10s.</span><span style="color: black">
 
 ### Regular Skill 1 : Lightning Ball Strike
- **Description:** <span style="color: #645252;font-size:20px">When Roc is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 members of the hostile unit.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Roc is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 members of the hostile unit.</span><span style="color: black">
 
 ### Regular Skill 2 : Rampage
- **Description:** <span style="color: #645252;font-size:20px">Roc's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. When its HP is less than 35%, the effect doubles. (It still works after HP is restored)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Roc's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">. When its HP is less than 35%, the effect doubles. (It still works after HP is restored)</span><span style="color: black">
 
 ### Regular Skill 3 : Hurricane Barrier
- **Description:** <span style="color: #645252;font-size:20px">When Roc is on the battlefield, all hostile units' Accuracy decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Roc is on the battlefield, all hostile units' Accuracy decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Fight Zealot
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
 ### Faction Special Skill II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

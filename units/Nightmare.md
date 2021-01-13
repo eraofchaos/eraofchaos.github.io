@@ -71,10 +71,10 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Stuck in a Nightmare
- **Description:** <span style="color: #645252;font-size:20px">Nightmare curses hostile units within a certain range once every 30 seconds, burning the targeted unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px">s and reducing healing received for enemy units within a certain range of the targeted unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Nightmare curses hostile units within a certain range once every 30 seconds, burning the targeted unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px">s and reducing healing received for enemy units within a certain range of the targeted unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 1 : Dreamcatcher
- **Description:** <span style="color: #645252;font-size:20px">Increases Nightmare's DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Each time Nightmare attacks an enemy, reduces the enemy's Unit DMG Reduction by 2% for 10s, up to 15 stacks. This effect cannot be dispelled.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Nightmare's DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Each time Nightmare attacks an enemy, reduces the enemy's Unit DMG Reduction by 2% for 10s, up to 15 stacks. This effect cannot be dispelled.</span><span style="color: black">
 
 ### Regular Skill 2 : null
  **Description:** 
@@ -83,10 +83,10 @@ toc: true
  **Description:** 
 
 ### Faction Special Skill I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Resistance Resonance
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

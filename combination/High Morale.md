@@ -1,5 +1,5 @@
 ---
-title: "Combination Info - High Morale"
+title: "Combination Info for High Morale"
 permalink: /combination/High Morale/
 excerpt: "Combination Info - High Morale. Units and Heroes Formation."
 last_modified_at: 2021-01-13

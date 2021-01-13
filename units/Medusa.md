@@ -77,19 +77,19 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Stone Gaze
- **Description:** <span style="color: #645252;font-size:20px">The Medusa unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 random hostile unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Medusa unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 random hostile unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 1 : Snake Venom Arrow
- **Description:** <span style="color: #645252;font-size:20px">Increases Medusa's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets increases by 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Medusa's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets increases by 30%.</span><span style="color: black">
 
 ### Regular Skill 2 : Spell Breaker's Skin
- **Description:** <span style="color: #645252;font-size:20px">Medusa's magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever a hostile hero casts a spell, Medusa's unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Medusa's magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever a hostile hero casts a spell, Medusa's unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
 
 ### Regular Skill 3 : Reflex Blast
- **Description:** <span style="color: #645252;font-size:20px">Medusa's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases unit's damage by 2% throughout the entire battle whenever a Crit Hit is landed, up to 10 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Medusa's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases unit's damage by 2% throughout the entire battle whenever a Crit Hit is landed, up to 10 stacks.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
- **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

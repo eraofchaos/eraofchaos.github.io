@@ -77,22 +77,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Bone Shield
- **Description:** <span style="color: #645252;font-size:20px">The Skeleton generates a bone shield for itself when its HP falls below 50% for the first time. The shield decreases unit damage taken by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Skeleton generates a bone shield for itself when its HP falls below 50% for the first time. The shield decreases unit damage taken by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s.</span><span style="color: black">
 
 ### Regular Skill 1 : Bone Thorn
- **Description:** <span style="color: #645252;font-size:20px">Skeleton reflects </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of damage taken.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Skeleton reflects </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of damage taken.</span><span style="color: black">
 
 ### Regular Skill 2 : Turn to Stone
- **Description:** <span style="color: #645252;font-size:20px">Skeleton's HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ,and damage reflection increased by 10%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Skeleton's HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ,and damage reflection increased by 10%.</span><span style="color: black">
 
 ### Regular Skill 3 : Rib Cage
- **Description:** <span style="color: #645252;font-size:20px">Skeletons are immune to</span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and damage taken from Ranged units is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Skeletons are immune to</span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and damage taken from Ranged units is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Dismal Defense
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Harmony
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

@@ -1,5 +1,5 @@
 ---
-title: "Combination Info - Disease"
+title: "Combination Info for Disease"
 permalink: /combination/Disease/
 excerpt: "Combination Info - Disease. Units and Heroes Formation."
 last_modified_at: 2021-01-13

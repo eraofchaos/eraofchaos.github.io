@@ -78,19 +78,19 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Spear Array
- **Description:** <span style="color: #645252;font-size:20px">The Troglodyte unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Troglodyte unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((LEVEL*30+420))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### Regular Skill 1 : Keen
- **Description:** <span style="color: #645252;font-size:20px">Increases ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the Troglodyte.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the Troglodyte.</span><span style="color: black">
 
 ### Regular Skill 2 : Spell Breaker's Smell
- **Description:** <span style="color: #645252;font-size:20px">Increases magic resistance and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the Troglodyte over the next 10s. The effect doubles every time a hostile hero casts a spell.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases magic resistance and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for the Troglodyte over the next 10s. The effect doubles every time a hostile hero casts a spell.</span><span style="color: black">
 
 ### Regular Skill 3 : Poisoned Spear
- **Description:** <span style="color: #645252;font-size:20px">Increases Troglodyte's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Troglodyte's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
- **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

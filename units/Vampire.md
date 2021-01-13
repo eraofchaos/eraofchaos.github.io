@@ -76,22 +76,22 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Life Drain
- **Description:** <span style="color: #645252;font-size:20px">Every 12 seconds, Vampire unit randomly deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 1 hostile unit within a large range and restores himself </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px">HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Every 12 seconds, Vampire unit randomly deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 1 hostile unit within a large range and restores himself </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px">HP.</span><span style="color: black">
 
 ### Regular Skill 1 : Bloodthirst
- **Description:** <span style="color: #645252;font-size:20px">Vampire's life drain increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Vampire's life drain increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 2 : Swell
- **Description:** <span style="color: #645252;font-size:20px">When a Vampire casts &lt;Life Drain&gt;, life drain increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, lasting for the entire battle, up to 3 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Vampire casts &lt;Life Drain&gt;, life drain increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, lasting for the entire battle, up to 3 stacks.</span><span style="color: black">
 
 ### Regular Skill 3 : Blood Hunting
- **Description:** <span style="color: #645252;font-size:20px">When fighting against a target whose HP percentage is lower than himself, Vampire's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When fighting against a target whose HP percentage is lower than himself, Vampire's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+35}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Dismal Defense
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Harmony
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black">
 
 ## Relevance
 ### Roster Connection

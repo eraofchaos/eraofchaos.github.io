@@ -77,19 +77,19 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Harpy's Sharp Claw
- **Description:** <span style="color: #645252;font-size:20px">When the Harpy is under attack, she has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 units. (Normal attacks also have a chance of triggering it)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Harpy is under attack, she has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*9+141}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 units. (Normal attacks also have a chance of triggering it)</span><span style="color: black">
 
 ### Regular Skill 1 : High Suppression
- **Description:** <span style="color: #645252;font-size:20px">When facing a unit that cannot fly, the Harpy's attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When facing a unit that cannot fly, the Harpy's attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 2 : Spell Breaker's Scream
- **Description:** <span style="color: #645252;font-size:20px">Whenever a hostile hero casts a spell, the Harpy decreases the unit damage reduction of the units in the same path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+3.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s, up to 3 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Whenever a hostile hero casts a spell, the Harpy decreases the unit damage reduction of the units in the same path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+3.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s, up to 3 stacks.</span><span style="color: black">
 
 ### Regular Skill 3 : Aiming in Mid Air
- **Description:** <span style="color: #645252;font-size:20px">Harpy's Crit DMG increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Harpy is guaranteed to cause Crit Hits on <span style="color: #48b946;font-size:20px">stunned</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Harpy's Crit DMG increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Harpy is guaranteed to cause Crit Hits on <span style="color: #48b946;font-size:20px">stunned</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
- **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ## Relevance
 ### Roster Connection
