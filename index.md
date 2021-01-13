@@ -17,7 +17,7 @@ sidebar:
 * Introduced [Chaos Hydra Soul Stone](https://eraofchaos.github.io/Items/unt_91/) and [Titan Soul Stone](https://eraofchaos.github.io/Items/unt_128/)
 
 
-**We are strongly recommend to finish Chronicles**. Full run will give game overview for next 3-6 months.
+**We are strongly recommend to finish Chronicles**: Full run will give You game features for next 3-6 months.
 
 **EraOfChaos Wiki update**:
 
