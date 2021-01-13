@@ -9,19 +9,20 @@ sidebar:
 ---
 
 {% capture notice-update20210112 %}
-Client update (version 142):
+**Client update** (version 142):
 
 * The initial cooldown time of "King's Wind" casted by Roland is changed from 10 seconds to 2 seconds. 
-* Unit [Hydra](https://eraofchaos.github.io/units/Hydra/) and Giant(https://eraofchaos.github.io/units/Giant/) will get Awaken possibility on 20th Jan
+* Unit [Hydra](https://eraofchaos.github.io/units/Hydra/) and [Giant](https://eraofchaos.github.io/units/Giant/) will get Awaken possibility on 20th Jan
 * Next week will be a new [Waspwort](https://eraofchaos.github.io/units/Waspwort/) unit
 * Introduced [Chaos Hydra Soul Stone](https://eraofchaos.github.io/Items/unt_91/) and [Titan Soul Stone](https://eraofchaos.github.io/Items/unt_128/)
 
 
-We are strongly recommend to finish Chronicles. Full run will give game overview for next 3-6 months.
+**We are strongly recommend to finish Chronicles**. Full run will give game overview for next 3-6 months.
 
-EraOfChaos Wiki update:
+**EraOfChaos Wiki update**:
 
 * Wiki contains a new [Hotspot Artifacs](https://eraofchaos.github.io/Hotspot/).
+* Wiki got new [Combination Bonus for Units and Heroes](https://eraofchaos.github.io/combination/)
 * Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 25 Jan 2021) 
 * Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 25 Jan 2021).
 
@@ -52,6 +53,7 @@ You will find here:
 ### <i class="fas fa-gavel"/> [Items](/Items/)
 ### <i class="fas fa-chess-king"/>  [Heroes](/heroes/) 
 ### <i class="fab fa-optin-monster"/>  [Units](/units/)
+### <i class="fas fa-fist-raised"/> [Combination Bonus for Units and Heroes](https://eraofchaos.github.io/combination/)
 ### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
 ### <i class="fas fa-hat-cowboy-side"/>  [Battlefield Backup](https://eraofchaos.github.io/Backup/)
