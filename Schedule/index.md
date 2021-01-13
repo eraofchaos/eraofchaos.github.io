@@ -20,7 +20,7 @@ classes: wide
   | 5   | 11 Jan | 14 Jan | Novice Duel | The new Duel of Champions begins! Push yourself beyond your limits and win incredible rewards! | [ Gold Key](/Items/con_721/), [ Ancient Temple Scroll](/Items/con_272/), [ Inferno Roster runes](/Items/con_660/),  | 
   | 6   | 13 Jan | 15 Jan | Gold Rush | Double the gold gained from Dwarven Treasury. |  | 
   | 7   | 13 Jan | 17 Jan | Elite Challenge | Challenge yourself in Elite Levels during the event to win exciting prizes. | [ Devil](/Items/unt_19/), [ Purple Crystal](/Items/con_824/), [ Huge EXP potion](/Items/con_432/),  | 
-  | 8   | 13 Jan | 17 Jan | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | _RUNE_30305, _RUNE_20205, _RUNE_50405,  | 
+  | 8   | 13 Jan | 17 Jan | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | [Aksoe Token](/Emblem/Aksoe Token/), [Wall of Knowledge](/Emblem/Wall of Knowledge/), [Ominous Sign](/Emblem/Ominous Sign/),  | 
   | 9   | 13 Jan | 17 Jan | Life Celebration | Daily Underground challenges +1 |  | 
   | 10   | 13 Jan | 17 Jan | Lucky Snatch | Popular Holy Emblems are here. Come test your luck! |  | 
   | 11   | 13 Jan | 17 Jan | Single Purchase | Select a reward after meeting the purchase requirements. | [ Holy Emblem Redemption Ticket](/Items/con_1189/), [ Elite Hero Pack](/Items/con_510/), [ Premium Artifact Component Chest](/Items/con_1089/),  | 
@@ -34,7 +34,7 @@ classes: wide
   | 19   | 18 Jan | 20 Jan | Training celebration | Barracks R aptitude unit initial production +5 |  | 
   | 20   | 18 Jan | 21 Jan | Campaign celebration | Open elven treasure chests during campaigns receives 20% off |  | 
   | 21   | 20 Jan | 22 Jan | Trial of Courage | Double EXP in the Crypt. |  | 
-  | 22   | 20 Jan | 24 Jan | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | _RUNE_30505, _RUNE_50605, _RUNE_40305,  | 
+  | 22   | 20 Jan | 24 Jan | Emblem Xchange | Exchange Tickets for rare Holy Emblems during this event! | [Tarnum's Culpability](/Emblem/Tarnum's Culpability/), [Darkness Enlightenment](/Emblem/Darkness Enlightenment/), [Anger](/Emblem/Anger/),  | 
   | 23   | 20 Jan | 24 Jan | Limited Time Recruitment | Get the most popular SSR units through the Limited Time Recruitment event. | [ Giant ](/Items/unt_36/),  | 
   | 24   | 20 Jan | 24 Jan | Limited Time Recruitment | Get the most popular SSR units through the Limited Time Recruitment event. | [ Hydra](/Items/unt_4/),  | 
   | 25   | 20 Jan | 24 Jan | Limited Time Soul Stone | Get the most popular SSR Unit Soul Stones through the Limited Time Soul Stone Recruitment event. | [ Chaos Hydra Soul Stone](/Items/unt_91/),  | 
