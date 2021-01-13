@@ -1,12 +1,36 @@
 ---
 title: "M&M Era Of Chaos mobile Wiki portal"
 author_profile: false
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-13
 toc: false
 classes: wide
 sidebar:
   nav: "docs"
 ---
+
+{% capture notice-update20210112 %}
+Client update (version 142):
+
+* The initial cooldown time of "King's Wind" casted by Roland is changed from 10 seconds to 2 seconds. 
+* Unit [Hydra](https://eraofchaos.github.io/units/Hydra/) and Giant(https://eraofchaos.github.io/units/Giant/) will get Awaken possibility on 20th Jan
+* Next week will be a new [Waspwort](https://eraofchaos.github.io/units/Waspwort/) unit
+* Introduced [Chaos Hydra Soul Stone](https://eraofchaos.github.io/Items/unt_91/) and [Titan Soul Stone](https://eraofchaos.github.io/Items/unt_128/)
+
+
+We are strongly recommend to finish Chronicles. Full run will give game overview for next 3-6 months.
+
+EraOfChaos Wiki update:
+
+* Wiki contains a new [Hotspot Artifacs](https://eraofchaos.github.io/Hotspot/).
+* Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 25 Jan 2021) 
+* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 25 Jan 2021).
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">12 Jan 2021 Update:</h4>
+  {{ notice-update20210112 | markdownify }}
+</div>
 
 {% capture notice-update20210107 %}
 Released Battlefield Backup (see Arsenal -> Backup):
@@ -18,24 +42,7 @@ English:  <i class="fas fa-hat-cowboy-side"/>  [Backup](https://eraofchaos.githu
   {{ notice-update20210107 | markdownify }}
 </div>
 
-{% capture notice-update20210105 %}
-Client update:
 
-* Added First Commander(UR Unit) for Castle Faction - [Judicator](https://eraofchaos.github.io/units/Judicator/)
-* Hero Astral got a new Skin [Undying Love](https://eraofchaos.github.io/heroes/Astral/#skin-2-undying-love)
-* Unit Monk got [Awakening](https://eraofchaos.github.io/units/Monk/#awaking)
-* Unit Marksman got [Awakening](https://eraofchaos.github.io/units/Marksman/#awaking)
-* New Chronicles with 8 new chapters.
-
-Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 25 Jan 2021) and [Schedule](https://eraofchaos.github.io/Schedule/) (up to 25 Jan 2021).
-
-Please [vote for our new development priority](https://www.reddit.com/r/era_of_chaos/comments/kqbido/eraofchaos_next_topic/)
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">5 Jan 2021 Update:</h4>
-  {{ notice-update20210105 | markdownify }}
-</div>
 
 
 
@@ -55,12 +62,12 @@ You will find here:
 
 ### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 24 Jan 2021)
 ### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 25 Jan 2021)
+### <i class="fas fa-calendar-day"/> [Hotspot Artifacs](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
+
 <br/>
 <br/>
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
-
-
 
 Currently in the development:
 ### <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/) see [Items - Artifacts](/Items/Artifacts/)
@@ -71,6 +78,25 @@ Currently in the development:
 
 
 ## History
+
+{% capture notice-update20210105 %}
+Client update:
+
+* Added First Commander(UR Unit) for Castle Faction - [Judicator](https://eraofchaos.github.io/units/Judicator/)
+* Hero Astral got a new Skin [Undying Love](https://eraofchaos.github.io/heroes/Astral/#skin-2-undying-love)
+* Unit Monk got [Awakening](https://eraofchaos.github.io/units/Monk/#awaking)
+* Unit Marksman got [Awakening](https://eraofchaos.github.io/units/Marksman/#awaking)
+* New Chronicles with 8 new chapters.
+
+Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 25 Jan 2021) and [Schedule](https://eraofchaos.github.io/Schedule/) (up to 25 Jan 2021).
+
+Please [vote for our new development priority](https://www.reddit.com/r/era_of_chaos/comments/kqbido/eraofchaos_next_topic/)
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">5 Jan 2021 Update:</h4>
+  {{ notice-update20210105 | markdownify }}
+</div>
 
 {% capture notice-update20210102 %}
 We are happy to announce preview for Schedule.
