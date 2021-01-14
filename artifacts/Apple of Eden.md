@@ -12,8 +12,6 @@ classes: wide
 
  **Description:** A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.
 
- **Extra Description:** A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.
-
  **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
