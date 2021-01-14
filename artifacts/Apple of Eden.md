@@ -19,13 +19,13 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Crystal Skull** | A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men. | Unit Attack: 12 + (LEVEL*4.8) %, Hero Attack: 8 + (LEVEL*3.2) | 
-  | 2 | **Crystal Ball** | A shining crystal ball. Legend says it can see the future. | Unit Attack: 4 + (LEVEL*1.6) %, Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 8 + (LEVEL*3.2), Hero Intelligence: 16 + (LEVEL*6.4) | 
-  | 3 | **Ankh** | A cross that grants the wearer immortality. No one knows what happened to its previous owner. | Unit Health: 12 + (LEVEL*4.8) %, Hero Defense: 16 + (LEVEL*6.4) | 
-  | 4 | **Sword of Eden** | A sword from the First Civilization. It can call upon lightning to strike down enemies. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Defense: 6 + (LEVEL*2.4), Hero Knowledge: 16 + (LEVEL*6.4) | 
-  | 5 | **Staff of Eden** | A staff from the First Civilization. It can grant the wielder limitless time and knowledge. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 4 + (LEVEL*1.6), Hero Intelligence: 16 + (LEVEL*6.4) | 
-  | 6 | **Shroud of Eden** | The legendary holy Shroud of Eden. There is no way to verify it's authenticity. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 16 + (LEVEL*6.4) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Crystal Skull** | A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men. | **Unit Attack**: 12 + (LEVEL\*4.8) %<br/>**Hero Attack**: 8 + (LEVEL\*3.2) | 
+  | 2 | **Crystal Ball** | A shining crystal ball. Legend says it can see the future. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 8 + (LEVEL\*3.2)<br/>**Hero Intelligence**: 16 + (LEVEL\*6.4) | 
+  | 3 | **Ankh** | A cross that grants the wearer immortality. No one knows what happened to its previous owner. | **Unit Health**: 12 + (LEVEL\*4.8) %<br/>**Hero Defense**: 16 + (LEVEL\*6.4) | 
+  | 4 | **Sword of Eden** | A sword from the First Civilization. It can call upon lightning to strike down enemies. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Defense**: 6 + (LEVEL\*2.4)<br/>**Hero Knowledge**: 16 + (LEVEL\*6.4) | 
+  | 5 | **Staff of Eden** | A staff from the First Civilization. It can grant the wielder limitless time and knowledge. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 4 + (LEVEL\*1.6)<br/>**Hero Intelligence**: 16 + (LEVEL\*6.4) | 
+  | 6 | **Shroud of Eden** | The legendary holy Shroud of Eden. There is no way to verify it's authenticity. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 6 + (LEVEL\*2.4)<br/>**Hero Intelligence**: 16 + (LEVEL\*6.4) | 
 
 
 ## Artifact Advancement

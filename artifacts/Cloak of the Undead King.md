@@ -21,10 +21,10 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Amulet of the Undertaker** | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | Magic Damage: 3 + (LEVEL*1.2) %, Hero Intelligence: 2 + (LEVEL*0.8), Hero Knowledge: 6 + (LEVEL*2.4) | 
-  | 2 | **Vampire's Cowl** | A vampire's precious cape. One of the components of the Cloak of the Undead King. | Unit Health: 3 + (LEVEL*1.2) %, Hero Defense: 6 + (LEVEL*2.4) | 
-  | 3 | **Dead Man's Boots** | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | Unit Attack: 2 + (LEVEL*0.8) %, Unit Health: 2 + (LEVEL*0.8) %, Hero Knowledge: 4 + (LEVEL*1.6) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Amulet of the Undertaker** | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | **Magic Damage**: 3 + (LEVEL\*1.2) %<br/>**Hero Intelligence**: 2 + (LEVEL\*0.8)<br/>**Hero Knowledge**: 6 + (LEVEL\*2.4) | 
+  | 2 | **Vampire's Cowl** | A vampire's precious cape. One of the components of the Cloak of the Undead King. | **Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Hero Defense**: 6 + (LEVEL\*2.4) | 
+  | 3 | **Dead Man's Boots** | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | **Unit Attack**: 2 + (LEVEL\*0.8) %<br/>**Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Hero Knowledge**: 4 + (LEVEL\*1.6) | 
 
 
 ## Artifact Advancement

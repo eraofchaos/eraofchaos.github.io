@@ -21,10 +21,10 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Garniture of Interference** | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Attack: 1 + (LEVEL*0.4) %, Unit Health: 1 + (LEVEL*0.4) %, Hero Knowledge: 3 + (LEVEL*1.2) | 
-  | 2 | **Surcoat of Counterpoise** | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Health: 1 + (LEVEL*0.4) %, Hero Intelligence: 2 + (LEVEL*0.8), Hero Knowledge: 3 + (LEVEL*1.2) | 
-  | 3 | **Boots of Polarity** | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Health: 1 + (LEVEL*0.4) %, Magic Damage: 1 + (LEVEL*0.4) %, Hero Knowledge: 3 + (LEVEL*1.2) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Garniture of Interference** | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | **Unit Attack**: 1 + (LEVEL\*0.4) %<br/>**Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Hero Knowledge**: 3 + (LEVEL\*1.2) | 
+  | 2 | **Surcoat of Counterpoise** | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | **Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Hero Intelligence**: 2 + (LEVEL\*0.8)<br/>**Hero Knowledge**: 3 + (LEVEL\*1.2) | 
+  | 3 | **Boots of Polarity** | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | **Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Magic Damage**: 1 + (LEVEL\*0.4) %<br/>**Hero Knowledge**: 3 + (LEVEL\*1.2) | 
 
 
 ## Artifact Advancement

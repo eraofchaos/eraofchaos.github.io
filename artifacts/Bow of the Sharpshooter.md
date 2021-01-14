@@ -21,10 +21,10 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Bow of Elven Cherrywood** | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 4 + (LEVEL*1.6) | 
-  | 2 | **Angel Feather Arrows** | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | Unit Attack: 2 + (LEVEL*0.8) %, Magic Damage: 2 + (LEVEL*0.8) %, Hero Defense: 4 + (LEVEL*1.6) | 
-  | 3 | **Bowstring of the Unicorn's Mane** | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter. | Magic Damage: 4 + (LEVEL*1.6) %, Hero Knowledge: 4 + (LEVEL*1.6) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Bow of Elven Cherrywood** | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 4 + (LEVEL\*1.6) | 
+  | 2 | **Angel Feather Arrows** | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | **Unit Attack**: 2 + (LEVEL\*0.8) %<br/>**Magic Damage**: 2 + (LEVEL\*0.8) %<br/>**Hero Defense**: 4 + (LEVEL\*1.6) | 
+  | 3 | **Bowstring of the Unicorn's Mane** | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter. | **Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Knowledge**: 4 + (LEVEL\*1.6) | 
 
 
 ## Artifact Advancement

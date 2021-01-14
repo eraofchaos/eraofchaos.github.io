@@ -21,11 +21,11 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Chaos Brazier** | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Defense: 5 + (LEVEL*2), Hero Intelligence: 5 + (LEVEL*2) | 
-  | 2 | **Ice Scale** | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Defense: 5 + (LEVEL*2) | 
-  | 3 | **Necklace of Balance** | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
-  | 4 | **Forgotten Hourglass** | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | Unit Health: 4 + (LEVEL*1.6) %, Hero Intelligence: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Chaos Brazier** | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Defense**: 5 + (LEVEL\*2)<br/>**Hero Intelligence**: 5 + (LEVEL\*2) | 
+  | 2 | **Ice Scale** | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 5 + (LEVEL\*2)<br/>**Hero Defense**: 5 + (LEVEL\*2) | 
+  | 3 | **Necklace of Balance** | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 5 + (LEVEL\*2)<br/>**Hero Knowledge**: 5 + (LEVEL\*2) | 
+  | 4 | **Forgotten Hourglass** | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Intelligence**: 5 + (LEVEL\*2)<br/>**Hero Knowledge**: 5 + (LEVEL\*2) | 
 
 
 ## Artifact Advancement

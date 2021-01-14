@@ -21,13 +21,13 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Dragon Scale Shield** | A shield blessed with the Dragon King's magic. One of the components of Power of the Dragon Father. | Unit Health: 10 + (LEVEL*4) %, Hero Defense: 12 + (LEVEL*4.8) | 
-  | 2 | **Dragonbone Greaves** | Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father. | Unit Health: 8 + (LEVEL*3.2) %, Magic Damage: 2 + (LEVEL*0.8) %, Hero Knowledge: 12 + (LEVEL*4.8) | 
-  | 3 | **Red Dragon Flame Tongue** | A sword forged from flame dragon crystals. One of the components of Power of the Dragon Father. | Unit Attack: 6 + (LEVEL*2.4) %, Unit Health: 3 + (LEVEL*1.2) %, Hero Attack: 10 + (LEVEL*4) | 
-  | 4 | **Crown of Dragontooth** | A helmet cast from dragon teeth. One of the components of Power of the Dragon Father. | Unit Health: 3 + (LEVEL*1.2) %, Magic Damage: 6 + (LEVEL*2.4) %, Hero Defense: 10 + (LEVEL*4) | 
-  | 5 | **Dragon Scale Armour** | A chest blessed by the Holy Dragon. One of the components of Power of the Dragon Father. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Defense: 6 + (LEVEL*2.4), Hero Knowledge: 16 + (LEVEL*6.4) | 
-  | 6 | **Necklace of Dragonteeth** | A necklace blessed by the Holy Dragon. One of the components of Power of the Dragon Father. | Unit Attack: 4 + (LEVEL*1.6) %, Magic Damage: 4 + (LEVEL*1.6) %, Hero Defense: 12 + (LEVEL*4.8) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Dragon Scale Shield** | A shield blessed with the Dragon King's magic. One of the components of Power of the Dragon Father. | **Unit Health**: 10 + (LEVEL\*4) %<br/>**Hero Defense**: 12 + (LEVEL\*4.8) | 
+  | 2 | **Dragonbone Greaves** | Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father. | **Unit Health**: 8 + (LEVEL\*3.2) %<br/>**Magic Damage**: 2 + (LEVEL\*0.8) %<br/>**Hero Knowledge**: 12 + (LEVEL\*4.8) | 
+  | 3 | **Red Dragon Flame Tongue** | A sword forged from flame dragon crystals. One of the components of Power of the Dragon Father. | **Unit Attack**: 6 + (LEVEL\*2.4) %<br/>**Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Hero Attack**: 10 + (LEVEL\*4) | 
+  | 4 | **Crown of Dragontooth** | A helmet cast from dragon teeth. One of the components of Power of the Dragon Father. | **Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Magic Damage**: 6 + (LEVEL\*2.4) %<br/>**Hero Defense**: 10 + (LEVEL\*4) | 
+  | 5 | **Dragon Scale Armour** | A chest blessed by the Holy Dragon. One of the components of Power of the Dragon Father. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Defense**: 6 + (LEVEL\*2.4)<br/>**Hero Knowledge**: 16 + (LEVEL\*6.4) | 
+  | 6 | **Necklace of Dragonteeth** | A necklace blessed by the Holy Dragon. One of the components of Power of the Dragon Father. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Defense**: 12 + (LEVEL\*4.8) | 
 
 
 ## Artifact Advancement

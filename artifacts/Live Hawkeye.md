@@ -21,11 +21,11 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Bird of Perception** | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | Unit Attack: 4 + (LEVEL*1.6) %, Unit Health: 2 + (LEVEL*0.8) %, Hero Defense: 12 + (LEVEL*4.8) | 
-  | 2 | **Stoic Watchman** | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | Unit Health: 2 + (LEVEL*0.8) %, Magic Damage: 4 + (LEVEL*1.6) %, Hero Attack: 12 + (LEVEL*4.8) | 
-  | 3 | **Medal of Truth** | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | Unit Attack: 4 + (LEVEL*1.6) %, Unit Health: 2 + (LEVEL*0.8) %, Hero Knowledge: 12 + (LEVEL*4.8) | 
-  | 4 | **Ring of Eagle Vision** | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | Unit Health: 3 + (LEVEL*1.2) %, Magic Damage: 3 + (LEVEL*1.2) %, Hero Intelligence: 12 + (LEVEL*4.8) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Bird of Perception** | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Hero Defense**: 12 + (LEVEL\*4.8) | 
+  | 2 | **Stoic Watchman** | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | **Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 12 + (LEVEL\*4.8) | 
+  | 3 | **Medal of Truth** | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Hero Knowledge**: 12 + (LEVEL\*4.8) | 
+  | 4 | **Ring of Eagle Vision** | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | **Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Magic Damage**: 3 + (LEVEL\*1.2) %<br/>**Hero Intelligence**: 12 + (LEVEL\*4.8) | 
 
 
 ## Artifact Advancement
