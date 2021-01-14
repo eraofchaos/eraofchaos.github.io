@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Sword of Judgement** | A sword gifted to men by the gods. One of the components of the Angelic Alliance. | Unit Attack: 14 + (LEVEL*5.6) %, Hero Attack: 8 + (LEVEL*3.2) | 
   | 2 | **Lion's Shield of Courage** | A symbol of the military might of Griffin units. One of the components of the Angelic Alliance. | Unit Attack: 5 + (LEVEL*2) %, Unit Health: 3 + (LEVEL*1.2) %, Hero Defense: 16 + (LEVEL*6.4) | 

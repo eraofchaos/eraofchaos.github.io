@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Deep-Sea Trident** | A weapon used by Poseidon. One of the components of the Sword of Frost | Unit Attack: 2 + (LEVEL*0.8) %, Unit Health: 8 + (LEVEL*3.2) %, Hero Attack: 10 + (LEVEL*4) | 
   | 2 | **Minotaur's Battleaxe** | A battleaxe passed down by the Tauren. One of the components of the Sword of Frost. | Unit Attack: 5 + (LEVEL*2) %, Hero Attack: 12 + (LEVEL*4.8), Hero Defense: 8 + (LEVEL*3.2) | 

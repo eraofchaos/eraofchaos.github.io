@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Tome of Fire Magic** | This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 12 + (LEVEL*4.8) | 
   | 2 | **Tome of Water Magic** | This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat | Unit Health: 4 + (LEVEL*1.6) %, Hero Defense: 12 + (LEVEL*4.8) | 

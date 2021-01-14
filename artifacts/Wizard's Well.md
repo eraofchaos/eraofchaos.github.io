@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Charm of Mana** | A charm that enhances magic. One of the components of the Wizard's Well. | Unit Attack: 1 + (LEVEL*0.4) %, Hero Defense: 3 + (LEVEL*1.2) | 
   | 2 | **Magic Charm** | A charm with magic power. One of the components of the Wizard's Well. | Unit Health: 1 + (LEVEL*0.4) %, Hero Intelligence: 3 + (LEVEL*1.2) | 

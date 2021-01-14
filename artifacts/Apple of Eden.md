@@ -18,7 +18,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Crystal Skull** | A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men. | Unit Attack: 12 + (LEVEL*4.8) %, Hero Attack: 8 + (LEVEL*3.2) | 
   | 2 | **Crystal Ball** | A shining crystal ball. Legend says it can see the future. | Unit Attack: 4 + (LEVEL*1.6) %, Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 8 + (LEVEL*3.2), Hero Intelligence: 16 + (LEVEL*6.4) | 

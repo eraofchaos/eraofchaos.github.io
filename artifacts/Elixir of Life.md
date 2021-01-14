@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Ring of Vitality** | A ring that supplies energy. One of the components of the Elixir of Life. | Hero Defense: 1 + (LEVEL*0.4), Hero Knowledge: 1 + (LEVEL*0.4) | 
   | 2 | **Ring of Life** | A ring that supplies vast health to its wearer. One of the components of the Elixir of Life | Magic Damage: 1 + (LEVEL*0.4) %, Hero Attack: 1 + (LEVEL*0.4) | 

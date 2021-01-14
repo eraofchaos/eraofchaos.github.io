@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Chaos Brazier** | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Defense: 5 + (LEVEL*2), Hero Intelligence: 5 + (LEVEL*2) | 
   | 2 | **Ice Scale** | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Defense: 5 + (LEVEL*2) | 

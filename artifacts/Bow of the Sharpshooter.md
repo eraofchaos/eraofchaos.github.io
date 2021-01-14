@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Bow of Elven Cherrywood** | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 4 + (LEVEL*1.6) | 
   | 2 | **Angel Feather Arrows** | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | Unit Attack: 2 + (LEVEL*0.8) %, Magic Damage: 2 + (LEVEL*0.8) %, Hero Defense: 4 + (LEVEL*1.6) | 

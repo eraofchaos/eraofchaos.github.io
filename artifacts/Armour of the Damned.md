@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Sword of Hellfire** | A sword that hosts a dark power. One of the components of the Armour of the Damned. | Magic Damage: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4) | 
   | 2 | **Shield of the Yawning Dead** | A shield assembled from undead bones. One of the components of the Armour of the Damned. | Unit Health: 4 + (LEVEL*1.6) %, Hero Defense: 6 + (LEVEL*2.4) | 

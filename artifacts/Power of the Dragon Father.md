@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Dragon Scale Shield** | A shield blessed with the Dragon King's magic. One of the components of Power of the Dragon Father. | Unit Health: 10 + (LEVEL*4) %, Hero Defense: 12 + (LEVEL*4.8) | 
   | 2 | **Dragonbone Greaves** | Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father. | Unit Health: 8 + (LEVEL*3.2) %, Magic Damage: 2 + (LEVEL*0.8) %, Hero Knowledge: 12 + (LEVEL*4.8) | 

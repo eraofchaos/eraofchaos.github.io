@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Garniture of Interference** | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Attack: 1 + (LEVEL*0.4) %, Unit Health: 1 + (LEVEL*0.4) %, Hero Knowledge: 3 + (LEVEL*1.2) | 
   | 2 | **Surcoat of Counterpoise** | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Health: 1 + (LEVEL*0.4) %, Hero Intelligence: 2 + (LEVEL*0.8), Hero Knowledge: 3 + (LEVEL*1.2) | 

@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Knight Sword** | A sword worn by castle heroes. One of the components of Armageddon's Blade. | Unit Attack: 14 + (LEVEL*5.6) %, Hero Attack: 8 + (LEVEL*3.2) | 
   | 2 | **Forest Bow** | A bow often used by wood elves. One of the components of Armageddon's Blade. | Unit Attack: 5 + (LEVEL*2) %, Unit Health: 3 + (LEVEL*1.2) %, Hero Defense: 16 + (LEVEL*6.4) | 

@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Bird of Perception** | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | Unit Attack: 4 + (LEVEL*1.6) %, Unit Health: 2 + (LEVEL*0.8) %, Hero Defense: 12 + (LEVEL*4.8) | 
   | 2 | **Stoic Watchman** | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | Unit Health: 2 + (LEVEL*0.8) %, Magic Damage: 4 + (LEVEL*1.6) %, Hero Attack: 12 + (LEVEL*4.8) | 

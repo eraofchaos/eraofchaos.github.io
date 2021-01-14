@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Clover of Fortune** | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | Unit Attack: 1 + (LEVEL*0.4) %, Hero Attack: 1 + (LEVEL*0.4) | 
   | 2 | **Cards of Prophecy** | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | Hero Intelligence: 1 + (LEVEL*0.4), Hero Knowledge: 1 + (LEVEL*0.4) | 

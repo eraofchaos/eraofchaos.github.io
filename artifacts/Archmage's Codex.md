@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Pendant of Negativity** | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. | Magic Damage: 4 + (LEVEL*1.6) %, Hero Defense: 5 + (LEVEL*2), Hero Intelligence: 5 + (LEVEL*2) | 
   | 2 | **Recanter`s Cloak** | Wear it to weaken magical attacks. One of the Archmage's Codex. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Defense: 5 + (LEVEL*2) | 

@@ -20,7 +20,7 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |  Nr  |    Name  |  Description | Bonus | 
   |:-----|:---------|:-------------|:-----:| 
   | 1 | **Titan's Gladius** | A sword wielded by ancient Giant. One of the components of the Titan's Thunder. | Magic Damage: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 10 + (LEVEL*4) | 
   | 2 | **Sentinel's Shield** | A shield blessed with holy power. One of the components of the Titan's Thunder. | Unit Health: 6 + (LEVEL*2.4) %, Hero Knowledge: 12 + (LEVEL*4.8) | 
