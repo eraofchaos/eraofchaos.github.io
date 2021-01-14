@@ -1,0 +1,43 @@
+---
+title: "Artifacts - Armour of the Damned"
+permalink: /artifacts/Armour of the Damned/
+excerpt: "Armour of the Damned A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities."
+last_modified_at: 2021-01-14
+lang: en
+ref: "Armour of the Damned.md"
+toc: false
+classes: wide
+---
+## Details
+
+ **Description:** A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities.
+
+ **Extra Description:** <span style="color: #e0dbcb;font-size:24px">An ominous armor. All enemies will be cursed</span>
+
+ **Quality:** quality{: .btn .btn--era4}
+
+## Artifact Advancement
+
+ **Name:** null
+
+ **Effect:** null
+
+  |  Level  |    Extra bonus  | 
+  |:--------|:----------------| 
+  | **2** | null | 
+  | **5** | null | 
+  | **8** | null | 
+  | **11** | null | 
+  | **14** | null | 
+  | **17** | null | 
+  | **20** | null | 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | 
+  |:-----|:---------|:-------------| 
+  | 1 | **Sword of Hellfire** | A sword that hosts a dark power. One of the components of the Armour of the Damned. | 
+  | 2 | **Shield of the Yawning Dead** | A shield assembled from undead bones. One of the components of the Armour of the Damned. | 
+  | 3 | **Skull Helmet** | A helmet found in the underworld. One of the components of the Armour of the Damned. | 
+  | 4 | **Bone Armour** | A shield made from hard bones. One of the components of the Armour of the Damned. | 
