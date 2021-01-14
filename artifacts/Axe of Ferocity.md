@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** A weapon forged from holy relics from different races. Able to enhance close combat ability.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">A weapon belonging to a barbarian lord. It makes units frenetic</span>
+ **Extra Description:** A weapon belonging to a barbarian lord. It makes units frenetic
 
- **Quality:** quality{: .btn .btn--era4}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
 
 ## Artifact Advancement
 

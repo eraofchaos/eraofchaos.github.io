@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.</span>
+ **Extra Description:** A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Piece of Eden
 
- **Effect:** null
+ **Effect:** Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Purifies two random friendly units every 20s to remove a stack of debuff.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

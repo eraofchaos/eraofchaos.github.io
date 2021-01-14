@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">The elemental force, granting the crowning glory to the enchanters</span>
+ **Extra Description:** The elemental force, granting the crowning glory to the enchanters
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Elemental Spirit
 
- **Effect:** null
+ **Effect:** Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(162+11.2*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1450+97*($sklevel-1))*$ulevel}</span>
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

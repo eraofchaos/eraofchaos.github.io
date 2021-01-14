@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** A holy relic made by a great undead king to hide his face. Able to summon a skeleton army.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">One of the favorite burial objects of an ancient king. It can summon skeletons</span>
+ **Extra Description:** One of the favorite burial objects of an ancient king. It can summon skeletons
 
- **Quality:** quality{: .btn .btn--era4}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Undead Army
 
- **Effect:** null
+ **Effect:** Automatically summons 9 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> skeletons at the start of a battle. Skeletons have <span style="color: #48b946;font-size:20px">{(25+3*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(350+24*($sklevel-1))*$ulevel}</span> health.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

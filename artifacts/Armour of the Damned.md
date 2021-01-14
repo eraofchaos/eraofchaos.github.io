@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">An ominous armor. All enemies will be cursed</span>
+ **Extra Description:** An ominous armor. All enemies will be cursed
 
- **Quality:** quality{: .btn .btn--era4}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Curse
 
- **Effect:** null
+ **Effect:** Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 30; lasts 15 seconds
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** -
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">Stay alive. Then, you will witness more wealth</span>
+ **Extra Description:** Stay alive. Then, you will witness more wealth
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 

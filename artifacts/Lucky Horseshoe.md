@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** A holy relic filled with force. Able to increase attack for an army.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">A horseshoe brings you good luck. People who carry it are blessed</span>
+ **Extra Description:** A horseshoe brings you good luck. People who carry it are blessed
 
- **Quality:** quality{: .btn .btn--era2}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era2}
 
 ## Artifact Advancement
 

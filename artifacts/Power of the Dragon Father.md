@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">The Dragon living in the Wynn Forest will respond to its call</span>
+ **Extra Description:** The Dragon living in the Wynn Forest will respond to its call
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Power of the Dragon Father
 
- **Effect:** null
+ **Effect:** <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Baby Azure Dragon, with <span style="color: #48b946;font-size:20px">{(500+35*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(5700+380*($sklevel-1))*$ulevel}</span> health.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

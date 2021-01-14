@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** Antimagic runestone forged from enchanted items. Able to resist against spell damage
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">Rune carved with a magic mark, used as defense against magic power</span>
+ **Extra Description:** Rune carved with a magic mark, used as defense against magic power
 
- **Quality:** quality{: .btn .btn--era3}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era3}
 
 ## Artifact Advancement
 

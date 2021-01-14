@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** Magical item made to fight demons. Able to increase spell point regeneration speed.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">It seals the magic spring that never dries up</span>
+ **Extra Description:** It seals the magic spring that never dries up
 
- **Quality:** quality{: .btn .btn--era3}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era3}
 
 ## Artifact Advancement
 

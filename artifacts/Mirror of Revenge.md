@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">An evil byproduct containing a thirst for vengeance. It drives people mad.</span>
+ **Extra Description:** An evil byproduct containing a thirst for vengeance. It drives people mad.
 
- **Quality:** quality{: .btn .btn--era4}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
 
 ## Artifact Advancement
 

@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** -
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">The immense glacier destroyed the city of its origin</span>
+ **Extra Description:** The immense glacier destroyed the city of its origin
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Frozen World
 
- **Effect:** null
+ **Effect:** Increases the spell damage taken by enemy units within a very large range by 50% throughout the entire battle (up to 2 levels) and inflicts slow and silence at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

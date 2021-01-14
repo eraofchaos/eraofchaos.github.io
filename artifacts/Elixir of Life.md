@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** A holy relic with vast health. Able to increase HP for an army.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">The vessel holds the power of life, making your units even stronger</span>
+ **Extra Description:** The vessel holds the power of life, making your units even stronger
 
- **Quality:** quality{: .btn .btn--era2}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era2}
 
 ## Artifact Advancement
 

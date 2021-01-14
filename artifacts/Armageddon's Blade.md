@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** -
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">The doomed flame will burn your soul</span>
+ **Extra Description:** The doomed flame will burn your soul
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Armageddon
 
- **Effect:** null
+ **Effect:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage on enemy units within a certain range, and deals additional damage equal to 10% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burning on them. The debuff can be stacked 2 times and lasts throughout the entire battle
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

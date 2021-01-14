@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** A holy relic forged from precious items by Angelic power. Able to increase the power of your allies.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">It shines the light from the heaven, reviving the dead units</span>
+ **Extra Description:** It shines the light from the heaven, reviving the dead units
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Angel's Hymn
 
- **Effect:** null
+ **Effect:** Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 20 seconds.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

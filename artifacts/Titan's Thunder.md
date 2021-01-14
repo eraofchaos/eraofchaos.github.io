@@ -12,15 +12,15 @@ classes: wide
 
  **Description:** A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">It grants the power of thunder control to the owner</span>
+ **Extra Description:** It grants the power of thunder control to the owner
 
- **Quality:** quality{: .btn .btn--era5}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
 
 ## Artifact Advancement
 
- **Name:** null
+ **Name:** Titan's Thunder
 
- **Effect:** null
+ **Effect:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 

@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** Magical ring forged from enchanted items. Able to increase spell damage.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">The mark of Bracada Mage, the symbol of status</span>
+ **Extra Description:** The mark of Bracada Mage, the symbol of status
 
- **Quality:** quality{: .btn .btn--era3}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era3}
 
 ## Artifact Advancement
 

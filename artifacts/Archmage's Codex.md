@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** 
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">Records Arcane spells. Strengthens Ranged/Caster units.</span>
+ **Extra Description:** Records Arcane spells. Strengthens Ranged/Caster units.
 
- **Quality:** quality{: .btn .btn--era4}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
 
 ## Artifact Advancement
 

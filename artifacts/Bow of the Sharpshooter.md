@@ -12,9 +12,9 @@ classes: wide
 
  **Description:** A holy relic forged from treasures by the elves. Able to increase ranged attack.
 
- **Extra Description:** <span style="color: #e0dbcb;font-size:24px">A divine weapon shooting angel feathers.</span>
+ **Extra Description:** A divine weapon shooting angel feathers.
 
- **Quality:** quality{: .btn .btn--era4}
+ **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
 
 ## Artifact Advancement
 
