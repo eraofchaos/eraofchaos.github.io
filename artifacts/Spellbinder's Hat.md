@@ -26,6 +26,8 @@ classes: wide
   | 2 | **Tome of Water Magic** | This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat | Unit Health: 4 + (LEVEL*1.6) %, Hero Defense: 12 + (LEVEL*4.8) | 
   | 3 | **Tome of Air Magic** | This is a spell book recording advanced air magic. You will feel the air elemental when reading it. One of the components of Spellbinder's Hat | Unit Health: 4 + (LEVEL*1.6) %, Hero Intelligence: 12 + (LEVEL*4.8) | 
   | 4 | **Tome of Earth Magic** | This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat | Unit Health: 4 + (LEVEL*1.6) %, Hero Knowledge: 12 + (LEVEL*4.8) | 
+
+
 ## Artifact Advancement
 
  **Name:** Elemental Spirit

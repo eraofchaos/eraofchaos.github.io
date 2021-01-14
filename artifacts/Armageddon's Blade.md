@@ -28,6 +28,8 @@ classes: wide
   | 4 | **Mountain Battleaxe** | A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade. | Unit Health: 8 + (LEVEL*3.2) %, Hero Defense: 4 + (LEVEL*1.6), Hero Knowledge: 16 + (LEVEL*6.4) | 
   | 5 | **Warrior Hammer** | A warhammer hidden on Giant's Ridge. One of the components of Armageddon's Blade. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 16 + (LEVEL*6.4) | 
   | 6 | **Examplar Crossbow** | An artifact worn by Hero Gelu before he came of age. One of the components of Armageddon's Blade. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 16 + (LEVEL*6.4) | 
+
+
 ## Artifact Advancement
 
  **Name:** Armageddon

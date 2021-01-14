@@ -28,6 +28,8 @@ classes: wide
   | 4 | **Ogre's Staff** | A staff worshipped by the Ogre. One of the components of the Sword of Frost. | Unit Health: 6 + (LEVEL*2.4) %, Hero Defense: 12 + (LEVEL*4.8), Hero Intelligence: 6 + (LEVEL*2.4) | 
   | 5 | **Ice Crystal Shield** | A holy shield sealed on the plateau of Bracada. One of the components of the Sword of Frost. | Unit Health: 8 + (LEVEL*3.2) %, Hero Defense: 10 + (LEVEL*4), Hero Knowledge: 4 + (LEVEL*1.6) | 
   | 6 | **Staff of the Netherworld** | An ultimate staff sealed in Deyja. One of the components of the Sword of Frost. | Hero Attack: 8 + (LEVEL*3.2), Hero Intelligence: 10 + (LEVEL*4), Hero Knowledge: 12 + (LEVEL*4.8) | 
+
+
 ## Artifact Advancement
 
  **Name:** Frozen World

@@ -28,6 +28,8 @@ classes: wide
   | 4 | **Crown of Dragontooth** | A helmet cast from dragon teeth. One of the components of Power of the Dragon Father. | Unit Health: 3 + (LEVEL*1.2) %, Magic Damage: 6 + (LEVEL*2.4) %, Hero Defense: 10 + (LEVEL*4) | 
   | 5 | **Dragon Scale Armour** | A chest blessed by the Holy Dragon. One of the components of Power of the Dragon Father. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Defense: 6 + (LEVEL*2.4), Hero Knowledge: 16 + (LEVEL*6.4) | 
   | 6 | **Necklace of Dragonteeth** | A necklace blessed by the Holy Dragon. One of the components of Power of the Dragon Father. | Unit Attack: 4 + (LEVEL*1.6) %, Magic Damage: 4 + (LEVEL*1.6) %, Hero Defense: 12 + (LEVEL*4.8) | 
+
+
 ## Artifact Advancement
 
  **Name:** Power of the Dragon Father

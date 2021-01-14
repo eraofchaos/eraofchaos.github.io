@@ -26,6 +26,8 @@ classes: wide
   | 4 | **Sword of Eden** | A sword from the First Civilization. It can call upon lightning to strike down enemies. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Defense: 6 + (LEVEL*2.4), Hero Knowledge: 16 + (LEVEL*6.4) | 
   | 5 | **Staff of Eden** | A staff from the First Civilization. It can grant the wielder limitless time and knowledge. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 4 + (LEVEL*1.6), Hero Intelligence: 16 + (LEVEL*6.4) | 
   | 6 | **Shroud of Eden** | The legendary holy Shroud of Eden. There is no way to verify it's authenticity. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 16 + (LEVEL*6.4) | 
+
+
 ## Artifact Advancement
 
  **Name:** Piece of Eden

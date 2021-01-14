@@ -26,6 +26,8 @@ classes: wide
   | 2 | **Sentinel's Shield** | A shield blessed with holy power. One of the components of the Titan's Thunder. | Unit Health: 6 + (LEVEL*2.4) %, Hero Knowledge: 12 + (LEVEL*4.8) | 
   | 3 | **Thunder Helmet** | A helmet used by the thunder god. One of the components of the Titan's Thunder. | Magic Damage: 6 + (LEVEL*2.4) %, Hero Intelligence: 12 + (LEVEL*4.8) | 
   | 4 | **Titan's Cuirass** | An armour made from a meteor. One of the components of the Titan's Thunder. | Unit Health: 7 + (LEVEL*2.8) %, Hero Defense: 10 + (LEVEL*4) | 
+
+
 ## Artifact Advancement
 
  **Name:** Titan's Thunder

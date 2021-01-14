@@ -25,6 +25,8 @@ classes: wide
   | 1 | **Collar of Conjuring** | Enhances the wearer's magic power. One of the components of Ring of the Mage. | Unit Attack: 1 + (LEVEL*0.4) %, Hero Intelligence: 2 + (LEVEL*0.8), Hero Knowledge: 2 + (LEVEL*0.8) | 
   | 2 | **Ring of Conjuring** | A mysterious ring with strong magic. One of the components of Ring of the Mage. | Magic Damage: 1 + (LEVEL*0.4) %, Hero Attack: 2 + (LEVEL*0.8), Hero Intelligence: 2 + (LEVEL*0.8) | 
   | 3 | **Cape of Conjuring** | A cape crackling with magical power. One of the components of Ring of the Mage. | Unit Health: 1 + (LEVEL*0.4) %, Hero Attack: 2 + (LEVEL*0.8), Hero Knowledge: 2 + (LEVEL*0.8) | 
+
+
 ## Artifact Advancement
 
  **Name:** Mana Increase

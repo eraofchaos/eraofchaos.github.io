@@ -25,6 +25,8 @@ classes: wide
   | 1 | **Clover of Fortune** | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | Unit Attack: 1 + (LEVEL*0.4) %, Hero Attack: 1 + (LEVEL*0.4) | 
   | 2 | **Cards of Prophecy** | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | Hero Intelligence: 1 + (LEVEL*0.4), Hero Knowledge: 1 + (LEVEL*0.4) | 
   | 3 | **Ladybird of Luck** | A glowing bird statue. One of the components of the Lucky Horseshoe. | Magic Damage: 1 + (LEVEL*0.4) %, Hero Defense: 1 + (LEVEL*0.4) | 
+
+
 ## Artifact Advancement
 
  **Name:** Change of Fortunes
