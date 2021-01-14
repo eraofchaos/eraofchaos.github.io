@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Purifies two random friendly units every 20s to remove a stack of debuff. Purified units gain additional 15% Unit DMG Reduction and 15% Defense for 10s. | 
+  | **5** | Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Dispels all debuffs that can be dispelled from two random friendly units every 20s. Dispelled units gain additional 15% Unit DMG Reduction and 15% Defense for 10s. | 
+  | **8** | Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Dispels all debuffs that can be dispelled from four random friendly units every 20s. Dispelled units gain additional 15% Unit DMG Reduction and 15% Defense for 10s. | 
+  | **11** | Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Dispels all debuffs that can be dispelled from four random friendly units every 20s. Dispelled units gain additional 15% Unit DMG Reduction, 15% Defense, 30% Unit DMG, and 30% Crit DMG for 10s. | 
+  | **14** | Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Dispels all debuffs that can be dispelled from all random friendly units every 20s. Dispelled units gain additional 15% Unit DMG Reduction, 15% Defense, 30% Unit DMG, and 30% Crit DMG for 10s. | 
+  | **17** | Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Dispels all debuffs that can be dispelled from all random friendly units every 20s, as well as restoring 15% of their Max HP. Dispelled units gain additional 15% Unit DMG Reduction, 15% Defense, 30% Unit DMG, and 30% Crit DMG for 10s. | 
+  | **20** | Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Dispels all debuffs that can be dispelled from all random friendly units every 10s, as well as restoring 15% of their Max HP. Dispelled units gain additional 15% Unit DMG Reduction, 15% Defense, 30% Unit DMG, and 30% Crit DMG for 10s. | 
 
 
 ## Artifact components

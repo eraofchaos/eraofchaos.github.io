@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Automatically summons 9 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> skeletons at the start of a battle. Skeletons have <span style="color: #48b946;font-size:20px">{(25+3*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(350+24*($sklevel-1))*$ulevel}</span> health. | 
+  | **5** | Automatically summons 9 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> skeletons at the start of a battle. Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(380+26.5*($sklevel-1))*$ulevel}</span> health. | 
+  | **8** | Automatically summons 9 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> skeletons at the start of a battle. Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(380+26.5*($sklevel-1))*$ulevel}</span> health. | 
+  | **11** | Automatically summons 9 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> skeletons at the start of a battle. Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(380+26.5*($sklevel-1))*$ulevel}</span> health. | 
+  | **14** | Automatically summons 13 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> armed skeletons at the start of battle. Armed Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(455+31*($sklevel-1))*$ulevel}</span> health. | 
+  | **17** | Automatically summons 13 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> armed skeletons at the start of battle. Armed Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(455+31*($sklevel-1))*$ulevel}</span> health. | 
+  | **20** | Automatically summons 13 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> armed skeletons at the start of battle. Armed Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(455+31*($sklevel-1))*$ulevel}</span> health. | 
 
 
 ## Artifact components

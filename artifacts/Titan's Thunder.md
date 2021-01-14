@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
+  | **5** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
+  | **8** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
+  | **11** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
+  | **14** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
+  | **17** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Air damage to enemy units in a large area, and deals additional damage equal to 15% of their maximum health. Also decreases their Accuracy by 30% and inflicts <span style="color: #e07c44;font-size:20px">Static</span> on them. | 
+  | **20** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Air damage to enemy units in a large area, and deals additional damage equal to 15% of their maximum health. Also decreases their Accuracy by 60% and inflicts <span style="color: #e07c44;font-size:20px">Static</span> on them. | 
 
 
 ## Artifact components

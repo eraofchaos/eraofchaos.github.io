@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Baby Azure Dragon, with <span style="color: #48b946;font-size:20px">{(510+35.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(6000+400*($sklevel-1))*$ulevel}</span> health. | 
+  | **5** | <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Baby Azure Dragon, with <span style="color: #48b946;font-size:20px">{(520+36*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(6230+415*($sklevel-1))*$ulevel}</span> health. | 
+  | **8** | <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Azure Dragon, with <span style="color: #48b946;font-size:20px">{(540+36*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(7280+489*($sklevel-1))*$ulevel}</span> health. | 
+  | **11** | <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Azure Dragon, with <span style="color: #48b946;font-size:20px">{(540+36*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(7280+489*($sklevel-1))*$ulevel}</span> health. | 
+  | **14** | <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after the start of a battle, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Azure Dragon, with <span style="color: #48b946;font-size:20px">{(540+36*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(7280+489*($sklevel-1))*$ulevel}</span> health. | 
+  | **17** | <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Azure Dragon, with <span style="color: #48b946;font-size:20px">{(540+36*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(7280+489*($sklevel-1))*$ulevel}</span> health. | 
+  | **20** | <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Azure Dragon King, with <span style="color: #48b946;font-size:20px">{(600+36*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(7800+489*($sklevel-1))*$ulevel}</span> health. | 
 
 
 ## Artifact components

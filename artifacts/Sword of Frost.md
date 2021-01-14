@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Increases the spell damage taken by enemy units within a very large range by 50% throughout the entire battle (up to 2 levels) and inflicts slow and silence at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s | 
+  | **5** | Increase the spell damage taken by enemy units in a very large area by 50% throughout the entire battle (up to 3 levels) and inflict slow and silence at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s | 
+  | **8** | Increase the spell damage taken by enemy units in a very large area by 50% throughout the entire battle (up to 3 levels) and inflict slow and silence at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s | 
+  | **11** | Increase the spell damage taken by enemy units in a very large area by 50% throughout the entire battle (up to 3 levels) and inflict slow and silence at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s | 
+  | **14** | Increases the spell damage taken by enemy units within a very high rage by 50% throughout the entire battle (up to 3 levels) and at the same time inflicts freezing, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s | 
+  | **17** | Increase the spell damage taken by enemy units in a very large area by 50% throughout the entire battle (up to 4 levels) and inflict freeze at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s | 
+  | **20** | Increase the spell damage taken by enemy units in a very large area by 50% throughout the entire battle (up to 4 levels) and inflict freeze at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s | 
 
 
 ## Artifact components

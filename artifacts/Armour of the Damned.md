@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 30; lasts 15 seconds | 
+  | **5** | Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 60; lasts 15 seconds | 
+  | **8** | Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 60; lasts 15 seconds | 
+  | **11** | Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 60; lasts 18 seconds | 
+  | **14** | Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 60; lasts 18 seconds | 
+  | **17** | Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 60. Lasts 21 seconds. | 
+  | **20** | Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 60. Lasts 24 seconds. | 
 
 
 ## Artifact components

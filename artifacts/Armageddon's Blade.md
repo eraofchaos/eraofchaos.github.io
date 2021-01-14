@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage on enemy units within a certain range, and deals additional damage equal to 10% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burning on them. The debuff can be stacked 2 times and lasts throughout the entire battle | 
+  | **5** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage to enemy units within a certain range, and deals additional damage equal to 20% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burn on them. The debuff can be stacked 2 times and lasts throughout the entire battle | 
+  | **8** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage on enemy units within a certain range, and deals additional damage equal to 20% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burning on them. The debuff can be stacked 2 times and lasts throughout the entire battle. Units damaged by <Armageddon> can't be healed. The effect lasts for 10s and can't be dispelled | 
+  | **11** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage on enemy units within a certain range, and deals additional damage equal to 20% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burn on them. This debuff can be stacked 3 times and decreases healing by 50%. The effect of <Armageddon> lasts throughout the entire battle, and the units damaged by <Armageddon> can't be healed. The effect lasts for 10s and can't be dispelled | 
+  | **14** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage to enemy units within a certain range, and deals additional damage equal to 20% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burn on them. The debuff can be stacked 3 times and decreases healing by 50%. The effect of <Armageddon> lasts throughout the entire battle, and units damaged by <Armageddon> can't be healed. The effect lasts for 10s and all effects caused by <Armageddon> can't be dispelled | 
+  | **17** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage to enemy units within a certain range, and deals additional damage equal to 30% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burn on them. The debuff can be stacked 4 times and decreases healing by 50%. The effect of <Armageddon> lasts throughout the entire battle, and the units damaged by <Armageddon> can't be healed. The effect lasts for 10s and all effects caused by <Armageddon> can't be dispelled | 
+  | **20** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage to enemy units within a certain range, and deals additional damage equal to 30% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burn on them. The debuff can be stacked 4 times and decreases healing by 50%. The effect of Armageddon lasts throughout the entire battle, and the units damaged by Armageddon are stunned and can't be healed. The effect lasts for 10s and all effects caused by Armageddon can't be dispelled | 
 
 
 ## Artifact components

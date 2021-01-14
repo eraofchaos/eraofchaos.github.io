@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(162+11.2*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1450+97*($sklevel-1))*$ulevel}</span> | 
+  | **5** | Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(162+11.2*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1450+97*($sklevel-1))*$ulevel}</span> | 
+  | **8** | Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(162+11.2*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1450+97*($sklevel-1))*$ulevel}</span> | 
+  | **11** | Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(162+11.2*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1450+97*($sklevel-1))*$ulevel}</span> | 
+  | **14** | Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(194.4+13.4*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1740+118*($sklevel-1))*$ulevel}</span> | 
+  | **17** | Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(194.4+13.4*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1740+118*($sklevel-1))*$ulevel}</span> | 
+  | **20** | Summon 4 Elemental Spirits of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span> at the start of battle. Elemental Spirits will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{(194.4+13.4*($sklevel-1))*$ulevel}</span> and HP of <span style="color: #48b946;font-size:20px">{(1740+118*($sklevel-1))*$ulevel}</span> | 
 
 
 ## Artifact components

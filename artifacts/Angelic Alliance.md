@@ -24,13 +24,13 @@ classes: wide
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | null | 
-  | **5** | null | 
-  | **8** | null | 
-  | **11** | null | 
-  | **14** | null | 
-  | **17** | null | 
-  | **20** | null | 
+  | **2** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 20 seconds. | 
+  | **5** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 20 seconds. | 
+  | **8** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
+  | **11** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
+  | **14** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
+  | **17** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
+  | **20** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
 
 
 ## Artifact components
