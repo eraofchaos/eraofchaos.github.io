@@ -21,11 +21,11 @@ classes: wide
 ## Artifact components
 
   |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:-----:| 
-  | 1 | **Ogre's Club of Havoc** | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | Unit Attack: 3 + (LEVEL*1.2) %, Hero Attack: 5 + (LEVEL*2), Hero Intelligence: 5 + (LEVEL*2) | 
-  | 2 | **Targ of the Rampaging Ogre** | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | Unit Health: 3 + (LEVEL*1.2) %, Hero Defense: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
-  | 3 | **Crown of the Supreme Magi** | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | Unit Attack: 3 + (LEVEL*1.2) %, Hero Intelligence: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
-  | 4 | **Tunic of the Cyclops King** | A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity. | Unit Health: 3 + (LEVEL*1.2) %, Hero Attack: 5 + (LEVEL*2), Hero Defense: 5 + (LEVEL*2) | 
+  |:-----|:---------|:-------------|:------| 
+  | 1 | **Ogre's Club of Havoc** | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | **Unit Attack**: 3 + (LEVEL\*1.2) %<br/>**Hero Attack**: 5 + (LEVEL\*2)<br/>**Hero Intelligence**: 5 + (LEVEL\*2) | 
+  | 2 | **Targ of the Rampaging Ogre** | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | **Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Hero Defense**: 5 + (LEVEL\*2)<br/>**Hero Knowledge**: 5 + (LEVEL\*2) | 
+  | 3 | **Crown of the Supreme Magi** | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | **Unit Attack**: 3 + (LEVEL\*1.2) %<br/>**Hero Intelligence**: 5 + (LEVEL\*2)<br/>**Hero Knowledge**: 5 + (LEVEL\*2) | 
+  | 4 | **Tunic of the Cyclops King** | A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity. | **Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Hero Attack**: 5 + (LEVEL\*2)<br/>**Hero Defense**: 5 + (LEVEL\*2) | 
 
 
 ## Artifact Advancement
