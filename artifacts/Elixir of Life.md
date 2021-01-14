@@ -14,8 +14,17 @@ classes: wide
 
  **Extra Description:** The vessel holds the power of life, making your units even stronger
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era2}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era2}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Ring of Vitality** | A ring that supplies energy. One of the components of the Elixir of Life. | Hero Defense: 1 + (LEVEL*0.4), Hero Knowledge: 1 + (LEVEL*0.4) | 
+  | 2 | **Ring of Life** | A ring that supplies vast health to its wearer. One of the components of the Elixir of Life | Magic Damage: 1 + (LEVEL*0.4) %, Hero Attack: 1 + (LEVEL*0.4) | 
+  | 3 | **Bottle of Energy** | A bottle to make the wearer feel energized. One of the components of the Elixir of Life. | Unit Health: 1 + (LEVEL*0.4) %, Hero Intelligence: 1 + (LEVEL*0.4) | 
 ## Artifact Advancement
 
  **Name:** Divine Blood
@@ -31,12 +40,3 @@ classes: wide
   | **14** | Health of all units increases by an additional 4%. | 
   | **17** | HP of all units increases by an additional 4% | 
   | **20** | HP of all units increases by an additional 4% | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Ring of Vitality** | A ring that supplies energy. One of the components of the Elixir of Life. | 
-  | 2 | **Ring of Life** | A ring that supplies vast health to its wearer. One of the components of the Elixir of Life | 
-  | 3 | **Bottle of Energy** | A bottle to make the wearer feel energized. One of the components of the Elixir of Life. | 

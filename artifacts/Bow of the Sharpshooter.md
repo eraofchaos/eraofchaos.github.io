@@ -14,8 +14,17 @@ classes: wide
 
  **Extra Description:** A divine weapon shooting angel feathers.
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era4}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Bow of Elven Cherrywood** | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 4 + (LEVEL*1.6) | 
+  | 2 | **Angel Feather Arrows** | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | Unit Attack: 2 + (LEVEL*0.8) %, Magic Damage: 2 + (LEVEL*0.8) %, Hero Defense: 4 + (LEVEL*1.6) | 
+  | 3 | **Bowstring of the Unicorn's Mane** | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter. | Magic Damage: 4 + (LEVEL*1.6) %, Hero Knowledge: 4 + (LEVEL*1.6) | 
 ## Artifact Advancement
 
  **Name:** Phantom Acceleration
@@ -31,12 +40,3 @@ classes: wide
   | **14** | Attack of all Ranged/Caster units increases by an additional 5%. | 
   | **17** | Magic resistance of all Ranged/Caster units increases by an additional 12% | 
   | **20** | Unit damage of all Ranged/Caster units increases by 4% | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Bow of Elven Cherrywood** | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | 
-  | 2 | **Angel Feather Arrows** | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | 
-  | 3 | **Bowstring of the Unicorn's Mane** | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter. | 

@@ -14,8 +14,17 @@ classes: wide
 
  **Extra Description:** A horseshoe brings you good luck. People who carry it are blessed
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era2}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era2}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Clover of Fortune** | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | Unit Attack: 1 + (LEVEL*0.4) %, Hero Attack: 1 + (LEVEL*0.4) | 
+  | 2 | **Cards of Prophecy** | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | Hero Intelligence: 1 + (LEVEL*0.4), Hero Knowledge: 1 + (LEVEL*0.4) | 
+  | 3 | **Ladybird of Luck** | A glowing bird statue. One of the components of the Lucky Horseshoe. | Magic Damage: 1 + (LEVEL*0.4) %, Hero Defense: 1 + (LEVEL*0.4) | 
 ## Artifact Advancement
 
  **Name:** Change of Fortunes
@@ -31,12 +40,3 @@ classes: wide
   | **14** | Critical hit damage dealt by all units increases by 20%. | 
   | **17** | Accuracy of all units increases by 200 | 
   | **20** | All units' Crit Hit increases by 80 | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Clover of Fortune** | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | 
-  | 2 | **Cards of Prophecy** | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | 
-  | 3 | **Ladybird of Luck** | A glowing bird statue. One of the components of the Lucky Horseshoe. | 

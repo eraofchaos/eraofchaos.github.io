@@ -14,8 +14,20 @@ classes: wide
 
  **Extra Description:** It shines the light from the heaven, reviving the dead units
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era5}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Sword of Judgement** | A sword gifted to men by the gods. One of the components of the Angelic Alliance. | Unit Attack: 14 + (LEVEL*5.6) %, Hero Attack: 8 + (LEVEL*3.2) | 
+  | 2 | **Lion's Shield of Courage** | A symbol of the military might of Griffin units. One of the components of the Angelic Alliance. | Unit Attack: 5 + (LEVEL*2) %, Unit Health: 3 + (LEVEL*1.2) %, Hero Defense: 16 + (LEVEL*6.4) | 
+  | 3 | **Helm of Heavenly Enlightenment** | A crown blessed by the gods. One of the components of the Angelic Alliance. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 16 + (LEVEL*6.4) | 
+  | 4 | **Armor of Wonders** | Armour that witnessed the heights of the Empire. One of the components of the Angelic Alliance. | Unit Health: 8 + (LEVEL*3.2) %, Hero Defense: 4 + (LEVEL*1.6), Hero Knowledge: 16 + (LEVEL*6.4) | 
+  | 5 | **Sandals of the Saint** | A holy relic made in celebration of a united Erathia. One of the components of the Angelic Alliance. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 16 + (LEVEL*6.4) | 
+  | 6 | **Pendant of Holiness** | A necklace from an Angel. One of the components of the Angelic Alliance. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 6 + (LEVEL*2.4), Hero Intelligence: 16 + (LEVEL*6.4) | 
 ## Artifact Advancement
 
  **Name:** Angel's Hymn
@@ -31,15 +43,3 @@ classes: wide
   | **14** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
   | **17** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
   | **20** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Sword of Judgement** | A sword gifted to men by the gods. One of the components of the Angelic Alliance. | 
-  | 2 | **Lion's Shield of Courage** | A symbol of the military might of Griffin units. One of the components of the Angelic Alliance. | 
-  | 3 | **Helm of Heavenly Enlightenment** | A crown blessed by the gods. One of the components of the Angelic Alliance. | 
-  | 4 | **Armor of Wonders** | Armour that witnessed the heights of the Empire. One of the components of the Angelic Alliance. | 
-  | 5 | **Sandals of the Saint** | A holy relic made in celebration of a united Erathia. One of the components of the Angelic Alliance. | 
-  | 6 | **Pendant of Holiness** | A necklace from an Angel. One of the components of the Angelic Alliance. | 

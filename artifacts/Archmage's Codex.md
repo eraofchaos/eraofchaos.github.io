@@ -14,8 +14,18 @@ classes: wide
 
  **Extra Description:** Records Arcane spells. Strengthens Ranged/Caster units.
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era4}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Pendant of Negativity** | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. | Magic Damage: 4 + (LEVEL*1.6) %, Hero Defense: 5 + (LEVEL*2), Hero Intelligence: 5 + (LEVEL*2) | 
+  | 2 | **Recanter`s Cloak** | Wear it to weaken magical attacks. One of the Archmage's Codex. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Defense: 5 + (LEVEL*2) | 
+  | 3 | **Ring of Flares** | A ring with magic flowing on its surface. One of the Archmage's Codex. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
+  | 4 | **Staff of Disruption** | A staff with great power sealed within. One of the Archmage's Codex. | Magic Damage: 4 + (LEVEL*1.6) %, Hero Intelligence: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
 ## Artifact Advancement
 
  **Name:** Magic Dominion
@@ -31,13 +41,3 @@ classes: wide
   | **14** | Increases hero spell DMG by 20%. | 
   | **17** | Increases the crit of all Caster units by 100. | 
   | **20** | Increases the crit of all Archer units by 100. | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Pendant of Negativity** | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. | 
-  | 2 | **Recanter`s Cloak** | Wear it to weaken magical attacks. One of the Archmage's Codex. | 
-  | 3 | **Ring of Flares** | A ring with magic flowing on its surface. One of the Archmage's Codex. | 
-  | 4 | **Staff of Disruption** | A staff with great power sealed within. One of the Archmage's Codex. | 

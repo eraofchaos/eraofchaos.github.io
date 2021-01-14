@@ -14,8 +14,18 @@ classes: wide
 
  **Extra Description:** A weapon belonging to a barbarian lord. It makes units frenetic
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era4}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Ogre's Club of Havoc** | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | Unit Attack: 3 + (LEVEL*1.2) %, Hero Attack: 5 + (LEVEL*2), Hero Intelligence: 5 + (LEVEL*2) | 
+  | 2 | **Targ of the Rampaging Ogre** | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | Unit Health: 3 + (LEVEL*1.2) %, Hero Defense: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
+  | 3 | **Crown of the Supreme Magi** | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | Unit Attack: 3 + (LEVEL*1.2) %, Hero Intelligence: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
+  | 4 | **Tunic of the Cyclops King** | A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity. | Unit Health: 3 + (LEVEL*1.2) %, Hero Attack: 5 + (LEVEL*2), Hero Defense: 5 + (LEVEL*2) | 
 ## Artifact Advancement
 
  **Name:** Power Domain
@@ -31,13 +41,3 @@ classes: wide
   | **14** | Health of all melee units increases by 5%. | 
   | **17** | Magic resistance of all melee units is increased by 8% | 
   | **20** | HP of all melee units increases by 10% | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Ogre's Club of Havoc** | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | 
-  | 2 | **Targ of the Rampaging Ogre** | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | 
-  | 3 | **Crown of the Supreme Magi** | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | 
-  | 4 | **Tunic of the Cyclops King** | A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity. | 

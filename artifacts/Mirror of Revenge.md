@@ -14,8 +14,18 @@ classes: wide
 
  **Extra Description:** An evil byproduct containing a thirst for vengeance. It drives people mad.
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era4}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Chaos Brazier** | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Defense: 5 + (LEVEL*2), Hero Intelligence: 5 + (LEVEL*2) | 
+  | 2 | **Ice Scale** | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | Unit Health: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Defense: 5 + (LEVEL*2) | 
+  | 3 | **Necklace of Balance** | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | Unit Attack: 4 + (LEVEL*1.6) %, Hero Attack: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
+  | 4 | **Forgotten Hourglass** | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | Unit Health: 4 + (LEVEL*1.6) %, Hero Intelligence: 5 + (LEVEL*2), Hero Knowledge: 5 + (LEVEL*2) | 
 ## Artifact Advancement
 
  **Name:** Mirror of Revenge
@@ -31,13 +41,3 @@ classes: wide
   | **14** | Increases Unit DMG Reduction of all friendly units by 2.5%. | 
   | **17** | Increases Shield Value of all friendly units by 50. | 
   | **20** | Increases DEF Pierce of all friendly units by 100. | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Chaos Brazier** | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | 
-  | 2 | **Ice Scale** | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | 
-  | 3 | **Necklace of Balance** | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | 
-  | 4 | **Forgotten Hourglass** | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | 

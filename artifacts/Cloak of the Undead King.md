@@ -14,8 +14,17 @@ classes: wide
 
  **Extra Description:** One of the favorite burial objects of an ancient king. It can summon skeletons
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era4}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era4}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Amulet of the Undertaker** | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | Magic Damage: 3 + (LEVEL*1.2) %, Hero Intelligence: 2 + (LEVEL*0.8), Hero Knowledge: 6 + (LEVEL*2.4) | 
+  | 2 | **Vampire's Cowl** | A vampire's precious cape. One of the components of the Cloak of the Undead King. | Unit Health: 3 + (LEVEL*1.2) %, Hero Defense: 6 + (LEVEL*2.4) | 
+  | 3 | **Dead Man's Boots** | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | Unit Attack: 2 + (LEVEL*0.8) %, Unit Health: 2 + (LEVEL*0.8) %, Hero Knowledge: 4 + (LEVEL*1.6) | 
 ## Artifact Advancement
 
  **Name:** Undead Army
@@ -31,12 +40,3 @@ classes: wide
   | **14** | Automatically summons 13 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> armed skeletons at the start of battle. Armed Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(455+31*($sklevel-1))*$ulevel}</span> health. | 
   | **17** | Automatically summons 13 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> armed skeletons at the start of battle. Armed Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(455+31*($sklevel-1))*$ulevel}</span> health. | 
   | **20** | Automatically summons 13 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> armed skeletons at the start of battle. Armed Skeletons have <span style="color: #48b946;font-size:20px">{(27.5+3.5*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(455+31*($sklevel-1))*$ulevel}</span> health. | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Amulet of the Undertaker** | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | 
-  | 2 | **Vampire's Cowl** | A vampire's precious cape. One of the components of the Cloak of the Undead King. | 
-  | 3 | **Dead Man's Boots** | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | 

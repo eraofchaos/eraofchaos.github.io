@@ -14,8 +14,17 @@ classes: wide
 
  **Extra Description:** Rune carved with a magic mark, used as defense against magic power
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era3}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era3}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Garniture of Interference** | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Attack: 1 + (LEVEL*0.4) %, Unit Health: 1 + (LEVEL*0.4) %, Hero Knowledge: 3 + (LEVEL*1.2) | 
+  | 2 | **Surcoat of Counterpoise** | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Health: 1 + (LEVEL*0.4) %, Hero Intelligence: 2 + (LEVEL*0.8), Hero Knowledge: 3 + (LEVEL*1.2) | 
+  | 3 | **Boots of Polarity** | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | Unit Health: 1 + (LEVEL*0.4) %, Magic Damage: 1 + (LEVEL*0.4) %, Hero Knowledge: 3 + (LEVEL*1.2) | 
 ## Artifact Advancement
 
  **Name:** Mana Suppression
@@ -31,12 +40,3 @@ classes: wide
   | **14** | Spell damage taken by units decreases by 3%. | 
   | **17** | Spell damage taken by units decreases by 6% | 
   | **20** | Spell damage taken by units decreases by 10% | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Garniture of Interference** | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
-  | 2 | **Surcoat of Counterpoise** | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
-  | 3 | **Boots of Polarity** | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 

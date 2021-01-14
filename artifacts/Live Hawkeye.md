@@ -14,8 +14,18 @@ classes: wide
 
  **Extra Description:** Stay alive. Then, you will witness more wealth
 
- **Quality:** [quality](##artifact-advancement){: .btn .btn--era5}
+ **Quality:** [quality](#artifact-components){: .btn .btn--era5}
 
+
+
+## Artifact components
+
+  |  Nr  |    Name  |  Description | Bonus, where LEVEL is Upgrade Level - 1 | 
+  |:-----|:---------|:-------------|:-----:| 
+  | 1 | **Bird of Perception** | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | Unit Attack: 4 + (LEVEL*1.6) %, Unit Health: 2 + (LEVEL*0.8) %, Hero Defense: 12 + (LEVEL*4.8) | 
+  | 2 | **Stoic Watchman** | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | Unit Health: 2 + (LEVEL*0.8) %, Magic Damage: 4 + (LEVEL*1.6) %, Hero Attack: 12 + (LEVEL*4.8) | 
+  | 3 | **Medal of Truth** | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | Unit Attack: 4 + (LEVEL*1.6) %, Unit Health: 2 + (LEVEL*0.8) %, Hero Knowledge: 12 + (LEVEL*4.8) | 
+  | 4 | **Ring of Eagle Vision** | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | Unit Health: 3 + (LEVEL*1.2) %, Magic Damage: 3 + (LEVEL*1.2) %, Hero Intelligence: 12 + (LEVEL*4.8) | 
 ## Artifact Advancement
 
  **Name:** Eagle Vision Insight
@@ -31,13 +41,3 @@ classes: wide
   | **14** | Decreases the damage taken by friendly units by an additional 2%. | 
   | **17** | Decreases the damage taken by friendly units by an additional 2%. | 
   | **20** | Decreases the damage taken by friendly units by an additional 3%. | 
-
-
-## Artifact components
-
-  |  Nr  |    Name  |  Description | 
-  |:-----|:---------|:-------------| 
-  | 1 | **Bird of Perception** | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | 
-  | 2 | **Stoic Watchman** | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | 
-  | 3 | **Medal of Truth** | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | 
-  | 4 | **Ring of Eagle Vision** | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | 
