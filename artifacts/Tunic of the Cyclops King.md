@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity.
+
+ **Part of Artifact:** [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+
+ **Dismantle: 25x** Artifact essence
+
+ **Bonus:** **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **1-man** unit | **HP**: +11770 | 
+  | **8** | Affects **1-man** unit | **ATK**: +1350 | 
+  | **11** | Affects **1-man** unit | **HP**: +22840 | 
+  | **14** | Affects **1-man** unit | **ATK**: +2490 | 
+  | **17** | Affects **1-man** unit | **HP**: +33930 | 
+  | **20** | Affects **1-man** unit | **ATK**: +2940 | 

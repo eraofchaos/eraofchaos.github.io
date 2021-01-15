@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge.
+
+ **Part of Artifact:** [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+
+ **Dismantle: 25x** Artifact essence
+
+ **Bonus:** **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **1-man** unit | **HP**: +11770 | 
+  | **8** | Affects **1-man** unit | **ATK**: +1350 | 
+  | **11** | Affects **1-man** unit | **HP**: +22840 | 
+  | **14** | Affects **1-man** unit | **ATK**: +2490 | 
+  | **17** | Affects **1-man** unit | **HP**: +33930 | 
+  | **20** | Affects **1-man** unit | **ATK**: +2940 | 

@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade.
+
+ **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+
+ **Dismantle: 225x** Artifact essence
+
+ **Bonus:** **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Defense**: 4+(LEVEL\*1.6)<br/>**Hero Knowledge**: 16+(LEVEL\*6.4)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **4-man** unit | **HP**: +5000 | 
+  | **8** | Affects **4-man** unit | **ATK**: +570 | 
+  | **11** | Affects **4-man** unit | **HP**: +9700 | 
+  | **14** | Affects **4-man** unit | **ATK**: +1060 | 
+  | **17** | Affects **4-man** unit | **HP**: +14410 | 
+  | **20** | Affects **4-man** unit | **ATK**: +1250 | 

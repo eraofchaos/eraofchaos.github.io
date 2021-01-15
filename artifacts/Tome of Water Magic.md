@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat
+
+ **Part of Artifact:** [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+
+ **Dismantle: 75x** Artifact essence
+
+ **Bonus:** **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 12+(LEVEL\*4.8)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **4-man** unit | **ATK**: +240 | 
+  | **8** | Affects **4-man** unit | **HP**: +4300 | 
+  | **11** | Affects **4-man** unit | **ATK**: +470 | 
+  | **14** | Affects **4-man** unit | **HP**: +7920 | 
+  | **17** | Affects **4-man** unit | **ATK**: +690 | 
+  | **20** | Affects **4-man** unit | **HP**: +9370 | 

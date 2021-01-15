@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** A staff with great power sealed within. One of the Archmage's Codex.
+
+ **Part of Artifact:** [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
+
+ **Dismantle: 25x** Artifact essence
+
+ **Bonus:** **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **4-man** unit | **HP**: +3500 | 
+  | **8** | Affects **4-man** unit | **ATK**: +400 | 
+  | **11** | Affects **4-man** unit | **HP**: +6790 | 
+  | **14** | Affects **4-man** unit | **ATK**: +740 | 
+  | **17** | Affects **4-man** unit | **HP**: +10090 | 
+  | **20** | Affects **4-man** unit | **ATK**: +870 | 

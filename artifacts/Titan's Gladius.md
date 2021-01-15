@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** A sword wielded by ancient Giant. One of the components of the Titan's Thunder.
+
+ **Part of Artifact:** [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
+
+ **Dismantle: 75x** Artifact essence
+
+ **Bonus:** **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 10+(LEVEL\*4)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **1-man** unit | **ATK**: +1120 | 
+  | **8** | Affects **1-man** unit | **HP**: +20090 | 
+  | **11** | Affects **1-man** unit | **ATK**: +2170 | 
+  | **14** | Affects **1-man** unit | **HP**: +37000 | 
+  | **17** | Affects **1-man** unit | **ATK**: +3230 | 
+  | **20** | Affects **1-man** unit | **HP**: +43780 | 

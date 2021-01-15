@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter.
+
+ **Part of Artifact:** [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+
+ **Dismantle: 25x** Artifact essence
+
+ **Bonus:** **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **4-man** unit | **HP**: +3000 | 
+  | **8** | Affects **4-man** unit | **ATK**: +340 | 
+  | **11** | Affects **4-man** unit | **HP**: +5820 | 
+  | **14** | Affects **4-man** unit | **ATK**: +630 | 
+  | **17** | Affects **4-man** unit | **HP**: +8650 | 
+  | **20** | Affects **4-man** unit | **ATK**: +750 | 

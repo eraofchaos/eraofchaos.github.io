@@ -9,3 +9,23 @@ toc: false
 classes: wide
 ---
 
+
+
+## Details
+
+ **Description:** A charm with magic power. One of the components of the Wizard's Well.
+
+ **Part of Artifact:** [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3}
+
+ **Dismantle: 3x** Artifact essence
+
+ **Bonus:** **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 3+(LEVEL\*1.2)
+
+  |  Level  | Type |    Extra bonus  | 
+  |:--------|:-----|:----------------| 
+  | **5** | Affects **9-man** unit | **HP**: +1310 | 
+  | **8** | Affects **9-man** unit | **ATK**: +150 | 
+  | **11** | Affects **9-man** unit | **HP**: +2540 | 
+  | **14** | Affects **9-man** unit | **ATK**: +280 | 
+  | **17** | Affects **9-man** unit | **HP**: +3780 | 
+  | **20** | Affects **9-man** unit | **ATK**: +330 | 
