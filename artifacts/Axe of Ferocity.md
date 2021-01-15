@@ -27,10 +27,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | **Ogre's Club of Havoc** | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | 
-  | 2 | **Targ of the Rampaging Ogre** | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | 
-  | 3 | **Crown of the Supreme Magi** | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | 
-  | 4 | **Tunic of the Cyclops King** | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity. | 
+  | 1 | [Ogre's Club of Havoc](/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | 
+  | 2 | [Targ of the Rampaging Ogre](/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | 
+  | 3 | [Crown of the Supreme Magi](/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | 
+  | 4 | [Tunic of the Cyclops King](/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity. | 
 
 
 ## Artifact Advancement

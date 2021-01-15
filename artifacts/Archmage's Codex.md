@@ -25,10 +25,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | **Pendant of Negativity** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. | 
-  | 2 | **Recanter`s Cloak** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | Wear it to weaken magical attacks. One of the Archmage's Codex. | 
-  | 3 | **Ring of Flares** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A ring with magic flowing on its surface. One of the Archmage's Codex. | 
-  | 4 | **Staff of Disruption** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A staff with great power sealed within. One of the Archmage's Codex. | 
+  | 1 | [Pendant of Negativity](/artifacts/Pendant of Negativity/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. | 
+  | 2 | [Recanter`s Cloak](/artifacts/Recanter`s Cloak/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | Wear it to weaken magical attacks. One of the Archmage's Codex. | 
+  | 3 | [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A ring with magic flowing on its surface. One of the Archmage's Codex. | 
+  | 4 | [Staff of Disruption](/artifacts/Staff of Disruption/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A staff with great power sealed within. One of the Archmage's Codex. | 
 
 
 ## Artifact Advancement

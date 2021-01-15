@@ -25,10 +25,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | **Bird of Perception** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | 
-  | 2 | **Stoic Watchman** | **Unit Health**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8) | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | 
-  | 3 | **Medal of Truth** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | 
-  | 4 | **Ring of Eagle Vision** | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | 
+  | 1 | [Bird of Perception](/artifacts/Bird of Perception/){: .btn .btn--era5} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | 
+  | 2 | [Stoic Watchman](/artifacts/Stoic Watchman/){: .btn .btn--era5} | **Unit Health**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8) | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | 
+  | 3 | [Medal of Truth](/artifacts/Medal of Truth/){: .btn .btn--era5} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | 
+  | 4 | [Ring of Eagle Vision](/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | 
 
 
 ## Artifact Advancement

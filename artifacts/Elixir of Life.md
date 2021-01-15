@@ -27,9 +27,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | **Ring of Vitality** | **Hero Defense**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4) | A ring that supplies energy. One of the components of the Elixir of Life. | 
-  | 2 | **Ring of Life** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4) | A ring that supplies vast health to its wearer. One of the components of the Elixir of Life | 
-  | 3 | **Bottle of Energy** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 1+(LEVEL\*0.4) | A bottle to make the wearer feel energized. One of the components of the Elixir of Life. | 
+  | 1 | [Ring of Vitality](/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Hero Defense**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4) | A ring that supplies energy. One of the components of the Elixir of Life. | 
+  | 2 | [Ring of Life](/artifacts/Ring of Life/){: .btn .btn--era2} | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4) | A ring that supplies vast health to its wearer. One of the components of the Elixir of Life | 
+  | 3 | [Bottle of Energy](/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 1+(LEVEL\*0.4) | A bottle to make the wearer feel energized. One of the components of the Elixir of Life. | 
 
 
 ## Artifact Advancement

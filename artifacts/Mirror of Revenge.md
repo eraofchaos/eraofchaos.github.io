@@ -27,10 +27,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | **Chaos Brazier** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | 
-  | 2 | **Ice Scale** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | 
-  | 3 | **Necklace of Balance** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | 
-  | 4 | **Forgotten Hourglass** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | 
+  | 1 | [Chaos Brazier](/artifacts/Chaos Brazier/){: .btn .btn--era4} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | 
+  | 2 | [Ice Scale](/artifacts/Ice Scale/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | 
+  | 3 | [Necklace of Balance](/artifacts/Necklace of Balance/){: .btn .btn--era4} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | 
+  | 4 | [Forgotten Hourglass](/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | 
 
 
 ## Artifact Advancement

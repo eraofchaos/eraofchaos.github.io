@@ -27,9 +27,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | **Charm of Mana** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 3+(LEVEL\*1.2) | A charm that enhances magic. One of the components of the Wizard's Well. | 
-  | 2 | **Magic Charm** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 3+(LEVEL\*1.2) | A charm with magic power. One of the components of the Wizard's Well. | 
-  | 3 | **Mystic Orb of Mana** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 3+(LEVEL\*1.2) | A crystal ball with strong magic. One of the components of the Wizard's Well. | 
+  | 1 | [Charm of Mana](/artifacts/Charm of Mana/){: .btn .btn--era3} | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 3+(LEVEL\*1.2) | A charm that enhances magic. One of the components of the Wizard's Well. | 
+  | 2 | [Magic Charm](/artifacts/Magic Charm/){: .btn .btn--era3} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 3+(LEVEL\*1.2) | A charm with magic power. One of the components of the Wizard's Well. | 
+  | 3 | [Mystic Orb of Mana](/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 3+(LEVEL\*1.2) | A crystal ball with strong magic. One of the components of the Wizard's Well. | 
 
 
 ## Artifact Advancement
