@@ -25,6 +25,7 @@ classes: wide
 
   |  Level  | Type |    Extra bonus  | 
   |:--------|:-----|:----------------| 
+  | **2** | Affects **1-man** unit | **ATK**: +530 | 
   | **5** | Affects **1-man** unit | **HP**: +10090 | 
   | **8** | Affects **1-man** unit | **ATK**: +1160 | 
   | **11** | Affects **1-man** unit | **HP**: +19570 | 
