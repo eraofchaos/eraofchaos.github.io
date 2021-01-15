@@ -8,20 +8,25 @@ ref: "Axe of Ferocity.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Ogre's Club of Havoc](/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Tunic of the Cyclops King](/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  |   | [Axe of Ferocity](#artifact-advancement){: .btn .btn--era4} |  | 
+  | [Targ of the Rampaging Ogre](/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Crown of the Supreme Magi](/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+
+
 ## Details
 
  **Description:** A weapon forged from holy relics from different races. Able to enhance close combat ability.
 
  **Extra Description:** A weapon belonging to a barbarian lord. It makes units frenetic
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era4}
-
 
 
 ## Artifact components
 
-  | Nr |  Component Name | Component Bonus | Description | 
-  |:---|:----------------|:----------------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Ogre's Club of Havoc** | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | 
   | 2 | **Targ of the Rampaging Ogre** | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | 
   | 3 | **Crown of the Supreme Magi** | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | 
@@ -30,7 +35,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Power Domain
+ **Name: Power Domain**
 
  **Effect:** The weapon of an ancient barbarian lord. Increases all melee units' attack by <span style="color: #1ca216;font-size:16px">{$addattr12+$addattr13*($artifactlv-1)}%</span> and HP by <span style="color: #1ca216;font-size:16px">{$addattr22+$addattr23*($artifactlv-1)}%</span>.
 

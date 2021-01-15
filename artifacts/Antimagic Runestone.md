@@ -8,20 +8,25 @@ ref: "Antimagic Runestone.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Garniture of Interference](/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | [Surcoat of Counterpoise](/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  |   | [Antimagic Runestone](#artifact-advancement){: .btn .btn--era3} |  | 
+  |   | [Boots of Polarity](/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+
+
 ## Details
 
  **Description:** Antimagic runestone forged from enchanted items. Able to resist against spell damage
 
  **Extra Description:** Rune carved with a magic mark, used as defense against magic power
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era3}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Garniture of Interference** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
   | 2 | **Surcoat of Counterpoise** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
   | 3 | **Boots of Polarity** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
@@ -29,7 +34,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Mana Suppression
+ **Name: Mana Suppression**
 
  **Effect:** A rune engraved with a seal of magic resistance. Reduces units' spell damage taken by <span style="color: #1ca216;font-size:16px">{3+1.5*($artifactlv-1)}%</span>.
 

@@ -8,18 +8,23 @@ ref: "Apple of Eden.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Crystal Ball](/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Shroud of Eden](/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
+  | [Crystal Skull](/artifacts/Crystal Skull/){: .btn .btn--era5} | [Apple of Eden](#artifact-advancement){: .btn .btn--era5} | [Sword of Eden](/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  | [Ankh](/artifacts/Ankh/){: .btn .btn--era5} |   | [Staff of Eden](/artifacts/Staff of Eden/){: .btn .btn--era5} | 
+
+
 ## Details
 
  **Description:** A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.
-
- **Quality:** [quality](#artifact-components){: .btn .btn--era5}
 
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Crystal Skull** | **Unit Attack**: 12+(LEVEL\*4.8) %<br/>**Hero Attack**: 8+(LEVEL\*3.2) | A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men. | 
   | 2 | **Crystal Ball** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 8+(LEVEL\*3.2)<br/>**Hero Intelligence**: 16+(LEVEL\*6.4) | A shining crystal ball. Legend says it can see the future. | 
   | 3 | **Ankh** | **Unit Health**: 12+(LEVEL\*4.8) %<br/>**Hero Defense**: 16+(LEVEL\*6.4) | A cross that grants the wearer immortality. No one knows what happened to its previous owner. | 
@@ -30,7 +35,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Piece of Eden
+ **Name: Piece of Eden**
 
  **Effect:** Increases Unit DMG Reduction of all friendly units by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>. Purifies two random friendly units every 20s to remove a stack of debuff.
 

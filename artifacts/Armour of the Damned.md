@@ -8,20 +8,25 @@ ref: "Armour of the Damned.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | [Bone Armour](/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  |   | [Armour of the Damned](#artifact-advancement){: .btn .btn--era4} |  | 
+  | [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+
+
 ## Details
 
  **Description:** A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities.
 
  **Extra Description:** An ominous armor. All enemies will be cursed
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era4}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Sword of Hellfire** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A sword that hosts a dark power. One of the components of the Armour of the Damned. | 
   | 2 | **Shield of the Yawning Dead** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A shield assembled from undead bones. One of the components of the Armour of the Damned. | 
   | 3 | **Skull Helmet** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A helmet found in the underworld. One of the components of the Armour of the Damned. | 
@@ -30,7 +35,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Curse
+ **Name: Curse**
 
  **Effect:** Decreases all enemy units' attack by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, speed by <span style="color: #48b946;font-size:20px">{-($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span> and movement speed by 30; lasts 15 seconds
 

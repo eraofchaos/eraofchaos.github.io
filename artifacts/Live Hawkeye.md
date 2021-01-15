@@ -1,27 +1,30 @@
 ---
 title: "Artifacts - Live Hawkeye"
 permalink: /artifacts/Live Hawkeye/
-excerpt: "Live Hawkeye null"
+excerpt: "Live Hawkeye Stay alive. Then, you will witness more wealth"
 last_modified_at: 2021-01-15
 lang: en
 ref: "Live Hawkeye.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Bird of Perception](/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Ring of Eagle Vision](/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |   | [Live Hawkeye](#artifact-advancement){: .btn .btn--era5} |  | 
+  | [Stoic Watchman](/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Medal of Truth](/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+
+
 ## Details
 
- **Description:** -
-
- **Extra Description:** Stay alive. Then, you will witness more wealth
-
- **Quality:** [quality](#artifact-components){: .btn .btn--era5}
+ **Description:** Stay alive. Then, you will witness more wealth
 
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Bird of Perception** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | 
   | 2 | **Stoic Watchman** | **Unit Health**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8) | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | 
   | 3 | **Medal of Truth** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | 
@@ -30,7 +33,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Eagle Vision Insight
+ **Name: Eagle Vision Insight**
 
  **Effect:** Decreases the damage taken by friendly units by <span style="color: #1ca216;font-size:18px">{$buffaddattr12+$buffaddattr13*($sklevel-1)}%</span> (Effective for damage from units, spells, artifacts, and machines.)
 

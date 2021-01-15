@@ -1,27 +1,30 @@
 ---
 title: "Artifacts - Armageddon's Blade"
 permalink: /artifacts/Armageddon's Blade/
-excerpt: "Armageddon's Blade null"
+excerpt: "Armageddon's Blade The doomed flame will burn your soul"
 last_modified_at: 2021-01-15
 lang: en
 ref: "Armageddon's Blade.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Forest Bow](/artifacts/Forest Bow/){: .btn .btn--era5} |   | [Examplar Crossbow](/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | [Knight Sword](/artifacts/Knight Sword/){: .btn .btn--era5} | [Armageddon's Blade](#artifact-advancement){: .btn .btn--era5} | [Mountain Battleaxe](/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | [Staff of Wisdom](/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | [Warrior Hammer](/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+
+
 ## Details
 
- **Description:** -
-
- **Extra Description:** The doomed flame will burn your soul
-
- **Quality:** [quality](#artifact-components){: .btn .btn--era5}
+ **Description:** The doomed flame will burn your soul
 
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Knight Sword** | **Unit Attack**: 14+(LEVEL\*5.6) %<br/>**Hero Attack**: 8+(LEVEL\*3.2) | A sword worn by castle heroes. One of the components of Armageddon's Blade. | 
   | 2 | **Forest Bow** | **Unit Attack**: 5+(LEVEL\*2) %<br/>**Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 16+(LEVEL\*6.4) | A bow often used by wood elves. One of the components of Armageddon's Blade. | 
   | 3 | **Staff of Wisdom** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 16+(LEVEL\*6.4) | A relic that guards the Ice Shield. One of the components of Armageddon's Blade. | 
@@ -32,7 +35,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Armageddon
+ **Name: Armageddon**
 
  **Effect:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> fire spell damage on enemy units within a certain range, and deals additional damage equal to 10% of their Max HP. Also decreases their unit damage reduction by 10% and inflicts burning on them. The debuff can be stacked 2 times and lasts throughout the entire battle
 

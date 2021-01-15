@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Ring of Vitality](/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | [Ring of Life](/artifacts/Ring of Life/){: .btn .btn--era2} | 
-  |   | [Elixir of Life](#artifact-advancement){: .btn .btn--era2} |:---:| 
+  |   | [Elixir of Life](#artifact-advancement){: .btn .btn--era2} |  | 
   |   | [Bottle of Energy](/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 

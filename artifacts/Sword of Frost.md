@@ -1,27 +1,30 @@
 ---
 title: "Artifacts - Sword of Frost"
 permalink: /artifacts/Sword of Frost/
-excerpt: "Sword of Frost null"
+excerpt: "Sword of Frost The immense glacier destroyed the city of its origin"
 last_modified_at: 2021-01-15
 lang: en
 ref: "Sword of Frost.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  | [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | [Sword of Frost](#artifact-advancement){: .btn .btn--era5} | [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  | [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+
+
 ## Details
 
- **Description:** -
-
- **Extra Description:** The immense glacier destroyed the city of its origin
-
- **Quality:** [quality](#artifact-components){: .btn .btn--era5}
+ **Description:** The immense glacier destroyed the city of its origin
 
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Deep-Sea Trident** | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Attack**: 10+(LEVEL\*4) | A weapon used by Poseidon. One of the components of the Sword of Frost | 
   | 2 | **Minotaur's Battleaxe** | **Unit Attack**: 5+(LEVEL\*2) %<br/>**Hero Attack**: 12+(LEVEL\*4.8)<br/>**Hero Defense**: 8+(LEVEL\*3.2) | A battleaxe passed down by the Tauren. One of the components of the Sword of Frost. | 
   | 3 | **Withering Staff** | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A staff used by an Arch Lich. One of the components of the Sword of Frost. | 
@@ -32,7 +35,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Frozen World
+ **Name: Frozen World**
 
  **Effect:** Increases the spell damage taken by enemy units within a very large range by 50% throughout the entire battle (up to 2 levels) and inflicts slow and silence at the same time, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span>s
 

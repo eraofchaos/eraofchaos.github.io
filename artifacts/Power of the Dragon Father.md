@@ -8,20 +8,25 @@ ref: "Power of the Dragon Father.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Dragonbone Greaves](/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Necklace of Dragonteeth](/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
+  | [Dragon Scale Shield](/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | [Power of the Dragon Father](#artifact-advancement){: .btn .btn--era5} | [Crown of Dragontooth](/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  | [Red Dragon Flame Tongue](/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Dragon Scale Armour](/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+
+
 ## Details
 
  **Description:** A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage.
 
  **Extra Description:** The Dragon living in the Wynn Forest will respond to its call
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era5}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Dragon Scale Shield** | **Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | A shield blessed with the Dragon King's magic. One of the components of Power of the Dragon Father. | 
   | 2 | **Dragonbone Greaves** | **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Magic Damage**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father. | 
   | 3 | **Red Dragon Flame Tongue** | **Unit Attack**: 6+(LEVEL\*2.4) %<br/>**Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 10+(LEVEL\*4) | A sword forged from flame dragon crystals. One of the components of Power of the Dragon Father. | 
@@ -32,7 +37,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Power of the Dragon Father
+ **Name: Power of the Dragon Father**
 
  **Effect:** <span style="color: #48b946;font-size:20px">{(($initcd1-($sklevel-1)*$initcd2))/1000}</span> seconds after battle begins, summons 1 level <span style="color: #48b946;font-size:20px">{$sklevel}</span> Baby Azure Dragon, with <span style="color: #48b946;font-size:20px">{(500+35*($sklevel-1))*$ulevel}</span> attack and <span style="color: #48b946;font-size:20px">{(5700+380*($sklevel-1))*$ulevel}</span> health.
 

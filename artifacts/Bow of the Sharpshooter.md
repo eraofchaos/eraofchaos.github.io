@@ -8,20 +8,25 @@ ref: "Bow of the Sharpshooter.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Bow of Elven Cherrywood](/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | [Angel Feather Arrows](/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  |   | [Bow of the Sharpshooter](#artifact-advancement){: .btn .btn--era4} |  | 
+  |   | [Bowstring of the Unicorn's Mane](/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+
+
 ## Details
 
  **Description:** A holy relic forged from treasures by the elves. Able to increase ranged attack.
 
  **Extra Description:** A divine weapon shooting angel feathers.
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era4}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Bow of Elven Cherrywood** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 4+(LEVEL\*1.6) | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | 
   | 2 | **Angel Feather Arrows** | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 2+(LEVEL\*0.8) %<br/>**Hero Defense**: 4+(LEVEL\*1.6) | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | 
   | 3 | **Bowstring of the Unicorn's Mane** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6) | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter. | 
@@ -29,7 +34,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Phantom Acceleration
+ **Name: Phantom Acceleration**
 
  **Effect:** For thousands of years it has been fighting to defend Avlee. The ATK of Ranged/Caster units is increased by <span style="color: #1ca216;font-size:18px">{$addattr12+$addattr13*($artifactlv-1)}%</span>, and ATK range increases by 50
 

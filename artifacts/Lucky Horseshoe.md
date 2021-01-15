@@ -8,20 +8,25 @@ ref: "Lucky Horseshoe.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Clover of Fortune](/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | [Cards of Prophecy](/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  |   | [Lucky Horseshoe](#artifact-advancement){: .btn .btn--era2} |  | 
+  |   | [Ladybird of Luck](/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+
+
 ## Details
 
  **Description:** A holy relic filled with force. Able to increase attack for an army.
 
  **Extra Description:** A horseshoe brings you good luck. People who carry it are blessed
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era2}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Clover of Fortune** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4) | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | 
   | 2 | **Cards of Prophecy** | **Hero Intelligence**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4) | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | 
   | 3 | **Ladybird of Luck** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 1+(LEVEL\*0.4) | A glowing bird statue. One of the components of the Lucky Horseshoe. | 
@@ -29,7 +34,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Change of Fortunes
+ **Name: Change of Fortunes**
 
  **Effect:** The legendary symbol of good fortune, a lucky horseshoe. Increases all units' attack by <span style="color: #1ca216;font-size:16px">{$addattr12+$addattr13*($artifactlv-1)}%</span>.
 

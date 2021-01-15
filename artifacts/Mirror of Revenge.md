@@ -8,20 +8,25 @@ ref: "Mirror of Revenge.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Chaos Brazier](/artifacts/Chaos Brazier/){: .btn .btn--era4} |   | [Forgotten Hourglass](/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
+  |   | [Mirror of Revenge](#artifact-advancement){: .btn .btn--era4} |  | 
+  | [Ice Scale](/artifacts/Ice Scale/){: .btn .btn--era4} |   | [Necklace of Balance](/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
+
+
 ## Details
 
  **Description:** A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops.
 
  **Extra Description:** An evil byproduct containing a thirst for vengeance. It drives people mad.
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era4}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Chaos Brazier** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | 
   | 2 | **Ice Scale** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | 
   | 3 | **Necklace of Balance** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | 
@@ -30,7 +35,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Mirror of Revenge
+ **Name: Mirror of Revenge**
 
  **Effect:** A magical mirror filled with the desire for revenge. It increases the Unit DMG of all friendly units by <span style="color: #1ca216;font-size:18px">{$addattr12+$addattr13*($artifactlv-1)}%</span>.
 

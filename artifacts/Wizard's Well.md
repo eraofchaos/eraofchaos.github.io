@@ -8,20 +8,25 @@ ref: "Wizard's Well.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Charm of Mana](/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Magic Charm](/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  |   | [Wizard's Well](#artifact-advancement){: .btn .btn--era3} |  | 
+  |   | [Mystic Orb of Mana](/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+
+
 ## Details
 
  **Description:** Magical item made to fight demons. Able to increase spell point regeneration speed.
 
  **Extra Description:** It seals the magic spring that never dries up
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era3}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Charm of Mana** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 3+(LEVEL\*1.2) | A charm that enhances magic. One of the components of the Wizard's Well. | 
   | 2 | **Magic Charm** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 3+(LEVEL\*1.2) | A charm with magic power. One of the components of the Wizard's Well. | 
   | 3 | **Mystic Orb of Mana** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 3+(LEVEL\*1.2) | A crystal ball with strong magic. One of the components of the Wizard's Well. | 
@@ -29,7 +34,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Magic Source
+ **Name: Magic Source**
 
  **Effect:** Sealed magic spring water that never dries up. Increases mana regeneration of friendly hero by <span style="color: #1ca216;font-size:16px">{$morale12*2+2*$morale13*($artifactlv-1)}</span>.
 

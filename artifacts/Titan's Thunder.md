@@ -8,20 +8,25 @@ ref: "Titan's Thunder.md"
 toc: false
 classes: wide
 ---
+
+  |:---:|:---:|:---:| 
+  | [Titan's Gladius](/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Titan's Cuirass](/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
+  |   | [Titan's Thunder](#artifact-advancement){: .btn .btn--era5} |  | 
+  | [Sentinel's Shield](/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Thunder Helmet](/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
+
+
 ## Details
 
  **Description:** A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies.
 
  **Extra Description:** It grants the power of thunder control to the owner
 
- **Quality:** [quality](#artifact-components){: .btn .btn--era5}
-
 
 
 ## Artifact components
 
-  | Nr |      Name   |    Bonus   | Description | 
-  |:---|:------------|:-----------|:------------| 
+  | Nr |    Name    |   Bonus | Description | 
+  |:---|:-----------|:--------|:------------| 
   | 1 | **Titan's Gladius** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 10+(LEVEL\*4) | A sword wielded by ancient Giant. One of the components of the Titan's Thunder. | 
   | 2 | **Sentinel's Shield** | **Unit Health**: 6+(LEVEL\*2.4) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | A shield blessed with holy power. One of the components of the Titan's Thunder. | 
   | 3 | **Thunder Helmet** | **Magic Damage**: 6+(LEVEL\*2.4) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | A helmet used by the thunder god. One of the components of the Titan's Thunder. | 
@@ -30,7 +35,7 @@ classes: wide
 
 ## Artifact Advancement
 
- **Name:** Titan's Thunder
+ **Name: Titan's Thunder**
 
  **Effect:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range.
 
