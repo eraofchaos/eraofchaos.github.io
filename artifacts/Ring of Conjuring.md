@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ring of the Mage](/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** Artifact essence
+ **Dismantle: 3x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Ring of Conjuring](/Items/art_8/)
 
 ## Artifact Bonus
 

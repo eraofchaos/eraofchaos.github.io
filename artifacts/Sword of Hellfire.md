@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** Artifact essence
+ **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Sword of Hellfire](/Items/art_57/)
 
 ## Artifact Bonus
 

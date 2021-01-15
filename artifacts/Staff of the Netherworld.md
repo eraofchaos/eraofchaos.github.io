@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** Artifact essence
+ **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Staff of the Netherworld](/Items/art_85/)
 
 ## Artifact Bonus
 

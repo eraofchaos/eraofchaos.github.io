@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** Artifact essence
+ **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Shroud of Eden](/Items/art_6/)
 
 ## Artifact Bonus
 

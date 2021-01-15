@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** Artifact essence
+ **Dismantle: 75x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Tome of Air Magic](/Items/art_70/)
 
 ## Artifact Bonus
 

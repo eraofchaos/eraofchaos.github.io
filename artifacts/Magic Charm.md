@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** Artifact essence
+ **Dismantle: 3x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Magic Charm](/Items/art_56/)
 
 ## Artifact Bonus
 

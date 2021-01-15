@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** Artifact essence
+ **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Tunic of the Cyclops King](/Items/art_61/)
 
 ## Artifact Bonus
 

@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** Artifact essence
+ **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Bow of Elven Cherrywood](/Items/art_4/)
 
 ## Artifact Bonus
 

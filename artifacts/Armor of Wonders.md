@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** Artifact essence
+ **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Armor of Wonders](/Items/art_40/)
 
 ## Artifact Bonus
 

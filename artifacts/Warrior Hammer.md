@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** Artifact essence
+ **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Warrior Hammer](/Items/art_16/)
 
 ## Artifact Bonus
 

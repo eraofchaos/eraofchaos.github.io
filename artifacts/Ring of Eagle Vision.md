@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** Artifact essence
+ **Dismantle: 75x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Ring of Eagle Vision](/Items/art_80/)
 
 ## Artifact Bonus
 

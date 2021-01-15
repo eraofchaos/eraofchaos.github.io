@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Lucky Horseshoe](/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** Artifact essence
+ **Dismantle: 1x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Ladybird of Luck](/Items/art_46/)
 
 ## Artifact Bonus
 

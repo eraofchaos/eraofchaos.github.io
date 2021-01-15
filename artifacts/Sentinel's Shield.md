@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** Artifact essence
+ **Dismantle: 75x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Sentinel's Shield](/Items/art_55/)
 
 ## Artifact Bonus
 

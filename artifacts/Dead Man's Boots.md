@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** Artifact essence
+ **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Dead Man's Boots](/Items/art_13/)
 
 ## Artifact Bonus
 

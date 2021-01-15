@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Antimagic Runestone](/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** Artifact essence
+ **Dismantle: 3x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Boots of Polarity](/Items/art_68/)
 
 ## Artifact Bonus
 

@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** Artifact essence
+ **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Ring of Flares](/Items/art_10/)
 
 ## Artifact Bonus
 

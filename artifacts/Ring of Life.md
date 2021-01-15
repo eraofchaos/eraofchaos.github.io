@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Elixir of Life](/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** Artifact essence
+ **Dismantle: 1x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Ring of Life](/Items/art_69/)
 
 ## Artifact Bonus
 

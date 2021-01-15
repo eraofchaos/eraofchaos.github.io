@@ -17,7 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** Artifact essence
+ **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+
+ **Related Item**: [ Necklace of Balance](/Items/art_47/)
 
 ## Artifact Bonus
 
