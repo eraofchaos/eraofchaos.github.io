@@ -19,7 +19,9 @@ classes: wide
 
  **Dismantle: 25x** Artifact essence
 
- **Bonus:** **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6)
+## Artifact Bonus
+
+  **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6)
 
   |  Level  | Type |    Extra bonus  | 
   |:--------|:-----|:----------------| 

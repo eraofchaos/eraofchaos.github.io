@@ -19,7 +19,9 @@ classes: wide
 
  **Dismantle: 225x** Artifact essence
 
- **Bonus:** **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)
+## Artifact Bonus
+
+  **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)
 
   |  Level  | Type |    Extra bonus  | 
   |:--------|:-----|:----------------| 
