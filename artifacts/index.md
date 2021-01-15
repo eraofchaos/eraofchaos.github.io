@@ -22,12 +22,12 @@ classes: wide
   | 7   | [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4} | 4 | A weapon forged from holy relics from different races. Able to enhance close combat ability. |
   | 8   | [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | A holy relic forged from treasures by the elves. Able to increase ranged attack. |
   | 9   | [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | A holy relic made by a great undead king to hide his face. Able to summon a skeleton army. |
-  | 10   | [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4} | 4 |  |
+  | 10   | [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4} | 4 | Records Arcane spells. Strengthens Ranged/Caster units. |
   | 11   | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | 4 | A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies. |
-  | 12   | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | 4 |  |
+  | 12   | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | 4 | Stay alive. Then, you will witness more wealth |
   | 13   | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | 4 | A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly |
   | 14   | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} | 6 | A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage. |
-  | 15   | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} | 6 |  |
-  | 16   | [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 |  |
+  | 15   | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} | 6 | The immense glacier destroyed the city of its origin |
+  | 16   | [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 | The doomed flame will burn your soul |
   | 17   | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} | 6 | A holy relic forged from precious items by Angelic power. Able to increase the power of your allies. |
   | 18   | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} | 6 | A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things. |
