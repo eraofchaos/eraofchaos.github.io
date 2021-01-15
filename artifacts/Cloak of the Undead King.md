@@ -2,7 +2,7 @@
 title: "Artifacts - Cloak of the Undead King"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Cloak of the Undead King A holy relic made by a great undead king to hide his face. Able to summon a skeleton army."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Cloak of the Undead King.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Amulet of the Undertaker** | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | **Magic Damage**: 3 + (LEVEL\*1.2) %<br/>**Hero Intelligence**: 2 + (LEVEL\*0.8)<br/>**Hero Knowledge**: 6 + (LEVEL\*2.4) | 
-  | 2 | **Vampire's Cowl** | A vampire's precious cape. One of the components of the Cloak of the Undead King. | **Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Hero Defense**: 6 + (LEVEL\*2.4) | 
-  | 3 | **Dead Man's Boots** | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | **Unit Attack**: 2 + (LEVEL\*0.8) %<br/>**Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Hero Knowledge**: 4 + (LEVEL\*1.6) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Amulet of the Undertaker** | **Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | 
+  | 2 | **Vampire's Cowl** | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A vampire's precious cape. One of the components of the Cloak of the Undead King. | 
+  | 3 | **Dead Man's Boots** | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6) | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | 
 
 
 ## Artifact Advancement

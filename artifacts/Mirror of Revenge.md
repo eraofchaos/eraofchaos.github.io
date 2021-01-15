@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Mirror of Revenge A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Mirror of Revenge.md"
 toc: false
@@ -20,12 +20,12 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Chaos Brazier** | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Defense**: 5 + (LEVEL\*2)<br/>**Hero Intelligence**: 5 + (LEVEL\*2) | 
-  | 2 | **Ice Scale** | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 5 + (LEVEL\*2)<br/>**Hero Defense**: 5 + (LEVEL\*2) | 
-  | 3 | **Necklace of Balance** | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 5 + (LEVEL\*2)<br/>**Hero Knowledge**: 5 + (LEVEL\*2) | 
-  | 4 | **Forgotten Hourglass** | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Intelligence**: 5 + (LEVEL\*2)<br/>**Hero Knowledge**: 5 + (LEVEL\*2) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Chaos Brazier** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An item used to store powerful fire magic. One of the components of the Mirror of Revenge. | 
+  | 2 | **Ice Scale** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge. | 
+  | 3 | **Necklace of Balance** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | 
+  | 4 | **Forgotten Hourglass** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | 
 
 
 ## Artifact Advancement

@@ -2,7 +2,7 @@
 title: "Artifacts - Spellbinder's Hat"
 permalink: /artifacts/Spellbinder's Hat/
 excerpt: "Spellbinder's Hat A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly"
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Spellbinder's Hat.md"
 toc: false
@@ -20,12 +20,12 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Tome of Fire Magic** | This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 12 + (LEVEL\*4.8) | 
-  | 2 | **Tome of Water Magic** | This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Defense**: 12 + (LEVEL\*4.8) | 
-  | 3 | **Tome of Air Magic** | This is a spell book recording advanced air magic. You will feel the air elemental when reading it. One of the components of Spellbinder's Hat | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Intelligence**: 12 + (LEVEL\*4.8) | 
-  | 4 | **Tome of Earth Magic** | This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Knowledge**: 12 + (LEVEL\*4.8) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Tome of Fire Magic** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8) | This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat | 
+  | 2 | **Tome of Water Magic** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat | 
+  | 3 | **Tome of Air Magic** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | This is a spell book recording advanced air magic. You will feel the air elemental when reading it. One of the components of Spellbinder's Hat | 
+  | 4 | **Tome of Earth Magic** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat | 
 
 
 ## Artifact Advancement

@@ -2,7 +2,7 @@
 title: "Artifacts - Armageddon's Blade"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Armageddon's Blade null"
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Armageddon's Blade.md"
 toc: false
@@ -20,14 +20,14 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Knight Sword** | A sword worn by castle heroes. One of the components of Armageddon's Blade. | **Unit Attack**: 14 + (LEVEL\*5.6) %<br/>**Hero Attack**: 8 + (LEVEL\*3.2) | 
-  | 2 | **Forest Bow** | A bow often used by wood elves. One of the components of Armageddon's Blade. | **Unit Attack**: 5 + (LEVEL\*2) %<br/>**Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Hero Defense**: 16 + (LEVEL\*6.4) | 
-  | 3 | **Staff of Wisdom** | A relic that guards the Ice Shield. One of the components of Armageddon's Blade. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 6 + (LEVEL\*2.4)<br/>**Hero Intelligence**: 16 + (LEVEL\*6.4) | 
-  | 4 | **Mountain Battleaxe** | A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade. | **Unit Health**: 8 + (LEVEL\*3.2) %<br/>**Hero Defense**: 4 + (LEVEL\*1.6)<br/>**Hero Knowledge**: 16 + (LEVEL\*6.4) | 
-  | 5 | **Warrior Hammer** | A warhammer hidden on Giant's Ridge. One of the components of Armageddon's Blade. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 6 + (LEVEL\*2.4)<br/>**Hero Intelligence**: 16 + (LEVEL\*6.4) | 
-  | 6 | **Examplar Crossbow** | An artifact worn by Hero Gelu before he came of age. One of the components of Armageddon's Blade. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 6 + (LEVEL\*2.4)<br/>**Hero Intelligence**: 16 + (LEVEL\*6.4) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Knight Sword** | **Unit Attack**: 14+(LEVEL\*5.6) %<br/>**Hero Attack**: 8+(LEVEL\*3.2) | A sword worn by castle heroes. One of the components of Armageddon's Blade. | 
+  | 2 | **Forest Bow** | **Unit Attack**: 5+(LEVEL\*2) %<br/>**Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 16+(LEVEL\*6.4) | A bow often used by wood elves. One of the components of Armageddon's Blade. | 
+  | 3 | **Staff of Wisdom** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 16+(LEVEL\*6.4) | A relic that guards the Ice Shield. One of the components of Armageddon's Blade. | 
+  | 4 | **Mountain Battleaxe** | **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Defense**: 4+(LEVEL\*1.6)<br/>**Hero Knowledge**: 16+(LEVEL\*6.4) | A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade. | 
+  | 5 | **Warrior Hammer** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 16+(LEVEL\*6.4) | A warhammer hidden on Giant's Ridge. One of the components of Armageddon's Blade. | 
+  | 6 | **Examplar Crossbow** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 16+(LEVEL\*6.4) | An artifact worn by Hero Gelu before he came of age. One of the components of Armageddon's Blade. | 
 
 
 ## Artifact Advancement

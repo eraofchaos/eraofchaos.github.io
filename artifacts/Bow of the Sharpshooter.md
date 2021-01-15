@@ -2,7 +2,7 @@
 title: "Artifacts - Bow of the Sharpshooter"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Bow of the Sharpshooter A holy relic forged from treasures by the elves. Able to increase ranged attack."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Bow of the Sharpshooter.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Bow of Elven Cherrywood** | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 4 + (LEVEL\*1.6) | 
-  | 2 | **Angel Feather Arrows** | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | **Unit Attack**: 2 + (LEVEL\*0.8) %<br/>**Magic Damage**: 2 + (LEVEL\*0.8) %<br/>**Hero Defense**: 4 + (LEVEL\*1.6) | 
-  | 3 | **Bowstring of the Unicorn's Mane** | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter. | **Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Knowledge**: 4 + (LEVEL\*1.6) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Bow of Elven Cherrywood** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 4+(LEVEL\*1.6) | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter. | 
+  | 2 | **Angel Feather Arrows** | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 2+(LEVEL\*0.8) %<br/>**Hero Defense**: 4+(LEVEL\*1.6) | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter. | 
+  | 3 | **Bowstring of the Unicorn's Mane** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6) | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter. | 
 
 
 ## Artifact Advancement

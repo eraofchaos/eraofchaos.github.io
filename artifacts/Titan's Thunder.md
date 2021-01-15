@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Titan's Thunder A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Titan's Thunder.md"
 toc: false
@@ -20,12 +20,12 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Titan's Gladius** | A sword wielded by ancient Giant. One of the components of the Titan's Thunder. | **Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 6 + (LEVEL\*2.4)<br/>**Hero Intelligence**: 10 + (LEVEL\*4) | 
-  | 2 | **Sentinel's Shield** | A shield blessed with holy power. One of the components of the Titan's Thunder. | **Unit Health**: 6 + (LEVEL\*2.4) %<br/>**Hero Knowledge**: 12 + (LEVEL\*4.8) | 
-  | 3 | **Thunder Helmet** | A helmet used by the thunder god. One of the components of the Titan's Thunder. | **Magic Damage**: 6 + (LEVEL\*2.4) %<br/>**Hero Intelligence**: 12 + (LEVEL\*4.8) | 
-  | 4 | **Titan's Cuirass** | An armour made from a meteor. One of the components of the Titan's Thunder. | **Unit Health**: 7 + (LEVEL\*2.8) %<br/>**Hero Defense**: 10 + (LEVEL\*4) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Titan's Gladius** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 10+(LEVEL\*4) | A sword wielded by ancient Giant. One of the components of the Titan's Thunder. | 
+  | 2 | **Sentinel's Shield** | **Unit Health**: 6+(LEVEL\*2.4) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | A shield blessed with holy power. One of the components of the Titan's Thunder. | 
+  | 3 | **Thunder Helmet** | **Magic Damage**: 6+(LEVEL\*2.4) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | A helmet used by the thunder god. One of the components of the Titan's Thunder. | 
+  | 4 | **Titan's Cuirass** | **Unit Health**: 7+(LEVEL\*2.8) %<br/>**Hero Defense**: 10+(LEVEL\*4) | An armour made from a meteor. One of the components of the Titan's Thunder. | 
 
 
 ## Artifact Advancement

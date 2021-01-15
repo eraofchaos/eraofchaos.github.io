@@ -2,7 +2,7 @@
 title: "Artifacts - Lucky Horseshoe"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Lucky Horseshoe A holy relic filled with force. Able to increase attack for an army."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Lucky Horseshoe.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Clover of Fortune** | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | **Unit Attack**: 1 + (LEVEL\*0.4) %<br/>**Hero Attack**: 1 + (LEVEL\*0.4) | 
-  | 2 | **Cards of Prophecy** | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | **Hero Intelligence**: 1 + (LEVEL\*0.4)<br/>**Hero Knowledge**: 1 + (LEVEL\*0.4) | 
-  | 3 | **Ladybird of Luck** | A glowing bird statue. One of the components of the Lucky Horseshoe. | **Magic Damage**: 1 + (LEVEL\*0.4) %<br/>**Hero Defense**: 1 + (LEVEL\*0.4) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Clover of Fortune** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4) | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | 
+  | 2 | **Cards of Prophecy** | **Hero Intelligence**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4) | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | 
+  | 3 | **Ladybird of Luck** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 1+(LEVEL\*0.4) | A glowing bird statue. One of the components of the Lucky Horseshoe. | 
 
 
 ## Artifact Advancement

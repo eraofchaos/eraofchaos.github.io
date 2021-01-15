@@ -2,7 +2,7 @@
 title: "Artifacts - Antimagic Runestone"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Antimagic Runestone Antimagic runestone forged from enchanted items. Able to resist against spell damage"
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Antimagic Runestone.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Garniture of Interference** | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | **Unit Attack**: 1 + (LEVEL\*0.4) %<br/>**Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Hero Knowledge**: 3 + (LEVEL\*1.2) | 
-  | 2 | **Surcoat of Counterpoise** | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | **Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Hero Intelligence**: 2 + (LEVEL\*0.8)<br/>**Hero Knowledge**: 3 + (LEVEL\*1.2) | 
-  | 3 | **Boots of Polarity** | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | **Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Magic Damage**: 1 + (LEVEL\*0.4) %<br/>**Hero Knowledge**: 3 + (LEVEL\*1.2) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Garniture of Interference** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
+  | 2 | **Surcoat of Counterpoise** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
+  | 3 | **Boots of Polarity** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
 
 
 ## Artifact Advancement

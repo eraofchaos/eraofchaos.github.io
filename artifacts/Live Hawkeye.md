@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Live Hawkeye null"
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Live Hawkeye.md"
 toc: false
@@ -20,12 +20,12 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Bird of Perception** | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Hero Defense**: 12 + (LEVEL\*4.8) | 
-  | 2 | **Stoic Watchman** | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | **Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 12 + (LEVEL\*4.8) | 
-  | 3 | **Medal of Truth** | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | **Unit Attack**: 4 + (LEVEL\*1.6) %<br/>**Unit Health**: 2 + (LEVEL\*0.8) %<br/>**Hero Knowledge**: 12 + (LEVEL\*4.8) | 
-  | 4 | **Ring of Eagle Vision** | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | **Unit Health**: 3 + (LEVEL\*1.2) %<br/>**Magic Damage**: 3 + (LEVEL\*1.2) %<br/>**Hero Intelligence**: 12 + (LEVEL\*4.8) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Bird of Perception** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye. | 
+  | 2 | **Stoic Watchman** | **Unit Health**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8) | A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye. | 
+  | 3 | **Medal of Truth** | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | A witch charm with mounted eyeballs. One of the components of the Live Hawkeye. | 
+  | 4 | **Ring of Eagle Vision** | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye | 
 
 
 ## Artifact Advancement

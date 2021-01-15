@@ -2,7 +2,7 @@
 title: "Artifacts - Wizard's Well"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Wizard's Well Magical item made to fight demons. Able to increase spell point regeneration speed."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Wizard's Well.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Charm of Mana** | A charm that enhances magic. One of the components of the Wizard's Well. | **Unit Attack**: 1 + (LEVEL\*0.4) %<br/>**Hero Defense**: 3 + (LEVEL\*1.2) | 
-  | 2 | **Magic Charm** | A charm with magic power. One of the components of the Wizard's Well. | **Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Hero Intelligence**: 3 + (LEVEL\*1.2) | 
-  | 3 | **Mystic Orb of Mana** | A crystal ball with strong magic. One of the components of the Wizard's Well. | **Magic Damage**: 1 + (LEVEL\*0.4) %<br/>**Hero Attack**: 3 + (LEVEL\*1.2) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Charm of Mana** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 3+(LEVEL\*1.2) | A charm that enhances magic. One of the components of the Wizard's Well. | 
+  | 2 | **Magic Charm** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 3+(LEVEL\*1.2) | A charm with magic power. One of the components of the Wizard's Well. | 
+  | 3 | **Mystic Orb of Mana** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 3+(LEVEL\*1.2) | A crystal ball with strong magic. One of the components of the Wizard's Well. | 
 
 
 ## Artifact Advancement

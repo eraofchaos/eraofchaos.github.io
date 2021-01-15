@@ -2,7 +2,7 @@
 title: "Artifacts - Elixir of Life"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Elixir of Life A holy relic with vast health. Able to increase HP for an army."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Elixir of Life.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Ring of Vitality** | A ring that supplies energy. One of the components of the Elixir of Life. | **Hero Defense**: 1 + (LEVEL\*0.4)<br/>**Hero Knowledge**: 1 + (LEVEL\*0.4) | 
-  | 2 | **Ring of Life** | A ring that supplies vast health to its wearer. One of the components of the Elixir of Life | **Magic Damage**: 1 + (LEVEL\*0.4) %<br/>**Hero Attack**: 1 + (LEVEL\*0.4) | 
-  | 3 | **Bottle of Energy** | A bottle to make the wearer feel energized. One of the components of the Elixir of Life. | **Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Hero Intelligence**: 1 + (LEVEL\*0.4) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Ring of Vitality** | **Hero Defense**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4) | A ring that supplies energy. One of the components of the Elixir of Life. | 
+  | 2 | **Ring of Life** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4) | A ring that supplies vast health to its wearer. One of the components of the Elixir of Life | 
+  | 3 | **Bottle of Energy** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 1+(LEVEL\*0.4) | A bottle to make the wearer feel energized. One of the components of the Elixir of Life. | 
 
 
 ## Artifact Advancement

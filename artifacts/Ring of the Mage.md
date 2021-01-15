@@ -2,7 +2,7 @@
 title: "Artifacts - Ring of the Mage"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Ring of the Mage Magical ring forged from enchanted items. Able to increase spell damage."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Ring of the Mage.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Collar of Conjuring** | Enhances the wearer's magic power. One of the components of Ring of the Mage. | **Unit Attack**: 1 + (LEVEL\*0.4) %<br/>**Hero Intelligence**: 2 + (LEVEL\*0.8)<br/>**Hero Knowledge**: 2 + (LEVEL\*0.8) | 
-  | 2 | **Ring of Conjuring** | A mysterious ring with strong magic. One of the components of Ring of the Mage. | **Magic Damage**: 1 + (LEVEL\*0.4) %<br/>**Hero Attack**: 2 + (LEVEL\*0.8)<br/>**Hero Intelligence**: 2 + (LEVEL\*0.8) | 
-  | 3 | **Cape of Conjuring** | A cape crackling with magical power. One of the components of Ring of the Mage. | **Unit Health**: 1 + (LEVEL\*0.4) %<br/>**Hero Attack**: 2 + (LEVEL\*0.8)<br/>**Hero Knowledge**: 2 + (LEVEL\*0.8) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Collar of Conjuring** | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8) | Enhances the wearer's magic power. One of the components of Ring of the Mage. | 
+  | 2 | **Ring of Conjuring** | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 2+(LEVEL\*0.8)<br/>**Hero Intelligence**: 2+(LEVEL\*0.8) | A mysterious ring with strong magic. One of the components of Ring of the Mage. | 
+  | 3 | **Cape of Conjuring** | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8) | A cape crackling with magical power. One of the components of Ring of the Mage. | 
 
 
 ## Artifact Advancement

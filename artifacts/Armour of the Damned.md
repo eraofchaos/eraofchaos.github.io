@@ -2,7 +2,7 @@
 title: "Artifacts - Armour of the Damned"
 permalink: /artifacts/Armour of the Damned/
 excerpt: "Armour of the Damned A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities."
-last_modified_at: 2021-01-14
+last_modified_at: 2021-01-15
 lang: en
 ref: "Armour of the Damned.md"
 toc: false
@@ -20,12 +20,12 @@ classes: wide
 
 ## Artifact components
 
-  |  Nr  |    Name  |  Description | Bonus | 
-  |:-----|:---------|:-------------|:------| 
-  | 1 | **Sword of Hellfire** | A sword that hosts a dark power. One of the components of the Armour of the Damned. | **Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Attack**: 6 + (LEVEL\*2.4) | 
-  | 2 | **Shield of the Yawning Dead** | A shield assembled from undead bones. One of the components of the Armour of the Damned. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Defense**: 6 + (LEVEL\*2.4) | 
-  | 3 | **Skull Helmet** | A helmet found in the underworld. One of the components of the Armour of the Damned. | **Magic Damage**: 4 + (LEVEL\*1.6) %<br/>**Hero Intelligence**: 6 + (LEVEL\*2.4) | 
-  | 4 | **Bone Armour** | A shield made from hard bones. One of the components of the Armour of the Damned. | **Unit Health**: 4 + (LEVEL\*1.6) %<br/>**Hero Knowledge**: 6 + (LEVEL\*2.4) | 
+  | Nr |      Name   |    Bonus   | Description | 
+  |:---|:------------|:-----------|:------------| 
+  | 1 | **Sword of Hellfire** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A sword that hosts a dark power. One of the components of the Armour of the Damned. | 
+  | 2 | **Shield of the Yawning Dead** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A shield assembled from undead bones. One of the components of the Armour of the Damned. | 
+  | 3 | **Skull Helmet** | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A helmet found in the underworld. One of the components of the Armour of the Damned. | 
+  | 4 | **Bone Armour** | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A shield made from hard bones. One of the components of the Armour of the Damned. | 
 
 
 ## Artifact Advancement
