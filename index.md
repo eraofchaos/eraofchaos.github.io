@@ -7,6 +7,15 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
+{% capture notice-update20210115 %}
+Released <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">15 Jan 2021 Update:</h4>
+  {{ notice-update20210115 | markdownify }}
+</div>
+
 
 {% capture notice-update20210112 %}
 **Client update** (version 142):
@@ -33,15 +42,7 @@ sidebar:
   {{ notice-update20210112 | markdownify }}
 </div>
 
-{% capture notice-update20210107 %}
-Released Battlefield Backup (see Arsenal -> Backup):
-English:  <i class="fas fa-hat-cowboy-side"/>  [Backup](https://eraofchaos.github.io/Backup/) 
-{% endcapture %}
 
-<div class="notice--danger">
-  <h4 class="no_toc">7 Jan 2021 Update:</h4>
-  {{ notice-update20210107 | markdownify }}
-</div>
 
 
 
@@ -55,7 +56,10 @@ You will find here:
 ### <i class="fab fa-optin-monster"/>  [Units](/units/)
 ### <i class="fas fa-fist-raised"/> [Combination Bonus for Units and Heroes](https://eraofchaos.github.io/combination/)
 ### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
+### <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/) see [Items - Artifacts](/Items/Artifacts/)
+
 ### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
+
 ### <i class="fas fa-hat-cowboy-side"/>  [Battlefield Backup](https://eraofchaos.github.io/Backup/)
 ### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/Alchemy Workshop/)
 ### <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
@@ -72,14 +76,23 @@ You will find here:
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
 Currently in the development:
-### <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/) see [Items - Artifacts](/Items/Artifacts/)
 ### <i class="fas fa-place-of-worship"/>  [Guild](/guild/)
 ### <i class="fas fa-store"/>  [Stores](/stores/)
 ### <i class="fas fa-chess"/>  [Auto Chess](/autochess/)
-### <i class="fas fa-cogs"/> War Maschines (TBD)
+### <i class="fas fa-cogs"/> War Maschines
 
 
 ## History
+
+{% capture notice-update20210107 %}
+Released Battlefield Backup (see Arsenal -> Backup):
+English:  <i class="fas fa-hat-cowboy-side"/>  [Backup](https://eraofchaos.github.io/Backup/) 
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">7 Jan 2021 Update:</h4>
+  {{ notice-update20210107 | markdownify }}
+</div>
 
 {% capture notice-update20210105 %}
 Client update:
@@ -182,7 +195,7 @@ Each item contains section **Gather** from where You can get it and **This item 
 
 {% capture notice-update20201224 %}
 ![image-center](/assets/images/xmass2021.jpg){: .align-center}
-In our perfect ways. In the ways we are **players**. In the ways we are **Era Of Chaos** fun. We are here. **Happy New 2021 Year’s**. Let’s make it ours.
+In our perfect ways. In the ways we are **players**. In the ways we are **Era Of Chaos** fun. We are here. **Happy New 2021 Year**. Lets make it ours.
 {% endcapture %}
 
 <div class="notice--danger">
