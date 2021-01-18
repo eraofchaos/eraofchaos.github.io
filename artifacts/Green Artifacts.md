@@ -19,3 +19,5 @@ classes: wide
 
   **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
+ **Artifact component upgrade:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
