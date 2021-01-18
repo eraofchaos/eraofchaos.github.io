@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** A horseshoe brings you good luck. People who carry it are blessed
 
- **Quality:** [Green](/artifacts/Green Artifacts/{: .btn .btn--era2}
+ **Quality:** [Green](/artifacts/Green Artifacts/){: .btn .btn--era2}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

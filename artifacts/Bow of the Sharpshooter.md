@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** A divine weapon shooting angel feathers.
 
- **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+ **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

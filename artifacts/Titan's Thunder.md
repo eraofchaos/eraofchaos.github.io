@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** It grants the power of thunder control to the owner
 
- **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+ **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

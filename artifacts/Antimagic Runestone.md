@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** Rune carved with a magic mark, used as defense against magic power
 
- **Quality:** [Blue](/artifacts/Blue Artifacts/{: .btn .btn--era3}
+ **Quality:** [Blue](/artifacts/Blue Artifacts/){: .btn .btn--era3}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

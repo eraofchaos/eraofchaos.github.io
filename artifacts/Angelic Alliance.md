@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** It shines the light from the heaven, reviving the dead units
 
- **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+ **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** It seals the magic spring that never dries up
 
- **Quality:** [Blue](/artifacts/Blue Artifacts/{: .btn .btn--era3}
+ **Quality:** [Blue](/artifacts/Blue Artifacts/){: .btn .btn--era3}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

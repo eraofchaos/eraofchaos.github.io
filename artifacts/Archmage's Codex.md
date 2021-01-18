@@ -19,7 +19,7 @@ classes: wide
 
  **Description:** Records Arcane spells. Strengthens Ranged/Caster units.
 
- **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+ **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

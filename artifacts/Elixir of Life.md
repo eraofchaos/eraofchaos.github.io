@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** The vessel holds the power of life, making your units even stronger
 
- **Quality:** [Green](/artifacts/Green Artifacts/{: .btn .btn--era2}
+ **Quality:** [Green](/artifacts/Green Artifacts/){: .btn .btn--era2}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

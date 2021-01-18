@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** The elemental force, granting the crowning glory to the enchanters
 
- **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+ **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

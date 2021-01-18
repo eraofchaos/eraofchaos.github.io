@@ -19,7 +19,7 @@ classes: wide
 
  **Description:** The doomed flame will burn your soul
 
- **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+ **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

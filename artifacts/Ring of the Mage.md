@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** The mark of Bracada Mage, the symbol of status
 
- **Quality:** [Blue](/artifacts/Blue Artifacts/{: .btn .btn--era3}
+ **Quality:** [Blue](/artifacts/Blue Artifacts/){: .btn .btn--era3}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

@@ -19,7 +19,7 @@ classes: wide
 
  **Description:** A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.
 
- **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+ **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 

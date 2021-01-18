@@ -21,7 +21,7 @@ classes: wide
 
  **Extra Description:** An evil byproduct containing a thirst for vengeance. It drives people mad.
 
- **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+ **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 
  **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
