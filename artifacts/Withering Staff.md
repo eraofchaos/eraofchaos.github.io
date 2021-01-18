@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Withering Staff](/Items/art_33/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)
 

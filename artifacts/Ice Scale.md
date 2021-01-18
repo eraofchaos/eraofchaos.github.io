@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ice Scale](/Items/art_24/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2)
 

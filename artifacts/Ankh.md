@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ankh](/Items/art_21/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 12+(LEVEL\*4.8) %<br/>**Hero Defense**: 16+(LEVEL\*6.4)
 

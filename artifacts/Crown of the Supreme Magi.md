@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Crown of the Supreme Magi](/Items/art_37/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2)
 

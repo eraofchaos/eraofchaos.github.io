@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Vampire's Cowl](/Items/art_75/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 6+(LEVEL\*2.4)
 

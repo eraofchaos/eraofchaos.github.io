@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Magic Charm](/Items/art_56/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 3+(LEVEL\*1.2)
 

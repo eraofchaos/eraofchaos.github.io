@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Cape of Conjuring](/Items/art_34/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8)
 

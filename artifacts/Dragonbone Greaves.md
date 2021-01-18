@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Dragonbone Greaves](/Items/art_39/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Magic Damage**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8)
 

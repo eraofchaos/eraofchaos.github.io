@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Dead Man's Boots](/Items/art_13/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6)
 

@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Mystic Orb of Mana](/Items/art_76/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 3+(LEVEL\*1.2)
 

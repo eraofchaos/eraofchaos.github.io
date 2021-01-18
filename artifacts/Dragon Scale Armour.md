@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Dragon Scale Armour](/Items/art_20/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4)<br/>**Hero Knowledge**: 16+(LEVEL\*6.4)
 

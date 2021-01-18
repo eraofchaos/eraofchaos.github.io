@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Minotaur's Battleaxe](/Items/art_11/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 5+(LEVEL\*2) %<br/>**Hero Attack**: 12+(LEVEL\*4.8)<br/>**Hero Defense**: 8+(LEVEL\*3.2)
 

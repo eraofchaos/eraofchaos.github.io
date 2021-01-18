@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Armor of Wonders](/Items/art_40/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Defense**: 4+(LEVEL\*1.6)<br/>**Hero Knowledge**: 16+(LEVEL\*6.4)
 

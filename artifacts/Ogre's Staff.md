@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ogre's Staff](/Items/art_36/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 6+(LEVEL\*2.4) %<br/>**Hero Defense**: 12+(LEVEL\*4.8)<br/>**Hero Intelligence**: 6+(LEVEL\*2.4)
 

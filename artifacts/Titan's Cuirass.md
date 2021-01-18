@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Titan's Cuirass](/Items/art_83/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 7+(LEVEL\*2.8) %<br/>**Hero Defense**: 10+(LEVEL\*4)
 

@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Crystal Skull](/Items/art_65/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 12+(LEVEL\*4.8) %<br/>**Hero Attack**: 8+(LEVEL\*3.2)
 

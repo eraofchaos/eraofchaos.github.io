@@ -13,3 +13,7 @@ classes: wide
 
   |  Nr  |    Artifact    | Pieces |  Description   |
   |:-----|:---------------|:------:|:--------------:|
+
+
+  **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
+

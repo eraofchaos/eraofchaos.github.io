@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ice Crystal Shield](/Items/art_60/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Defense**: 10+(LEVEL\*4)<br/>**Hero Knowledge**: 4+(LEVEL\*1.6)
 

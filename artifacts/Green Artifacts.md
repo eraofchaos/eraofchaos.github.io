@@ -15,3 +15,7 @@ classes: wide
   |:-----|:---------------|:------:|:--------------:|
   | 1   | [Elixir of Life](/artifacts/Elixir of Life/){: .btn .btn--era2} | 3 | A holy relic with vast health. Able to increase HP for an army. |
   | 2   | [Lucky Horseshoe](/artifacts/Lucky Horseshoe/){: .btn .btn--era2} | 3 | A holy relic filled with force. Able to increase attack for an army. |
+
+
+  **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
+

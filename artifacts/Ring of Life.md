@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ring of Life](/Items/art_69/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4)
 

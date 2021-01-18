@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Lion's Shield of Courage](/Items/art_82/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 5+(LEVEL\*2) %<br/>**Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 16+(LEVEL\*6.4)
 

@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Bow of Elven Cherrywood](/Items/art_4/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 4+(LEVEL\*1.6)
 

@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Bottle of Energy](/Items/art_14/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 1+(LEVEL\*0.4)
 

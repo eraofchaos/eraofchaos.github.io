@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Charm of Mana](/Items/art_25/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 3+(LEVEL\*1.2)
 

@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Deep-Sea Trident](/Items/art_72/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Attack**: 10+(LEVEL\*4)
 

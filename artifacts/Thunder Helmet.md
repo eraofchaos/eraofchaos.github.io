@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Thunder Helmet](/Items/art_58/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Magic Damage**: 6+(LEVEL\*2.4) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8)
 

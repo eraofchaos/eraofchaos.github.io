@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Titan's Gladius](/Items/art_30/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 10+(LEVEL\*4)
 

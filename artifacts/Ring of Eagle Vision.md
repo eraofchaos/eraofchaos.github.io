@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ring of Eagle Vision](/Items/art_80/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8)
 

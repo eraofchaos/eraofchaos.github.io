@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Necklace of Dragonteeth](/Items/art_41/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 12+(LEVEL\*4.8)
 

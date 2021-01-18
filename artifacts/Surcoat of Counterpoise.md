@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Surcoat of Counterpoise](/Items/art_48/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 3+(LEVEL\*1.2)
 

@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Medal of Truth](/Items/art_54/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8)
 

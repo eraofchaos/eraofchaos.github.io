@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Staff of the Netherworld](/Items/art_85/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Hero Attack**: 8+(LEVEL\*3.2)<br/>**Hero Intelligence**: 10+(LEVEL\*4)<br/>**Hero Knowledge**: 12+(LEVEL\*4.8)
 

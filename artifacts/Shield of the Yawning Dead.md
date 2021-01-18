@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Shield of the Yawning Dead](/Items/art_59/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4)
 

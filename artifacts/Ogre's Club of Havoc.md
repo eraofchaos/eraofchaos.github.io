@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ogre's Club of Havoc](/Items/art_12/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2)
 

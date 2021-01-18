@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Bone Armour](/Items/art_19/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 6+(LEVEL\*2.4)
 

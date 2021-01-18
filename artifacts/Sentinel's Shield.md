@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Sentinel's Shield](/Items/art_55/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 6+(LEVEL\*2.4) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8)
 

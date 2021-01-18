@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Crown of Dragontooth](/Items/art_86/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Magic Damage**: 6+(LEVEL\*2.4) %<br/>**Hero Defense**: 10+(LEVEL\*4)
 

@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Collar of Conjuring](/Items/art_73/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8)
 

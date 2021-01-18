@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Red Dragon Flame Tongue](/Items/art_62/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 6+(LEVEL\*2.4) %<br/>**Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 10+(LEVEL\*4)
 

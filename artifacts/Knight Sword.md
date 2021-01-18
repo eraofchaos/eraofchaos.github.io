@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Knight Sword](/Items/art_26/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 14+(LEVEL\*5.6) %<br/>**Hero Attack**: 8+(LEVEL\*3.2)
 

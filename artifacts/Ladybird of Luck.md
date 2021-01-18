@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ladybird of Luck](/Items/art_46/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 1+(LEVEL\*0.4)
 

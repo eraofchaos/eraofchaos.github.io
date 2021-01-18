@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Bowstring of the Unicorn's Mane](/Items/art_52/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6)
 

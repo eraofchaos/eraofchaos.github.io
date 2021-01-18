@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Dragon Scale Shield](/Items/art_17/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Defense**: 12+(LEVEL\*4.8)
 

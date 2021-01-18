@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Warrior Hammer](/Items/art_16/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4)<br/>**Hero Intelligence**: 16+(LEVEL\*6.4)
 

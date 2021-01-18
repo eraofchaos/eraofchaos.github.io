@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Ring of Vitality](/Items/art_50/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Hero Defense**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4)
 

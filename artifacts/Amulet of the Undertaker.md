@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Amulet of the Undertaker](/Items/art_49/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 6+(LEVEL\*2.4)
 

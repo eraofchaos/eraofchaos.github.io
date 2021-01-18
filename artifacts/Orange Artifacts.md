@@ -21,3 +21,7 @@ classes: wide
   | 6   | [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 | The doomed flame will burn your soul |
   | 7   | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} | 6 | A holy relic forged from precious items by Angelic power. Able to increase the power of your allies. |
   | 8   | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} | 6 | A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things. |
+
+
+  **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
+

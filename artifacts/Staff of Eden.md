@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Staff of Eden](/Items/art_67/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 4+(LEVEL\*1.6)<br/>**Hero Intelligence**: 16+(LEVEL\*6.4)
 

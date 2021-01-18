@@ -19,3 +19,7 @@ classes: wide
   | 4   | [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | A holy relic made by a great undead king to hide his face. Able to summon a skeleton army. |
   | 5   | [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4} | 4 | Records Arcane spells. Strengthens Ranged/Caster units. |
   | 6   | [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4} | 4 | A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops. |
+
+
+  **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
+

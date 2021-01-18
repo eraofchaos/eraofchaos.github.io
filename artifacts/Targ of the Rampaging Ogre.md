@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Targ of the Rampaging Ogre](/Items/art_35/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2)
 

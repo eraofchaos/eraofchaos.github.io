@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Stoic Watchman](/Items/art_28/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8)
 

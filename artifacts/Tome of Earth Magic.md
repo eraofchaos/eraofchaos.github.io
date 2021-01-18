@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Tome of Earth Magic](/Items/art_9/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8)
 

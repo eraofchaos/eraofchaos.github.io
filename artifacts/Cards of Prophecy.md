@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Cards of Prophecy](/Items/art_29/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Hero Intelligence**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4)
 

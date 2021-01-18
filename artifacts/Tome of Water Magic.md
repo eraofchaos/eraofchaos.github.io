@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Tome of Water Magic](/Items/art_44/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 12+(LEVEL\*4.8)
 

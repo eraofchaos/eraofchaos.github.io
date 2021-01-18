@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Garniture of Interference](/Items/art_22/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2)
 

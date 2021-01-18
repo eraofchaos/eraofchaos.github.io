@@ -21,7 +21,9 @@ classes: wide
 
  **Related Item**: [ Angel Feather Arrows](/Items/art_32/)
 
-## Artifact Bonus
+ **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
+
+## Artifact Component Bonus
 
   **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Magic Damage**: 2+(LEVEL\*0.8) %<br/>**Hero Defense**: 4+(LEVEL\*1.6)
 
