@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Titan's Thunder A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Titan's Thunder.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Titan's Gladius](/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Titan's Cuirass](/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
-  |   | [Titan's Thunder](#artifact-advancement){: .btn .btn--era5} |  | 
+  |   | **Titan's Thunder** |  | 
   | [Sentinel's Shield](/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Thunder Helmet](/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies.
 
  **Extra Description:** It grants the power of thunder control to the owner
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

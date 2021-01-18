@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Angelic Alliance A holy relic forged from precious items by Angelic power. Able to increase the power of your allies."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Angelic Alliance.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Lion's Shield of Courage](/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | [Pendant of Holiness](/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  | [Sword of Judgement](/artifacts/Sword of Judgement/){: .btn .btn--era5} | [Angelic Alliance](#artifact-advancement){: .btn .btn--era5} | [Armor of Wonders](/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  | [Sword of Judgement](/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Angelic Alliance** | [Armor of Wonders](/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
   | [Helm of Heavenly Enlightenment](/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | [Sandals of the Saint](/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A holy relic forged from precious items by Angelic power. Able to increase the power of your allies.
 
  **Extra Description:** It shines the light from the heaven, reviving the dead units
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

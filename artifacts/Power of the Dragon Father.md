@@ -2,7 +2,7 @@
 title: "Artifacts - Power of the Dragon Father"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Power of the Dragon Father A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Power of the Dragon Father.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Dragonbone Greaves](/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Necklace of Dragonteeth](/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
-  | [Dragon Scale Shield](/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | [Power of the Dragon Father](#artifact-advancement){: .btn .btn--era5} | [Crown of Dragontooth](/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  | [Dragon Scale Shield](/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | **Power of the Dragon Father** | [Crown of Dragontooth](/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
   | [Red Dragon Flame Tongue](/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Dragon Scale Armour](/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage.
 
  **Extra Description:** The Dragon living in the Wynn Forest will respond to its call
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

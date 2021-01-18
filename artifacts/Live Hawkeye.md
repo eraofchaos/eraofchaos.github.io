@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Live Hawkeye Stay alive. Then, you will witness more wealth"
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Live Hawkeye.md"
 toc: false
@@ -11,13 +11,17 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Bird of Perception](/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Ring of Eagle Vision](/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
-  |   | [Live Hawkeye](#artifact-advancement){: .btn .btn--era5} |  | 
+  |   | **Live Hawkeye** |  | 
   | [Stoic Watchman](/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Medal of Truth](/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Details
 
  **Description:** Stay alive. Then, you will witness more wealth
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

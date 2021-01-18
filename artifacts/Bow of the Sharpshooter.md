@@ -2,7 +2,7 @@
 title: "Artifacts - Bow of the Sharpshooter"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Bow of the Sharpshooter A holy relic forged from treasures by the elves. Able to increase ranged attack."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Bow of the Sharpshooter.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Bow of Elven Cherrywood](/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | [Angel Feather Arrows](/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
-  |   | [Bow of the Sharpshooter](#artifact-advancement){: .btn .btn--era4} |  | 
+  |   | **Bow of the Sharpshooter** |  | 
   |   | [Bowstring of the Unicorn's Mane](/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A holy relic forged from treasures by the elves. Able to increase ranged attack.
 
  **Extra Description:** A divine weapon shooting angel feathers.
+
+ **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

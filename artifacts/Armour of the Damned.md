@@ -2,7 +2,7 @@
 title: "Artifacts - Armour of the Damned"
 permalink: /artifacts/Armour of the Damned/
 excerpt: "Armour of the Damned A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Armour of the Damned.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | [Bone Armour](/artifacts/Bone Armour/){: .btn .btn--era4} | 
-  |   | [Armour of the Damned](#artifact-advancement){: .btn .btn--era4} |  | 
+  |   | **Armour of the Damned** |  | 
   | [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities.
 
  **Extra Description:** An ominous armor. All enemies will be cursed
+
+ **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

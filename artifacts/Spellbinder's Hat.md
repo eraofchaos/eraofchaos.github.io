@@ -2,7 +2,7 @@
 title: "Artifacts - Spellbinder's Hat"
 permalink: /artifacts/Spellbinder's Hat/
 excerpt: "Spellbinder's Hat A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly"
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Spellbinder's Hat.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Tome of Fire Magic](/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | [Tome of Earth Magic](/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
-  |   | [Spellbinder's Hat](#artifact-advancement){: .btn .btn--era5} |  | 
+  |   | **Spellbinder's Hat** |  | 
   | [Tome of Water Magic](/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | [Tome of Air Magic](/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly
 
  **Extra Description:** The elemental force, granting the crowning glory to the enchanters
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

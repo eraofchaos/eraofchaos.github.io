@@ -2,7 +2,7 @@
 title: "Artifacts - Archmage's Codex"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Archmage's Codex Records Arcane spells. Strengthens Ranged/Caster units."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Archmage's Codex.md"
 toc: false
@@ -11,13 +11,17 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Pendant of Negativity](/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Staff of Disruption](/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
-  |   | [Archmage's Codex](#artifact-advancement){: .btn .btn--era4} |  | 
+  |   | **Archmage's Codex** |  | 
   | [Recanter`s Cloak](/artifacts/Recanter`s Cloak/){: .btn .btn--era4} |   | [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Details
 
  **Description:** Records Arcane spells. Strengthens Ranged/Caster units.
+
+ **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

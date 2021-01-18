@@ -2,7 +2,7 @@
 title: "Artifacts - Cloak of the Undead King"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Cloak of the Undead King A holy relic made by a great undead king to hide his face. Able to summon a skeleton army."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Cloak of the Undead King.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Amulet of the Undertaker](/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | [Vampire's Cowl](/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
-  |   | [Cloak of the Undead King](#artifact-advancement){: .btn .btn--era4} |  | 
+  |   | **Cloak of the Undead King** |  | 
   |   | [Dead Man's Boots](/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A holy relic made by a great undead king to hide his face. Able to summon a skeleton army.
 
  **Extra Description:** One of the favorite burial objects of an ancient king. It can summon skeletons
+
+ **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

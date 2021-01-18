@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Mirror of Revenge A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Mirror of Revenge.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Chaos Brazier](/artifacts/Chaos Brazier/){: .btn .btn--era4} |   | [Forgotten Hourglass](/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
-  |   | [Mirror of Revenge](#artifact-advancement){: .btn .btn--era4} |  | 
+  |   | **Mirror of Revenge** |  | 
   | [Ice Scale](/artifacts/Ice Scale/){: .btn .btn--era4} |   | [Necklace of Balance](/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops.
 
  **Extra Description:** An evil byproduct containing a thirst for vengeance. It drives people mad.
+
+ **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

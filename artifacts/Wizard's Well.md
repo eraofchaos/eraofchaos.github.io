@@ -2,7 +2,7 @@
 title: "Artifacts - Wizard's Well"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Wizard's Well Magical item made to fight demons. Able to increase spell point regeneration speed."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Wizard's Well.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Charm of Mana](/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Magic Charm](/artifacts/Magic Charm/){: .btn .btn--era3} | 
-  |   | [Wizard's Well](#artifact-advancement){: .btn .btn--era3} |  | 
+  |   | **Wizard's Well** |  | 
   |   | [Mystic Orb of Mana](/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** Magical item made to fight demons. Able to increase spell point regeneration speed.
 
  **Extra Description:** It seals the magic spring that never dries up
+
+ **Quality:** [Blue](/artifacts/Blue Artifacts/{: .btn .btn--era3}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

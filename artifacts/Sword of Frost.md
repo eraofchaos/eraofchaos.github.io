@@ -2,7 +2,7 @@
 title: "Artifacts - Sword of Frost"
 permalink: /artifacts/Sword of Frost/
 excerpt: "Sword of Frost The immense glacier destroyed the city of its origin"
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Sword of Frost.md"
 toc: false
@@ -11,13 +11,17 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  | [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | [Sword of Frost](#artifact-advancement){: .btn .btn--era5} | [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  | [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Sword of Frost** | [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
   | [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Details
 
  **Description:** The immense glacier destroyed the city of its origin
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

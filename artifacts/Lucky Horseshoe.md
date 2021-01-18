@@ -2,7 +2,7 @@
 title: "Artifacts - Lucky Horseshoe"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Lucky Horseshoe A holy relic filled with force. Able to increase attack for an army."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Lucky Horseshoe.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Clover of Fortune](/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | [Cards of Prophecy](/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
-  |   | [Lucky Horseshoe](#artifact-advancement){: .btn .btn--era2} |  | 
+  |   | **Lucky Horseshoe** |  | 
   |   | [Ladybird of Luck](/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A holy relic filled with force. Able to increase attack for an army.
 
  **Extra Description:** A horseshoe brings you good luck. People who carry it are blessed
+
+ **Quality:** [Green](/artifacts/Green Artifacts/{: .btn .btn--era2}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

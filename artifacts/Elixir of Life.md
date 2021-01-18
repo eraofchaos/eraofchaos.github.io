@@ -2,7 +2,7 @@
 title: "Artifacts - Elixir of Life"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Elixir of Life A holy relic with vast health. Able to increase HP for an army."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Elixir of Life.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Ring of Vitality](/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | [Ring of Life](/artifacts/Ring of Life/){: .btn .btn--era2} | 
-  |   | [Elixir of Life](#artifact-advancement){: .btn .btn--era2} |  | 
+  |   | **Elixir of Life** |  | 
   |   | [Bottle of Energy](/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A holy relic with vast health. Able to increase HP for an army.
 
  **Extra Description:** The vessel holds the power of life, making your units even stronger
+
+ **Quality:** [Green](/artifacts/Green Artifacts/{: .btn .btn--era2}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

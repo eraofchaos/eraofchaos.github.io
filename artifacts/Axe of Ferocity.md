@@ -2,7 +2,7 @@
 title: "Artifacts - Axe of Ferocity"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "Axe of Ferocity A weapon forged from holy relics from different races. Able to enhance close combat ability."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Axe of Ferocity.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Ogre's Club of Havoc](/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Tunic of the Cyclops King](/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
-  |   | [Axe of Ferocity](#artifact-advancement){: .btn .btn--era4} |  | 
+  |   | **Axe of Ferocity** |  | 
   | [Targ of the Rampaging Ogre](/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Crown of the Supreme Magi](/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** A weapon forged from holy relics from different races. Able to enhance close combat ability.
 
  **Extra Description:** A weapon belonging to a barbarian lord. It makes units frenetic
+
+ **Quality:** [Violet](/artifacts/Violet Artifacts/{: .btn .btn--era4}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

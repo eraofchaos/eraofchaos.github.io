@@ -2,7 +2,7 @@
 title: "Artifacts - Antimagic Runestone"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Antimagic Runestone Antimagic runestone forged from enchanted items. Able to resist against spell damage"
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Antimagic Runestone.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Garniture of Interference](/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | [Surcoat of Counterpoise](/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
-  |   | [Antimagic Runestone](#artifact-advancement){: .btn .btn--era3} |  | 
+  |   | **Antimagic Runestone** |  | 
   |   | [Boots of Polarity](/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
@@ -20,6 +20,10 @@ classes: wide
  **Description:** Antimagic runestone forged from enchanted items. Able to resist against spell damage
 
  **Extra Description:** Rune carved with a magic mark, used as defense against magic power
+
+ **Quality:** [Blue](/artifacts/Blue Artifacts/{: .btn .btn--era3}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

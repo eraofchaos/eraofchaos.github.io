@@ -2,7 +2,7 @@
 title: "Artifacts - Armageddon's Blade"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Armageddon's Blade The doomed flame will burn your soul"
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Armageddon's Blade.md"
 toc: false
@@ -11,13 +11,17 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Forest Bow](/artifacts/Forest Bow/){: .btn .btn--era5} |   | [Examplar Crossbow](/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | [Knight Sword](/artifacts/Knight Sword/){: .btn .btn--era5} | [Armageddon's Blade](#artifact-advancement){: .btn .btn--era5} | [Mountain Battleaxe](/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | [Knight Sword](/artifacts/Knight Sword/){: .btn .btn--era5} | **Armageddon's Blade** | [Mountain Battleaxe](/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
   | [Staff of Wisdom](/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | [Warrior Hammer](/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Details
 
  **Description:** The doomed flame will burn your soul
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 

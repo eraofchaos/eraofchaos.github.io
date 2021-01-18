@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden"
 permalink: /artifacts/Apple of Eden/
 excerpt: "Apple of Eden A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things."
-last_modified_at: 2021-01-15
+last_modified_at: 2021-01-18
 lang: en
 ref: "Apple of Eden.md"
 toc: false
@@ -11,13 +11,17 @@ classes: wide
 
   |:---:|:---:|:---:| 
   | [Crystal Ball](/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Shroud of Eden](/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
-  | [Crystal Skull](/artifacts/Crystal Skull/){: .btn .btn--era5} | [Apple of Eden](#artifact-advancement){: .btn .btn--era5} | [Sword of Eden](/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  | [Crystal Skull](/artifacts/Crystal Skull/){: .btn .btn--era5} | **Apple of Eden** | [Sword of Eden](/artifacts/Sword of Eden/){: .btn .btn--era5} | 
   | [Ankh](/artifacts/Ankh/){: .btn .btn--era5} |   | [Staff of Eden](/artifacts/Staff of Eden/){: .btn .btn--era5} | 
 
 
 ## Details
 
  **Description:** A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things.
+
+ **Quality:** [Orange](/artifacts/Orange Artifacts/{: .btn .btn--era5}
+
+ **Upgrade cost:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)
 
 
 
