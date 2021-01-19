@@ -13,7 +13,7 @@ classes: wide
 
   Second upgrade ingredient:[ Casting Crystal](/Items/art_64/)
 
-  |  Level  | [Green](/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue](/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5} |
+  |  Level  | [Green Artifacts](/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Artifacts](/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Artifacts](/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Artifacts](/artifacts/Orange Artifacts/){: .btn .btn--era5} |
   |:--------|:-------|:-------|:-------|:-------|
   | 1->2 | **40x**  Heaven-Cast Stone | **120x**  Heaven-Cast Stone | **240x**  Heaven-Cast Stone<br/> **1x**  Casting Crystal | **400x**  Heaven-Cast Stone<br/> **2x**  Casting Crystal |
   | 2->3 | **60x**  Heaven-Cast Stone | **180x**  Heaven-Cast Stone | **360x**  Heaven-Cast Stone<br/> **1x**  Casting Crystal | **600x**  Heaven-Cast Stone<br/> **2x**  Casting Crystal |
