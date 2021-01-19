@@ -2,7 +2,7 @@
 title: "Artifacts - Elixir of Life"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Elixir of Life A holy relic with vast health. Able to increase HP for an army."
-last_modified_at: 2021-01-18
+last_modified_at: 2021-01-19
 lang: en
 ref: "Elixir of Life.md"
 toc: false

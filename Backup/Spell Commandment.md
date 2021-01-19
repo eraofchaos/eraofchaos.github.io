@@ -2,7 +2,7 @@
 title: "Backup - Spell Commandment"
 permalink: /Backup/Spell Commandment/
 excerpt: "Spell Commandment"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-19
 lang: en
 ref: "Spell Commandment.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Backup - Arctic Coercion"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Arctic Coercion"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-01-19
 lang: en
 ref: "Arctic Coercion.md"
 toc: false

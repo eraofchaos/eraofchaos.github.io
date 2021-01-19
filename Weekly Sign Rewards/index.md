@@ -2,11 +2,37 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 5  Stronghold Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **1 Feb** | **5x Goblin**  | A squad of Goblin joined your army and you become stronger! |
+  | **2 Feb** | **5x Wolf Rider**  | A squad of Wolf Rider joined your army and you become stronger! |
+  | **3 Feb** | **100x gem**  | The Orcs under your command plundered a heap of diamonds for you! |
+  | **4 Feb** | **5x Orc**  | A squad of Orc joined your army and you become stronger! |
+  | **5 Feb** | **3x Ogre**  | A squad of Ogre joined your army and you become stronger! |
+  | **6 Feb** | **3x Cyclops**  | A squad of Cyclops joined your army and you become stronger! |
+  | **7 Feb** | **5x Crag Hack**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
+
+#### 2021 Week 4  Necropolis Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **25 Jan** | **3x Skeleton**  | A squad of Skeleton joined your army and you become stronger! |
+  | **26 Jan** | **3x Walking Dead**  | A squad of Walking Dead joined your army and you become stronger! |
+  | **27 Jan** | **100x gem**  | Your troops have found a number of treasures in the torn ancient tomb! |
+  | **28 Jan** | **2x Vampire**  | A squad of Vampire joined your army and you become stronger! |
+  | **29 Jan** | **2x Wight**  | A squad of Wight joined your army and you become stronger! |
+  | **30 Jan** | **5x Necropolis Unit Chest**  | Your Necropolis units have presented you with several treasure chests! |
+  | **31 Jan** | **3x Vidomina**  | Vidomina is interested in your undead warriors and is willing to join your team! |
+
 
 #### 2021 Week 3  Fortress Week
 

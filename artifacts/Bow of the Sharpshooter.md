@@ -2,7 +2,7 @@
 title: "Artifacts - Bow of the Sharpshooter"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Bow of the Sharpshooter A holy relic forged from treasures by the elves. Able to increase ranged attack."
-last_modified_at: 2021-01-18
+last_modified_at: 2021-01-19
 lang: en
 ref: "Bow of the Sharpshooter.md"
 toc: false
