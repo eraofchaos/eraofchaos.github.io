@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Units These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "Giant"
 toc: true
@@ -114,20 +114,20 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Titan
 
- **Awaking Description:** 
+ **Awaking Description:** The legendary Titans have a wealth of arcane power, but a small number of Titans have mastered the Cloud Temple's endless lightning power and use lightning to strengthen themselves. These all-conquering beings are the masters of thunder.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Titan with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Champion level or higher. (Sweep does not count towards the mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. 
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Titan souls in the Underground: Levels 17-2 and 17-4.</span>
 
- 4. 
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Titan and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 

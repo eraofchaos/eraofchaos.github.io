@@ -2,7 +2,7 @@
 title: "Combination Info for Blind"
 permalink: /combination/Blind/
 excerpt: "Combination Info - Blind. Units and Heroes Formation."
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "Blind.md"
 toc: false

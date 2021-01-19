@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Fortress -  Units"
 permalink: /units/Fraction Fortress/
 excerpt: "Fraction Fortress - List of Units in Era of Chaos"
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "Fraction Fortress"
 toc: false
@@ -20,4 +20,4 @@ classes: wide
   | 4 | [Basilisk](/units/Basilisk/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 2859 |  xiyi  |
   | 5 | [Gorgon](/units/Gorgon/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 3094 |  manniu  |
   | 6 | [Wyvern](/units/Wyvern/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |
-  | 7 | [Hydra](/units/Hydra/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |
+  | 7 | [Hydra](/units/Hydra/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |

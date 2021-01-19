@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Tower -  Units"
 permalink: /units/Fraction Tower/
 excerpt: "Fraction Tower - List of Units in Era of Chaos"
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "Fraction Tower"
 toc: false
@@ -20,5 +20,5 @@ classes: wide
   | 4 | [Arch Mage](/units/Arch Mage/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  dafashi  |
   | 5 | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  dengshen  |
   | 6 | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  najianvyao  |
-  | 7 | [Giant](/units/Giant/) | Caster | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  taitan  |
+  | 7 | [Giant](/units/Giant/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  taitan  |
   | 8 | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |  reqiqiu  |

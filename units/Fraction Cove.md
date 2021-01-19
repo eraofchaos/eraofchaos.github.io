@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Cove -  Units"
 permalink: /units/Fraction Cove/
 excerpt: "Fraction Cove - List of Units in Era of Chaos"
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "Fraction Cove"
 toc: false

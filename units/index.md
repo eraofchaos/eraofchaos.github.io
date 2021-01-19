@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "List of ALL Units in Era of Chaos"
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "index.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 21 | [Fire Elemental](/units/Fire Elemental/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  liehuoyuansu  |
   | 22 | [Firebird](/units/Firebird/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 848.5 | 4525 |  fenghuang  |
   | 23 | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  dengshen  |
-  | 24 | [Giant](/units/Giant/) | Caster | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  taitan  |
+  | 24 | [Giant](/units/Giant/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  taitan  |
   | 25 | [Gnoll](/units/Gnoll/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  langren  |
   | 26 | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  dijingzhanshi  |
   | 27 | [Gog](/units/Gog/) | Caster | + | R | x9 | <i class="fas fa-star"/> | 102.6 | 629 |  touhuoguai  |
@@ -45,7 +45,7 @@ classes: wide
   | 31 | [Griffin](/units/Griffin/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  shijiu  |
   | 32 | [Harpy](/units/Harpy/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |  yingshenren  |
   | 33 | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 77.8 | 827 |  santouquan  |
-  | 34 | [Hydra](/units/Hydra/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |
+  | 34 | [Hydra](/units/Hydra/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |
   | 35 | [Ice Elemental](/units/Ice Elemental/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  bingyuansu  |
   | 36 | [Imp](/units/Imp/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 51.3 | 1224 |  xiaoemo  |
   | 37 | [Iron Golem](/units/Iron Golem/) | Defense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  tieren  |

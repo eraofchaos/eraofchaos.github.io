@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Units A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-01-13
+last_modified_at: 2021-01-19
 lang: en
 ref: "Hydra"
 toc: true
@@ -114,40 +114,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Chaos Hydra
 
- **Awaking Description:** null
+ **Awaking Description:** Sleeping in the depths of the marshes, the primordial Hydras are the area's most ancient creatures. Their giant bodies are covered in moss, helping them blend with their dark surroundings and often causing those who mistakenly enter their domain to overlook their presence. Yet danger quietly looms, and now, one can only pray that they do not wake up.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Hydra with at least </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> Fortress units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> resources during a Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Chaos Hydra souls in the Underground: Levels 16-2 and 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Hydra with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Fortress units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Death Mist
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chaos Mist&gt;</span><span style="color: #645252;font-size:18px"> Deals additional damage equal to 1.5% of Max HP to enemy units affected by the mist per second. Also casts &lt;Chaos Mist&gt; on nearby enemy units in a large range one time and restores 1.5% of own Max HP per second.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Turmoil Mist
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chaos Mist&gt;</span><span style="color: #645252;font-size:18px"> Decreases the Unit DMG of enemy units affected by the mist by 25%, decreases the Attack Speed of nearby enemy units in a large range by 20%, and increases own Critical Hit DMG by 20%.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Piercing Headbutt
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Headbutt Combo&gt;</span><span style="color: #645252;font-size:18px"> Increases own Penetration by 200 and increases &lt;Headbutt Combo&gt;'s follow-up chance by 50%.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Heavy Headbutt
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Headbutt Combo&gt;</span><span style="color: #645252;font-size:18px"> Increases own Penetration by 200 and increases &lt;Headbutt Combo&gt;'s damage by 50%.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Frenzied Bite
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasing Bite&gt;</span><span style="color: #645252;font-size:18px"> After Hydra triggers Chasing Bite, decreases the target unit's Unit DMG Reduction by 15% and increases own Unit DMG Reduction by 15%. Effect has a 50% chance to double. Lasts 5s.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Tearing Bite
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chasing Bite&gt;</span><span style="color: #645252;font-size:18px"> After Hydra triggers Chasing Bite, decreases the target unit's DEF by 15% and increases own DEF by 15%. Effect has a 50% chance to double. Lasts 5s.</span>
 
 ## Technical info
  **runart:** 1
