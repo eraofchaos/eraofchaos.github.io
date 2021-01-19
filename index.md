@@ -16,7 +16,7 @@ sidebar:
 * New "Wild Overlord Avatar Frame"
 * New Avatars: Waspwort, Titan and Chaos Hydra
 * Unit [Hydra](https://eraofchaos.github.io/units/Hydra/) and [Giant](https://eraofchaos.github.io/units/Giant/) got Awakening. See [Chaos Hydra Soul Stone](https://eraofchaos.github.io/Items/unt_91/) and [Titan Soul Stone](https://eraofchaos.github.io/Items/unt_128/)
-* New SR+ Unit: [Waspwort](https://eraofchaos.github.io/units/Waspwort/) with new "Hive Swamp" nest in Barracs
+* New SR+ Unit: [Waspwort](https://eraofchaos.github.io/units/Waspwort/) with new "Hive Swamp" nest in Barracks
 * New calculation for battles (version 10120)
 * No changes in Heroes
 
