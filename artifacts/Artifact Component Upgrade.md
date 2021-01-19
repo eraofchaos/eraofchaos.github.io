@@ -13,7 +13,7 @@ classes: wide
 
   Second upgrade ingredient: Artifact Components pieces 
 
-  |  Level  | Amount of pieces | [Green Components](/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Components](/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Components](/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Components](/artifacts/Orange Artifacts/){: .btn .btn--era5} |
+  |  Level  | Amount of pieces | [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2} | [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3} | [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4} | [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5} |
   |:--------|:-----------------|:-------|:-------|:-------|:-------|
   | 1->2  | **1** | **10x**  Heaven-Cast Stone | **20x**  Heaven-Cast Stone | **35x**  Heaven-Cast Stone | **60x**  Heaven-Cast Stone |
   | 2->3  | **1** | **15x**  Heaven-Cast Stone | **30x**  Heaven-Cast Stone | **50x**  Heaven-Cast Stone | **85x**  Heaven-Cast Stone |

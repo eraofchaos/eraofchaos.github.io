@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Tome of Water Magic](/Items/art_44/)
 
+ **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

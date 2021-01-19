@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Garniture of Interference](/Items/art_22/)
 
+ **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

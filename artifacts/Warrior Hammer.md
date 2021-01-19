@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Warrior Hammer](/Items/art_16/)
 
+ **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Ring of Flares](/Items/art_10/)
 
+ **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

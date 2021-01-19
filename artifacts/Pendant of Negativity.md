@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Pendant of Negativity](/Items/art_45/)
 
+ **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

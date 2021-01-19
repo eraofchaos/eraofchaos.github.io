@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Sentinel's Shield](/Items/art_55/)
 
+ **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

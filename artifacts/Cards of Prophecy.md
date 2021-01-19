@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Cards of Prophecy](/Items/art_29/)
 
+ **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

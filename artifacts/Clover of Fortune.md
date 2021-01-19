@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Clover of Fortune](/Items/art_2/)
 
+ **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

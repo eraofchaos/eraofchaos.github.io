@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Examplar Crossbow](/Items/art_38/)
 
+ **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

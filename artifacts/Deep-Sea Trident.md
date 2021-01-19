@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Deep-Sea Trident](/Items/art_72/)
 
+ **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Ladybird of Luck](/Items/art_46/)
 
+ **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

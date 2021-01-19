@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Chaos Brazier](/Items/art_3/)
 
+ **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

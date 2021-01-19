@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Magic Charm](/Items/art_56/)
 
+ **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus

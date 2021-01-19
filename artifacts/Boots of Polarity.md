@@ -21,6 +21,8 @@ classes: wide
 
  **Related Item**: [ Boots of Polarity](/Items/art_68/)
 
+ **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
+
  **Upgrade cost:** [Artifact component upgrade cost](/artifacts/Artifact Component Upgrade/)
 
 ## Artifact Component Bonus
