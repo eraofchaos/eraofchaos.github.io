@@ -16,13 +16,10 @@
 title: Era Of Chaos
 subtitle: Might & Magic on Mobile
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-keywords:           EraOfChaos HMM HeroesMightAndMagic
+description: "Era of Chaos Wiki portal: Units, Heroes, Artifacts, Events and more about Era Of Chaos mobile game"
+keywords:           EraOfChaos Units Heroes Artifacts Events HeroesMightAndMagicMobile
 language:           "en" 
-url:                "http://eraofchaos.github.io"
+url:                "https://eraofchaos.github.io"
 logo: "/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
