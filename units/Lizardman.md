@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Units The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Lizardman"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Lizardman](/Items/unt_96/)
 
- **Unit description:** 
+ **Short description:** Strong DPS
 
- **Unit second description :** Powerful DPS. Deals more damage when fighting large units
+ **Position :** Powerful DPS. Deals more damage when fighting large units
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Powerful DPS. Deals more damage when fighting large units
 
 ## Basic stats
  **Base HP:** 1144.0

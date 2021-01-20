@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Units Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Gog"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Gogs may seem to be mild but they can be very aggressive in battle.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Demoniac
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Gog](/Items/unt_43/)
 
  **Unit description:** Fire Wall: Deals damage to enemy troops in its path.
 
- **Unit second description :** Deals a high area of magical damage made more powerful with fire.
+ **Short description:** Ranged fire DMG. Burns.
+
+ **Position :** Deals a high area of magical damage made more powerful with fire.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Deals a high area of magical damage made more powerful with fire.
 
 ## Basic stats
  **Base HP:** 629.0

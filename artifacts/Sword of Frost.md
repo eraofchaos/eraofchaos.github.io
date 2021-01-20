@@ -2,7 +2,7 @@
 title: "Artifacts - Sword of Frost"
 permalink: /artifacts/Sword of Frost/
 excerpt: "Sword of Frost The immense glacier destroyed the city of its origin"
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Sword of Frost.md"
 toc: false
@@ -18,6 +18,8 @@ classes: wide
 ## Details
 
  **Description:** The immense glacier destroyed the city of its origin
+
+ **Required Level:** 60
 
  **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 

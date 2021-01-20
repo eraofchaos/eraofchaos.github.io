@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Units Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Vampire"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Evil spirit
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Vampire](/Items/unt_120/)
 
  **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
 
- **Unit second description :** Deals sizeable damage when it has more health than your enemies.
+ **Short description:** Life drains. Effective vs low health targets
+
+ **Position :** Deals sizeable damage when it has more health than your enemies.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Deals sizeable damage when it has more health than your enemies.
 
 ## Basic stats
  **Base HP:** 910.0

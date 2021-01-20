@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Minotaur"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Dungeon troops
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Minotaur](/Items/unt_94/)
 
  **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
 
- **Unit second description :** Supportive tank, the perfect combination of attack and defense. Bleeding increases allies' DPS
+ **Short description:** Support and Tank hybrid.
+
+ **Position :** Supportive tank, the perfect combination of attack and defense. Bleeding increases allies' DPS
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Supportive tank, the perfect combination of attack and defense. Bleeding increases allies' DPS
 
 ## Basic stats
  **Base HP:** 2725.0

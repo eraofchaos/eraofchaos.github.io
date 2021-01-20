@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Units They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Druid"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,17 +19,19 @@ toc: true
 
  **Race:** Forest
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Druid](/Items/unt_30/)
 
  **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
- **Unit second description :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+ **Short description:** Negates shield. Increases Crit Hit
 
- **Info:** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+ **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
 ## Basic stats
  **Base HP:** 844.0

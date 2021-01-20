@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Units A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Hydra"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Hydra](/Items/unt_4/)
 
- **Unit description:** 
+ **Short description:** High attack. Enduring. Powerful control
 
- **Unit second description :** Top-notch DPS unit. Destroys enemies with uninterrupted attacks
+ **Position :** Top-notch DPS unit. Destroys enemies with uninterrupted attacks
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Top-notch DPS unit. Destroys enemies with uninterrupted attacks
 
 ## Basic stats
  **Base HP:** 5770.0

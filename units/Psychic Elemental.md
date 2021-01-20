@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Units An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Psychic Elemental](/Items/unt_33/)
 
- **Unit second description :** Ranged damage, Reduces enemy mana upon death, Core attacker
+ **Short description:** Energy burst. Burns
 
- **Info:** Ranged damage, Reduces enemy mana upon death, Core attacker
+ **Position :** Ranged damage, Reduces enemy mana upon death, Core attacker
 
 ## Basic stats
  **Base HP:** 1749.0

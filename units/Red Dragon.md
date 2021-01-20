@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Red Dragon"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Dragon
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Red Dragon](/Items/unt_110/)
 
- **Unit second description :** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
+ **Short description:** Dragon overlord with strong roar
 
- **Info:** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
+ **Position :** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
 
 ## Basic stats
  **Base HP:** 5431.0

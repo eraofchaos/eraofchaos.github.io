@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Units Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Pegasus"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Forest
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Pegasus](/Items/unt_102/)
 
  **Unit description:** Vitality Protection: Gives a life shield to the closest units in your army.
 
- **Unit second description :** Shields the units around it and summons Pegasus to assist you.
+ **Short description:** Shields and causes bleed.
+
+ **Position :** Shields the units around it and summons Pegasus to assist you.
 
  **Recommend:** Deals extra damage to any slowed enemies.
-
- **Info:** Shields the units around it and summons Pegasus to assist you.
 
 ## Basic stats
  **Base HP:** 1144.0

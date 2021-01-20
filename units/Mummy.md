@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Mummy"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,17 +19,19 @@ toc: true
 
  **Race:** Undead
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Mummy](/Items/unt_47/)
 
  **Unit description:** Decaying Curse: Greatly decreased enemies' healing
 
- **Unit second description :** Disease carrier. Decreases healing of all hostile units
+ **Short description:** Disease reduces HP and heals
 
- **Info:** Disease carrier. Decreases healing of all hostile units
+ **Position :** Disease carrier. Decreases healing of all hostile units
 
 ## Basic stats
  **Base HP:** 2691.0

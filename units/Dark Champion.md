@@ -3,18 +3,18 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Dark Champion"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -22,15 +22,17 @@ toc: true
 
  **Race:** Undead
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Dark Champion](/Items/unt_106/)
 
- **Unit second description :** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
+ **Short description:** Executes. Invincibility in own domain.
 
- **Info:** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
+ **Position :** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
 ## Basic stats
  **Base HP:** 9504.0

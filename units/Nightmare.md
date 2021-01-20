@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Units Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Nightmare"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Demoniac
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Nightmare](/Items/unt_5/)
 
- **Unit second description :** Defense support. Increases Inferno units' all-round power
+ **Short description:** Support. Early burst.
 
- **Info:** Defense support. Increases Inferno units' all-round power
+ **Position :** Defense support. Increases Inferno units' all-round power
 
 ## Basic stats
  **Base HP:** 2691.0

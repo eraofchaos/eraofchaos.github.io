@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Marksman"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Marksman](/Items/unt_24/)
 
  **Unit description:** Explosive Arrow: Deals sizeable damage to enemy units.
 
- **Unit second description :** Deal colossal burst damage and a double strike. Most effective against large units.
+ **Short description:** Strikes twice. Effective vs Large Units
+
+ **Position :** Deal colossal burst damage and a double strike. Most effective against large units.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
-
- **Info:** Deal colossal burst damage and a double strike. Most effective against large units.
 
 ## Basic stats
  **Base HP:** 438.4

@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Storm Elemental](/Items/unt_111/)
 
- **Unit second description :** Static Marker, Extra damage, Multiple attacks on a single target
+ **Short description:** Marks for high single-target damage.
 
- **Info:** Static Marker, Extra damage, Multiple attacks on a single target
+ **Position :** Static Marker, Extra damage, Multiple attacks on a single target
 
 ## Basic stats
  **Base HP:** 662.0

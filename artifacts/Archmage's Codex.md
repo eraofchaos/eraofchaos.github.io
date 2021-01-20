@@ -2,7 +2,7 @@
 title: "Artifacts - Archmage's Codex"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Archmage's Codex Records Arcane spells. Strengthens Ranged/Caster units."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Archmage's Codex.md"
 toc: false
@@ -18,6 +18,8 @@ classes: wide
 ## Details
 
  **Description:** Records Arcane spells. Strengthens Ranged/Caster units.
+
+ **Required Level:** 35
 
  **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 

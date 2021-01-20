@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Units Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Undead
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Walking Dead](/Items/unt_137/)
 
  **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
- **Unit second description :** Has high defense, spreads plague to the enemies around it.
+ **Short description:** Poison aura. Explodes upon death.
+
+ **Position :** Has high defense, spreads plague to the enemies around it.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Has high defense, spreads plague to the enemies around it.
 
 ## Basic stats
  **Base HP:** 2758.0

@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Leprechaun"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Leprechaun](/Items/unt_124/)
 
- **Unit description:** 
+ **Short description:** Dodge and block. Buffs Counterattack.
 
- **Unit second description :** A blocking expert with collective defense and elemental shields.
+ **Position :** A blocking expert with collective defense and elemental shields.
 
  **Recommend:** 
-
- **Info:** A blocking expert with collective defense and elemental shields.
 
 ## Basic stats
  **Base HP:** 3162.0

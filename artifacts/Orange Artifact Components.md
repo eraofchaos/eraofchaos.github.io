@@ -2,7 +2,7 @@
 title: "Orange Artifact Components"
 permalink: /artifacts/Orange Artifact Components/
 excerpt: "Lis of all Orange Artifact Components  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Orange Artifact Components.md"
 toc: false

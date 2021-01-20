@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Units Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Berserker"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Orc
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Berserker](/Items/unt_131/)
 
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
- **Unit second description :** Powerful DPS, good in all positions
+ **Short description:** Strong vs single unit. Buff on death
+
+ **Position :** Powerful DPS, good in all positions
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Powerful DPS, good in all positions
 
 ## Basic stats
  **Base HP:** 5317.0

@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Units Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Cavalier"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,21 +19,23 @@ toc: true
 
  **Race:** Human
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Cavalier ](/Items/unt_44/)
 
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
- **Unit second description :** Charges at your enemies at the beginning of the battle, giving you an advantage.
+ **Short description:** Initial burst DMG. Powerful charge.
+
+ **Position :** Charges at your enemies at the beginning of the battle, giving you an advantage.
 
  **Unit extra description:** Cavalier attack from behind. Be wary!
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
-
- **Info:** Charges at your enemies at the beginning of the battle, giving you an advantage.
 
 ## Basic stats
  **Base HP:** 811.0

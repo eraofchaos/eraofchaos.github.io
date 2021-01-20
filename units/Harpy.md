@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Units The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Harpy"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The monster is part human and part bird. No one can bear their cloud-piercing screaming.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Dungeon troops
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Harpy](/Items/unt_9/)
 
  **Unit description:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
 
- **Unit second description :** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
+ **Short description:** Support. Crowd controls
+
+ **Position :** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Powerful DPS. Suppresses ground units and creates opportunities for allies to attack
 
 ## Basic stats
  **Base HP:** 860.0

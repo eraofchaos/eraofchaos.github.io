@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Units A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Troglodyte"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Dungeon troops
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Troglodyte](/Items/unt_23/)
 
  **Unit description:** Spear Array: AoE damage and stunning
 
- **Unit second description :** Defense and offensive. Deals extra damage to bleeding units
+ **Short description:** All-rounder. causes bleed
+
+ **Position :** Defense and offensive. Deals extra damage to bleeding units
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Defense and offensive. Deals extra damage to bleeding units
 
 ## Basic stats
  **Base HP:** 744.0

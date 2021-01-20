@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Units Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Genie"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Genie](/Items/unt_7/)
 
  **Unit description:** Energy Gift: Converts ATK into healing
 
- **Unit second description :** A powerful healer that also provides buff. The heroes' spells trigger its buff.
+ **Short description:** powerful buffs and heals
+
+ **Position :** A powerful healer that also provides buff. The heroes' spells trigger its buff.
 
  **Recommend:** Warrior, Mage and Priest work well together.  
-
- **Info:** A powerful healer that also provides buff. The heroes' spells trigger its buff.
 
 ## Basic stats
  **Base HP:** 662.0

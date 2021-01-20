@@ -1,8 +1,8 @@
 ---
 title: "Era of Chaos - Fraction Inferno -  Units"
 permalink: /units/Fraction Inferno/
-excerpt: "Fraction Inferno - List of Units in Era of Chaos"
-last_modified_at: 2021-01-19
+excerpt: "Fraction Inferno - List of Fraction in Era of Chaos"
+last_modified_at: 2021-01-20
 lang: en
 ref: "Fraction Inferno"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Battle Formation](/Battle Formation/Battle Formation Fraction Inferno)
 
- [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Rampart](/units/Fraction Rampart){: .btn .btn--danger} [Fortress](/units/Fraction Fortress){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
+ [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Fortress](/units/Fraction Fortress){: .btn .btn--danger} [Rampart](/units/Fraction Rampart){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
@@ -22,3 +22,4 @@ classes: wide
   | 6 | [Efreeti](/units/Efreeti/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  liehuojingling  |
   | 7 | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  daemo  |
   | 8 | [Nightmare](/units/Nightmare/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |  mengyan  |
+  | 9 | [Venom Spawn](/units/Venom Spawn/) | Defense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |  diyuzhihuiguan  |

@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Unicorn"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Unicorn](/Items/unt_140/)
 
  **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
 
- **Unit second description :** Decreases your enemies' Accuracy, has high dodge value.
+ **Short description:** Blinds. Its shield and evasion skills increase over time.
+
+ **Position :** Decreases your enemies' Accuracy, has high dodge value.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
-
- **Info:** Decreases your enemies' Accuracy, has high dodge value.
 
 ## Basic stats
  **Base HP:** 1850.0

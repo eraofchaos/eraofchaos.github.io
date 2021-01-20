@@ -3,18 +3,18 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Units Shark Trainer"
 unitID: 9909
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Shark Trainer"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** Shark Trainer
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -22,15 +22,17 @@ toc: true
 
  **Race:** Pirate
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Shark Trainer](/Items/unt_1/)
 
- **Unit second description :** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
+ **Short description:** Summons sharks to tear and rend.
 
- **Info:** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
+ **Position :** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
 
 ## Basic stats
  **Base HP:** 5430.0

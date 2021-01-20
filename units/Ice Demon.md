@@ -3,18 +3,18 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Units Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves."
 unitID: 908
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Ice Demon"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -22,13 +22,15 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
 
- **Unit second description :** Control archer. Buffs allies.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
- **Info:** Control archer. Buffs allies.
+ **Short description:** Control archer. Buffs allies.
+
+ **Position :** Control archer. Buffs allies.
 
 ## Basic stats
  **Base HP:** 5996.3

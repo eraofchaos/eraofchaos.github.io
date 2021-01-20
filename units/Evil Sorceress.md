@@ -3,18 +3,18 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Units She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Evil Sorceress"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -22,13 +22,15 @@ toc: true
 
  **Race:** Dungeon troops
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
 
- **Unit second description :** 
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
- **Info:** 
+ **Short description:** Reflects spells. Domain buffs.
+
+ **Position :** 
 
 ## Basic stats
  **Base HP:** 5770.0

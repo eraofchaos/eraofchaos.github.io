@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Mirror of Revenge A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Mirror of Revenge.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops.
 
  **Extra Description:** An evil byproduct containing a thirst for vengeance. It drives people mad.
+
+ **Required Level:** 35
 
  **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 

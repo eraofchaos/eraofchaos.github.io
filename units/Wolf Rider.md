@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Units Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Wolf Rider"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Orc
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Wolf Rider](/Items/unt_25/)
 
  **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
 
- **Unit second description :** Summons a beast companion. The lower its health, the higher its attack is.
+ **Short description:** Summons a wolf with life draining crit.
+
+ **Position :** Summons a beast companion. The lower its health, the higher its attack is.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Summons a beast companion. The lower its health, the higher its attack is.
 
 ## Basic stats
  **Base HP:** 860.0

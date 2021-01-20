@@ -3,18 +3,18 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Units A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Waspwort"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -22,15 +22,17 @@ toc: true
 
  **Race:** Beast
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Waspwort](/Items/unt_49/)
 
- **Unit second description :** DPS unit proficient at control. Summons units to destroy enemies
+ **Short description:** DPS & control
 
- **Info:** DPS unit proficient at control. Summons units to destroy enemies
+ **Position :** DPS unit proficient at control. Summons units to destroy enemies
 
 ## Basic stats
  **Base HP:** 5543.0

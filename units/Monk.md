@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Monk"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Monk](/Items/unt_63/)
 
  **Unit description:** Prayer: Heals the unit in your army with the lowest health.
 
- **Unit second description :** Provides high morale, has a powerful healing ability.
+ **Short description:** Powerful healing. Strong buffs
+
+ **Position :** Provides high morale, has a powerful healing ability.
 
  **Recommend:** Warrior, Mage and Priest work well together.  
-
- **Info:** Provides high morale, has a powerful healing ability.
 
 ## Basic stats
  **Base HP:** 662.0

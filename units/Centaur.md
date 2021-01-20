@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Units Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Centaur"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Forest
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Centaur](/Items/unt_58/)
 
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
- **Unit second description :** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
+ **Short description:** Slows and causes bleed. Strong shield
+
+ **Position :** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
 
  **Recommend:** Deals extra damage to any slowed enemies.
-
- **Info:** Causes enemies in its range to slow down. The more Defensive units in the battle, the more powerful they are.
 
 ## Basic stats
  **Base HP:** 2691.0

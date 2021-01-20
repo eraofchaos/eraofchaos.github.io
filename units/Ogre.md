@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Units Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Ogre"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Barbarian
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Ogre](/Items/unt_57/)
 
  **Unit description:** Blood Pool: Improves the life drain of your nearby units.
 
- **Unit second description :** A powerful body shield, improving all of your melee troops' performance.
+ **Short description:** Has shield and healing aura.
+
+ **Position :** A powerful body shield, improving all of your melee troops' performance.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** A powerful body shield, improving all of your melee troops' performance.
 
 ## Basic stats
  **Base HP:** 2523.0

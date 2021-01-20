@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Units Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Hell Hound"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Beast
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Hell Hound](/Items/unt_100/)
 
  **Unit description:** Rampage: Each hit is critical attack for a short period.
 
- **Unit second description :** Critical hit its target. When it induces bleeding it is able to deal high damage in a short period of time.
+ **Short description:** Powerful crit. Causes bleed
+
+ **Position :** Critical hit its target. When it induces bleeding it is able to deal high damage in a short period of time.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Critical hit its target. When it induces bleeding it is able to deal high damage in a short period of time.
 
 ## Basic stats
  **Base HP:** 827.0

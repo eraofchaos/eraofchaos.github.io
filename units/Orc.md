@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Orc"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** No one knows where Orcs hide their axes and they seem to have endless axes to throw.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Orc
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Orc](/Items/unt_10/)
 
  **Unit description:** Execution: Deals extra damage to enemies with health lower than 30%.
 
- **Unit second description :** Causes bleeding when attacking. Deals high damage. The lower its health, the higher its attack is.
+ **Short description:** Causes bleed. Effective vs low-health.
+
+ **Position :** Causes bleeding when attacking. Deals high damage. The lower its health, the higher its attack is.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Causes bleeding when attacking. Deals high damage. The lower its health, the higher its attack is.
 
 ## Basic stats
  **Base HP:** 662.0

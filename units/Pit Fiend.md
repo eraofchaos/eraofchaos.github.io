@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Units Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Pit Fiend"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Demoniac
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Pit Fiend](/Items/unt_134/)
 
  **Unit description:** Fire Spring: Continuously heals friendly units in its path
 
- **Unit second description :** Has healing and buff aura. The core unit in Inferno
+ **Short description:** Summons demon healer.
+
+ **Position :** Has healing and buff aura. The core unit in Inferno
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Has healing and buff aura. The core unit in Inferno
 
 ## Basic stats
  **Base HP:** 1850.0

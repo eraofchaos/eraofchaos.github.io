@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Units Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Roc"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,21 +19,23 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Roc](/Items/unt_40/)
 
  **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
 
- **Unit second description :** Deals high magical damage to hit multiple targets effectively.
+ **Short description:** Mass air damage. Always crit.
+
+ **Position :** Deals high magical damage to hit multiple targets effectively.
 
  **Unit extra description:** Griffins can attack multiple units.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Deals high magical damage to hit multiple targets effectively.
 
 ## Basic stats
  **Base HP:** 4978.0

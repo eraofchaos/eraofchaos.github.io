@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Stone Gargoyle](/Items/unt_136/)
 
  **Unit description:** Stone Form: Increases ATK and ATK speed
 
- **Unit second description :** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
+ **Short description:** High ATK. magic resist. penetrates.
+
+ **Position :** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
-
- **Info:** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
 
 ## Basic stats
  **Base HP:** 300.0

@@ -2,7 +2,7 @@
 title: "Artifacts - Ring of the Mage"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Ring of the Mage Magical ring forged from enchanted items. Able to increase spell damage."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Ring of the Mage.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** Magical ring forged from enchanted items. Able to increase spell damage.
 
  **Extra Description:** The mark of Bracada Mage, the symbol of status
+
+ **Required Level:** 1
 
  **Quality:** [Blue](/artifacts/Blue Artifacts/){: .btn .btn--era3}
 

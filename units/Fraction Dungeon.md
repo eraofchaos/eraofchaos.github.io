@@ -1,8 +1,8 @@
 ---
 title: "Era of Chaos - Fraction Dungeon -  Units"
 permalink: /units/Fraction Dungeon/
-excerpt: "Fraction Dungeon - List of Units in Era of Chaos"
-last_modified_at: 2021-01-19
+excerpt: "Fraction Dungeon - List of Fraction in Era of Chaos"
+last_modified_at: 2021-01-20
 lang: en
 ref: "Fraction Dungeon"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Battle Formation](/Battle Formation/Battle Formation Fraction Dungeon)
 
- [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Rampart](/units/Fraction Rampart){: .btn .btn--danger} [Fortress](/units/Fraction Fortress){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
+ [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Fortress](/units/Fraction Fortress){: .btn .btn--danger} [Rampart](/units/Fraction Rampart){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
@@ -22,3 +22,4 @@ classes: wide
   | 6 | [Manticore](/units/Manticore/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  shixie  |
   | 7 | [Black Dragon](/units/Black Dragon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 430.0 | 8712 |  heilong  |
   | 8 | [Red Dragon](/units/Red Dragon/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |  honglong  |
+  | 9 | [Evil Sorceress](/units/Evil Sorceress/) | Charging | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |  dixiachengzhihuiguan  |

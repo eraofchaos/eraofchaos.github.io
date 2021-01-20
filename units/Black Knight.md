@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Black Knight"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Undead
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Black Knight](/Items/unt_14/)
 
  **Unit description:** Critical Strike: Deals colossal damage and causes low morale.
 
- **Unit second description :** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
+ **Short description:** Powerful damage. Enhanced decapitation.
+
+ **Position :** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
 
 ## Basic stats
  **Base HP:** 910.0

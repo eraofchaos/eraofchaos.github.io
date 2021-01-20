@@ -2,7 +2,7 @@
 title: "Artifacts - Armour of the Damned"
 permalink: /artifacts/Armour of the Damned/
 excerpt: "Armour of the Damned A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Armour of the Damned.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities.
 
  **Extra Description:** An ominous armor. All enemies will be cursed
+
+ **Required Level:** 1
 
  **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 

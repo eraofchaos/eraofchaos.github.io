@@ -1,8 +1,8 @@
 ---
 title: "Era of Chaos - Fraction Castle -  Units"
 permalink: /units/Fraction Castle/
-excerpt: "Fraction Castle - List of Units in Era of Chaos"
-last_modified_at: 2021-01-19
+excerpt: "Fraction Castle - List of Fraction in Era of Chaos"
+last_modified_at: 2021-01-20
 lang: en
 ref: "Fraction Castle"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Battle Formation](/Battle Formation/Battle Formation Fraction Castle)
 
- [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Rampart](/units/Fraction Rampart){: .btn .btn--danger} [Fortress](/units/Fraction Fortress){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
+ [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Fortress](/units/Fraction Fortress){: .btn .btn--danger} [Rampart](/units/Fraction Rampart){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|

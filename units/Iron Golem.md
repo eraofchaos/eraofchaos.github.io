@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Units Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Iron Golem](/Items/unt_116/)
 
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
 
- **Unit second description :** Immune to heroes' spells. The heroes' spells trigger its health restore.
+ **Short description:** High magic resist
+
+ **Position :** Immune to heroes' spells. The heroes' spells trigger its health restore.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
-
- **Info:** Immune to heroes' spells. The heroes' spells trigger its health restore.
 
 ## Basic stats
  **Base HP:** 1850.0

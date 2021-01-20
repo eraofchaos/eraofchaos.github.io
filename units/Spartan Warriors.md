@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Assassin Guild
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Spartan Warriors](/Items/unt_88/)
 
- **Unit second description :** Crushing shield stuns enemies. Death of a unit inspires allies.
+ **Short description:** Shield stuns. Death inspires.
 
- **Info:** Crushing shield stuns enemies. Death of a unit inspires allies.
+ **Position :** Crushing shield stuns enemies. Death of a unit inspires allies.
 
 ## Basic stats
  **Base HP:** 2825.0

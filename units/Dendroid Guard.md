@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Dendroid Guard"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,21 +19,23 @@ toc: true
 
  **Race:** Fiend
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Dendroid Guard](/Items/unt_83/)
 
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
- **Unit second description :** Immune to bleeding, reflects damage and uses shield to improve its defense.
+ **Short description:** Shields and causes slowdowns.
+
+ **Position :** Immune to bleeding, reflects damage and uses shield to improve its defense.
 
  **Unit extra description:** Dendroid Guards and Marksman or wood elves make a powerful combination!
 
  **Recommend:** Deals extra damage to any slowed enemies.
-
- **Info:** Immune to bleeding, reflects damage and uses shield to improve its defense.
 
 ## Basic stats
  **Base HP:** 10182.0

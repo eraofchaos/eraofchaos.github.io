@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Units Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Basilisk"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Beast
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Basilisk](/Items/unt_129/)
 
- **Unit description:** 
+ **Short description:** Controls tanks. Petrifies
 
- **Unit second description :** A tank that's proficient at control. Petrifies all surrounding units when it dies
+ **Position :** A tank that's proficient at control. Petrifies all surrounding units when it dies
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** A tank that's proficient at control. Petrifies all surrounding units when it dies
 
 ## Basic stats
  **Base HP:** 2859.0

@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Mermaid"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** The Underwaters
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Mermaid](/Items/unt_107/)
 
- **Unit second description :** Strong healer. Offers great buffs at the start of battle
+ **Short description:** Group heals. strong buffs
 
- **Info:** Strong healer. Offers great buffs at the start of battle
+ **Position :** Strong healer. Offers great buffs at the start of battle
 
 ## Basic stats
  **Base HP:** 1648.0

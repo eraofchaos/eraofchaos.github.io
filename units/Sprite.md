@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Units A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Sprite"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. 
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Sprite](/Items/unt_132/)
 
- **Unit second description :** Explodes on death, Silences target, Increases hero starting mana
+ **Short description:** Silences. improved initial spell
 
- **Info:** Explodes on death, Silences target, Increases hero starting mana
+ **Position :** Explodes on death, Silences target, Increases hero starting mana
 
 ## Basic stats
  **Base HP:** 993.0

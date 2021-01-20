@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Units Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Demon"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Demoniac
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Demon](/Items/unt_78/)
 
  **Unit description:** Scalding Strike: Deals colossal damage to enemy troops.
 
- **Unit second description :** A body shield with high dodge value. Restores health when dodging is successful. It can be enhanced by the Pit Fiend.
+ **Short description:** Evasive shield. Restores health.
+
+ **Position :** A body shield with high dodge value. Restores health when dodging is successful. It can be enhanced by the Pit Fiend.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** A body shield with high dodge value. Restores health when dodging is successful. It can be enhanced by the Pit Fiend.
 
 ## Basic stats
  **Base HP:** 2489.0

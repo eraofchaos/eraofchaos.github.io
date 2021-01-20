@@ -3,18 +3,18 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Dragon Golem"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -22,15 +22,17 @@ toc: true
 
  **Race:** Dragon
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Dragon Golem](/Items/unt_70/)
 
- **Unit second description :** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
+ **Short description:** Ultimate defense.
 
- **Info:** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
+ **Position :** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
 
 ## Basic stats
  **Base HP:** 9616.7

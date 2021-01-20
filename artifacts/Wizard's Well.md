@@ -2,7 +2,7 @@
 title: "Artifacts - Wizard's Well"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Wizard's Well Magical item made to fight demons. Able to increase spell point regeneration speed."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Wizard's Well.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** Magical item made to fight demons. Able to increase spell point regeneration speed.
 
  **Extra Description:** It seals the magic spring that never dries up
+
+ **Required Level:** 1
 
  **Quality:** [Blue](/artifacts/Blue Artifacts/){: .btn .btn--era3}
 

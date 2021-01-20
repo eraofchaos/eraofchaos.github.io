@@ -3,18 +3,18 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Units These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Venom Spawn"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -22,13 +22,15 @@ toc: true
 
  **Race:** Demoniac
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
 
- **Unit second description :** 
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
- **Info:** 
+ **Short description:** Steal souls to turnaround the match. Born to die.
+
+ **Position :** 
 
 ## Basic stats
  **Base HP:** 13350.0

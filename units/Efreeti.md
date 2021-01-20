@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Units Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Efreeti"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Efreets are born in the fires of the inferno. They can cast fire magic into the air.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Evil spirit
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Efreeti](/Items/unt_114/)
 
  **Unit description:** FireBall: Deals colossal damage to your enemies, causes burning.
 
- **Unit second description :** Deals magical damage and has fire shield. The core of damage reflection.
+ **Short description:** Shield reflects damage. Causes burning.
+
+ **Position :** Deals magical damage and has fire shield. The core of damage reflection.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Deals magical damage and has fire shield. The core of damage reflection.
 
 ## Basic stats
  **Base HP:** 1446.0

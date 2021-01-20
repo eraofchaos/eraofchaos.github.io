@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Units Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Wight"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Wight](/Items/unt_138/)
 
  **Unit description:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
 
- **Unit second description :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+ **Short description:** Mass Silence. Evades attacks. Regenerates magic
+
+ **Position :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
 
 ## Basic stats
  **Base HP:** 662.0

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Medusa"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Evil spirit
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Medusa](/Items/unt_38/)
 
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
- **Unit second description :** Stable petrification control. The powerful damage increases as Crit Hit gets higher
+ **Short description:** Petrifies. Large DPS
+
+ **Position :** Stable petrification control. The powerful damage increases as Crit Hit gets higher
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Stable petrification control. The powerful damage increases as Crit Hit gets higher
 
 ## Basic stats
  **Base HP:** 1144.0

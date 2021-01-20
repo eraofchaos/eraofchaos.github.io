@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Naga"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Naga](/Items/unt_53/)
 
  **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
 
- **Unit second description :** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
+ **Short description:** Terrifies. Huge damage output
+
+ **Position :** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
-
- **Info:** The top damage dealer, dealing area damage. Heroes' spells trigger its attack increase.
 
 ## Basic stats
  **Base HP:** 811.0

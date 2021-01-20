@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Units Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Imp"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Demoniac
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Imp](/Items/unt_62/)
 
  **Unit description:** Impulse: Unit has a chance to revive with full health after death.
 
- **Unit second description :** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
+ **Short description:** Shielded. Capable of revive and crowd control
+
+ **Position :** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Can be revived endlessly. Causes stun in the targets. Can be enhanced by the Pit Fiend.
 
 ## Basic stats
  **Base HP:** 1224.0

@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Titan's Thunder A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Titan's Thunder.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies.
 
  **Extra Description:** It grants the power of thunder control to the owner
+
+ **Required Level:** 1
 
  **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 

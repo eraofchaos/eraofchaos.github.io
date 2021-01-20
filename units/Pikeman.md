@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Pikeman"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Pikeman](/Items/unt_117/)
 
  **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
 
- **Unit second description :** Stun your enemies. Most effective on large units.
+ **Short description:** Balanced Attack and Defense with crowd control.
+
+ **Position :** Stun your enemies. Most effective on large units.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
-
- **Info:** Stun your enemies. Most effective on large units.
 
 ## Basic stats
  **Base HP:** 645.0

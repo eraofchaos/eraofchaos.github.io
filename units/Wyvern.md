@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Units A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Wyvern"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Beast
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Wyvern](/Items/unt_16/)
 
- **Unit description:** 
+ **Short description:** Powerful melee. Toxic
 
- **Unit second description :** DPS unit. Has various ways of spreading the plague
+ **Position :** DPS unit. Has various ways of spreading the plague
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** DPS unit. Has various ways of spreading the plague
 
 ## Basic stats
  **Base HP:** 5544.0

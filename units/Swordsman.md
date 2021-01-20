@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Units The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Swordsman"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Swordsman](/Items/unt_61/)
 
  **Unit description:** Divine Protection: Reduce damage taken
 
- **Unit second description :** Deals colossal damage early in the game. Has double strike and can heal themselves.
+ **Short description:** Shield absorbs damage. Can self heal
+
+ **Position :** Deals colossal damage early in the game. Has double strike and can heal themselves.
 
  **Recommend:** Deals extra damage to any slowed enemies.
-
- **Info:** Deals colossal damage early in the game. Has double strike and can heal themselves.
 
 ## Basic stats
  **Base HP:** 1324.0

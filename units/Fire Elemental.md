@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Units An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Fire Elemental](/Items/unt_8/)
 
- **Unit second description :** Provides Burns, Blows up the whole field, Enhances when killing enemies
+ **Short description:** Burns. Field-wide explosion
 
- **Info:** Provides Burns, Blows up the whole field, Enhances when killing enemies
+ **Position :** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
 ## Basic stats
  **Base HP:** 1682.0

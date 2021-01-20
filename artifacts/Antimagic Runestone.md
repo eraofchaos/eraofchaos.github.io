@@ -2,7 +2,7 @@
 title: "Artifacts - Antimagic Runestone"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Antimagic Runestone Antimagic runestone forged from enchanted items. Able to resist against spell damage"
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Antimagic Runestone.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** Antimagic runestone forged from enchanted items. Able to resist against spell damage
 
  **Extra Description:** Rune carved with a magic mark, used as defense against magic power
+
+ **Required Level:** 1
 
  **Quality:** [Blue](/artifacts/Blue Artifacts/){: .btn .btn--era3}
 

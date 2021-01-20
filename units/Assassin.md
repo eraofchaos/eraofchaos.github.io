@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Assassin"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** We work in the dark to serve the light. Nothing is true, everything is permitted.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Assassin Guild
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Assassin](/Items/unt_67/)
 
- **Unit second description :** Assassination damage, weakens healing, throws knives, and silences enemies.
+ **Short description:** Assassination damage. Weakens healing.
 
- **Info:** Assassination damage, weakens healing, throws knives, and silences enemies.
+ **Position :** Assassination damage, weakens healing, throws knives, and silences enemies.
 
 ## Basic stats
  **Base HP:** 2119.0

@@ -3,18 +3,18 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Units Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Mantis"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -22,13 +22,15 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
 
- **Unit second description :** 
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
- **Info:** 
+ **Short description:** Rapid Cutting range expanded.
+
+ **Position :** 
 
 ## Basic stats
  **Base HP:** 6336.0

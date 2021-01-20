@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,21 +19,23 @@ toc: true
 
  **Race:** Dragon
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Green Dragon](/Items/unt_122/)
 
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
- **Unit second description :** Attacks back row troops, dealing a wide area of water magical damage.
+ **Short description:** Water damage. Water resistance
+
+ **Position :** Attacks back row troops, dealing a wide area of water magical damage.
 
  **Unit extra description:** Green Dragons attack with added damage over time.
 
  **Recommend:** Water magic can deal extra damage to your enemies with its bleeding effect.
-
- **Info:** Attacks back row troops, dealing a wide area of water magical damage.
 
 ## Basic stats
  **Base HP:** 4525.0

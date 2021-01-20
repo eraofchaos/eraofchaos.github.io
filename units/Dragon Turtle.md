@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,17 +19,19 @@ toc: true
 
  **Race:** The Underwaters
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Dragon Turtle](/Items/unt_89/)
 
- **Unit second description :** Powerful defender. Restores HP after dying
+ **Short description:** Tank. Regens HP
+
+ **Position :** Powerful defender. Restores HP after dying
 
  **Recommend:** Powerful tank, takes damage for allied units.
-
- **Info:** Powerful defender. Restores HP after dying
 
 ## Basic stats
  **Base HP:** 12000.0

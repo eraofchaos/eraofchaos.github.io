@@ -2,7 +2,7 @@
 title: "Artifacts - Bow of the Sharpshooter"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Bow of the Sharpshooter A holy relic forged from treasures by the elves. Able to increase ranged attack."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Bow of the Sharpshooter.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A holy relic forged from treasures by the elves. Able to increase ranged attack.
 
  **Extra Description:** A divine weapon shooting angel feathers.
+
+ **Required Level:** 1
 
  **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Artifacts - Axe of Ferocity"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "Axe of Ferocity A weapon forged from holy relics from different races. Able to enhance close combat ability."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Axe of Ferocity.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A weapon forged from holy relics from different races. Able to enhance close combat ability.
 
  **Extra Description:** A weapon belonging to a barbarian lord. It makes units frenetic
+
+ **Required Level:** 35
 
  **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 

@@ -3,18 +3,18 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Units White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "White Tiger"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -22,11 +22,11 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
 
- **Info:** null
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
 ## Basic stats
  **Base HP:** 6138.8

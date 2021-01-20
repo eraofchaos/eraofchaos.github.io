@@ -2,7 +2,7 @@
 title: "Artifacts - Cloak of the Undead King"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Cloak of the Undead King A holy relic made by a great undead king to hide his face. Able to summon a skeleton army."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Cloak of the Undead King.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A holy relic made by a great undead king to hide his face. Able to summon a skeleton army.
 
  **Extra Description:** One of the favorite burial objects of an ancient king. It can summon skeletons
+
+ **Required Level:** 35
 
  **Quality:** [Violet](/artifacts/Violet Artifacts/){: .btn .btn--era4}
 

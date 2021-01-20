@@ -3,18 +3,18 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Units Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Troll"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -22,11 +22,13 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
 
- **Info:** null
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+
+ **Short description:** Single-target assault. Burst damage.
 
 ## Basic stats
  **Base HP:** 9051.0

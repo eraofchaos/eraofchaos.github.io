@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Units Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Gorgon"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Beast
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Gorgon](/Items/unt_113/)
 
- **Unit description:** 
+ **Short description:** High attack. Enduring. Powerful control
 
- **Unit second description :** Strong tank. Has a chance of insta-killing enemies
+ **Position :** Strong tank. Has a chance of insta-killing enemies
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Strong tank. Has a chance of insta-killing enemies
 
 ## Basic stats
  **Base HP:** 3094.0

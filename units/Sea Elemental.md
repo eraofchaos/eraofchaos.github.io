@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,17 +19,19 @@ toc: true
 
  **Race:** The Underwaters
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Sea Elemental](/Items/unt_68/)
 
- **Unit second description :** Strong battle controller. Constantly weakens enemies
+ **Short description:** Slow control
+
+ **Position :** Strong battle controller. Constantly weakens enemies
 
  **Recommend:** Powerful crowd control, great restoration
-
- **Info:** Strong battle controller. Constantly weakens enemies
 
 ## Basic stats
  **Base HP:** 1446.0

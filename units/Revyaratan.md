@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Units A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A monster swims in the deep sea. Its huge mouth seems to devour everything.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,17 +19,19 @@ toc: true
 
  **Race:** Pirate
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Revyaratan](/Items/unt_125/)
 
- **Unit second description :** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.
+ **Short description:** Deep sea Kraken. cannot revive
+
+ **Position :** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.
 
  **Recommend:** Multi-staged attack, high burst damage, high DPS
-
- **Info:** Releases tons of damage at all times, deters enemies, and devours bodies to restore HP by chance.
 
 ## Basic stats
  **Base HP:** 7128.0

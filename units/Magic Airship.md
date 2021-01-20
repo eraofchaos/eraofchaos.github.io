@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Human
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Magic Airship](/Items/unt_92/)
 
- **Unit second description :** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
+ **Short description:** buffs back-line DPS
 
- **Info:** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
+ **Position :** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
 
 ## Basic stats
  **Base HP:** 1715.0

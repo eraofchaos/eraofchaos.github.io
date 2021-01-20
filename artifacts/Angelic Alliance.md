@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Angelic Alliance A holy relic forged from precious items by Angelic power. Able to increase the power of your allies."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Angelic Alliance.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A holy relic forged from precious items by Angelic power. Able to increase the power of your allies.
 
  **Extra Description:** It shines the light from the heaven, reviving the dead units
+
+ **Required Level:** 60
 
  **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 

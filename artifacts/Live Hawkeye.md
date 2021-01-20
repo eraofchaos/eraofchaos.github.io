@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Live Hawkeye Stay alive. Then, you will witness more wealth"
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Live Hawkeye.md"
 toc: false
@@ -18,6 +18,8 @@ classes: wide
 ## Details
 
  **Description:** Stay alive. Then, you will witness more wealth
+
+ **Required Level:** 35
 
  **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 

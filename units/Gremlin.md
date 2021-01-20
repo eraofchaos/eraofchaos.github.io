@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Units Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Gremlin"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Human
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Gremlin](/Items/unt_81/)
 
  **Unit description:** Magic Ironball: Greatly increases ATK and ATK speed
 
- **Unit second description :** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
+ **Short description:** Enhanced magic and hit
+
+ **Position :** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
 
  **Recommend:** Warrior, Mage and Priest work well together. 
-
- **Info:** Causes stun at a distance and deals burst damage. The heroes' spells trigger its attack increase.
 
 ## Basic stats
  **Base HP:** 645.0

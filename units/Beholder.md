@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Beholder"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** These multi-eyed monsters are clever. For them, all the creatures are servants.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Evil spirit
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Beholder](/Items/unt_54/)
 
  **Unit description:** Mind Control: Immobilizes enemies and makes them lose HP over time
 
- **Unit second description :** Incredible opener. Weakens enemies at the beginning for an easier victory
+ **Short description:** Strong opening burst. Mind control
+
+ **Position :** Incredible opener. Weakens enemies at the beginning for an easier victory
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Incredible opener. Weakens enemies at the beginning for an easier victory
 
 ## Basic stats
  **Base HP:** 744.0

@@ -3,18 +3,18 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Units As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Regnan Seer"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
  **Description:** As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -22,15 +22,17 @@ toc: true
 
  **Race:** The Underwaters
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** Commander
+ **Rank:** [Commander](/units/Unit Rank Commander)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Regnan Seer](/Items/unt_108/)
 
- **Unit second description :** The soul of the Cove Faction. Good at AoE blasts
+ **Short description:** Cove leader. Powerful control.
 
- **Info:** The soul of the Cove Faction. Good at AoE blasts
+ **Position :** The soul of the Cove Faction. Good at AoE blasts
 
 ## Basic stats
  **Base HP:** 5091.0

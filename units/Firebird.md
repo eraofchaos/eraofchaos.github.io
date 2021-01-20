@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Units The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Firebird"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,21 +19,23 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Firebird](/Items/unt_93/)
 
  **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
 
- **Unit second description :** Can revive, deals colossal fire damage to all targets in its path.
+ **Short description:** Ranged fire DMG. Revives on death.
+
+ **Position :** Can revive, deals colossal fire damage to all targets in its path.
 
  **Unit extra description:** Firebirdes are most powerful when attacking in a group. They possess the power of reincarnation.
 
  **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
-
- **Info:** Can revive, deals colossal fire damage to all targets in its path.
 
 ## Basic stats
  **Base HP:** 4525.0

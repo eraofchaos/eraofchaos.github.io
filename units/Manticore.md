@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Units A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Manticore"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Dungeon troops
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Manticore](/Items/unt_74/)
 
- **Unit description:** 
+ **Short description:** Strong DPS and endurance
 
- **Unit second description :** Assault support. Increases allies' DPS and weakens hostile defense
+ **Position :** Assault support. Increases allies' DPS and weakens hostile defense
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Assault support. Increases allies' DPS and weakens hostile defense
 
 ## Basic stats
  **Base HP:** 1917.0

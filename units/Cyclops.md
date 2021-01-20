@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Units Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Cyclops"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Barbarian
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Cyclops](/Items/unt_97/)
 
  **Unit description:** Flame Stone: Deals catastrophic damage to all enemy troops in its path.
 
- **Unit second description :** Has strong area attack, good at defending smaller units.
+ **Short description:** Ranged attacker with crowd control.
+
+ **Position :** Has strong area attack, good at defending smaller units.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Has strong area attack, good at defending smaller units.
 
 ## Basic stats
  **Base HP:** 5091.0

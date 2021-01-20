@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** She is destined for wealth. Everything is her target, wherever her arrow aims.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Pirate
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Regnan Archer](/Items/unt_48/)
 
- **Unit second description :** Crit Hit and penetration. Battle reaper
+ **Short description:** Crits and penetrates.
 
- **Info:** Crit Hit and penetration. Battle reaper
+ **Position :** Crit Hit and penetration. Battle reaper
 
 ## Basic stats
  **Base HP:** 1245.0

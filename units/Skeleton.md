@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Units These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Skeleton"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** These fragile bones may seem useless but they quickly lower the morale of their enemies.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Undead
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Skeleton](/Items/unt_80/)
 
  **Unit description:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 
- **Unit second description :** Is immune to bleeding, reflects damage, is resistent to ranged damage.
+ **Short description:** Damage reflection. Immune from bleeding effects
+
+ **Position :** Is immune to bleeding, reflects damage, is resistent to ranged damage.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Is immune to bleeding, reflects damage, is resistent to ranged damage.
 
 ## Basic stats
  **Base HP:** 1158.0

@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Units Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Griffin"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath.
 
- **Class:** Charging
+ **Class:** [Charging](/units/Unit Class Charging)
 
  **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Beast
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Griffin](/Items/unt_11/)
 
  **Unit description:** Dive: Deals damage to 3 opponent units when attacking.
 
- **Unit second description :** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
+ **Short description:** Airborne Unit. Unlimited Counterattacks
+
+ **Position :** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
 
  **Recommend:** Increasing your movement speed makes your armies much more effective.
-
- **Info:** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
 
 ## Basic stats
  **Base HP:** 1850.0

@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Units Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. 
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Dragon
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Bone Dragon](/Items/unt_65/)
 
  **Unit description:** Fear: Sharply decreases enemies' defense, causes low morale.
 
- **Unit second description :** Reduce defense of all enemies on the battlefield. Able to break the enemy's line of defense effectively.
+ **Short description:** Kites, causing additional damage
+
+ **Position :** Reduce defense of all enemies on the battlefield. Able to break the enemy's line of defense effectively.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Reduce defense of all enemies on the battlefield. Able to break the enemy's line of defense effectively.
 
 ## Basic stats
  **Base HP:** 5770.0

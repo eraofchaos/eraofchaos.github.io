@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Angel"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,21 +19,23 @@ toc: true
 
  **Race:** Angel
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Angel](/Items/unt_104/)
 
  **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
- **Unit second description :** Revive dead troops, restore health of the whole unit and deal colossal damage.
+ **Short description:** Healing aura replenishes allies
+
+ **Position :** Revive dead troops, restore health of the whole unit and deal colossal damage.
 
  **Unit extra description:** Angel can resurrect dead units.
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
-
- **Info:** Revive dead troops, restore health of the whole unit and deal colossal damage.
 
 ## Basic stats
  **Base HP:** 5431.0

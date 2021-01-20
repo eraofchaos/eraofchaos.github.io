@@ -2,7 +2,7 @@
 title: "Artifacts - Power of the Dragon Father"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Power of the Dragon Father A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Power of the Dragon Father.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage.
 
  **Extra Description:** The Dragon living in the Wynn Forest will respond to its call
+
+ **Required Level:** 45
 
  **Quality:** [Orange](/artifacts/Orange Artifacts/){: .btn .btn--era5}
 

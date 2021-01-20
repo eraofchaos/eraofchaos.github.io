@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Units Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Goblin"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Orc
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Goblin](/Items/unt_26/)
 
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
- **Unit second description :** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
+ **Short description:** Ranged counter attacks. life draining crit.
+
+ **Position :** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Counter strike frequently. Deals high melee damage. The lower its health, the higher its attack is.
 
 ## Basic stats
  **Base HP:** 761.0

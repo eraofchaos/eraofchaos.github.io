@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Units The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Stone Elemental"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Stone Elemental](/Items/unt_51/)
 
- **Unit second description :** Stuns everyone within range, Deadly Split, High toughness
+ **Short description:** Deadly Spit. Stuns.
 
- **Info:** Stuns everyone within range, Deadly Split, High toughness
+ **Position :** Stuns everyone within range, Deadly Split, High toughness
 
 ## Basic stats
  **Base HP:** 2825.0

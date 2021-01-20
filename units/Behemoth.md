@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Units Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Behemoth"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Unicorn
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Behemoth](/Items/unt_75/)
 
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
- **Unit second description :** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
+ **Short description:** Drains life from enemy deaths
+
+ **Position :** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** The top Defensive unit. An expert at defending more vulnerable troops and crowd control.
 
 ## Basic stats
  **Base HP:** 10182.0

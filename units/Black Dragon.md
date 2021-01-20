@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Units A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Black Dragon"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Dragon
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Black Dragon](/Items/unt_126/)
 
  **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 
- **Unit second description :** The occupier of the top of the hierarchy. No spells can hurt him
+ **Short description:** All round magic attack and defense
+
+ **Position :** The occupier of the top of the hierarchy. No spells can hurt him
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** The occupier of the top of the hierarchy. No spells can hurt him
 
 ## Basic stats
  **Base HP:** 8712.0

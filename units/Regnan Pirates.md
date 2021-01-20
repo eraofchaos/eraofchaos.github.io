@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Units They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,17 +19,19 @@ toc: true
 
  **Race:** Pirate
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Regnan Pirates](/Items/unt_32/)
 
- **Unit second description :** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
+ **Short description:** Massive DMG increasing courage
+
+ **Position :** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
 
  **Recommend:** Multi-staged attack, high burst damage, high DPS
-
- **Info:** Rampages at the beginning. Strong DPS. Decreases enemies' DEF
 
 ## Basic stats
  **Base HP:** 695.0

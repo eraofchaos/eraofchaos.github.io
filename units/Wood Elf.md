@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows.
 
- **Class:** Ranged
+ **Class:** [Ranged](/units/Unit Class Ranged)
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
@@ -19,21 +19,23 @@ toc: true
 
  **Race:** Forest
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Wood Elf](/Items/unt_101/)
 
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
- **Unit second description :** Deal colossal burst damage, double strike. Most effective against small units.
+ **Short description:** Rapid fire. Double strikes
+
+ **Position :** Deal colossal burst damage, double strike. Most effective against small units.
 
  **Unit extra description:** Under the leadership of Gelu, wood elves transform into sharpshooters!
 
  **Recommend:** Deals extra damage to any slowed enemies.
-
- **Info:** Deal colossal burst damage, double strike. Most effective against small units.
 
 ## Basic stats
  **Base HP:** 438.4

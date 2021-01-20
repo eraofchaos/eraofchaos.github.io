@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Units The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Regnan Serpent"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king.
 
- **Class:** Defense
+ **Class:** [Defense](/units/Unit Class Defense)
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** The Underwaters
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Regnan Serpent](/Items/unt_87/)
 
  **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
 
- **Unit second description :** Strong defender. Good at deterring crowds of enemies and lowering Crit Hit rate
+ **Short description:** Strong tank. Deep sea guard
+
+ **Position :** Strong defender. Good at deterring crowds of enemies and lowering Crit Hit rate
 
  **Recommend:** Powerful tank and enemy deterrent
-
- **Info:** Strong defender. Good at deterring crowds of enemies and lowering Crit Hit rate
 
 ## Basic stats
  **Base HP:** 3027.0

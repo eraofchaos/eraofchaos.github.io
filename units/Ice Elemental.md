@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,15 +19,17 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Ice Elemental](/Items/unt_22/)
 
- **Unit second description :** Controlling Mage, Coats everything in ice, Supporting ice wall
+ **Short description:** Ice aura. Ice wall
 
- **Info:** Controlling Mage, Coats everything in ice, Supporting ice wall
+ **Position :** Controlling Mage, Coats everything in ice, Supporting ice wall
 
 ## Basic stats
  **Base HP:** 744.0

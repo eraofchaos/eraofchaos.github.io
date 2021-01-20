@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Units Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Serpent Fly"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring.
 
- **Class:** Caster
+ **Class:** [Caster](/units/Unit Class Caster)
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Beast
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit Soul:** [ Serpent Fly](/Items/unt_77/)
 
- **Unit description:** 
+ **Short description:** Weakens and controls back-row
 
- **Unit second description :** Caster Units are proficient at crowd control and at weakening enemy DPS
+ **Position :** Caster Units are proficient at crowd control and at weakening enemy DPS
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Caster Units are proficient at crowd control and at weakening enemy DPS
 
 ## Basic stats
  **Base HP:** 1615.0

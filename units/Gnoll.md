@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Units A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Gnoll"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey.
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,19 @@ toc: true
 
  **Race:** Beast Master
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit Soul:** [ Gnoll](/Items/unt_41/)
 
- **Unit description:** 
+ **Short description:** Melee DPS. Stuns
 
- **Unit second description :** stuns enemies and deals tons of damage. Get bonus ATK when facing the unit with the lowest remaining HP
+ **Position :** stuns enemies and deals tons of damage. Get bonus ATK when facing the unit with the lowest remaining HP
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** stuns enemies and deals tons of damage. Get bonus ATK when facing the unit with the lowest remaining HP
 
 ## Basic stats
  **Base HP:** 761.0

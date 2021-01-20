@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Devil"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## General information
  **Description:** The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row
 
- **Class:** Offense
+ **Class:** [Offense](/units/Unit Class Offense)
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
@@ -19,19 +19,21 @@ toc: true
 
  **Race:** Demoniac
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit Soul:** [ Devil](/Items/unt_19/)
 
  **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
- **Unit second description :** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
+ **Short description:** Huge attack DMG and aura DMG. 
+
+ **Position :** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
-
- **Info:** Can be deployed in any position, breaks through back-row troops effectively, has an Aura of HP Reduction
 
 ## Basic stats
  **Base HP:** 5431.0

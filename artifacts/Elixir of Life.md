@@ -2,7 +2,7 @@
 title: "Artifacts - Elixir of Life"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Elixir of Life A holy relic with vast health. Able to increase HP for an army."
-last_modified_at: 2021-01-19
+last_modified_at: 2021-01-20
 lang: en
 ref: "Elixir of Life.md"
 toc: false
@@ -20,6 +20,8 @@ classes: wide
  **Description:** A holy relic with vast health. Able to increase HP for an army.
 
  **Extra Description:** The vessel holds the power of life, making your units even stronger
+
+ **Required Level:** 1
 
  **Quality:** [Green](/artifacts/Green Artifacts/){: .btn .btn--era2}
 
