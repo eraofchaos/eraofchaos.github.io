@@ -81,7 +81,9 @@ Currently in the development:
 
 
 Update History:
-[Era of Chaos Wiki History](/Era_Of_Chaos_Wiki_History.html)  [Era of Chaos Client Update History](/Era_Of_Chaos_Client_Update_History.html)
+
+* [Era of Chaos Wiki History](/Era_Of_Chaos_Wiki_History.html)  
+* [Era of Chaos Client Update History](/Era_Of_Chaos_Client_Update_History.html)
 
 {: .notice--danger}
 

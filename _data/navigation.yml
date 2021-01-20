@@ -19,14 +19,24 @@ docs:
       url: /units/
     - title: "Items"
       url: /Items/
+    - title: "Artifacts"
+      url: /artifacts/
     - title: "Holy Emblem"
       url: /Emblem/
     - title: "Alchemy Workshop"
       url: /Alchemy Workshop/
     - title: "Battle Formation"
       url: /Battle Formation/
-    - title: "Healing Sea"
-      url: /Healing Sea/
+    - title: "Backup"
+      url: /Backup/
+    - title: "Combination Bonus"
+      url: /combination/
+    - title: "Next Faction Week"
+      url: /Weekly Sign Rewards/
+    - title: "Schedule"
+      url: /Schedule/
+    - title: "Hotspot Artifacs 2021"
+      url: /Hotspot/
     - title: "Sphinx answers"
       url: /sphinx/
 
