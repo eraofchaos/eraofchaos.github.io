@@ -26,6 +26,10 @@ google_ad_client:   "ca-pub-3093097053913638"
 
 minimal_mistakes_skin: default
 search: true
+search_provider: google
+google:
+  search_engine_id     :  "7ff39373b784e9f4b"
+  instant_search       : true  
 
 # Build settings
 markdown: kramdown
@@ -75,7 +79,6 @@ analytics:
   provider               :  "google-gtag"           # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "G-4RPP6FDRZ4"
-    search_engine_id     :  "7ff39373b784e9f4b"
 
 author:
   name   : "MisterX"
