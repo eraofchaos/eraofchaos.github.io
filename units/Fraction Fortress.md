@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Fortress -  Units"
 permalink: /units/Fraction Fortress/
 excerpt: "Fraction Fortress - List of Fraction in Era of Chaos"
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-22
 lang: en
 ref: "Fraction Fortress"
 toc: false
@@ -22,4 +22,4 @@ classes: wide
   | 6 | [Gorgon](/units/Gorgon/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 3094 |  manniu  |
   | 7 | [Wyvern](/units/Wyvern/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  shuangzufeilong  |
   | 8 | [Hydra](/units/Hydra/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  duotoulong  |
-  | 9 | [Waspwort](/units/Waspwort/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |
+  | 9 | [Waspwort](/units/Waspwort/) | Ranged | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |  dufengcao  |

@@ -3,14 +3,11 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Units A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-22
 lang: en
 ref: "Waspwort"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
-{: .notice--danger}
-
 ## General information
  **Description:** A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare.
 
@@ -22,7 +19,7 @@ toc: true
 
  **Race:** Beast
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x1](/units/Unit Member x1)
 
  **Rank:** [SR](/units/Unit Rank SR)
 

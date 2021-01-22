@@ -2,7 +2,7 @@
 title: "Combination Info for Petrify"
 permalink: /combination/Petrify/
 excerpt: "Combination Info - Petrify. Units and Heroes Formation."
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-22
 lang: en
 ref: "Petrify.md"
 toc: false

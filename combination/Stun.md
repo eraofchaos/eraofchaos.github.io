@@ -2,7 +2,7 @@
 title: "Combination Info for Stun"
 permalink: /combination/Stun/
 excerpt: "Combination Info - Stun. Units and Heroes Formation."
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-22
 lang: en
 ref: "Stun.md"
 toc: false

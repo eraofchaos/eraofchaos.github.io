@@ -2,7 +2,7 @@
 title: "Combination Info for Freeze"
 permalink: /combination/Freeze/
 excerpt: "Combination Info - Freeze. Units and Heroes Formation."
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-22
 lang: en
 ref: "Freeze.md"
 toc: false
