@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Minotaur"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 17.28 | 0.38 | 7.83 | 436.0 |
   | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Gorgon Battle Axe](/equipment/Gorgon Battle Axe/) | **ATK** | **DEF** | 
+  | [Gorgon Shoulder-guards](/equipment/Gorgon Shoulder-guards/) | **HP** | **DEF** | 
+  | [Gorgon Bands](/equipment/Gorgon Bands/) | **ATK** | **DEF** | 
+  | [Gorgon Belt](/equipment/Gorgon Belt/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Units These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Venom Spawn"
 toc: true
@@ -61,6 +61,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 8.86 | 2136.0 |
   | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 9.68 | 2403.0 |
   | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 10.5 | 2670.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **HP** | **DEF** | 
+  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

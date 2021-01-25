@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Units An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -61,6 +61,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 31.2 | 0.58 | 3.57 | 269.12 |
   | **5x** <i class="fas fa-star"/> | 35.1 | 0.6 | 4.16 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 39.0 | 0.63 | 4.75 | 336.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Core of Fire](/equipment/Core of Fire/) | **ATK** | **DEF** | 
+  | [Boiling Shield](/equipment/Boiling Shield/) | **HP** | **DEF** | 
+  | [Beholder of Sapphire](/equipment/Beholder of Sapphire/) | **ATK** | **DEF** | 
+  | [Navy Blue Sharp Claw](/equipment/Navy Blue Sharp Claw/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Units Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Berserker"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 108.608 | 0.53 | 6.33 | 850.72 |
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Obsidian Battle Axe](/equipment/Obsidian Battle Axe/) | **ATK** | **DEF** | 
+  | [Necklace of Bone](/equipment/Necklace of Bone/) | **HP** | **DEF** | 
+  | [Beast-boned Helmet](/equipment/Beast-boned Helmet/) | **ATK** | **DEF** | 
+  | [Leather Band](/equipment/Leather Band/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Units Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Gorgon"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 19.376 | 0.35 | 8.86 | 495.04 |
   | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 9.68 | 556.92 |
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 10.5 | 618.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Adamantine Leather](/equipment/Adamantine Leather/) | **ATK** | **DEF** | 
+  | [Barbarian Back Armor](/equipment/Barbarian Back Armor/) | **HP** | **DEF** | 
+  | [Deadly Ox Horn](/equipment/Deadly Ox Horn/) | **ATK** | **DEF** | 
+  | [Magic Ox Hoof](/equipment/Magic Ox Hoof/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

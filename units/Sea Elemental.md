@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 32.288 | 0.46 | 3.0 | 231.36 |
   | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Eternal Tear](/equipment/Eternal Tear/) | **ATK** | **DEF** | 
+  | [Core of Water Elemental](/equipment/Core of Water Elemental/) | **HP** | **DEF** | 
+  | [Wavy Flow](/equipment/Wavy Flow/) | **ATK** | **DEF** | 
+  | [Vortex Scar](/equipment/Vortex Scar/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

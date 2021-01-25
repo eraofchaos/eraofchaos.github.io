@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Units These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Skeleton"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 9.264 | 0.41 | 5.53 | 185.28 |
   | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Unholy Scimitar](/equipment/Unholy Scimitar/) | **ATK** | **DEF** | 
+  | [Rusted Helmet](/equipment/Rusted Helmet/) | **HP** | **DEF** | 
+  | [Unholy Shield](/equipment/Unholy Shield/) | **ATK** | **DEF** | 
+  | [Rusted Pauldrons](/equipment/Rusted Pauldrons/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

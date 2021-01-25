@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Units The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Lizardman"
 toc: true
@@ -63,6 +63,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 27.984 | 0.81 | 3.57 | 183.04 |
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.84 | 4.16 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.88 | 4.75 | 228.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Spiked Neck Umbrella](/equipment/Spiked Neck Umbrella/) | **ATK** | **DEF** | 
+  | [Warrior's Bracers](/equipment/Warrior's Bracers/) | **HP** | **DEF** | 
+  | [Warrior's Scapula](/equipment/Warrior's Scapula/) | **ATK** | **DEF** | 
+  | [Hunting Longbow](/equipment/Hunting Longbow/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

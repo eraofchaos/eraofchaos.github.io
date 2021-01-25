@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Units White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "White Tiger"
 toc: true
@@ -57,6 +57,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 135.76 | 0.58 | 6.1 | 778.384 |
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.6 | 6.8 | 875.682 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.63 | 7.5 | 972.98 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **HP** | **DEF** | 
+  | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -63,6 +63,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 164.72 | 0.61 | 4.66 | 1520.64 |
   | **5x** <i class="fas fa-star"/> | 185.31 | 0.64 | 5.3 | 1710.72 |
   | **6x** <i class="fas fa-star"/> | 205.9 | 0.66 | 5.94 | 1900.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Sickle of Silence](/equipment/Sickle of Silence/) | **ATK** | **DEF** | 
+  | [Heavy Helm of Pre-life](/equipment/Heavy Helm of Pre-life/) | **HP** | **DEF** | 
+  | [Salvation Inferno Fire](/equipment/Salvation Inferno Fire/) | **ATK** | **DEF** | 
+  | [Hades' Scapula](/equipment/Hades' Scapula/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

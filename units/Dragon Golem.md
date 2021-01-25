@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Dragon Golem"
 toc: true
@@ -63,6 +63,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 63.36 | 0.46 | 9.09 | 1538.672 |
   | **5x** <i class="fas fa-star"/> | 71.28 | 0.48 | 9.92 | 1731.006 |
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Alloy Claw](/equipment/Alloy Claw/) | **ATK** | **DEF** | 
+  | [Titanium Dragon Head](/equipment/Titanium Dragon Head/) | **HP** | **DEF** | 
+  | [Main Control Stick](/equipment/Main Control Stick/) | **ATK** | **DEF** | 
+  | [Alloy Armor](/equipment/Alloy Armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

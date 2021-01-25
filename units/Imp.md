@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Units Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Imp"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 8.208 | 0.4 | 6.56 | 195.84 |
   | **5x** <i class="fas fa-star"/> | 9.234 | 0.42 | 7.28 | 220.32 |
   | **6x** <i class="fas fa-star"/> | 10.26 | 0.44 | 8.0 | 244.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Sinister Claws](/equipment/Sinister Claws/) | **ATK** | **DEF** | 
+  | [Sinister Katar](/equipment/Sinister Katar/) | **HP** | **DEF** | 
+  | [Sinister Wings](/equipment/Sinister Wings/) | **ATK** | **DEF** | 
+  | [Sinister Light Armor](/equipment/Sinister Light Armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

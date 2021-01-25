@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Dendroid Guard"
 toc: true
@@ -67,6 +67,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 63.36 | 0.35 | 7.6 | 1629.12 |
   | **5x** <i class="fas fa-star"/> | 71.28 | 0.36 | 8.36 | 1832.76 |
   | **6x** <i class="fas fa-star"/> | 79.2 | 0.38 | 9.13 | 2036.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Branch of Vitality](/equipment/Branch of Vitality/) | **ATK** | **DEF** | 
+  | [Bountiful's Crown](/equipment/Bountiful's Crown/) | **HP** | **DEF** | 
+  | [Evergreen Rune](/equipment/Evergreen Rune/) | **ATK** | **DEF** | 
+  | [Vine's Armor](/equipment/Vine's Armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

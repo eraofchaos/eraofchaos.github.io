@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Units Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Pegasus"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 31.216 | 0.66 | 3.8 | 183.04 |
   | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Thorn's Chakram](/equipment/Thorn's Chakram/) | **ATK** | **DEF** | 
+  | [Evergreen Circlet](/equipment/Evergreen Circlet/) | **HP** | **DEF** | 
+  | [Gauntlets of Roses](/equipment/Gauntlets of Roses/) | **ATK** | **DEF** | 
+  | [Armor of Wonder](/equipment/Armor of Wonder/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

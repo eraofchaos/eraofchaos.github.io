@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Units Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Serpent Fly"
 toc: true
@@ -63,6 +63,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 28.528 | 0.58 | 3.34 | 258.4 |
   | **5x** <i class="fas fa-star"/> | 32.094 | 0.6 | 3.92 | 290.7 |
   | **6x** <i class="fas fa-star"/> | 35.66 | 0.63 | 4.5 | 323.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Fiend's Neck Umbrella](/equipment/Fiend's Neck Umbrella/) | **ATK** | **DEF** | 
+  | [Fatal Jaw Weapon](/equipment/Fatal Jaw Weapon/) | **HP** | **DEF** | 
+  | [Bleak Barb](/equipment/Bleak Barb/) | **ATK** | **DEF** | 
+  | [Toxic Fang](/equipment/Toxic Fang/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

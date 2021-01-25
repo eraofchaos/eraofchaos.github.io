@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Units A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Manticore"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 27.984 | 0.53 | 4.15 | 306.72 |
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.55 | 4.76 | 345.06 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.58 | 5.38 | 383.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Abyss Claw](/equipment/Abyss Claw/) | **ATK** | **DEF** | 
+  | [Fatal Poison Fang](/equipment/Fatal Poison Fang/) | **HP** | **DEF** | 
+  | [Toxic Tail](/equipment/Toxic Tail/) | **ATK** | **DEF** | 
+  | [Manticore Wings](/equipment/Manticore Wings/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Units They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Druid"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 135.04 |
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Crown of Tranquility](/equipment/Crown of Tranquility/) | **ATK** | **DEF** | 
+  | [Elder Staff](/equipment/Elder Staff/) | **HP** | **DEF** | 
+  | [Robe of Storm Rage](/equipment/Robe of Storm Rage/) | **ATK** | **DEF** | 
+  | [Thigh Boots of the Forest](/equipment/Thigh Boots of the Forest/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

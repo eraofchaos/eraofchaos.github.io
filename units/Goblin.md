@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Units Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Goblin"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 13.232 | 0.56 | 3.46 | 121.76 |
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.59 | 4.04 | 136.98 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.61 | 4.63 | 152.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Spiked Club](/equipment/Spiked Club/) | **ATK** | **DEF** | 
+  | [Leather Belt](/equipment/Leather Belt/) | **HP** | **DEF** | 
+  | [Necklace of Bone](/equipment/Necklace of Bone/) | **ATK** | **DEF** | 
+  | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

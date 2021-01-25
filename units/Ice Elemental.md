@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -61,6 +61,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 17.76 | 0.48 | 2.65 | 119.04 |
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Deep Ice Crystal](/equipment/Deep Ice Crystal/) | **ATK** | **DEF** | 
+  | [Tidal Headdress](/equipment/Tidal Headdress/) | **HP** | **DEF** | 
+  | [Mark of the Ocean](/equipment/Mark of the Ocean/) | **ATK** | **DEF** | 
+  | [Cloth of the Mermaid](/equipment/Cloth of the Mermaid/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

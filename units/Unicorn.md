@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Unicorn"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 24.224 | 0.58 | 4.49 | 296.0 |
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Crystal Longhorn](/equipment/Crystal Longhorn/) | **ATK** | **DEF** | 
+  | [Dreamer's Stones](/equipment/Dreamer's Stones/) | **HP** | **DEF** | 
+  | [Crystal Hooves](/equipment/Crystal Hooves/) | **ATK** | **DEF** | 
+  | [Misty Mane](/equipment/Misty Mane/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

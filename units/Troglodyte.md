@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Units A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Troglodyte"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 13.76 | 0.56 | 3.46 | 119.04 |
   | **5x** <i class="fas fa-star"/> | 15.48 | 0.59 | 4.04 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 17.2 | 0.61 | 4.63 | 148.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ripper's Bone Spear](/equipment/Ripper's Bone Spear/) | **ATK** | **DEF** | 
+  | [Host Cranium](/equipment/Host Cranium/) | **HP** | **DEF** | 
+  | [Spine-breaking Stab](/equipment/Spine-breaking Stab/) | **ATK** | **DEF** | 
+  | [Blood of Strong Acid](/equipment/Blood of Strong Acid/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

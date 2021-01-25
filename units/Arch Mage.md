@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Units Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Arch Mage"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 18.56 | 0.46 | 3.46 | 105.92 |
   | **5x** <i class="fas fa-star"/> | 20.88 | 0.48 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Long Staff of Mystic Power](/equipment/Long Staff of Mystic Power/) | **ATK** | **DEF** | 
+  | [Crystal Crown of Magic](/equipment/Crystal Crown of Magic/) | **HP** | **DEF** | 
+  | [Mystic Orb of Mana](/equipment/Mystic Orb of Mana/) | **ATK** | **DEF** | 
+  | [Mantle of the Magi](/equipment/Mantle of the Magi/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

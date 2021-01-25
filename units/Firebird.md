@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Units The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Firebird"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 135.76 | 0.46 | 3.23 | 724.0 |
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Beak of Raging Flame](/equipment/Beak of Raging Flame/) | **ATK** | **DEF** | 
+  | [Rune of Resurrection](/equipment/Rune of Resurrection/) | **HP** | **DEF** | 
+  | [Claws of Raging Flame](/equipment/Claws of Raging Flame/) | **ATK** | **DEF** | 
+  | [Rainbow Feathered Wings](/equipment/Rainbow Feathered Wings/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Medusa"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 32.32 | 0.7 | 3.57 | 183.04 |
   | **5x** <i class="fas fa-star"/> | 36.36 | 0.73 | 4.16 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Slaughter Longbow](/equipment/Slaughter Longbow/) | **ATK** | **DEF** | 
+  | [Writhing Snake Hair](/equipment/Writhing Snake Hair/) | **HP** | **DEF** | 
+  | [Queen's Crown](/equipment/Queen's Crown/) | **ATK** | **DEF** | 
+  | [Abyss Armor](/equipment/Abyss Armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

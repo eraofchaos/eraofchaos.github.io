@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Units A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Hydra"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 123.088 | 0.55 | 4.49 | 923.2 |
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Plague Dragon Tail](/equipment/Plague Dragon Tail/) | **ATK** | **DEF** | 
+  | [Ruler's Earrings](/equipment/Ruler's Earrings/) | **HP** | **DEF** | 
+  | [Plague Dragon Claw](/equipment/Plague Dragon Claw/) | **ATK** | **DEF** | 
+  | [Sharp Back-spikes](/equipment/Sharp Back-spikes/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

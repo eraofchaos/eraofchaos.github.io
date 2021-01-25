@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Units A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Waspwort"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 152.048 | 0.58 | 5.87 | 886.88 |
   | **5x** <i class="fas fa-star"/> | 171.054 | 0.6 | 6.56 | 997.74 |
   | **6x** <i class="fas fa-star"/> | 190.06 | 0.63 | 7.25 | 1108.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Strong Flowering Branch](/equipment/Strong Flowering Branch/) | **ATK** | **DEF** | 
+  | [Toxic Thorn](/equipment/Toxic Thorn/) | **HP** | **DEF** | 
+  | [Flower Overlord](/equipment/Flower Overlord/) | **ATK** | **DEF** | 
+  | [Killer Bee](/equipment/Killer Bee/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

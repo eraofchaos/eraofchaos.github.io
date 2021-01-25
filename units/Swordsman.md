@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Units The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Swordsman"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 8.736 | 0.38 | 7.6 | 211.84 |
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.4 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.41 | 9.13 | 264.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Empire's Sword](/equipment/Empire's Sword/) | **ATK** | **DEF** | 
+  | [Officer's Helmet](/equipment/Officer's Helmet/) | **HP** | **DEF** | 
+  | [Empire's Shield](/equipment/Empire's Shield/) | **ATK** | **DEF** | 
+  | [Empire's Pauldrons](/equipment/Empire's Pauldrons/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

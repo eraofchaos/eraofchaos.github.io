@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Units A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 202.736 | 0.38 | 7.19 | 1140.48 |
   | **5x** <i class="fas fa-star"/> | 228.078 | 0.4 | 7.94 | 1283.04 |
   | **6x** <i class="fas fa-star"/> | 253.42 | 0.41 | 8.69 | 1425.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Sharp Fangs](/equipment/Sharp Fangs/) | **ATK** | **DEF** | 
+  | [Ice-cold Fin](/equipment/Ice-cold Fin/) | **HP** | **DEF** | 
+  | [Sea Monster Tail](/equipment/Sea Monster Tail/) | **ATK** | **DEF** | 
+  | [Tentacles of Temptation](/equipment/Tentacles of Temptation/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Units A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Gnoll"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 13.504 | 0.58 | 3.57 | 121.76 |
   | **5x** <i class="fas fa-star"/> | 15.192 | 0.6 | 4.16 | 136.98 |
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.63 | 4.75 | 152.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Werewolf's Machete](/equipment/Werewolf's Machete/) | **ATK** | **DEF** | 
+  | [Werewolf's Square Shield](/equipment/Werewolf's Square Shield/) | **HP** | **DEF** | 
+  | [Werewolf's Chain](/equipment/Werewolf's Chain/) | **ATK** | **DEF** | 
+  | [Werewolf's Gauntlets](/equipment/Werewolf's Gauntlets/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

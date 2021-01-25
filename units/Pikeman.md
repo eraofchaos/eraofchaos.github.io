@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Pikeman"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 13.504 | 0.51 | 5.53 | 103.2 |
   | **5x** <i class="fas fa-star"/> | 15.192 | 0.53 | 6.2 | 116.1 |
   | **6x** <i class="fas fa-star"/> | 16.88 | 0.55 | 6.88 | 129.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Azure Lance](/equipment/Azure Lance/) | **ATK** | **DEF** | 
+  | [Plate Helmet](/equipment/Plate Helmet/) | **HP** | **DEF** | 
+  | [Sentinel's Shield](/equipment/Sentinel's Shield/) | **ATK** | **DEF** | 
+  | [Plated Shoulderpads](/equipment/Plated Shoulderpads/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Units These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Giant"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 126.72 | 0.46 | 3.34 | 1049.92 |
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.48 | 3.92 | 1181.16 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.5 | 4.5 | 1312.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Thunderbolt](/equipment/Thunderbolt/) | **ATK** | **DEF** | 
+  | [Pauldrons of Pure Gold](/equipment/Pauldrons of Pure Gold/) | **HP** | **DEF** | 
+  | [Thunder Helmet](/equipment/Thunder Helmet/) | **ATK** | **DEF** | 
+  | [Breastplate of Lightning](/equipment/Breastplate of Lightning/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

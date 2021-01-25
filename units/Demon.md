@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Units Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Demon"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 18.304 | 0.37 | 8.4 | 398.24 |
   | **5x** <i class="fas fa-star"/> | 20.592 | 0.38 | 9.2 | 448.02 |
   | **6x** <i class="fas fa-star"/> | 22.88 | 0.4 | 10.0 | 497.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Horn of Scorching](/equipment/Horn of Scorching/) | **ATK** | **DEF** | 
+  | [Steel Necklet](/equipment/Steel Necklet/) | **HP** | **DEF** | 
+  | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
+  | [Spiked Bracers](/equipment/Spiked Bracers/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

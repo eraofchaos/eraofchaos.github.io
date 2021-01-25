@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Units Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Dwarf"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 8.736 | 0.37 | 7.6 | 211.84 |
   | **5x** <i class="fas fa-star"/> | 9.828 | 0.38 | 8.36 | 238.32 |
   | **6x** <i class="fas fa-star"/> | 10.92 | 0.4 | 9.13 | 264.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Strong Hammer](/equipment/Strong Hammer/) | **ATK** | **DEF** | 
+  | [Horned Helmet](/equipment/Horned Helmet/) | **HP** | **DEF** | 
+  | [Gauntlets of Hearth Fire](/equipment/Gauntlets of Hearth Fire/) | **ATK** | **DEF** | 
+  | [Pauldrons of Hearth Fire](/equipment/Pauldrons of Hearth Fire/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

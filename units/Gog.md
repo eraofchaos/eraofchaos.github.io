@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Units Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Gog"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 16.416 | 0.48 | 3.23 | 100.64 |
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 113.22 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 125.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Scalding Orb](/equipment/Scalding Orb/) | **ATK** | **DEF** | 
+  | [Fiery Horn](/equipment/Fiery Horn/) | **HP** | **DEF** | 
+  | [Tail of Flame](/equipment/Tail of Flame/) | **ATK** | **DEF** | 
+  | [Scalding Bracers](/equipment/Scalding Bracers/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

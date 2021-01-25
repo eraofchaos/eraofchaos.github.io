@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Units A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Black Dragon"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 68.8 | 0.43 | 8.17 | 1393.92 |
   | **5x** <i class="fas fa-star"/> | 77.4 | 0.44 | 8.96 | 1568.16 |
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Magic Dragon Claws](/equipment/Magic Dragon Claws/) | **ATK** | **DEF** | 
+  | [Devastative Fire](/equipment/Devastative Fire/) | **HP** | **DEF** | 
+  | [Sky-blocking Wings](/equipment/Sky-blocking Wings/) | **ATK** | **DEF** | 
+  | [Ironclad Scale](/equipment/Ironclad Scale/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

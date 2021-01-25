@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Mermaid"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 29.6 | 0.59 | 3.11 | 263.68 |
   | **5x** <i class="fas fa-star"/> | 33.3 | 0.61 | 3.68 | 296.64 |
   | **6x** <i class="fas fa-star"/> | 37.0 | 0.64 | 4.25 | 329.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Sea Organ](/equipment/Sea Organ/) | **ATK** | **DEF** | 
+  | [Merman Earrings](/equipment/Merman Earrings/) | **HP** | **DEF** | 
+  | [Flexible Fishtail](/equipment/Flexible Fishtail/) | **ATK** | **DEF** | 
+  | [Ocean's Protection](/equipment/Ocean's Protection/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

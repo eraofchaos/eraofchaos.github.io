@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Orc"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 13.232 | 0.7 | 3.8 | 105.92 |
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.73 | 4.4 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Throwing Axe](/equipment/Throwing Axe/) | **ATK** | **DEF** | 
+  | [Belt of Constraint](/equipment/Belt of Constraint/) | **HP** | **DEF** | 
+  | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
+  | [Bloodthirsty Pauldrons](/equipment/Bloodthirsty Pauldrons/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

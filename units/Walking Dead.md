@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Units Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Walking Dead"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 18.832 | 0.33 | 6.68 | 441.28 |
   | **5x** <i class="fas fa-star"/> | 21.186 | 0.35 | 7.4 | 496.44 |
   | **6x** <i class="fas fa-star"/> | 23.54 | 0.36 | 8.13 | 551.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Bloodstained Machete](/equipment/Bloodstained Machete/) | **ATK** | **DEF** | 
+  | [Bone Necklet](/equipment/Bone Necklet/) | **HP** | **DEF** | 
+  | [Refined Steel Bracer](/equipment/Refined Steel Bracer/) | **ATK** | **DEF** | 
+  | [Trousers of Decay](/equipment/Trousers of Decay/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

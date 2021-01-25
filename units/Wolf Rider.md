@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Units Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Wolf Rider"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 11.648 | 0.55 | 4.03 | 137.6 |
   | **5x** <i class="fas fa-star"/> | 13.104 | 0.58 | 4.64 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.56 | 0.6 | 5.25 | 172.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Razor-bladed Sabre](/equipment/Razor-bladed Sabre/) | **ATK** | **DEF** | 
+  | [Mighty Belt](/equipment/Mighty Belt/) | **HP** | **DEF** | 
+  | [Bracer of the Wolf](/equipment/Bracer of the Wolf/) | **ATK** | **DEF** | 
+  | [Pauldrons of Wolf-tongue](/equipment/Pauldrons of Wolf-tongue/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Units Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Genie"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 29.056 | 0.35 | 4.95 | 269.12 |
   | **5x** <i class="fas fa-star"/> | 32.688 | 0.36 | 5.6 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Mystic Gold Lamp](/equipment/Mystic Gold Lamp/) | **ATK** | **DEF** | 
+  | [Strange Crystal Ornament](/equipment/Strange Crystal Ornament/) | **HP** | **DEF** | 
+  | [Red Copper Bracer](/equipment/Red Copper Bracer/) | **ATK** | **DEF** | 
+  | [Enchanted Armor](/equipment/Enchanted Armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

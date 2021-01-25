@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -67,6 +67,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 14.784 | 0.75 | 4.38 | 70.144 |
   | **5x** <i class="fas fa-star"/> | 16.632 | 0.78 | 5.0 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 18.48 | 0.81 | 5.63 | 87.68 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Sylvan Longbow](/equipment/Sylvan Longbow/) | **ATK** | **DEF** | 
+  | [Circlet of Verdurous Leaves](/equipment/Circlet of Verdurous Leaves/) | **HP** | **DEF** | 
+  | [Arrows of Jade](/equipment/Arrows of Jade/) | **ATK** | **DEF** | 
+  | [Short Robe of Verdurous Leaves](/equipment/Short Robe of Verdurous Leaves/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

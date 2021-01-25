@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Units They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -63,6 +63,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 15.888 | 0.67 | 3.34 | 111.2 |
   | **5x** <i class="fas fa-star"/> | 17.874 | 0.7 | 3.92 | 125.1 |
   | **6x** <i class="fas fa-star"/> | 19.86 | 0.73 | 4.5 | 139.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Toughened Machete](/equipment/Toughened Machete/) | **ATK** | **DEF** | 
+  | [Sailor's Shirt](/equipment/Sailor's Shirt/) | **HP** | **DEF** | 
+  | [Righteous Headband](/equipment/Righteous Headband/) | **ATK** | **DEF** | 
+  | [Sailor's Pants](/equipment/Sailor's Pants/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

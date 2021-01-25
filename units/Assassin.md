@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Assassin"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 43.04 | 0.35 | 4.95 | 339.04 |
   | **5x** <i class="fas fa-star"/> | 48.42 | 0.36 | 5.6 | 381.42 |
   | **6x** <i class="fas fa-star"/> | 53.8 | 0.38 | 6.25 | 423.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Assassin's Hood](/equipment/Assassin's Hood/) | **ATK** | **DEF** | 
+  | [Hidden Blade](/equipment/Hidden Blade/) | **HP** | **DEF** | 
+  | [Assassin's Belt](/equipment/Assassin's Belt/) | **ATK** | **DEF** | 
+  | [Leather Boots](/equipment/Leather Boots/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

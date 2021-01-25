@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Units Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Hell Hound"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 12.448 | 0.58 | 4.49 | 132.32 |
   | **5x** <i class="fas fa-star"/> | 14.004 | 0.6 | 5.12 | 148.86 |
   | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Scalding Teeth](/equipment/Scalding Teeth/) | **ATK** | **DEF** | 
+  | [Hellish Armor](/equipment/Hellish Armor/) | **HP** | **DEF** | 
+  | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
+  | [Mane of Flame](/equipment/Mane of Flame/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Inferno -  Units"
 permalink: /units/Fraction Inferno/
 excerpt: "Fraction Inferno - List of Fraction in Era of Chaos"
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Fraction Inferno"
 toc: false

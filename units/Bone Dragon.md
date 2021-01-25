@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Units Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 121.28 | 0.59 | 3.57 | 923.2 |
   | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Bone Spike](/equipment/Bone Spike/) | **ATK** | **DEF** | 
+  | [Draconic Skull](/equipment/Draconic Skull/) | **HP** | **DEF** | 
+  | [Piercing Claws](/equipment/Piercing Claws/) | **ATK** | **DEF** | 
+  | [Soul Gem](/equipment/Soul Gem/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

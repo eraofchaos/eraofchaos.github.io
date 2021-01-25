@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Naga"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 36.0 | 0.53 | 3.8 | 288.32 |
   | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Everflowing Blade](/equipment/Everflowing Blade/) | **ATK** | **DEF** | 
+  | [Seafaring Pauldrons](/equipment/Seafaring Pauldrons/) | **HP** | **DEF** | 
+  | [Headdress of the Serpent God](/equipment/Headdress of the Serpent God/) | **ATK** | **DEF** | 
+  | [Strong and Flexible Waistplate](/equipment/Strong and Flexible Waistplate/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Monk"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 16.416 | 0.52 | 3.46 | 105.92 |
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.54 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.56 | 4.63 | 132.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Orb of Divinity](/equipment/Orb of Divinity/) | **ATK** | **DEF** | 
+  | [Mystic's Cap](/equipment/Mystic's Cap/) | **HP** | **DEF** | 
+  | [Rune of Ritual](/equipment/Rune of Ritual/) | **ATK** | **DEF** | 
+  | [Basic Light Armor](/equipment/Basic Light Armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

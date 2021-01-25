@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Units A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Sprite"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 11.12 | 0.55 | 3.23 | 158.88 |
   | **5x** <i class="fas fa-star"/> | 12.51 | 0.58 | 3.8 | 178.74 |
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Fragrant Wreath](/equipment/Fragrant Wreath/) | **ATK** | **DEF** | 
+  | [Gown of Moon and Stars](/equipment/Gown of Moon and Stars/) | **HP** | **DEF** | 
+  | [Phosphorus Butterfly Wings](/equipment/Phosphorus Butterfly Wings/) | **ATK** | **DEF** | 
+  | [Emerald Arm Ring](/equipment/Emerald Arm Ring/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

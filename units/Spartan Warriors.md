@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 34.56 | 0.35 | 7.25 | 452.0 |
   | **5x** <i class="fas fa-star"/> | 38.88 | 0.36 | 8.0 | 508.5 |
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Spartan Helmet](/equipment/Spartan Helmet/) | **ATK** | **DEF** | 
+  | [Steel Shield](/equipment/Steel Shield/) | **HP** | **DEF** | 
+  | [Piercing Spear](/equipment/Piercing Spear/) | **ATK** | **DEF** | 
+  | [Footwraps](/equipment/Footwraps/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

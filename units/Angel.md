@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Angel"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Empire's Sword](/equipment/Empire's Sword/) | **ATK** | **DEF** | 
+  | [Light Battle Armor](/equipment/Light Battle Armor/) | **HP** | **DEF** | 
+  | [Light Gauntlets](/equipment/Light Gauntlets/) | **ATK** | **DEF** | 
+  | [Pauldrons of Lightness](/equipment/Pauldrons of Lightness/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Units Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Pit Fiend"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 27.984 | 0.58 | 3.69 | 296.0 |
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Hellish Whip](/equipment/Hellish Whip/) | **ATK** | **DEF** | 
+  | [Charmed Light Armor](/equipment/Charmed Light Armor/) | **HP** | **DEF** | 
+  | [Charmed Horn](/equipment/Charmed Horn/) | **ATK** | **DEF** | 
+  | [Charming Pauldrons](/equipment/Charming Pauldrons/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

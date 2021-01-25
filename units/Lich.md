@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Units Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Lich"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 36.592 | 0.46 | 3.34 | 252.96 |
   | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Nether Staff](/equipment/Nether Staff/) | **ATK** | **DEF** | 
+  | [Carrion Crown](/equipment/Carrion Crown/) | **HP** | **DEF** | 
+  | [Soul Belt](/equipment/Soul Belt/) | **ATK** | **DEF** | 
+  | [Light Armor of the Netherworld](/equipment/Light Armor of the Netherworld/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

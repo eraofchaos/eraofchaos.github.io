@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Units Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Basilisk"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 19.376 | 0.35 | 7.94 | 457.44 |
   | **5x** <i class="fas fa-star"/> | 21.798 | 0.36 | 8.72 | 514.62 |
   | **6x** <i class="fas fa-star"/> | 24.22 | 0.38 | 9.5 | 571.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Basilisk's Neck Umbrella](/equipment/Basilisk's Neck Umbrella/) | **ATK** | **DEF** | 
+  | [Adamantine Scale](/equipment/Adamantine Scale/) | **HP** | **DEF** | 
+  | [Poisoned Claw](/equipment/Poisoned Claw/) | **ATK** | **DEF** | 
+  | [Petrification Fang](/equipment/Petrification Fang/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 33.36 | 0.48 | 3.23 | 274.4 |
   | **5x** <i class="fas fa-star"/> | 37.53 | 0.5 | 3.8 | 308.7 |
   | **6x** <i class="fas fa-star"/> | 41.7 | 0.53 | 4.38 | 343.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Lift-off System](/equipment/Lift-off System/) | **ATK** | **DEF** | 
+  | [Control System](/equipment/Control System/) | **HP** | **DEF** | 
+  | [Main Control Tower](/equipment/Main Control Tower/) | **ATK** | **DEF** | 
+  | [Observation Deck](/equipment/Observation Deck/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

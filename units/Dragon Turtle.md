@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 57.92 | 0.35 | 9.32 | 1568.0 |
   | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Dragon Turtle's Sharp Teeth](/equipment/Dragon Turtle's Sharp Teeth/) | **ATK** | **DEF** | 
+  | [Spiked Tortoise Shell](/equipment/Spiked Tortoise Shell/) | **HP** | **DEF** | 
+  | [Dragon Turtle's Sharp Claw](/equipment/Dragon Turtle's Sharp Claw/) | **ATK** | **DEF** | 
+  | [Dragon Turtle's Tail](/equipment/Dragon Turtle's Tail/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

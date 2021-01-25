@@ -3,7 +3,7 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Units She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Evil Sorceress"
 toc: true
@@ -61,6 +61,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
   | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **HP** | **DEF** | 
+  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

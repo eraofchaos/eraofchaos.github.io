@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Mummy"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 22.56 | 0.35 | 7.25 | 430.56 |
   | **5x** <i class="fas fa-star"/> | 25.38 | 0.36 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 28.2 | 0.38 | 8.75 | 538.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Immortal Touch](/equipment/Immortal Touch/) | **ATK** | **DEF** | 
+  | [Ancient Bandage](/equipment/Ancient Bandage/) | **HP** | **DEF** | 
+  | [Pupil of the Departed](/equipment/Pupil of the Departed/) | **ATK** | **DEF** | 
+  | [Breath of Death](/equipment/Breath of Death/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

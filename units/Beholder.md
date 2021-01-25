@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Beholder"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 18.528 | 0.47 | 3.23 | 119.04 |
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Eye of Blasphemy](/equipment/Eye of Blasphemy/) | **ATK** | **DEF** | 
+  | [Pupil of Death](/equipment/Pupil of Death/) | **HP** | **DEF** | 
+  | [Evil Tusk](/equipment/Evil Tusk/) | **ATK** | **DEF** | 
+  | [Tentacles from the Abyss](/equipment/Tentacles from the Abyss/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Units Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Gremlin"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 12.96 | 0.62 | 4.95 | 74.816 |
   | **5x** <i class="fas fa-star"/> | 14.58 | 0.65 | 5.6 | 84.168 |
   | **6x** <i class="fas fa-star"/> | 16.2 | 0.68 | 6.25 | 93.52 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Lightning's Flail](/equipment/Lightning's Flail/) | **ATK** | **DEF** | 
+  | [Enchanted Hood](/equipment/Enchanted Hood/) | **HP** | **DEF** | 
+  | [Enchanted Gloves](/equipment/Enchanted Gloves/) | **ATK** | **DEF** | 
+  | [Windproof Cloak](/equipment/Windproof Cloak/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

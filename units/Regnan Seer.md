@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Units As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Regnan Seer"
 toc: true
@@ -63,6 +63,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 161.104 | 0.49 | 3.57 | 814.56 |
   | **5x** <i class="fas fa-star"/> | 181.242 | 0.52 | 4.16 | 916.38 |
   | **6x** <i class="fas fa-star"/> | 201.38 | 0.54 | 4.75 | 1018.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Divine Scepter of the Ocean's Soul](/equipment/Divine Scepter of the Ocean's Soul/) | **ATK** | **DEF** | 
+  | [Poseidon's Soul Necklace](/equipment/Poseidon's Soul Necklace/) | **HP** | **DEF** | 
+  | [Radiance Headband](/equipment/Radiance Headband/) | **ATK** | **DEF** | 
+  | [Noble Bracelet](/equipment/Noble Bracelet/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

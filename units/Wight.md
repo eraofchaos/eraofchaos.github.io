@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Units Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Wight"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 17.2 | 0.49 | 3.57 | 105.92 |
   | **5x** <i class="fas fa-star"/> | 19.35 | 0.52 | 4.16 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 21.5 | 0.54 | 4.75 | 132.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ghostly Claws](/equipment/Ghostly Claws/) | **ATK** | **DEF** | 
+  | [Light Armor of Requiem](/equipment/Light Armor of Requiem/) | **HP** | **DEF** | 
+  | [Cursed Soul](/equipment/Cursed Soul/) | **ATK** | **DEF** | 
+  | [Dress of Requiem](/equipment/Dress of Requiem/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

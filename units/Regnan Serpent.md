@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Units The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Regnan Serpent"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 16.144 | 0.4 | 8.4 | 484.32 |
   | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Trident](/equipment/Trident/) | **ATK** | **DEF** | 
+  | [Shell Horn](/equipment/Shell Horn/) | **HP** | **DEF** | 
+  | [Mermaid Claws](/equipment/Mermaid Claws/) | **ATK** | **DEF** | 
+  | [Mazarine Fin](/equipment/Mazarine Fin/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

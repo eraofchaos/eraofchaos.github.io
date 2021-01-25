@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Units Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Cavalier"
 toc: true
@@ -68,6 +68,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 12.704 | 0.53 | 5.53 | 129.76 |
   | **5x** <i class="fas fa-star"/> | 14.292 | 0.55 | 6.2 | 145.98 |
   | **6x** <i class="fas fa-star"/> | 15.88 | 0.58 | 6.88 | 162.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Cavalier's Lance](/equipment/Cavalier's Lance/) | **ATK** | **DEF** | 
+  | [Visor of Defense](/equipment/Visor of Defense/) | **HP** | **DEF** | 
+  | [Shield of Protection](/equipment/Shield of Protection/) | **ATK** | **DEF** | 
+  | [Paladin's Pauldron](/equipment/Paladin's Pauldron/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

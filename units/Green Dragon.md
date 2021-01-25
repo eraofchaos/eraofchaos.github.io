@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 162.912 | 0.46 | 3.57 | 724.0 |
   | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Venomous Horn](/equipment/Venomous Horn/) | **ATK** | **DEF** | 
+  | [Dragon Scale Armor](/equipment/Dragon Scale Armor/) | **HP** | **DEF** | 
+  | [Claws of Decay](/equipment/Claws of Decay/) | **ATK** | **DEF** | 
+  | [Venomous Dragon Blood](/equipment/Venomous Dragon Blood/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

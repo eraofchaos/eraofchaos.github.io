@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 16.16 | 0.52 | 3.92 | 121.76 |
   | **5x** <i class="fas fa-star"/> | 18.18 | 0.54 | 4.52 | 136.98 |
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Stone Horn](/equipment/Stone Horn/) | **ATK** | **DEF** | 
+  | [Stone Wings](/equipment/Stone Wings/) | **HP** | **DEF** | 
+  | [Sharp Rock Claws](/equipment/Sharp Rock Claws/) | **ATK** | **DEF** | 
+  | [Enchanted Tail](/equipment/Enchanted Tail/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

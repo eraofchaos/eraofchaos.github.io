@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Units Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 21.6 | 0.33 | 7.25 | 408.96 |
   | **5x** <i class="fas fa-star"/> | 24.3 | 0.35 | 8.0 | 460.08 |
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Iron Gauntlets](/equipment/Iron Gauntlets/) | **ATK** | **DEF** | 
+  | [Spiked Pauldrons](/equipment/Spiked Pauldrons/) | **HP** | **DEF** | 
+  | [Arcane Heart](/equipment/Arcane Heart/) | **ATK** | **DEF** | 
+  | [Hardened Iron Chest Armor](/equipment/Hardened Iron Chest Armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

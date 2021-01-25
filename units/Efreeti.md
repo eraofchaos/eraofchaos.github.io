@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Units Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Efreeti"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 36.064 | 0.53 | 3.0 | 231.36 |
   | **5x** <i class="fas fa-star"/> | 40.572 | 0.55 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 45.08 | 0.58 | 4.13 | 289.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Orb of Flame](/equipment/Orb of Flame/) | **ATK** | **DEF** | 
+  | [Light Armor of Flame](/equipment/Light Armor of Flame/) | **HP** | **DEF** | 
+  | [Bracers of Flame](/equipment/Bracers of Flame/) | **ATK** | **DEF** | 
+  | [Pauldrons of Flame](/equipment/Pauldrons of Flame/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

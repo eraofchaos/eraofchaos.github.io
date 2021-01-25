@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Units The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Harpy"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 11.84 | 0.58 | 4.61 | 137.6 |
   | **5x** <i class="fas fa-star"/> | 13.32 | 0.6 | 5.24 | 154.8 |
   | **6x** <i class="fas fa-star"/> | 14.8 | 0.63 | 5.88 | 172.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Heart Stab Dagger](/equipment/Heart Stab Dagger/) | **ATK** | **DEF** | 
+  | [Mystic Armor](/equipment/Mystic Armor/) | **HP** | **DEF** | 
+  | [Claw Killer](/equipment/Claw Killer/) | **ATK** | **DEF** | 
+  | [Enchantress' Shoulder-guards](/equipment/Enchantress' Shoulder-guards/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

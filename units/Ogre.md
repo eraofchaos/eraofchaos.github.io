@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Units Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Ogre"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 17.216 | 0.39 | 8.4 | 403.68 |
   | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Rams-head Staff](/equipment/Rams-head Staff/) | **ATK** | **DEF** | 
+  | [Belt of Ritual](/equipment/Belt of Ritual/) | **HP** | **DEF** | 
+  | [Tribal Talisman](/equipment/Tribal Talisman/) | **ATK** | **DEF** | 
+  | [Pauldrons of Ritual](/equipment/Pauldrons of Ritual/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

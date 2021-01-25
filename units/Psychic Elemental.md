@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Units An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 33.92 | 0.58 | 3.8 | 279.84 |
   | **5x** <i class="fas fa-star"/> | 38.16 | 0.6 | 4.4 | 314.82 |
   | **6x** <i class="fas fa-star"/> | 42.4 | 0.63 | 5.0 | 349.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Core of the Pole Star](/equipment/Core of the Pole Star/) | **ATK** | **DEF** | 
+  | [Heavenly Star](/equipment/Heavenly Star/) | **HP** | **DEF** | 
+  | [Star Spirit Crown](/equipment/Star Spirit Crown/) | **ATK** | **DEF** | 
+  | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

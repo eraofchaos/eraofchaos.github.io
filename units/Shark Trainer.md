@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Units Shark Trainer"
 unitID: 9909
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Shark Trainer"
 toc: true
@@ -63,6 +63,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 126.72 | 0.58 | 4.95 | 868.8 |
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.6 | 5.6 | 977.4 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.63 | 6.25 | 1086.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Steel Scimitar](/equipment/Steel Scimitar/) | **ATK** | **DEF** | 
+  | [Protective Strap](/equipment/Protective Strap/) | **HP** | **DEF** | 
+  | [Protective Gloves](/equipment/Protective Gloves/) | **ATK** | **DEF** | 
+  | [Shark Reins](/equipment/Shark Reins/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

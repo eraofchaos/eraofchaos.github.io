@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Units A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Wyvern"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 80.0 | 0.6 | 4.95 | 887.04 |
   | **5x** <i class="fas fa-star"/> | 90.0 | 0.62 | 5.6 | 997.92 |
   | **6x** <i class="fas fa-star"/> | 100.0 | 0.65 | 6.25 | 1108.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Dragon Claws](/equipment/Dragon Claws/) | **ATK** | **DEF** | 
+  | [Plague Fang](/equipment/Plague Fang/) | **HP** | **DEF** | 
+  | [Imp Back-spikes](/equipment/Imp Back-spikes/) | **ATK** | **DEF** | 
+  | [Dragon Wings](/equipment/Dragon Wings/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

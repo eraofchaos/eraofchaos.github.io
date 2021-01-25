@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Marksman"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 13.648 | 0.63 | 4.95 | 70.144 |
   | **5x** <i class="fas fa-star"/> | 15.354 | 0.66 | 5.6 | 78.912 |
   | **6x** <i class="fas fa-star"/> | 17.06 | 0.69 | 6.25 | 87.68 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Light Crossbow](/equipment/Light Crossbow/) | **ATK** | **DEF** | 
+  | [Steel Cap](/equipment/Steel Cap/) | **HP** | **DEF** | 
+  | [Piercing Bolts](/equipment/Piercing Bolts/) | **ATK** | **DEF** | 
+  | [Leather Gauntlets](/equipment/Leather Gauntlets/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

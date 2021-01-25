@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Units Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Troll"
 toc: true
@@ -59,6 +59,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 162.928 | 0.25 | 4.95 | 1448.16 |
   | **5x** <i class="fas fa-star"/> | 183.294 | 0.26 | 5.6 | 1629.18 |
   | **6x** <i class="fas fa-star"/> | 203.66 | 0.28 | 6.25 | 1810.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [UnknownEquipment_4091](/equipment/UnknownEquipment_4091/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_4092](/equipment/UnknownEquipment_4092/) | **HP** | **DEF** | 
+  | [UnknownEquipment_4093](/equipment/UnknownEquipment_4093/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_4094](/equipment/UnknownEquipment_4094/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

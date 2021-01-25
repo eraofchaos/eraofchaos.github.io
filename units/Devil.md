@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Devil"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 126.72 | 0.6 | 3.69 | 868.96 |
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.62 | 4.28 | 977.58 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.65 | 4.88 | 1086.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Devil's Scythe](/equipment/Devil's Scythe/) | **ATK** | **DEF** | 
+  | [Molten Pentagram](/equipment/Molten Pentagram/) | **HP** | **DEF** | 
+  | [Gauntlets of Molten Lava](/equipment/Gauntlets of Molten Lava/) | **ATK** | **DEF** | 
+  | [Pauldrons of Molten Lava](/equipment/Pauldrons of Molten Lava/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Judicator"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 90.512 | 0.46 | 8.4 | 977.504 |
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Staff of Theocracy](/equipment/Staff of Theocracy/) | **ATK** | **DEF** | 
+  | [Celestial Hood of Bliss](/equipment/Celestial Hood of Bliss/) | **HP** | **DEF** | 
+  | [Light Cape](/equipment/Light Cape/) | **ATK** | **DEF** | 
+  | [Divine Vambrace](/equipment/Divine Vambrace/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

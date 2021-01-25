@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Black Knight"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 18.528 | 0.46 | 4.38 | 145.6 |
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.48 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.5 | 5.63 | 182.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Cursed Sword](/equipment/Cursed Sword/) | **ATK** | **DEF** | 
+  | [Visor of the Dead](/equipment/Visor of the Dead/) | **HP** | **DEF** | 
+  | [Bracer of Nightmares](/equipment/Bracer of Nightmares/) | **ATK** | **DEF** | 
+  | [Nightmare Pauldrons](/equipment/Nightmare Pauldrons/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

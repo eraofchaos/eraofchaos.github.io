@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Units Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Mantis"
 toc: true
@@ -61,6 +61,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 182.464 | 0.89 | 4.03 | 1013.76 |
   | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
   | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **HP** | **DEF** | 
+  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATK** | **DEF** | 
+  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

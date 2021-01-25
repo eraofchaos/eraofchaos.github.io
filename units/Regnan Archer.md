@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 37.68 | 0.63 | 3.8 | 199.2 |
   | **5x** <i class="fas fa-star"/> | 42.39 | 0.66 | 4.4 | 224.1 |
   | **6x** <i class="fas fa-star"/> | 47.1 | 0.69 | 5.0 | 249.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ocean's Arbalest](/equipment/Ocean's Arbalest/) | **ATK** | **DEF** | 
+  | [Cap of Prestige](/equipment/Cap of Prestige/) | **HP** | **DEF** | 
+  | [Steel Arrow](/equipment/Steel Arrow/) | **ATK** | **DEF** | 
+  | [Hunter's Clothing](/equipment/Hunter's Clothing/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

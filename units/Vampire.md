@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Units Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Vampire"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 11.904 | 0.58 | 4.38 | 145.6 |
   | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Bloodthirsty Belt](/equipment/Bloodthirsty Belt/) | **ATK** | **DEF** | 
+  | [Light Armor of Bloodthirst](/equipment/Light Armor of Bloodthirst/) | **HP** | **DEF** | 
+  | [Shadow Shoulders](/equipment/Shadow Shoulders/) | **ATK** | **DEF** | 
+  | [Shadow Cloak](/equipment/Shadow Cloak/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

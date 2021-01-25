@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Units Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Behemoth"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 65.168 | 0.37 | 8.4 | 1629.12 |
   | **5x** <i class="fas fa-star"/> | 73.314 | 0.38 | 9.2 | 1832.76 |
   | **6x** <i class="fas fa-star"/> | 81.46 | 0.4 | 10.0 | 2036.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ferocious Claws](/equipment/Ferocious Claws/) | **ATK** | **DEF** | 
+  | [Ironclad Skin](/equipment/Ironclad Skin/) | **HP** | **DEF** | 
+  | [Ferocious Fangs](/equipment/Ferocious Fangs/) | **ATK** | **DEF** | 
+  | [Thick Fur Hide](/equipment/Thick Fur Hide/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

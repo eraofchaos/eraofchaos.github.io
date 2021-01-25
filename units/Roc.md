@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Units Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Roc"
 toc: true
@@ -67,6 +67,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 126.72 | 0.52 | 2.88 | 796.48 |
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Beak of Thunder](/equipment/Beak of Thunder/) | **ATK** | **DEF** | 
+  | [Wings of a Thunderbolt](/equipment/Wings of a Thunderbolt/) | **HP** | **DEF** | 
+  | [Claws of Lightning](/equipment/Claws of Lightning/) | **ATK** | **DEF** | 
+  | [Lightning's armor](/equipment/Lightning's armor/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

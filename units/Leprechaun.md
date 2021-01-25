@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Leprechaun"
 toc: true
@@ -62,6 +62,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 21.52 | 0.38 | 8.4 | 505.92 |
   | **5x** <i class="fas fa-star"/> | 24.21 | 0.4 | 9.2 | 569.16 |
   | **6x** <i class="fas fa-star"/> | 26.9 | 0.41 | 10.0 | 632.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [LuckyBlessings](/equipment/LuckyBlessings/) | **ATK** | **DEF** | 
+  | [SourceofPower](/equipment/SourceofPower/) | **HP** | **DEF** | 
+  | [LifeGuardian](/equipment/LifeGuardian/) | **ATK** | **DEF** | 
+  | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

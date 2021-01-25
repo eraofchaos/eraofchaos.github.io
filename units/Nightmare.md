@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Units Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Nightmare"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 13.456 | 0.58 | 7.25 | 430.56 |
   | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Nightmare Pupil](/equipment/Nightmare Pupil/) | **ATK** | **DEF** | 
+  | [Fire in the Abyss](/equipment/Fire in the Abyss/) | **HP** | **DEF** | 
+  | [Ash Horseshoe](/equipment/Ash Horseshoe/) | **ATK** | **DEF** | 
+  | [Horsehair of Fire](/equipment/Horsehair of Fire/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

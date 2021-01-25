@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -61,6 +61,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 15.872 | 0.64 | 2.88 | 105.92 |
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Flickering Lightning Ball](/equipment/Flickering Lightning Ball/) | **ATK** | **DEF** | 
+  | [Thunder Core](/equipment/Thunder Core/) | **HP** | **DEF** | 
+  | [Magic Claw](/equipment/Magic Claw/) | **ATK** | **DEF** | 
+  | [Beholder of Lightning](/equipment/Beholder of Lightning/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

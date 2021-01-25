@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Units Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Griffin"
 toc: true
@@ -65,6 +65,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 24.224 | 0.55 | 4.38 | 296.0 |
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Serrated Claws](/equipment/Serrated Claws/) | **ATK** | **DEF** | 
+  | [Headplate of Speed](/equipment/Headplate of Speed/) | **HP** | **DEF** | 
+  | [Archgriffin Feather](/equipment/Archgriffin Feather/) | **ATK** | **DEF** | 
+  | [Empire's Crest](/equipment/Empire's Crest/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

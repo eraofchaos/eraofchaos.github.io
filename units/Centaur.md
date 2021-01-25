@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Units Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Centaur"
 toc: true
@@ -66,6 +66,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 17.76 | 0.35 | 6.91 | 430.56 |
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.36 | 7.64 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.38 | 8.38 | 538.2 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Battleaxe of the Wild](/equipment/Battleaxe of the Wild/) | **ATK** | **DEF** | 
+  | [Helm of the Wild](/equipment/Helm of the Wild/) | **HP** | **DEF** | 
+  | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATK** | **DEF** | 
+  | [Pauldrons of Wild](/equipment/Pauldrons of Wild/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

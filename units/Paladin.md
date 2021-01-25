@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Units Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Paladin"
 toc: true
@@ -64,6 +64,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 20.48 | 0.39 | 7.71 | 414.24 |
   | **5x** <i class="fas fa-star"/> | 23.04 | 0.41 | 8.48 | 466.02 |
   | **6x** <i class="fas fa-star"/> | 25.6 | 0.43 | 9.25 | 517.8 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Judgment Sword](/equipment/Judgment Sword/) | **ATK** | **DEF** | 
+  | [Vow Helmet](/equipment/Vow Helmet/) | **HP** | **DEF** | 
+  | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
+  | [Forged Bracers](/equipment/Forged Bracers/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 

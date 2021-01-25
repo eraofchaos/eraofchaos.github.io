@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Units The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2021-01-22
+last_modified_at: 2021-01-25
 lang: en
 ref: "Stone Elemental"
 toc: true
@@ -60,6 +60,15 @@ toc: true
   | **4x** <i class="fas fa-star"/> | 19.36 | 0.37 | 7.25 | 452.0 |
   | **5x** <i class="fas fa-star"/> | 21.78 | 0.38 | 8.0 | 508.5 |
   | **6x** <i class="fas fa-star"/> | 24.2 | 0.4 | 8.75 | 565.0 |
+
+## Equipment
+
+  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Core of Magma](/equipment/Core of Magma/) | **ATK** | **DEF** | 
+  | [Exploding Magma](/equipment/Exploding Magma/) | **HP** | **DEF** | 
+  | [Twilight Stone](/equipment/Twilight Stone/) | **ATK** | **DEF** | 
+  | [Crown of Stone](/equipment/Crown of Stone/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 
