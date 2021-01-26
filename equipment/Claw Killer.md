@@ -15,6 +15,7 @@ classes: wide
  **Stat 2:** DEF
 
 ## Upgrade Stats
+
   |     Grade    |   Bonus | Minimal Level | 
   |:-------------|:--------|:--------------| 
   | Blue | ATK: +3.0% | **1** | 
@@ -24,6 +25,7 @@ classes: wide
 
 
 ## Equipment Upgrade
+
   |          Grade      | ATK | DEF | Equipment Upgrade |
   |:--------------------|:---------:|:---------:|:----------------:|
   | Green | **+2.22** | **+0.405** | 1x [ Inferior Gems](/Items/mat_54/) |

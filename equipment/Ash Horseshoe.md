@@ -15,6 +15,7 @@ classes: wide
  **Stat 2:** DEF
 
 ## Upgrade Stats
+
   |     Grade    |   Bonus | Minimal Level | 
   |:-------------|:--------|:--------------| 
   | Blue | ATK: +3.0% | **1** | 
@@ -24,6 +25,7 @@ classes: wide
 
 
 ## Equipment Upgrade
+
   |          Grade      | ATK | DEF | Equipment Upgrade |
   |:--------------------|:---------:|:---------:|:----------------:|
   | Green | **+2.523** | **+0.75** | 1x [ Inferior Mercury](/Items/mat_27/) |

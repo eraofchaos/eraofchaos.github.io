@@ -15,6 +15,7 @@ classes: wide
  **Stat 2:** DEF
 
 ## Upgrade Stats
+
   |     Grade    |   Bonus | Minimal Level | 
   |:-------------|:--------|:--------------| 
   | Blue | HP: +3.0% | **1** | 
@@ -24,6 +25,7 @@ classes: wide
 
 
 ## Equipment Upgrade
+
   |          Grade      | HP | DEF | Equipment Upgrade |
   |:--------------------|:---------:|:---------:|:----------------:|
   | Green | **+25.32** | **+0.81** | 1x [ Inferior Wood](/Items/mat_12/) |
