@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Fortress -  Units"
 permalink: /units/Fraction Fortress/
 excerpt: "Fraction Fortress - List of Fraction in Era of Chaos"
-last_modified_at: 2021-01-25
+last_modified_at: 2021-01-26
 lang: en
 ref: "Fraction Fortress"
 toc: false

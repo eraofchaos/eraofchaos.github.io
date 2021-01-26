@@ -2,7 +2,7 @@
 title: "Holy Emblem - Ironfist's Legacy"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Holy Emblem - Order - Ironfist's Legacy"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Ironfist's Legacy.md"
 toc: false

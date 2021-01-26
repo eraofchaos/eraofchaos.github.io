@@ -2,7 +2,7 @@
 title: "Armor of Wonder"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Armor of Wonder"
-last_modified_at: 2021-01-25
+last_modified_at: 2021-01-26
 lang: en
 ref: "Armor of Wonder.md"
 toc: false

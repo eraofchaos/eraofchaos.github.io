@@ -2,7 +2,7 @@
 title: "Artifacts - Armageddon's Blade"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Armageddon's Blade The doomed flame will burn your soul"
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-26
 lang: en
 ref: "Armageddon's Blade.md"
 toc: false

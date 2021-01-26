@@ -2,7 +2,7 @@
 title: "Holy Emblem"
 permalink: /Emblem/
 excerpt: "Holy Emblem.Equipping Holy Emblems greatly increases unit power. There are a number of possible faction and quality combinations for Holy Emblems. Holy Emblem sets grant great additional attributes."
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "index.md"
 toc: false

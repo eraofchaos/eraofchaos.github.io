@@ -2,7 +2,7 @@
 title: "Green Artifact Components"
 permalink: /artifacts/Green Artifact Components/
 excerpt: "Lis of all Green Artifact Components  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-26
 lang: en
 ref: "Green Artifact Components.md"
 toc: false

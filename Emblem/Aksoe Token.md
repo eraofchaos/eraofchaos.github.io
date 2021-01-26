@@ -2,7 +2,7 @@
 title: "Holy Emblem - Aksoe Token"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Holy Emblem - Neutral - Aksoe Token"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Aksoe Token.md"
 toc: false

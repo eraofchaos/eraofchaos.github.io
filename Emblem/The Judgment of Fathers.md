@@ -2,7 +2,7 @@
 title: "Holy Emblem - The Judgment of Fathers"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Holy Emblem - Neutral - The Judgment of Fathers"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "The Judgment of Fathers.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Jealousy"
 permalink: /Emblem/Jealousy/
 excerpt: "Holy Emblem - Chaos - Jealousy"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Jealousy.md"
 toc: false

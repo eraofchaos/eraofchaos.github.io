@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Units Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-01-25
+last_modified_at: 2021-01-26
 lang: en
 ref: "Efreeti"
 toc: true

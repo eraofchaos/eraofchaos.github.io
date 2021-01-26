@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Units Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-01-25
+last_modified_at: 2021-01-26
 lang: en
 ref: "Berserker"
 toc: true
@@ -145,10 +145,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Deadweight Battle Axe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">Damage related to Max HP caused by Peerless Dance doubled. When it's dispelled successfully, it deals 200% extra damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">Damage related to Max HP caused by Peerless Dance doubled. When it's dispelled successfully, it deals 50% extra damage</span>
 
 ### 2nd Skill (or 1st): Bloodlust Battle Axe
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">The Berserker receives 20% extra life drain. When it is successfully dispelled, it deals 200% extra damage</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">The Berserker receives 20% extra life drain. When it is successfully dispelled, it deals 50% extra damage</span>
 
 ### 3rd Skill (or 4th): Endless Rage
  **Description:** <span style="color: #48b946;font-size:18px">&lt;War Fury&gt;</span><span style="color: #645252;font-size:18px">War Fury's duration increased by 15s. Fury increased by 50%. Crit DMG increased by a further 30%. Effects cannot be dispelled.</span>
@@ -157,7 +157,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;War Fury&gt;</span><span style="color: #645252;font-size:18px">War Fury increases all friendly Stronghold units' unit's damage by 5% and ATK speed by 10% for 10s</span>
 
 ### 5th Skill (or 6th): War God's Blessing
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Immortal War God&gt;</span><span style="color: #645252;font-size:18px">Summons a small Statue of Mars at the beginning of the battle to restore 1.5% of Max HP per 2s and increases unit's damage by 8% for your Stronghold Man Units. The colossus disappears when Berserker Units are destroyed. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Immortal War God&gt;</span><span style="color: #645252;font-size:18px">Summons a small Statue of Mars at the beginning of the battle with an HP Regeneration equal to 50% of that of the Statue of Mars. Also increases your Stronghold units' Unit DMG by 8%. The statue disappears when Berserker units are destroyed. When the Statue of Mars is on the battlefield, inflicts Deter on all enemies for 6s every 15s.</span>
 
 ### 6th Skill (or 5th): Huge Statue
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Immortal War God&gt;</span><span style="color: #645252;font-size:18px">Buff effect offered by Statue of Mars increased by 50%. When the Statue of Mars is on the battlefield, deters all enemies every 15s, lasting for 6s</span>

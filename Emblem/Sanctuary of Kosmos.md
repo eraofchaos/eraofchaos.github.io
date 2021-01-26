@@ -2,7 +2,7 @@
 title: "Holy Emblem - Sanctuary of Kosmos"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Holy Emblem - Order - Sanctuary of Kosmos"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Sanctuary of Kosmos.md"
 toc: false

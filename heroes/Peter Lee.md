@@ -3,7 +3,7 @@ title: "Peter Lee"
 permalink: /heroes/Peter Lee/
 excerpt: "Peter Lee is a legendary pirate, but he seems to prefer treasure and adventure to burning and pillaging. Rumor has it that him and his fleet have been to the end of the world."
 heroID: 61801
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Peter Lee"
 toc: true

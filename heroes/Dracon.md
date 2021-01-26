@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer."
 heroID: 61202
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Dracon"
 toc: true

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Witness"
 permalink: /Emblem/Witness/
 excerpt: "Holy Emblem - Goodness - Witness"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Witness.md"
 toc: false

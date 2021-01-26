@@ -2,7 +2,7 @@
 title: "Holy Emblem - Core of the Global Network"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "Holy Emblem - Neutral - Core of the Global Network"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Core of the Global Network.md"
 toc: false

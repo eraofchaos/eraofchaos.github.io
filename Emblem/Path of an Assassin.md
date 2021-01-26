@@ -2,7 +2,7 @@
 title: "Holy Emblem - Path of an Assassin"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Holy Emblem - Neutral - Path of an Assassin"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Path of an Assassin.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars."
 heroID: 61301
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Mutare"
 toc: true

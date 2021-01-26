@@ -2,7 +2,7 @@
 title: "Hellish Armor"
 permalink: /equipment/Hellish Armor/
 excerpt: "Hellish Armor"
-last_modified_at: 2021-01-25
+last_modified_at: 2021-01-26
 lang: en
 ref: "Hellish Armor.md"
 toc: false

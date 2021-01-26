@@ -2,7 +2,7 @@
 title: "Holy Emblem - Green Prophet"
 permalink: /Emblem/Green Prophet/
 excerpt: "Holy Emblem - Goodness - Green Prophet"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Green Prophet.md"
 toc: false

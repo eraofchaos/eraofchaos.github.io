@@ -2,7 +2,7 @@
 title: "Holy Emblem - Tarnum's Culpability"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Holy Emblem - Neutral - Tarnum's Culpability"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Tarnum's Culpability.md"
 toc: false

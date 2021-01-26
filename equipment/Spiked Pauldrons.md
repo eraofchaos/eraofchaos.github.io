@@ -2,7 +2,7 @@
 title: "Spiked Pauldrons"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Spiked Pauldrons"
-last_modified_at: 2021-01-25
+last_modified_at: 2021-01-26
 lang: en
 ref: "Spiked Pauldrons.md"
 toc: false

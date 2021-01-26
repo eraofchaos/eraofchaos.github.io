@@ -2,7 +2,7 @@
 title: "Holy Emblem - Broken Prophecy"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Holy Emblem - Evil - Broken Prophecy"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Broken Prophecy.md"
 toc: false

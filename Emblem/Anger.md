@@ -2,7 +2,7 @@
 title: "Holy Emblem - Anger"
 permalink: /Emblem/Anger/
 excerpt: "Holy Emblem - Chaos - Anger"
-last_modified_at: 2020-12-23
+last_modified_at: 2021-01-26
 lang: en
 ref: "Anger.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Empire's Pauldrons"
 permalink: /equipment/Empire's Pauldrons/
 excerpt: "Empire's Pauldrons"
-last_modified_at: 2021-01-25
+last_modified_at: 2021-01-26
 lang: en
 ref: "Empire's Pauldrons.md"
 toc: false

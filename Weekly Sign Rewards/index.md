@@ -2,11 +2,37 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-26
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 7  Cove Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **15 Feb** | **3x Sea Elemental**  | A squad of Sea Elemental joined your army and you become stronger! |
+  | **16 Feb** | **3x Regnan Pirates**  | A squad of Regnan Pirates joined your army and you become stronger! |
+  | **17 Feb** | **100x gem**  | The creatures of the pirate harbor present you a small cluster of Diamonds! |
+  | **18 Feb** | **3x Cove Faction Chest**  | Your harbor corps has presented you with a number of valuable treasure chests! |
+  | **19 Feb** | **3x Cove Roster runes**  | Your harbor corps has presented you with a number of valuable treasure runes! |
+  | **20 Feb** | **6x Regnan Serpent**  | A squad of Dragon Turtle joined your army and you become stronger! |
+  | **21 Feb** | **3x Universal Hero Tokens**  | The creatures of the Pirate Cove present you with a Universal (Hero) Token! |
+
+
+#### 2021 Week 6  Rampart Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **8 Feb** | **5x Centaur**  | A squad of Centaur joined your army and you become stronger! |
+  | **9 Feb** | **3x Wood Elf**  | A squad of Wood Elf joined your army and you become stronger! |
+  | **10 Feb** | **3x Pegasus**  | A squad of Pegasus joined your army and you become stronger! |
+  | **11 Feb** | **3x Unicorn**  | A squad of Unicorn joined your army and you become stronger! |
+  | **12 Feb** | **3x Dwarf**  | A squad of Dwarf joined your army and you become stronger! |
+  | **13 Feb** | **3x Dendroid Guard**  | A squad of Dendroid Guard joined your army and you become stronger! |
+  | **14 Feb** | **5x Ryland**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
+
 
 #### 2021 Week 5  Stronghold Week
 

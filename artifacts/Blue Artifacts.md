@@ -2,7 +2,7 @@
 title: "Blue Artifacts"
 permalink: /artifacts/Blue Artifacts/
 excerpt: "Lis of all Blue Artifacts  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-26
 lang: en
 ref: "Blue Artifacts.md"
 toc: false
