@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-#### Schedule (from 19th Jan 2021 to 8th Feb 2021)
+#### Schedule (from 26 Jan 2021 to 24 February 2021)
 
   | Nr |  From  |  To |     Activity    |    Activity Description    | Rewards |
   |:---|:-------|:----|:----------------|:--------------------------:|:-------:|
@@ -74,7 +74,7 @@ classes: wide
   | 59   | 8 Feb | 11 Feb | Novice Duel | The new Duel of Champions begins! Push yourself beyond your limits and win incredible rewards! | [ Astro Silver](/Items/con_949/), [ Heaven-Cast Stone](/Items/art_42/), [ Gold Key](/Items/con_721/),  | 
 
 
-#### SHOP Schedule (from 19th Jan 2021 to 8th Feb 2021)
+#### SHOP Schedule (from 26 Jan 2021 to 22 February 2021)
 
   | Nr |  From  |  To |     Shop Action   |    Shop Action Description    | Discount | Item | 
   |:---|:-------|:----|:------------------|:-----------------------------:|:--------:|:----:|
