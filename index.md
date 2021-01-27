@@ -9,40 +9,34 @@ sidebar:
   nav: "docs"
 ---
 
-{% capture notice-update20210119 %}
-**Client update** (version 142):
+{% capture notice-update20210126 %}
+**Client update** (version **142(3020)**):
 
-* Corrected year to 2021 in "©2019-2021 Ubisoft Entertainment. Might and Magic, Heroes. All Rights Reserved." for login screen
-* New "Wild Overlord Avatar Frame"
-* New Avatars: Waspwort, Titan and Chaos Hydra
-* Unit [Hydra](https://eraofchaos.github.io/units/Hydra/) and [Giant](https://eraofchaos.github.io/units/Giant/) got Awakening. See [Chaos Hydra Soul Stone](https://eraofchaos.github.io/Items/unt_91/) and [Titan Soul Stone](https://eraofchaos.github.io/Items/unt_128/)
-* New SR+ Unit: [Waspwort](https://eraofchaos.github.io/units/Waspwort/) with new "Hive Swamp" nest in Barracks
-* New calculation for battles (version 10120)
+* New Commander and SSR unit in February. Awakening for Berserker is expected in February. See Schedule for more info.
+* New feature Client Speed-Up is available from 17th level (near by your avatar at right top corner).
+* Added Huawei authentication/login
+* New Team Avatars: like Springtime Sword. Ghostly Return, ...
+* New Avatars: Patroller of the Sea for new SSR Cove Unit.
+* Unit [Iron Golem](https://eraofchaos.github.io/units/Iron Golem/) got Awakening.
+* No changes in calculation for battles (version 10120)
 * No changes in Heroes
 
 **EraOfChaos Wiki update**:
 
-* Wiki updated to the latest state
-* Wiki contains a new [Artifacs](https://eraofchaos.github.io/artifacts/).
-* Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 7 February 2021) 
-* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 8 February 2021).
+* Wiki updated to the latest state, reported issues corrected.
+* Wiki contains **equipments** for each Unit.
+* Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 21 February 2021) 
+* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 24 February 2021).
+* Changed search engine on Wiki. Google search should provide better results for users.
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">19 Jan 2021 Update:</h4>
-  {{ notice-update20210119 | markdownify }}
+  <h4 class="no_toc">26 January 2021 Update:</h4>
+  {{ notice-update20210126 | markdownify }}
 </div>
 
 
-{% capture notice-update20210115 %}
-Released <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">15 Jan 2021 Update:</h4>
-  {{ notice-update20210115 | markdownify }}
-</div>
 
 
 

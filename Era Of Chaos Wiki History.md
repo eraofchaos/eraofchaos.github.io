@@ -12,6 +12,17 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210115 %}
+Released <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">15 Jan 2021 Update:</h4>
+  {{ notice-update20210115 | markdownify }}
+</div>
+
+
+
 {% capture notice-update20210112 %}
 **Client update** (version 142):
 

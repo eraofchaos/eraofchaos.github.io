@@ -12,6 +12,33 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+
+{% capture notice-update20210119 %}
+**Client update** (version 142):
+
+* Corrected year to 2021 in "Â©2019-2021 Ubisoft Entertainment. Might and Magic, Heroes. All Rights Reserved." for login screen
+* New "Wild Overlord Avatar Frame"
+* New Avatars: Waspwort, Titan and Chaos Hydra
+* Unit [Hydra](https://eraofchaos.github.io/units/Hydra/) and [Giant](https://eraofchaos.github.io/units/Giant/) got Awakening. See [Chaos Hydra Soul Stone](https://eraofchaos.github.io/Items/unt_91/) and [Titan Soul Stone](https://eraofchaos.github.io/Items/unt_128/)
+* New SR+ Unit: [Waspwort](https://eraofchaos.github.io/units/Waspwort/) with new "Hive Swamp" nest in Barracks
+* New calculation for battles (version 10120)
+* No changes in Heroes
+
+**EraOfChaos Wiki update**:
+
+* Wiki updated to the latest state
+* Wiki contains a new [Artifacs](https://eraofchaos.github.io/artifacts/).
+* Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 7 February 2021) 
+* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 8 February 2021).
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">19 Jan 2021 Update:</h4>
+  {{ notice-update20210119 | markdownify }}
+</div>
+
+
 {% capture notice-update20210112 %}
 **Client update** (version 142):
 
