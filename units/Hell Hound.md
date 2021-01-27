@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Units Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Hell Hound"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 827.0
+ **Base HP: 827.0**
 
- **Base ATK:** 77.8
+ **Base ATK: 77.8**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

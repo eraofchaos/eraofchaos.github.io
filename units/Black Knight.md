@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Black Knight"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 910.0
+ **Base HP: 910.0**
 
- **Base ATK:** 115.8
+ **Base ATK: 115.8**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

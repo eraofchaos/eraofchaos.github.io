@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Units Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 5770.0
+ **Base HP: 5770.0**
 
- **Base ATK:** 758.0
+ **Base ATK: 758.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

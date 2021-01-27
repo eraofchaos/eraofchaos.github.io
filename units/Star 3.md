@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Star 3 - List of Star 3in Era of Chaos"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Star 3"
 toc: false

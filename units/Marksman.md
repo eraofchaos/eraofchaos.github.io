@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Marksman"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Warrior, Mage and Priest work well together. 
 
 ## Basic stats
- **Base HP:** 438.4
+ **Base HP: 438.4**
 
- **Base ATK:** 85.3
+ **Base ATK: 85.3**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

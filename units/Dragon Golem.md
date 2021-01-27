@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Units The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Dragon Golem"
 toc: true
@@ -35,9 +35,11 @@ toc: true
  **Position :** Group protection at the beginning of battle reduces DMG taken. Ultimate and unbeatable back-row defense. Ranged control, intimidates all units on the battlefield
 
 ## Basic stats
- **Base HP:** 9616.7
+ **Base HP: 9616.7**
 
- **Base ATK:** 396.0
+ **Base ATK: 396.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

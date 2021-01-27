@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Units Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Ogre"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 2523.0
+ **Base HP: 2523.0**
 
- **Base ATK:** 107.6
+ **Base ATK: 107.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

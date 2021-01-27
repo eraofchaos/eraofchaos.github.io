@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Units The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Regnan Serpent"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Powerful tank and enemy deterrent
 
 ## Basic stats
- **Base HP:** 3027.0
+ **Base HP: 3027.0**
 
- **Base ATK:** 100.9
+ **Base ATK: 100.9**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

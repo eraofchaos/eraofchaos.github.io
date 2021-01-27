@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Units They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** Multi-staged attack, high burst damage, high DPS
 
 ## Basic stats
- **Base HP:** 695.0
+ **Base HP: 695.0**
 
- **Base ATK:** 99.3
+ **Base ATK: 99.3**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Units A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** Multi-staged attack, high burst damage, high DPS
 
 ## Basic stats
- **Base HP:** 7128.0
+ **Base HP: 7128.0**
 
- **Base ATK:** 1267.1
+ **Base ATK: 1267.1**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

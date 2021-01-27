@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Mermaid"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Strong healer. Offers great buffs at the start of battle
 
 ## Basic stats
- **Base HP:** 1648.0
+ **Base HP: 1648.0**
 
- **Base ATK:** 185.0
+ **Base ATK: 185.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

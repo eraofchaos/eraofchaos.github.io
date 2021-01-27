@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Units She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Regnan Archer"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Crit Hit and penetration. Battle reaper
 
 ## Basic stats
- **Base HP:** 1245.0
+ **Base HP: 1245.0**
 
- **Base ATK:** 235.5
+ **Base ATK: 235.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

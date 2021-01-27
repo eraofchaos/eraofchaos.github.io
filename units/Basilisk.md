@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Units Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Basilisk"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 2859.0
+ **Base HP: 2859.0**
 
- **Base ATK:** 121.1
+ **Base ATK: 121.1**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

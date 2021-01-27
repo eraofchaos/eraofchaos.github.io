@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Units Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Dwarf"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Increasing your troops' max health makes them stronger at resisting attack.
 
 ## Basic stats
- **Base HP:** 1324.0
+ **Base HP: 1324.0**
 
- **Base ATK:** 54.6
+ **Base ATK: 54.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

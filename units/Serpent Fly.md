@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Units Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Serpent Fly"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 1615.0
+ **Base HP: 1615.0**
 
- **Base ATK:** 178.3
+ **Base ATK: 178.3**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

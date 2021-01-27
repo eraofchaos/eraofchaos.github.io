@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Units An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Storm Elemental"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Static Marker, Extra damage, Multiple attacks on a single target
 
 ## Basic stats
- **Base HP:** 662.0
+ **Base HP: 662.0**
 
- **Base ATK:** 99.2
+ **Base ATK: 99.2**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

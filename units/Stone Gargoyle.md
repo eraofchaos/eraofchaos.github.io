@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Warrior, Mage and Priest work well together. 
 
 ## Basic stats
- **Base HP:** 300.0
+ **Base HP: 300.0**
 
- **Base ATK:** 48.0
+ **Base ATK: 48.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

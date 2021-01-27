@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Units Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Goblin"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 761.0
+ **Base HP: 761.0**
 
- **Base ATK:** 82.7
+ **Base ATK: 82.7**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Judicator"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Group aura used for restoring HP. Aura protects against damage. Holy ground strengthens your allies
 
 ## Basic stats
- **Base HP:** 6109.4
+ **Base HP: 6109.4**
 
- **Base ATK:** 565.7
+ **Base ATK: 565.7**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

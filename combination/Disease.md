@@ -2,7 +2,7 @@
 title: "Combination Info for Disease"
 permalink: /combination/Disease/
 excerpt: "Combination Info - Disease. Units and Heroes Formation."
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Disease.md"
 toc: false

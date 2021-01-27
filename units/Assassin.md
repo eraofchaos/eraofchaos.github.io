@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Assassin"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Assassination damage, weakens healing, throws knives, and silences enemies.
 
 ## Basic stats
- **Base HP:** 2119.0
+ **Base HP: 2119.0**
 
- **Base ATK:** 269.0
+ **Base ATK: 269.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

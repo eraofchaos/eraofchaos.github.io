@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Units Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Troll"
 toc: true
@@ -31,9 +31,11 @@ toc: true
  **Short description:** Single-target assault. Burst damage.
 
 ## Basic stats
- **Base HP:** 9051.0
+ **Base HP: 9051.0**
 
- **Base ATK:** 1018.3
+ **Base ATK: 1018.3**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Units Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves."
 unitID: 908
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Ice Demon"
 toc: true
@@ -33,9 +33,11 @@ toc: true
  **Position :** Control archer. Buffs allies.
 
 ## Basic stats
- **Base HP:** 5996.3
+ **Base HP: 5996.3**
 
- **Base ATK:** 565.7
+ **Base ATK: 565.7**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

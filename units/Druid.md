@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Units They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Druid"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
 ## Basic stats
- **Base HP:** 844.0
+ **Base HP: 844.0**
 
- **Base ATK:** 102.6
+ **Base ATK: 102.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Mage support. Increases Caster Units' ATK speed and freezes enemies' attacks
 
 ## Basic stats
- **Base HP:** 1715.0
+ **Base HP: 1715.0**
 
- **Base ATK:** 208.5
+ **Base ATK: 208.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

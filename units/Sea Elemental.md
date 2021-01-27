@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** Powerful crowd control, great restoration
 
 ## Basic stats
- **Base HP:** 1446.0
+ **Base HP: 1446.0**
 
- **Base ATK:** 201.8
+ **Base ATK: 201.8**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

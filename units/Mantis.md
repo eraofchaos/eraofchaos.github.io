@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Units Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Mantis"
 toc: true
@@ -33,9 +33,11 @@ toc: true
  **Position :** 
 
 ## Basic stats
- **Base HP:** 6336.0
+ **Base HP: 6336.0**
 
- **Base ATK:** 1140.4
+ **Base ATK: 1140.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

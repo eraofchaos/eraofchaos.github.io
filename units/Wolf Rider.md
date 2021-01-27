@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Units Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Wolf Rider"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 860.0
+ **Base HP: 860.0**
 
- **Base ATK:** 72.8
+ **Base ATK: 72.8**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

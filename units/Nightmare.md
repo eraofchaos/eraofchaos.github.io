@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Units Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Nightmare"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Defense support. Increases Inferno units' all-round power
 
 ## Basic stats
- **Base HP:** 2691.0
+ **Base HP: 2691.0**
 
- **Base ATK:** 84.1
+ **Base ATK: 84.1**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

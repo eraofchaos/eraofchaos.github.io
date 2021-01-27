@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Units Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Cyclops"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 5091.0
+ **Base HP: 5091.0**
 
- **Base ATK:** 678.8
+ **Base ATK: 678.8**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

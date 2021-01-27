@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Units A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Manticore"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 1917.0
+ **Base HP: 1917.0**
 
- **Base ATK:** 174.9
+ **Base ATK: 174.9**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

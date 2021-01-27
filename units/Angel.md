@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Angel"
 toc: true
@@ -38,9 +38,11 @@ toc: true
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
 ## Basic stats
- **Base HP:** 5431.0
+ **Base HP: 5431.0**
 
- **Base ATK:** 792.0
+ **Base ATK: 792.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

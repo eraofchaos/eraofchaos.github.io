@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Units The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Firebird"
 toc: true
@@ -38,9 +38,11 @@ toc: true
  **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
 
 ## Basic stats
- **Base HP:** 4525.0
+ **Base HP: 4525.0**
 
- **Base ATK:** 848.5
+ **Base ATK: 848.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

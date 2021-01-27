@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Naga"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
 ## Basic stats
- **Base HP:** 811.0
+ **Base HP: 811.0**
 
- **Base ATK:** 79.4
+ **Base ATK: 79.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

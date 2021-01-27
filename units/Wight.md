@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Units Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Wight"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 662.0
+ **Base HP: 662.0**
 
- **Base ATK:** 107.5
+ **Base ATK: 107.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

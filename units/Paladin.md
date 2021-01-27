@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Units Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Paladin"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units.
 
 ## Basic stats
- **Base HP:** 2589.0
+ **Base HP: 2589.0**
 
- **Base ATK:** 128.0
+ **Base ATK: 128.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Units Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Pegasus"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Deals extra damage to any slowed enemies.
 
 ## Basic stats
- **Base HP:** 1144.0
+ **Base HP: 1144.0**
 
- **Base ATK:** 195.1
+ **Base ATK: 195.1**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

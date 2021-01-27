@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Units Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Griffin"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Increasing your movement speed makes your armies much more effective.
 
 ## Basic stats
- **Base HP:** 1850.0
+ **Base HP: 1850.0**
 
- **Base ATK:** 151.4
+ **Base ATK: 151.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

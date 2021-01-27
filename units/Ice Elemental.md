@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Units A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Ice Elemental"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Controlling Mage, Coats everything in ice, Supporting ice wall
 
 ## Basic stats
- **Base HP:** 744.0
+ **Base HP: 744.0**
 
- **Base ATK:** 111.0
+ **Base ATK: 111.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Medusa"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 1144.0
+ **Base HP: 1144.0**
 
- **Base ATK:** 202.0
+ **Base ATK: 202.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

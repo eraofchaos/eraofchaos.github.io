@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Units The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Stone Elemental"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Stuns everyone within range, Deadly Split, High toughness
 
 ## Basic stats
- **Base HP:** 2825.0
+ **Base HP: 2825.0**
 
- **Base ATK:** 121.0
+ **Base ATK: 121.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

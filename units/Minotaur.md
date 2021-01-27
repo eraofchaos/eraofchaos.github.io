@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Minotaur"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 2725.0
+ **Base HP: 2725.0**
 
- **Base ATK:** 108.0
+ **Base ATK: 108.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

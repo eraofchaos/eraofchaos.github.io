@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Units The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Harpy"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 860.0
+ **Base HP: 860.0**
 
- **Base ATK:** 74.0
+ **Base ATK: 74.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

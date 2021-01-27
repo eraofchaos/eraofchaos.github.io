@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Monk"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Warrior, Mage and Priest work well together.  
 
 ## Basic stats
- **Base HP:** 662.0
+ **Base HP: 662.0**
 
- **Base ATK:** 102.6
+ **Base ATK: 102.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

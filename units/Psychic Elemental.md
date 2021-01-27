@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Units An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Ranged damage, Reduces enemy mana upon death, Core attacker
 
 ## Basic stats
- **Base HP:** 1749.0
+ **Base HP: 1749.0**
 
- **Base ATK:** 212.0
+ **Base ATK: 212.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

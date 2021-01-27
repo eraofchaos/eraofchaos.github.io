@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Units Shark Trainer"
 unitID: 9909
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Shark Trainer"
 toc: true
@@ -35,9 +35,11 @@ toc: true
  **Position :** Summon powerful sharks that grow stronger the longer they do battle, allowing them to tear their opponents apart.
 
 ## Basic stats
- **Base HP:** 5430.0
+ **Base HP: 5430.0**
 
- **Base ATK:** 792.0
+ **Base ATK: 792.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

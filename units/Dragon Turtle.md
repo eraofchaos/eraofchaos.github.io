@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** Powerful tank, takes damage for allied units.
 
 ## Basic stats
- **Base HP:** 12000.0
+ **Base HP: 12000.0**
 
- **Base ATK:** 362.0
+ **Base ATK: 362.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

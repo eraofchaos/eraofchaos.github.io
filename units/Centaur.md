@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Units Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Centaur"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Deals extra damage to any slowed enemies.
 
 ## Basic stats
- **Base HP:** 2691.0
+ **Base HP: 2691.0**
 
- **Base ATK:** 111.0
+ **Base ATK: 111.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

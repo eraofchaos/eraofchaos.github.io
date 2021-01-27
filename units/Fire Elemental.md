@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Units An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Provides Burns, Blows up the whole field, Enhances when killing enemies
 
 ## Basic stats
- **Base HP:** 1682.0
+ **Base HP: 1682.0**
 
- **Base ATK:** 195.0
+ **Base ATK: 195.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

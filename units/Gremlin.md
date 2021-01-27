@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Units Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Gremlin"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Warrior, Mage and Priest work well together. 
 
 ## Basic stats
- **Base HP:** 645.0
+ **Base HP: 645.0**
 
- **Base ATK:** 84.4
+ **Base ATK: 84.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

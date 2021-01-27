@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Mummy"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Position :** Disease carrier. Decreases healing of all hostile units
 
 ## Basic stats
- **Base HP:** 2691.0
+ **Base HP: 2691.0**
 
- **Base ATK:** 141.0
+ **Base ATK: 141.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

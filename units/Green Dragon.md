@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Units Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Green Dragon"
 toc: true
@@ -38,9 +38,11 @@ toc: true
  **Recommend:** Water magic can deal extra damage to your enemies with its bleeding effect.
 
 ## Basic stats
- **Base HP:** 4525.0
+ **Base HP: 4525.0**
 
- **Base ATK:** 1018.2
+ **Base ATK: 1018.2**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Orc"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 662.0
+ **Base HP: 662.0**
 
- **Base ATK:** 82.7
+ **Base ATK: 82.7**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

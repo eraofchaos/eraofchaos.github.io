@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -38,9 +38,11 @@ toc: true
  **Recommend:** Deals extra damage to any slowed enemies.
 
 ## Basic stats
- **Base HP:** 438.4
+ **Base HP: 438.4**
 
- **Base ATK:** 92.4
+ **Base ATK: 92.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

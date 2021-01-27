@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Units As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Regnan Seer"
 toc: true
@@ -35,9 +35,11 @@ toc: true
  **Position :** The soul of the Cove Faction. Good at AoE blasts
 
 ## Basic stats
- **Base HP:** 5091.0
+ **Base HP: 5091.0**
 
- **Base ATK:** 1006.9
+ **Base ATK: 1006.9**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

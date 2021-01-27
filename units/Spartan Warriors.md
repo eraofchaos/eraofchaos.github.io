@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Spartan Warriors"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Crushing shield stuns enemies. Death of a unit inspires allies.
 
 ## Basic stats
- **Base HP:** 2825.0
+ **Base HP: 2825.0**
 
- **Base ATK:** 216.0
+ **Base ATK: 216.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

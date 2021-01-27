@@ -2,7 +2,7 @@
 title: "Combination Info for Burning"
 permalink: /combination/Burning/
 excerpt: "Combination Info - Burning. Units and Heroes Formation."
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Burning.md"
 toc: false

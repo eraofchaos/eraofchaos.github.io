@@ -3,7 +3,7 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Units She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Evil Sorceress"
 toc: true
@@ -33,9 +33,11 @@ toc: true
  **Position :** 
 
 ## Basic stats
- **Base HP:** 5770.0
+ **Base HP: 5770.0**
 
- **Base ATK:** 633.6
+ **Base ATK: 633.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -35,9 +35,11 @@ toc: true
  **Position :** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
 ## Basic stats
- **Base HP:** 9504.0
+ **Base HP: 9504.0**
 
- **Base ATK:** 1029.5
+ **Base ATK: 1029.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

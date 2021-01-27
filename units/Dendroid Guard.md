@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Dendroid Guard"
 toc: true
@@ -38,9 +38,11 @@ toc: true
  **Recommend:** Deals extra damage to any slowed enemies.
 
 ## Basic stats
- **Base HP:** 10182.0
+ **Base HP: 10182.0**
 
- **Base ATK:** 396.0
+ **Base ATK: 396.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

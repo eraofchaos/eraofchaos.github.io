@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Units Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Iron Golem"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Increasing your movement speed makes your armies much more effective.
 
 ## Basic stats
- **Base HP:** 1850.0
+ **Base HP: 1850.0**
 
- **Base ATK:** 151.4
+ **Base ATK: 151.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

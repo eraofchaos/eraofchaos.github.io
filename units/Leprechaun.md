@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Leprechaun"
 toc: true
@@ -34,9 +34,11 @@ toc: true
  **Recommend:** 
 
 ## Basic stats
- **Base HP:** 3162.0
+ **Base HP: 3162.0**
 
- **Base ATK:** 134.5
+ **Base ATK: 134.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Units A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Sprite"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** Explodes on death, Silences target, Increases hero starting mana
 
 ## Basic stats
- **Base HP:** 993.0
+ **Base HP: 993.0**
 
- **Base ATK:** 69.5
+ **Base ATK: 69.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

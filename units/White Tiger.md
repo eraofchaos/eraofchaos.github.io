@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Units White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "White Tiger"
 toc: true
@@ -29,9 +29,11 @@ toc: true
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
 ## Basic stats
- **Base HP:** 6138.8
+ **Base HP: 6138.8**
 
- **Base ATK:** 1078.2
+ **Base ATK: 1078.2**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

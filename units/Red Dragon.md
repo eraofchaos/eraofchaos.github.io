@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Red Dragon"
 toc: true
@@ -32,9 +32,11 @@ toc: true
  **Position :** The Dragon roars, making immune to state controls. The real dragon's blood resonates with the rest of its kin
 
 ## Basic stats
- **Base HP:** 5431.0
+ **Base HP: 5431.0**
 
- **Base ATK:** 769.3
+ **Base ATK: 769.3**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

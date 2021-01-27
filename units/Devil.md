@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Devil"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
 ## Basic stats
- **Base HP:** 5431.0
+ **Base HP: 5431.0**
 
- **Base ATK:** 792.0
+ **Base ATK: 792.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|

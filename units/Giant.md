@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Units These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-01-26
+last_modified_at: 2021-01-27
 lang: en
 ref: "Giant"
 toc: true
@@ -36,9 +36,11 @@ toc: true
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
 ## Basic stats
- **Base HP:** 5431.0
+ **Base HP: 5431.0**
 
- **Base ATK:** 792.0
+ **Base ATK: 792.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
