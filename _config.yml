@@ -63,8 +63,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
+#  - jemoji
 
 
 #    - label: "Twitter"
