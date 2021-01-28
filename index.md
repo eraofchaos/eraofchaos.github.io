@@ -9,6 +9,19 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210128 %}
+Released HotSpot Spells for complete 2021! You can find it in **Magic Guild** -> **Spell Prayer**
+### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
+#### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/Hotspot/HotSpot Artifact _2021/)
+#### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">28 January 2021 Update:</h4>
+  {{ notice-update20210128 | markdownify }}
+</div>
+
+
 {% capture notice-update20210126 %}
 **Client update** (version **142(3020)**):
 
@@ -60,7 +73,9 @@ You will find here:
 
 ### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 7 February 2021)
 ### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 8 February 2021)
-### <i class="fas fa-calendar-day"/> [Hotspot Artifacs](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
+### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
+#### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/Hotspot/HotSpot Artifact _2021/)
+#### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
 
 <br/>
 <br/>
