@@ -3,8 +3,8 @@
     url: /posts/
 #  - title: "Categories"
 #    url: /categories/
-  - title: "Tags"
-    url: /tags/
+#  - title: "Tags"
+#    url: /tags/
   - title: "About"
     url: /about/
 
@@ -56,8 +56,7 @@ docs:
         url: /it/
       - title: "Español"
         url: /es/
-#      - title: "中文"
-#        url: /cn/
+
 
 # documentation links
 docs_de:
@@ -126,8 +125,7 @@ docs_fr:
         url: /it/
       - title: "Español"
         url: /es/
-#      - title: "中文"
-#        url: /cn/
+
 
 # documentation links
 docs_ru:
@@ -162,8 +160,7 @@ docs_ru:
         url: /it/
       - title: "Español"
         url: /es/
-#      - title: "中文"
-#        url: /cn/
+
 
 # documentation links
 docs_it:
@@ -198,8 +195,7 @@ docs_it:
         url: /it/
       - title: "Español"
         url: /es/
-#      - title: "中文"
-#        url: /cn/
+
 
 # documentation links
 docs_es:
@@ -234,21 +230,3 @@ docs_es:
         url: /it/
       - title: "Español"
         url: /es/
-#      - title: "中文"
-#        url: /cn/
-
-
-#      - title: "中文"
-#        url: /cn/
-#+        ru = "Русский",
-#+        de = "Deutsch",
-#        th = "ไทย",
-#+        cn = "中文",
-#        jp = "日本語",
-#+        fr = "Français",
-#        zh_tw = "繁體中文",
-#+        en = "English",
-#+        it = "Italiano",
-#        br = "Português brasileiro",
-#        in = "Bahasa Indonesia",
-#+        es = "Español"
