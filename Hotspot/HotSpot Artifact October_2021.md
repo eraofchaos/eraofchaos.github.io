@@ -1,10 +1,10 @@
 ---
 title: "Hotspot Artifacts for October 2021"
-permalink: /Hotspot/Hotspot October_2021/
-excerpt: "Artifact Hotspot for October 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-01-26
+permalink: /Hotspot/HotSpot Artifact October_2021/
+excerpt: "Artifacts Hotspot for October 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
+last_modified_at: 2021-01-28
 lang: en
-ref: "Hotspot October_2021.md"
+ref: "HotSpot Artifact October_2021.md"
 toc: false
 classes: wide
 ---
@@ -13,7 +13,7 @@ classes: wide
 
   HotSpot **Artifacts** for **2021:**
 
-  [January](/Hotspot/Hotspot January_2021/){: .btn .btn--success} [February](/Hotspot/Hotspot February_2021/){: .btn .btn--warning} [March](/Hotspot/Hotspot March_2021/){: .btn .btn--danger} [April](/Hotspot/Hotspot April_2021/){: .btn .btn--info} [May](/Hotspot/Hotspot May_2021/){: .btn .btn--primary} [June](/Hotspot/Hotspot June_2021/){: .btn .btn--success} [July](/Hotspot/Hotspot July_2021/){: .btn .btn--warning} [August](/Hotspot/Hotspot August_2021/){: .btn .btn--danger} [September](/Hotspot/Hotspot September_2021/){: .btn .btn--info} [October](/Hotspot/Hotspot October_2021/){: .btn .btn--primary} [November](/Hotspot/Hotspot November_2021/){: .btn .btn--success} [December](/Hotspot/Hotspot December_2021/){: .btn .btn--warning} 
+  [January](/Hotspot/HotSpot Artifact January_2021/){: .btn .btn--success} [February](/Hotspot/HotSpot Artifact February_2021/){: .btn .btn--warning} [March](/Hotspot/HotSpot Artifact March_2021/){: .btn .btn--danger} [April](/Hotspot/HotSpot Artifact April_2021/){: .btn .btn--info} [May](/Hotspot/HotSpot Artifact May_2021/){: .btn .btn--primary} [June](/Hotspot/HotSpot Artifact June_2021/){: .btn .btn--success} [July](/Hotspot/HotSpot Artifact July_2021/){: .btn .btn--warning} [August](/Hotspot/HotSpot Artifact August_2021/){: .btn .btn--danger} [September](/Hotspot/HotSpot Artifact September_2021/){: .btn .btn--info} [October](/Hotspot/HotSpot Artifact October_2021/){: .btn .btn--primary} [November](/Hotspot/HotSpot Artifact November_2021/){: .btn .btn--success} [December](/Hotspot/HotSpot Artifact December_2021/){: .btn .btn--warning} 
 
 ## October 2021:
 
@@ -24,6 +24,8 @@ classes: wide
   | 11 - 18 Oct | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
   | 18 - 25 Oct | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
   | 25 Oct - 1 Nov | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+
+
 
 
 ## Artifact Hotspot Rules
