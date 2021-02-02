@@ -9,6 +9,45 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210202 %}
+**Client update** (version **142 (3061)**):
+
+* New date for Auto-Chess (2nd time): from 9 February up to 22 February 2021. 
+New changes in Auto-Chess: Increased amount of coin per lose (on initial phase) from 1 to 2 and from 2 to 3.
+* Added 100+ [Items](https://eraofchaos.github.io/Items/) into game
+* Changed login screen, logon button and "snow mode" is activated
+* New battle calculation (version 10121)
+* About 30 changes in Skills (some adjustments + new one)
+* New Hero Skin Spring Festival Celebrations for [Gelu](https://eraofchaos.github.io/heroes/Gelu/)
+* New Hero Skin Spring Festival Celebrations for [Xeron](https://eraofchaos.github.io/heroes/Xeron/)
+* New Hero Skin Heart-pounding Summer for [Cassanbel](https://eraofchaos.github.io/heroes/Cassanbel/)
+* New Avatar Frame - Deep Ice Crystal (Deep Ice Crystal Avatar Frame)
+* New Hero Avatars: Gelu Spring Festival Celebrations, Xeron Spring Festival Celebrations, Heart-pounding Summer
+* New Unit Avatars: Death Howler Avatar, Shark Trainer Avatar
+* Added Second Artifact selection for Weekly HotSpot (wiki will be updated soon)
+* Added "Cyclops King Soul Stone" to shop
+* New feature with 2 Realms (released date is unknown): 
+ - Phantom Realm (Get rewards after defeating other players' phantoms) 
+ - Wizard Realm (Get rewards after completing wizards' requests)
+* NEW Market Tickets (released date is unknown):
+ - You have "Market Entry Ticket" (Necessary item to enter the market and buy ingredients. Can be claimed from the mailbox after spending Energy).
+ - I'll post later information about it. I can see nice rewards from it.
+* and more...
+
+
+**EraOfChaos Wiki update**:
+
+* Wiki updated to the latest state, reported issues corrected.
+* Wiki contains **equipments** for each Unit.
+* Updated [Faction Future Week Info](/Weekly Sign Rewards/) (up to 7 March 2021) 
+* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 1 March 2021).
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">2 February 2021 Update:</h4>
+  {{ notice-update20210202 | markdownify }}
+</div>
 
 {% capture notice-update20210128 %}
 Released HotSpot Spells for complete 2021! You can find it in **Magic Guild** -> **Spell Prayer**
@@ -24,32 +63,7 @@ Released HotSpot Spells for complete 2021! You can find it in **Magic Guild** ->
 </div>
 
 
-{% capture notice-update20210126 %}
-**Client update** (version **142(3020)**):
 
-* New Commander and SSR unit in February. Awakening for Berserker is expected in February. See Schedule for more info.
-* New feature Client Speed-Up is available from 17th level (near by your avatar at right top corner).
-* Added Huawei authentication/login
-* New Team Avatars: like Springtime Sword. Ghostly Return, ...
-* New Avatars: Patroller of the Sea for new SSR Cove Unit.
-* Unit [Iron Golem](https://eraofchaos.github.io/units/Iron Golem/) got Awakening.
-* No changes in calculation for battles (version 10120)
-* No changes in Heroes
-
-**EraOfChaos Wiki update**:
-
-* Wiki updated to the latest state, reported issues corrected.
-* Wiki contains **equipments** for each Unit.
-* Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 21 February 2021) 
-* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 24 February 2021).
-* Changed search engine on Wiki. Google search should provide better results for users.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">26 January 2021 Update:</h4>
-  {{ notice-update20210126 | markdownify }}
-</div>
 
 
 
