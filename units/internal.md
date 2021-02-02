@@ -13,5 +13,5 @@ classes: wide
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
-  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |
-  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-----------|
+  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |  Awaken Name  |
+  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:--------------|
