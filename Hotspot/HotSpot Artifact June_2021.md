@@ -19,11 +19,11 @@ classes: wide
 
   |  Date  |    First Artifact     |   Second Artifact    |
   |:-------|:----------------------|:--------------------:|
-  | 31 May - 7 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
-  | 7 - 14 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
-  | 14 - 21 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 21 - 28 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
-  | 28 Jun - 5 Jul | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 31 May - 7 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 7 - 14 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
+  | 14 - 21 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 21 - 28 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 28 Jun - 5 Jul | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
 
 
 

@@ -19,11 +19,11 @@ classes: wide
 
   |  Date  |    First Artifact     |   Second Artifact    |
   |:-------|:----------------------|:--------------------:|
-  | 28 Jun - 5 Jul | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 5 - 12 Jul | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
-  | 12 - 19 Jul | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
-  | 19 - 26 Jul | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 26 Jul - 2 Aug | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
+  | 28 Jun - 5 Jul | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
+  | 5 - 12 Jul | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 12 - 19 Jul | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 19 - 26 Jul | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 26 Jul - 2 Aug | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
 
 
 

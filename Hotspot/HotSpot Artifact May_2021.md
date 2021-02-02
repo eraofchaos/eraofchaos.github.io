@@ -19,12 +19,12 @@ classes: wide
 
   |  Date  |    First Artifact     |   Second Artifact    |
   |:-------|:----------------------|:--------------------:|
-  | 26 Apr - 3 May | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
-  | 3 - 10 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
-  | 10 - 17 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 17 - 24 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
-  | 24 - 31 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 31 May - 7 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 26 Apr - 3 May | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 3 - 10 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 10 - 17 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 17 - 24 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 24 - 31 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 31 May - 7 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
 
 
 
