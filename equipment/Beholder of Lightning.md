@@ -2,7 +2,7 @@
 title: "Beholder of Lightning"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Beholder of Lightning"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Beholder of Lightning.md"
 toc: false

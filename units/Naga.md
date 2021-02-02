@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Units These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Naga"
 toc: true
@@ -91,7 +91,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Naga unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random enemy units within a large range and reduces their DEF by 10% for 10s. Stacks up to 4 times.</span><span style="color: black">
 
 ### Regular Skill 1 : Cruelty
- **Description:** <span style="color: #645252;font-size:20px">Naga's attack is guaranteed to hit. Increases Naga's Life Drain by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, its Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The target suffers higher damage as its HP reduces, taking up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> increased damage.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Naga's attack is guaranteed to hit. Increases Naga's Life Drain by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The lower the target's HP, the more damage it will take, up to a maximum of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Attack. Increases Naga's Unit DMG and Unit DMG Reduction by 50% each when fighting against Dungeon units.</span><span style="color: black">
 
 ### Regular Skill 2 : Blade Queen
  **Description:** <span style="color: #645252;font-size:20px">When a Naga unit is on the battlefield, it increases all friendly Offensive units' Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Naga's Crit DMG will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -108,12 +108,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Tower (Tower Roster)
-* Offensive (Offensive Unit Roster)
+* **Tower**  (Tower Roster)
+* **Offensive**  (Offensive Unit Roster)
 
 ### Hero Bonus
-* [Kendal](/heroes/Kendal/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

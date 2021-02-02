@@ -2,7 +2,7 @@
 title: "Claws of Raging Flame"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "Claws of Raging Flame"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Claws of Raging Flame.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Alloy Claw"
 permalink: /equipment/Alloy Claw/
 excerpt: "Alloy Claw"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Alloy Claw.md"
 toc: false

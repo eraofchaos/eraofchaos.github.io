@@ -2,7 +2,7 @@
 title: "Poisoned Claw"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Poisoned Claw"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Poisoned Claw.md"
 toc: false

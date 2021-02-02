@@ -2,7 +2,7 @@
 title: "Alloy Armor"
 permalink: /equipment/Alloy Armor/
 excerpt: "Alloy Armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Alloy Armor.md"
 toc: false

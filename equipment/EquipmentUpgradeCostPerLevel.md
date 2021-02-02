@@ -2,7 +2,7 @@
 title: "Equipment Upgrade Gold Cost Per Level"
 permalink: /equipment/EquipmentUpgradeCostPerLevel/
 excerpt: "Equipment Upgrade Gold Cost Per Level"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "EquipmentUpgradeCostPerLevel.md"
 toc: false

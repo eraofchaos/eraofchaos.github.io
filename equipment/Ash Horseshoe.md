@@ -2,7 +2,7 @@
 title: "Ash Horseshoe"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Ash Horseshoe"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ash Horseshoe.md"
 toc: false

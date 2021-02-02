@@ -2,7 +2,7 @@
 title: "Main Control Stick"
 permalink: /equipment/Main Control Stick/
 excerpt: "Main Control Stick"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Main Control Stick.md"
 toc: false

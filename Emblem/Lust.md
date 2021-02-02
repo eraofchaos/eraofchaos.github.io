@@ -2,7 +2,7 @@
 title: "Holy Emblem - Lust"
 permalink: /Emblem/Lust/
 excerpt: "Holy Emblem - Chaos - Lust"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Lust.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bone Spike"
 permalink: /equipment/Bone Spike/
 excerpt: "Bone Spike"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Bone Spike.md"
 toc: false

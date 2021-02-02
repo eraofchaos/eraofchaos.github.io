@@ -2,7 +2,7 @@
 title: "Pauldrons of Lightness"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "Pauldrons of Lightness"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Pauldrons of Lightness.md"
 toc: false

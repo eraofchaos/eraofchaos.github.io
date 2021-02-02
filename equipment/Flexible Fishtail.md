@@ -2,7 +2,7 @@
 title: "Flexible Fishtail"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "Flexible Fishtail"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Flexible Fishtail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Draconic Skull"
 permalink: /equipment/Draconic Skull/
 excerpt: "Draconic Skull"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Draconic Skull.md"
 toc: false

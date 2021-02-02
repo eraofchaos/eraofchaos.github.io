@@ -3,7 +3,7 @@ title: "Dragon Mutare"
 permalink: /heroes/Dragon Mutare/
 excerpt: "After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
 heroID: 61302
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Dragon Mutare"
 toc: true

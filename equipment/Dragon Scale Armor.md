@@ -2,7 +2,7 @@
 title: "Dragon Scale Armor"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "Dragon Scale Armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Dragon Scale Armor.md"
 toc: false

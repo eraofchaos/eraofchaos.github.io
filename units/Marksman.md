@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Marksman"
 toc: true
@@ -112,12 +112,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Castle (Castle Roster)
-* Ranged (Ranged Roster)
+* **Castle**  (Castle Roster)
+* **Ranged**  (Ranged Roster)
 
 ### Hero Bonus
-* [Roland](/heroes/Roland/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -2,7 +2,7 @@
 title: "Leather Pauldrons"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Leather Pauldrons"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Leather Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Strong and Flexible Waistplate"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Strong and Flexible Waistplate"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Strong and Flexible Waistplate.md"
 toc: false

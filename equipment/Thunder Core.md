@@ -2,7 +2,7 @@
 title: "Thunder Core"
 permalink: /equipment/Thunder Core/
 excerpt: "Thunder Core"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Thunder Core.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Greed"
 permalink: /Emblem/Greed/
 excerpt: "Holy Emblem - Chaos - Greed"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Greed.md"
 toc: false

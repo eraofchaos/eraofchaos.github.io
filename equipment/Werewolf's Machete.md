@@ -2,7 +2,7 @@
 title: "Werewolf's Machete"
 permalink: /equipment/Werewolf's Machete/
 excerpt: "Werewolf's Machete"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Werewolf's Machete.md"
 toc: false

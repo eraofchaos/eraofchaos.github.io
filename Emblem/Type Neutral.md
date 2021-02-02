@@ -2,7 +2,7 @@
 title: "Holy Emblem - Neutral"
 permalink: /Emblem/Type Neutral/
 excerpt: "Holy Emblem - Neutral"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "typeNeutral.md"
 toc: false

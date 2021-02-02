@@ -2,7 +2,7 @@
 title: "Rune of Ritual"
 permalink: /equipment/Rune of Ritual/
 excerpt: "Rune of Ritual"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Rune of Ritual.md"
 toc: false

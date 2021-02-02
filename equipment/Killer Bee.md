@@ -2,7 +2,7 @@
 title: "Killer Bee"
 permalink: /equipment/Killer Bee/
 excerpt: "Killer Bee"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Killer Bee.md"
 toc: false

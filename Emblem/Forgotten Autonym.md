@@ -2,7 +2,7 @@
 title: "Holy Emblem - Forgotten Autonym"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Holy Emblem - Evil - Forgotten Autonym"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Forgotten Autonym.md"
 toc: false

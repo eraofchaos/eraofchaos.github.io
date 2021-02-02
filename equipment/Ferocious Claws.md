@@ -2,7 +2,7 @@
 title: "Ferocious Claws"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Ferocious Claws"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ferocious Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Vortex Scar"
 permalink: /equipment/Vortex Scar/
 excerpt: "Vortex Scar"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Vortex Scar.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Units A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Black Dragon"
 toc: true
@@ -98,7 +98,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Immune to spell damage done by all heroes. Increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time &lt;Dragon Breath&gt; is cast throughout the entire battle, up to 4 stacks.</span><span style="color: black">
 
 ### Regular Skill 3 : Heat Resistance
- **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px">&lt;Burned&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit's damage is increased by 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px">&lt;Burned&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit DMG is increased by 50% and unit DMG reduction increased by 50%.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
  **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
@@ -106,13 +106,13 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Dungeon (Dungeon Rosters)
-* Defensive (Defensive Unit Roster)
+* **Dungeon**  (Dungeon Rosters)
+* **Defensive**  (Defensive Unit Roster)
 
 ### Hero Bonus
-* [Mephala](/heroes/Mephala/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

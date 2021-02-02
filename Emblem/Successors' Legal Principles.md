@@ -2,7 +2,7 @@
 title: "Holy Emblem - Successors' Legal Principles"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Holy Emblem - Neutral - Successors' Legal Principles"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Successors' Legal Principles.md"
 toc: false

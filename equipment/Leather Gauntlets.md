@@ -2,7 +2,7 @@
 title: "Leather Gauntlets"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Leather Gauntlets"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Leather Gauntlets.md"
 toc: false

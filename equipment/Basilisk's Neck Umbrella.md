@@ -2,7 +2,7 @@
 title: "Basilisk's Neck Umbrella"
 permalink: /equipment/Basilisk's Neck Umbrella/
 excerpt: "Basilisk's Neck Umbrella"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Basilisk's Neck Umbrella.md"
 toc: false

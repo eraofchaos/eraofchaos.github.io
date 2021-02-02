@@ -2,7 +2,7 @@
 title: "Unholy Shield"
 permalink: /equipment/Unholy Shield/
 excerpt: "Unholy Shield"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Unholy Shield.md"
 toc: false

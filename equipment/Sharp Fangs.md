@@ -2,7 +2,7 @@
 title: "Sharp Fangs"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Sharp Fangs"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sharp Fangs.md"
 toc: false

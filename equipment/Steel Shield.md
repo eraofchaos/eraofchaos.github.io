@@ -2,7 +2,7 @@
 title: "Steel Shield"
 permalink: /equipment/Steel Shield/
 excerpt: "Steel Shield"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Steel Shield.md"
 toc: false

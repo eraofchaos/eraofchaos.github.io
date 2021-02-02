@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Units Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Pikeman"
 toc: true
@@ -111,12 +111,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Castle (Castle Roster)
-* Offensive (Offensive Unit Roster)
+* **Castle**  (Castle Roster)
+* **Offensive**  (Offensive Unit Roster)
 
 ### Hero Bonus
-* [Kendal](/heroes/Kendal/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -2,7 +2,7 @@
 title: "Warrior's Scapula"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Warrior's Scapula"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Warrior's Scapula.md"
 toc: false

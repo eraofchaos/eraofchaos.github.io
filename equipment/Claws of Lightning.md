@@ -2,7 +2,7 @@
 title: "Claws of Lightning"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Claws of Lightning"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Claws of Lightning.md"
 toc: false

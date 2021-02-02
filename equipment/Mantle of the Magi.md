@@ -2,7 +2,7 @@
 title: "Mantle of the Magi"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "Mantle of the Magi"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Mantle of the Magi.md"
 toc: false

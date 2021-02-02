@@ -2,7 +2,7 @@
 title: "Phosphorus Butterfly Wings"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Phosphorus Butterfly Wings"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Phosphorus Butterfly Wings.md"
 toc: false

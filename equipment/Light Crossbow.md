@@ -2,7 +2,7 @@
 title: "Light Crossbow"
 permalink: /equipment/Light Crossbow/
 excerpt: "Light Crossbow"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Light Crossbow.md"
 toc: false

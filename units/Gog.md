@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Units Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Gog"
 toc: true
@@ -111,11 +111,11 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Inferno (Inferno Roster)
-* Caster (Caster Roster)
+* **Inferno**  (Inferno Roster)
+* **Caster**  (Caster Roster)
 
 ### Hero Bonus
-* [Xeron](/heroes/Xeron/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

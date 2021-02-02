@@ -2,7 +2,7 @@
 title: "Pauldrons of Wolf-tongue"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Pauldrons of Wolf-tongue"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false

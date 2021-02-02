@@ -2,7 +2,7 @@
 title: "Holy Emblem - Griffin Wings"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Holy Emblem - Order - Griffin Wings"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Griffin Wings.md"
 toc: false

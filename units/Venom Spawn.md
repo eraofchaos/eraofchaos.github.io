@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Units These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Venom Spawn"
 toc: true
@@ -108,12 +108,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Inferno (Inferno Roster)
-* Defensive (Defensive Unit Roster)
+* **Inferno**  (Inferno Roster)
+* **Defensive**  (Defensive Unit Roster)
 
 ### Hero Bonus
-* [Mephala](/heroes/Mephala/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

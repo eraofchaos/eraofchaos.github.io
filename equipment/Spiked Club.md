@@ -2,7 +2,7 @@
 title: "Spiked Club"
 permalink: /equipment/Spiked Club/
 excerpt: "Spiked Club"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Spiked Club.md"
 toc: false

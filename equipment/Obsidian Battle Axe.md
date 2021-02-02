@@ -2,7 +2,7 @@
 title: "Obsidian Battle Axe"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Obsidian Battle Axe"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Obsidian Battle Axe.md"
 toc: false

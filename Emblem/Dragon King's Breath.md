@@ -2,7 +2,7 @@
 title: "Holy Emblem - Dragon King's Breath"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Holy Emblem - Evil - Dragon King's Breath"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Dragon King's Breath.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Piercing Spear"
 permalink: /equipment/Piercing Spear/
 excerpt: "Piercing Spear"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Piercing Spear.md"
 toc: false

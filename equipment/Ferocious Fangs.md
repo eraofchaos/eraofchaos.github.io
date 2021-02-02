@@ -2,7 +2,7 @@
 title: "Ferocious Fangs"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Ferocious Fangs"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ferocious Fangs.md"
 toc: false

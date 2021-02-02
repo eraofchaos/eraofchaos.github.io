@@ -2,7 +2,7 @@
 title: "Fire in the Abyss"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Fire in the Abyss"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Fire in the Abyss.md"
 toc: false

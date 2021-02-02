@@ -2,7 +2,7 @@
 title: "Lightning's armor"
 permalink: /equipment/Lightning's armor/
 excerpt: "Lightning's armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Lightning's armor.md"
 toc: false

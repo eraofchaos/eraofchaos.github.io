@@ -2,7 +2,7 @@
 title: "Combination Info"
 permalink: /combination/
 excerpt: "Combination Info. Units and Heroes Formation."
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Vow Helmet"
 permalink: /equipment/Vow Helmet/
 excerpt: "Vow Helmet"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Vow Helmet.md"
 toc: false

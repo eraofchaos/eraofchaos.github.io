@@ -2,7 +2,7 @@
 title: "Ironclad Skin"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Ironclad Skin"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ironclad Skin.md"
 toc: false

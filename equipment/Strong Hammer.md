@@ -2,7 +2,7 @@
 title: "Strong Hammer"
 permalink: /equipment/Strong Hammer/
 excerpt: "Strong Hammer"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Strong Hammer.md"
 toc: false

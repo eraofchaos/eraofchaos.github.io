@@ -2,7 +2,7 @@
 title: "Gauntlets of Hearth Fire"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "Gauntlets of Hearth Fire"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bone Necklet"
 permalink: /equipment/Bone Necklet/
 excerpt: "Bone Necklet"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Bone Necklet.md"
 toc: false

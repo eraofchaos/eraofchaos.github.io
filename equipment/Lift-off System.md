@@ -2,7 +2,7 @@
 title: "Lift-off System"
 permalink: /equipment/Lift-off System/
 excerpt: "Lift-off System"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Lift-off System.md"
 toc: false

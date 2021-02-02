@@ -2,7 +2,7 @@
 title: "Core of Magma"
 permalink: /equipment/Core of Magma/
 excerpt: "Core of Magma"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Core of Magma.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Medusa"
 toc: true
@@ -107,14 +107,14 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Dungeon (Dungeon Rosters)
-* Ranged (Ranged Roster)
+* **Dungeon**  (Dungeon Rosters)
+* **Ranged**  (Ranged Roster)
 
 ### Hero Bonus
-* [Gelu](/heroes/Gelu/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sephinroth](/heroes/Sephinroth/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sephinroth](/heroes/Sephinroth/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -128,40 +128,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Medusa Queen
 
- **Awaking Description:** null
+ **Awaking Description:** In the dark, gloomy Dungeon stand countless statues running toward the light, appearing almost lifelike when contrasted by the snow-white scales.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Medusa with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Medusa Queen souls in the Underground: Levels 16-2 and 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Medusa and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Snake Locks
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Stone Gaze&gt;</span><span style="color: #645252;font-size:18px"> Additionally inflicts Petrify on surrounding enemies within a certain range. Duration is half that of &lt;Stone Gaze&gt;.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Petrification Frenzy
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Stone Gaze&gt;</span><span style="color: #645252;font-size:18px"> Additionally inflicts Petrify on a random Melee unit. Duration is half that of &lt;Stone Gaze&gt;.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Debilitating Poison
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Snake Venom Arrow&gt;</span><span style="color: #645252;font-size:18px"> Shoots a poison arrow every 20s, decreasing the target unit's Attack Speed by 20% and Unit DMG by 25% for 10s.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Bone-deep Poison
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Snake Venom Arrow&gt;</span><span style="color: #645252;font-size:18px"> Shoots a poison arrow every 20s, decreasing the target unit's healing received by 30% and Unit DMG Reduction by 25% for 10s.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Undying Love
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Skin&gt;</span><span style="color: #645252;font-size:18px"> When Medusa's HP falls to 50%, it will gain a shield that that blocks damage 6 times and restores 30% of own Max HP. Can only be triggered once per battle.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Last Chance
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Skin&gt;</span><span style="color: #645252;font-size:18px"> When Medusa's HP falls to 50%, increases own Unit DMG by 50%, Attack Speed by 50%, and Critical Hit DMG by 60% for 5s. Can only be triggered once per battle.</span>
 
 ## Technical info
  **runart:** 0

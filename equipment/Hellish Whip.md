@@ -2,7 +2,7 @@
 title: "Hellish Whip"
 permalink: /equipment/Hellish Whip/
 excerpt: "Hellish Whip"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Hellish Whip.md"
 toc: false

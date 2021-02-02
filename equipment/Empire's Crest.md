@@ -2,7 +2,7 @@
 title: "Empire's Crest"
 permalink: /equipment/Empire's Crest/
 excerpt: "Empire's Crest"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Empire's Crest.md"
 toc: false

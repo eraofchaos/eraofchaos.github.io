@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Units Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Angel"
 toc: true
@@ -110,12 +110,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Castle (Castle Roster)
-* Offensive (Offensive Unit Roster)
+* **Castle**  (Castle Roster)
+* **Offensive**  (Offensive Unit Roster)
 
 ### Hero Bonus
-* [Kendal](/heroes/Kendal/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

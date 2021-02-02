@@ -2,7 +2,7 @@
 title: "Headplate of Speed"
 permalink: /equipment/Headplate of Speed/
 excerpt: "Headplate of Speed"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Headplate of Speed.md"
 toc: false

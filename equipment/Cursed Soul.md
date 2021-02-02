@@ -2,7 +2,7 @@
 title: "Cursed Soul"
 permalink: /equipment/Cursed Soul/
 excerpt: "Cursed Soul"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Cursed Soul.md"
 toc: false

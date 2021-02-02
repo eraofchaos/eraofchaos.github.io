@@ -2,7 +2,7 @@
 title: "Magic Ox Hoof"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Magic Ox Hoof"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Magic Ox Hoof.md"
 toc: false

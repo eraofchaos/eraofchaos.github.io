@@ -2,7 +2,7 @@
 title: "Pauldrons of Flame"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "Pauldrons of Flame"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Pauldrons of Flame.md"
 toc: false

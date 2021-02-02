@@ -2,7 +2,7 @@
 title: "Protective Gloves"
 permalink: /equipment/Protective Gloves/
 excerpt: "Protective Gloves"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Protective Gloves.md"
 toc: false

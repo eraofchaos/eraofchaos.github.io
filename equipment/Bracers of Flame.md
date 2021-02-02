@@ -2,7 +2,7 @@
 title: "Bracers of Flame"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Bracers of Flame"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Bracers of Flame.md"
 toc: false

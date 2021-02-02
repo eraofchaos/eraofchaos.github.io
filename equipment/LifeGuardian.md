@@ -2,7 +2,7 @@
 title: "LifeGuardian"
 permalink: /equipment/LifeGuardian/
 excerpt: "LifeGuardian"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "LifeGuardian.md"
 toc: false

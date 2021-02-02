@@ -2,7 +2,7 @@
 title: "Light Armor of Requiem"
 permalink: /equipment/Light Armor of Requiem/
 excerpt: "Light Armor of Requiem"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Light Armor of Requiem.md"
 toc: false

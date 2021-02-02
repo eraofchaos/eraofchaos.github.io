@@ -2,7 +2,7 @@
 title: "Soul Gem"
 permalink: /equipment/Soul Gem/
 excerpt: "Soul Gem"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Soul Gem.md"
 toc: false

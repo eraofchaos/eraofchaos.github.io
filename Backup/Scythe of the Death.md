@@ -2,7 +2,7 @@
 title: "Backup - Scythe of the Death"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Scythe of the Death"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Scythe of the Death.md"
 toc: false

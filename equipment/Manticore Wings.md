@@ -2,7 +2,7 @@
 title: "Manticore Wings"
 permalink: /equipment/Manticore Wings/
 excerpt: "Manticore Wings"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Manticore Wings.md"
 toc: false

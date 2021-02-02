@@ -2,7 +2,7 @@
 title: "Holy Emblem - Gear of Time"
 permalink: /Emblem/Gear of Time/
 excerpt: "Holy Emblem - Goodness - Gear of Time"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Gear of Time.md"
 toc: false

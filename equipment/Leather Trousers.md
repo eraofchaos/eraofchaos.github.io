@@ -2,7 +2,7 @@
 title: "Leather Trousers"
 permalink: /equipment/Leather Trousers/
 excerpt: "Leather Trousers"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Leather Trousers.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Werewolf's Square Shield"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Werewolf's Square Shield"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Werewolf's Square Shield.md"
 toc: false

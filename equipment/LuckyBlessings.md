@@ -2,7 +2,7 @@
 title: "LuckyBlessings"
 permalink: /equipment/LuckyBlessings/
 excerpt: "LuckyBlessings"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "LuckyBlessings.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Ancient Fire"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Holy Emblem - Order - Ancient Fire"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ancient Fire.md"
 toc: false

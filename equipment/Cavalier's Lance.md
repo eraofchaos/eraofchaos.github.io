@@ -2,7 +2,7 @@
 title: "Cavalier's Lance"
 permalink: /equipment/Cavalier's Lance/
 excerpt: "Cavalier's Lance"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Cavalier's Lance.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pupil of Death"
 permalink: /equipment/Pupil of Death/
 excerpt: "Pupil of Death"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Pupil of Death.md"
 toc: false

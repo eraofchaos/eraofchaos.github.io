@@ -2,7 +2,7 @@
 title: "Nightmare Pupil"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Nightmare Pupil"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Nightmare Pupil.md"
 toc: false

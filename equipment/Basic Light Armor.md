@@ -2,7 +2,7 @@
 title: "Basic Light Armor"
 permalink: /equipment/Basic Light Armor/
 excerpt: "Basic Light Armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Basic Light Armor.md"
 toc: false

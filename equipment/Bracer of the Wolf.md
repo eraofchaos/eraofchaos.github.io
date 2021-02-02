@@ -2,7 +2,7 @@
 title: "Bracer of the Wolf"
 permalink: /equipment/Bracer of the Wolf/
 excerpt: "Bracer of the Wolf"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Bracer of the Wolf.md"
 toc: false

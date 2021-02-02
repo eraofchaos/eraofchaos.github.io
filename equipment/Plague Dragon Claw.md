@@ -2,7 +2,7 @@
 title: "Plague Dragon Claw"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Plague Dragon Claw"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Plague Dragon Claw.md"
 toc: false

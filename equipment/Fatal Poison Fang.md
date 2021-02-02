@@ -2,7 +2,7 @@
 title: "Fatal Poison Fang"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Fatal Poison Fang"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Fatal Poison Fang.md"
 toc: false

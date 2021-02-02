@@ -2,7 +2,7 @@
 title: "Serrated Claws"
 permalink: /equipment/Serrated Claws/
 excerpt: "Serrated Claws"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Serrated Claws.md"
 toc: false

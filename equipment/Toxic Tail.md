@@ -2,7 +2,7 @@
 title: "Toxic Tail"
 permalink: /equipment/Toxic Tail/
 excerpt: "Toxic Tail"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Toxic Tail.md"
 toc: false

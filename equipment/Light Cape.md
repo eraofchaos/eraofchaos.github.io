@@ -2,7 +2,7 @@
 title: "Light Cape"
 permalink: /equipment/Light Cape/
 excerpt: "Light Cape"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Light Cape.md"
 toc: false

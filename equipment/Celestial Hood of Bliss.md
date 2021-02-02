@@ -2,7 +2,7 @@
 title: "Celestial Hood of Bliss"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Celestial Hood of Bliss"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Celestial Hood of Bliss.md"
 toc: false

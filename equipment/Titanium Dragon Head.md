@@ -2,7 +2,7 @@
 title: "Titanium Dragon Head"
 permalink: /equipment/Titanium Dragon Head/
 excerpt: "Titanium Dragon Head"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Titanium Dragon Head.md"
 toc: false

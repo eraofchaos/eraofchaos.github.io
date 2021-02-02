@@ -2,7 +2,7 @@
 title: "Iron Pauldrons"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "Iron Pauldrons"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Iron Pauldrons.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Units Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Griffin"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Class:** [Charging](/units/Unit Class Charging)
 
- **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
  **Faction:** [Castle](/units/Fraction Castle)
 
@@ -110,12 +110,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Castle (Castle Roster)
-* Charging (Charging Roster)
+* **Castle**  (Castle Roster)
+* **Charging**  (Charging Roster)
 
 ### Hero Bonus
-* [Mullich](/heroes/Mullich/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Unicorn"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Class:** [Charging](/units/Unit Class Charging)
 
- **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
  **Faction:** [Rampart](/units/Fraction Rampart)
 
@@ -111,12 +111,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Rampart (Rampart Roster)
-* Charging (Charging Roster)
+* **Rampart**  (Rampart Roster)
+* **Charging**  (Charging Roster)
 
 ### Hero Bonus
-* [Mullich](/heroes/Mullich/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/heroes/Gem/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

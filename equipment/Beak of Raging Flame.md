@@ -2,7 +2,7 @@
 title: "Beak of Raging Flame"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Beak of Raging Flame"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Beak of Raging Flame.md"
 toc: false

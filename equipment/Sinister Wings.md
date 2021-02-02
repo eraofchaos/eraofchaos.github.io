@@ -2,7 +2,7 @@
 title: "Sinister Wings"
 permalink: /equipment/Sinister Wings/
 excerpt: "Sinister Wings"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sinister Wings.md"
 toc: false

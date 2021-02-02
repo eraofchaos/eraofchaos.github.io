@@ -2,7 +2,7 @@
 title: "Core of Water Elemental"
 permalink: /equipment/Core of Water Elemental/
 excerpt: "Core of Water Elemental"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Core of Water Elemental.md"
 toc: false

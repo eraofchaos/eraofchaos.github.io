@@ -2,7 +2,7 @@
 title: "Tribal Talisman"
 permalink: /equipment/Tribal Talisman/
 excerpt: "Tribal Talisman"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Tribal Talisman.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Forged Bracers"
 permalink: /equipment/Forged Bracers/
 excerpt: "Forged Bracers"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Forged Bracers.md"
 toc: false

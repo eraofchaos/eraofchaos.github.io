@@ -2,7 +2,7 @@
 title: "Crystal Hooves"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Crystal Hooves"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Crystal Hooves.md"
 toc: false

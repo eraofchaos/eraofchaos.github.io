@@ -2,7 +2,7 @@
 title: "Leather Belt"
 permalink: /equipment/Leather Belt/
 excerpt: "Leather Belt"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Leather Belt.md"
 toc: false

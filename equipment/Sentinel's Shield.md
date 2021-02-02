@@ -2,7 +2,7 @@
 title: "Sentinel's Shield"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Sentinel's Shield"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sentinel's Shield.md"
 toc: false

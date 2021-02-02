@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Units A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sprite"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Class:** [Charging](/units/Unit Class Charging)
 
- **Class Description:** Charging units attack enemies in the back row, inflicting additional damage to Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
  **Faction:** [Conflux](/units/Fraction Conflux)
 
@@ -107,12 +107,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Conflux (Conflux Roster)
-* Charging (Charging Roster)
+* **Conflux**  (Conflux Roster)
+* **Charging**  (Charging Roster)
 
 ### Hero Bonus
-* [Mullich](/heroes/Mullich/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

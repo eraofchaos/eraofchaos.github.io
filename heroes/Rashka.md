@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
 heroID: 60802
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Rashka"
 toc: true

@@ -2,7 +2,7 @@
 title: "Leather Band"
 permalink: /equipment/Leather Band/
 excerpt: "Leather Band"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Leather Band.md"
 toc: false

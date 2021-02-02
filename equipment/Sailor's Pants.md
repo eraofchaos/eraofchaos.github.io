@@ -2,7 +2,7 @@
 title: "Sailor's Pants"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Sailor's Pants"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sailor's Pants.md"
 toc: false

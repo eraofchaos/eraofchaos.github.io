@@ -2,7 +2,7 @@
 title: "Trousers of Decay"
 permalink: /equipment/Trousers of Decay/
 excerpt: "Trousers of Decay"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Trousers of Decay.md"
 toc: false

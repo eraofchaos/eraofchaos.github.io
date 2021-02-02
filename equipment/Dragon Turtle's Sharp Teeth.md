@@ -2,7 +2,7 @@
 title: "Dragon Turtle's Sharp Teeth"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Dragon Turtle's Sharp Teeth"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

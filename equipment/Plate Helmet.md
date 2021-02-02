@@ -2,7 +2,7 @@
 title: "Plate Helmet"
 permalink: /equipment/Plate Helmet/
 excerpt: "Plate Helmet"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Plate Helmet.md"
 toc: false

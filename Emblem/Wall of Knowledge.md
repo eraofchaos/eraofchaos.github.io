@@ -2,7 +2,7 @@
 title: "Holy Emblem - Wall of Knowledge"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Holy Emblem - Goodness - Wall of Knowledge"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Wall of Knowledge.md"
 toc: false

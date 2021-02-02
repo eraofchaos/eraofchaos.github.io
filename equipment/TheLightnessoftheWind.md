@@ -2,7 +2,7 @@
 title: "TheLightnessoftheWind"
 permalink: /equipment/TheLightnessoftheWind/
 excerpt: "TheLightnessoftheWind"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "TheLightnessoftheWind.md"
 toc: false

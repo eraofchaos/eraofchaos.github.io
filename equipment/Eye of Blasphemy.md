@@ -2,7 +2,7 @@
 title: "Eye of Blasphemy"
 permalink: /equipment/Eye of Blasphemy/
 excerpt: "Eye of Blasphemy"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Eye of Blasphemy.md"
 toc: false

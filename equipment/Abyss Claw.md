@@ -2,7 +2,7 @@
 title: "Abyss Claw"
 permalink: /equipment/Abyss Claw/
 excerpt: "Abyss Claw"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Abyss Claw.md"
 toc: false

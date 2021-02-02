@@ -2,7 +2,7 @@
 title: "Crystal Crown of Magic"
 permalink: /equipment/Crystal Crown of Magic/
 excerpt: "Crystal Crown of Magic"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Crystal Crown of Magic.md"
 toc: false

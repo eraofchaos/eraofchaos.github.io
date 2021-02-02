@@ -2,7 +2,7 @@
 title: "Seafaring Pauldrons"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Seafaring Pauldrons"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Seafaring Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Cap of Prestige"
 permalink: /equipment/Cap of Prestige/
 excerpt: "Cap of Prestige"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Cap of Prestige.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Strange Crystal Ornament"
 permalink: /equipment/Strange Crystal Ornament/
 excerpt: "Strange Crystal Ornament"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Strange Crystal Ornament.md"
 toc: false

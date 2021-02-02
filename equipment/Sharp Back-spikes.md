@@ -2,7 +2,7 @@
 title: "Sharp Back-spikes"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "Sharp Back-spikes"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sharp Back-spikes.md"
 toc: false

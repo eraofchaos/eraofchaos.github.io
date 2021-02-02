@@ -2,7 +2,7 @@
 title: "Ripper's Bone Spear"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Ripper's Bone Spear"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ripper's Bone Spear.md"
 toc: false

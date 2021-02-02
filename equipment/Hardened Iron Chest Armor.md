@@ -2,7 +2,7 @@
 title: "Hardened Iron Chest Armor"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "Hardened Iron Chest Armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Hardened Iron Chest Armor.md"
 toc: false

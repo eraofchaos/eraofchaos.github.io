@@ -2,7 +2,7 @@
 title: "Charmed Horn"
 permalink: /equipment/Charmed Horn/
 excerpt: "Charmed Horn"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Charmed Horn.md"
 toc: false

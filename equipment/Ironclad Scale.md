@@ -2,7 +2,7 @@
 title: "Ironclad Scale"
 permalink: /equipment/Ironclad Scale/
 excerpt: "Ironclad Scale"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ironclad Scale.md"
 toc: false

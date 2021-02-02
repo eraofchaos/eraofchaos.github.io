@@ -2,7 +2,7 @@
 title: "Combination Info for Deterrence"
 permalink: /combination/Deterrence/
 excerpt: "Combination Info - Deterrence. Units and Heroes Formation."
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Deterrence.md"
 toc: false

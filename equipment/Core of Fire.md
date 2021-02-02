@@ -2,7 +2,7 @@
 title: "Core of Fire"
 permalink: /equipment/Core of Fire/
 excerpt: "Core of Fire"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Core of Fire.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Crystal Longhorn"
 permalink: /equipment/Crystal Longhorn/
 excerpt: "Crystal Longhorn"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Crystal Longhorn.md"
 toc: false

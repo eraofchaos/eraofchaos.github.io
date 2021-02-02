@@ -2,7 +2,7 @@
 title: "Spiked Tortoise Shell"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Spiked Tortoise Shell"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Spiked Tortoise Shell.md"
 toc: false

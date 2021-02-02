@@ -2,7 +2,7 @@
 title: "Boulder"
 permalink: /equipment/Boulder/
 excerpt: "Boulder"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Boulder.md"
 toc: false

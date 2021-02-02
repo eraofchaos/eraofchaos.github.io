@@ -2,7 +2,7 @@
 title: "Emerald Arm Ring"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Emerald Arm Ring"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Emerald Arm Ring.md"
 toc: false

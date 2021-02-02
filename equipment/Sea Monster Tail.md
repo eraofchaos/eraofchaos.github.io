@@ -2,7 +2,7 @@
 title: "Sea Monster Tail"
 permalink: /equipment/Sea Monster Tail/
 excerpt: "Sea Monster Tail"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sea Monster Tail.md"
 toc: false

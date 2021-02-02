@@ -2,7 +2,7 @@
 title: "Branch of Vitality"
 permalink: /equipment/Branch of Vitality/
 excerpt: "Branch of Vitality"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Branch of Vitality.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Short Robe of Verdurous Leaves"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Short Robe of Verdurous Leaves"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

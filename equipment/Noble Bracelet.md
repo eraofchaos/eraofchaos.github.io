@@ -2,7 +2,7 @@
 title: "Noble Bracelet"
 permalink: /equipment/Noble Bracelet/
 excerpt: "Noble Bracelet"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Noble Bracelet.md"
 toc: false

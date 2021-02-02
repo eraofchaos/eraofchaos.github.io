@@ -2,7 +2,7 @@
 title: "Enchanted Tail"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Enchanted Tail"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Enchanted Tail.md"
 toc: false

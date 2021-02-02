@@ -2,7 +2,7 @@
 title: "Magic Claw"
 permalink: /equipment/Magic Claw/
 excerpt: "Magic Claw"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Magic Claw.md"
 toc: false

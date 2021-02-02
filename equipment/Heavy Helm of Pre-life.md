@@ -2,7 +2,7 @@
 title: "Heavy Helm of Pre-life"
 permalink: /equipment/Heavy Helm of Pre-life/
 excerpt: "Heavy Helm of Pre-life"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Heavy Helm of Pre-life.md"
 toc: false

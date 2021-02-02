@@ -2,7 +2,7 @@
 title: "Toxic Fang"
 permalink: /equipment/Toxic Fang/
 excerpt: "Toxic Fang"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Toxic Fang.md"
 toc: false

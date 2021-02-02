@@ -2,7 +2,7 @@
 title: "Enchanted Gloves"
 permalink: /equipment/Enchanted Gloves/
 excerpt: "Enchanted Gloves"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Enchanted Gloves.md"
 toc: false

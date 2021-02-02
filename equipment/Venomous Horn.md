@@ -2,7 +2,7 @@
 title: "Venomous Horn"
 permalink: /equipment/Venomous Horn/
 excerpt: "Venomous Horn"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Venomous Horn.md"
 toc: false

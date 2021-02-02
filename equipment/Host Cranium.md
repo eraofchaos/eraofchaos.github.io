@@ -2,7 +2,7 @@
 title: "Host Cranium"
 permalink: /equipment/Host Cranium/
 excerpt: "Host Cranium"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Host Cranium.md"
 toc: false

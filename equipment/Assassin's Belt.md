@@ -2,7 +2,7 @@
 title: "Assassin's Belt"
 permalink: /equipment/Assassin's Belt/
 excerpt: "Assassin's Belt"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Assassin's Belt.md"
 toc: false

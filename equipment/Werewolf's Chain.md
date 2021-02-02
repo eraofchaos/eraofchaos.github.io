@@ -2,7 +2,7 @@
 title: "Werewolf's Chain"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "Werewolf's Chain"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Werewolf's Chain.md"
 toc: false

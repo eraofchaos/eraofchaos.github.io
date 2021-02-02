@@ -2,7 +2,7 @@
 title: "Pupil of the Departed"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Pupil of the Departed"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Pupil of the Departed.md"
 toc: false

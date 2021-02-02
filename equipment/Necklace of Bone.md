@@ -2,7 +2,7 @@
 title: "Necklace of Bone"
 permalink: /equipment/Necklace of Bone/
 excerpt: "Necklace of Bone"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Necklace of Bone.md"
 toc: false

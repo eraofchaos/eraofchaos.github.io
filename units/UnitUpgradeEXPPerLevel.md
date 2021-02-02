@@ -2,7 +2,7 @@
 title: "Unit EXP Upgrade cost per Level"
 permalink: /units/UnitUpgradeEXPPerLevel/
 excerpt: "Unit EXP Upgrade cost per Level"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "UnitUpgradeEXPPerLevel.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Order"
 permalink: /Emblem/Type Order/
 excerpt: "Holy Emblem - Order"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "typeOrder.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Fatal Jaw Weapon"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "Fatal Jaw Weapon"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Fatal Jaw Weapon.md"
 toc: false

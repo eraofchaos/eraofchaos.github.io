@@ -2,7 +2,7 @@
 title: "Combination Info for Static"
 permalink: /combination/Static/
 excerpt: "Combination Info - Static. Units and Heroes Formation."
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Static.md"
 toc: false

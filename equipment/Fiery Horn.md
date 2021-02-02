@@ -2,7 +2,7 @@
 title: "Fiery Horn"
 permalink: /equipment/Fiery Horn/
 excerpt: "Fiery Horn"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Fiery Horn.md"
 toc: false

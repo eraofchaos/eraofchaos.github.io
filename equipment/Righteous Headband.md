@@ -2,7 +2,7 @@
 title: "Righteous Headband"
 permalink: /equipment/Righteous Headband/
 excerpt: "Righteous Headband"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Righteous Headband.md"
 toc: false

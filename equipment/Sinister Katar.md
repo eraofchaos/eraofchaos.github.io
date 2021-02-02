@@ -2,7 +2,7 @@
 title: "Sinister Katar"
 permalink: /equipment/Sinister Katar/
 excerpt: "Sinister Katar"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sinister Katar.md"
 toc: false

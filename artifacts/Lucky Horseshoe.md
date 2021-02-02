@@ -2,7 +2,7 @@
 title: "Artifacts - Lucky Horseshoe"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Lucky Horseshoe A holy relic filled with force. Able to increase attack for an army."
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Lucky Horseshoe.md"
 toc: false

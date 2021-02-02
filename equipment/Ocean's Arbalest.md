@@ -2,7 +2,7 @@
 title: "Ocean's Arbalest"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "Ocean's Arbalest"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ocean's Arbalest.md"
 toc: false

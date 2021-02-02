@@ -2,7 +2,7 @@
 title: "Vine's Armor"
 permalink: /equipment/Vine's Armor/
 excerpt: "Vine's Armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Vine's Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artifacts - Ring of the Mage"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Ring of the Mage Magical ring forged from enchanted items. Able to increase spell damage."
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ring of the Mage.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Red Dragon"
 toc: true
@@ -85,7 +85,7 @@ toc: true
 
 ## Skills
 ### Ultimate Skill: Roaring Blaze
- **Description:** <span style="color: #645252;font-size:20px">Red Dragon roars every 15s, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK to all enemy Ranged/Caster units, while dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to all enemy Melee units while adding a Hatred mark, which stacks up to 4 times. Damage dealt by &lt;Roaring Blaze&gt; increases by 20% for every Hatred mark an enemy unit has. Increases Red Dragon's Unit DMG by 50% when fighting against Tower units.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Red Dragon roars every 15s, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK to all enemy Ranged/Caster units, while dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to all enemy Melee units while adding a Hatred mark, which stacks up to 4 times. Damage dealt by &lt;Roaring Blaze&gt; increases by 20% for every Hatred mark an enemy unit has. Increases Red Dragon's Unit DMG by 50% and Unit DMG reduction by 50% when fighting against Tower units.</span><span style="color: black">
 
 ### Regular Skill 1 : Blazebreath
  **Description:** <span style="color: #645252;font-size:20px">Red Dragon unit's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.3+5.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> extra damage to 2 units around the target within a certain range, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 8s. For Tower Faction units, red Dragon's damage will increase 50%</span><span style="color: black">
@@ -102,13 +102,13 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Dungeon (Dungeon Rosters)
-* Offensive (Offensive Unit Roster)
+* **Dungeon**  (Dungeon Rosters)
+* **Offensive**  (Offensive Unit Roster)
 
 ### Hero Bonus
-* [Kendal](/heroes/Kendal/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

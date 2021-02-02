@@ -2,7 +2,7 @@
 title: "Scalding Teeth"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Scalding Teeth"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Scalding Teeth.md"
 toc: false

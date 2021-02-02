@@ -2,7 +2,7 @@
 title: "Rams-head Staff"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Rams-head Staff"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Rams-head Staff.md"
 toc: false

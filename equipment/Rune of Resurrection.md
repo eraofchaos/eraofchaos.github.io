@@ -2,7 +2,7 @@
 title: "Rune of Resurrection"
 permalink: /equipment/Rune of Resurrection/
 excerpt: "Rune of Resurrection"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Rune of Resurrection.md"
 toc: false

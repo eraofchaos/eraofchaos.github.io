@@ -2,7 +2,7 @@
 title: "Beholder of Sapphire"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "Beholder of Sapphire"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Beholder of Sapphire.md"
 toc: false

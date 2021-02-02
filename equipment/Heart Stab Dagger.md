@@ -2,7 +2,7 @@
 title: "Heart Stab Dagger"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Heart Stab Dagger"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Heart Stab Dagger.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Stone Key to the Gates"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Holy Emblem - Neutral - Stone Key to the Gates"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Stone Key to the Gates.md"
 toc: false

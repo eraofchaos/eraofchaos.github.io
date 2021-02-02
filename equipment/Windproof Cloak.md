@@ -2,7 +2,7 @@
 title: "Windproof Cloak"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Windproof Cloak"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Windproof Cloak.md"
 toc: false

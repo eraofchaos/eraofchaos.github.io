@@ -2,7 +2,7 @@
 title: "Dress of Requiem"
 permalink: /equipment/Dress of Requiem/
 excerpt: "Dress of Requiem"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Dress of Requiem.md"
 toc: false

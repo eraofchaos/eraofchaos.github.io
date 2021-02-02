@@ -2,7 +2,7 @@
 title: "Light Gauntlets"
 permalink: /equipment/Light Gauntlets/
 excerpt: "Light Gauntlets"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Light Gauntlets.md"
 toc: false

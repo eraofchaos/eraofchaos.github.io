@@ -2,7 +2,7 @@
 title: "Boiling Shield"
 permalink: /equipment/Boiling Shield/
 excerpt: "Boiling Shield"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Boiling Shield.md"
 toc: false

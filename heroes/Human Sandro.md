@@ -3,7 +3,7 @@ title: "Human Sandro"
 permalink: /heroes/Human Sandro/
 excerpt: "Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him."
 heroID: 60503
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Human Sandro"
 toc: true

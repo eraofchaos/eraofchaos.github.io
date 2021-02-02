@@ -2,7 +2,7 @@
 title: "Bleak Barb"
 permalink: /equipment/Bleak Barb/
 excerpt: "Bleak Barb"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Bleak Barb.md"
 toc: false

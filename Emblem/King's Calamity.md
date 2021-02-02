@@ -2,7 +2,7 @@
 title: "Holy Emblem - King's Calamity"
 permalink: /Emblem/King's Calamity/
 excerpt: "Holy Emblem - Evil - King's Calamity"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "King's Calamity.md"
 toc: false

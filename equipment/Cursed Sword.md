@@ -2,7 +2,7 @@
 title: "Cursed Sword"
 permalink: /equipment/Cursed Sword/
 excerpt: "Cursed Sword"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Cursed Sword.md"
 toc: false

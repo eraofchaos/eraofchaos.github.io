@@ -2,7 +2,7 @@
 title: "Sinister Light Armor"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "Sinister Light Armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sinister Light Armor.md"
 toc: false

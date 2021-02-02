@@ -2,7 +2,7 @@
 title: "Holy Emblem - Guardian Angel"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Holy Emblem - Goodness - Guardian Angel"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Guardian Angel.md"
 toc: false

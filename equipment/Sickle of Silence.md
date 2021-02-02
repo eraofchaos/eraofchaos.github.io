@@ -2,7 +2,7 @@
 title: "Sickle of Silence"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Sickle of Silence"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Sickle of Silence.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Claws of Decay"
 permalink: /equipment/Claws of Decay/
 excerpt: "Claws of Decay"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Claws of Decay.md"
 toc: false

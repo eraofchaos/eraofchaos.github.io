@@ -2,7 +2,7 @@
 title: "Holy Emblem - Queen's Blessing"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Holy Emblem - Order - Queen's Blessing"
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Queen's Blessing.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king."
 heroID: 60801
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Xeron"
 toc: true
@@ -53,6 +53,16 @@ toc: true
 
  **Description:** <span style="color: #ffffff;font-size:20px">I will make this inhumane kingdom disappear from the earth. Every creature that breathes will receive the sentence of fire and sulfur!</span>
 
+
+### Skin 2: **Spring Festival Celebrations**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">The arrival of spring heralds a happy new year. The festival fireworks celebrate the change of seasons.</span>
+
+ **Skin features:** 
+
+   - Warrior at the Ceremony
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
 
 
 ## Initial Mastery

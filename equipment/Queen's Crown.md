@@ -2,7 +2,7 @@
 title: "Queen's Crown"
 permalink: /equipment/Queen's Crown/
 excerpt: "Queen's Crown"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Queen's Crown.md"
 toc: false

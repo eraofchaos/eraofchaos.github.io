@@ -2,7 +2,7 @@
 title: "Spiked Bracers"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Spiked Bracers"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Spiked Bracers.md"
 toc: false

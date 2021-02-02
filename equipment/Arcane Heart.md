@@ -2,7 +2,7 @@
 title: "Arcane Heart"
 permalink: /equipment/Arcane Heart/
 excerpt: "Arcane Heart"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Arcane Heart.md"
 toc: false

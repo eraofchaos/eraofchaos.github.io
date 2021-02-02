@@ -2,7 +2,7 @@
 title: "Red Copper Bracer"
 permalink: /equipment/Red Copper Bracer/
 excerpt: "Red Copper Bracer"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Red Copper Bracer.md"
 toc: false

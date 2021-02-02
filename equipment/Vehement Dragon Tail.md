@@ -2,7 +2,7 @@
 title: "Vehement Dragon Tail"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Vehement Dragon Tail"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Vehement Dragon Tail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Mystic Gold Lamp"
 permalink: /equipment/Mystic Gold Lamp/
 excerpt: "Mystic Gold Lamp"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Mystic Gold Lamp.md"
 toc: false

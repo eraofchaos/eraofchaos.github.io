@@ -2,7 +2,7 @@
 title: "Rusted Pauldrons"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "Rusted Pauldrons"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Rusted Pauldrons.md"
 toc: false

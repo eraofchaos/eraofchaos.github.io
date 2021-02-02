@@ -2,7 +2,7 @@
 title: "Artifacts"
 permalink: /artifacts/
 excerpt: "Lis of all Artifacts in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "index.md"
 toc: false

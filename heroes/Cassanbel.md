@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea."
 heroID: 61701
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Cassanbel"
 toc: true
@@ -51,6 +51,16 @@ toc: true
 
  **Description:** <span style="color: #ffffff;font-size:20px">I will protect the puny Underwaters, and I will wipe out the bullying pirates!</span>
 
+
+### Skin 2: **Heart-pounding Summer**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Even during the heat of summer, I still want to spread sweetness all over the world!</span>
+
+ **Skin features:** 
+
+   - Angel of Budding Love
+   - All-new Battle Image
+   - Unique Avatar
 
 
 ## Initial Mastery

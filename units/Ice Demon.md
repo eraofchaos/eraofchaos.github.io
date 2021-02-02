@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Units Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves."
 unitID: 908
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Ice Demon"
 toc: true
@@ -68,10 +68,10 @@ toc: true
 
   |  Equipment  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_9081](/equipment/UnknownEquipment_9081/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_9082](/equipment/UnknownEquipment_9082/) | **HP** | **DEF** | 
-  | [UnknownEquipment_9083](/equipment/UnknownEquipment_9083/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_9084](/equipment/UnknownEquipment_9084/) | **HP** | **DEF** | 
+  | [Ancient Ice](/equipment/Ancient Ice/) | **ATK** | **DEF** | 
+  | [Frost Touch](/equipment/Frost Touch/) | **HP** | **DEF** | 
+  | [Frigid Helm](/equipment/Frigid Helm/) | **ATK** | **DEF** | 
+  | [Throne of Ice](/equipment/Throne of Ice/) | **HP** | **DEF** | 
 
 ## Recommended Holy Emblems
 
@@ -108,12 +108,12 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Conflux (Conflux Roster)
-* Ranged (Ranged Roster)
+* **Conflux**  (Conflux Roster)
+* **Ranged**  (Ranged Roster)
 
 ### Hero Bonus
-* [Gelu](/heroes/Gelu/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

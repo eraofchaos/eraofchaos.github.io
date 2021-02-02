@@ -2,7 +2,7 @@
 title: "Star Spirit Crown"
 permalink: /equipment/Star Spirit Crown/
 excerpt: "Star Spirit Crown"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Star Spirit Crown.md"
 toc: false

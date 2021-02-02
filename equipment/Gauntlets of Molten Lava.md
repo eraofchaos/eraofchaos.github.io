@@ -2,7 +2,7 @@
 title: "Gauntlets of Molten Lava"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Gauntlets of Molten Lava"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Gauntlets of Molten Lava.md"
 toc: false

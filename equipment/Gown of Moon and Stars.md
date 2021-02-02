@@ -2,7 +2,7 @@
 title: "Gown of Moon and Stars"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Gown of Moon and Stars"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Gown of Moon and Stars.md"
 toc: false

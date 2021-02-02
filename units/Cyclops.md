@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Units Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Cyclops"
 toc: true
@@ -111,13 +111,13 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* Stronghold (Stronghold Roster)
-* Ranged (Ranged Roster)
+* **Stronghold**  (Stronghold Roster)
+* **Ranged**  (Ranged Roster)
 
 ### Hero Bonus
-* [Gelu](/heroes/Gelu/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Yog](/heroes/Yog/) *   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/) *   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/heroes/Yog/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -131,40 +131,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Cyclops King
 
- **Awaking Description:** null
+ **Awaking Description:** The wrathful Cyclops Kings rained boulders down on the city, and the city walls collapsed amidst the sound of screams. Despite that, the Cyclops Kings attacking the city will never cease their attacks, for they have an insatiable thirst for battle.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Cyclops with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Ranged units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #876741;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> resources during a Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Cyclops King souls in the Underground: Levels 16-2 and 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Cyclops with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Ranged units and win </span><span style="color: #1ca216;font-size:18px">12</span><span style="color: #876741;font-size:18px"> battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Paralyzing Boulder
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flamestone&gt;</span><span style="color: #645252;font-size:18px"> Increases skill damage by 50% and additionally inflicts Paralysis on hit enemies for 5s.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Boulder Slam
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flamestone&gt;</span><span style="color: #645252;font-size:18px"> Increases skill damage by 50% and additionally inflicts Stun on hit enemies for 5s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Furious Strike
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Siege Strike&gt;</span><span style="color: #645252;font-size:18px"> Increases Cyclops' Attack Speed by 20%. Attack Speed increases by 1% for every level &lt;Siege Strike&gt; gains. Effect doubles when HP falls below 35%. (Effect remains even after HP is restored. Skill is affected by Crag Hack's 3-star specialties.)</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Beastial Blood
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Siege Strike&gt;</span><span style="color: #645252;font-size:18px"> Increases Cyclops' Critical Hit by 200. Critical Hit increases by 40 for every level &lt;Siege Strike&gt; gains. Effect doubles when HP falls below 35%. (Effect remains even after HP is restored. Skill is affected by Crag Hack's 3-star specialties.)</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Deterring Eye
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giant&gt;</span><span style="color: #645252;font-size:18px"> Whenever Cyclops attacks 1-man or 4-man units, there is a 30% chance of decreasing the target unit's Unit DMG Reduction by 25% for 2s.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Beastial Quake
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Giant&gt;</span><span style="color: #645252;font-size:18px"> Whenever Cyclops attacks 1-man or 4-man units, there is a 30% chance of decreasing the target unit's DEF by 15% for 2s.</span>
 
 ## Technical info
  **runart:** 0

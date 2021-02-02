@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Gelu"
 toc: true
@@ -91,6 +91,16 @@ toc: true
  **Skin features:** 
 
    - Guerrilla Commander Looking for a Chance to Attack
+   - All-new Battle Image
+   - Unique Avatar
+
+### Skin 5: **Spring Festival Celebrations**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">The arrival of spring heralds a happy new year. The festival fireworks celebrate the change of seasons.</span>
+
+ **Skin features:** 
+
+   - Warrior at the Ceremony
    - All-new Battle Image
    - Unique Avatar
 

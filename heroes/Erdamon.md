@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /heroes/Erdamon/
 excerpt: "Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war."
 heroID: 60703
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "Erdamon"
 toc: true

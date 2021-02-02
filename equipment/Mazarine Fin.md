@@ -2,7 +2,7 @@
 title: "Mazarine Fin"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Mazarine Fin"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Mazarine Fin.md"
 toc: false

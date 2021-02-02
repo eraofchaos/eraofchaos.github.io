@@ -2,7 +2,7 @@
 title: "Eternal Tear"
 permalink: /equipment/Eternal Tear/
 excerpt: "Eternal Tear"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Eternal Tear.md"
 toc: false

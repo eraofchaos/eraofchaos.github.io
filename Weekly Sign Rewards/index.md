@@ -2,11 +2,37 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-02
 lang: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 9  Conflux Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **1 Mar** | **5x Sprite**  | A squad of Sprite joined your army and you become stronger! |
+  | **2 Mar** | **3x Ice Elemental**  | A squad of Ice Elemental joined your army and you become stronger! |
+  | **3 Mar** | **100x gem**  | The creatures of the Conflux Plane present you a small cluster of Diamonds! |
+  | **4 Mar** | **3x Stone Elemental**  | A squad of Stone Elemental joined your army and you become stronger! |
+  | **5 Mar** | **3x Storm Elemental**  | A squad of Storm Elemental joined your army and you become stronger! |
+  | **6 Mar** | **5x Conflux Unit Chest**  | Your troops brought you several chests filled with elemental power! |
+  | **7 Mar** | **5x Luna**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
+
+#### 2021 Week 8  Tower Week
+
+  |  Date  |      Reward    |    Reward description    |
+  |:-------|:---------------|:------------------------:|
+  | **22 Feb** | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
+  | **23 Feb** | **3x Stone Gargoyle**  | A squad of Stone Gargoyle joined your army and you become stronger! |
+  | **24 Feb** | **100x gem**  | You got some unexpected surprises during your study of alchemy! |
+  | **25 Feb** | **3x Iron Golem**  | A squad of Iron Golem joined your army and you become stronger! |
+  | **26 Feb** | **3x Tower Unit Chest**  | You discovered several beautiful chests in the Tower's arcane laboratory! |
+  | **27 Feb** | **3x Mage**  | A squad of Mage joined your army and you become stronger! |
+  | **28 Feb** | **5x Solmyr**  | Your research of the Arcane has attracted Solmyr to join your army! |
+
 
 #### 2021 Week 7  Cove Week
 
@@ -17,8 +43,8 @@ toc: true
   | **17 Feb** | **100x gem**  | The creatures of the pirate harbor present you a small cluster of Diamonds! |
   | **18 Feb** | **3x Cove Faction Chest**  | Your harbor corps has presented you with a number of valuable treasure chests! |
   | **19 Feb** | **3x Cove Roster runes**  | Your harbor corps has presented you with a number of valuable treasure runes! |
-  | **20 Feb** | **6x Regnan Serpent**  | A squad of Dragon Turtle joined your army and you become stronger! |
-  | **21 Feb** | **3x Universal Hero Tokens**  | The creatures of the Pirate Cove present you with a Universal (Hero) Token! |
+  | **20 Feb** | **1x Dragon Turtle**  | A squad of Dragon Turtle joined your army and you become stronger! |
+  | **21 Feb** | **1x Universal Hero Tokens**  | The creatures of the Pirate Cove present you with a Universal (Hero) Token! |
 
 
 #### 2021 Week 6  Rampart Week

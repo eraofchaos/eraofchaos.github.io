@@ -2,7 +2,7 @@
 title: "Mystic's Cap"
 permalink: /equipment/Mystic's Cap/
 excerpt: "Mystic's Cap"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Mystic's Cap.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Mark of the Ocean"
 permalink: /equipment/Mark of the Ocean/
 excerpt: "Mark of the Ocean"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Mark of the Ocean.md"
 toc: false

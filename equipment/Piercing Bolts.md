@@ -2,7 +2,7 @@
 title: "Piercing Bolts"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Piercing Bolts"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Piercing Bolts.md"
 toc: false

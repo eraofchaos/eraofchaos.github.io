@@ -2,7 +2,7 @@
 title: "Steel Cap"
 permalink: /equipment/Steel Cap/
 excerpt: "Steel Cap"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Steel Cap.md"
 toc: false

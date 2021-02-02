@@ -2,7 +2,7 @@
 title: "Toxic Thorn"
 permalink: /equipment/Toxic Thorn/
 excerpt: "Toxic Thorn"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Toxic Thorn.md"
 toc: false

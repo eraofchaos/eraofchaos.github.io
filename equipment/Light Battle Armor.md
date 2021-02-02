@@ -2,7 +2,7 @@
 title: "Light Battle Armor"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Light Battle Armor"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Light Battle Armor.md"
 toc: false

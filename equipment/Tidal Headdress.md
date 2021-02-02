@@ -2,7 +2,7 @@
 title: "Tidal Headdress"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Tidal Headdress"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Tidal Headdress.md"
 toc: false

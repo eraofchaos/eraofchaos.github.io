@@ -2,7 +2,7 @@
 title: "Observation Deck"
 permalink: /equipment/Observation Deck/
 excerpt: "Observation Deck"
-last_modified_at: 2021-01-27
+last_modified_at: 2021-02-02
 lang: en
 ref: "Observation Deck.md"
 toc: false
